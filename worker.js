@@ -20,7 +20,7 @@ async function workflowStarten(env, datei, inputs) {   // shortcut: nur noch von
       headers: {
         Authorization: `Bearer ${env.GH_DISPATCH_TOKEN}`,
         Accept: "application/vnd.github+json",
-        "User-Agent": "ligaoutsider-zeitplan",
+        "User-Agent": "lo-zeitplan",
         "X-GitHub-Api-Version": "2022-11-28",
       },
       body: JSON.stringify({ ref: "main", inputs }),
@@ -35,7 +35,7 @@ async function laufStarten(env, zeit) {
       headers: {
         Authorization: `Bearer ${env.GH_DISPATCH_TOKEN}`,
         Accept: "application/vnd.github+json",
-        "User-Agent": "ligaoutsider-zeitplan",
+        "User-Agent": "lo-zeitplan",
         "X-GitHub-Api-Version": "2022-11-28",
       },
       body: JSON.stringify({ ref: "main", inputs: {

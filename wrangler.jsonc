@@ -2,7 +2,7 @@
 // html_handling "none": Adressen behalten ihr ".html" (so stehen sie bei Google);
 // Cloudflare Pages würde sie abschneiden und umleiten.
 {
-  "name": "ligaoutsider-2liga",
+  "name": "lo2",
   "main": "worker.js",
   "compatibility_date": "2026-10-01",
   "assets": {
