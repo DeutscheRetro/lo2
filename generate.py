@@ -329,14 +329,22 @@ def badge_fuer_kategorie(kategorie: str) -> tuple:
     return BADGE_KATEGORIEN.get(kategorie.lower(), ("News", "#e8c000", "#000"))
 
 
+def _atomar_schreiben(pfad: Path, text: str):
+    """Erst in eine Nebendatei, dann umbenennen: ein Absturz mitten im Schreiben lässt keine halbe Datei zurück."""
+    tmp = pfad.with_name(pfad.name + ".tmp")
+    tmp.write_text(text, encoding="utf-8")
+    os.replace(tmp, pfad)
+
+
 def feed_laden() -> list:
     """Lädt feed.json – merged lokale Datei mit live Version von der Live-Seite."""
     lokal = []
     if FEED_JSON.exists():
         try:
             lokal = json.loads(FEED_JSON.read_text(encoding="utf-8"))
-        except Exception:
-            pass
+        except Exception as ex:
+            # Nicht mit leerer Liste weitermachen: feed_speichern würde das ganze Archiv überschreiben
+            raise RuntimeError(f"feed.json nicht lesbar, Lauf abgebrochen: {ex}")
 
     live = []   # kein Abgleich mit einer Live-Seite: diese Kopie hat ihren eigenen Feed
 
@@ -361,10 +369,7 @@ def feed_speichern(artikel_liste: list):
     # Neueste zuerst
     from datetime import datetime
     artikel_liste.sort(key=lambda x: datetime.strptime(x["datum"], "%d.%m.%Y %H:%M"), reverse=True)
-    FEED_JSON.write_text(
-        json.dumps(artikel_liste[:100_000], ensure_ascii=False, indent=2),
-        encoding="utf-8"
-    )
+    _atomar_schreiben(FEED_JSON, json.dumps(artikel_liste[:100_000], ensure_ascii=False, indent=2))
 
 
 # ─── KI-Funktionen ────────────────────────────────────────────────────────────
@@ -699,12 +704,13 @@ def lade_news_archive() -> list[dict]:
     if NEWS_ARCHIVE_JSON.exists():
         try:
             return json.loads(NEWS_ARCHIVE_JSON.read_text(encoding="utf-8"))
-        except Exception:
-            pass
+        except Exception as ex:
+            # Ein leeres Archiv würde das Dublettengedächtnis löschen
+            raise RuntimeError(f"news_archive.json nicht lesbar, Lauf abgebrochen: {ex}")
     return []
 
 def speichere_news_archive(archive: list[dict]):
-    NEWS_ARCHIVE_JSON.write_text(json.dumps(archive, ensure_ascii=False, indent=2), encoding="utf-8")
+    _atomar_schreiben(NEWS_ARCHIVE_JSON, json.dumps(archive, ensure_ascii=False, indent=2))
 
 def final_pre_publish_check(titel: str, fp: dict, archive: list[dict]) -> bool:
     """True = Duplikat (skip), False = neu publizieren.
@@ -3136,23 +3142,31 @@ VEREIN_VON_SLUG = {v: k for k, v in VEREIN_SLUG.items()}
 _LIGA_SPIELE = None
 
 def liga_spiele() -> list:
-    """Alle Spiele der laufenden Saison (OpenLigaDB), einmal je Lauf geladen."""
+    """Alle Spiele der laufenden Saison (OpenLigaDB), einmal je Lauf geladen (auch ein Fehlschlag, damit 18 Vereine nicht 18-mal warten)."""
     global _LIGA_SPIELE
-    if _LIGA_SPIELE is None:
-        import requests as _r
+    if _LIGA_SPIELE is not None:
+        return _LIGA_SPIELE
+    import requests as _r
+    _LIGA_SPIELE = []
+    try:
+        antwort = _r.get(f"https://api.openligadb.de/getmatchdata/{LIGA_API}/{SAISON}", timeout=20)
+        antwort.raise_for_status()
+        roh = antwort.json()
+        if not isinstance(roh, list):
+            raise ValueError("unerwartete Antwort")
+    except Exception as ex:
+        print(f"⚠️  Spielplan nicht erreichbar: {ex}")
+        return _LIGA_SPIELE
+    for m in roh:
         try:
-            roh = _r.get(f"https://api.openligadb.de/getmatchdata/{LIGA_API}/{SAISON}", timeout=20).json()
-        except Exception as ex:
-            print(f"⚠️  Spielplan nicht erreichbar: {ex}")
-            return []
-        _LIGA_SPIELE = []
-        for m in roh:
             erg = next((x for x in m.get("matchResults") or [] if x.get("resultTypeID") == 2), None) or (m.get("matchResults") or [None])[-1]
             _LIGA_SPIELE.append({
                 "zeit": m["matchDateTime"], "tag": (m.get("group") or {}).get("groupOrderID", 0),
                 "heim": m["team1"]["teamName"], "gast": m["team2"]["teamName"],
                 "fertig": bool(m.get("matchIsFinished")) and erg is not None,
                 "tore": (erg["pointsTeam1"], erg["pointsTeam2"]) if erg else None})
+        except (KeyError, TypeError, AttributeError):
+            continue   # unvollständiges Spiel überspringen, der Rest zählt
     return _LIGA_SPIELE
 
 
@@ -3202,8 +3216,10 @@ def verein_seiten():
     Path("verein").mkdir(exist_ok=True)
     uebersicht = []
     for kurz, stem, voll, _keys in VEREINE:
-        news = [a for a in feed if kurz in (a.get("vereine") or []) and Path(a["pfad"]).exists()][:40]
+        news = [a for a in feed if kurz in (a.get("vereine") or []) and a.get("pfad") and a.get("datum") and Path(a["pfad"]).exists()][:40]
         naechste, ergebnisse = _verein_spiele(voll)
+        if not naechste and not ergebnisse and liga_spiele():
+            print(f"⚠️  Keine Spiele für {voll}: stimmt der Name mit OpenLigaDB überein?")
         news_html = "".join(
             f'<a href="../{e(a["pfad"])}"><span>{e(a["titel"])}</span><small>{e(a["datum"].split(" ")[0])}</small></a>'
             for a in news) or "<p>Noch keine Meldungen.</p>"
@@ -4188,16 +4204,19 @@ if __name__ == "__main__":
     # Reihenfolge: News schreiben, dann die festen Seiten (Vereine) aus dem Feed bauen.
     # Ein Fehler im News-Teil darf den Seitenbau nicht blockieren; er wird laut gemeldet (Exit-Code 1),
     # nachdem alles Weitere gelaufen ist, damit der Lauf nicht grün meldet.
+    import traceback
     _fehler = []
     try:
         main()
     except Exception as e:
         print(f"❌ main (News) Fehler: {e}")
+        traceback.print_exc()
         _fehler.append(e)
     try:
         verein_seiten()
     except Exception as e:
         print(f"❌ verein_seiten Fehler: {e}")
+        traceback.print_exc()
         _fehler.append(e)
     if _fehler:
         sys.exit(1)
