@@ -1,0 +1,126 @@
+// Einstieg für Cloudflare: /api geht an die Funktion, alles andere sind statische Dateien.
+// Dazu der Zeitplan der News-Pipeline: Cloudflare startet sie pünktlich über die
+// GitHub-API (GitHubs eigene Zeitpläne kamen nachts mehrere Stunden zu spät).
+import { onRequest as api } from "./functions/api.js";
+
+// Berliner Zeit, jeden Tag gleich (wie ki_budget.LAUFPLAN_BERLIN)
+const LAUFPLAN = ["06:00", "09:00", "12:00", "15:00", "18:00", "21:00"];
+const QUALITAET = ["12:00", "18:00"];   // danach prüft Opus die neuen Artikel
+
+function berlinZeit(datum) {
+  const t = new Intl.DateTimeFormat("de-DE", { timeZone: "Europe/Berlin", hour: "2-digit",
+                                               minute: "2-digit", hour12: false }).format(datum);
+  return t.replace(/^24/, "00");
+}
+
+async function workflowStarten(env, datei, inputs) {   // shortcut: nur noch von laufStarten genutzt, bleibt für weitere Workflows
+  const res = await fetch(
+    `https://api.github.com/repos/DeutscheRetro/lo2/actions/workflows/${datei}/dispatches`, {
+      method: "POST",
+      headers: {
+        Authorization: `Bearer ${env.GH_DISPATCH_TOKEN}`,
+        Accept: "application/vnd.github+json",
+        "User-Agent": "ligaoutsider-zeitplan",
+        "X-GitHub-Api-Version": "2022-11-28",
+      },
+      body: JSON.stringify({ ref: "main", inputs }),
+    });
+  if (!res.ok) throw new Error(`GitHub ${res.status}: ${(await res.text()).slice(0, 200)}`);
+}
+
+async function laufStarten(env, zeit) {
+  const res = await fetch(
+    "https://api.github.com/repos/DeutscheRetro/lo2/actions/workflows/update.yml/dispatches", {
+      method: "POST",
+      headers: {
+        Authorization: `Bearer ${env.GH_DISPATCH_TOKEN}`,
+        Accept: "application/vnd.github+json",
+        "User-Agent": "ligaoutsider-zeitplan",
+        "X-GitHub-Api-Version": "2022-11-28",
+      },
+      body: JSON.stringify({ ref: "main", inputs: {
+        reason: `Zeitplan ${zeit}`,
+        qualitaet: QUALITAET.includes(zeit) ? "true" : "false",
+      } }),
+    });
+  if (!res.ok) throw new Error(`GitHub ${res.status}: ${(await res.text()).slice(0, 200)}`);
+}
+
+// Lesezugriffe der Seiten laufen über die eigene Domain. Werbe- und Tracking-Blocker sperren
+// sonst die Anfragen an supabase.co (fremde Domain), und Kommentare, Forum, Profile bleiben leer.
+// Nur GET/HEAD auf die REST-Schnittstelle; Schreiben geht weiterhin über /api.
+async function supabaseLesen(request, url) {
+  if (request.method !== "GET" && request.method !== "HEAD")
+    return new Response("Nur lesen", { status: 405 });
+  const ziel = "https://rsodjlglzwlscamdlwev.supabase.co" + url.pathname.slice(3) + url.search;
+  const kopf = new Headers();
+  for (const k of ["apikey", "authorization", "accept", "range", "accept-profile", "prefer"]) {
+    const v = request.headers.get(k);
+    if (v) kopf.set(k, v);
+  }
+  const res = await fetch(ziel, { method: request.method, headers: kopf });
+  const antwort = new Response(res.body, res);
+  antwort.headers.set("Cache-Control", "no-store");
+  return antwort;
+}
+
+// Alte Adressen aus der Netlify-Zeit (ohne .html, oder nur /artikel/<id>) laufen sonst in 404 und
+// bleiben in der Search Console hängen: auf die echte Seite umleiten, Verschwundenes mit 410 melden.
+async function alteAdresse(request, env, url, res404) {
+  const p = url.pathname;
+  if (!/\.[a-z0-9]{2,5}$/i.test(p)) {
+    const mitHtml = new URL(url); mitHtml.pathname = p + ".html";
+    const probe = await env.ASSETS.fetch(new Request(mitHtml, { method: "HEAD" }));
+    if (probe.ok) return Response.redirect(mitHtml.toString(), 301);
+  }
+  const art = p.match(/^\/artikel\/(?:[a-z0-9-]*-)?([0-9a-f]{10})(?:\.html)?$/);
+  if (art) {
+    try {
+      const feed = await (await env.ASSETS.fetch(new Request(new URL("/feed.json", url)))).json();
+      const treffer = feed.find(a => a.id === art[1] || String(a.pfad || "").endsWith(`-${art[1]}.html`));
+      if (treffer && treffer.pfad) return Response.redirect(new URL("/" + treffer.pfad.replace(/^\//, ""), url).toString(), 301);
+    } catch (e) { /* feed nicht lesbar: unten 410 */ }
+  }
+  if (/^\/(artikel|spieler)\//.test(p))
+    return new Response("Diese Seite gibt es nicht mehr.", { status: 410, headers: { "Content-Type": "text/plain; charset=utf-8" } });
+  return res404;
+}
+
+export default {
+  async fetch(request, env) {
+    const url = new URL(request.url);
+    // Nur https ausliefern: http-Aufrufe dauerhaft umleiten (sonst gibt es jede Seite doppelt)
+    if (url.protocol === "http:" && url.hostname !== "localhost" && url.hostname !== "127.0.0.1") {
+      url.protocol = "https:";
+      return Response.redirect(url.toString(), 301);
+    }
+    if (url.pathname === "/api") return api({ request, env });
+    if (url.pathname.startsWith("/sb/rest/v1/")) return supabaseLesen(request, url);
+    // Ordneradressen ("/", "/spieler/") zeigen ihre index.html – mit html_handling
+    // "none" macht Cloudflare das nicht von selbst
+    if (url.pathname.endsWith("/")) {
+      url.pathname += "index.html";
+      return env.ASSETS.fetch(new Request(url, request));
+    }
+    const res = await env.ASSETS.fetch(request);
+    if (res.status === 404 && (request.method === "GET" || request.method === "HEAD")) return alteAdresse(request, env, url, res);
+    return res;
+  },
+
+  // Cron-Trigger alle 30 Minuten (UTC); gestartet wird nur zu den Berliner Planzeiten.
+  // So stimmt der Plan auch nach der Zeitumstellung, ohne die Cron-Zeiten anzufassen.
+  async scheduled(event, env, ctx) {
+    if (!env.GH_DISPATCH_TOKEN) {
+      console.error("GH_DISPATCH_TOKEN fehlt – nichts gestartet");
+      return;
+    }
+    const jetzt = new Date(event.scheduledTime);
+    const zeit = berlinZeit(jetzt);
+    // News-Pipeline zu den festen Zeiten (Cron läuft alle 15 Minuten, nur volle/halbe Planzeiten zählen)
+    if (LAUFPLAN.includes(zeit)) {
+      ctx.waitUntil(laufStarten(env, zeit).then(
+        () => console.log(`Lauf ${zeit} gestartet`),
+        (e) => console.error(`Lauf ${zeit} nicht gestartet: ${e.message}`)));
+    }
+  },
+};

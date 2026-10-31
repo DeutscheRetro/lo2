@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /sb/
+Disallow: /api
+Disallow: /chefred.html
+
+Sitemap: https://2liga.ligaoutsider.de/sitemap.xml
+Sitemap: https://2liga.ligaoutsider.de/news-sitemap.xml
