@@ -21,6 +21,11 @@ on:
 env:
   TZ: Europe/Berlin
 
+# Der Lauf committet Artikel und liest den Status früherer Läufe
+permissions:
+  contents: write
+  actions: read
+
 jobs:
   zeitplan:
     runs-on: ubuntu-latest
@@ -62,7 +67,7 @@ jobs:
       - name: Code holen
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ github.token }}   # eingebautes Token reicht (permissions unten): kein eigenes Secret nötig
           # Neuester Stand statt Stand beim Auslösen: ein wartender Lauf muss die Artikel
           # des Laufs davor kennen, sonst schreibt er dieselben Meldungen noch einmal
           ref: main
