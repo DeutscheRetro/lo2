@@ -483,7 +483,8 @@ window.LO_SAISON = (d => d.getMonth() >= 6 ? d.getFullYear() : d.getFullYear() -
   function kontoHaken(u) {
     menuPunkt(u);
     if (!u) konto.laufend = konto.daten = null;
-    const los = () => { sterneVerdrahten(u); vereinKnopf(u); meinVereinLeiste(u); };
+    // 2. Liga: keine "Dein Verein"-Leiste (sie kennt nur die 1.-Liga-Vereine und verlinkt auf Mein Bereich)
+    const los = () => { sterneVerdrahten(u); vereinKnopf(u); };
     if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', los); else los();
   }
   window.netlifyIdentity.on('init', u => kontoHaken(u));
