@@ -1555,7 +1555,7 @@ def artikel_html(
     wappen_html = (
         f'<img src="{wappen_url}" class="artikel-wappen" alt="Wappen" onerror="this.style.display=\'none\'"/>'
         if wappen_url else
-        '<div class="artikel-wappen-placeholder">BL</div>'
+        '<div class="artikel-wappen-placeholder">2. BL</div>'
     )
     vereine_tags_html = ""
     if vereine:

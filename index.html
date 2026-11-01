@@ -346,7 +346,7 @@
               : `<span style="color:var(--text4);min-width:34px;text-align:center;font-size:10px">${fmtTime(m.matchDateTime)}</span>`;
             const badge = m.pokal
               ? `<span style="background:#1565c0;color:#fff;font-size:8px;font-weight:800;padding:1px 4px;border-radius:2px;flex-shrink:0" title="DFB-Pokal">DFB</span>`
-              : `<span style="background:#d32f2f;color:#fff;font-size:8px;font-weight:800;padding:1px 4px;border-radius:2px;flex-shrink:0">BL</span>`;
+              : `<span style="background:#d32f2f;color:#fff;font-size:8px;font-weight:800;padding:1px 4px;border-radius:2px;flex-shrink:0;white-space:nowrap">2. BL</span>`;
             return `<div style="display:flex;align-items:center;gap:7px;padding:5px 12px;border-bottom:1px solid var(--item-border)">
               ${badge}
               <span style="font-size:12px;font-weight:600;color:var(--text2);flex:1;text-align:right">${kürzel(m.team1.teamName)}</span>
