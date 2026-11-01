@@ -27,7 +27,7 @@
   "status": "n",
   "erstmals": "2026-11-01T11:42",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "7191db8068",
@@ -57,7 +57,8 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-01T11:42",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "21e7c8d7d5",
@@ -85,7 +86,8 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-01T11:42",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "6e3d19eeb2",
@@ -113,7 +115,8 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-01T11:42",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "a6f9ac3044",
@@ -141,7 +144,8 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-01T11:42",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "cfc3f56311",
@@ -169,94 +173,8 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-01T11:42",
-  "archiv": []
- },
- {
-  "id": "aa77215d96",
-  "schluessel": "karlsruhe|verletzung",
-  "person": "",
-  "spieler": [],
-  "klub": "Karlsruhe",
-  "klubs": [
-   "Karlsruhe"
-  ],
-  "stufe": "ausfall",
-  "klasse": "verletzung",
-  "titel": "Jubiläumsspiel verschoben: KSC muss auf Franke verzichten",
-  "quellen": [
-   {
-    "url": "https://www.kicker.de/jubilaeumsspiel-verschoben-ksc-muss-auf-franke-verzichten-1266820/artikel#omrss",
-    "aid": "dfdd07f34a",
-    "titel": "Jubiläumsspiel verschoben: KSC muss auf Franke verzichten",
-    "quelle": "kicker 2. Bundesliga News",
-    "beschr": "Nach vier Niederlagen aus den letzten fünf Spielen steht der Karlsruher SC unter Druck - und muss im Duell mit Heidenheim auch noch auf seinen Abwehrchef verzichten.",
-    "zeit": "2026-10-30T14:37"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-01T11:42",
   "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "33f2a6532a",
-  "schluessel": "bielefeld|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Bielefeld",
-  "klubs": [
-   "Bielefeld"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Kornetka bestätigt: Hoffmann steht in Bielefeld zur Verfügung",
-  "quellen": [
-   {
-    "url": "https://www.kicker.de/kornetka-bestaetigt-hoffmann-steht-in-bielefeld-zur-verfuegung-1266607/artikel#omrss",
-    "aid": "fb0cdf8526",
-    "titel": "Kornetka bestätigt: Hoffmann steht in Bielefeld zur Verfügung",
-    "quelle": "kicker 2. Bundesliga News",
-    "beschr": "Eintracht Braunschweig kann auch im anstehenden Gastspiel bei Arminia Bielefeld auf Ron-Thorben Hoffmann zählen. Der Keeper und Kapitän steht zur Verfügung, bestätigte BTSV-Coach Lars Kornetka.",
-    "zeit": "2026-10-29T17:10"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-01T11:42",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "3c23978361",
-  "schluessel": "dresden|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Dresden",
-  "klubs": [
-   "Dresden"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "DFB-Pokal: Dynamo Dresden wirft Schalke 04 raus!",
-  "quellen": [
-   {
-    "url": "https://www.11freunde.de/dfb-pokal/dfb-pokal-dynamo-dresden-wirft-schalke-raus-a-cda2ed18-d982-4fc0-9127-c0278cadc5b4#ref=rss",
-    "aid": "2a7702ab0d",
-    "titel": "DFB-Pokal: Dynamo Dresden wirft Schalke 04 raus!",
-    "quelle": "11FREUNDE - Index",
-    "beschr": "Schalke ist raus, Hannover kriselt weiter und die Bayern machen nach kurzem Schock Bayern-Dinge. Bespricht das Geschehen im DFB-Pokal: das Themenfrühstück.",
-    "zeit": "2026-10-29T18:08"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-01T11:42",
-  "archiv": [],
-  "versuche": 2
+  "versuche": 1
  },
  {
   "id": "051de91a0f",
@@ -284,95 +202,8 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-01T11:42",
-  "archiv": []
- },
- {
-  "id": "3156456e17",
-  "schluessel": "karlsruhe|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Karlsruhe",
-  "klubs": [
-   "Karlsruhe"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Civejas Willensleistung und Wanitzeks Traumfreistoß: KSC gelingt Befreiungsschlag",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUTEzRGowM2cwU2FtQjJBQzdyRWVfOWJCRWlWMWJrVzFMUnZTUjhpZUgtbzZDS3FBbml4Z1pFVF9wajNKcGsyLXJKem42Z1lVVDBGc2lmSHBhekJwM0VKUXZjdUJwSm53V0piSlNFblBVZ3ExOFU0T3o5SUNEN1Z1Q0g5VXNVQQ?oc=5",
-    "aid": "818c3eb7d2",
-    "titel": "Civejas Willensleistung und Wanitzeks Traumfreistoß: KSC gelingt Befreiungsschlag",
-    "quelle": "Kicker",
-    "beschr": " Civejas Willensleistung und Wanitzeks Traumfreistoß: KSC gelingt Befreiungsschlag &nbsp;&nbsp; Kicker ",
-    "zeit": "2026-10-30T13:20"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-01T11:42",
   "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "22b77ae93f",
-  "schluessel": "dresden|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Dresden",
-  "klubs": [
-   "Dresden"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Dynamo Dresden hofft auf Befreiungsschlag bei H96",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZkNQMEtNX1Q4QlA3SVlIaERQcDBhTkhrYVhoMk1DWmc5eWxxM1ppVTBaZXdvNUk1MVRuOFVLWUxWM2JmcXJjZWpxZ3ZNZEJXZUExV3FkQWpUZmJhQ25KdEZxLUhrMFZUMnZMLVppakNYTUg5emFOYnVEQ2JwaUFzaFk0eDhWakctdnQwLUFQOE1JczlxOTRSbjY2TWo0M0xp?oc=5",
-    "aid": "8a9755f238",
-    "titel": "Dynamo Dresden hofft auf Befreiungsschlag bei H96",
-    "quelle": "Tipico",
-    "beschr": " Dynamo Dresden hofft auf Befreiungsschlag bei H96 &nbsp;&nbsp; Tipico ",
-    "zeit": "2026-11-01T11:33"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-01T11:42",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "bb8a6198e2",
-  "schluessel": "bielefeld|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Bielefeld",
-  "klubs": [
-   "Bielefeld",
-   "Braunschweig"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Grodowski-Doppelpack gegen die Zweifel: Bielefeld schlägt harmlose Braunschweiger",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMTB2SmdzNC0tTjFOWlVNUGdaYW9lYW9zT1JWYVBQaGdzeWZZOVluaVh6WHFMeFpHa0VoVnlyRXZsT1dmLTVHRC1rZFBFLXVhUFZtcF9vNWd6QU9uYkFHTGJvQ2QyLTZpbGxiVTI4bDU1TU5KQlozQTRVWW5ZajdBSHBaNzZ4RkFq?oc=5",
-    "aid": "4abc1886c7",
-    "titel": "Grodowski-Doppelpack gegen die Zweifel: Bielefeld schlägt harmlose Braunschweiger",
-    "quelle": "Kicker",
-    "beschr": " Grodowski-Doppelpack gegen die Zweifel: Bielefeld schlägt harmlose Braunschweiger &nbsp;&nbsp; Kicker ",
-    "zeit": "2026-10-30T20:23"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-01T11:42",
-  "archiv": [],
-  "versuche": 2
+  "versuche": 1
  },
  {
   "id": "93434a3a03",
@@ -401,7 +232,7 @@
   "status": "n",
   "erstmals": "2026-11-01T11:42",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "45980504ac",
@@ -431,7 +262,7 @@
   "status": "n",
   "erstmals": "2026-11-01T11:42",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "dd27e2fc85",
@@ -461,7 +292,7 @@
   "status": "n",
   "erstmals": "2026-11-01T11:42",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "7d3a73ac2a",
@@ -491,7 +322,7 @@
   "status": "n",
   "erstmals": "2026-11-01T11:42",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "6cd131dcd2",
@@ -520,65 +351,6 @@
   "status": "n",
   "erstmals": "2026-11-01T11:42",
   "archiv": [],
-  "versuche": 1
- },
- {
-  "id": "f366456599",
-  "schluessel": "hannover|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hannover",
-  "klubs": [
-   "Hannover"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Dynamo in Hannover live: Bei 96 nur Zuschauer! Heute geht's für Jonas Sterner gegen seinen Ex-Club",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPV2hyalY1RTAzUHZCVG5oSU9FNWVkTzZNOHl4aUp2X0lOb05ta3d0Nk1jbHNhcVlGSlUyUm9BajlNVHB3TzU5S1YzMENPN0VoNlZSa2JPQlYya0xKOVA4SmR3Y3NMZElLQ0N1VmdCVzVIbDE5c0NSTmNlUXdRN1RPZXo1Nm4zTDhZbGdfT1NYNlU5LXJvNlpkMXBwSDJCREg0SU9vem04eVpUOW92MUNMcXkxZ3lYaVA0WjB2ZTJ2ck55THZlZDEtWkRpdDdNTmhEeC1ENXd3aDJ5dzV0YW14TFBVbTE0TExZS1lOR1NNYTVCWGt2d2V1bQ?oc=5",
-    "aid": "477146bb06",
-    "titel": "Dynamo in Hannover live: Bei 96 nur Zuschauer! Heute geht's für Jonas Sterner gegen seinen Ex-Club",
-    "quelle": "TAG24",
-    "beschr": " Dynamo in Hannover live: Bei 96 nur Zuschauer! Heute geht's für Jonas Sterner gegen seinen Ex-Club &nbsp;&nbsp; TAG24 ",
-    "zeit": "2026-11-01T10:47"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-01T11:42",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "14729355c1",
-  "schluessel": "dresden|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Dresden",
-  "klubs": [
-   "Dresden",
-   "Hannover"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Dynamo Dresden: Hannover 96 entlässt Sportchef am Tag vor dem Spiel – Dynamo wittert Chance",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNOXhJZlRBczh3RzFVcEg5azdrOTJQUFV4Q0MxbHJSWHM5S09vbFlaZm41ZndGWmFobTg4WG0ya1ByaWtWZDhMM0NTMTVzeHEtUkdsSGV0ajdHblU1YkFVZXNSbF9QTEZUU1p4eW51cEU2VENpNnpnZGUweS1JbjVTamJFbm10RWZmQVEtOVZVR0FGNllpX2k5R0dUeGlTT1QzWGNtanZzYWxBQlFoaVdOcEIxT1VJWVJiM1N4cGxTemVwUGJvZ1BKUEdiaTVWUlhqTVE1dldhSWtxdnNkQ3NJR2VBM21QWkZob3JKcHVXb1lyb291b1HSAZICQVVfeXFMT3JsRi11WExYS3NOdWwxU2dEOTFfQVlBOFByWHYzLTE3UXRIZTUzNWZnZTVzdlBXQ01nWEdpSmxGeS00UFMtcldvMFhlYXF0WHBhWUExU1ZqVGFENWVrMEtkYzU0d0luRmYwMjVTa18zOTVoYndaWDQ3ZmxaMTk2N1Bvdy1fRFM4U0dNa3pFbXJzMHNkVXpjeVl0cmxIaTF5UzBOV1RyWU1YUTIyY2ZFX1VrMUljSkdGakZ1YVpsaGhrQlRtMGkwNVFLZndNSENUandBZEJOa2ZsSzZDSEtiakpfN0lONGpqNGJHeGFXLVZHRGYwV01TcDIzQ1ZWeHB6am5PYUZNemt6ckxEUVFpM2pkdw?oc=5",
-    "aid": "4568ad1041",
-    "titel": "Dynamo Dresden: Hannover 96 entlässt Sportchef am Tag vor dem Spiel – Dynamo wittert Chance",
-    "quelle": "Sächsische Zeitung",
-    "beschr": " Dynamo Dresden: Hannover 96 entlässt Sportchef am Tag vor dem Spiel – Dynamo wittert Chance &nbsp;&nbsp; Sächsische Zeitung ",
-    "zeit": "2026-10-31T19:08"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-01T11:42",
-  "archiv": [],
   "versuche": 2
  },
  {
@@ -601,35 +373,6 @@
     "quelle": "BILD",
     "beschr": " Boss-Beben bei Hannover 96: „Auch ER wird nicht mehr lange da sein“ &nbsp;&nbsp; BILD ",
     "zeit": "2026-10-31T16:42"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-01T11:42",
-  "archiv": [],
-  "versuche": 1
- },
- {
-  "id": "95f02355e4",
-  "schluessel": "hertha|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hertha",
-  "klubs": [
-   "Hertha"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Kolumne „Auslaufen mit Lüdecke“: 100 Punkte, Hertha BSC – doch kein Witz?",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT0lYdlJfTjMzUk5peFVBT1dadTh4UFBtNWRUNG9VY1JuVzEwbTlKbW9ZWWVuWFExRTJmektRQ1Y4aUl3Z3BmQVl4NTRELWJoNWRHWWMwX05sQS1IYWw2MmY5aUJCM3B5aFY3VmhuYlFDUnpIWlAzelo4ZzRxLS0zQ3A3M3dxN3I1aDJRU3NUUUxwR2REc1dSNGwwNDQtMzlXX0dEM0lob0ZuX2VTX01faDREX1llZw?oc=5",
-    "aid": "337e73f3c8",
-    "titel": "Kolumne „Auslaufen mit Lüdecke“: 100 Punkte, Hertha BSC – doch kein Witz?",
-    "quelle": "Tagesspiegel",
-    "beschr": " Kolumne „Auslaufen mit Lüdecke“: 100 Punkte, Hertha BSC – doch kein Witz? &nbsp;&nbsp; Tagesspiegel ",
-    "zeit": "2026-11-01T11:38"
    }
   ],
   "archiv_status": "neu",
@@ -666,36 +409,6 @@
   "status": "n",
   "erstmals": "2026-11-01T11:42",
   "archiv": [],
-  "versuche": 1
- },
- {
-  "id": "76a60cc0b3",
-  "schluessel": "hertha|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hertha",
-  "klubs": [
-   "Hertha",
-   "Kaiserslautern"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Hertha jubelt in Kaiserslautern: Ringkämpfer Gechter, Pedersen teilt das Meer",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTUticGNzMzRrVUdWNHhHczZaYVVXSVFfaXV1Wlg2NUkzV3FyV3hIcjN2WkZ1Q3pYcWxxQzdidzFLM002ZXJEanRma1RmNWJ1eThwX3E0bEM5UXhaQzNJWHVkcmJKYWNZRW1FdXNXbEJPSzVkQ0hRRjRoTjhseFFrazh5RHZnbkxkeEFmWmRGd19FLXNCMmJhcXhsUmE2TGZwWVE2aWVQd2EtLThjeERQZ0I3Zl9OT2JHSnZRTFNIYmRTNjdJd2IzNUZvdVk3WkkxQXJVU21wbks?oc=5",
-    "aid": "f4d4bcf783",
-    "titel": "Hertha jubelt in Kaiserslautern: Ringkämpfer Gechter, Pedersen teilt das Meer",
-    "quelle": "Berliner Morgenpost",
-    "beschr": " Hertha jubelt in Kaiserslautern: Ringkämpfer Gechter, Pedersen teilt das Meer &nbsp;&nbsp; Berliner Morgenpost ",
-    "zeit": "2026-10-31T15:05"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-01T11:42",
-  "archiv": [],
   "versuche": 2
  },
  {
@@ -726,7 +439,7 @@
   "status": "n",
   "erstmals": "2026-11-01T11:42",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "f33f8dba28",
@@ -752,36 +465,6 @@
   ],
   "archiv_status": "neu",
   "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-01T11:42",
-  "archiv": [],
-  "versuche": 1
- },
- {
-  "id": "9b9867b518",
-  "schluessel": "osnabruck|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Osnabrück",
-  "klubs": [
-   "Osnabrück",
-   "Wolfsburg"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Reese-Tor und Reese-Vorlage: Gegen Osnabrück macht‘s der VfL Wolfsburg mal souverän",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZUZIUm1yYnRLbmR4ZE1TTzBXS3lfTWctU1hacFgwd1BMb2g2NkdvOGluYjF2bGd1eDkxaFVpQTRhSHhNLUI3ellfd2xkTFlvOTZ6YUlYTnFTNUhOY0hwMEVfLWl1NVNlbHB0blFOR1B2S1I3YktfWnFMRkJzOE9ZVFJuNTNyQzBHV29WSmhDb2xfT0c2aTAyRUR1LUFjVjk1b2M1MnlUSnBuZUNVeVlqdXFyZjhCd3RUcVF4UDV4TmduRXY5OWtkQTJseS1aOWctazc0WTdSWjM3TzVtcnhZck5DR0pxNWhyQ29MV2930gGKAkFVX3lxTFBSV1NmelVIWkt0T0kyVVhTWmM1ZTNPckVBMExUV1dKLVlPWmk4WnNZZm1PaWtmSVVnRzJVZG1vcDF3RkNfWWk5Q3hGMkUzRkRmLUJ3QlBpUVQzWkE5dE5ISlVkeG8tcVRZNkdNcjhXV2FvUW9ZdlU1MExpUUloT1E2cl9RZHdseE1neW1vQjNmT1BVZjlCeURGZkxDY2VvNUxVb3I0Yk1nRlZ0VXFoeU5Qd1MxbkdpbGE5ZXVCUk5JbnhCNjBSekJkdmFIQmFpdWlfRk5QNDk0Z2E1MDE1eWhFZ1FPSnpVZlZBWmgta1U5ZllkVGVheVZramctUUJjRTVKQUZta2FKSl93?oc=5",
-    "aid": "5fe89d0e17",
-    "titel": "Reese-Tor und Reese-Vorlage: Gegen Osnabrück macht‘s der VfL Wolfsburg mal souverän",
-    "quelle": "WAZ-ONLINE.de",
-    "beschr": " Reese-Tor und Reese-Vorlage: Gegen Osnabrück macht‘s der VfL Wolfsburg mal souverän &nbsp;&nbsp; WAZ-ONLINE.de ",
-    "zeit": "2026-10-31T15:31"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
   "status": "n",
   "erstmals": "2026-11-01T11:42",
   "archiv": [],
@@ -814,7 +497,7 @@
   "status": "n",
   "erstmals": "2026-11-01T11:42",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "c402595162",
@@ -843,7 +526,7 @@
   "status": "n",
   "erstmals": "2026-11-01T11:42",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "80790ec1b6",
@@ -871,7 +554,8 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-01T11:42",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "638404a0cb",
@@ -902,7 +586,8 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-01T11:42",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "9619915713",
@@ -931,7 +616,8 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-01T11:42",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "dfaaf33d6a",
@@ -959,36 +645,8 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-01T11:42",
-  "archiv": []
- },
- {
-  "id": "ecf28ef9fc",
-  "schluessel": "bochum|verletzung",
-  "person": "",
-  "spieler": [],
-  "klub": "Bochum",
-  "klubs": [
-   "Bochum"
-  ],
-  "stufe": "verletzung",
-  "klasse": "verletzung",
-  "titel": "Nach Kopfverletzung im Jubiläumsspiel: Bochum gibt Entwarnung bei Wittek",
-  "quellen": [
-   {
-    "url": "https://www.kicker.de/nach-kopfverletzung-im-jubilaeumsspiel-bochum-gibt-entwarnung-bei-wittek-1266160/artikel#omrss",
-    "aid": "27ea819c5c",
-    "titel": "Nach Kopfverletzung im Jubiläumsspiel: Bochum gibt Entwarnung bei Wittek",
-    "quelle": "kicker Teamnews VfL Bochum",
-    "beschr": "Bei Bochums Achtelfinaleinzug im DFB-Pokal musste Maximilian Wittek das Feld auf einer Trage verlassen. Die befürchtet schwere Verletzung trug der Linksverteidiger aus dem Duell mit Mainz aber nicht davon.",
-    "zeit": "2026-10-28T16:50"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-01T11:42",
   "archiv": [],
-  "versuche": 2
+  "versuche": 1
  },
  {
   "id": "3f222e68b8",
@@ -1017,259 +675,8 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-01T11:42",
-  "archiv": []
- },
- {
-  "id": "95a9429f6f",
-  "schluessel": "nurnberg|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Nürnberg",
-  "klubs": [
-   "Nürnberg",
-   "Frankfurt"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Chatzialexiou erklärt Wechsel: \"Die Legende wird auch ohne mich leben\"",
-  "quellen": [
-   {
-    "url": "https://www.kicker.de/chatzialexiou-erklaert-wechsel-die-legende-wird-auch-ohne-mich-leben-1267429/artikel#omrss",
-    "aid": "83d2ead4f5",
-    "titel": "Chatzialexiou erklärt Wechsel: \"Die Legende wird auch ohne mich leben\"",
-    "quelle": "kicker 2. Bundesliga News",
-    "beschr": "Joti Chatzialexiou wird mitten in der Saison vom 1. FC Nürnberg zu Eintracht Frankfurt wechseln. Am Sonntag erklärte der Sportvorstand seine Beweggründe - und seinen Zeitplan.",
-    "zeit": "2026-11-01T13:41"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "u",
-  "erstmals": "2026-11-01T15:01",
   "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "b3e76d04f5",
-  "schluessel": "hannover|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hannover",
-  "klubs": [
-   "Hannover",
-   "St. Pauli"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "LIVE! Hannover dreht das Spiel und ist in Überzahl - St. Pauli belohnt sich",
-  "quellen": [
-   {
-    "url": "https://www.kicker.de/live-hannover-dreht-das-spiel-und-ist-in-ueberzahl-st-pauli-belohnt-sich-1266556/artikel#omrss",
-    "aid": "0254e6c56a",
-    "titel": "LIVE! Hannover dreht das Spiel und ist in Überzahl - St. Pauli belohnt sich",
-    "quelle": "kicker 2. Bundesliga News",
-    "beschr": "Der 1. FC Nürnberg reist nach zwei Niederlagen zum seit sechs Spielen ungeschlagenen FC St. Pauli. Sandro Wagner möchte gegen Dresden seinen ersten Sieg als 96-Coach feiern. Außerdem trifft das Fürther Kleeblatt auf Kiel.",
-    "zeit": "2026-11-01T12:31"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-01T15:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "4289c8f0ad",
-  "schluessel": "hannover|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hannover",
-  "klubs": [
-   "Hannover"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Hannover 96: Folgt Virkus auf Boldt?",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLS1nSHRkU2pRb1NrWUpGdWcyaElNd3FBWUhjT3JtX3ZqUzFfNDhaVC1idXREbjZoT203cFZDNkRuVTZ4UHFxaDVWenh2SWhQTWdsUlkybjFGRGQ3TXc5aEM4Z016akVOOWJJZmVXUmVtRkc5WXZSdzliVXlhYXJPZDBCSktmNC14VWdmRlBlWkh4Snc?oc=5",
-    "aid": "4419daf8ae",
-    "titel": "Hannover 96: Folgt Virkus auf Boldt?",
-    "quelle": "FussballTransfers.com",
-    "beschr": " Hannover 96: Folgt Virkus auf Boldt? &nbsp;&nbsp; FussballTransfers.com ",
-    "zeit": "2026-11-01T14:11"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "u",
-  "erstmals": "2026-11-01T15:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "8e28e6bf7e",
-  "schluessel": "hannover|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hannover",
-  "klubs": [
-   "Hannover",
-   "Cottbus",
-   "Nürnberg"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Sebastian Schuppan zu Hannover?: Mattuschka bringt Ex-Cottbuser auch in Nürnberg ins Gespräch",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSXdEUmNwSlhHQnhjVlZDYjJQNjRBY1poTVVnaFZKc2pFOUJ3U3B3dlhTRHI4cnY1dHVWclJoM1VJWE9ieG5wVDBXU1MweHJwNS1XUy1GQWlDSHJzRlNBcEE3WjFUc2lpR2VpZnpIbGpnMHIydm1BLVZQZ2xGeGtMNldvYzhiSDhhZ0h4YzdaUjlidEQ5NmtYM3hvU0dubzVMdkh1TGpYVFhFN2hLZmNMRjZFMk0tY3BDLUdsbDE1SjNfUi1PVVVtZXRCRy1ua0Rnc2FzSl9ZWkh1WEtaMnQ4WEF3?oc=5",
-    "aid": "66b15b8290",
-    "titel": "Sebastian Schuppan zu Hannover?: Mattuschka bringt Ex-Cottbuser auch in Nürnberg ins Gespräch",
-    "quelle": "Lausitzer Rundschau",
-    "beschr": " Sebastian Schuppan zu Hannover?: Mattuschka bringt Ex-Cottbuser auch in Nürnberg ins Gespräch &nbsp;&nbsp; Lausitzer Rundschau ",
-    "zeit": "2026-11-01T14:02"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-01T15:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "a1aa932cb0",
-  "schluessel": "hannover|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hannover",
-  "klubs": [
-   "Hannover"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Dynamo in Hannover live: Schwarz-Gelb macht sich auf den Rängen breit",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNUw3bVkwMGw2RlNMUW5QQ1NYcWFYeEJuYm5HeGkyeWhoaEg3TWRXY2N2cDVXSDVBY1hpanB4SjVFcHJXRjNLOXRrbi1lUUUxcFdHcU1GSF9TM0FRcmhoTGNaRGFQOWh6b2N5MEpyYU1WMEtCUHUycFVGLVFtaC0ydnRJejAxVnRoeHhKWllEcU1TUE9QbThWRDZYTnpUd3k4bWZJMGg3VGZwOTVKS3UzdGQ5cUdnVE51WENucVFfWk8wU0dOdXNEY1BtNktKaHRyMWdMWg?oc=5",
-    "aid": "bf2ce0855a",
-    "titel": "Dynamo in Hannover live: Schwarz-Gelb macht sich auf den Rängen breit",
-    "quelle": "TAG24",
-    "beschr": " Dynamo in Hannover live: Schwarz-Gelb macht sich auf den Rängen breit &nbsp;&nbsp; TAG24 ",
-    "zeit": "2026-11-01T12:14"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-01T15:01",
-  "archiv": [
-   {
-    "id": "cb0b737b08",
-    "titel": "Dynamo sucht in Hannover den ersten Auswärtssieg seit April",
-    "datum": "01.11.",
-    "stufe": "sonstiges",
-    "summary": "Dynamo Dresden will bei Hannover 96 den ersten Auswärtssieg seit 204 Tagen holen. Seit dem 2:0 in Nürnberg im April blieb das Team von Trainer Thomas Stamm auswärts acht Ligaspiele ohne Sieg."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "8b12d4f128",
-  "schluessel": "hannover|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hannover",
-  "klubs": [
-   "Hannover"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Dynamo in Hannover live: Rapp sei Dank! SGD führt zur Pause im Kellerduell",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLTNIVm1uNEkxSnJVZGJ3T3BvcHJfXzZnXzN1cTBDS1MxNTVvcWJJYThHRVJyYTkzSEFjSHJCZHRqTl9UZ05zdUItS1o2RmUzVXRyUmVoRUI0VlN1Z0hsTE14ZHp2WUwtUTdkWmVXaE5aUUZfWXJDNkZKekl6Zi1EVXcwTlg3UlZKS1dpXzR6VExUemVfRWp4eVBRenVZYTI2bjBjTHVFa3RHbmdjVTNESmM4MVNDQm9VWGE5T3hoMFV6eDJfY2FjT2N5TE1ESHZEdGVCYmJHVnAzdw?oc=5",
-    "aid": "af69378de1",
-    "titel": "Dynamo in Hannover live: Rapp sei Dank! SGD führt zur Pause im Kellerduell",
-    "quelle": "TAG24",
-    "beschr": " Dynamo in Hannover live: Rapp sei Dank! SGD führt zur Pause im Kellerduell &nbsp;&nbsp; TAG24 ",
-    "zeit": "2026-11-01T14:18"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-01T15:01",
-  "archiv": [
-   {
-    "id": "cb0b737b08",
-    "titel": "Dynamo sucht in Hannover den ersten Auswärtssieg seit April",
-    "datum": "01.11.",
-    "stufe": "sonstiges",
-    "summary": "Dynamo Dresden will bei Hannover 96 den ersten Auswärtssieg seit 204 Tagen holen. Seit dem 2:0 in Nürnberg im April blieb das Team von Trainer Thomas Stamm auswärts acht Ligaspiele ohne Sieg."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "f88ac1214d",
-  "schluessel": "hannover|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hannover",
-  "klubs": [
-   "Hannover"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Dynamo in Hannover live: Rapp steht goldrichtig! SGD führt im Kellerduell",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdG5ScFUtS0pBakJlVi1xSEZKOU55S0Z1TzFydXZSMWNLR3NBT283aUdnTHF2ZlB4MHhrWkZtRlBZX0xyRFhTbHgyZmNhdjF1SXZGaXNDYTlfdDJaV3c4d0oyTU1NTS1yNVNtM09uaTgzamVTNFcwa3V6d3VDYTRrOGRwY3JyR3B1dURNbHRvcHRzRW5RZmNxODMtNmdEV1pOUHdObmRhUzNtY2xlRG1xSmJRZVlKOFZKbWZSU2tjTkVmbWNKMTEzZ0V5YTRtQkVldGJxeEdqUEY?oc=5",
-    "aid": "532986ceac",
-    "titel": "Dynamo in Hannover live: Rapp steht goldrichtig! SGD führt im Kellerduell",
-    "quelle": "TAG24",
-    "beschr": " Dynamo in Hannover live: Rapp steht goldrichtig! SGD führt im Kellerduell &nbsp;&nbsp; TAG24 ",
-    "zeit": "2026-11-01T13:50"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-01T15:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "8f25f0ffbb",
-  "schluessel": "hannover|verletzung",
-  "person": "",
-  "spieler": [],
-  "klub": "Hannover",
-  "klubs": [
-   "Hannover"
-  ],
-  "stufe": "rueckkehr",
-  "klasse": "verletzung",
-  "titel": "Dynamo in Hannover live: Startelf-Comeback nach über acht Monaten! SGD-Coach Stamm überrascht mit Aufstellung",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQWURzOGZ1VlZvaE56YXlqbWR0RDJNUU43c1NIbDFub0hDYU91LWw3OWp0RzJhdC1CTGtJbzZObG0yWDJYZnFjeW14VU5uQ3BwelFGOFFkNG51UnFhZGNBTVg1VFRIQlFjdjZhcGRKNzFYN1dBSU5rVV91b0NWeVZEcHl6R1UtdTFfdGNRQ1JMWWplUHAxaDMzNy1NVWVSWExyX2NpZks4TlBVM2F2OWtqbG9GUXZkNVlTXzdUeXJyQlhhMmVkYTBQYUwxN3MzcGtnVWNzbHBURU5md2ZvUTVlakF1cGlpX1RoNWJQOUZEbkN1dkdRcG5aOVhyLW9vN1VXNUh1V3VKSHJDQQ?oc=5",
-    "aid": "eb572e03cd",
-    "titel": "Dynamo in Hannover live: Startelf-Comeback nach über acht Monaten! SGD-Coach Stamm überrascht mit Aufstellung",
-    "quelle": "TAG24",
-    "beschr": " Dynamo in Hannover live: Startelf-Comeback nach über acht Monaten! SGD-Coach Stamm überrascht mit Aufstellung &nbsp;&nbsp; TAG24 ",
-    "zeit": "2026-11-01T12:55"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-01T15:01",
-  "archiv": [],
-  "versuche": 2
+  "versuche": 1
  },
  {
   "id": "6c0b39222f",
@@ -1298,7 +705,7 @@
   "status": "n",
   "erstmals": "2026-11-01T15:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "43555ab6ee",
@@ -1320,94 +727,6 @@
     "quelle": "YouTube",
     "beschr": " \"Die Skandinavier haben einen guten Job gemacht\" | PK nach Kaiserslautern &nbsp;&nbsp; YouTube ",
     "zeit": "2026-10-31T16:54"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-01T15:01",
-  "archiv": [],
-  "versuche": 1
- },
- {
-  "id": "2b7ae8adff",
-  "schluessel": "karlsruhe|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Karlsruhe",
-  "klubs": [
-   "Karlsruhe"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Beim KSC ent­weicht „Druck auf dem Kes­sel“",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkh1dndZVmZ2bU80dldTd3Y0RkVDbzRtQ3lsUG5kLWJTSDNUb29WTVFBd3dSZmlXejN0VFRpMGRsSXROQkR0T0NkYk5nVEFBRVk2VHo1aWZILUh6a19lMEFWdHVPWFNONm5vUy1Vc1dabF9FdGdKcnlCR2g4Q3kwWnhCZEpjMDZRcHhiMEVycEcwTUJKckhfU3hmbGdKUkZ1?oc=5",
-    "aid": "d05fdef496",
-    "titel": "Beim KSC ent­weicht „Druck auf dem Kes­sel“",
-    "quelle": "Die Rheinpfalz",
-    "beschr": " Beim KSC ent­weicht „Druck auf dem Kes­sel“ &nbsp;&nbsp; Die Rheinpfalz ",
-    "zeit": "2026-11-01T12:00"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-01T15:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "f0a676c1e1",
-  "schluessel": "karlsruhe|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Karlsruhe",
-  "klubs": [
-   "Karlsruhe"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Franke vertreten, den Trainer überzeugt: Paul Scholl meldet sich beim KSC zurück",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcnJ5TUJoQkMtRjJSSDVyNHdyZXQyZC1KcWhJRWVpTFVWXzJFQlJZRGVXUklzc2ZFVWhXank5NEZ0MHRuT1FHczZhcVFoTTVnSFlHSjZqSkZibE1ub0F0MEVXWHFTcnlGcXpieEFkQVJ1MGM5N0RPQnRSeVI4YmowTXhMdWhtLXFxcHRXMk44SWVVd2lEZmpiR3BpRFhQai02U1NGWE1KYlk?oc=5",
-    "aid": "51c134d6a6",
-    "titel": "Franke vertreten, den Trainer überzeugt: Paul Scholl meldet sich beim KSC zurück",
-    "quelle": "Badische Neueste Nachrichten",
-    "beschr": " Franke vertreten, den Trainer überzeugt: Paul Scholl meldet sich beim KSC zurück &nbsp;&nbsp; Badische Neueste Nachrichten ",
-    "zeit": "2026-11-01T12:38"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-01T15:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "b402a6ba3c",
-  "schluessel": "nurnberg|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Nürnberg",
-  "klubs": [
-   "Nürnberg",
-   "St. Pauli"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "‍!$>[LIVE!#Ansehen]* Nürnberg vs. St. Pauli Im Livestream 01.11.2026",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQQ1VKOFJtTVJ0UVYxdmpnc2dZSlVWc0g1Uk5BY1N5SmphY2tzRmpNUk5FMGtDa3ZwU2VvMWc4dnFLYkxSU1I0Zmc5Vk45TDYtN29ZRjAya1J5dDRqelRtU3NDZVFXQm9wYUdxY2poRDBOSHJnTU1Pa3ZhbDEzZWtfRXRfRVo2MWpReENDNDIyd2lfamdmZDBBSHhDUmdNUjdEZVF5SS1tYmUxYVkwZ0xJUkNyTDFZbzdoMENOb0FrTXd1TnpwYWJBaFFueTBjMXNRMGtVXzNCRnIzYk5XODFyVWdmcnFTUkR4Z1dJWHdOQ1FhUklqd25tekpXSDIzazlHN041T2VQTnpBVDgzaDh2aEhOS1lsck1uNGRsQWNIdWtsSG54dGE3cDNYVkVlMF8xLWhSNjhIQks0eFlXVEViVTlQbHJkTmgxMmFyT2M0T09vbUpiS2dqakQ2RWtfZ1JsUkdyN1VQQ0luTy1VQnEtOFVDUVNselFRSHZfMEF3?oc=5",
-    "aid": "724293ec98",
-    "titel": "‍!$>[LIVE!#Ansehen]* Nürnberg vs. St. Pauli Im Livestream 01.11.2026",
-    "quelle": "Pierce Manufacturing",
-    "beschr": " ‍!$>[LIVE!#Ansehen]* Nürnberg vs. St. Pauli Im Livestream 01.11.2026 &nbsp;&nbsp; Pierce Manufacturing ",
-    "zeit": "2026-11-01T13:25"
    }
   ],
   "archiv_status": "neu",
@@ -1444,7 +763,7 @@
   "status": "n",
   "erstmals": "2026-11-01T15:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "0250e1b890",
@@ -1473,7 +792,7 @@
   "status": "n",
   "erstmals": "2026-11-01T18:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "3c55ed98e6",
@@ -1518,7 +837,7 @@
     "summary": "Hannover 96 hat Sport-Geschäftsführer Jonas Boldt nach nur fünf Monaten mit sofortiger Wirkung abberufen. Der Klub steht nach neun Spieltagen mit acht Punkten auf Platz 16."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "e2acb04df2",
@@ -1547,7 +866,7 @@
   "status": "u",
   "erstmals": "2026-11-01T18:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "a336aa87a8",
@@ -1576,7 +895,7 @@
   "status": "u",
   "erstmals": "2026-11-01T18:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "f0e7e9d602",
@@ -1605,7 +924,7 @@
   "status": "u",
   "erstmals": "2026-11-01T18:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "1bd3a78e74",
@@ -1643,7 +962,7 @@
     "summary": "Dynamo Dresden will bei Hannover 96 den ersten Auswärtssieg seit 204 Tagen holen. Seit dem 2:0 in Nürnberg im April blieb das Team von Trainer Thomas Stamm auswärts acht Ligaspiele ohne Sieg."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "d94726488f",
@@ -1673,7 +992,7 @@
   "status": "u",
   "erstmals": "2026-11-01T18:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "29040a51c0",
@@ -1718,7 +1037,7 @@
     "summary": "Dynamo Dresden will bei Hannover 96 den ersten Auswärtssieg seit 204 Tagen holen. Seit dem 2:0 in Nürnberg im April blieb das Team von Trainer Thomas Stamm auswärts acht Ligaspiele ohne Sieg."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "65614626d2",
@@ -1747,7 +1066,7 @@
   "status": "u",
   "erstmals": "2026-11-01T18:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "bb0b3ad54b",
@@ -1776,7 +1095,7 @@
   "status": "u",
   "erstmals": "2026-11-01T18:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "29e429cc74",
@@ -1807,7 +1126,7 @@
   "status": "u",
   "erstmals": "2026-11-01T18:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "fc7b148baa",
@@ -1836,7 +1155,7 @@
   "status": "u",
   "erstmals": "2026-11-01T18:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "04719a7eaf",
@@ -1866,7 +1185,7 @@
   "status": "u",
   "erstmals": "2026-11-01T18:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "20447c0c0d",
@@ -1910,7 +1229,7 @@
     "summary": "Dynamo Dresden will bei Hannover 96 den ersten Auswärtssieg seit 204 Tagen holen. Seit dem 2:0 in Nürnberg im April blieb das Team von Trainer Thomas Stamm auswärts acht Ligaspiele ohne Sieg."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "ace70248aa",
@@ -1941,7 +1260,7 @@
   "status": "u",
   "erstmals": "2026-11-01T18:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "c786d74c67",
@@ -1970,7 +1289,7 @@
   "status": "u",
   "erstmals": "2026-11-01T18:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "f09c284a75",
@@ -2014,7 +1333,7 @@
     "summary": "Hannover 96 hat Sport-Geschäftsführer Jonas Boldt nach nur fünf Monaten mit sofortiger Wirkung abberufen. Der Klub steht nach neun Spieltagen mit acht Punkten auf Platz 16."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "7b09429688",
@@ -2051,7 +1370,7 @@
     "summary": "Hannover 96 hat Sport-Geschäftsführer Jonas Boldt nach nur fünf Monaten mit sofortiger Wirkung abberufen. Der Klub steht nach neun Spieltagen mit acht Punkten auf Platz 16."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "6c44b0efe3",
@@ -2086,6 +1405,399 @@
     "datum": "01.11.",
     "stufe": "sonstiges",
     "summary": "Wolfsburgs Fabian Reese und Muhammed Damar freuen sich auf das Spiel bei Tabellenführer Hertha BSC am Samstag. Beide haben eine Vergangenheit in Berlin und kommen nach dem 2:0 gegen Osnabrück mit Rückenwind."
+   }
+  ],
+  "versuche": 2
+ },
+ {
+  "id": "567c20c3f8",
+  "schluessel": "bayern|vertrag",
+  "person": "",
+  "spieler": [],
+  "klub": "Bayern",
+  "klubs": [
+   "Bayern"
+  ],
+  "stufe": "vertrag",
+  "klasse": "vertrag",
+  "titel": "Gwinn will Bayern-Zukunft bald klären - Pulisic verlängert in Mailand",
+  "quellen": [
+   {
+    "url": "https://www.kicker.de/transferticker-953155/artikel#omrss",
+    "aid": "96e67c93b1",
+    "titel": "Gwinn will Bayern-Zukunft bald klären - Pulisic verlängert in Mailand",
+    "quelle": "kicker 2. Bundesliga News",
+    "beschr": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden.",
+    "zeit": "2026-11-01T18:50"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-01T21:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "e7d96be839",
+  "schluessel": "hannover|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "Hannover 96 - Sandro Wagner lässt Premieren-Sieg kalt: \"Macht mit mir nix\"",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWWttQ0JILU45Q0ZjNG5xXzUtNG1ZYlhpcjhhcmpSemNFMjBodVNHRkh6LWR2YzNrZUtOajE0NkF0ZWYtaUdQNmlMdDFOeU55WF9Cc1Y3dmZGblFxVE1UclVERHd5Rk9sVGlaZ0JzUmZWeGw3aXhkV2hwTVJ4NHh0RjRCOVowbmtLdVRKbzA5YjFBU2U4WWlMQVpvZmxqd25kQWxiQ3N3RU56MHF3VFBPVHBaRng3S0ZMUTVoeWZCNGMzYXhnX2hHNTlwZkd5VjM0azhPelloTFZUcVRLWEtHTWdpSnBTRHFTYjBKVWJzWQ?oc=5",
+    "aid": "741b4c6b7c",
+    "titel": "Hannover 96 - Sandro Wagner lässt Premieren-Sieg kalt: \"Macht mit mir nix\"",
+    "quelle": "Joyn",
+    "beschr": " Hannover 96 - Sandro Wagner lässt Premieren-Sieg kalt: \"Macht mit mir nix\" &nbsp;&nbsp; Joyn ",
+    "zeit": "2026-11-01T20:13"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "u",
+  "erstmals": "2026-11-01T21:01",
+  "archiv": [
+   {
+    "id": "84170c115b",
+    "titel": "Hannover dreht Kellerduell gegen Dresden und springt auf Rang zwölf",
+    "datum": "01.11.",
+    "stufe": "spielbericht",
+    "summary": "Hannover 96 gewinnt das Kellerduell gegen Dynamo Dresden mit 2:1 und klettert auf Rang zwölf. Einen Tag nach der Trennung von Sport-Geschäftsführer Jonas Boldt spricht Trainer Sandro Wagner über den Klub-Umbruch."
+   },
+   {
+    "id": "e17c699427",
+    "titel": "Dresden verspielt Führung in Hannover und ist Schlusslicht",
+    "datum": "01.11.",
+    "stufe": "spielbericht",
+    "summary": "Dynamo Dresden verliert bei Hannover 96 trotz Führung mit 1:2 und ist Schlusslicht der 2. Liga. Trainer Thomas Stamm setzt auf das direkte Duell mit Fürth am Freitag."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "aaa1574ab3",
+  "schluessel": "osnabruck|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Osnabrück",
+  "klubs": [
+   "Osnabrück",
+   "Wolfsburg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "VfL Osnabrück: In Wolfsburg nach der Pause nicht auf Augenhöhe – warum das okay ist",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVldWT0hDSnVoTklkMkZWWEpuSnZMSXA5SlNIUnZnRk9sZGJ1UUFZd2QtaEVDVzBLbThjUkxPV3BPV1ZrZXBMOVVKX1k2QWh2bFhCNkIwNTFMTTFaZm9kR0tvVVU0LWJqdV9vcFJXV2w3WlZJbk1Dc0lvUDBObXlOMEN2ZHlUdWFmMjYzWGp5VjlFWnl5TE9zRzlILUM0emRjMWc0RnFqb1VzMlQ5ZmJsdTBpQXI?oc=5",
+    "aid": "8fc3a4831a",
+    "titel": "VfL Osnabrück: In Wolfsburg nach der Pause nicht auf Augenhöhe – warum das okay ist",
+    "quelle": "noz.de",
+    "beschr": " VfL Osnabrück: In Wolfsburg nach der Pause nicht auf Augenhöhe – warum das okay ist &nbsp;&nbsp; noz.de ",
+    "zeit": "2026-11-01T19:35"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "u",
+  "erstmals": "2026-11-01T21:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "a28fc66138",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover",
+   "Dresden"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Hannover 96 dreht Spiel gegen Dynamo Dresden – SGD nach Platzverweis chancenlos",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdzlpVzRnTlFBNlNaUnVYazA2UmhhS0NZMFRZLVd6TzVzZzh3SjlfaDRTZTB6NFpib0hrUEU4UXcxMW96WWx5RE5zSWxMQkVKc1JrdHVJamx5Q0hTSGp2UndmTzNwUHVyamMzOUxPNlB2WV9fUmlYTjBRM00taWRGdEUwVVFlYzlTbDdsYTN6MUpSRmJXVGtzYXQ0RVgyQXZQT203ZlRLaExxWjJjcmZGZWRTNWVyMDFaS2RjT1JxY1NxYnpxd3BBTkN0aW4zeEp1REJmeThtbm4yVVXSAfcBQVVfeXFMTkotbHJCVUlGZF9BN3VDNGE0LU00Snh6TS1FWHBNYjVqWGpxRkU3SENNLW9GbGZ3TGdYZ0JGYnRJSjB5amFGYm1rU25YcXp2Y0dSakVtdUdfcGxxYk1YdEVHOWhiUFhTVzFBTzJsS1o2aEQ4QkYtTmhYSWtMRUVJMlM5QXVsNkgtY0NCVWZuemEyMG9hS0oxcmcwVjlsMHQ3TnRfYVRxT1NnLW1MWTF5THI0TzdYQ0cyMHYxRUkwbjNmMzdObWR6VDlwc3pYOEhRbzZhdURTTksyRmR5YjJtV3Z6bHVvNVphRnAybjZycEFVTXI3RDI1TQ?oc=5",
+    "aid": "84ee1c21a5",
+    "titel": "Hannover 96 dreht Spiel gegen Dynamo Dresden – SGD nach Platzverweis chancenlos",
+    "quelle": "DNN - Dresdner Neueste Nachrichten",
+    "beschr": " Hannover 96 dreht Spiel gegen Dynamo Dresden – SGD nach Platzverweis chancenlos &nbsp;&nbsp; DNN - Dresdner Neueste Nachrichten ",
+    "zeit": "2026-11-01T15:32"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "u",
+  "erstmals": "2026-11-01T21:01",
+  "archiv": [
+   {
+    "id": "cb0b737b08",
+    "titel": "Dynamo sucht in Hannover den ersten Auswärtssieg seit April",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Dynamo Dresden will bei Hannover 96 den ersten Auswärtssieg seit 204 Tagen holen. Seit dem 2:0 in Nürnberg im April blieb das Team von Trainer Thomas Stamm auswärts acht Ligaspiele ohne Sieg."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "fb5c05fad6",
+  "schluessel": "dresden|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Dresden",
+  "klubs": [
+   "Dresden",
+   "Hannover"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Dynamo Dresden in der Einzelkritik: Gegen Hannover sehen zwei Spieler die Note 5",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeEkxOXJxeVA2MXFkRjd2OHhvNjlqQzgwdHU0T3Bsb3pTOV93cVozb3ZBNjZQX1o2QVdJeUR1S2tacGs5ZnN4NUhCZWpjNHoxc2ZwZTNPVDFRNkZjSHNiaVdjZFE4SVN4bEs3b3h4cGxhWk1KVFI2TUNNSk9HUl81T1hUN3ZQQ1N4RjNTVkpwQ3JRZ2FhamVMaEkyNDEycEJ2YjdLZWNkUEZwX2U1VEtYUHpTdzJoOEt6UHItZ1YzVjdEOTlXeXcxUVI1Y1dMSldoREotSFBkMm9CbGNBWGtqbF9HcHlsbUVG0gGEAkFVX3lxTE80OFVBRjFwZHBJU1Z5NG5pbHFCMk1CdHVuYWg5MTVTS2RESmVYS1hKMXJMTnNMOFhodjdDMXZ3S242SEEzVVJVM2FDV3kwMHRFWWpJMGl6Qkx2a1lBQXZvSXZPSkZ2RU1sM2lVM3RDMVlzRHpqb09rRGsyUWtSdzZpMXBGZlh2M0gyU0xHZDRSenRkRWNzcXBvNy1KZHVFMGxWTGdGY1ZLUWJ2WjVXZkh3NVQ5Qmg0SVpuTXFyTDBLVXZNMzJ6QW5yT3lsYTNZYWJfc1dLOS0tRHUwZjZ4ZllWUkw5OHdHemtlYzdEUXkwaThMWmtKdm1GQkhwbHpUdXYyTFN2?oc=5",
+    "aid": "2e7c537ae1",
+    "titel": "Dynamo Dresden in der Einzelkritik: Gegen Hannover sehen zwei Spieler die Note 5",
+    "quelle": "Sächsische Zeitung",
+    "beschr": " Dynamo Dresden in der Einzelkritik: Gegen Hannover sehen zwei Spieler die Note 5 &nbsp;&nbsp; Sächsische Zeitung ",
+    "zeit": "2026-11-01T17:47"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "u",
+  "erstmals": "2026-11-01T21:01",
+  "archiv": [
+   {
+    "id": "cb0b737b08",
+    "titel": "Dynamo sucht in Hannover den ersten Auswärtssieg seit April",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Dynamo Dresden will bei Hannover 96 den ersten Auswärtssieg seit 204 Tagen holen. Seit dem 2:0 in Nürnberg im April blieb das Team von Trainer Thomas Stamm auswärts acht Ligaspiele ohne Sieg."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "14c6e39905",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Dynamo verspielt Führung in Hannover: Die Noten zum Spiel",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORElMeFdzVVNhYk5uQ0ZIdno2QUdudHd5TUM5NGY3a29kcHlFMlp1cS1DM25SWUFiX0ZXcjJPTVBaUGVuNGFncGZNMTNYZTdKS054QlFVZzZiMEw4cHVxczEyczJRZ09XUzhtNzNLYXBVbjYybmdYcFNyOWNrMng4Nk9NZTdtWWRfamt6dnc0eEI4N2dITGhJMDY5YmpSSzQxTDZxYWUtNnp6MjNsU0Z3VjdxcktXWHpob2ROZEZCZnrSAdwBQVVfeXFMTkIxYkdqbkZDakxGbkdpcFZ1Skh4bGxaejlHSzlLaDkyNENobnY3OG9WczF3YnNOQmI0WEFvR1RmSVN1QzJEWFNfN29xeXlLdVFXUmo3U2lrcDJyd1kyYU9SdEVmS09mcDdCaHFnV1o2OHcxV3BwNThlX2Zvcm9FREt3bkUtOXV0ZGhJRjRKbG55Ni1OYTVPRlhmNmFiZVBWYzRtOFJxSE13eGtaSV8xbWxKSWVZR3hBWElLQVdMUndyT3ZiRnpHUW1yYzI4ZTFEX293Wk1ZalRFWmZENg?oc=5",
+    "aid": "4bcc068394",
+    "titel": "Dynamo verspielt Führung in Hannover: Die Noten zum Spiel",
+    "quelle": "DNN - Dresdner Neueste Nachrichten",
+    "beschr": " Dynamo verspielt Führung in Hannover: Die Noten zum Spiel &nbsp;&nbsp; DNN - Dresdner Neueste Nachrichten ",
+    "zeit": "2026-11-01T18:32"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "u",
+  "erstmals": "2026-11-01T21:01",
+  "archiv": [
+   {
+    "id": "afa3db9641",
+    "titel": "Hannover 96 trennt sich nach fünf Monaten von Sportchef Boldt",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Hannover 96 hat Sport-Geschäftsführer Jonas Boldt nach nur fünf Monaten mit sofortiger Wirkung abberufen. Der Klub steht nach neun Spieltagen mit acht Punkten auf Platz 16."
+   },
+   {
+    "id": "cb0b737b08",
+    "titel": "Dynamo sucht in Hannover den ersten Auswärtssieg seit April",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Dynamo Dresden will bei Hannover 96 den ersten Auswärtssieg seit 204 Tagen holen. Seit dem 2:0 in Nürnberg im April blieb das Team von Trainer Thomas Stamm auswärts acht Ligaspiele ohne Sieg."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "dc42edbf8b",
+  "schluessel": "dresden|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Dresden",
+  "klubs": [
+   "Dresden"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "Nach Auswärtsniederlage: Dresdens Trainer Stamm - \"Wir dürfen uns nicht in diese Situation bringen\"",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNLV9UTnJYZkdpZ1R4NzBjZW9UR08tRVZnVElKdV9aaThxVWZsVjd0ajZTS0xXclNuYmxVUmZQOXE4d3FCV1BaYmFTeWZSOW9TUEUzb2x2TDYwUXhJSGF4ZklRaEMzX1BydjQxZmZ5VnZmdFNKYkdzUjNYYzV0NXBiUEdmaVM5UnJNTXBXa3RFZ0J4d19JZkViVUNGblBlSWp4Z0pLQjJSVWFxaVRyUEZhd0I5Q3UyaF9senk0N3RkVlk4SUxpUXAyLVJ4VkRZSEt5bUlnY0Q1REpTQTFMZ216VW5vTWVDeVRJUkx2TWUxRTlVSUVL?oc=5",
+    "aid": "96dac187a5",
+    "titel": "Nach Auswärtsniederlage: Dresdens Trainer Stamm - \"Wir dürfen uns nicht in diese Situation bringen\"",
+    "quelle": "sportschau.de",
+    "beschr": " Nach Auswärtsniederlage: Dresdens Trainer Stamm - \"Wir dürfen uns nicht in diese Situation bringen\" &nbsp;&nbsp; sportschau.de ",
+    "zeit": "2026-11-01T16:25"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "u",
+  "erstmals": "2026-11-01T21:01",
+  "archiv": [
+   {
+    "id": "84170c115b",
+    "titel": "Hannover dreht Kellerduell gegen Dresden und springt auf Rang zwölf",
+    "datum": "01.11.",
+    "stufe": "spielbericht",
+    "summary": "Hannover 96 gewinnt das Kellerduell gegen Dynamo Dresden mit 2:1 und klettert auf Rang zwölf. Einen Tag nach der Trennung von Sport-Geschäftsführer Jonas Boldt spricht Trainer Sandro Wagner über den Klub-Umbruch."
+   },
+   {
+    "id": "e17c699427",
+    "titel": "Dresden verspielt Führung in Hannover und ist Schlusslicht",
+    "datum": "01.11.",
+    "stufe": "spielbericht",
+    "summary": "Dynamo Dresden verliert bei Hannover 96 trotz Führung mit 1:2 und ist Schlusslicht der 2. Liga. Trainer Thomas Stamm setzt auf das direkte Duell mit Fürth am Freitag."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "a5bac63c21",
+  "schluessel": "kiel|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Kiel",
+  "klubs": [
+   "Kiel",
+   "Köln"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "DFB-Pokal: Holstein Kiel empfängt 1. FC Köln – Besonderes Spiel für Meffert",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSjU2cENETG5qMFVfMUIzNVg2NHhEOFo2YmRSNmRXMklENjA0Mk1rczY3RWo3M210Q1Exdl9sdmUtNlFWcTU5d1NqRDNhRDRobjVnWERaalM4V0RENDl3V3RkVWllTk1IZTdnZ3ZaRE83SEttZXo5bHhTMTNUU3BudEtGN2F4WUtNaGNNSTU5azlDd1NXUC1jZy1vUzR1Q2xSX3NBN3V0VG5OdHpaVXNlTlFPUHkzSzA4RWVqNDl4clVFUXFXLTJUMWpVQmhtTmY3aGJHT2RtMnpwdW9ubkVj0gH7AUFVX3lxTE5KaVh1alQxSEVRWDd6dUpoVXI2YzlURlZGSjVPOHhiekt4VFhfNUlrdFgwTUJKMlZ5czFXcmNvUUdBanY3MTFrcElXejlyWDlxRWhPdThGQUZoODg0QlZCOFVLc2hiMGlHWTRYVnF1bWFGN1pYLVZPSjMyRERpTEpIaUVEeV95ZlNkR2Q2WFYtM1VmRFBBY25DVkFkd2hZSVIzeUhsTXhmbXV2TlZtWWdiWDlyZmZISDBZR1cteE8xZ0F4SV9DVnFRZnNPR1Z5VHhRQUNadV9qZXNwc1p0N09oeW81UTJDS1lBWXcwemFieWZEeDVhdmk5RVhj?oc=5",
+    "aid": "5d8bd88a37",
+    "titel": "DFB-Pokal: Holstein Kiel empfängt 1. FC Köln – Besonderes Spiel für Meffert",
+    "quelle": "Kieler Nachrichten",
+    "beschr": " DFB-Pokal: Holstein Kiel empfängt 1. FC Köln – Besonderes Spiel für Meffert &nbsp;&nbsp; Kieler Nachrichten ",
+    "zeit": "2026-11-01T19:40"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "u",
+  "erstmals": "2026-11-01T21:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "4162ccea6a",
+  "schluessel": "kiel|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Kiel",
+  "klubs": [
+   "Kiel",
+   "Fürth"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "„Das macht alle nur verrückt“: Frust und Enttäuschung bei Holstein Kiel nach Fürth-Pleite",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV0d6TzJ1cWJQb3RRRkVhbDlUTnZqRlpuZlRSeHFsUjJhTU9qdml5Z3piNzNBQzh1WE14OGNHSjZHX0w0U2RjbmNUeTNibHhLd25DUHV2OFhzeFpXZnN2OEJCVnpsWEtKTzkyN3BSSFZVa1JkVkZRU05lMTVGSS1Yd3dFMnhqM0FoLWU2ZzVTSjhTQlpZWEhGVFVVdC1lMWJjTDlOcHRjVHBCcVhhVkJaeU83b0ZxWGZF?oc=5",
+    "aid": "985286cc91",
+    "titel": "„Das macht alle nur verrückt“: Frust und Enttäuschung bei Holstein Kiel nach Fürth-Pleite",
+    "quelle": "shz.de",
+    "beschr": " „Das macht alle nur verrückt“: Frust und Enttäuschung bei Holstein Kiel nach Fürth-Pleite &nbsp;&nbsp; shz.de ",
+    "zeit": "2026-11-01T18:07"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "u",
+  "erstmals": "2026-11-01T21:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "3c69efc852",
+  "schluessel": "bochum|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Bochum",
+  "klubs": [
+   "Bochum"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "VfL Bochum trifft im DFB-Pokal-Achtelfinale auf Augsburg",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSlpNeFlhOXF3SENPX19xWHI5ZnctSm9BckxoemFnZGNKNE9DMmkwZVB0cUpRNFczYkg2a3E2MkpFbEhrQUZESWUtZXlCNlM0ZGFRaE5HdzV6a1ZxRmNWUENlUllkRHhXX2doWXF4SHJSNjNXUUhqSmVwQUFQM0JKR0hXTFdQVmpkZUJySk84a082Z01BOU9kSXlqdVk0bWEw?oc=5",
+    "aid": "5fe0d6322b",
+    "titel": "VfL Bochum trifft im DFB-Pokal-Achtelfinale auf Augsburg",
+    "quelle": "Radio Bochum",
+    "beschr": " VfL Bochum trifft im DFB-Pokal-Achtelfinale auf Augsburg &nbsp;&nbsp; Radio Bochum ",
+    "zeit": "2026-11-01T19:38"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-01T21:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "b8431795ad",
+  "schluessel": "wolfsburg|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Wolfsburg",
+  "klubs": [
+   "Wolfsburg"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "Lupo/Martini Wolfsburg bleibt auf Kurs: Derby-Sieg gegen tapfere Kästorfer",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVFhXSE5KTXZGTUg5UHpDdzRDbjlNNERMTlBiTEhSOEIwUG0ybS1ITm5rMjdBS0x0TC1OUWZiN2c5X2ZnbUhrc1ZiVTgtNkhNMUVBNkZyc0dOWWtDV3dBX21CV29xelh0aDBmSVU0TTJucjVxSUlZTlZrVjAtMFpmd0ZOZ0RIUW5yRHFLeG9BYUVrcHpic0lPQ3BDdVFpQ1lzZng3b1R2aHRNaV9uS3Z4VGtNYlZublo4WU9XcGRpMFhWZFp4Vkl6MnFkSEF4ZTFRckdxalhjSEJzX1hHRzZJaNIB_AFBVV95cUxNcllWUm1qc3Eyd19jc2cwb3Z1V1JxTWFMM2VPNjdnRWo2aDdsZjZ4SFU2cS1MdWJ0NnM0MmdpUjczclhpZi1IeDlMLVVKTkRHU21NRXh2SURzUklGc3lPdkpUNXYxSWFjcy01Yjl6M2tPY2FSNU5rRTc1V0hwQzkxb1FILVdBWXdiMF9EclFZWWFmSHFsVDFsQ0hYektGbjQyZDhZNTZnLTVvbkZpSVR2dEpkdVlaYXd0d0VJMTEtcGdWYVRfVGV2VHJ5S2JzdEplMG00Z29iYnE2bWRBa3VrcnVTMExCSFViWURiWGNySUZSRVZtRzAyQUNJYUU?oc=5",
+    "aid": "cb35c17dc7",
+    "titel": "Lupo/Martini Wolfsburg bleibt auf Kurs: Derby-Sieg gegen tapfere Kästorfer",
+    "quelle": "WAZ-ONLINE.de",
+    "beschr": " Lupo/Martini Wolfsburg bleibt auf Kurs: Derby-Sieg gegen tapfere Kästorfer &nbsp;&nbsp; WAZ-ONLINE.de ",
+    "zeit": "2026-11-01T18:28"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "u",
+  "erstmals": "2026-11-01T21:01",
+  "archiv": [
+   {
+    "id": "7ba2dce612",
+    "titel": "Osnabrück verliert in Wolfsburg 0:2, Reese entscheidet das Duell",
+    "datum": "01.11.",
+    "stufe": "spielbericht",
+    "summary": "Der VfL Osnabrück verliert beim VfL Wolfsburg 0:2. Fabian Reese erzielt ein Tor und bereitet das zweite von Muhammed Damar vor."
    }
   ],
   "versuche": 1

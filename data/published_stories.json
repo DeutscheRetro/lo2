@@ -416,5 +416,65 @@
     },
     "published_at": "2026-11-01T18:12:06.133032",
     "source": "Die Sachsen News"
+  },
+  {
+    "id": "d9282c2c6e",
+    "generated_title": "DFB-Pokal: Holstein Kiel empfängt im Achtelfinale den 1. FC Köln",
+    "original_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUFFlU1Q5N1oyazliZmNJRWU5VzhIYzdCNFp5VDQyM3lvVWJFZlVKcTJvSmh2Tk5pZUN5ZDh4djRtUERKTWxTckFGTmNxZmJBQ0FOTEhoeks3MUpfTkNrZVNDdGtiaW9ObVR4SUI1Y2NoTGUybkI1RGVXN0pNQ2FlWDRMbGU4cE45dEE?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Kiel",
+      "event_stage": "sonstiges",
+      "main_teams": [
+        "Kiel"
+      ],
+      "main_players": [],
+      "summary": "Holstein Kiel bekommt im DFB-Pokal-Achtelfinale den Bundesligisten 1. FC Köln zugelost und hat Heimrecht. Gespielt wird am 1. und 2. Dezember 2026, der genaue Termin steht noch nicht fest.",
+      "one_sentence_summary": "Holstein Kiel bekommt im DFB-Pokal-Achtelfinale den Bundesligisten 1.",
+      "schluessel": "kiel|sonstiges"
+    },
+    "published_at": "2026-11-01T21:06:55.179142",
+    "source": "NDR.de"
+  },
+  {
+    "id": "d77e4a0b3d",
+    "generated_title": "Pokal-Achtelfinale: Kaiserslautern empfängt den SC Freiburg",
+    "original_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMTdud1ZsSm5WOWhUQzZpdmZjZ1pvZVJOemkyeVNubEdsS1JjUm12TG1fV0laUGdwSFRzTzlmRG8wQkJYb3E3bV9maWh1SUxBLWlGek9qVDBNNkVJdzFuSTYtb3Z0dDVVVUpRRVFyNEJWTWNpWlVNUGI5VzVZRTJuSE9FcDdhYVBYQ3NSbzkzNUhFWTBOaGVKSjdXMzMyQkM5WUdFZVJCeE9EUmJpdm1MN0l2WTU1QQ?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Kaiserslautern",
+      "event_stage": "sonstiges",
+      "main_teams": [
+        "Kaiserslautern"
+      ],
+      "main_players": [],
+      "summary": "Der 1. FC Kaiserslautern empfängt im DFB-Pokal-Achtelfinale am 1. oder 2. Dezember den SC Freiburg. Die Pfälzer hatten zuvor Mannheim und Hannover 96 ausgeschaltet.",
+      "one_sentence_summary": "Der 1.",
+      "schluessel": "kaiserslautern|sonstiges"
+    },
+    "published_at": "2026-11-01T21:06:55.212160",
+    "source": "Badische Zeitung"
+  },
+  {
+    "id": "6a67ca932b",
+    "generated_title": "Sorgen um Smith: St. Paulis Abwehrchef humpelt vom Platz",
+    "original_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWFFzZHJrQnp1akhZN3FHUzh3V2J4SFdMSEVkN3EyVWtGZkVIN1Z4bnhRZGZJSm1fQ3FzcklwRFZhakZWRWxhazdWMEVMVTFFVkpOb2JWa1cycEZYREphVlgwcmxnUlIwUkVaSkxGenAwMU5Pc3hRMUdzWktrSUF6NUNQUlBIYlUzQWlTeG85N0xPeFNBZEdGXzhabmNvdG81QjdpazhQWThGSDY1VGNaZ29zcmtzZ0cxdWRIckNCWUxDTHM?oc=5",
+    "fingerprint": {
+      "event_type": "verletzung",
+      "main_club": "St. Pauli",
+      "event_stage": "fraglich",
+      "main_teams": [
+        "Nürnberg",
+        "St. Pauli"
+      ],
+      "main_players": [
+        "Eric Smith"
+      ],
+      "summary": "St. Paulis Abwehrchef Eric Smith humpelte nach der 1:3-Niederlage gegen Nürnberg wortlos vom Platz, nachdem er früh einen Schlag auf den linken Schenkel erhalten hatte. Trainer Marcel Rapp hat keine Informationen, das nächste Spiel in Magdeburg ist erst am Sonntag.",
+      "one_sentence_summary": "St.",
+      "schluessel": "eric smith|verletzung"
+    },
+    "published_at": "2026-11-01T21:06:55.245367",
+    "source": "MOPO"
   }
 ]

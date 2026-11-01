@@ -1,5 +1,70 @@
 [
   {
+    "id": "6a67ca932b",
+    "titel": "Sorgen um Smith: St. Paulis Abwehrchef humpelt vom Platz",
+    "kategorie": "verletzung",
+    "badge": "Verletzung",
+    "badge_bg": "#e53935",
+    "badge_fg": "#fff",
+    "datum": "01.11.2026 21:04",
+    "wappen_url": "logos/stpauli.png",
+    "vereine": [
+      "Nürnberg",
+      "St. Pauli"
+    ],
+    "anriss": "St. Paulis Abwehrchef Eric Smith hat sich bei der 1:3-Niederlage gegen den 1. FC Nürnberg am Millerntor offenbar verletzt. Der Schwede humpelte nach dem Abpfiff mit einem ausgezogenen Fußballschuh wortlos",
+    "spielerstatus": [
+      {
+        "spieler": "Smith",
+        "klub": "St. Pauli",
+        "status": "fraglich",
+        "grund": "Schlag auf linken Schenkel, humpelte vom Platz"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "St. Pauli",
+    "pfad": "artikel/sorgen-um-smith-st-paulis-abwehrchef-humpelt-vom-platz-6a67ca932b.html",
+    "bild_tm": ""
+  },
+  {
+    "id": "d9282c2c6e",
+    "titel": "DFB-Pokal: Holstein Kiel empfängt im Achtelfinale den 1. FC Köln",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "01.11.2026 21:03",
+    "wappen_url": "logos/kiel.png",
+    "vereine": [
+      "Kiel"
+    ],
+    "anriss": "Holstein Kiel trifft im Achtelfinale des DFB-Pokals auf den Bundesligisten 1. FC Köln. Das ergab die Auslosung am Sonntag im Fußballmuseum von Dortmund. Die Kieler haben Heimrecht und empfangen die",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Kiel",
+    "pfad": "artikel/dfb-pokal-holstein-kiel-empfaengt-im-achtelfinale-den-1-fc-koeln-d9282c2c6e.html",
+    "bild_tm": ""
+  },
+  {
+    "id": "d77e4a0b3d",
+    "titel": "Pokal-Achtelfinale: Kaiserslautern empfängt den SC Freiburg",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "01.11.2026 21:03",
+    "wappen_url": "logos/kaiserslautern.png",
+    "vereine": [
+      "Kaiserslautern"
+    ],
+    "anriss": "Der Zweitligist 1. FC Kaiserslautern empfängt im Achtelfinale des DFB-Pokals den SC Freiburg. Das ergab die Auslosung am Sonntagabend. Die Partie steigt am 1. oder 2. Dezember auf dem Betzenberg.",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Kaiserslautern",
+    "pfad": "artikel/pokal-achtelfinale-kaiserslautern-empfaengt-den-sc-freiburg-d77e4a0b3d.html",
+    "bild_tm": ""
+  },
+  {
     "id": "a761ca495d",
     "titel": "Dresden: Okpala fehlt aus sportlichen Gründen im Kader",
     "kategorie": "news",
