@@ -29,35 +29,6 @@
   "archiv": []
  },
  {
-  "id": "10f7dd1461",
-  "schluessel": "frankfurt|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Frankfurt",
-  "klubs": [
-   "Frankfurt",
-   "Nürnberg"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Chatzialexiou wird Eintracht-Sportvorstand in Frankfurt - Nürnberg lässt Zeitpunkt offen",
-  "quellen": [
-   {
-    "url": "https://www.kicker.de/chatzialexiou-wird-eintracht-sportvorstand-in-frankfurt-nuernberg-laesst-zeitpunkt-offen-1267031/artikel#omrss",
-    "aid": "a39bdcdeb4",
-    "titel": "Chatzialexiou wird Eintracht-Sportvorstand in Frankfurt - Nürnberg lässt Zeitpunkt offen",
-    "quelle": "kicker 2. Bundesliga News",
-    "beschr": "Eintracht Frankfurt hat einen Nachfolger für Sportvorstand Markus Krösche gefunden: Joti Chatzialexiou kommt vom 1. FC Nürnberg. Über den Zeitpunkt haben sich beide Klubs geeinigt - aber womöglich noch nicht final.",
-    "zeit": "2026-10-31T12:14"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-01T11:42",
-  "archiv": []
- },
- {
   "id": "cdc72d78fb",
   "schluessel": "hannover|sonstiges",
   "person": "",
@@ -83,7 +54,8 @@
   "prio": 3,
   "status": "u",
   "erstmals": "2026-11-01T11:42",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "7191db8068",
@@ -253,35 +225,8 @@
   "prio": 3,
   "status": "n",
   "erstmals": "2026-11-01T11:42",
-  "archiv": []
- },
- {
-  "id": "5e516f272a",
-  "schluessel": "hannover|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hannover",
-  "klubs": [
-   "Hannover"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Boldt nach nur fünf Monaten in Hannover vor dem Aus",
-  "quellen": [
-   {
-    "url": "https://www.kicker.de/boldt-nach-nur-fuenf-monaten-in-hannover-vor-dem-aus-1266679/artikel#omrss",
-    "aid": "d83e96b117",
-    "titel": "Boldt nach nur fünf Monaten in Hannover vor dem Aus",
-    "quelle": "kicker 2. Bundesliga News",
-    "beschr": "Bei Hannover 96 steht Geschäftsführer Jonas Boldt offenbar schon vor dem Aus - nur fünf Monate nach seinem Start. Dem Traditionsklub droht der nächste Bruch in der sportlichen Führung. Auch der Trainer wackelt.",
-    "zeit": "2026-10-29T22:50"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-01T11:42",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "33f2a6532a",
@@ -309,7 +254,8 @@
   "prio": 3,
   "status": "n",
   "erstmals": "2026-11-01T11:42",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "3c23978361",
@@ -337,7 +283,8 @@
   "prio": 3,
   "status": "n",
   "erstmals": "2026-11-01T11:42",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "051de91a0f",
@@ -393,7 +340,8 @@
   "prio": 3,
   "status": "n",
   "erstmals": "2026-11-01T11:42",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "22b77ae93f",
@@ -421,7 +369,8 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-01T11:42",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "59430e16e8",
@@ -478,65 +427,8 @@
   "prio": 3,
   "status": "n",
   "erstmals": "2026-11-01T11:42",
-  "archiv": []
- },
- {
-  "id": "e61cedbb17",
-  "schluessel": "wolfsburg|transfer",
-  "person": "",
-  "spieler": [],
-  "klub": "Wolfsburg",
-  "klubs": [
-   "Wolfsburg",
-   "Hertha"
-  ],
-  "stufe": "geruecht",
-  "klasse": "transfer",
-  "titel": "„Schlechte Erfahrungen“: Zwei Wolfsburger heiß auf Hertha",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQNWM2eUs2ZmRycm1GcnNXN0pnUnZSQzhWNjJUa1F3NFNObGRuZ1Nib1FYZFJCMHFwUzR4LU1OSHI0ajBnMDZHV3hzZGtTYjYyU0F1TkVKZ0hCNmptdUlxYmlZbFh6UVdSakV6YmVPV3JJc05TT2xkNkJIYkg0WFhWWlcxc213X0lFbkh5THFwX3UxakViR1N2OWNTWFJ5Q1RMTXIySEVhTzM3WDhJLVBuWkFTZm16Q0FPcG56OGE3TXVaa216S1RaOUoycVhPWjR0bVoxaDRTVmx4OEo1a0ZXZE5iLTQ2ZWc5UUJ0NVYwSlZyeEQydUFxdVhRR05IUQ?oc=5",
-    "aid": "c027513500",
-    "titel": "„Schlechte Erfahrungen“: Zwei Wolfsburger heiß auf Hertha",
-    "quelle": "SZ.de",
-    "beschr": " „Schlechte Erfahrungen“: Zwei Wolfsburger heiß auf Hertha &nbsp;&nbsp; SZ.de ",
-    "zeit": "2026-11-01T04:47"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-01T11:42",
-  "archiv": []
- },
- {
-  "id": "56e152b65b",
-  "schluessel": "bochum|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Bochum",
-  "klubs": [
-   "Bochum",
-   "Cottbus"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Schiedsrichter kassiert drei Tore ein: Bochum dreht Spiel in Cottbus",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcUFhX00wcnp0TmVyTm1saXRUZmEtWVloUHEtOEdhanU1ZFRteFU2VGo5ZWtJTGtRQ1RXVWVjZUFldnlZMHlnaWJmMEpHNkVneGU3V2hmQXQwS3lrWTA3X0U4bjFpazdDLUJEMHdTQjRJWG5saldZUmEtLVh6T1hzZWp3T2lwVFpvMkhXWHlIUW1BWFJyUE1YQXVIb3A5VjBrN18tUGpfNmI1UUdvbTJUOHBGTFd2VTgwZnBGX3Z3RzZOU25HMDRvNFhyaGhjWVU?oc=5",
-    "aid": "77a4c01506",
-    "titel": "Schiedsrichter kassiert drei Tore ein: Bochum dreht Spiel in Cottbus",
-    "quelle": "T-Online",
-    "beschr": " Schiedsrichter kassiert drei Tore ein: Bochum dreht Spiel in Cottbus &nbsp;&nbsp; T-Online ",
-    "zeit": "2026-10-30T20:27"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-01T11:42",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "6ed9e3f061",
@@ -564,34 +456,6 @@
   "archiv_status": "neu",
   "prio": 2,
   "status": "n",
-  "erstmals": "2026-11-01T11:42",
-  "archiv": []
- },
- {
-  "id": "c086218640",
-  "schluessel": "hannover|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hannover",
-  "klubs": [
-   "Hannover"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Vollzug: Hannover 96 trennt sich von Sport-Geschäftsführer Boldt",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWVNsMWtkM1kwYXZSZ2dfQzdwQ3p2WXM1bWRQdjlwVHRUY3BGeDgwQ2RmcDZtNnBYYjI2dDZBVGpGRklXWjZZZnlhLXVxU1ByVU5FZDh5aHB2VkxZTGhEcEVHSDZTaGZ3ZzdnbkFrcTFnaEJmaWlOYy1KLVQ2a1JPSEhxeGhqY1lYTmxzQlk2MVNScGVGOW4tbmNhQ1M2TGdaSGlpNnhfRTl1LVNVVDdBVnRYZ2ZHY01adkpudXUxcXhlQQ?oc=5",
-    "aid": "1beca55846",
-    "titel": "Vollzug: Hannover 96 trennt sich von Sport-Geschäftsführer Boldt",
-    "quelle": "NDR.de",
-    "beschr": " Vollzug: Hannover 96 trennt sich von Sport-Geschäftsführer Boldt &nbsp;&nbsp; NDR.de ",
-    "zeit": "2026-10-31T11:31"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "u",
   "erstmals": "2026-11-01T11:42",
   "archiv": []
  },
@@ -624,34 +488,6 @@
   "archiv": []
  },
  {
-  "id": "b08a4de999",
-  "schluessel": "hertha|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Hertha",
-  "klubs": [
-   "Hertha"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Hertha-Coach Leitl nach 3:0 beim FCK: „Wir rauschen nicht, wir arbeiten!“",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWkIyX3dzVU1vMjN1U1UwZktuckF1X0RUQlRvLUhRWFpJNEl4czRaUGFkWDFqRjhybkItQ3N6NWprYUYzcU4tWTFsSEdsUFVUdWh3MHl3UUc3QWFFdkYyeENmdERZcy1DSWVyU0k2amhTRE9hbjhWVXh2Z2V1bnNCR1VUN2tRcGJPVjdQbDR3VVlKbDZiU1poS3dXWmMxd1RSUzVTN1cxQ3ZwU1hXUF9tRk1iMkUyUQ?oc=5",
-    "aid": "8f0f2caa9b",
-    "titel": "Hertha-Coach Leitl nach 3:0 beim FCK: „Wir rauschen nicht, wir arbeiten!“",
-    "quelle": "Berliner Kurier",
-    "beschr": " Hertha-Coach Leitl nach 3:0 beim FCK: „Wir rauschen nicht, wir arbeiten!“ &nbsp;&nbsp; Berliner Kurier ",
-    "zeit": "2026-10-31T18:48"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-01T11:42",
-  "archiv": []
- },
- {
   "id": "93434a3a03",
   "schluessel": "hertha|sonstiges",
   "person": "",
@@ -675,64 +511,6 @@
   ],
   "archiv_status": "neu",
   "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-01T11:42",
-  "archiv": []
- },
- {
-  "id": "ed0c774877",
-  "schluessel": "hertha|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hertha",
-  "klubs": [
-   "Hertha",
-   "Wolfsburg"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Hertha BSC weiter nicht zu stoppen - Auch Wolfsburg bleibt auf Aufstiegskurs",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUFdYRGszSHNhSktUVC1tUlpNV1k0YnBFZjZoRkZ1SjhWRXp0RTJXbmZkTEpzeUJ6anQxVFctZndORlM2NlZUR0JtNUFxSVJYY0tXTmFsZmhhUl82R1I0Z25vbUxyNEpYWGVNdk5KQmZZQ3dhTG10Nm5wRkxJOTRiRkpEWE5OaWNOWXRvbnlERExsTllhNUgyMW45NHR4MUtfOUZ5T2hlMmtwUGh1cFR5bkZlTTBxTjNrYU54TW5uZ244a25PTzBQZw?oc=5",
-    "aid": "1da2557cc2",
-    "titel": "Hertha BSC weiter nicht zu stoppen - Auch Wolfsburg bleibt auf Aufstiegskurs",
-    "quelle": "SPOX.com",
-    "beschr": " Hertha BSC weiter nicht zu stoppen - Auch Wolfsburg bleibt auf Aufstiegskurs &nbsp;&nbsp; SPOX.com ",
-    "zeit": "2026-10-31T15:22"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-01T11:42",
-  "archiv": []
- },
- {
-  "id": "4d546662e2",
-  "schluessel": "darmstadt|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Darmstadt",
-  "klubs": [
-   "Darmstadt",
-   "Magdeburg"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Smits Zaubertor rettet Darmstadt gegen Magdeburg einen Punkt",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObGFmZDVoUUFHSzJEUEtncEFKeE9yN3R6Vi1wTlR5dTdqdDF5NUkwNTR0MFJIOWNROFZpdXdGWGxSTTJqbVdMU183NS1ESFFBTnRCQVBLcUcyMWhJRnFtbjFZNjRBSllOTjE5SE1lVEdPNUJIR09BbTNCTENQbUlxUTdUS2h5VWhZOXIwNm9HeVZMbG83X2N1b3d6YTl0NER6bFFGQzBpcHhiRmpGdU9OOFlYTGRjYnZSRGRubGdIc215N0tUOWNvUXFra0o0R0ZrUnc?oc=5",
-    "aid": "48f0f53bab",
-    "titel": "Smits Zaubertor rettet Darmstadt gegen Magdeburg einen Punkt",
-    "quelle": "sportschau.de",
-    "beschr": " Smits Zaubertor rettet Darmstadt gegen Magdeburg einen Punkt &nbsp;&nbsp; sportschau.de ",
-    "zeit": "2026-10-31T14:57"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
   "status": "n",
   "erstmals": "2026-11-01T11:42",
   "archiv": []
@@ -795,63 +573,6 @@
   "archiv": []
  },
  {
-  "id": "0339d221b9",
-  "schluessel": "nurnberg|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Nürnberg",
-  "klubs": [
-   "Nürnberg"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Der Architekt geht: Nürnberg verliert Sportvorstand Chatzialexiou",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUElTVDFlRklQdUtWZG5VTi02LUJ4ZXZYOTIwa3p3aVFnalFEQW9JaEZEVHdYN2JONUFJRVh1Y1hzYVBLU2NBUmN5VThYUGtEbTR5Y1hKdXBCMG9xM2NFZi1FWldxNFB4VXZxbTRxeTQxZDFSTUdiNzlCV3RIVHVXSzB5eVNEQ2t6QzV3eEZUWjJLbXFPVGR3MnIzd2h0V0RwLW1QckRPN3ZocGhHTUE?oc=5",
-    "aid": "3808636caf",
-    "titel": "Der Architekt geht: Nürnberg verliert Sportvorstand Chatzialexiou",
-    "quelle": "sportschau.de",
-    "beschr": " Der Architekt geht: Nürnberg verliert Sportvorstand Chatzialexiou &nbsp;&nbsp; sportschau.de ",
-    "zeit": "2026-10-31T12:40"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-01T11:42",
-  "archiv": []
- },
- {
-  "id": "3ea394420d",
-  "schluessel": "st. pauli|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "St. Pauli",
-  "klubs": [
-   "St. Pauli",
-   "Nürnberg"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "St. Pauli vor Topspiel gegen Nürnberg: Wird das zum Vorteil?",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGtpSTctbjVSYVFWc0t2M3p4NFFLeGNnclRicmNxYzZTZlVXZ0k2OTRQSHBHQkhJWTlhaTlOTjJ6MWc4WjFQRnJJWndOVWFUcGxRX0FTQ0NiNTBKMzB1TWVMLTROTVQ2SnRpbm1CbHpIWHA0SWpuTmxpOWdVdXZIcFVyVGtrRXM5RWw4ekxmUWFtbjVfSDA0UTd0VzN3alN6SE1XTEFlVm5Cd1dqb2xnUXgxWTVLdw?oc=5",
-    "aid": "c27dcdace3",
-    "titel": "St. Pauli vor Topspiel gegen Nürnberg: Wird das zum Vorteil?",
-    "quelle": "MOPO",
-    "beschr": " St. Pauli vor Topspiel gegen Nürnberg: Wird das zum Vorteil? &nbsp;&nbsp; MOPO ",
-    "zeit": "2026-11-01T10:20"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-01T11:42",
-  "archiv": []
- },
- {
   "id": "15ef9544fa",
   "schluessel": "nurnberg|spiel",
   "person": "",
@@ -904,62 +625,6 @@
   "archiv_status": "neu",
   "prio": 2,
   "status": "n",
-  "erstmals": "2026-11-01T11:42",
-  "archiv": []
- },
- {
-  "id": "9f8b4d0ab9",
-  "schluessel": "frankfurt|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Frankfurt",
-  "klubs": [
-   "Frankfurt"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Frankfurt holt Chatzialexiou als Krösche-Nachfolger – Spezielle Klausel für SGE",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNE5OTmJsRGlJYVd1NElKdV9EcE1UTkJhTVJzZk1uU0JwZHZHNUNjUlNvcU9KWHJTTzF2d1JlTHNDQW1RN016bUJZSWNsaHktVmRibkU3VVNaQzljbURpODRqaHFJU3ZIVWNLeEFtZUMzWFJub0lwZjF4bEd4Q3dqaXNWT0NtQnBpanpUcUNjcjk0di1UcFh3aDZFSlpScENjRHdiR3dhSjR2Szg5aHZhQ0VjZS1rMzNjWWo0cTFoMUs?oc=5",
-    "aid": "848be86bed",
-    "titel": "Frankfurt holt Chatzialexiou als Krösche-Nachfolger – Spezielle Klausel für SGE",
-    "quelle": "Transfermarkt",
-    "beschr": " Frankfurt holt Chatzialexiou als Krösche-Nachfolger – Spezielle Klausel für SGE &nbsp;&nbsp; Transfermarkt ",
-    "zeit": "2026-10-31T12:12"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "u",
-  "erstmals": "2026-11-01T11:42",
-  "archiv": []
- },
- {
-  "id": "0e7c0468e1",
-  "schluessel": "frankfurt|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Frankfurt",
-  "klubs": [
-   "Frankfurt"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Unterschrift zum Schnäppchen-Preis: Chatzialexiou könnte zudem schon früher für die Eintracht arbeiten",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNTJfclJWRXgwVEhFVEVJbUUwT1hsWkxaZzZDVkRrOFRhX3FxYTFieXNHOUsweXkyMmowMmIwUHNfek84NmxlQTRyNGJJUml1RmQtQXNUOUdHOVhjZXJEU254SndVTXlwaFZGd1I0UUZHNUJsRXF1TnBxU1h5eEt2enlQUDZmUW9uU0hPMHV5RDZOZlU0WFlZbGc4emFzd2NJazItUEtJRWY4dU5NT2JBY21LRmRYMU1XRk5RUWd1Rl9vaDRKcmZGekhTOE9WMnR5?oc=5",
-    "aid": "3596fa1cfb",
-    "titel": "Unterschrift zum Schnäppchen-Preis: Chatzialexiou könnte zudem schon früher für die Eintracht arbeiten",
-    "quelle": "Frankfurter Rundschau",
-    "beschr": " Unterschrift zum Schnäppchen-Preis: Chatzialexiou könnte zudem schon früher für die Eintracht arbeiten &nbsp;&nbsp; Frankfurter Rundschau ",
-    "zeit": "2026-10-31T14:00"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "u",
   "erstmals": "2026-11-01T11:42",
   "archiv": []
  },
@@ -1103,7 +768,8 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-01T11:42",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "14729355c1",
@@ -1132,7 +798,8 @@
   "prio": 3,
   "status": "n",
   "erstmals": "2026-11-01T11:42",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "513ce21f89",
@@ -1191,34 +858,6 @@
   "archiv": []
  },
  {
-  "id": "eae62e3e7b",
-  "schluessel": "hannover|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hannover",
-  "klubs": [
-   "Hannover"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Hannover 96: Was Wontorra über Krisen-Trainer Wagner verrät",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMDFBV3dYcHdJVnBsODlIOFB6MlJKYVJrc3dMT0tGNnJKUVQxR2pDM2pTSUpCU3dhVmdLNjNra2J0LWJxZlhPdkdLMkZtNzNLLTUxYkJOODZwWGF3VXF0Yl9fZG9RZVhBSWttMjdLZFZqWWNtQ1hiOUJ2eFpHT251OWU0RVNuWU0waWdfczRoc0FBSXcydWJ2MWUxNTJRMHlqd3YybWZySUEtSjBmUHNGVFFPaVNzd2NnM3VOQw?oc=5",
-    "aid": "46380a1986",
-    "titel": "Hannover 96: Was Wontorra über Krisen-Trainer Wagner verrät",
-    "quelle": "BILD",
-    "beschr": " Hannover 96: Was Wontorra über Krisen-Trainer Wagner verrät &nbsp;&nbsp; BILD ",
-    "zeit": "2026-11-01T10:00"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-01T11:42",
-  "archiv": []
- },
- {
   "id": "1819b974bd",
   "schluessel": "hannover|sonstiges",
   "person": "",
@@ -1242,34 +881,6 @@
   ],
   "archiv_status": "neu",
   "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-01T11:42",
-  "archiv": []
- },
- {
-  "id": "aa8060757f",
-  "schluessel": "hannover|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hannover",
-  "klubs": [
-   "Hannover"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Hannover 96 trennt sich von Jonas Boldt",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLXQ0Q1dmNS1Pa3JDUjVHYnZ3U0tqaUZmM1JKU3o5RUdFaW1jQ0ZqbFB2M2h2U0c1d05USUowS2JyanZOblprQjV3ZEtsMEZDVzNGbGJaV1hPSWhFbG5mYXlUSnl4eHJZN0l2eHU3ZWlqbHZ1dTYteF9NSXFfck1JQ0pkR3RZOTRQX0diNXdYNlVWX0JsczV3?oc=5",
-    "aid": "3ea4561548",
-    "titel": "Hannover 96 trennt sich von Jonas Boldt",
-    "quelle": "Sky.de",
-    "beschr": " Hannover 96 trennt sich von Jonas Boldt &nbsp;&nbsp; Sky.de ",
-    "zeit": "2026-10-31T12:56"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
   "status": "n",
   "erstmals": "2026-11-01T11:42",
   "archiv": []
@@ -1300,7 +911,8 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-01T11:42",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "63513ef39d",
@@ -1469,36 +1081,8 @@
   "prio": 3,
   "status": "n",
   "erstmals": "2026-11-01T11:42",
-  "archiv": []
- },
- {
-  "id": "49c04815c3",
-  "schluessel": "wolfsburg|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Wolfsburg",
-  "klubs": [
-   "Wolfsburg",
-   "Hertha"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Reese entscheidet Nordduell: Wolfsburg bereit für Hertha BSC",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORjJlTFh0TFpLS1RDSGRyVzUtcVY0cElDSVhyc3NNNWJ3TFBkNWVubExNZmdTMzZZM3hvR3JsclA3a0JuR1FJYUdELXFacl8wWHl4SFRiVGJJcFh2dVBNTzNULW1qVjNEQXRuVzZiY0ZTRDlyd1N0WFBnTmJuT1JvQ25ZQVBZM0xVNmxWbXdvc1FwZm1uSVVCalV6VmNPMkk1ZjZPUWtkYkxSNk91c2FGd09XS2RtVkhz?oc=5",
-    "aid": "6a46de6d91",
-    "titel": "Reese entscheidet Nordduell: Wolfsburg bereit für Hertha BSC",
-    "quelle": "Vodafone live",
-    "beschr": " Reese entscheidet Nordduell: Wolfsburg bereit für Hertha BSC &nbsp;&nbsp; Vodafone live ",
-    "zeit": "2026-10-31T15:00"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-01T11:42",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "61c3ffb928",
@@ -1520,64 +1104,6 @@
     "quelle": "Treffpunkt Betze",
     "beschr": " Pleite gegen Hertha: „Müssen jetzt nicht die Köpfe hängen lassen ” &nbsp;&nbsp; Treffpunkt Betze ",
     "zeit": "2026-10-31T15:57"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-01T11:42",
-  "archiv": []
- },
- {
-  "id": "a57408c0b4",
-  "schluessel": "heidenheim|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Heidenheim",
-  "klubs": [
-   "Heidenheim",
-   "Karlsruhe"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "FC Heidenheim kritisiert Auftritt beim Karlsruher SC",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZHpFSF8waXFaWjYzN0gwZVNIbkRCb0NaSXFVWlZpYWtRY0RRWS1iRWt6RWtVQXQwamd6c2NnTF90U0xJcmJySmV4T2JMbFlESC1MTFhDbXZ6ZG9QY3RCLUZndWVpR3d2YXAtYWtpYl9nbGJ6YzVWeTh3dTlSYkJuYlpBWGhvbjRUeTNKR0pxWG54emV2cTdXYjMwZnZWQmg2bWJYT3M2Z0pqYlJja2owcXJjd00?oc=5",
-    "aid": "455f5d8e4f",
-    "titel": "FC Heidenheim kritisiert Auftritt beim Karlsruher SC",
-    "quelle": "Wochenblatt Reporter",
-    "beschr": " FC Heidenheim kritisiert Auftritt beim Karlsruher SC &nbsp;&nbsp; Wochenblatt Reporter ",
-    "zeit": "2026-11-01T11:12"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-01T11:42",
-  "archiv": []
- },
- {
-  "id": "8505115e5c",
-  "schluessel": "karlsruhe|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Karlsruhe",
-  "klubs": [
-   "Karlsruhe",
-   "Heidenheim"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Karlsruher SC: Stimmen nach dem Heimspiel gegen Heidenheim",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNHNLY1ZxSk9PTDdMdE5qNXZlWjlKcFQwWXNsNGpTTTM4VFNrNjFVY0NzQUFmZlAwRjUwRzJDc0FOR2tobEJkWlgwVEZjeWZKZE5KT0F1dXdUZlo0UHJLNHlrWTZISHpzV25COC0tWmdsU1JMZGpOYmxyN012NjlnQW0xaUhrZHcySjY0Ny1HNVEycDRQc1JLTTJJNVJ0VVdBM0lMa2U2TmFBS3haTVJ2RTJtbkhwai14LU1F?oc=5",
-    "aid": "e513224e7e",
-    "titel": "Karlsruher SC: Stimmen nach dem Heimspiel gegen Heidenheim",
-    "quelle": "Wochenblatt Reporter",
-    "beschr": " Karlsruher SC: Stimmen nach dem Heimspiel gegen Heidenheim &nbsp;&nbsp; Wochenblatt Reporter ",
-    "zeit": "2026-11-01T11:11"
    }
   ],
   "archiv_status": "neu",
@@ -1644,34 +1170,6 @@
   "archiv": []
  },
  {
-  "id": "f9ac66e532",
-  "schluessel": "bochum|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Bochum",
-  "klubs": [
-   "Bochum"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Späte Wende: Befreiungsschlag für VfL Bochum",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ0ZYYXFJVTJrcFBzbVVYNWtCUkluQ240UXE1YWVDczNFRWh2ZThTR3lpWnI5NnJvSHNYaGhyanpXZlRubS04YWJsUUgweFlWM0tLNnhFdE9wUFdrT0dBUkRVczk5bFlVTmFzQWdPWmZWTTJMTkNnSFVza3YyS1dDTEk4U0Z1NXhGMG9vQ1g0Y2NiT1RrQU53b3hhVGd4c19ucXJuMzJMWmw0X0dTY3VlV1hQQ0Fidw?oc=5",
-    "aid": "05c7f56713",
-    "titel": "Späte Wende: Befreiungsschlag für VfL Bochum",
-    "quelle": "SPORT1",
-    "beschr": " Späte Wende: Befreiungsschlag für VfL Bochum &nbsp;&nbsp; SPORT1 ",
-    "zeit": "2026-10-31T14:57"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-01T11:42",
-  "archiv": []
- },
- {
   "id": "f33f8dba28",
   "schluessel": "wolfsburg|sonstiges",
   "person": "",
@@ -1726,35 +1224,8 @@
   "prio": 3,
   "status": "n",
   "erstmals": "2026-11-01T11:42",
-  "archiv": []
- },
- {
-  "id": "c1acc70139",
-  "schluessel": "wolfsburg|kader",
-  "person": "",
-  "spieler": [],
-  "klub": "Wolfsburg",
-  "klubs": [
-   "Wolfsburg"
-  ],
-  "stufe": "kader",
-  "klasse": "kader",
-  "titel": "Aufstellung",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcDFXRVhDX3U4US0ydkJjamtyWkUtclFFMTVLSVQ5bEJKcnlzTVNqaklnRlZ1SGRtX1l0SXFuR1ctbTFraGtqbU5NNmRvWnBvdGVaYkpCb1ZzX2JxR3JPSEN4SGt3MnU5RHJYSWQ5TWlXaXRzLW5mU3l4dFRxcXdxUFFXckduLXg2NDZ4MmNBX3pHRzhuWUdtcDFkRi1naFdGN19fMHFaaVREVkd4d3c?oc=5",
-    "aid": "80992f50ff",
-    "titel": "Aufstellung",
-    "quelle": "VfL Wolfsburg",
-    "beschr": " Aufstellung &nbsp;&nbsp; VfL Wolfsburg ",
-    "zeit": "2026-10-31T12:51"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-01T11:42",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "5e3d2976d0",
@@ -1804,34 +1275,6 @@
     "quelle": "Sky.de",
     "beschr": " Starker Reese: Wolfsburg untermauert Aufstiegsambitionen &nbsp;&nbsp; Sky.de ",
     "zeit": "2026-10-31T15:29"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-01T11:42",
-  "archiv": []
- },
- {
-  "id": "9130f18d7d",
-  "schluessel": "hertha|verletzung",
-  "person": "",
-  "spieler": [],
-  "klub": "Hertha",
-  "klubs": [
-   "Hertha"
-  ],
-  "stufe": "rueckkehr",
-  "klasse": "verletzung",
-  "titel": "Vor Topspiel bei Hertha BSC: Reese und Damar brennen auf Berlin-Rückkehr",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcm14ZldTSEhvQlM3czRDQTVhREJvbHRnajh0UTZ5X2cwaV90dFNlVk1aaWUwd1V1ME5LLXFMWE4temI0dV9yZWFteFhoRUVtQWhNV0gzeXI1cnRsNmVCQVJwUWZjcFZfQXRrTzNKZUhqTGFnb3k3Vi1VWXZiaWZRZnAydTVaRm1IdFFTTEVvdFFEeGVWZXhaUDFsS00ydzVYMTg1VXZaUHZvZGRvb3hr?oc=5",
-    "aid": "f57eea9f29",
-    "titel": "Vor Topspiel bei Hertha BSC: Reese und Damar brennen auf Berlin-Rückkehr",
-    "quelle": "upday News",
-    "beschr": " Vor Topspiel bei Hertha BSC: Reese und Damar brennen auf Berlin-Rückkehr &nbsp;&nbsp; upday News ",
-    "zeit": "2026-11-01T05:25"
    }
   ],
   "archiv_status": "neu",
@@ -1982,7 +1425,8 @@
   "prio": 3,
   "status": "n",
   "erstmals": "2026-11-01T11:42",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "3f222e68b8",
@@ -2011,6 +1455,608 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-01T11:42",
+  "archiv": []
+ },
+ {
+  "id": "95a9429f6f",
+  "schluessel": "nurnberg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Nürnberg",
+  "klubs": [
+   "Nürnberg",
+   "Frankfurt"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Chatzialexiou erklärt Wechsel: \"Die Legende wird auch ohne mich leben\"",
+  "quellen": [
+   {
+    "url": "https://www.kicker.de/chatzialexiou-erklaert-wechsel-die-legende-wird-auch-ohne-mich-leben-1267429/artikel#omrss",
+    "aid": "83d2ead4f5",
+    "titel": "Chatzialexiou erklärt Wechsel: \"Die Legende wird auch ohne mich leben\"",
+    "quelle": "kicker 2. Bundesliga News",
+    "beschr": "Joti Chatzialexiou wird mitten in der Saison vom 1. FC Nürnberg zu Eintracht Frankfurt wechseln. Am Sonntag erklärte der Sportvorstand seine Beweggründe - und seinen Zeitplan.",
+    "zeit": "2026-11-01T13:41"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "u",
+  "erstmals": "2026-11-01T15:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "b3e76d04f5",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover",
+   "St. Pauli"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "LIVE! Hannover dreht das Spiel und ist in Überzahl - St. Pauli belohnt sich",
+  "quellen": [
+   {
+    "url": "https://www.kicker.de/live-hannover-dreht-das-spiel-und-ist-in-ueberzahl-st-pauli-belohnt-sich-1266556/artikel#omrss",
+    "aid": "0254e6c56a",
+    "titel": "LIVE! Hannover dreht das Spiel und ist in Überzahl - St. Pauli belohnt sich",
+    "quelle": "kicker 2. Bundesliga News",
+    "beschr": "Der 1. FC Nürnberg reist nach zwei Niederlagen zum seit sechs Spielen ungeschlagenen FC St. Pauli. Sandro Wagner möchte gegen Dresden seinen ersten Sieg als 96-Coach feiern. Außerdem trifft das Fürther Kleeblatt auf Kiel.",
+    "zeit": "2026-11-01T12:31"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-01T15:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "4289c8f0ad",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Hannover 96: Folgt Virkus auf Boldt?",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLS1nSHRkU2pRb1NrWUpGdWcyaElNd3FBWUhjT3JtX3ZqUzFfNDhaVC1idXREbjZoT203cFZDNkRuVTZ4UHFxaDVWenh2SWhQTWdsUlkybjFGRGQ3TXc5aEM4Z016akVOOWJJZmVXUmVtRkc5WXZSdzliVXlhYXJPZDBCSktmNC14VWdmRlBlWkh4Snc?oc=5",
+    "aid": "4419daf8ae",
+    "titel": "Hannover 96: Folgt Virkus auf Boldt?",
+    "quelle": "FussballTransfers.com",
+    "beschr": " Hannover 96: Folgt Virkus auf Boldt? &nbsp;&nbsp; FussballTransfers.com ",
+    "zeit": "2026-11-01T14:11"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "u",
+  "erstmals": "2026-11-01T15:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "50be8c8aa1",
+  "schluessel": "hannover|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "Dynamo in Hannover live: Vom 1:0 zum 1:2! SGD verspielt Führung im Kellerduell",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbFZCSEZCRUNRRmZNV0dhN1Q4M3M1NXRLVUxtalJJNy1IcThUa0JpS2YxQzRZTGNLQTd0VTBZQllJZFh5MXBjYkx3NUtXMkZPOVdxazZCdm5tUGxCRlZ3bGJ4Q3JEaGdfVE9xQ1VIdzFFeTU5T2NDZHJWV2JGdTQ3QW12d2dwaWIxX2xOaThkalVZa0NTd3VNNHBkY1kxRUdOSVlFdm9LMGRoSnpvak5yYUtsYWNuZEJTRlJ1RWRoWDJ6NUpMOWxMOWIzNV8wc3BDRm1ETVdjWFREMUk0VHhHQ0xkYTNmZw?oc=5",
+    "aid": "e185b4e709",
+    "titel": "Dynamo in Hannover live: Vom 1:0 zum 1:2! SGD verspielt Führung im Kellerduell",
+    "quelle": "TAG24",
+    "beschr": " Dynamo in Hannover live: Vom 1:0 zum 1:2! SGD verspielt Führung im Kellerduell &nbsp;&nbsp; TAG24 ",
+    "zeit": "2026-11-01T14:53"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-01T15:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "c3c9a3fcc6",
+  "schluessel": "magdeburg|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Magdeburg",
+  "klubs": [
+   "Magdeburg"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "Die Pk nach dem Lilien-Remis gegen Magdeburg",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc0RZZjVoTGd2UHNNYmI2d2U3b2drc2F2a1ZIYXJMT1hmSnpLT3MyYWk5bTh5UzdLeTJMT1h1Zl9ndjgxQS1PZnk5VnpCV1lZVUJnZ2FGekVNMEVoUlc5YjJQZHVVU0drRGNqVE5nNVU4NjJOUFpUTWIzdS1zYmYybDE5YUVCOGNnbU1MamRxMWUxbjB0VFZ0S3E2RGxzcHpsOTZwUlpaZ00xM3BSa0kxTjVxbGlBRGtVRVZzU2FhUQ?oc=5",
+    "aid": "9cb8ee42fc",
+    "titel": "Die Pk nach dem Lilien-Remis gegen Magdeburg",
+    "quelle": "hessenschau.de",
+    "beschr": " Die Pk nach dem Lilien-Remis gegen Magdeburg &nbsp;&nbsp; hessenschau.de ",
+    "zeit": "2026-11-01T12:07"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "u",
+  "erstmals": "2026-11-01T15:01",
+  "archiv": [
+   {
+    "id": "9db96cdceb",
+    "titel": "Darmstadt holt gegen Magdeburg nur ein 1:1 trotz Hackentor von Smit",
+    "datum": "01.11.",
+    "stufe": "spielbericht",
+    "summary": "Darmstadt 98 trennt sich am 10. Spieltag vom 1. FC Magdeburg 1:1. Müller traf für die Gäste, Smit glich per Hacke nach Vorlage von Richter aus."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "8e28e6bf7e",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover",
+   "Cottbus",
+   "Nürnberg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Sebastian Schuppan zu Hannover?: Mattuschka bringt Ex-Cottbuser auch in Nürnberg ins Gespräch",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSXdEUmNwSlhHQnhjVlZDYjJQNjRBY1poTVVnaFZKc2pFOUJ3U3B3dlhTRHI4cnY1dHVWclJoM1VJWE9ieG5wVDBXU1MweHJwNS1XUy1GQWlDSHJzRlNBcEE3WjFUc2lpR2VpZnpIbGpnMHIydm1BLVZQZ2xGeGtMNldvYzhiSDhhZ0h4YzdaUjlidEQ5NmtYM3hvU0dubzVMdkh1TGpYVFhFN2hLZmNMRjZFMk0tY3BDLUdsbDE1SjNfUi1PVVVtZXRCRy1ua0Rnc2FzSl9ZWkh1WEtaMnQ4WEF3?oc=5",
+    "aid": "66b15b8290",
+    "titel": "Sebastian Schuppan zu Hannover?: Mattuschka bringt Ex-Cottbuser auch in Nürnberg ins Gespräch",
+    "quelle": "Lausitzer Rundschau",
+    "beschr": " Sebastian Schuppan zu Hannover?: Mattuschka bringt Ex-Cottbuser auch in Nürnberg ins Gespräch &nbsp;&nbsp; Lausitzer Rundschau ",
+    "zeit": "2026-11-01T14:02"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-01T15:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "a1aa932cb0",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Dynamo in Hannover live: Schwarz-Gelb macht sich auf den Rängen breit",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNUw3bVkwMGw2RlNMUW5QQ1NYcWFYeEJuYm5HeGkyeWhoaEg3TWRXY2N2cDVXSDVBY1hpanB4SjVFcHJXRjNLOXRrbi1lUUUxcFdHcU1GSF9TM0FRcmhoTGNaRGFQOWh6b2N5MEpyYU1WMEtCUHUycFVGLVFtaC0ydnRJejAxVnRoeHhKWllEcU1TUE9QbThWRDZYTnpUd3k4bWZJMGg3VGZwOTVKS3UzdGQ5cUdnVE51WENucVFfWk8wU0dOdXNEY1BtNktKaHRyMWdMWg?oc=5",
+    "aid": "bf2ce0855a",
+    "titel": "Dynamo in Hannover live: Schwarz-Gelb macht sich auf den Rängen breit",
+    "quelle": "TAG24",
+    "beschr": " Dynamo in Hannover live: Schwarz-Gelb macht sich auf den Rängen breit &nbsp;&nbsp; TAG24 ",
+    "zeit": "2026-11-01T12:14"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-01T15:01",
+  "archiv": [
+   {
+    "id": "cb0b737b08",
+    "titel": "Dynamo sucht in Hannover den ersten Auswärtssieg seit April",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Dynamo Dresden will bei Hannover 96 den ersten Auswärtssieg seit 204 Tagen holen. Seit dem 2:0 in Nürnberg im April blieb das Team von Trainer Thomas Stamm auswärts acht Ligaspiele ohne Sieg."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "8b12d4f128",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Dynamo in Hannover live: Rapp sei Dank! SGD führt zur Pause im Kellerduell",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLTNIVm1uNEkxSnJVZGJ3T3BvcHJfXzZnXzN1cTBDS1MxNTVvcWJJYThHRVJyYTkzSEFjSHJCZHRqTl9UZ05zdUItS1o2RmUzVXRyUmVoRUI0VlN1Z0hsTE14ZHp2WUwtUTdkWmVXaE5aUUZfWXJDNkZKekl6Zi1EVXcwTlg3UlZKS1dpXzR6VExUemVfRWp4eVBRenVZYTI2bjBjTHVFa3RHbmdjVTNESmM4MVNDQm9VWGE5T3hoMFV6eDJfY2FjT2N5TE1ESHZEdGVCYmJHVnAzdw?oc=5",
+    "aid": "af69378de1",
+    "titel": "Dynamo in Hannover live: Rapp sei Dank! SGD führt zur Pause im Kellerduell",
+    "quelle": "TAG24",
+    "beschr": " Dynamo in Hannover live: Rapp sei Dank! SGD führt zur Pause im Kellerduell &nbsp;&nbsp; TAG24 ",
+    "zeit": "2026-11-01T14:18"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-01T15:01",
+  "archiv": [
+   {
+    "id": "cb0b737b08",
+    "titel": "Dynamo sucht in Hannover den ersten Auswärtssieg seit April",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Dynamo Dresden will bei Hannover 96 den ersten Auswärtssieg seit 204 Tagen holen. Seit dem 2:0 in Nürnberg im April blieb das Team von Trainer Thomas Stamm auswärts acht Ligaspiele ohne Sieg."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "f88ac1214d",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Dynamo in Hannover live: Rapp steht goldrichtig! SGD führt im Kellerduell",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdG5ScFUtS0pBakJlVi1xSEZKOU55S0Z1TzFydXZSMWNLR3NBT283aUdnTHF2ZlB4MHhrWkZtRlBZX0xyRFhTbHgyZmNhdjF1SXZGaXNDYTlfdDJaV3c4d0oyTU1NTS1yNVNtM09uaTgzamVTNFcwa3V6d3VDYTRrOGRwY3JyR3B1dURNbHRvcHRzRW5RZmNxODMtNmdEV1pOUHdObmRhUzNtY2xlRG1xSmJRZVlKOFZKbWZSU2tjTkVmbWNKMTEzZ0V5YTRtQkVldGJxeEdqUEY?oc=5",
+    "aid": "532986ceac",
+    "titel": "Dynamo in Hannover live: Rapp steht goldrichtig! SGD führt im Kellerduell",
+    "quelle": "TAG24",
+    "beschr": " Dynamo in Hannover live: Rapp steht goldrichtig! SGD führt im Kellerduell &nbsp;&nbsp; TAG24 ",
+    "zeit": "2026-11-01T13:50"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-01T15:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "8f25f0ffbb",
+  "schluessel": "hannover|verletzung",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover"
+  ],
+  "stufe": "rueckkehr",
+  "klasse": "verletzung",
+  "titel": "Dynamo in Hannover live: Startelf-Comeback nach über acht Monaten! SGD-Coach Stamm überrascht mit Aufstellung",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQWURzOGZ1VlZvaE56YXlqbWR0RDJNUU43c1NIbDFub0hDYU91LWw3OWp0RzJhdC1CTGtJbzZObG0yWDJYZnFjeW14VU5uQ3BwelFGOFFkNG51UnFhZGNBTVg1VFRIQlFjdjZhcGRKNzFYN1dBSU5rVV91b0NWeVZEcHl6R1UtdTFfdGNRQ1JMWWplUHAxaDMzNy1NVWVSWExyX2NpZks4TlBVM2F2OWtqbG9GUXZkNVlTXzdUeXJyQlhhMmVkYTBQYUwxN3MzcGtnVWNzbHBURU5md2ZvUTVlakF1cGlpX1RoNWJQOUZEbkN1dkdRcG5aOVhyLW9vN1VXNUh1V3VKSHJDQQ?oc=5",
+    "aid": "eb572e03cd",
+    "titel": "Dynamo in Hannover live: Startelf-Comeback nach über acht Monaten! SGD-Coach Stamm überrascht mit Aufstellung",
+    "quelle": "TAG24",
+    "beschr": " Dynamo in Hannover live: Startelf-Comeback nach über acht Monaten! SGD-Coach Stamm überrascht mit Aufstellung &nbsp;&nbsp; TAG24 ",
+    "zeit": "2026-11-01T12:55"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-01T15:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "6c0b39222f",
+  "schluessel": "hertha|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Zwei starke Mannschaften: Herthas Pedersen - \"War ein Topspiel\"",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUW9WN0VxREY3QUliOXJWa3dMOG1lTm5Pa1JDbzV1MzlfQzZ4d3NyVXFmM0NlTE40dS0zOC1uWVVsQW0tU0lZMjdUQ0pPYkh5WkhvenhJTTduRWZnMTJjektnR0lCNVo0NXhuOWpjdkZTaTRmOEZtLS1DODM0dThoTEg5UnA5U2tadkNDQjZjTlBxVUZkUW56RlBvSnkydXI3NHlIYjR2TTNacmlzbWRqOWJvNHU?oc=5",
+    "aid": "a8d74e6874",
+    "titel": "Zwei starke Mannschaften: Herthas Pedersen - \"War ein Topspiel\"",
+    "quelle": "sportschau.de",
+    "beschr": " Zwei starke Mannschaften: Herthas Pedersen - \"War ein Topspiel\" &nbsp;&nbsp; sportschau.de ",
+    "zeit": "2026-10-31T16:31"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-01T15:01",
+  "archiv": []
+ },
+ {
+  "id": "43555ab6ee",
+  "schluessel": "kaiserslautern|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Kaiserslautern",
+  "klubs": [
+   "Kaiserslautern"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "\"Die Skandinavier haben einen guten Job gemacht\" | PK nach Kaiserslautern",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByaXlFVkY1NXlHaURsOE9WSG50ZHZCZ2I0ODhpWUE5QWRSTWxEM083SlI5VVJKM1gzNE5XWHItVEdmMF85bHREQ2lHU1N3MDhlQU9WR1g3U1NoWjNa?oc=5",
+    "aid": "e3322e003e",
+    "titel": "\"Die Skandinavier haben einen guten Job gemacht\" | PK nach Kaiserslautern",
+    "quelle": "YouTube",
+    "beschr": " \"Die Skandinavier haben einen guten Job gemacht\" | PK nach Kaiserslautern &nbsp;&nbsp; YouTube ",
+    "zeit": "2026-10-31T16:54"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-01T15:01",
+  "archiv": []
+ },
+ {
+  "id": "2b7ae8adff",
+  "schluessel": "karlsruhe|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Karlsruhe",
+  "klubs": [
+   "Karlsruhe"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Beim KSC ent­weicht „Druck auf dem Kes­sel“",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkh1dndZVmZ2bU80dldTd3Y0RkVDbzRtQ3lsUG5kLWJTSDNUb29WTVFBd3dSZmlXejN0VFRpMGRsSXROQkR0T0NkYk5nVEFBRVk2VHo1aWZILUh6a19lMEFWdHVPWFNONm5vUy1Vc1dabF9FdGdKcnlCR2g4Q3kwWnhCZEpjMDZRcHhiMEVycEcwTUJKckhfU3hmbGdKUkZ1?oc=5",
+    "aid": "d05fdef496",
+    "titel": "Beim KSC ent­weicht „Druck auf dem Kes­sel“",
+    "quelle": "Die Rheinpfalz",
+    "beschr": " Beim KSC ent­weicht „Druck auf dem Kes­sel“ &nbsp;&nbsp; Die Rheinpfalz ",
+    "zeit": "2026-11-01T12:00"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-01T15:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "f0a676c1e1",
+  "schluessel": "karlsruhe|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Karlsruhe",
+  "klubs": [
+   "Karlsruhe"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Franke vertreten, den Trainer überzeugt: Paul Scholl meldet sich beim KSC zurück",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcnJ5TUJoQkMtRjJSSDVyNHdyZXQyZC1KcWhJRWVpTFVWXzJFQlJZRGVXUklzc2ZFVWhXank5NEZ0MHRuT1FHczZhcVFoTTVnSFlHSjZqSkZibE1ub0F0MEVXWHFTcnlGcXpieEFkQVJ1MGM5N0RPQnRSeVI4YmowTXhMdWhtLXFxcHRXMk44SWVVd2lEZmpiR3BpRFhQai02U1NGWE1KYlk?oc=5",
+    "aid": "51c134d6a6",
+    "titel": "Franke vertreten, den Trainer überzeugt: Paul Scholl meldet sich beim KSC zurück",
+    "quelle": "Badische Neueste Nachrichten",
+    "beschr": " Franke vertreten, den Trainer überzeugt: Paul Scholl meldet sich beim KSC zurück &nbsp;&nbsp; Badische Neueste Nachrichten ",
+    "zeit": "2026-11-01T12:38"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-01T15:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "b402a6ba3c",
+  "schluessel": "nurnberg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Nürnberg",
+  "klubs": [
+   "Nürnberg",
+   "St. Pauli"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "‍!$>[LIVE!#Ansehen]* Nürnberg vs. St. Pauli Im Livestream 01.11.2026",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQQ1VKOFJtTVJ0UVYxdmpnc2dZSlVWc0g1Uk5BY1N5SmphY2tzRmpNUk5FMGtDa3ZwU2VvMWc4dnFLYkxSU1I0Zmc5Vk45TDYtN29ZRjAya1J5dDRqelRtU3NDZVFXQm9wYUdxY2poRDBOSHJnTU1Pa3ZhbDEzZWtfRXRfRVo2MWpReENDNDIyd2lfamdmZDBBSHhDUmdNUjdEZVF5SS1tYmUxYVkwZ0xJUkNyTDFZbzdoMENOb0FrTXd1TnpwYWJBaFFueTBjMXNRMGtVXzNCRnIzYk5XODFyVWdmcnFTUkR4Z1dJWHdOQ1FhUklqd25tekpXSDIzazlHN041T2VQTnpBVDgzaDh2aEhOS1lsck1uNGRsQWNIdWtsSG54dGE3cDNYVkVlMF8xLWhSNjhIQks0eFlXVEViVTlQbHJkTmgxMmFyT2M0T09vbUpiS2dqakQ2RWtfZ1JsUkdyN1VQQ0luTy1VQnEtOFVDUVNselFRSHZfMEF3?oc=5",
+    "aid": "724293ec98",
+    "titel": "‍!$>[LIVE!#Ansehen]* Nürnberg vs. St. Pauli Im Livestream 01.11.2026",
+    "quelle": "Pierce Manufacturing",
+    "beschr": " ‍!$>[LIVE!#Ansehen]* Nürnberg vs. St. Pauli Im Livestream 01.11.2026 &nbsp;&nbsp; Pierce Manufacturing ",
+    "zeit": "2026-11-01T13:25"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-01T15:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "b132e1f281",
+  "schluessel": "darmstadt|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Darmstadt",
+  "klubs": [
+   "Darmstadt"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "SV Darmstadt 98: Heimtore erhöhen Bierprämie für Fans",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeXZpUEJBM2xweEtJY3Ria212enlNSm1sUlJCc3Y2WFFTSjhwMTdzRkZ3djVmd244c1o1Rk5iY1c0NmpyUlFIa24tTnZmUDBFeGR2cUxiOWE1WUs0ZWxOeHF1NURJUk05TXotWVJ2SlF0Wkg0VzJvb3hrYlZCQnhacE9RT1l5UFZpMnlSMzEwalhkakVhRFRkWHZOVUl5Tlhvb2RwX2tSX1p5WnM?oc=5",
+    "aid": "b35489e1c7",
+    "titel": "SV Darmstadt 98: Heimtore erhöhen Bierprämie für Fans",
+    "quelle": "Wochenblatt Reporter",
+    "beschr": " SV Darmstadt 98: Heimtore erhöhen Bierprämie für Fans &nbsp;&nbsp; Wochenblatt Reporter ",
+    "zeit": "2026-11-01T13:36"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-01T15:01",
+  "archiv": []
+ },
+ {
+  "id": "2df7a7a81b",
+  "schluessel": "bochum|kader",
+  "person": "",
+  "spieler": [],
+  "klub": "Bochum",
+  "klubs": [
+   "Bochum"
+  ],
+  "stufe": "kader",
+  "klasse": "kader",
+  "titel": "DFB-Pokal: Vor Mainzer-Pokalspiel in Bochum: Personalsituation entspannt sich",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUFRBZ09mck9mNHluLW41SG96VG5XYmlsQVhoS1cwOWZHdHA4dHdGR1RVbkloMW1mcGQwQVVGRU9VcTJOS1k0OUNiZWlHSF8zUzZkMWpUNGl0S2lzeGVVelJYVmJSUkh4VGVsUHJONWxRajBKLUdZcG9FZUx5SEZhaTBIQWY2MmJwbjhoaWNZMzNUQW53QjRHb3M1b0l5NmRyOVF4TVlqZWxDOC1FZ3d4VnhIUm4tYktB?oc=5",
+    "aid": "8622c850e3",
+    "titel": "DFB-Pokal: Vor Mainzer-Pokalspiel in Bochum: Personalsituation entspannt sich",
+    "quelle": "sportschau.de",
+    "beschr": " DFB-Pokal: Vor Mainzer-Pokalspiel in Bochum: Personalsituation entspannt sich &nbsp;&nbsp; sportschau.de ",
+    "zeit": "2026-11-01T09:07"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-01T15:01",
+  "archiv": []
+ },
+ {
+  "id": "ab8c1078c6",
+  "schluessel": "bochum|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Bochum",
+  "klubs": [
+   "Bochum"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Die Stimmen zum Spiel gegen Bochum II",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPekozRUZxY3B4SnpmbTJ5QXFPR2xPTHZMYVU3NUhpZVphcTNMeGwzNWhQakFXa0xXVFRlTFQ1TkRBRm9xazlnaWRSRkFKaVgzSVNjbFNiVHBUX0JLWHM2Tlh0bnFjQ2UtTHluekw4MExpNjFPeHlfYkczeUp0YjRTU0V2NS1yaGtkRzEyeHpaaXQ?oc=5",
+    "aid": "3fa9c972df",
+    "titel": "Die Stimmen zum Spiel gegen Bochum II",
+    "quelle": "Sportfreunde Siegen",
+    "beschr": " Die Stimmen zum Spiel gegen Bochum II &nbsp;&nbsp; Sportfreunde Siegen ",
+    "zeit": "2026-10-31T18:51"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-01T15:01",
+  "archiv": []
+ },
+ {
+  "id": "0899467931",
+  "schluessel": "wolfsburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Wolfsburg",
+  "klubs": [
+   "Wolfsburg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "VfL Wolfsburg: Warum die eigenen Fans für die Abschaffung der 50+1-Ausnahmen sind",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdTVnREtlVGlqVU9qcFAyeDM2T3puYkVLNTR3NEhJNWlXcHpMY3lFeFhmUDlDU0tzbUV2ekZkNFp5LXNta1JJQ3JmLXdrcjd2R0VzSHMtZmF3N3BmSGdDYjJVYjQ1S0tfSWt5N0EyS01SM24yRF9SeFc5eHBfdjEyQjhsenZTRzNudmJiUFhoREh2SzA5bFlFUGh3V0NpdUhoaEtFMi04MkxuZGJXTGhwQ3lJaGJDRHYzR0FsRUhZanVPSlp3TGZScTV2b19IMG52MmJoQ2pOS09UUnd6WmllVms3dHVFMzZKWHfSAYYCQVVfeXFMUGoxQ1o5bDgwTFF1WWxJelJ1SVRLU0xWTnpXU2RTdWZ4a1F0TmhTLVRfdnJDUnp6TDNFYnZfT1phellrbVdSalJlN0s2VUt1SG82TTNuOWp5UW5NSEUwcHhHaVJlcnNOUHdjemlaUmpVeDJFS3FHTWk4RlJlVmlvM0ZCM0ZWc1Zxd3FIWS1MbURqdnVHNGlJbHZoUDRvUElWR1JCVTlsMjJ6Z3c0NHR2RUpXYTJTd21Kdnl1UzVTTFlIVkhrVXgweVJtNkg2V2xJektQa0UtWEZfNS1uOWZXV01wb2I1U1JGeWNBRUM0VzBvMjNvTWhVVDlRX3gxb2FRQlBYdmFwUQ?oc=5",
+    "aid": "e0c2393db4",
+    "titel": "VfL Wolfsburg: Warum die eigenen Fans für die Abschaffung der 50+1-Ausnahmen sind",
+    "quelle": "WAZ-ONLINE.de",
+    "beschr": " VfL Wolfsburg: Warum die eigenen Fans für die Abschaffung der 50+1-Ausnahmen sind &nbsp;&nbsp; WAZ-ONLINE.de ",
+    "zeit": "2026-11-01T14:03"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-01T15:01",
+  "archiv": []
+ },
+ {
+  "id": "350137019e",
+  "schluessel": "wolfsburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Wolfsburg",
+  "klubs": [
+   "Wolfsburg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "(k+) Peddemors: Wolfsburgs Unterschiedsspielerin mit absehbarer Verweildauer",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMWlLYjQxTGtyV1dSS2FoMUMwNWNQak9Ub0RlWG05QnMzeWJ2UzhyV1NlMFBCZjRGRTVWWTNRc3dHdXY5M3dVRVVBZW03OVkxWnVtbWhVUzRzdS1qYllnbGZkYXdUbnQzYXJDNnZUTDJDZkJBY2p0VTBvQmpUczRxaTJid1VDMlYzT3ZmaWhRc2xVVlFpX3NIMXBWZDd6ZXlwbnlnT2hWRkZvVGZG?oc=5",
+    "aid": "140c0cfd65",
+    "titel": "(k+) Peddemors: Wolfsburgs Unterschiedsspielerin mit absehbarer Verweildauer",
+    "quelle": "Kicker",
+    "beschr": " (k+) Peddemors: Wolfsburgs Unterschiedsspielerin mit absehbarer Verweildauer &nbsp;&nbsp; Kicker ",
+    "zeit": "2026-11-01T14:28"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-01T15:01",
   "archiv": []
  }
 ]

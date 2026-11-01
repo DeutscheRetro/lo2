@@ -1,5 +1,136 @@
 [
   {
+    "id": "46380a1986",
+    "titel": "Wontorra stärkt Hannovers Trainer Wagner den Rücken",
+    "kategorie": "interview",
+    "badge": "Interview",
+    "badge_bg": "#1976d2",
+    "badge_fg": "#fff",
+    "datum": "01.11.2026 15:09",
+    "wappen_url": "logos/hannover.png",
+    "vereine": [
+      "Hannover"
+    ],
+    "anriss": "Moderatorin Laura Wontorra hat Hannover 96 und Trainer Sandro Wagner Rückendeckung gegeben. Wagner wartet nach vier Pflichtspielen bei den Niedersachsen noch auf einen Sieg. Zuletzt wurde zudem sein Vorgesetzter Jonas",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Hannover",
+    "pfad": "artikel/wontorra-staerkt-hannovers-trainer-wagner-den-ruecken-46380a1986.html",
+    "bild_tm": ""
+  },
+  {
+    "id": "df8456704e",
+    "titel": "Cottbus: Wollitz kündigt nach 1:2 gegen Bochum Konsequenzen an",
+    "kategorie": "interview",
+    "badge": "Interview",
+    "badge_bg": "#1976d2",
+    "badge_fg": "#fff",
+    "datum": "01.11.2026 15:08",
+    "wappen_url": "logos/cottbus.png",
+    "vereine": [
+      "Bochum",
+      "Cottbus"
+    ],
+    "anriss": "Energie Cottbus hat gegen den VfL Bochum 1:2 verloren. Trainer Wollitz kündigte danach Konsequenzen an und stellte Veränderungen in der Startelf in Aussicht. „Jetzt gilt es zu handeln!“, forderte der",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Cottbus",
+    "pfad": "artikel/cottbus-wollitz-kuendigt-nach-1-2-gegen-bochum-konsequenzen-an-df8456704e.html",
+    "bild_tm": ""
+  },
+  {
+    "id": "f57eea9f29",
+    "titel": "Reese und Damar freuen sich auf Wiedersehen mit Hertha",
+    "kategorie": "interview",
+    "badge": "Interview",
+    "badge_bg": "#1976d2",
+    "badge_fg": "#fff",
+    "datum": "01.11.2026 15:07",
+    "wappen_url": "logos/wolfsburg.png",
+    "vereine": [
+      "Hertha",
+      "Wolfsburg"
+    ],
+    "anriss": "Wolfsburgs Offensivspieler Fabian Reese und Spielmacher Muhammed Damar treffen am Samstag um 20.30 Uhr mit dem VfL auf Tabellenführer Hertha BSC. Beide haben eine Vorgeschichte in Berlin und gehen mit",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Wolfsburg",
+    "pfad": "artikel/reese-und-damar-freuen-sich-auf-wiedersehen-mit-hertha-f57eea9f29.html",
+    "bild_tm": ""
+  },
+  {
+    "id": "afa3db9641",
+    "titel": "Hannover 96 trennt sich nach fünf Monaten von Sportchef Boldt",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "01.11.2026 15:05",
+    "wappen_url": "logos/hannover.png",
+    "vereine": [
+      "Hannover"
+    ],
+    "anriss": "Hannover 96 hat sich mit sofortiger Wirkung von Sport-Geschäftsführer Jonas Boldt getrennt. Der 44-Jährige war erst seit Juni im Amt und ist nach Jörg Schmadtke der zweite namhafte Manager, der",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Hannover",
+    "pfad": "artikel/hannover-96-trennt-sich-nach-fuenf-monaten-von-sportchef-boldt-afa3db9641.html",
+    "bild_tm": ""
+  },
+  {
+    "id": "05c7f56713",
+    "titel": "Bochum dreht Partie in Cottbus durch Hofmann und Rasmussen",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "01.11.2026 15:05",
+    "wappen_url": "logos/bochum.png",
+    "vereine": [
+      "Bochum",
+      "Cottbus"
+    ],
+    "anriss": "Der VfL Bochum hat bei Aufsteiger Energie Cottbus einen 0:1-Rückstand gedreht und 2:1 gewonnen. Philipp Hofmann (71.) und Christian Rasmussen (88.) sorgten für den Erfolg des Teams von Trainer Uwe",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Bochum",
+    "pfad": "artikel/bochum-dreht-partie-in-cottbus-durch-hofmann-und-rasmussen-05c7f56713.html",
+    "bild_tm": ""
+  },
+  {
+    "id": "fc3123210c",
+    "titel": "St. Pauli: Hrgota statt Niang gegen Nürnberg in der Startelf",
+    "kategorie": "aufstellung",
+    "badge": "Aufstellung",
+    "badge_bg": "#2e7d32",
+    "badge_fg": "#fff",
+    "datum": "01.11.2026 15:04",
+    "wappen_url": "logos/stpauli.png",
+    "vereine": [
+      "Nürnberg",
+      "St. Pauli"
+    ],
+    "anriss": "Der FC St. Pauli startet im Heimspiel gegen den 1. FC Nürnberg mit Branimir Hrgota in der Startelf. Trainer Marcel Rapp setzt im Angriff neben Abdoulie Ceesay auf den Routinier",
+    "spielerstatus": [
+      {
+        "spieler": "Hrgota",
+        "klub": "St. Pauli",
+        "status": "startelf",
+        "grund": "Neben Ceesay im Angriff aufgestellt"
+      },
+      {
+        "spieler": "Jones",
+        "klub": "St. Pauli",
+        "status": "faellt_aus",
+        "grund": "krank"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "St. Pauli",
+    "pfad": "artikel/st-pauli-hrgota-statt-niang-gegen-nuernberg-in-der-startelf-fc3123210c.html",
+    "bild_tm": ""
+  },
+  {
     "id": "66e89ee9fd",
     "titel": "Wanitzek schießt den KSC per Freistoß aus der Abstiegszone",
     "kategorie": "news",
