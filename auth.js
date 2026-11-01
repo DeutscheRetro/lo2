@@ -366,7 +366,7 @@ window.LO_SAISON = (d => d.getMonth() >= 6 ? d.getFullYear() : d.getFullYear() -
       const w = await r.json();
       if (!w.darfLoeschen || document.getElementById('admin-link')) return;
       const a = document.createElement('a');
-      a.id = 'admin-link'; a.href = '/chefred.html'; a.textContent = '⚙ Admin';
+      a.id = 'admin-link'; a.href = 'https://ligaoutsider.de/chefred.html';   // Redaktion und Konto liegen auf der Hauptseite a.textContent = '⚙ Admin';
       a.style.cssText = 'margin-right:8px;text-decoration:none;font-weight:700;color:var(--accent,#e8c000)';
       ui.prepend(a);
     } catch (e) { /* ohne Link weiterarbeiten */ }
@@ -414,7 +414,7 @@ window.LO_SAISON = (d => d.getMonth() >= 6 ? d.getFullYear() : d.getFullYear() -
     const tiefe = /^\/(artikel|spieler|verein)\//.test(location.pathname) ? '../' : '';
     const a = document.createElement('a');
     a.id = 'mein-bereich-link'; a.className = 'section-nav-link nav-mein';
-    a.href = tiefe + 'mein-bereich.html'; a.textContent = 'Mein Bereich';
+    a.href = 'https://ligaoutsider.de/mein-bereich.html'; a.textContent = 'Mein Bereich';
     if (location.pathname.endsWith('/mein-bereich.html')) a.classList.add('active');
     const knopf = document.getElementById('news-einsenden-btn');
     if (knopf) nav.insertBefore(a, knopf); else nav.appendChild(a);
