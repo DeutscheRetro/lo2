@@ -1,5 +1,53 @@
 [
   {
+    "id": "1084b0bf21",
+    "titel": "DFB-Pokal-Achtelfinale: Bayern empfängt Hertha BSC",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "02.11.2026 12:06",
+    "wappen_url": "logos/hertha.png",
+    "vereine": [
+      "Dresden",
+      "Hertha"
+    ],
+    "anriss": "Der FC Bayern München trifft im Achtelfinale des DFB-Pokals auf Zweitliga-Spitzenreiter Hertha BSC. Die Münchner haben Heimrecht. Das ergab die Auslosung am Sonntagabend im Deutschen Fußballmuseum in Dortmund. Ziehungsleiter war",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Hertha",
+    "pfad": "artikel/dfb-pokal-hertha-bsc-trifft-im-achtelfinale-auf-bayern-muenchen-1084b0bf21.html",
+    "bild_tm": ""
+  },
+  {
+    "id": "7806aee3d0",
+    "titel": "Magdeburg peilt gegen St. Pauli Rekord an, Zukowski vor Rückkehr",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "02.11.2026 12:05",
+    "wappen_url": "logos/magdeburg.png",
+    "vereine": [
+      "Darmstadt",
+      "Magdeburg",
+      "St. Pauli"
+    ],
+    "anriss": "Der 1. FC Magdeburg kann am elften Spieltag gegen den FC St. Pauli einen Vereinsrekord aufstellen. Mit einem Sieg ginge der FCM mit 20 Punkten in die Länderspielpause. Das wäre",
+    "spielerstatus": [
+      {
+        "spieler": "Zukowski",
+        "klub": "Magdeburg",
+        "status": "fraglich",
+        "grund": "Schulterprellung, Trainingseinstieg geplant, Einsatz erhofft"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Magdeburg",
+    "pfad": "artikel/magdeburg-peilt-gegen-st-pauli-rekord-an-zukowski-soll-zurueckkehren-7806aee3d0.html",
+    "bild_tm": ""
+  },
+  {
     "id": "b2e2c3e675",
     "titel": "Hengen nach 0:3 gegen Hertha: „Sind in einem Prozess“",
     "kategorie": "interview",
@@ -58,7 +106,7 @@
     "vereine": [
       "Kiel"
     ],
-    "anriss": "Holstein Kiel trifft im Achtelfinale des DFB-Pokals auf den Bundesligisten 1. FC Köln. Das ergab die Auslosung am Sonntag im Fußballmuseum von Dortmund. Die Kieler haben Heimrecht und empfangen die",
+    "anriss": "Holstein Kiel trifft im Achtelfinale des DFB-Pokals auf den 1. FC Köln. Das ergab die Auslosung am Sonntag im Fußballmuseum von Dortmund. Die Kieler haben Heimrecht und empfangen die Rheinländer",
     "spielerstatus": [],
     "formation": "",
     "hauptklub": "Kiel",

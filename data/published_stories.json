@@ -499,5 +499,49 @@
     },
     "published_at": "2026-11-02T09:03:47.359753",
     "source": "SWR"
+  },
+  {
+    "id": "7806aee3d0",
+    "generated_title": "Magdeburg peilt gegen St. Pauli Rekord an, Zukowski soll zurückkehren",
+    "original_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR2VGMnlHNndSSXp0MkNWWUhLUERDX2I1bkRpN1daQWh5TERlMkFXaUdvQkF3QnVBQlFrcUVhRl8yd3B2YkIzZlhFNmprSklRQS1sdGtqUmFwX2ptQXplUnpzNGJadFZCbDJuOUVjRzI0SUZHRi1UWWhqVFlESWJFX0p6dXYxWHZGZ2ZUMw?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Magdeburg",
+      "event_stage": "sonstiges",
+      "main_teams": [
+        "Darmstadt",
+        "Magdeburg",
+        "St. Pauli"
+      ],
+      "main_players": [
+        "Mateusz Zukowski",
+        "Petrik Sander"
+      ],
+      "summary": "Magdeburg kann mit einem Sieg gegen St. Pauli mit 20 Punkten die beste Zwischenbilanz nach elf Spieltagen erreichen. Torjäger Mateusz Zukowski soll nach seiner Schulterprellung zurückkehren.",
+      "one_sentence_summary": "Magdeburg kann mit einem Sieg gegen St.",
+      "schluessel": "mateusz zukowski|sonstiges"
+    },
+    "published_at": "2026-11-02T12:07:02.397709",
+    "source": "Magdeburg Blau-Weiß"
+  },
+  {
+    "id": "1084b0bf21",
+    "generated_title": "DFB-Pokal: Hertha BSC trifft im Achtelfinale auf Bayern München",
+    "original_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcDVIMEUwZVdSa3pqakt2ZVVvNHNteGxicVBvd3NVaVhoVHRQSlFZQTNCeXRBVlZOOXZSRDFlMG1lOVBPY18xcnd2YmJCRE5WN2poaFUtREVJNGxRQnZpWXU4QmF1SVRJYTVXZlQ2LVhldkdsOXRaaktYZENSUFhxamdSTTVHVnFscEI3ZXI4UVZ3QQ?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Hertha",
+      "event_stage": "sonstiges",
+      "main_teams": [
+        "Dresden",
+        "Hertha"
+      ],
+      "main_players": [],
+      "summary": "Hertha BSC spielt im DFB-Pokal-Achtelfinale beim FC Bayern München. Die Partien sollen am 1. und 2. Dezember stattfinden.",
+      "one_sentence_summary": "Hertha BSC spielt im DFB-Pokal-Achtelfinale beim FC Bayern München.",
+      "schluessel": "hertha|sonstiges"
+    },
+    "published_at": "2026-11-02T12:07:02.443707",
+    "source": "Bad Honnef heute"
   }
 ]

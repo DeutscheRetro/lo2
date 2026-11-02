@@ -1,257 +1,5 @@
 [
  {
-  "id": "6a376ea2aa",
-  "schluessel": "frankfurt|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Frankfurt",
-  "klubs": [
-   "Frankfurt",
-   "St. Pauli"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "FCN: Beste Chancen für Frey als Chatzialexiou-Nachfolger",
-  "quellen": [
-   {
-    "url": "https://www.kicker.de/fcn-beste-chancen-fuer-frey-als-chatzialexiou-nachfolger-1267619/artikel#omrss",
-    "aid": "8221a17850",
-    "titel": "FCN: Beste Chancen für Frey als Chatzialexiou-Nachfolger",
-    "quelle": "kicker 2. Bundesliga News",
-    "beschr": "Einen Tag nach dem Bekanntwerden des Wechsels von Sportvorstand Joti Chatzialexiou nach Frankfurt ist der FCN beim 3:1 auf St. Pauli in die Erfolgsspur zurückgekehrt. Als Chatzialexiou-Nachfolger hat Dieter Frey beste Karten.",
-    "zeit": "2026-11-01T22:29"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-02T06:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "e91aa68261",
-  "schluessel": "hertha|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hertha",
-  "klubs": [
-   "Hertha"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Hertha: Danish Dynamite als Erfolgsgarant",
-  "quellen": [
-   {
-    "url": "https://www.kicker.de/hertha-danish-dynamite-als-erfolgsgarant-1267486/artikel#omrss",
-    "aid": "ad9faf34b9",
-    "titel": "Hertha: Danish Dynamite als Erfolgsgarant",
-    "quelle": "kicker 2. Bundesliga News",
-    "beschr": "Mit dem 3:0 im Topspiel beim 1. FC Kaiserslautern hat Hertha BSC den Startrekord von Bayer Leverkusen aus der Saison 1978/79 eingestellt. Entscheidenden Anteil hatten Mittelstürmer Sebastian Grönning und Linksverteidiger Mads Pedersen.",
-    "zeit": "2026-11-01T21:19"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-02T06:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "45bf63041d",
-  "schluessel": "kaiserslautern|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Kaiserslautern",
-  "klubs": [
-   "Kaiserslautern"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "1. FC Kaiserslautern: Trainer Lieberknecht feiert seine Verlierer",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVzlONWExbktPU0NnMnExS0J2M3l3QnVyR0NmbndYMnE4R2poTklCbnlQOWFzbnNyS0tZNm1oZzZCQjI1dzJRRHd6MDdFMjdCMm5xYzAwLXpZWi1zN05scERNeXpjMkNwd1RnVHNGQlZsV3JYWHFNTkI5NmJOZ01oVTJGTVpMVzF6UUt1WkVvSTNNMVRGQnFSWnJETXdTVmZScVZqbGhEV0VHZHA5TnNScjE1eUN0U2JhdVVVQWVKaTc?oc=5",
-    "aid": "cb93905807",
-    "titel": "1. FC Kaiserslautern: Trainer Lieberknecht feiert seine Verlierer",
-    "quelle": "BILD",
-    "beschr": " 1. FC Kaiserslautern: Trainer Lieberknecht feiert seine Verlierer &nbsp;&nbsp; BILD ",
-    "zeit": "2026-11-01T21:39"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-02T06:01",
-  "archiv": [
-   {
-    "id": "d77e4a0b3d",
-    "titel": "Pokal-Achtelfinale: Kaiserslautern empfängt den SC Freiburg",
-    "datum": "01.11.",
-    "stufe": "sonstiges",
-    "summary": "Der 1. FC Kaiserslautern empfängt im DFB-Pokal-Achtelfinale am 1. oder 2. Dezember den SC Freiburg. Die Pfälzer hatten zuvor Mannheim und Hannover 96 ausgeschaltet."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "a9126fe435",
-  "schluessel": "st. pauli|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "St. Pauli",
-  "klubs": [
-   "St. Pauli",
-   "Nürnberg"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "''Ist scheiße, tut weh heute'' - Stimmen zu St. Pauli gegen Nürnberg",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVlExWF92M2JBbkxNOG8yRXVPR1o1ZWNfOWgxMHRZa3Q5X3BodkdoUi1kRTJ5UjNEaUp4aGRiQTc2czZzNjlVWE5DelRLcmNJM1pKbFh5N19PV2xFNDhDRDZJekhtNlFBV28tQzBwbUpXa3AtcXMxZWhTS1UxbmpPdzMzcU9pMV9EanpnQzJvRGdtejd3elJoeDA4YXpvSTlTVllwc1F1X1NCcFhKc2JuWEttZ1hFQQ?oc=5",
-    "aid": "b4e041926c",
-    "titel": "''Ist scheiße, tut weh heute'' - Stimmen zu St. Pauli gegen Nürnberg",
-    "quelle": "Sky.de",
-    "beschr": " ''Ist scheiße, tut weh heute'' - Stimmen zu St. Pauli gegen Nürnberg &nbsp;&nbsp; Sky.de ",
-    "zeit": "2026-11-01T18:21"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "u",
-  "erstmals": "2026-11-02T06:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "23a02bf11d",
-  "schluessel": "nurnberg|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Nürnberg",
-  "klubs": [
-   "Nürnberg",
-   "St. Pauli"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Auch Nürnberg-Coach Klose lobt: „St. Pauli hat ein sehr gutes Spiel gemacht“",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObFYwNDBjX3dVQTlyM1N2NFRwWUJLVkVFQWk0YmJaWlNfT3VhSGZZcEF3R2NibHpMcVB4S3ROdHN4N3NEZXRxNWUtRGl4QXNQTVE4bEhBazBoUXVxaU1PZzFQdXQ4blFFMmN5ZTU2ajZyZmNDMThJakw2T0QwVXktVWFpdTZoRFlJUDVOdGZLYk1sRXhYR3ZoOENtUGI4ZGFfeGJock9UMkZBMklXb0k5RC0wVDVXdw?oc=5",
-    "aid": "fdfed3c5ee",
-    "titel": "Auch Nürnberg-Coach Klose lobt: „St. Pauli hat ein sehr gutes Spiel gemacht“",
-    "quelle": "StPauli24",
-    "beschr": " Auch Nürnberg-Coach Klose lobt: „St. Pauli hat ein sehr gutes Spiel gemacht“ &nbsp;&nbsp; StPauli24 ",
-    "zeit": "2026-11-01T22:44"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-02T06:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "d396b8ba61",
-  "schluessel": "hannover|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hannover",
-  "klubs": [
-   "Hannover",
-   "Dresden"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "''Reaktion war herausragend gut'' - Stimmen zu Hannover gegen Dresden",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZkNSZ2dJc3d5cS00SGRCQTBMMi12ZU0xdkU0RjRHV3R3TmtVejlCSUVqUy1DUnFMSGZpMWhkUy00QS1qUjNvLUdEN0NRV1JqYnk5bDBpMU1kZl9sMDFLMDZDaUQyQWlFN1FOalpHazRTc3c2bHkteW10eUxYT3loc0ZmQ0xiOW1ReTFoNFlSNW1mMENZbDBzazVadk0zYVNIZ1VZcFZwTmlaenZ3SFc1akRqMWhYLW8?oc=5",
-    "aid": "70c5092a7e",
-    "titel": "''Reaktion war herausragend gut'' - Stimmen zu Hannover gegen Dresden",
-    "quelle": "Sky.de",
-    "beschr": " ''Reaktion war herausragend gut'' - Stimmen zu Hannover gegen Dresden &nbsp;&nbsp; Sky.de ",
-    "zeit": "2026-11-01T17:32"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "u",
-  "erstmals": "2026-11-02T06:01",
-  "archiv": [
-   {
-    "id": "cb0b737b08",
-    "titel": "Dynamo sucht in Hannover den ersten Auswärtssieg seit April",
-    "datum": "01.11.",
-    "stufe": "sonstiges",
-    "summary": "Dynamo Dresden will bei Hannover 96 den ersten Auswärtssieg seit 204 Tagen holen. Seit dem 2:0 in Nürnberg im April blieb das Team von Trainer Thomas Stamm auswärts acht Ligaspiele ohne Sieg."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "9807f54161",
-  "schluessel": "st. pauli|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "St. Pauli",
-  "klubs": [
-   "St. Pauli"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "„Wir zaubern nicht“: Rapp verrät sein Rezept für St. Paulis glücklose Stürmer",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRVRzb2Nxbm1SMlh5eGY3cGQyNFpMeVpqcDBhRnVEa1M0eG5QUy1rWVVIbXNESjJ0WC1IV0JOYWRCcTE2RnBsdzI5cFBIa2lPUkgxcFVKejFqc0ZjWTB5Q2VmbzAxdmFZTzRrNlhFS1l0bVJJWWFYWUt4S1Zob3dwR21MS3ZUS0hZVXp1SDdqQ194b2ZUZWhORjgtM2lmdW9HTzV3MlZkemxFbDQ3RmIxQlRGRDNxeEtWaDJJeFYxLWx4YTlJa0lZRG5zeERqaHBoaVREdXJfMA?oc=5",
-    "aid": "a7d71fbc0e",
-    "titel": "„Wir zaubern nicht“: Rapp verrät sein Rezept für St. Paulis glücklose Stürmer",
-    "quelle": "Hamburger Abendblatt",
-    "beschr": " „Wir zaubern nicht“: Rapp verrät sein Rezept für St. Paulis glücklose Stürmer &nbsp;&nbsp; Hamburger Abendblatt ",
-    "zeit": "2026-11-02T05:00"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-02T06:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "5a2a3b3579",
-  "schluessel": "furth|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Fürth",
-  "klubs": [
-   "Fürth"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "''Glückliches Ende für uns - Stimmen zu Fürth gegen Kiel''",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQekxISWVWb1FNb0lyM2Nmam1hTXFDNlAwWW8yUnJYTExTZ2MwOHdXaGJ2b2Y4QjRFdVVXOFFZX3ZsYVkyd1lNXzRfWVJzWjM1ZEJLdjMxd1EzLXFTaUcxWVVwNGFpQkhHelVJaVRhYXdKelZuQU9yZ2lySVBudUFsUy1udEJyZFZHMjdXdWJDWmx6alVsN28tSlphc1J1dkRqc3h3dUZidXNWQzd4?oc=5",
-    "aid": "b450a4f71b",
-    "titel": "''Glückliches Ende für uns - Stimmen zu Fürth gegen Kiel''",
-    "quelle": "Sky.de",
-    "beschr": " ''Glückliches Ende für uns - Stimmen zu Fürth gegen Kiel'' &nbsp;&nbsp; Sky.de ",
-    "zeit": "2026-11-01T17:26"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "u",
-  "erstmals": "2026-11-02T06:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
   "id": "2898316ba3",
   "schluessel": "dresden|sonstiges",
   "person": "",
@@ -278,451 +26,7 @@
   "status": "n",
   "erstmals": "2026-11-02T09:01",
   "archiv": [],
-  "versuche": 1
- },
- {
-  "id": "62a2326fb1",
-  "schluessel": "karlsruhe|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Karlsruhe",
-  "klubs": [
-   "Karlsruhe"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Saisonauftakt, Derby-Fieber und alte Bekannte: Der KSC-Spielplan 2026/2027 verspricht Spannung pur",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb1owdC1ScWhUZ1k2dFFwZGd1WXZzek05Q0hacUFTVExjS0VfT0tNczA4THgycnhxaHZBWFVzLUhpMVpLd3pzUVB6SHlPVmQxS0FqZF9qX1kwVGdGS1J4QXdhS2FqYTM5MVd4dFluaXVWdzJfWUFpVWJzNS1PVklQSmc0SUs4dlRoTXBXZWkzZWkzVmRaSFRMUUwzbEJtc0c2dzdzdjBBVnFyR19vck1Z?oc=5",
-    "aid": "ee3f13899b",
-    "titel": "Saisonauftakt, Derby-Fieber und alte Bekannte: Der KSC-Spielplan 2026/2027 verspricht Spannung pur",
-    "quelle": "ka-news",
-    "beschr": " Saisonauftakt, Derby-Fieber und alte Bekannte: Der KSC-Spielplan 2026/2027 verspricht Spannung pur &nbsp;&nbsp; ka-news ",
-    "zeit": "2026-11-02T06:03"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-02T09:01",
-  "archiv": []
- },
- {
-  "id": "a36d612f0e",
-  "schluessel": "kaiserslautern|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Kaiserslautern",
-  "klubs": [
-   "Kaiserslautern"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "1. FC Kaiserslautern - SC Freiburg, -:-, DFB-Pokal 2026/27 Achtelfinale",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZFgwelBCRkVQaUs3cmQyZXZrUDVVaW9yMEpVN1JZd19oN0xVTmV1c0lfZnFPUVQ0Qkt4T29UUDhzc3dndU9xRFoyNHZFeXJXVHQ4cnZFMGZHdlpvQ1dMVGlqN2RCSGg1Rko5UVVxNFlQaUlxWm1TcjNhVFFtWU5KWWFRaHMtZVg4cVJSbjh0b1BjR2J4NXlHZU1tVHQtMmw0ZTE0Y0VGZHB4aTRsdnc?oc=5",
-    "aid": "f40963b1e4",
-    "titel": "1. FC Kaiserslautern - SC Freiburg, -:-, DFB-Pokal 2026/27 Achtelfinale",
-    "quelle": "DFB Datencenter",
-    "beschr": " 1. FC Kaiserslautern - SC Freiburg, -:-, DFB-Pokal 2026/27 Achtelfinale &nbsp;&nbsp; DFB Datencenter ",
-    "zeit": "2026-11-01T19:44"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-02T09:01",
-  "archiv": [
-   {
-    "id": "d77e4a0b3d",
-    "titel": "Pokal-Achtelfinale: Kaiserslautern empfängt den SC Freiburg",
-    "datum": "01.11.",
-    "stufe": "sonstiges",
-    "summary": "Der 1. FC Kaiserslautern empfängt im DFB-Pokal-Achtelfinale am 1. oder 2. Dezember den SC Freiburg. Die Pfälzer hatten zuvor Mannheim und Hannover 96 ausgeschaltet."
-   }
-  ]
- },
- {
-  "id": "82101b399a",
-  "schluessel": "kaiserslautern|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Kaiserslautern",
-  "klubs": [
-   "Kaiserslautern",
-   "Magdeburg"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "1. FC Kaiserslautern gegen 1. FC Magdeburg im Datenvergleich | Viertelfinale | DFB-Junioren-Pokal 2026/27",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNWRBUXA4X2VCNy04VHNkWFR6VS1IcEJJNWFpaGwwUER0VVlMSnUwc1VSN0lXNWU1bWxCTmxQRzBaUEFyRTNxVU5Qal90WEdXaHE4Rlk4U3E2RUZFV21qenRUemx4TGdGaW5tQ0JzaFhZdUhyY0tCaDRXRHQ3aF80Mm0xQWlTN2hiNXpHazZyYS1NSG83SzBmdmhwMkhMX3J3LTJ0bFdhY2JqenBTMnl3?oc=5",
-    "aid": "8ea08fb358",
-    "titel": "1. FC Kaiserslautern gegen 1. FC Magdeburg im Datenvergleich | Viertelfinale | DFB-Junioren-Pokal 2026/27",
-    "quelle": "Kicker",
-    "beschr": " 1. FC Kaiserslautern gegen 1. FC Magdeburg im Datenvergleich | Viertelfinale | DFB-Junioren-Pokal 2026/27 &nbsp;&nbsp; Kicker ",
-    "zeit": "2026-11-02T07:12"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-02T09:01",
-  "archiv": [
-   {
-    "id": "d77e4a0b3d",
-    "titel": "Pokal-Achtelfinale: Kaiserslautern empfängt den SC Freiburg",
-    "datum": "01.11.",
-    "stufe": "sonstiges",
-    "summary": "Der 1. FC Kaiserslautern empfängt im DFB-Pokal-Achtelfinale am 1. oder 2. Dezember den SC Freiburg. Die Pfälzer hatten zuvor Mannheim und Hannover 96 ausgeschaltet."
-   }
-  ]
- },
- {
-  "id": "39e225232b",
-  "schluessel": "dresden|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Dresden",
-  "klubs": [
-   "Dresden"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Spektakel mit Eigentor: U21 von Dynamo Dresden trotzt dem Tabellenführer",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQkRwcmJIMVZkQjdmbmV5UnF1c01tWU1SSzA2dFN2aXNTd3cyYWVrUXdrUWY3UGhWNldFYmFzSGRoQ3IzV3QyalI1SHViUGlsZTlEU1BBNFJqckVINjY5MlZMejZnR1NvcTdvMkpaT3A3bGlVUzVGNXloWS1xcy1VY0lHS2p4NkdjNWZDRU5yeGhjT2JjMG1tUXlYekJ3RnFEelBWdTdmeWxxRzhMakhuN3ZXeGpqZ0NEX1gxU0ZLMEVrUTZIck1UUVBEX201TG05SUg2etIB8AFBVV95cUxPTWt3cEd1MmZLMnhWZmx5V2h2RjhTeTRXUDEyb1BpRm5FSlVxNk0waFNJWHdPeGMxTkJnZHE0YXZNYmswR3Q5Z0M5Z3dXY2QtSnpZRHUzSkNIdlJGQmFLNVp5NGViT0EtRDQxWXUxR2l6cWlvd3VMT3lnVVJfV0tYUUZHRnpIbjVVaDlMWnd3V2JlWE5DdW9pdU9aZHhudFUzNjQyWGR1eXhPMXFPSVhfWEdPcXZ2MzFfLXYyeWVibFp5OEdOUmFvM0tXR3BuRFFqYVJ5cWFtTVpGQnQ2UWhwTGN1NFRhZzl2cGZsRks5a2Q?oc=5",
-    "aid": "99d97b6a2a",
-    "titel": "Spektakel mit Eigentor: U21 von Dynamo Dresden trotzt dem Tabellenführer",
-    "quelle": "DNN - Dresdner Neueste Nachrichten",
-    "beschr": " Spektakel mit Eigentor: U21 von Dynamo Dresden trotzt dem Tabellenführer &nbsp;&nbsp; DNN - Dresdner Neueste Nachrichten ",
-    "zeit": "2026-11-02T06:30"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-02T09:01",
-  "archiv": []
- },
- {
-  "id": "4c46ed175c",
-  "schluessel": "stuttgart|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Stuttgart",
-  "klubs": [
-   "Stuttgart",
-   "Dresden",
-   "Bayern",
-   "Hertha"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "DFB-Pokal-Achtelfinale: VfB Stuttgart empfängt Dynamo Dresden – FC Bayern gegen Hertha",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHh2U3hFWElNTGR1Q2tXakFkM2xuRzcyNlVheTUwZXltdjY2YlVDUUJRN241cFRLaEpPVlVkYWVTcEJ2bFhWMHlaZGM1TEtTRGhYQ3Utd3hwOWdEcmxxMDR3czJxSFJuNFpMLVotbzdKZ29OdlgybC1xd1BrYTF6b2hKbE51LTYzUlFScmRzak84UnNuOXpwNmpuUmpkQkFqMjh5MmVSSWxpd3dZSDlqb0ROelF2UQ?oc=5",
-    "aid": "31f4b573f3",
-    "titel": "DFB-Pokal-Achtelfinale: VfB Stuttgart empfängt Dynamo Dresden – FC Bayern gegen Hertha",
-    "quelle": "LUDWIGSBURG24 | Online Nachrichten",
-    "beschr": " DFB-Pokal-Achtelfinale: VfB Stuttgart empfängt Dynamo Dresden – FC Bayern gegen Hertha &nbsp;&nbsp; LUDWIGSBURG24 | Online Nachrichten ",
-    "zeit": "2026-11-02T07:10"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-02T09:01",
-  "archiv": []
- },
- {
-  "id": "99b752e026",
-  "schluessel": "bayern|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Bayern",
-  "klubs": [
-   "Bayern",
-   "Hertha"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "DFB-Pokal Achtelfinale: FC Bayern München trifft auf Hertha BSC",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcDVIMEUwZVdSa3pqakt2ZVVvNHNteGxicVBvd3NVaVhoVHRQSlFZQTNCeXRBVlZOOXZSRDFlMG1lOVBPY18xcnd2YmJCRE5WN2poaFUtREVJNGxRQnZpWXU4QmF1SVRJYTVXZlQ2LVhldkdsOXRaaktYZENSUFhxamdSTTVHVnFscEI3ZXI4UVZ3QQ?oc=5",
-    "aid": "1084b0bf21",
-    "titel": "DFB-Pokal Achtelfinale: FC Bayern München trifft auf Hertha BSC",
-    "quelle": "Bad Honnef heute",
-    "beschr": " DFB-Pokal Achtelfinale: FC Bayern München trifft auf Hertha BSC &nbsp;&nbsp; Bad Honnef heute ",
-    "zeit": "2026-11-01T19:40"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-02T09:01",
-  "archiv": []
- },
- {
-  "id": "24bfe5da0c",
-  "schluessel": "st. pauli|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "St. Pauli",
-  "klubs": [
-   "St. Pauli",
-   "Kiel"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "St. Pauli und Holstein mit Niederlagen | HL-SPORTS - Sport-News für die Region Lübeck",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQckVheHJJblNtQjRHWlhjWEtvczRqcmwtVXFnUlMyenpyMzdvWlR3c3AwaGEwOHk2ZmtEWENWSmExM3pEM2pVeFhULXFwNzZrLVp3cVhlRE1fb3dzb1phTEZSN0xYMzNEUGYxZ0VwaFN1R0hLSnM4UlprZEc2XzBvNEZ2NNIBiAFBVV95cUxPZmZvNmhhMVQyZjV0VzRLdGY0N1JBRFN0eTBLN0xQVkJ6RUNQWnlLVTJ1bUlMcHJEZHBkaEx4a0JHdm1qWUJ2cXhmRWhCb3ZBaVROU0x0WGtjWC1yU1EwTjNoaklhLTI2RnNQUFNWcFBPeHdPYmN1MjJwdHlXVUc1cEhDdUI0ZUQz?oc=5",
-    "aid": "096e7916b1",
-    "titel": "St. Pauli und Holstein mit Niederlagen | HL-SPORTS - Sport-News für die Region Lübeck",
-    "quelle": "HL-SPORTS",
-    "beschr": " St. Pauli und Holstein mit Niederlagen | HL-SPORTS - Sport-News für die Region Lübeck &nbsp;&nbsp; HL-SPORTS ",
-    "zeit": "2026-11-01T15:27"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-02T09:01",
-  "archiv": [
-   {
-    "id": "7a2fa6344c",
-    "titel": "Nemeth: „Diese Niederlage war wichtig für uns“",
-    "datum": "01.11.",
-    "stufe": "spielbericht",
-    "summary": "St. Paulis Kapitän David Nemeth bezeichnet die Pokal-Niederlage gegen Rot-Weiss Essen als wichtig. Er spricht über seine neue Rolle, die defensive Stabilität und die vielen Unentschieden."
-   },
-   {
-    "id": "1b80ac3b06",
-    "titel": "Nürnberg gewinnt 3:1 bei St. Pauli, Teenager Kornwachs Barjuan trifft",
-    "datum": "01.11.",
-    "stufe": "spielbericht",
-    "summary": "Der 1. FC Nürnberg gewinnt 3:1 beim FC St. Pauli und beendet seine Serie ohne Sieg. Der 17-jährige Marc Kornwachs Barjuan trifft spät zum Endstand."
-   }
-  ]
- },
- {
-  "id": "be4cf9648e",
-  "schluessel": "nurnberg|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Nürnberg",
-  "klubs": [
-   "Nürnberg",
-   "St. Pauli",
-   "Fürth"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Nürnberg trotzt St. Pauli – Fürth jubelt spät, Wagner feiert Premierensieg",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNczVoRWtBMTF5bG01eXhiWkhVTEdRckZQcDNhUTQ0Y1pPVU9KRzhraGxCVFpFYnJRWGlQNWttaVE2Qy1xbTZHelVyQlJUcWt6ZndPcktlZ1czSWlMQmhEZzV0WUloMnVoVnVrSVFMZmxrc1ZEbzZLdFVfaV9kcWhNaUsxQlRMdkJWYUpKYXZMcXhMUHZLbnJhRkJpVHJfVWgxekpBdmxMb2w?oc=5",
-    "aid": "1f381694cb",
-    "titel": "Nürnberg trotzt St. Pauli – Fürth jubelt spät, Wagner feiert Premierensieg",
-    "quelle": "Sky Sport Austria",
-    "beschr": " Nürnberg trotzt St. Pauli – Fürth jubelt spät, Wagner feiert Premierensieg &nbsp;&nbsp; Sky Sport Austria ",
-    "zeit": "2026-11-01T15:49"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-02T09:01",
-  "archiv": []
- },
- {
-  "id": "b1ff460bd6",
-  "schluessel": "nurnberg|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Nürnberg",
-  "klubs": [
-   "Nürnberg",
-   "St. Pauli"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "‍[DAZN!!TV#] 1. FC Nürnberg vs. FC St. Pauli heute im kostenlosen Livestream und TV",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQdGFEQUNScmctaWY1RFpNc1paUVA1cUxfUk5MYkhtUjBmWFZLeDRHOE9tbWdjVXp1MGVMUXJ4eGNkczNoelN3YTJobVMxdGllMEhLSW1mNTUwWGxselpHMW1wZTZYREkzX2d3aUIzdWhtbWJWQkNPX21neFJXd0hpbHJXcG1oc0lmTElJWlVvem43aEp1UUZVNUlKRFVpcnBDM1NsaTNXS2Y2dm1RcWZCVjgtQ0RVdk4tbk9rWTB5QldCbGVDSlZBaENCT09qY1YxWTR4c0JDbG1QcTFmekU0RHhlRkF0alUyTnpaMFlSZUUtNnhLMG5obWFGd2tTYnp1VDRldWw4emVrdm1jdWNDaTBiYm5aQVJhcW1Fbm1ONS00eDNfVU9ITGNVLUdBdnhoNlR1MlpuTFkzVmhXZ2tGVmRNYzBHMVhIWEsxeW1jdUU1eEYxal9aSlVtVzVsMG56R1lIdXljRnA5RVFOVE80ZDJnTDBTVUhsLUlLRjNDbXFUcDZyNm1mTXg4eFcyUQ?oc=5",
-    "aid": "bb37e01b20",
-    "titel": "‍[DAZN!!TV#] 1. FC Nürnberg vs. FC St. Pauli heute im kostenlosen Livestream und TV",
-    "quelle": "Pierce Manufacturing",
-    "beschr": " ‍[DAZN!!TV#] 1. FC Nürnberg vs. FC St. Pauli heute im kostenlosen Livestream und TV &nbsp;&nbsp; Pierce Manufacturing ",
-    "zeit": "2026-11-01T11:44"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-02T09:01",
-  "archiv": []
- },
- {
-  "id": "ce63fe71ba",
-  "schluessel": "hannover|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hannover",
-  "klubs": [
-   "Hannover",
-   "Dresden"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "10. Spieltag: Hannover 96 - SG Dynamo Dresden - SG Dynamo Dresden - Forum | Page 1",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWUVVVHVCVmVqMy1IU3ZCcE9nd1U0blJERnktSnRSUGVPQUFfcmpzaTc4LW1NQzdOd2hCN3NfaHBQcURKNFNDeGtMYllpT1I0aEJ4LWt5SUxzaFBUMVpSRXRkRnVEY1dUcEY3aWF0YjRxaXlad0Z1eG1MSENrbkoyNm9Oc0tCR0tNRDdsYno4Sk9JMHRaMjllSzI4VW9VdGlOVzBaNXRR?oc=5",
-    "aid": "114b60ba1d",
-    "titel": "10. Spieltag: Hannover 96 - SG Dynamo Dresden - SG Dynamo Dresden - Forum | Page 1",
-    "quelle": "Transfermarkt",
-    "beschr": " 10. Spieltag: Hannover 96 - SG Dynamo Dresden - SG Dynamo Dresden - Forum | Page 1 &nbsp;&nbsp; Transfermarkt ",
-    "zeit": "2026-11-02T07:32"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-02T09:01",
-  "archiv": [
-   {
-    "id": "cb0b737b08",
-    "titel": "Dynamo sucht in Hannover den ersten Auswärtssieg seit April",
-    "datum": "01.11.",
-    "stufe": "sonstiges",
-    "summary": "Dynamo Dresden will bei Hannover 96 den ersten Auswärtssieg seit 204 Tagen holen. Seit dem 2:0 in Nürnberg im April blieb das Team von Trainer Thomas Stamm auswärts acht Ligaspiele ohne Sieg."
-   }
-  ]
- },
- {
-  "id": "85f28c15b0",
-  "schluessel": "bayern|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Bayern",
-  "klubs": [
-   "Bayern",
-   "Hertha"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "FC Bayern München - Hertha BSC, -:-, DFB-Pokal 2026/27 Achtelfinale",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa1FKenZ5LVBKZGo0SG9VTy1WdkdWX0VGMUkya3N6TER3SVM2TlliNm9uTkxNMWl1OWlKRVMzTEZqLWZidTRzNHN4WkNTR1V2N2VzbGlZNGZWeGhaOWREMmlIWnNicW5ZTnVmWFFUTklNeXdhVkZkSkZLUGcwNWtUY20yNkpxNVZSRVJaelIxbEdWU1BGRXNkM01GQUJSTzdpc193OTZORUlGRmM?oc=5",
-    "aid": "d8b9d160c2",
-    "titel": "FC Bayern München - Hertha BSC, -:-, DFB-Pokal 2026/27 Achtelfinale",
-    "quelle": "DFB Datencenter",
-    "beschr": " FC Bayern München - Hertha BSC, -:-, DFB-Pokal 2026/27 Achtelfinale &nbsp;&nbsp; DFB Datencenter ",
-    "zeit": "2026-11-01T19:44"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-02T09:01",
-  "archiv": []
- },
- {
-  "id": "90b78c360a",
-  "schluessel": "bayern|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Bayern",
-  "klubs": [
-   "Bayern",
-   "Hertha",
-   "Frankfurt"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "DFB-Pokal: Bayern empfängt Hertha, BVB in Frankfurt",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT1ZJa2VvbXAwWE92UjduNEdYT1F0YjdEVFlpRjUyT01wMnkzQ0R6cTRkZjNBNFppVHVaRGxMWXhheU4tMmtaS2d3LVhqY0x6M1c0dzhVT0NNTWZVV091U0dRMTZ2WXF1OFFXR0xyNjVPUERaZkxlSXZ6YU5ka19Ra1BPQ0k2aGluUF9ieGZ2MjE5dlJPWDNweDdzWUtMUGhQWExUMVhsdw?oc=5",
-    "aid": "e7cf5dea80",
-    "titel": "DFB-Pokal: Bayern empfängt Hertha, BVB in Frankfurt",
-    "quelle": "SPORT1",
-    "beschr": " DFB-Pokal: Bayern empfängt Hertha, BVB in Frankfurt &nbsp;&nbsp; SPORT1 ",
-    "zeit": "2026-11-01T19:38"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-02T09:01",
-  "archiv": []
- },
- {
-  "id": "5d2e69cad8",
-  "schluessel": "karlsruhe|transfer",
-  "person": "",
-  "spieler": [],
-  "klub": "Karlsruhe",
-  "klubs": [
-   "Karlsruhe"
-  ],
-  "stufe": "geruecht",
-  "klasse": "transfer",
-  "titel": "Wechsel-Beben beim KSC: Das sind alle Transfers der Saison 2026/2027",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdXY0R21EckVTdHM3am9PSWlvQVdFNUN0cWUwcTVSdm9zSnJFLUp4bkxOdFh0ekVOSF91NkhPZXZwbXZNNmtSd2w0T0hFZUljMkQ1WGlpWmFDT0NFLUNJM3pXSW5OR0g1UWlLRGFBOWNkWkZ1Y3pINFhrTUJfWUxtQWJZcVRabkw2RzV2N3czVmljZkFVY19OUk5VX0xUUzNvamcwTEtpRXdGQXByWUNaU0UzZEdGbnpmdnQ2VA?oc=5",
-    "aid": "104c14c426",
-    "titel": "Wechsel-Beben beim KSC: Das sind alle Transfers der Saison 2026/2027",
-    "quelle": "ka-news",
-    "beschr": " Wechsel-Beben beim KSC: Das sind alle Transfers der Saison 2026/2027 &nbsp;&nbsp; ka-news ",
-    "zeit": "2026-11-02T06:04"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-02T09:01",
-  "archiv": []
- },
- {
-  "id": "2d15046a44",
-  "schluessel": "karlsruhe|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Karlsruhe",
-  "klubs": [
-   "Karlsruhe"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "KSC-Talente überraschen mit Millionen-Plus: Jungstars sorgen für Marktwert-Boom",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMGFudng1aXd5VUJDaEFtS29CYXVnaGxEZkZHYmNobjM0UW5Fd25VYW9sUDZzM2NjeFRyTEpXZVBVSVlZcGF3WnlZUUliQTBHMk9ObmlVSGhCYVlFV0Rnd214WFdNVldQb0k3ejNvZXEwc2xQcC1QNjU0U3NCM2haQmRZbDY1ZFR3eF85eTVWU2hxVDVWbVE3dVRzUjl1M2RrbUZyeg?oc=5",
-    "aid": "72318f1507",
-    "titel": "KSC-Talente überraschen mit Millionen-Plus: Jungstars sorgen für Marktwert-Boom",
-    "quelle": "ka-news",
-    "beschr": " KSC-Talente überraschen mit Millionen-Plus: Jungstars sorgen für Marktwert-Boom &nbsp;&nbsp; ka-news ",
-    "zeit": "2026-11-02T06:05"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-02T09:01",
-  "archiv": []
+  "versuche": 2
  },
  {
   "id": "85741a077c",
@@ -747,123 +51,11 @@
    }
   ],
   "archiv_status": "neu",
-  "prio": null,
-  "status": "",
+  "prio": 2,
+  "status": "n",
   "erstmals": "2026-11-02T09:01",
-  "archiv": []
- },
- {
-  "id": "72032c8e9a",
-  "schluessel": "darmstadt|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Darmstadt",
-  "klubs": [
-   "Darmstadt"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Borussia Mönchengladbach - SV Darmstadt 98, -:-, DFB-Pokal 2026/27",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPekptQ3lseGJTbnM2X00tQS00Z1hwZFpIV2xtUG9LTi04Q0ozOEJNTldBRHFFdC1Qb3VxeHB4SHc5WnBwalNPQnFtejJWQk1Obm1JcXFZamJPNVdqa0g3QzllREJDT2VLQ3BncWVSVHpLRy1JUmVldkJuZUxnWlAyVVlyV0hjUUtqY21tdw?oc=5",
-    "aid": "780650430a",
-    "titel": "Borussia Mönchengladbach - SV Darmstadt 98, -:-, DFB-Pokal 2026/27",
-    "quelle": "DFB Datencenter",
-    "beschr": " Borussia Mönchengladbach - SV Darmstadt 98, -:-, DFB-Pokal 2026/27 &nbsp;&nbsp; DFB Datencenter ",
-    "zeit": "2026-11-01T19:43"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-02T09:01",
-  "archiv": []
- },
- {
-  "id": "8d4448cc9c",
-  "schluessel": "frankfurt|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Frankfurt",
-  "klubs": [
-   "Frankfurt",
-   "Darmstadt"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "DFB-Pokal-Auslosung: Eintracht empfängt BVB, Darmstadt muss nach Gladbach",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNWVUYUdsamVTeHJlWVM0cmhVMmkyM0pqRGtGaGZWVDZ6NTBKbWc2VURtTFZpbmtGakNLdWU4a3g2OTlTWDJfQjZvNFN2anlyX3ZEUl94M0ZET2pZcl91dDV1eWFCdEQtLWx5UHBab2V5YnBJWDdmME5GXy1uQUZHVkZaaUhSdlF4RWRmQXJ5YV9vSFBZOEJyUGFKZWlGZjFTUFFKajlmSFRCWTBzek1pQ0JxbmVTbjJFZ2RScWpTOA?oc=5",
-    "aid": "96212e1df8",
-    "titel": "DFB-Pokal-Auslosung: Eintracht empfängt BVB, Darmstadt muss nach Gladbach",
-    "quelle": "sportschau.de",
-    "beschr": " DFB-Pokal-Auslosung: Eintracht empfängt BVB, Darmstadt muss nach Gladbach &nbsp;&nbsp; sportschau.de ",
-    "zeit": "2026-11-02T08:27"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-02T09:01",
-  "archiv": []
- },
- {
-  "id": "de0d6623a1",
-  "schluessel": "bochum|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Bochum",
-  "klubs": [
-   "Bochum"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Förderung für Naturschutzgebiet in Bochum",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX0hNaTJMVnlZTThPWWozOFFXckI2eHpHVXh1YVRLTXNBUEdycXdGelJfQVFvVG53TlVFQm44NG1vb2dtczJ5NGJKVUJxVl9ZMmhaWmZoc05JLVcyUUNaVzZIZWlhVWFZeEVxZjE2dWc1ekFQMHJReFBpY285WU5ROTVJeGM1eDYtcVhQbGJzQQ?oc=5",
-    "aid": "a96808a34c",
-    "titel": "Förderung für Naturschutzgebiet in Bochum",
-    "quelle": "Radio Bochum",
-    "beschr": " Förderung für Naturschutzgebiet in Bochum &nbsp;&nbsp; Radio Bochum ",
-    "zeit": "2026-11-02T06:10"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-02T09:01",
-  "archiv": []
- },
- {
-  "id": "22ddcd484a",
-  "schluessel": "bochum|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Bochum",
-  "klubs": [
-   "Bochum"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "VfL Bochum - FC Augsburg, -:-, DFB-Pokal 2026/27",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLW5LQ2dhLUlCOFZHTUkwMTlIdEdVdVFUMjViSDZjVkJiVHRNN1lQTmpIdzZ1Y1YzTVRtX19qYTYtc09iREl2RW9mWVNpYlVYWldWRU11eGxYZzlXMXVwY1p6TFRNMEUwQ0p4NWhaeEt6OXMtd1pyRTBFRHJGRlpWc2dZMEZtMFJVcXJMOQ?oc=5",
-    "aid": "d912ec8b6a",
-    "titel": "VfL Bochum - FC Augsburg, -:-, DFB-Pokal 2026/27",
-    "quelle": "DFB Datencenter",
-    "beschr": " VfL Bochum - FC Augsburg, -:-, DFB-Pokal 2026/27 &nbsp;&nbsp; DFB Datencenter ",
-    "zeit": "2026-11-01T19:43"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-02T09:01",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "a05ffce74e",
@@ -888,37 +80,209 @@
    }
   ],
   "archiv_status": "neu",
-  "prio": null,
-  "status": "",
+  "prio": 2,
+  "status": "n",
   "erstmals": "2026-11-02T09:01",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
-  "id": "91992678b2",
-  "schluessel": "wolfsburg|sonstiges",
+  "id": "ce5a359cf8",
+  "schluessel": "darmstadt|verletzung",
   "person": "",
   "spieler": [],
-  "klub": "Wolfsburg",
+  "klub": "Darmstadt",
   "klubs": [
-   "Wolfsburg"
+   "Darmstadt"
   ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Highlights von Grizzlys Wolfsburg - Augsburger Panther | Eishockey - Highlights by MagentaSport | Video",
+  "stufe": "ausfall",
+  "klasse": "verletzung",
+  "titel": "Bittere Diagnose: Darmstadts Zehner Verkooijen fällt lange aus",
   "quellen": [
    {
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMk9RUHhLUFJTZjQ5RS1vNnFIcGljU1BzeVktc09qalJ4dGtzY1EtZGxBNm1mMkFUTkZFTnF2LWV6V19yNU50QUhNMHBtZFRHMWFMRzRROWZNZ05rS2EtbHdraDZaMWNPYzZmT3NFamhmMGR4VEVtNGI2QWwtTHJWUWZ4NmQ1STg5VV9pdS0yS3hMZw?oc=5",
-    "aid": "1474432ea8",
-    "titel": "Highlights von Grizzlys Wolfsburg - Augsburger Panther | Eishockey - Highlights by MagentaSport | Video",
-    "quelle": "kicker.ch",
-    "beschr": " Highlights von Grizzlys Wolfsburg - Augsburger Panther | Eishockey - Highlights by MagentaSport | Video &nbsp;&nbsp; kicker.ch ",
-    "zeit": "2026-11-01T17:58"
+    "url": "https://www.kicker.de/bittere-diagnose-darmstadts-zehner-verkooijen-faellt-lange-aus-1267772/artikel#omrss",
+    "aid": "06e67e43cc",
+    "titel": "Bittere Diagnose: Darmstadts Zehner Verkooijen fällt lange aus",
+    "quelle": "kicker 2. Bundesliga News",
+    "beschr": "Knapp eine Woche nach der Pokal-Überraschung in Elversberg hat der SV Darmstadt 98 die Diagnose beim früh ausgewechselten Nicolas Verkooijen verkündet. Die ist niederschmetternd.",
+    "zeit": "2026-11-02T11:57"
    }
   ],
   "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-02T09:01",
-  "archiv": []
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-02T12:02",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "2a35006f72",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Wagner steht „wie eine Eins“: So will der Trainer Hannover 96 durch Krise manövrieren",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTFZTT29adjdUemRqb3pnQVZRM0lMTm5ZekpRN0M4WHdqbGhLemRxSGR5b3NqMmJaeUlqcFVuQ09wR2g4OUdNU1FIajdrWVFIY29GcjBVMHl6NE5LR2xhSGUzVF95aVI5SnJ0UlZEU2V4djd5T2JXd0FJYTVETTNhaEY1Z1NSSXg0U05QdkFTNURDdnByS29tWFdzT1BkeWZscnB4Q1hIckhwMzRpNkJWckxGOS1WWWlyYktZTUhhSTJrSjVIMF9wbDZ6RWlSQkZUVlp1QzIwYlQ1VkVzc3Vmd196RVZmbWZEQ1VCWg?oc=5",
+    "aid": "5ee1768917",
+    "titel": "Wagner steht „wie eine Eins“: So will der Trainer Hannover 96 durch Krise manövrieren",
+    "quelle": "Neue Presse",
+    "beschr": " Wagner steht „wie eine Eins“: So will der Trainer Hannover 96 durch Krise manövrieren &nbsp;&nbsp; Neue Presse ",
+    "zeit": "2026-11-02T11:26"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "u",
+  "erstmals": "2026-11-02T12:02",
+  "archiv": [
+   {
+    "id": "46380a1986",
+    "titel": "Wontorra stärkt Hannovers Trainer Wagner den Rücken",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Moderatorin Laura Wontorra stärkt Hannovers Trainer Sandro Wagner, der nach vier Pflichtspielen noch sieglos ist, im Podcast „TOMorrow“ den Rücken. Sie traut ihm eine große Trainerkarriere zu."
+   },
+   {
+    "id": "afa3db9641",
+    "titel": "Hannover 96 trennt sich nach fünf Monaten von Sportchef Boldt",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Hannover 96 hat Sport-Geschäftsführer Jonas Boldt nach nur fünf Monaten mit sofortiger Wirkung abberufen. Der Klub steht nach neun Spieltagen mit acht Punkten auf Platz 16."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "6aef15446e",
+  "schluessel": "hertha|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha",
+   "Kaiserslautern"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Spitzenplatz gefestigt: Hertha lässt in Kaiserslautern die Muskeln spielen",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUGtlUjduSUZPVjZUTU5TWEgxdVprc1NZa0UweE5MVEZLU2tGNUZzb2l4Tk85N3VWbXNtQUFkREpyblZUZElOWHZMSnBVY1VhVXJsYkxha3RGZm02MWJOZzlhZ1U4Yko2OHV5XzJtNERxeXpROFBLcUY0cUxyWUpGMQ?oc=5",
+    "aid": "1255576112",
+    "titel": "Spitzenplatz gefestigt: Hertha lässt in Kaiserslautern die Muskeln spielen",
+    "quelle": "Kicker",
+    "beschr": " Spitzenplatz gefestigt: Hertha lässt in Kaiserslautern die Muskeln spielen &nbsp;&nbsp; Kicker ",
+    "zeit": "2026-10-31T15:06"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-02T12:02",
+  "archiv": [
+   {
+    "id": "f57eea9f29",
+    "titel": "Reese und Damar freuen sich auf Wiedersehen mit Hertha",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Wolfsburgs Fabian Reese und Muhammed Damar freuen sich auf das Spiel bei Tabellenführer Hertha BSC am Samstag. Beide haben eine Vergangenheit in Berlin und kommen nach dem 2:0 gegen Osnabrück mit Rückenwind."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "02398b2dea",
+  "schluessel": "karlsruhe|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Karlsruhe",
+  "klubs": [
+   "Karlsruhe"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Civejas Willensleistung und Wanitzeks Traumfreistoß: KSC gelingt Befreiungsschlag",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNHk1OWh4ejkxRGFCRUh2QmJDMGk5aWg1azJlN0hKUDAySDZ1bGU1YktiT1YtVTJYY2pDY3dZOXFOa2E3V0tJT3dGSmNZUFhSX2RBUzhHV0JaaU5FZzNjMmFBMWtBd1d5cDFDRFJoU09rbU9OMHJSeV9fUjZ3Uzc1eExWY3lJNEU?oc=5",
+    "aid": "ec4352454b",
+    "titel": "Civejas Willensleistung und Wanitzeks Traumfreistoß: KSC gelingt Befreiungsschlag",
+    "quelle": "Kicker",
+    "beschr": " Civejas Willensleistung und Wanitzeks Traumfreistoß: KSC gelingt Befreiungsschlag &nbsp;&nbsp; Kicker ",
+    "zeit": "2026-10-31T22:57"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-02T12:02",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "423f723219",
+  "schluessel": "bielefeld|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Bielefeld",
+  "klubs": [
+   "Bielefeld"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Noten für Arminia Bielefeld: Neben Alm-Phänomen Grodowski glänzen auch noch andere",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNOEx1X010Z25kX0VLS1RseWc1ZFlVZnFSRXpKd3hlUXBtc0wzU05ZVFQ1dEpTMnh3b3dpLVVHeHE2R3JtNk5tcmlGY1hFZlNBODVRNE9ralVvNlkyYUZKX1MyclRUeENTNE9mVzhrYXFZTmhra2tFSXR3YXJYUDlwWWpCUnEzaUVJWmJEWTllWEEzWnpmaXg1Z3I3N1JycEtQVkJ6R1R6S2VDUG1YeE5FTVRBMmtVd3NzZDF5RUotQXZDQzVkUXUzVVFqWC1FLXg0emFzWkkwOTBQaU9IQ01FQ1hGc0VXYV8w?oc=5",
+    "aid": "8f00397293",
+    "titel": "Noten für Arminia Bielefeld: Neben Alm-Phänomen Grodowski glänzen auch noch andere",
+    "quelle": "Neue Westfälische",
+    "beschr": " Noten für Arminia Bielefeld: Neben Alm-Phänomen Grodowski glänzen auch noch andere &nbsp;&nbsp; Neue Westfälische ",
+    "zeit": "2026-11-02T11:35"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-02T12:02",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "c57d8634a6",
+  "schluessel": "kiel|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Kiel",
+  "klubs": [
+   "Kiel",
+   "Fürth"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "Holstein Kiel: Was kommt nach dem 1:0 gegen SpVgg Greuther Fürth?",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaF9MWk5WTWpON2t0MF9LMDRZbUVpYm5hTDJrNWctdUlBZm5BQnhmb0hvbUpsYk5fdGtyVHJiOHFsa3hiTGQyVUE5TGFvS0NDUk1FUVpfSWZpZF9GcTZuMDUyVUNLdm5Gb3NOMFloX05qSVZNRmF1dTlicE9TVkpjVDY1SjVaaW93cTJKcDZjVzRaZWZJYjBfX1NoamhLTUxkd1k4Wm5KSVN0SFlBNU94VnBfajVEbHVhV3VGX1lmOUw?oc=5",
+    "aid": "c31dd864fb",
+    "titel": "Holstein Kiel: Was kommt nach dem 1:0 gegen SpVgg Greuther Fürth?",
+    "quelle": "News.de",
+    "beschr": " Holstein Kiel: Was kommt nach dem 1:0 gegen SpVgg Greuther Fürth? &nbsp;&nbsp; News.de ",
+    "zeit": "2026-11-02T09:31"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-02T12:02",
+  "archiv": [],
+  "versuche": 1
  }
 ]
