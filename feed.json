@@ -1,5 +1,70 @@
 [
   {
+    "id": "922b910d1b",
+    "titel": "Heidenheims Schmidt stellt sich vor Vogt: Klare Worte gegen Hass im Netz",
+    "kategorie": "interview",
+    "badge": "Interview",
+    "badge_bg": "#1976d2",
+    "badge_fg": "#fff",
+    "datum": "02.11.2026 18:05",
+    "wappen_url": "logos/heidenheim.png",
+    "vereine": [
+      "Heidenheim",
+      "Karlsruhe"
+    ],
+    "anriss": "Heidenheims Trainer Frank Schmidt hat sich nach der 1:2-Niederlage beim Karlsruher SC deutlich gegen Anfeindungen im Internet positioniert. Auslöser sind Attacken auf Social-Media-Kanälen gegen Stürmer Alessandro Vogt, der in den",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Heidenheim",
+    "pfad": "artikel/heidenheims-schmidt-stellt-sich-schuetzend-vor-vogt-klare-worte-gegen-922b910d1b.html",
+    "bild_tm": ""
+  },
+  {
+    "id": "e8d2176e39",
+    "titel": "Hannover 96: Chakroun mit Schulterblessur, Einsatz in Heidenheim offen",
+    "kategorie": "verletzung",
+    "badge": "Verletzung",
+    "badge_bg": "#e53935",
+    "badge_fg": "#fff",
+    "datum": "02.11.2026 18:04",
+    "wappen_url": "logos/hannover.png",
+    "vereine": [
+      "Hannover",
+      "Heidenheim"
+    ],
+    "anriss": "Hannover 96 muss vor dem Spiel bei Heidenheim am Sonntag (13.30 Uhr) um Husseyn Chakroun bangen. Der Offensivspieler hat sich laut Klub „eine Blessur im rechten Schultereckgelenk zugezogen“. Ein Einsatz",
+    "spielerstatus": [
+      {
+        "spieler": "Chakroun",
+        "klub": "Hannover",
+        "status": "fraglich",
+        "grund": "Blessur im rechten Schultereckgelenk"
+      },
+      {
+        "spieler": "Gindorf",
+        "klub": "Hannover",
+        "status": "faellt_aus",
+        "grund": "Viruserkrankung"
+      },
+      {
+        "spieler": "Pichler",
+        "klub": "Hannover",
+        "status": "faellt_aus",
+        "grund": "Wadenprobleme"
+      },
+      {
+        "spieler": "Steinmann",
+        "klub": "Hannover",
+        "status": "faellt_aus",
+        "grund": "Muskelverletzung im Oberschenkel"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Hannover",
+    "pfad": "artikel/hannover-96-chakroun-mit-schulterblessur-einsatz-in-heidenheim-offen-e8d2176e39.html",
+    "bild_tm": ""
+  },
+  {
     "id": "956ebe3028",
     "titel": "Darmstadt monatelang ohne Verkooijen: Syndesmoseband gerissen",
     "kategorie": "verletzung",
