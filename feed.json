@@ -1,5 +1,31 @@
 [
   {
+    "id": "956ebe3028",
+    "titel": "Darmstadt monatelang ohne Verkooijen: Syndesmoseband gerissen",
+    "kategorie": "verletzung",
+    "badge": "Verletzung",
+    "badge_bg": "#e53935",
+    "badge_fg": "#fff",
+    "datum": "02.11.2026 15:04",
+    "wappen_url": "logos/darmstadt.png",
+    "vereine": [
+      "Darmstadt"
+    ],
+    "anriss": "Der SV Darmstadt 98 muss mehrere Monate auf Offensivspieler Nicolas Verkooijen verzichten. Das gaben die Lilien am Montag bekannt. Der 19-Jährige zog sich im DFB-Pokalspiel in Elversberg vergangene Woche eine",
+    "spielerstatus": [
+      {
+        "spieler": "Verkooijen",
+        "klub": "Darmstadt",
+        "status": "faellt_aus",
+        "grund": "Syndesmosebandruptur, Operation am Mittwoch"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Darmstadt",
+    "pfad": "artikel/darmstadt-monatelang-ohne-verkooijen-syndesmoseband-gerissen-956ebe3028.html",
+    "bild_tm": ""
+  },
+  {
     "id": "1084b0bf21",
     "titel": "DFB-Pokal-Achtelfinale: Bayern empfängt Hertha BSC",
     "kategorie": "news",
