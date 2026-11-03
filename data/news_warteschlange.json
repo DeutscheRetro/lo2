@@ -26,7 +26,7 @@
   "status": "n",
   "erstmals": "2026-11-03T15:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "8c4ed439cb",
@@ -63,7 +63,7 @@
     "summary": "Heidenheims Trainer Frank Schmidt hat sich nach der 1:2-Niederlage in Karlsruhe vor Stürmer Alessandro Vogt gestellt, der im Netz angefeindet worden sein soll. Vogt erzielte gegen den KSC sein erstes Pflichtspieltor für den FCH."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "d71af89374",
@@ -92,44 +92,7 @@
   "status": "n",
   "erstmals": "2026-11-03T15:01",
   "archiv": [],
-  "versuche": 1
- },
- {
-  "id": "103b89d03c",
-  "schluessel": "hannover|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hannover",
-  "klubs": [
-   "Hannover"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Hannover 96: Wen holt Martin Kind? 60 Bewerbungen für Sportdirektor-Job",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOF9ZVXlrMS1YZ1ZPQmw0enNBNWt5dDd0NmFXMk5BcXdXcmR2U05nV21jYUVWNTNJcUg3c052LXhWLWZGTUpQRTh3OVV6dF8xQlFTdzdBYXBuSnJWMV9WRVZ6TTV6TXB0TnRkcEwteUFRdThHQUxIMHdjdEJpM2FRN1JndVpnT0ZGY3RwNlRwVkFxVFNmSEVjUVk2NFhVQ3FMc1F6VS1hV3BiekNxQmFZd014bTk4OHliZVdmbWwwbkdObGV1RTh0UTZB?oc=5",
-    "aid": "2d1f46d906",
-    "titel": "Hannover 96: Wen holt Martin Kind? 60 Bewerbungen für Sportdirektor-Job",
-    "quelle": "BILD",
-    "beschr": " Hannover 96: Wen holt Martin Kind? 60 Bewerbungen für Sportdirektor-Job &nbsp;&nbsp; BILD ",
-    "zeit": "2026-11-03T14:32"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 3,
-  "status": "u",
-  "erstmals": "2026-11-03T15:01",
-  "archiv": [
-   {
-    "id": "afa3db9641",
-    "titel": "Hannover 96 trennt sich nach fünf Monaten von Sportchef Boldt",
-    "datum": "01.11.",
-    "stufe": "sonstiges",
-    "summary": "Hannover 96 hat Sport-Geschäftsführer Jonas Boldt nach nur fünf Monaten mit sofortiger Wirkung abberufen. Der Klub steht nach neun Spieltagen mit acht Punkten auf Platz 16."
-   }
-  ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "7a1a352acf",
@@ -158,7 +121,7 @@
   "status": "n",
   "erstmals": "2026-11-03T15:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "c3b54c5e7e",
@@ -186,6 +149,218 @@
   "prio": 3,
   "status": "n",
   "erstmals": "2026-11-03T15:01",
+  "archiv": [],
+  "versuche": 2
+ },
+ {
+  "id": "5c74c55a67",
+  "schluessel": "hertha|transfer",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha"
+  ],
+  "stufe": "vollzogen",
+  "klasse": "transfer",
+  "titel": "Hertha fordert Respekt für Reese – Sogar offizielle Verabschiedung geplant?",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRjgzQ0I2eVZtbFVRZGxPMWwtLUVwck8wMDA2YjdyaERQdmREQlFvcXpmdkIzSEstODBDOVA0SlRoSXpiM1Rqd1NTZEZhMlp6NDl4MVRfVEdiTGZyN04zY1ByWVJuZGxfRkk5TWRsZ25kY1BLSnMwaXdlbURlcHZHRXc1ZVkxam8wY1dDRlk5YWw4NHFOMTFfcmU2NFVRMXlzZ3lpdFU4OGtPQkYzenVvdE9OV2lqOUxDZlZr?oc=5",
+    "aid": "cd98d0b3c5",
+    "titel": "Hertha fordert Respekt für Reese – Sogar offizielle Verabschiedung geplant?",
+    "quelle": "Transfermarkt",
+    "beschr": " Hertha fordert Respekt für Reese – Sogar offizielle Verabschiedung geplant? &nbsp;&nbsp; Transfermarkt ",
+    "zeit": "2026-11-03T16:30"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "u",
+  "erstmals": "2026-11-03T18:02",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "40a115509b",
+  "schluessel": "dresden|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Dresden",
+  "klubs": [
+   "Dresden"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Trainer-Beben bei Dynamo Dresden? Sportchef wird deutlich",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTzhOc1RPcE0xZS1CVEFodHFaMzlWbkRJbjlNbk9NakZxLVVQUV9fUko4bVViWEhGaFdHeEJXVnA1ME5WWFJnQXROM0VaaE5YMkdmcUhhLWNuSmdhM0hWLXIyaTZLV0NnRjNBY0tNQXk3UGpyYXJNR0luWE80aC1YemVJNjJLYjNuck9GN2t2TWh2X2NOVUNGWDZ3?oc=5",
+    "aid": "872ae34e1e",
+    "titel": "Trainer-Beben bei Dynamo Dresden? Sportchef wird deutlich",
+    "quelle": "sport.de",
+    "beschr": " Trainer-Beben bei Dynamo Dresden? Sportchef wird deutlich &nbsp;&nbsp; sport.de ",
+    "zeit": "2026-11-03T16:15"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-03T18:02",
+  "archiv": [
+   {
+    "id": "cb0b737b08",
+    "titel": "Dynamo sucht in Hannover den ersten Auswärtssieg seit April",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Dynamo Dresden will bei Hannover 96 den ersten Auswärtssieg seit 204 Tagen holen. Seit dem 2:0 in Nürnberg im April blieb das Team von Trainer Thomas Stamm auswärts acht Ligaspiele ohne Sieg."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "7bd49c620f",
+  "schluessel": "hertha|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Hertha: Hoffnungsträger Nilsson ist zurück",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTV9oWHN4bVBJOTg4ZnJveU5oUXpFaVVJQklBbXRrNV8yeHQ1ck4wczhlN2NuRndFOG1UYXd0MzRFVW5WZWhLVmtDeHdSLXF0cGJsTlZCS3VTWGVnSVRsVUVFWGJxS3VHSEZBcUwxYjBhS3kxNE5OMks0WXo3eHJVVGwyLVVvdXNs?oc=5",
+    "aid": "85905b7c20",
+    "titel": "Hertha: Hoffnungsträger Nilsson ist zurück",
+    "quelle": "Kicker",
+    "beschr": " Hertha: Hoffnungsträger Nilsson ist zurück &nbsp;&nbsp; Kicker ",
+    "zeit": "2026-11-03T15:42"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "u",
+  "erstmals": "2026-11-03T18:02",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "ef7fbec8ea",
+  "schluessel": "hertha|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Gute Neuigkeiten für Hertha: Leitl kann auf diese Spieler setzen",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLUJFN2JLSjhMcEptS0RBMVpJWkVpYWRnekRXOGt5N1gzdjlEUXpzOGJ4bXhnLXV0N1gzWXU0Z3drYWQwMGV2THlReEl0R1lpbjJQeUFvSkMyODZWVWZTRFYtNHBPOE4wdEw2S0xzNkZBNkpxbzFhZ3NwNEVUNUQ0VmhZZUt4d2JyZUczTWxwQ3ZRaFF5?oc=5",
+    "aid": "ff6e161695",
+    "titel": "Gute Neuigkeiten für Hertha: Leitl kann auf diese Spieler setzen",
+    "quelle": "fussballdaten.de",
+    "beschr": " Gute Neuigkeiten für Hertha: Leitl kann auf diese Spieler setzen &nbsp;&nbsp; fussballdaten.de ",
+    "zeit": "2026-11-03T17:25"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-03T18:02",
+  "archiv": [
+   {
+    "id": "0243113205",
+    "titel": "Messi wählt Maza: Hertha stolz auf Ex-Talent aus der Akademie",
+    "datum": "03.11.",
+    "stufe": "sonstiges",
+    "summary": "Lionel Messi hat Ex-Herthaner Ibrahim Maza bei der Kopa-Trophäe als einziger Juror auf Platz drei gesetzt. Hertha zeigt sich stolz, Maza landete in der Endabrechnung auf Rang neun."
+   },
+   {
+    "id": "f57eea9f29",
+    "titel": "Reese und Damar freuen sich auf Wiedersehen mit Hertha",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Wolfsburgs Fabian Reese und Muhammed Damar freuen sich auf das Spiel bei Tabellenführer Hertha BSC am Samstag. Beide haben eine Vergangenheit in Berlin und kommen nach dem 2:0 gegen Osnabrück mit Rückenwind."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "d67d49d8c3",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Bericht: Hannover 96 droht der nächste personelle Knall - diesmal in der Führungsetage",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOWc5RldhTFFnOTNyVS1OV3Y1THlwTzlzNmRJSzhrcFktQlk2NjRzZGNfTDFLd25BVEY4TVpkSzZETFhuZkJZSVhQU1B6MXVaenBDRTMweDJ0bk40ekRTNVFMZTM5TWNVUWdjSnd4UU1PajBMaFJBRkVBb0JUYmxJb3ZqUm0tUlN2RFB0Tktvd0ZRRVJXZkF3Z3k3UzgtYTNhRVZVQ1ljYkN4TkhId3BadFpFNnJndXlVQlRWN0t6MkFHcm5jbXBXOVdsLWdNUQ?oc=5",
+    "aid": "5c048de2c7",
+    "titel": "Bericht: Hannover 96 droht der nächste personelle Knall - diesmal in der Führungsetage",
+    "quelle": "FotMob",
+    "beschr": " Bericht: Hannover 96 droht der nächste personelle Knall - diesmal in der Führungsetage &nbsp;&nbsp; FotMob ",
+    "zeit": "2026-11-03T05:42"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "u",
+  "erstmals": "2026-11-03T18:02",
+  "archiv": [
+   {
+    "id": "afa3db9641",
+    "titel": "Hannover 96 trennt sich nach fünf Monaten von Sportchef Boldt",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Hannover 96 hat Sport-Geschäftsführer Jonas Boldt nach nur fünf Monaten mit sofortiger Wirkung abberufen. Der Klub steht nach neun Spieltagen mit acht Punkten auf Platz 16."
+   },
+   {
+    "id": "cb0b737b08",
+    "titel": "Dynamo sucht in Hannover den ersten Auswärtssieg seit April",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Dynamo Dresden will bei Hannover 96 den ersten Auswärtssieg seit 204 Tagen holen. Seit dem 2:0 in Nürnberg im April blieb das Team von Trainer Thomas Stamm auswärts acht Ligaspiele ohne Sieg."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "8a7ceee52b",
+  "schluessel": "kiel|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Kiel",
+  "klubs": [
+   "Kiel"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Holstein Kiel: Wie Walter und Rebbe den Weg für die Talente ebnen",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRVFreUJSQVQ2eXJPQ0l1VTNsaHN1R1pWbWZObW0wYXAxendzU0FyMERybVZrQklQRXFVblRLWS1TYjVrcHEzM2g4czM4MERsclozUW1URjYyMkVsN3RwclZlSnpnWVoydmtYRUIyRHpyTExmbnk2emV5clJRbnpFQzV2RDZjWW9adW1Ra3dfejM2Vl8tS3RYS3JiWXZPbUFmdW81RzNZWEoxQXN4MUpGZ09tTUFlWWFEVmdOTzNuMFFrUkV5YzJweFVQM25ndVpUYm9N0gHvAUFVX3lxTE9OdzJESnhZekRyTWNpYjlzV3otVWhFVTZUQV83QVRJckRoN1N3ZDN6SDd6RXE3cWlPY21zZGNYU3pMbmZicGpBU2VVaFBZTVZXX1poY29mVmlnQjRkN05RV1N5akM5SGV0NUJCVFdaaVhLTHJaaE9zanV1dldOX1JCOEp0N0poZGFkblhEUHFxYnM3bWVTNmpzbThkM0tJWHktck9BRkx1YWxsNDd0UEpMYWtxRWtJbHZUaDNLRVg3aWJna0NnS1RTbWhjVHJreEpqNnhuSUtQc2FNbkFlcnJhOVBrNVlZbkdwSVJRSnJz?oc=5",
+    "aid": "ed379f9673",
+    "titel": "Holstein Kiel: Wie Walter und Rebbe den Weg für die Talente ebnen",
+    "quelle": "Kieler Nachrichten",
+    "beschr": " Holstein Kiel: Wie Walter und Rebbe den Weg für die Talente ebnen &nbsp;&nbsp; Kieler Nachrichten ",
+    "zeit": "2026-11-03T15:23"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-03T18:02",
   "archiv": [],
   "versuche": 1
  }

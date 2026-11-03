@@ -724,5 +724,50 @@
     },
     "published_at": "2026-11-03T15:03:59.843775",
     "source": "Die Sachsen News"
+  },
+  {
+    "id": "6c42a192ac",
+    "generated_title": "KSC: Franke und Jung fehlen zum Start der Bochum-Vorbereitung",
+    "original_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSVdoTHNldjFlNENqZjZFbXpVSGtRWlhfSHA2SkJQXzk5cVJYZ3QzOUJ1UkFKZGVoM2lSaUFGRjVMY1cyajFOQUtxUUUtNlp4eEgtdnRJZnhjUk5iQzlweWxhU2lwRXlBSnNSRFdyWTE5dkRZenl2YkRmby1yNENfdXRYRHROUnJNQzdCSWJXVWpwQ3p2ams1em45MTFocFkxRDVtem1kOHZ0bnVEMmpSbTRaOTJSZw?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Karlsruhe",
+      "event_stage": "verletzung",
+      "main_teams": [
+        "Bochum",
+        "Karlsruhe"
+      ],
+      "main_players": [
+        "Marcel Franke",
+        "Sebastian Jung",
+        "Moritz Broschinski"
+      ],
+      "summary": "Der KSC hat die Vorbereitung auf das Auswärtsspiel in Bochum am 8. November begonnen. Marcel Franke (Infekt) und Sebastian Jung (Muskelfaserriss) fehlten im Training.",
+      "one_sentence_summary": "Der KSC hat die Vorbereitung auf das Auswärtsspiel in Bochum am 8.",
+      "schluessel": "marcel franke|verletzung"
+    },
+    "published_at": "2026-11-03T18:04:19.649355",
+    "source": "Wochenblatt Reporter"
+  },
+  {
+    "id": "2e6cf3b603",
+    "generated_title": "Hyryläinen träumt von der Bundesliga, auch mit dem FCM",
+    "original_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTmRSSVRzTXdnRDdJdHlqRXZJVXBSR2tINWFKNzZRVGZjSFFxU3BpcGRXMzBOdnVOZGpzQXJPMlhJYkRWTGFGX0s2UHZIRmNqWm5qYk9ibG1DOFhPVWdQQ1B6YlJKVWF2a2loYVZKWG1zT213ajNNb09QQlFiLW1VSEl1TU5RckV6dmpHSHh3?oc=5",
+    "fingerprint": {
+      "event_type": "interview",
+      "main_club": "Magdeburg",
+      "event_stage": "sonstiges",
+      "main_teams": [
+        "Magdeburg"
+      ],
+      "main_players": [
+        "Luka Hyryläinen"
+      ],
+      "summary": "Magdeburgs Stammspieler Luka Hyryläinen spricht über seinen Traum von der Bundesliga. Der FCM steht nach zehn Spielen mit 17 Punkten auf Rang fünf der 2. Liga.",
+      "one_sentence_summary": "Magdeburgs Stammspieler Luka Hyryläinen spricht über seinen Traum von der Bundesliga.",
+      "schluessel": "luka hyrylainen|sonstiges"
+    },
+    "published_at": "2026-11-03T18:04:19.707724",
+    "source": "Magdeburg Blau-Weiß"
   }
 ]

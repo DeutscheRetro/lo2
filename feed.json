@@ -1,5 +1,44 @@
 [
   {
+    "id": "2e6cf3b603",
+    "titel": "Magdeburgs Hyryläinen träumt von der Bundesliga, womöglich mit dem FCM",
+    "kategorie": "interview",
+    "badge": "Interview",
+    "badge_bg": "#1976d2",
+    "badge_fg": "#fff",
+    "datum": "03.11.2026 18:04",
+    "wappen_url": "logos/magdeburg.png",
+    "vereine": [
+      "Magdeburg"
+    ],
+    "anriss": "Luka Hyryläinen hat sich beim 1. FC Magdeburg als Stammkraft etabliert, verfolgt aber noch größere Ziele. In einer Medienrunde sagte der 22-jährige Finne am Dienstag: „Es wäre ein Traum für",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Magdeburg",
+    "pfad": "artikel/hyrylaeinen-traeumt-von-der-bundesliga-auch-mit-dem-fcm-2e6cf3b603.html",
+    "bild_tm": ""
+  },
+  {
+    "id": "6c42a192ac",
+    "titel": "KSC: Franke und Jung fehlen zum Start der Bochum-Vorbereitung",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "03.11.2026 18:03",
+    "wappen_url": "logos/karlsruhe.png",
+    "vereine": [
+      "Bochum",
+      "Karlsruhe"
+    ],
+    "anriss": "Der Karlsruher SC hat am 3. November die Vorbereitung auf das Auswärtsspiel beim VfL Bochum aufgenommen. Beim Wochenauftakt fehlten Marcel Franke und Sebastian Jung. Die Partie findet am 8. November",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Karlsruhe",
+    "pfad": "artikel/ksc-franke-und-jung-fehlen-zum-start-der-bochum-vorbereitung-6c42a192ac.html",
+    "bild_tm": ""
+  },
+  {
     "id": "0d4c400062",
     "titel": "Dynamo vor Fürth-Spiel mit Sorgen in der Innenverteidigung",
     "kategorie": "verletzung",
@@ -13,7 +52,7 @@
       "Fürth",
       "Hannover"
     ],
-    "anriss": "Dynamo Dresden droht im Heimspiel gegen die SpVgg Greuther Fürth am Freitag um 18:30 Uhr ein Engpass in der Innenverteidigung. Friedrich Müller ist nach der Gelb-Roten Karte gesperrt, Nicolai Rapp",
+    "anriss": "Dynamo Dresden droht im Heimspiel gegen die SpVgg Greuther Fürth am Freitag um 18:30 Uhr ein Engpass in der Innenverteidigung. Friedrich Müller ist nach seiner Gelb-Roten Karte gesperrt, Nicolai Rapp",
     "spielerstatus": [
       {
         "spieler": "Müller",
