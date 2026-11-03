@@ -181,3 +181,160 @@
 {"ts": "2026-11-03T09:03:05.150255", "id": "712bbc5bf3", "title": "\"Spieler geholt, die sich nicht mit der Stadt und dem Verein identifizieren konn", "stage": "stage7", "reason": "zu_wenig_quelltext"}
 {"ts": "2026-11-03T09:03:05.874855", "id": "49a52a7c21", "title": "1. FC Heidenheim siegt 5:0, 3:3 beim TV Jebenhausen", "stage": "stage7", "reason": "zu_wenig_quelltext"}
 {"ts": "2026-11-03T09:03:06.565475", "id": "1e9ceded2e", "title": "Grizzly Wolfsburg in der Krise, Manager knallhart: Wer nicht mitzieht, „sollte a", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-03T12:01:38.081370", "id": "491e40b708", "title": "2. Bundesliga: Hertha stürmt den Betze, Wagner siegt und stichelt, FCN-Youngster", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-03T12:01:38.084414", "id": "0ed1144a36", "title": "Jesús de Miguel von CD Teneriffa: Spanischer Fußballer ist nach Zusammenprall ve", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:38.678343", "id": "58c64d9850", "title": "Sportboss-Abgang & Verletzungspech: FCN trotzt den Widerständen", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:38.678752", "id": "c8dac7bc3f", "title": "2. Liga: Hannover 96 vor nächstem Personal-Knall - drei Kandidaten für Boldt-Nac", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-03T12:01:38.679069", "id": "d4b170b45e", "title": "Schock in Spaniens 2. Liga: Fußball-Profi (30) stirbt nach Foul", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-03T12:01:38.680078", "id": "8365e94581", "title": "Borussia Mönchengladbach: Die Transfer-Pläne für den Winter", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-03T12:01:38.681140", "id": "52a00bbce1", "title": "3. Liga: Preußen Münster taumelt Richtung Abstiegszone – Trainer wird deutlich", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-03T12:01:38.684672", "id": "f3d7134483", "title": "Aufsteiger Voitsberg entlässt Trainer Zulechner – „Schritt zum jetzigen Zeitpunk", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:38.685978", "id": "f4fa5371fc", "title": "Nicht bundesligatauglich? Effenberg sorgt sich um Abstiegskandidat", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:38.686291", "id": "1ef1bbef83", "title": "2. Fußball-Bundesliga: Keine Fan-Gespräche – Hertha fordert Respekt für Reese", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-03T12:01:38.686558", "id": "a0b901601e", "title": "Keine Fan-Gespräche: Hertha fordert Respekt für Reese", "stage": "stage2", "reason": "batch_title_dup_90pct"}
+{"ts": "2026-11-03T12:01:38.686776", "id": "0c17d0e53f", "title": "Bundesliga terminiert Zweitliga-Spieltage bis Ende Januar", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-03T12:01:38.687238", "id": "7bb2ccba18", "title": "RB Leipzig: Baumgartner wieder für das ÖFB-Team nominiert - News vom 03.11.2026", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-03T12:01:38.688381", "id": "cd21a8d4c1", "title": "RB Leipzig: Ex-Coach Rangnick muss erneut operiert werden - News vom 03.11.2026", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-03T12:01:40.488411", "id": "63e56e1503", "title": "ASK Voitsberg entlässt Chefcoach Zulechner", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:41.067592", "id": "de7631e038", "title": "Rauswurf aus Ratssitzung wegen \"FCK AFD\"-Pulli: Deshalb war es aus Sicht eines G", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:41.069131", "id": "6d78cc4099", "title": "Urteil in Niedersachsen: Keine Ratssitzungen mit „FCK AFD\"-Pullover", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:41.070349", "id": "ac673e78fa", "title": "SSC Neapel", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:41.071580", "id": "0a1a81f849", "title": "Alexander Bugera", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:41.073176", "id": "6a4912ad3d", "title": "Nicht nur Nils Schmadtke muss wohl gehen: Nächster Funktionär beim FC Bayern Mün", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-03T12:01:41.073438", "id": "8d9b0e26ae", "title": "750 Jahre Kaiserslautern: Citymanagement verschenkt Jubiläumsbier", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-03T12:01:41.074904", "id": "ba82fe3763", "title": "Langeneke als neuer Trainer: Das ist der Kader von Fortuna für die aktuelle Drit", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:41.401189", "id": "08dfaf287c", "title": "Daniel Widmer", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:41.402503", "id": "50c4828920", "title": "Jamil Siebert: Bilanz gegen Gegenspieler, Trainer & Vereine", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:41.403867", "id": "39702cd1f9", "title": "Medicine Hat, AB - Day 2, Draw 7 Live Stream | Jetzt Anmelden | DAZN DE", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:41.404161", "id": "8def0a6e0d", "title": "FC Bayern, VfB Stuttgart und Barca heute: Champions League live im TV und Stream", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-03T12:01:41.405417", "id": "db36375b55", "title": "Nachwuchs-Landespokal: Viertelfinalpaarungen stehen fest", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:41.405887", "id": "4703475711", "title": "Champions League heute live: FC Bayern, VfB Stuttgart und Barca im TV und Stream", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-03T12:01:41.407286", "id": "9ca4490307", "title": "College Swimming League | Championship (Indianapolis, IN) Live Stream | Jetzt An", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:41.408493", "id": "6a6cf2c9cd", "title": "Kevin Lankford: Bilanz gegen Gegenspieler, Trainer & Vereine", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:41.409691", "id": "2380136c87", "title": "Jürgen Heun: Bilanz gegen Gegenspieler, Trainer & Vereine", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:41.409961", "id": "9e335cd7a9", "title": "DFB gibt U19-Kader bekannt: Diese 21 Talente kämpfen um die EM-Qualifikation", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-03T12:01:41.783730", "id": "b58a4b345f", "title": "Sportboss-Abgang & Verletzungspech: FCN trotzt den Widerständen", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:41.787119", "id": "b37f230f90", "title": "Buatsi vs. Hutchinson: Pressekonferenz Live Stream | Jetzt Anmelden | DAZN DE", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:41.788162", "id": "b757276c1e", "title": "Hans Merkle", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:41.789593", "id": "7f015bc35b", "title": "Lorient - Brest: Tor zum 0:1 durch Ajorque in der 69. Minute | Match-Clip Ligue ", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:41.790994", "id": "794a461d31", "title": "Zwei Rekorde für Füllkrug: Jetzt zieht er mit einer Werder-Legende gleich", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:41.791986", "id": "7d79f53e76", "title": "Hanspeter Latour", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:42.210363", "id": "8981c2fc56", "title": "Mitch Kniat", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:42.210699", "id": "91e18e15fe", "title": "BVB-Frauen", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-03T12:01:42.211767", "id": "07c84d379e", "title": "NRW-Liga (- 11/12)", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:42.212061", "id": "edee5506dc", "title": "3. Liga Meister Quoten: Die Titelfavoriten der Buchmacher!", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-03T12:01:42.214488", "id": "0a14bcf53c", "title": "„Wollten für den Trainer gewinnen“ – als der Abpfiff ertönt, wird es emotional", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:42.214759", "id": "279a095bee", "title": "FC 08 Homburg - Beliebtheitsrangliste - Vereine", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-03T12:01:42.216368", "id": "3c77e1c1fe", "title": "Video: DFB-Pokal 2026/27: Die Infos im Überblick", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:42.218791", "id": "067bb90893", "title": "Dortmund – Elversberg Tipphilfe & Analyse am 07.11.2026", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:42.633838", "id": "a59905990e", "title": "Klaus Sammer", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:42.634227", "id": "459ca2e00b", "title": "Graffiti Eisenhüttenstadt: Schlacht um die Deutungshoheit, das steckt hinter 195", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-03T12:01:42.636480", "id": "505079d6a0", "title": "Deutliche Worte: Das hält Moderatorin Laura Wontorra wirklich von Trainer Sandro", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:42.638158", "id": "4351a030b0", "title": "Sie kämpfte gegen Krebs: Leichtathletik-Star Ciara Mageean (†34) kurz nach Hochz", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:42.638662", "id": "82f3e7440c", "title": "Ex-S04-Trainer Slomka erklärt: So kann Schalke sogar dem BVB gefährlich werden", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-03T12:01:42.639963", "id": "0f9dd859c4", "title": "Schalke-Boss Baumann stellt sich hinter Trainer Muslic", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:42.641414", "id": "7e08eb92cb", "title": "Erstmals entlädt sich der Frust gegen Muslic: Schalke-Fans mächtig angefressen", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:42.963124", "id": "4502a9f7c6", "title": "Lehndorfer TSV", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:42.964408", "id": "d4da249348", "title": "Stanislaus Pawlak", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:42.965678", "id": "b15c7b8404", "title": "Pilzvergiftung im Kreis Herford endet tödlich", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:42.965978", "id": "97a868e5e2", "title": "Zwei Pferde auf Wiese offenbar misshandelt", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-03T12:01:43.279554", "id": "a14a0aa65a", "title": "Regionalliga: Nur 13 Gegentore: Warum RWO auch auf seine Torwartarbeit zählen ka", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-03T12:01:43.281772", "id": "2f7903a691", "title": "CFC: Hiobsbotschaft bestätigt sich - Stammkraft fällt zunächst aus", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:43.282831", "id": "78b8e82471", "title": "Nils Miatke", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:43.284485", "id": "e273c400ce", "title": "M. Frambach", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:43.286602", "id": "cfa6135f9d", "title": "Sechs neue Gaskraftwerksblöcke für Jänschwalde und Boxberg", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:43.288206", "id": "57fbe21806", "title": "Jänschwalde und Boxberg erhalten Zuschläge für neue Gaskraftwerke", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:43.557912", "id": "3989e3e33d", "title": "Lage am Millerntor – 03. November 2026", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:43.834528", "id": "1c342de296", "title": "Martin Dahm", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:43.836909", "id": "2f4abf917c", "title": "Mit Applaus in die Pause: Siegreiche Recken schicken sechs Mann zu den Nationalt", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:44.192639", "id": "0f85393f23", "title": "Topspiel bei Hertha BSC: VfL-Wolfsburg-Fans entern das Berliner Olympiastadion", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-03T12:01:44.192999", "id": "602999526a", "title": "Keine Fan-Gespräche: Hertha fordert Respekt für Reese", "stage": "stage2", "reason": "batch_title_dup_90pct"}
+{"ts": "2026-11-03T12:01:44.194499", "id": "0e7436710b", "title": "Warum Fans wütend auf Ex-Spieler werden: Fabi, Ferrari und Pfiffe", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:44.582755", "id": "e2f97635da", "title": "Olympia-Bewerbung: München und Kiel haben für 2036 sechs Konkurrenten", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-03T12:01:44.586401", "id": "fe33588acb", "title": "Nächste Niederlage im Norden: Auch Hoffenheim kann Torjäger Füllkrug nicht stopp", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:44.588774", "id": "6b6d2ebfc1", "title": "Sportausstatter: Auch Sebastian Hoeneß trägt Jako", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:44.590017", "id": "e19c792ee5", "title": "Knie-OP: Hranac fehlt der TSG \"einige Wochen\"", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:44.591095", "id": "9348761033", "title": "Artikel Druckansicht", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:44.592466", "id": "f46e266df2", "title": "So ruhig wird das Wo­chen­en­de auf den Au­to­bah­nen", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:44.997873", "id": "56caa18757", "title": "Torwart-Wende bei Gladbach? Ersatz-Keeper überzeugt – Droht der Nummer eins jetz", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-03T12:01:44.999202", "id": "17c77c3ab4", "title": "Markus Gehrig", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:45.002206", "id": "328e9c81a9", "title": "Pflegemaßnahmen im Naturschutzgebiet Federbachbruch", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:45.003546", "id": "735b838edf", "title": "Lkw-Unfall auf A5 bei Ettlingen: Beifahrer verletzt", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:45.004585", "id": "45d2978fd5", "title": "Pavel Dotchev", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:45.599001", "id": "8702e80b19", "title": "Keine Fan-Gespräche: Hertha fordert Respekt für Reese", "stage": "stage2", "reason": "batch_title_dup_90pct"}
+{"ts": "2026-11-03T12:01:45.600413", "id": "196e545764", "title": "Transfer Update - alle Wechsel & Gerüchte im Überblick", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:45.601946", "id": "3511c32bc2", "title": "Es hatte sich angebahnt: Verein verkündet Aus von deutschem Trainer", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:45.602964", "id": "a7164b470d", "title": "Bernd Göbel", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:45.603385", "id": "45a0c4ee92", "title": "Traumelf - Nice von hsvjannek", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-03T12:01:45.604629", "id": "db1a79e169", "title": "SV Rot-Weiss Walldorf", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:45.606019", "id": "4a57cfd1cb", "title": "Ausland: Ehemaliger MSV-Duisburg-Trainer verliert Serie-A-Job", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:45.607424", "id": "dc28942509", "title": "Forscher: Krawalle enorme Belastung für „Gen Z regelt“", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:45.609149", "id": "cdae3eb89f", "title": "Runjaić muss bei Udinese Calcio gehen – Ex-FCK-Trainer warb vergeblich um Zusamm", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:45.611084", "id": "4c6855510d", "title": "\"Er ist sehr fokussiert und passt sich den Gegnern an\": Flick erklärt Raphinhas ", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:45.980858", "id": "c7bfcf4ddf", "title": "Conference League: Jetzt trifft Freiburg auf Weltstar Salah", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:45.982665", "id": "54ee752a0d", "title": "SG Wattenscheid: Abwehrchef vor Stadtderby - \"Stehen als Mannschaft komplett hin", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:45.983990", "id": "185ad20488", "title": "Regionalliga-Reform: RWO-Boss mit deutlicher Ansage – \"Wir sind noch lange nicht", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-03T12:01:45.986214", "id": "1d651debb8", "title": "Kreismeisterschaften im Crosslauf: Über Stock, Stroh und Schlamm zum Titel (mit ", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:45.986589", "id": "a284275db8", "title": "FC Freier Grund: Knoten platzt rechtzeitig vor Gipfeltreffen bei Sportfreunden B", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-03T12:01:45.988571", "id": "9811ba14b3", "title": "Sportfreunde Siegen: Termin für das Westfalenpokal-Viertelfinalspiel steht fest", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:45.990143", "id": "d116703afd", "title": "Fehlstart, Trainerwechsel, Wende: Werden die Sportfreunde Siegen zum Favoriten?", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:45.991507", "id": "e914946bf9", "title": "Tom Baack ist Paderborns nimmersatter Kilometerfresser", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:45.992521", "id": "7b533f1325", "title": "Willi Multhaup", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:46.372537", "id": "bc4876ba21", "title": "ASV Bergedorf 85", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:46.372966", "id": "f3753b4336", "title": "327 Tage nach Sturz: Olympiasiegerin Gisin beendet Karriere", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-03T12:01:46.374371", "id": "17756ea713", "title": "Umstrittene WM-Vergabe: Russlands Rückkehr auf die Weltbühne", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:46.376483", "id": "9fc68429a5", "title": "Dietmar Hohn", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-03T12:01:46.376878", "id": "5dbc8f678f", "title": "FC Schalke 04", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-03T12:01:46.732470", "id": "5a508f5545", "title": "Fußball: FC Bayern trennt sich von Eberl-Vertrautem Niels Schmadtke – und besetz", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-03T12:01:48.073542", "id": "ef940cbc72", "title": "\"Das ist nicht genug\": Bei Dynamo brennt schon wieder die Rote Laterne", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-03T12:01:48.073820", "id": "9d7728ee3a", "title": "FC Heidenheim: Nachwuchsteams mit unterschiedlicher Bilanz", "stage": "stage5", "reason": "nicht_fuer_uns"}
+{"ts": "2026-11-03T12:01:48.074057", "id": "57454546c2", "title": "Tickets für das Spiel gegen Zwickau", "stage": "stage5", "reason": "randthema"}
+{"ts": "2026-11-03T12:01:48.074333", "id": "4d276c464e", "title": "Strecke Nürnberg-Ingolstadt: Wochenlang gesperrt: Fragen und Antworten im Überbl", "stage": "stage5", "reason": "sammelartikel"}
+{"ts": "2026-11-03T12:01:48.074635", "id": "3c8b6fa54e", "title": "Kiels Zahl des Grauens wächst auf 408", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-03T12:01:48.074849", "id": "987cf9d0b8", "title": "120 Minuten!: Dynamo plant besonderen Test gegen Prag", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-03T12:01:48.075112", "id": "7c9e08dd2a", "title": "\"Ein echtes Brett!\": Dynamo im Pokal auswärts gefordert", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-03T12:01:48.075266", "id": "15951e4b12", "title": "120 Minutes!: Dynamo Plans a Special Friendly Against Prague", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-03T12:01:48.075397", "id": "e5fa85a7c5", "title": "Dynamo-Coach Stamm verteidigt spielerische Lösungen", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-03T12:01:48.075764", "id": "ff8602ab28", "title": "Kiel: FDP kritisiert Schneckentempo des Landes beim Photovoltaik-Ausbau", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-03T12:01:48.075909", "id": "8ab4c6bd68", "title": "Neumünster: Polizeimeldungen aktuell - Verbrechen, Feuer, Unfälle (03.11.2026)", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-03T12:03:27.289088", "id": "410e12d08a", "title": "2. Fußball-Bundesliga: Braunschweig trainiert im Winter in der Türkei", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-03T12:03:27.289338", "id": "ddb78c8459", "title": "Hertha BSC vor Spiel gegen Wolfsburg: Fans sollen Reese mit Respekt begegnen", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-03T12:03:27.289507", "id": "165d90ef33", "title": "2. Fußball-Bundesliga - Keine Fan-Gespräche: Hertha fordert Respekt für Reese - ", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-03T12:03:27.289644", "id": "805fbe1c6c", "title": "Vor Reese-Rückkehr: Hertha BSC fordert Respekt für Ex-Publikumsliebling", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-03T12:03:27.289776", "id": "a38a827937", "title": "Nach Schmadtke: Weiterer Bayern-Funktionär vor dem Aus", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-03T12:03:27.289902", "id": "acdef84799", "title": "Nach Sieg im Elfmeterschießen - Eintrachts Winkler nutzt ihre Chance", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-03T12:03:27.290024", "id": "129364612c", "title": "Rasant vom 02.11.2026 - Zu Gast: Tom Hartmann & Berkan Algan", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-03T12:03:27.290168", "id": "4c8ec46da0", "title": "PALAZZO 2026/27: Premiere für Alexander Herrmanns PALAZZO in Nürnberg!", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-03T12:03:27.290336", "id": "f67f259b9f", "title": "„Mal der Blöde, mal der Held“: Arminias Großer genießt den Erfolg mit spezieller", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-03T12:03:27.290560", "id": "eaf89308a5", "title": "Berlin | Tennisstars am Limit - außer bei Millionengagen?", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-03T12:03:27.290703", "id": "2566bb79ee", "title": "Zürich | Berichte: FIFA kündigt Zugang zu Dokumenten an", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-03T12:03:27.290841", "id": "d49a980d6e", "title": "Cleveland | NBA: Hartenstein mit OKC zurück in der Erfolgsspur", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-03T12:03:27.290983", "id": "06c9aca347", "title": "Das Wichtigste aus OWL: Frau in Bielefeld in Auto gezerrt & Schwänzen nimmt zu", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-03T12:03:27.291119", "id": "80c5b39544", "title": "VfB Stuttgart vs Dynamo Dresden - DFB-Pokal", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-03T12:03:27.291255", "id": "9fad47ba37", "title": "Dynamo-Dresden-Blog: SGD setzt XXL-Test gegen Dukla Prag an", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-03T12:03:27.291401", "id": "4f365ad3af", "title": "SG Dynamo Dresden", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-03T12:03:27.291560", "id": "44c6fa451d", "title": "Wechsel-Beben beim KSC: Das sind alle Transfers der Saison 2026/2027", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-03T12:03:27.291695", "id": "5547a0df07", "title": "Zwischen Schulbank, Achterbahn und Reifeprüfung: Eintracht Braunschweigs unerklä", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-03T12:03:27.291834", "id": "a94341cc93", "title": "Eure Fragen an Butler & Boziaris: NL-Talk vor Braunschweig", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-03T12:03:27.291966", "id": "0987200ddc", "title": "Ausbildungsmesse Mach Zukunft in der Arbeitsagentur Cottbus", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-03T12:03:27.292100", "id": "3687f81f36", "title": "3. November: Zweimal Sechzig vs. St. Pauli", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-03T12:03:27.292281", "id": "592900bd35", "title": "St.-Pauli-Blog: Ex-Kiezkicker Elias Saad holt Titel und lässt Lionel Messi weit ", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-03T12:03:27.292418", "id": "7f145dcf6f", "title": "Ex-St. Pauli-Star Elias Saad feiert Titel in den USA", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-03T12:03:27.292610", "id": "a82a31d756", "title": "Holstein Kiel vs Köln", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-03T12:03:27.292754", "id": "1bcd50e975", "title": "Autobahn-Baustellen in Schleswig-Holstein, heute, 3. November 2026", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-03T12:03:27.292902", "id": "cf0c4c3739", "title": "Karlsruher Bürgerrat berät über die Mobilität der Zukunft", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-03T12:03:27.293049", "id": "1e05a60ba9", "title": "\"Habe mich nicht informiert\": Eintracht-Legende Okocha verrät kuriose Wechsel-Pa", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-03T12:03:27.293189", "id": "a9a2dd7af6", "title": "30 Jahre Amerikanische Bibliothek Karlsruhe mit Festprogramm", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-03T12:03:27.293324", "id": "4eb6cb00b5", "title": "Fürth baut Schulden weiter ab: Elf Millionen Euro vom Freistaat", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-03T12:03:27.293531", "id": "b8db63b0a1", "title": "Darmstadt-Profis schwärmen von Amateur-Nostalgie im Odenwald", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-03T12:03:27.293680", "id": "fcf6d5a4dd", "title": "Wattenscheid 09: Aufgeheizte Stimmung vor dem Bochumer Derby", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-03T12:03:27.293822", "id": "95b7ad7e26", "title": "5.000 Euro Preisgeld: Osnabrücker Kaufhaus Schäffer siegt in Wettbewerb für den ", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-03T12:03:27.293970", "id": "03ece590c0", "title": "VfL Wolfsburg: Vorm Wiedersehen mit dem Ex-Klub fehlt Lara Prasnikar nur noch ei", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-03T12:03:28.000259", "id": "c9b029e5c1", "title": "Dänisches Dynamit zündet auf dem Betzenberg: Hertha stellt historischen Ligareko", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-03T12:03:34.872605", "id": "1b8d6004d5", "title": "Wolfsburg sammelt Schwung für „echt krasse Kracher“ gegen Frankfurt und Bayern", "stage": "S7", "reason": "nicht_relevant"}
+{"ts": "2026-11-03T12:03:39.735622", "id": "0067d64188", "title": "Hertha fordert Respekt für Reese – Keine gesonderten Fan-Gespräche", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-03T12:04:01.620825", "id": "072290a177", "title": "Holstein Kiel zurück im Tabellenkeller: Der Teufelskreis dreht sich weiter", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-03T12:04:02.698201", "id": "ad2934db8b", "title": "Energie Cottbus: Eintracht Braunschweig hat ein Problem in der Defensive", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-03T12:04:03.371786", "id": "3987d143f0", "title": "Anne Castroper - Inside VfL | Perfekte Woche für den VfL Bochum: Das sind die Gr", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-03T12:04:06.716193", "id": "9a14f4a410", "title": "Wollitz kündigt Konsequenzen an: Ein Cottbuser Fußballgott muss sich jetzt warm ", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-03T12:04:07.204730", "id": "7914ba8505", "title": "Nachfolge von Chatzialexiou geklärt? Dieter Frey steht vor Beförderung beim 1. F", "stage": "stage7", "reason": "zu_wenig_quelltext"}
