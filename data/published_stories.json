@@ -635,5 +635,50 @@
     },
     "published_at": "2026-11-02T21:05:45.361518",
     "source": "Hamburger Abendblatt"
+  },
+  {
+    "id": "9ca02576e8",
+    "generated_title": "Scholl ersetzt Franke und wird beim KSC zum Abwehrchef",
+    "original_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUUVLUVY2Z1oxV05sR2ZvSFVGVjFaandzdFhIcGc1empkbkxXa09WcWxLbENxSEpxMVV3UnR2dENsOURlR3VOYTBnQkI1MlFGSlA3UDVpMU9vLTdUc1FrRWpfZ2dtbVZWeGZTdHZ5M1haeEk2Zjg1eXZYeVJKT2pCcmRLNl9VMl9zYzYyd29JNEFGOEdsMDMteG1WNVFaNTQxWHNONDZEbldxUQ?oc=5",
+    "fingerprint": {
+      "event_type": "analyse",
+      "main_club": "Karlsruhe",
+      "event_stage": "spielbericht",
+      "main_teams": [
+        "Heidenheim",
+        "Karlsruhe"
+      ],
+      "main_players": [
+        "Paul Scholl",
+        "Marcel Franke",
+        "Maximilian Senft"
+      ],
+      "summary": "Paul Scholl vertrat beim 2:1 des KSC gegen Heidenheim den erkrankten Marcel Franke und überzeugte in der Dreierkette. Er rettete auf der Linie und holte den Freistoß zum Siegtor heraus.",
+      "one_sentence_summary": "Paul Scholl vertrat beim 2:1 des KSC gegen Heidenheim den erkrankten Marcel Franke und überzeugte in der Dreierkette.",
+      "schluessel": "paul scholl|spiel"
+    },
+    "published_at": "2026-11-03T06:04:30.367459",
+    "source": "ka-news"
+  },
+  {
+    "id": "0243113205",
+    "generated_title": "Messi wählt Maza: Hertha stolz auf Ex-Talent aus der Akademie",
+    "original_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMTQ1MGZSTEd6TFBXcS13d3F6SkJhNzFhZFpVT1VFN3NxVHFYR2ZpdlJ4N1oxeHk4eHRqYzR4WnZ4dExoZTJtYjVnb3dqN3FheFZKeklCcTZFZjM2SmUwNHRMZHNXeTBuY1NtZzU1X0pLZkxQZ3pMU3NoM085R0owbnMxVDlTdzNxMmQyU2pSdFpRSl9qUjF3aUxxQUVuWkZldTJpaXpUQQ?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Hertha",
+      "event_stage": "sonstiges",
+      "main_teams": [
+        "Hertha"
+      ],
+      "main_players": [
+        "Ibrahim Maza"
+      ],
+      "summary": "Lionel Messi hat Ex-Herthaner Ibrahim Maza bei der Kopa-Trophäe als einziger Juror auf Platz drei gesetzt. Hertha zeigt sich stolz, Maza landete in der Endabrechnung auf Rang neun.",
+      "one_sentence_summary": "Lionel Messi hat Ex-Herthaner Ibrahim Maza bei der Kopa-Trophäe als einziger Juror auf Platz drei gesetzt.",
+      "schluessel": "ibrahim maza|sonstiges"
+    },
+    "published_at": "2026-11-03T06:04:30.424259",
+    "source": "Berliner Kurier"
   }
 ]
