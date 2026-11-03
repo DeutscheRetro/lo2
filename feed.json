@@ -1,5 +1,51 @@
 [
   {
+    "id": "0d4c400062",
+    "titel": "Dynamo vor Fürth-Spiel mit Sorgen in der Innenverteidigung",
+    "kategorie": "verletzung",
+    "badge": "Verletzung",
+    "badge_bg": "#e53935",
+    "badge_fg": "#fff",
+    "datum": "03.11.2026 15:03",
+    "wappen_url": "logos/dresden.png",
+    "vereine": [
+      "Dresden",
+      "Fürth",
+      "Hannover"
+    ],
+    "anriss": "Dynamo Dresden droht im Heimspiel gegen die SpVgg Greuther Fürth am Freitag um 18:30 Uhr ein Engpass in der Innenverteidigung. Friedrich Müller ist nach der Gelb-Roten Karte gesperrt, Nicolai Rapp",
+    "spielerstatus": [
+      {
+        "spieler": "Müller",
+        "klub": "Dresden",
+        "status": "faellt_aus",
+        "grund": "Gelb-Rot-Sperre"
+      },
+      {
+        "spieler": "Rapp",
+        "klub": "Dresden",
+        "status": "fraglich",
+        "grund": "Verletzung aus Hannover-Spiel"
+      },
+      {
+        "spieler": "Bünning",
+        "klub": "Dresden",
+        "status": "faellt_aus",
+        "grund": "Langzeitverletzung"
+      },
+      {
+        "spieler": "Schmidt",
+        "klub": "Dresden",
+        "status": "faellt_aus",
+        "grund": "Langzeitverletzung"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Dresden",
+    "pfad": "artikel/dynamo-vor-fuerth-spiel-mit-sorgen-in-der-innenverteidigung-0d4c400062.html",
+    "bild_tm": ""
+  },
+  {
     "id": "e1e975ae4a",
     "titel": "Hannover 96 sucht Sportchef: Drei Kandidaten nach Boldt-Aus",
     "kategorie": "news",

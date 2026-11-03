@@ -1,68 +1,192 @@
 [
  {
-  "id": "ff5ddcfcd7",
-  "schluessel": "dresden|sonstiges",
+  "id": "64dadb276d",
+  "schluessel": "braunschweig|sonstiges",
   "person": "",
   "spieler": [],
-  "klub": "Dresden",
+  "klub": "Braunschweig",
   "klubs": [
-   "Dresden"
+   "Braunschweig"
   ],
   "stufe": "sonstiges",
   "klasse": "sonstiges",
-  "titel": "Kühler Kopf im heißen Herbst: Wie Dynamo Dresden aus dem Tabellenkeller klettern möchte",
+  "titel": "\"Wir sind ihm da etwas schuldig\": Braunschweigs Suche nach dem Momentum",
   "quellen": [
    {
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQXN1MThxRkNzNmxDMUtORzJWLURLbjZTVi1ydXE1SnV2ejdXZWVIZlN3LUxwMERFdFE1NTRHYTAweXJlZlNaR096QV9Zdi0tY1BqWm0wbFc2WUhkQWFOTXVia2N6U0M5OERIQzJsZmtXalFLdndNTHFPQm5vemI3Y1doZW9JOGVsQmxMNnRmQVExZXRlWWNZWmUxd2xBQXhibFVvUEpoT0JPY1g2U0FNR2ZWNlhYbWdUbVJPVlJNVGZLV1o5bERwd1lYZW5yYjZYa19KR0hoaENPWTF4cjNkZjZLb1I3dXFhOUhn0gGHAkFVX3lxTE1pS1o3OXljNmJMdi0tNEQ0aVZxQ0w5S21lOFc1WUZHMG95a2VvdVI5SWRHNnJKaXIzY3lHaFBxQnpiLXpPZjhSOHZPbkJBdEduVjlnZFNoM2NIQzBzMDhfS2JQS2RRUHk0alVxaTV1N3hQYlFub3RuNWtCU3RlNjZfUzc5cEZxYlhaREVYMjl1Mk1KbUM5dGNEeG5nYncwWXV1MUxSSzJLSVlia2NlamlEQ1dROXpoUU5zTFpOaWhnRE9heUZWUy1YcW1LNkpmc0ZkNFNCVTF2ZFBjQ09zQWduWHNpbGt1VC1OSDE3R2lBODhkbGJZRXd4aFVBSS03LVFnb2RlQ2pr?oc=5",
-    "aid": "c342898ea3",
-    "titel": "Kühler Kopf im heißen Herbst: Wie Dynamo Dresden aus dem Tabellenkeller klettern möchte",
-    "quelle": "DNN - Dresdner Neueste Nachrichten",
-    "beschr": " Kühler Kopf im heißen Herbst: Wie Dynamo Dresden aus dem Tabellenkeller klettern möchte &nbsp;&nbsp; DNN - Dresdner Neueste Nachrichten ",
-    "zeit": "2026-11-03T06:33"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-03T09:01",
-  "archiv": [
-   {
-    "id": "cb0b737b08",
-    "titel": "Dynamo sucht in Hannover den ersten Auswärtssieg seit April",
-    "datum": "01.11.",
-    "stufe": "sonstiges",
-    "summary": "Dynamo Dresden will bei Hannover 96 den ersten Auswärtssieg seit 204 Tagen holen. Seit dem 2:0 in Nürnberg im April blieb das Team von Trainer Thomas Stamm auswärts acht Ligaspiele ohne Sieg."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "747bc6488f",
-  "schluessel": "bielefeld|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Bielefeld",
-  "klubs": [
-   "Bielefeld"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "(k+) Wie die Arminia die Alm für sich nutzt: \"Es braucht wenig, um alles anzuzünden\"",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN0cwOF9FNk91ZW5PZnFTOXNGRVh4Z1MyMU5KdXBJSlZTOGVCMi1ZRzhmTWJscjdTQjA2Wk1DdUtvUm4xTFRhMkRTZTdqYXNVY2JGbE9HcnlvOG9zbFhVNERTR2VaRmZmZVFDa0lOTnJXUTBnMXh3bFBqcEJVRWNtZ1p0RTJnVVdRdHdEaWU0SXVqWm5kWE1XRFUwNXpjOFNidkw2SURNMktJeFdIZDZnRFZRUWZSQQ?oc=5",
-    "aid": "21d58bd5d0",
-    "titel": "(k+) Wie die Arminia die Alm für sich nutzt: \"Es braucht wenig, um alles anzuzünden\"",
-    "quelle": "https://www.kicker.ch/",
-    "beschr": " (k+) Wie die Arminia die Alm für sich nutzt: \"Es braucht wenig, um alles anzuzünden\" &nbsp;&nbsp; https://www.kicker.ch/ ",
-    "zeit": "2026-11-02T19:25"
+    "url": "https://www.kicker.de/wir-sind-ihm-da-etwas-schuldig-braunschweigs-suche-nach-dem-momentum-1268106/artikel#omrss",
+    "aid": "448d6fa81f",
+    "titel": "\"Wir sind ihm da etwas schuldig\": Braunschweigs Suche nach dem Momentum",
+    "quelle": "kicker 2. Bundesliga News",
+    "beschr": "Erst der starke Derby-Dreier gegen Hannover, dann die enttäuschende Pleite in Bielefeld: Diese Abfolge von Sieg und Niederlage ist in dieser Saison bisher symptomatisch für Braunschweig. Auch deshalb muss die Eintracht nun gegen Cottbus wieder abliefern.",
+    "zeit": "2026-11-03T14:14"
    }
   ],
   "archiv_status": "neu",
   "prio": 2,
   "status": "n",
-  "erstmals": "2026-11-03T09:01",
+  "erstmals": "2026-11-03T15:01",
   "archiv": [],
-  "versuche": 2
+  "versuche": 1
+ },
+ {
+  "id": "8c4ed439cb",
+  "schluessel": "heidenheim|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Heidenheim",
+  "klubs": [
+   "Heidenheim"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Frank Schmidt nach dem Torfestival in Heidenheim: \"Jetzt wird's keinem zu wohl\"",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOHU4dGZkcEJ2dGpBdEFhOURrTWJ2TG9QUExmVU1YRnc0aXk2Y3U3SDBxaG84UVpSVDdPMGRFanpSTzRXZWRhQkNZc1dUTlkyWGZ0ZFJGRVBqSWtleFpMZ0NXand1UzVXNm0tZFBLLXRSckhFdmI4MzI0UXZpSjc0MlJBcGpOcDdpbGw5ZzRaOG4xS3NXR1drU1V2ejU2ZTBlSl80?oc=5",
+    "aid": "c536ca6201",
+    "titel": "Frank Schmidt nach dem Torfestival in Heidenheim: \"Jetzt wird's keinem zu wohl\"",
+    "quelle": "SWR",
+    "beschr": " Frank Schmidt nach dem Torfestival in Heidenheim: \"Jetzt wird's keinem zu wohl\" &nbsp;&nbsp; SWR ",
+    "zeit": "2026-10-31T09:00"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-03T15:01",
+  "archiv": [
+   {
+    "id": "922b910d1b",
+    "titel": "Heidenheims Schmidt stellt sich schützend vor Vogt: Klare Worte gegen Hass im Netz",
+    "datum": "02.11.",
+    "stufe": "sonstiges",
+    "summary": "Heidenheims Trainer Frank Schmidt hat sich nach der 1:2-Niederlage in Karlsruhe vor Stürmer Alessandro Vogt gestellt, der im Netz angefeindet worden sein soll. Vogt erzielte gegen den KSC sein erstes Pflichtspieltor für den FCH."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "d71af89374",
+  "schluessel": "st. pauli|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "St. Pauli",
+  "klubs": [
+   "St. Pauli"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "„Wir zaubern nicht“: So geht Rapp das St. Pauli-Problem an",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV2ZOQ1lGQnB2b0hOd1FsSElVOXdEUFdFZi00ZGs0RG5HTUZMVzMzNVJoalZ6Q0s2TGFQdHN3LUI2eVAxbjRFMklwTncwS1ZENmVxZjh1a2R6OHYtTDRHcEJrOUZoQWJnNVdOdEdVYVJsZld1ZEhFNHNTNEdOTGdybi1hQkEzemppdUYyMmhzVEg1bXc5VWZQclpmQWc?oc=5",
+    "aid": "2a5c713f8e",
+    "titel": "„Wir zaubern nicht“: So geht Rapp das St. Pauli-Problem an",
+    "quelle": "StPauli24",
+    "beschr": " „Wir zaubern nicht“: So geht Rapp das St. Pauli-Problem an &nbsp;&nbsp; StPauli24 ",
+    "zeit": "2026-11-03T08:53"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-03T15:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "103b89d03c",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Hannover 96: Wen holt Martin Kind? 60 Bewerbungen für Sportdirektor-Job",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOF9ZVXlrMS1YZ1ZPQmw0enNBNWt5dDd0NmFXMk5BcXdXcmR2U05nV21jYUVWNTNJcUg3c052LXhWLWZGTUpQRTh3OVV6dF8xQlFTdzdBYXBuSnJWMV9WRVZ6TTV6TXB0TnRkcEwteUFRdThHQUxIMHdjdEJpM2FRN1JndVpnT0ZGY3RwNlRwVkFxVFNmSEVjUVk2NFhVQ3FMc1F6VS1hV3BiekNxQmFZd014bTk4OHliZVdmbWwwbkdObGV1RTh0UTZB?oc=5",
+    "aid": "2d1f46d906",
+    "titel": "Hannover 96: Wen holt Martin Kind? 60 Bewerbungen für Sportdirektor-Job",
+    "quelle": "BILD",
+    "beschr": " Hannover 96: Wen holt Martin Kind? 60 Bewerbungen für Sportdirektor-Job &nbsp;&nbsp; BILD ",
+    "zeit": "2026-11-03T14:32"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "u",
+  "erstmals": "2026-11-03T15:01",
+  "archiv": [
+   {
+    "id": "afa3db9641",
+    "titel": "Hannover 96 trennt sich nach fünf Monaten von Sportchef Boldt",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Hannover 96 hat Sport-Geschäftsführer Jonas Boldt nach nur fünf Monaten mit sofortiger Wirkung abberufen. Der Klub steht nach neun Spieltagen mit acht Punkten auf Platz 16."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "7a1a352acf",
+  "schluessel": "hertha|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Eindrücke vom Trainingsauftakt vor #BSCWOB",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2YkcyamNkQTZvSVRHRzFPUVFDOVMycUx3UWdSYlZCQU00S3Fmcm53RkRrc1JvcFFubEJGd2ZZNzFrZ3dJQzdLb0VQdmtiSkkxYUxlakNrZFlVempNWHpMemNhT09Bc3EzUkdZTGpKaU4tbzF1X2hfSUFqazdvQQ?oc=5",
+    "aid": "8414ddf18c",
+    "titel": "Eindrücke vom Trainingsauftakt vor #BSCWOB",
+    "quelle": "Hertha BSC",
+    "beschr": " Eindrücke vom Trainingsauftakt vor #BSCWOB &nbsp;&nbsp; Hertha BSC ",
+    "zeit": "2026-11-03T12:17"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-03T15:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "c3b54c5e7e",
+  "schluessel": "wolfsburg|verletzung",
+  "person": "",
+  "spieler": [],
+  "klub": "Wolfsburg",
+  "klubs": [
+   "Wolfsburg"
+  ],
+  "stufe": "rueckkehr",
+  "klasse": "verletzung",
+  "titel": "Reicht's für Wolfsburg?: Nilsson und Dardai wieder im Training",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdmpKU1k2QUU2VGM1dHRMS3dHajlwVWdCanZ0U3BsakRFY1pxMXkyTzFoZ1M2dkNXMUlPbHc5YVllTDVmMzJ4Z3lSZ0RqRjVWcXNBZEdUT25Bc3R2b05Jc2RuMjlKM0s5WktWbkZEdWJOekpvc3JkdEZQQW9ZbVdMWjN3VnI1bllZREhVUHdUeTRSMk52NzVRa19NUU9XaDhJVl9NR0RVOFgzSzVIOFJqMWIteGJZTnV6WW1xYldaQ1ltRC0yVlEzVUhKQXFRNG8?oc=5",
+    "aid": "c96c1aa878",
+    "titel": "Reicht's für Wolfsburg?: Nilsson und Dardai wieder im Training",
+    "quelle": "BZ Berlin",
+    "beschr": " Reicht's für Wolfsburg?: Nilsson und Dardai wieder im Training &nbsp;&nbsp; BZ Berlin ",
+    "zeit": "2026-11-03T13:40"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-03T15:01",
+  "archiv": [],
+  "versuche": 1
  }
 ]
