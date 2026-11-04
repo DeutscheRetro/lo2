@@ -440,5 +440,59 @@
   ],
   "alt_titel": "Hyryläinen träumt von der Bundesliga, auch mit dem FCM",
   "quelle_gelesen": true
+ },
+ {
+  "zeit": "04.11.2026 18:04",
+  "id": "f32559af08",
+  "pfad": "artikel/hertha-vor-wolfsburg-nilsson-und-dardai-zurueck-im-training-f32559af08.html",
+  "urteil": "ok",
+  "gruende": [],
+  "alt_titel": null,
+  "quelle_gelesen": true
+ },
+ {
+  "zeit": "04.11.2026 18:05",
+  "id": "428a3cc66d",
+  "pfad": "artikel/frank-schmidt-hoert-im-sommer-in-heidenheim-auf-428a3cc66d.html",
+  "urteil": "ok",
+  "gruende": [],
+  "alt_titel": null,
+  "quelle_gelesen": true
+ },
+ {
+  "zeit": "04.11.2026 18:05",
+  "id": "c636d3e74a",
+  "pfad": "artikel/hertha-im-pokal-achtelfinale-gegen-bayern-live-bei-rtl-c636d3e74a.html",
+  "urteil": "verbessert",
+  "gruende": [
+   "Heimrecht korrigiert: Laut Quelle ist es die Partie FC Bayern München gegen Hertha BSC, Titel und Intro angepasst",
+   "Holprigen Satz zu „Zweitliga-Überflieger“ als Einordnung umformuliert",
+   "Die anderen Free-TV-Spiele gekürzt, weil sie nur Kontext zum Thema der Schlagzeile sind",
+   "Uhrzeiten an die Schreibweise der Quelle angepasst (20.45 Uhr)"
+  ],
+  "alt_titel": "Hertha im Pokal-Achtelfinale gegen Bayern live bei RTL",
+  "quelle_gelesen": true
+ },
+ {
+  "zeit": "04.11.2026 18:05",
+  "id": "362110494d",
+  "pfad": "artikel/fuerth-verlaengert-mit-sechser-sacha-banse-um-zwei-jahre-362110494d.html",
+  "urteil": "ok",
+  "gruende": [],
+  "alt_titel": null,
+  "quelle_gelesen": true
+ },
+ {
+  "zeit": "04.11.2026 18:05",
+  "id": "3bcb08987d",
+  "pfad": "artikel/wollitz-greift-durch-cottbus-muss-in-braunschweig-ohne-borgmann-und-3bcb08987d.html",
+  "urteil": "verbessert",
+  "gruende": [
+   "Titel war mit 86 Zeichen zu lang und ist jetzt auf 70 Zeichen gekürzt.",
+   "Der Vereinsname steht beim ersten Nennen jetzt vollständig als Energie Cottbus.",
+   "Die Angabe zum Ausfall von Guttau stand bisher im Absatz über das Bayern-Vorbild. Sie ist jetzt in einem eigenen Absatz zu den Ausfällen, zusammen mit dem passenden Wollitz-Zitat aus der Quelle."
+  ],
+  "alt_titel": "Wollitz greift durch: Cottbus muss in Braunschweig ohne Borgmann und Guttau auskommen",
+  "quelle_gelesen": true
  }
 ]

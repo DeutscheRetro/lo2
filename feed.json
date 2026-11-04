@@ -1,7 +1,40 @@
 [
   {
+    "id": "3bcb08987d",
+    "titel": "Wollitz greift durch: Cottbus ohne Borgmann und Guttau in Braunschweig",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "04.11.2026 18:03",
+    "wappen_url": "logos/cottbus.png",
+    "vereine": [
+      "Braunschweig",
+      "Cottbus"
+    ],
+    "anriss": "Trainer Claus-Dieter Wollitz zieht beim Zweitligisten Energie Cottbus nach zuletzt schwachen Auftritten die Zügel an. Der 61-Jährige will bisher gewährte Zugeständnisse wie freie Tage streichen. Am Freitag (18.30 Uhr/Sky) tritt",
+    "spielerstatus": [
+      {
+        "spieler": "Borgmann",
+        "klub": "Cottbus",
+        "status": "faellt_aus",
+        "grund": "Wollitz muss in Braunschweig auf Kapitän verzichten"
+      },
+      {
+        "spieler": "Guttau",
+        "klub": "Cottbus",
+        "status": "faellt_aus",
+        "grund": "Fällt laut MRT längere Zeit aus"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Cottbus",
+    "pfad": "artikel/wollitz-greift-durch-cottbus-muss-in-braunschweig-ohne-borgmann-und-3bcb08987d.html",
+    "bild_tm": ""
+  },
+  {
     "id": "c636d3e74a",
-    "titel": "Hertha im Pokal-Achtelfinale gegen Bayern live bei RTL",
+    "titel": "Pokal-Achtelfinale: Bayern gegen Hertha live bei RTL",
     "kategorie": "news",
     "badge": "News",
     "badge_bg": "#e8c000",
@@ -11,7 +44,7 @@
     "vereine": [
       "Hertha"
     ],
-    "anriss": "Hertha BSC trifft im Achtelfinale des DFB-Pokals auf den FC Bayern München. Der Deutsche Fußball-Bund (DFB) hat die Partie auf Dienstag, den 1. Dezember, um 20:45 Uhr angesetzt. RTL überträgt",
+    "anriss": "Der FC Bayern München empfängt im Achtelfinale des DFB-Pokals Hertha BSC. Der Deutsche Fußball-Bund (DFB) hat die Partie auf Dienstag, 1. Dezember, um 20.45 Uhr angesetzt. RTL überträgt das Spiel",
     "spielerstatus": [],
     "formation": "",
     "hauptklub": "Hertha",
