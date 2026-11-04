@@ -14,7 +14,7 @@
   <meta property="og:locale" content="de_DE"/>
   <link rel="stylesheet" href="../style.css"/>
   <link rel="icon" href="../favicon.png" type="image/png"/>
-  <script>if(localStorage.getItem('theme')==='light')document.documentElement.classList.add('light');</script>
+  <script>if((localStorage.getItem('theme')||(matchMedia('(prefers-color-scheme: light)').matches?'light':'dark'))==='light')document.documentElement.classList.add('light');</script>
 <script src="/consent.js"></script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "SportsTeam", "name": "Dynamo Dresden", "sport": "Fußball", "url": "https://2liga.ligaoutsider.de/verein/dresden.html", "logo": "https://2liga.ligaoutsider.de/logos/dresden.png"}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Wann spielt Dynamo Dresden als Nächstes?", "acceptedAnswer": {"@type": "Answer", "text": "Fr 06.11. 18:30 Uhr zu Hause gegen SpVgg Greuther Fürth (2. Bundesliga)."}}]}</script>
