@@ -333,7 +333,7 @@
           const isHeute = datum === 'HEUTE';
           const headerStyle = isHeute
             ? 'padding:6px 12px 4px;font-size:10px;font-weight:800;color:#fff;text-transform:uppercase;letter-spacing:.8px;background:#2e7d32;border-bottom:1px solid var(--item-border)'
-            : 'padding:6px 12px 4px;font-size:10px;font-weight:800;color:var(--accent);text-transform:uppercase;letter-spacing:.8px;background:var(--bg3);border-bottom:1px solid var(--item-border)';
+            : 'padding:6px 12px 4px;font-size:10px;font-weight:800;color:var(--accent-text);text-transform:uppercase;letter-spacing:.8px;background:var(--bg3);border-bottom:1px solid var(--item-border)';
           const rows = matches.map(m => {
             const finished = m.matchIsFinished;
             const goals1 = m.matchResults?.find(r=>r.resultTypeID===2)?.pointsTeam1 ?? m.matchResults?.[0]?.pointsTeam1;
