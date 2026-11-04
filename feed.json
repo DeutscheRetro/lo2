@@ -1,5 +1,50 @@
 [
   {
+    "id": "f8a5283d33",
+    "titel": "Dynamo Dresden: Luca Herrmann fällt bis Jahresende aus",
+    "kategorie": "verletzung",
+    "badge": "Verletzung",
+    "badge_bg": "#e53935",
+    "badge_fg": "#fff",
+    "datum": "04.11.2026 21:04",
+    "wappen_url": "logos/dresden.png",
+    "vereine": [
+      "Dresden"
+    ],
+    "anriss": "Dynamo Dresden muss bis zum Jahresende auf Mittelfeldspieler Luca Herrmann verzichten. Der Profi zog sich beim Auswärtsspiel bei Hannover 96 am Sonntag, dem 1. November, eine Verletzung am rechten Fuß",
+    "spielerstatus": [
+      {
+        "spieler": "Herrmann",
+        "klub": "Dresden",
+        "status": "faellt_aus",
+        "grund": "Fußverletzung, fehlt bis Jahresende"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Dresden",
+    "pfad": "artikel/dynamo-dresden-luca-herrmann-faellt-bis-jahresende-aus-f8a5283d33.html",
+    "bild_tm": ""
+  },
+  {
+    "id": "64923b152e",
+    "titel": "St. Pauli: Mitov, Ando und Fujita nicht für Nationalteams nominiert",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "04.11.2026 21:04",
+    "wappen_url": "logos/stpauli.png",
+    "vereine": [
+      "St. Pauli"
+    ],
+    "anriss": "Gleich drei Profis des FC St. Pauli stehen nicht in den Aufgeboten ihrer Nationalteams für die anstehende Länderspielpause. Torhüter Dimitar Mitov wurde von Bulgarien nicht berücksichtigt, Tomoya Ando und Joel",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "St. Pauli",
+    "pfad": "artikel/st-pauli-mitov-ando-und-fujita-nicht-fuer-nationalteams-nominiert-64923b152e.html",
+    "bild_tm": ""
+  },
+  {
     "id": "3bcb08987d",
     "titel": "Wollitz greift durch: Cottbus ohne Borgmann und Guttau in Braunschweig",
     "kategorie": "news",

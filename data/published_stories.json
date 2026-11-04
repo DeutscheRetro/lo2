@@ -879,5 +879,49 @@
     },
     "published_at": "2026-11-04T18:04:40.471815",
     "source": "Hamburger Abendblatt"
+  },
+  {
+    "id": "f8a5283d33",
+    "generated_title": "Dynamo Dresden: Luca Herrmann fällt bis Jahresende aus",
+    "original_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTHo3RnAyTlVQdGQ3RXFHQ0JucUhlQ1hwYkIyNDM2NmhnV21BOW5rNlZnTGtVSWJzUXVxZnhDWTExV2ZqRDk2NU9ZM0J4djZDTWg3TE1ZenhyeEZxdGJRV1VVNFAwdmFBYTNjUnBzSlZZMVktRjJXa0daX0REdDk5Vm5PQVVmcmV4WWNYUWttaTFIY0lKOGx1eTdZZjNwU1BRTFo4NEdfZ1pxd0JucnEtMDR1ZmNuZGZZZGgzZjlINzBJWWF1RURPdXhHTERYQQ?oc=5",
+    "fingerprint": {
+      "event_type": "verletzung",
+      "main_club": "Dresden",
+      "event_stage": "ausfall",
+      "main_teams": [
+        "Dresden"
+      ],
+      "main_players": [
+        "Luca Herrmann"
+      ],
+      "summary": "Dynamo Dresden muss bis Jahresende auf Mittelfeldspieler Luca Herrmann verzichten. Er zog sich beim Spiel in Hannover eine Fußverletzung zu.",
+      "one_sentence_summary": "Dynamo Dresden muss bis Jahresende auf Mittelfeldspieler Luca Herrmann verzichten.",
+      "schluessel": "luca herrmann|verletzung"
+    },
+    "published_at": "2026-11-04T21:04:37.925949",
+    "source": "t-online – Dresden"
+  },
+  {
+    "id": "64923b152e",
+    "generated_title": "St. Pauli: Mitov, Ando und Fujita nicht für Nationalteams nominiert",
+    "original_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYWlwUHlTUHI5SFZPU0ptVFdETFozUDFES2Vab0JHa3dzRkxmMkZSc2QwaV9tUEhrb1VTeHo2YWhnd3NTVy1SX1ZPS2IxbEI1R0xoc1lWSXFhQVJERG9wUE5zUWxNQ1hoUkwyQWl6b0dBOVZsTXZsMHZtdlBZVWdwVmNQWWxFeGVtbi1oX05fd1lBcEtHS3BFaEI2NnlaUENhb2ZlZXhWRlVzaTNEdjVwRVExYUtVMjBQaEJlZTB2OFpFSmVGVmc?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "St. Pauli",
+      "event_stage": "kader",
+      "main_teams": [
+        "St. Pauli"
+      ],
+      "main_players": [
+        "Dimitar Mitov",
+        "Tomoya Ando",
+        "Eric Smith"
+      ],
+      "summary": "Dimitar Mitov, Tomoya Ando und Joel Fujita von St. Pauli stehen nicht in den Nationalkadern für die Länderspielpause vom 9. bis 20. November. Eric Smith darf auf Einsätze für Schweden hoffen, Arkadiusz Pyrka wartet auf die polnische Nominierung am 6. November.",
+      "one_sentence_summary": "Dimitar Mitov, Tomoya Ando und Joel Fujita von St.",
+      "schluessel": "dimitar mitov|kader"
+    },
+    "published_at": "2026-11-04T21:04:37.956054",
+    "source": "MOPO"
   }
 ]
