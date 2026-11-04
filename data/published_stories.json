@@ -814,5 +814,46 @@
     },
     "published_at": "2026-11-04T06:04:45.073342",
     "source": "Spiegel"
+  },
+  {
+    "id": "c636d3e74a",
+    "generated_title": "Hertha im Pokal-Achtelfinale gegen Bayern live bei RTL",
+    "original_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMG5fRjBqTHVlVDZQQ2w2ZjA3dm1LYUc4SjlHYU9sWlJjTDJEZnI3VEF6dGFPbFAwd19kTS0tNDdqQnA0YnhPbzlfR0drSlpEWkhaWGswb3NiVmlSTmxZQ3BfQXdXcWpxUjc1UXpxenBaRXROakNnTHp4VVBVLWtieXRDTHduRHpCOXhHVDRMZDUwTXB1QmN3NWxWZ2pwbnlHMGdyelkwbENIMWY3NGx3OFlacDBSMDVPbHZJQm9scUNhdjREa3M2VjNrR1dMUUI2U3UtSw?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Hertha",
+      "event_stage": "sonstiges",
+      "main_teams": [
+        "Hertha"
+      ],
+      "main_players": [],
+      "summary": "Hertha BSC spielt im DFB-Pokal-Achtelfinale am 1. Dezember um 20:45 Uhr gegen den FC Bayern München. RTL überträgt die Partie live.",
+      "one_sentence_summary": "Hertha BSC spielt im DFB-Pokal-Achtelfinale am 1.",
+      "schluessel": "hertha|sonstiges"
+    },
+    "published_at": "2026-11-04T15:07:44.771372",
+    "source": "sportschau.de"
+  },
+  {
+    "id": "362110494d",
+    "generated_title": "Fürth verlängert mit Sechser Sacha Bansé um zwei Jahre",
+    "original_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOGtuWll5d2JxSVBSaHM4aEZNOVpENW1fcVFZNy1fTUJaUUlpaFhiRHVZSGM5bUxFNFZYTndtT2JGaUxTQ1RPd0FBWjJEN1pBUzBXOW16NG0yMmJHVEJWeXUyQWhUNHl4eU9ScjNYa2RiZERpeUdMU0d4M3EzQWFBVDRvald2c3QxM1k5WTJrREphWVV1N3gyTWRUVWU?oc=5",
+    "fingerprint": {
+      "event_type": "transfer",
+      "main_club": "Fürth",
+      "event_stage": "vertrag",
+      "main_teams": [
+        "Fürth"
+      ],
+      "main_players": [
+        "Sacha Bansé",
+        "Heiko Vogel"
+      ],
+      "summary": "Greuther Fürth verlängert den auslaufenden Vertrag mit dem 25-jährigen Sechser Sacha Bansé um zwei Jahre, mit Option auf eine weitere Saison. Trainer Heiko Vogel lobt dessen Wichtigkeit für die Mannschaft.",
+      "one_sentence_summary": "Greuther Fürth verlängert den auslaufenden Vertrag mit dem 25-jährigen Sechser Sacha Bansé um zwei Jahre, mit Option auf eine weitere Saison.",
+      "schluessel": "sacha banse|vertrag"
+    },
+    "published_at": "2026-11-04T15:07:44.804722",
+    "source": "FussballTransfers.com"
   }
 ]

@@ -208,3 +208,233 @@
 {"ts": "2026-11-04T09:03:44.499474", "id": "6b6289bc83", "title": "(k+) Wer rückt in den Mittelpunkt? Kölns Dilemma mit den Stürmern", "stage": "stage7", "reason": "zu_wenig_quelltext"}
 {"ts": "2026-11-04T09:03:48.154631", "id": "781b6edf92", "title": "Borussia Mönchengladbach vs SV Darmstadt 98 - DFB-Pokal", "stage": "stage7", "reason": "zu_wenig_quelltext"}
 {"ts": "2026-11-04T09:03:56.955475", "id": "10d994b728", "title": "Holstein Kiel vs 1. FC Köln - DFB-Pokal", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-04T15:01:42.239927", "id": "f8d18f1490", "title": "Maik Franz im FMLUI-Podcast: „Mario Gomez? War ein Weichei!“", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:42.241621", "id": "a7928f0761", "title": "Wayne Rooney: Tipps für den ehemaligen Superstar im Dschungelcamp", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:42.859021", "id": "22150770c5", "title": "2. Liga: Schiri-Irrtum! DFB nimmt Rote Karte für Holstein Kiel bei Greuter Fürth", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:42.860151", "id": "061584cc93", "title": "Berlin fordert Titelverteidiger: FC Bayern gegen Hertha BSC: RTL zeigt Pokal-Kra", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:42.860387", "id": "0c32ba0671", "title": "Mit FC Bayern gegen Hertha: Drei Pokal-Achtelfinals im Free-TV", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:42.860621", "id": "c2bfe616b2", "title": "2. Bundesliga - Wollitz bangt um Cottbuser „historische Chance“ - Sport - SZ.de", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:42.862419", "id": "eaa69a4aab", "title": "FCN klärt Chatzialexiou-Nachfolge", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:42.863270", "id": "6840ac3296", "title": "Holstein Kiel - Arminia Bielefeld: Bielefeld will Trend fortsetzen - 2. Bundesli", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:42.863478", "id": "94527727a1", "title": "\"Wirtschaftlich stabiles Fundament\": KSC verzeichnet Millionengewinn", "stage": "stage2", "reason": "batch_title_dup_100pct"}
+{"ts": "2026-11-04T15:01:42.863751", "id": "2120b68084", "title": "So sehen Sie FCM gegen FC St. Pauli live im Stream und TV", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:42.863999", "id": "7716b35de4", "title": "Fußball heute: Übertragung der Spiele im Free-TV und Stream", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:42.865051", "id": "0f334e2b93", "title": "Die fünf Top-Tore des 10. Spieltags", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:42.866141", "id": "83d33ab838", "title": "Bereit für die Zweite Bundesliga? Der MSV Duisburg schließt Geschäftsjahr mit Üb", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:42.869323", "id": "9f56130d57", "title": "3. Liga: MSV Duisburg mit Millionen-Plus - \"Wir können uns aus eigenen Kräften t", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:42.869721", "id": "97d08c542f", "title": "\"Auf Sicht wird es in dieser Liga schwer\": MSV Duisburg weist siebenstelligen Ge", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-04T15:01:42.870132", "id": "a9af9bbae0", "title": "Rot-Weiss Essen: Bilanz im Westschlager: Historisch vorne, in Liga 3 aber noch s", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-04T15:01:42.870892", "id": "1da42d293d", "title": "\"Ein Spieler, den sich jeder Trainer wünscht\": Bansé verlängert in Fürth", "stage": "stage2", "reason": "batch_title_dup_100pct"}
+{"ts": "2026-11-04T15:01:42.871804", "id": "38b02c4971", "title": "Hrgota in alter Rolle und mit neuem Auftrag", "stage": "stage2", "reason": "batch_title_dup_100pct"}
+{"ts": "2026-11-04T15:01:42.872707", "id": "ca1de4913c", "title": "Schnelles Trainer-Comeback von Frank Schmidt?", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:42.873256", "id": "7a9dc1bd80", "title": "2. Liga: VFL Osnabrück empfängt Kaiserslautern - und will gewinnen", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:42.873528", "id": "1ab22d3872", "title": "1. FC Nürnberg - SV Darmstadt 98: Schwere Aufgabe für Darmstadt - 2. Bundesliga", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:42.873779", "id": "78028854a2", "title": "VfL Osnabrück - 1. FC Kaiserslautern: Findet Lautern zurück in die Spur? - 2. Bu", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:42.875748", "id": "db9d7ce03d", "title": "Offiziell! Schmidt-Entscheidung gefallen", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:42.876512", "id": "922bee0928", "title": "2. Fußball-Bundesliga: Nürnberg findet Chatzialexiou-Nachfolger in eigenen Reihe", "stage": "stage2", "reason": "batch_title_dup_89pct"}
+{"ts": "2026-11-04T15:01:42.876667", "id": "9d7b7b1b0e", "title": "2. Fußball-Bundesliga: Nürnberg findet Chatzialexiou-Nachfolger in eigenen Reihe", "stage": "stage2", "reason": "batch_title_dup_89pct"}
+{"ts": "2026-11-04T15:01:42.876865", "id": "bbf8ddb624", "title": "Hertha BSC gegen VfL Wolfsburg live: Hier läuft das Zweitliga-Topspiel kostenlos", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:42.878043", "id": "ca7586dc78", "title": "2. Fußball-Bundesliga: Nürnberg findet Chatzialexiou-Nachfolger in eigenen Reihe", "stage": "stage2", "reason": "batch_title_dup_89pct"}
+{"ts": "2026-11-04T15:01:42.878263", "id": "009ec29a00", "title": "2. Bundesliga: Wollitz bangt um Cottbuser «historische Chance»", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:42.878487", "id": "82a0ad0adb", "title": "\"Echte Waffe\": Zweitliga-Star adelt gleich zwei FCM-Profis", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:42.880242", "id": "f04f1b68ff", "title": "Neururer emotional über Frank Schmidts Abschied: \"Du fehlst bereits jetzt schon!", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:42.880489", "id": "044aa8e9e5", "title": "Hockey: So rüstet sich Motor Meerane für die Hallensaison in der 2. Bundesliga d", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:42.881437", "id": "22fd11d031", "title": "Pokalkracher zur Primetime!", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:42.882470", "id": "8a14e6deaa", "title": "Faustball: Wie Hallerstein Vereinsgeschichte schrieb", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:42.883892", "id": "9191fea5aa", "title": "Kind kritisiert Boldt auch für den Titz-Rausschmiss: „Schon nach kurzer Zeit war", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:45.167864", "id": "ee1dae6de9", "title": "Frank Schmidt verlässt Heidenheim zum Saisonende", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:45.508006", "id": "01a692a04b", "title": "Rauswurf aus Ratssitzung wegen \"FCK AFD\"-Pulli: Deshalb war dies aus Sicht eines", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:45.509309", "id": "bd1cfacdce", "title": "FCK ver­stei­gert wie­der ein­mal ein Tri­kot von Ju­li­an Krahl", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:45.510689", "id": "d517ed5f2a", "title": "Achtelfinale DFB-Pokal: Termin für Heimspiel des FCK gegen Freiburg steht fest", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:45.512021", "id": "ebabc7f774", "title": "ASC-Basketballer: Im Topspiel gegen FCK die nächste Erinnerung schaffen", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:45.512558", "id": "db3e426a13", "title": "Osnabrück gegen Kaiserslautern live: Dieser Sender zeigt das Zweitliga-Duell", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:45.513761", "id": "bced52a31e", "title": "Zuhörer bei der Ratssitzung – und der \"FCK AFD\"-Pullover", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:45.514978", "id": "1f8c8385a4", "title": "DFB ter­mi­niert Po­kal­spiel zwi­schen FCK und Frei­burg", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:45.516305", "id": "89dc569c3f", "title": "FCK-​Ikone Wolf­gang Wolf und Sohn Pa­trick: Zwei Trai­ner, zwei Wel­ten", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:45.517190", "id": "690e5dd27f", "title": "Alexander Bugera", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:45.518528", "id": "f0ded4d9e5", "title": "Vol­les Haus und ein Betze-​Star: Erste Card-​Show ein vol­ler Er­folg", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:45.519524", "id": "dc22643581", "title": "FCK vor der Winterpause nochmals gefordert", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:45.520328", "id": "c8dc934387", "title": "Enis Saiti", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:45.520627", "id": "0cc77ea4ce", "title": "🔴 FCK AKTUELL: Wo Steht Der FCK In Der LÄNDERSPIELPAUSE? 🔥 Iva Jovic (7oKWl1CgQQ", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:45.843538", "id": "327a52dad9", "title": "So trist fällt die Transfer-Bilanz für Kaars und Mathisen aus", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:45.845015", "id": "7fffac1581", "title": "Magdeburg – St. Pauli (08.11.) live im TV: Welcher Sender überträgt?", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:46.260702", "id": "492b309de0", "title": "FCN: Ex-Profi neuer Sportvortsand: FCN präsentiert Frey", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:46.260983", "id": "210f833ade", "title": "Pädagoge und Ex-Profi: Frey wird Nachfolger von Chatzialexiou", "stage": "stage2", "reason": "batch_title_dup_100pct"}
+{"ts": "2026-11-04T15:01:46.262538", "id": "8187de10e0", "title": "FCN findet Nachfolger für Joti Chatzialexiou in den eigenen Reihen", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:46.263993", "id": "8abb587305", "title": "Nürnberg findet Chatzialexiou-Nachfolger in eigenen Reihen", "stage": "stage2", "reason": "batch_title_dup_90pct"}
+{"ts": "2026-11-04T15:01:46.264220", "id": "eb16f629c0", "title": "2. Fußball-Bundesliga: Nürnberg findet Chatzialexiou-Nachfolger in eigenen Reihe", "stage": "stage2", "reason": "batch_title_dup_89pct"}
+{"ts": "2026-11-04T15:01:46.265397", "id": "afc24a1249", "title": "Jetzt ist es offiziell: Ex-Profi Dieter Frey wird neuer Vorstand Sport beim Club", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:46.266531", "id": "97b9803e46", "title": "Ab sofort: FCN findet Chatzialexiou-Nachfolger als Sportvorstand", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:46.266958", "id": "2f6f022872", "title": "Eintracht Frankfurt: Kommt Joti Chatzialexiou doch schneller?", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-04T15:01:46.267586", "id": "6502468e63", "title": "Nürnberg findet Chatzialexiou-Nachfolger in eigenen Reihen", "stage": "stage2", "reason": "batch_title_dup_90pct"}
+{"ts": "2026-11-04T15:01:46.267995", "id": "6006f15edf", "title": "Oberpfälzer Fußballtalente Keller und Langsteiner treffen für den Club und RB Le", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-04T15:01:46.269257", "id": "21b5bdf94b", "title": "Kurt Geinzer", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:46.612630", "id": "2563ee365c", "title": "Das Wichtigste aus OWL: Frau in Bielefeld in Auto gezerrt & Schwänzen nimmt zu", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:46.614157", "id": "540080320b", "title": "Verstorbene Stars News 2026: Die aktuellen Todesmeldungen im Nachrichten-Ticker", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:46.972080", "id": "2eca0a048f", "title": "Dynamo Dresden: Lange Pause für diesen Zweitliga-Profi", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:46.973086", "id": "dabcbad27f", "title": "Dynamo Dresden: DFB-Pokal am 1. Dezember beim VfB Stuttgart - Spiel nicht im Fre", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:46.974649", "id": "d96b160552", "title": "DFB-Pokal - Pokalspiel von Leipzig im Free-TV - Dresden eröffnet Runde - Sport -", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:46.976128", "id": "d63f5ab9a5", "title": "dpa-Meldungen", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:46.978511", "id": "5d7e147d67", "title": "Pohárový zápas Lipska v bezplatné televizi – Drážďany zahájí kolo", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:46.979778", "id": "4e2c664662", "title": "Pokal-​Achtelfinale: Bay­ern - Her­tha bei RTL", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:46.980197", "id": "c5d3d28fb9", "title": "Dynamo Dresden – Greuther Fürth (06.11.) live im TV: Welcher Sender überträgt?", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:46.981147", "id": "8f31dc9028", "title": "Pokal-Achtelfinale: Bayern - Hertha bei RTL", "stage": "stage2", "reason": "batch_title_dup_95pct"}
+{"ts": "2026-11-04T15:01:46.981561", "id": "968361b384", "title": "Hoher Besuch bei Lok Leipzig: Champions-League-Stimmung im Bruno", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-04T15:01:46.981922", "id": "cf3921f36d", "title": "BVB erneut im Free-TV: Pokal-Achtelfinale in Frankfurt jetzt terminiert", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:46.982278", "id": "2232056a9e", "title": "Puerto Rico U23 - Panama U23 Live Stream | Jetzt Anmelden | DAZN DE", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:47.349843", "id": "01bd614c30", "title": "Eintracht Braunschweig verkündet Trainingslager: Nach vier Jahren ist es wieder ", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:47.353940", "id": "7c436d7f3c", "title": "Studie zeigt Grenzüberschreitungen in Fahrschulen", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:47.354390", "id": "a721ef4297", "title": "Braunschweig – Cottbus (06.11.) live im TV: Welcher Sender überträgt?", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:47.355380", "id": "6611cd4e9f", "title": "Mustafa Denizli", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:47.355872", "id": "bed964bbb3", "title": "„Irrtum!“ 96-Boss Kind rechnet mit Ex-HSV-Vorstand Boldt ab", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-04T15:01:47.356752", "id": "d0a647f8c9", "title": "Daniel Pflüger", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:47.357617", "id": "467f4bcdf4", "title": "Sönke Schneider", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:47.647001", "id": "185a0d7a9e", "title": "Ein Herzenswunsch geht in Erfüllung!", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:47.649184", "id": "5389ffcb77", "title": "Finn-Luca Sperling", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:48.000534", "id": "da3db52eeb", "title": "Jean Patrice Meyer", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:48.001511", "id": "10e10e152f", "title": "St.-Pauli-Blog: Eric Smith wieder für die Nationalmannschaft nominiert", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:48.374410", "id": "07f64cb283", "title": "Hannover 96 v VfL Wolfsburg - 2. Bundesliga 2026/27 -", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:48.375270", "id": "593aa5d4c7", "title": "Transferoffensive und Wagner-Rückendeckung: Wie Kind Hannover wieder auf Kurs br", "stage": "stage2", "reason": "batch_title_dup_100pct"}
+{"ts": "2026-11-04T15:01:48.769280", "id": "473be23855", "title": "VfL Wolfsburg: Reese vor Rückkehr nach Berlin - Hertha fordert Respekt", "stage": "stage2", "reason": "batch_title_dup_100pct"}
+{"ts": "2026-11-04T15:01:48.769794", "id": "6d0a1f2a6a", "title": "FC Bayern gegen Hertha BSC live im Free-TV: RTL zeigt Pokal-Kracher zur Primetim", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:48.770937", "id": "a8b65957ce", "title": "Mit FC Bayern gegen Hertha: Drei Pokal-Achtelfinals im Free-TV", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:48.772309", "id": "dfa42f2bb3", "title": "(k+) Fanliebling hier, Feindbild da: Reese und das Treffen mit den Geistern", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:48.774180", "id": "16ce4fa291", "title": "VfL-Torjäger Glatzel jagt Jubiläum in Berlin – und hat noch eine Rechnung offen", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:48.774533", "id": "79352d3d06", "title": "Herthas Pokalspiel bei Bayern live im Free-TV", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:48.776093", "id": "3b894e8b4c", "title": "DFB-Pokal: Drei Achtelfinals laufen im Free-TV", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:48.780776", "id": "7b2a5febf7", "title": "Spielplan und Ergebnisse: Achtelfinale terminiert – alle Infos zum DFB-Pokal 202", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:48.782119", "id": "5e208a690e", "title": "Derry Scherhant im Interview: Über Jürgen Klopp und seinen Aufstieg", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:48.782525", "id": "be40f31293", "title": "2. Fußball-Bundesliga: Keine Fan-Gespräche: Hertha fordert Respekt für Reese", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:49.125171", "id": "a9015d0e93", "title": "Handball-Frauen des SVHU kämpfen gegen HT Norderstedt um Regionalliga-Spitze", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:49.599772", "id": "43476ceaeb", "title": "11. Spieltag: VfL Bochum - Karlsruher SC - VfL Bochum - Forum | Seite 1", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:49.601369", "id": "0eeb018648", "title": "Ravensburg gegen Backnang, Oberachern bei Türkspor Neckarsulm", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:49.602761", "id": "5620356121", "title": "„Komo“ kehrt noch regelmäßig in seine Heimat zurück", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:49.606717", "id": "49d07cd554", "title": "Autoindustrie: Christen bei Daimler und Benz: Beten mit prominenter Hilfe", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:49.990606", "id": "f86135a444", "title": "Ehrungen, Projekte und Herausforderungen: Lebenshilfe zieht Bilanz", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:49.991497", "id": "ac01795b27", "title": "M. Hopf", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:49.992434", "id": "d281ab5f2d", "title": "Denis Wassermann", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:50.389425", "id": "17755173c4", "title": "DFB-Pokal: Dreifacher TV-Hammer bestätigt", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:50.389810", "id": "3406401094", "title": "Nürnberg findet Chatzialexiou-Nachfolger in eigenen Reihen", "stage": "stage2", "reason": "batch_title_dup_90pct"}
+{"ts": "2026-11-04T15:01:50.390248", "id": "f77d5e1eec", "title": "SC Freiburg gibt Hinweise für Fans in Trabzon", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-04T15:01:50.390697", "id": "f8bfc59af0", "title": "Eintracht Frankfurt bereitet sich auf Paderborn vor", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-04T15:01:50.391138", "id": "a26b70461e", "title": "SC Paderborn vs. Eintracht Frankfurt Prognose", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-04T15:01:50.827527", "id": "33d8b9eff9", "title": "11. Spieltag: VfL Bochum - Karlsruher SC - VfL Bochum - Forum | Seite 1", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:50.829235", "id": "d5f8535bb6", "title": "RL West: Gladbach II und VfB Hilden am Freitag gefordert", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-04T15:01:50.829926", "id": "9280ac8f5c", "title": "DFB-Pokal-Achtelfinale: Eintracht Frankfurt - Borussia Dortmund / Am Mittwoch, 2", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-04T15:01:50.831391", "id": "eb53e308cf", "title": "Stadtderby in der Regionalliga West: VfL Bochum U23 – SG Wattenscheid 09 im Live", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:50.831820", "id": "6a7cb1aadb", "title": "DFB-Pokal: Bayern, Dortmund und Leipzig im Free-TV", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:50.832260", "id": "0a160bd64a", "title": "Eintracht Frankfurt gegen Dortmund: DFB-Pokal läuft live im Free-TV", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:50.833853", "id": "dfb74a2d9f", "title": "Liebeserklärung an RWE, Essen und die Hafenstraße: „Möchte nirgendwo anders lebe", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:50.834487", "id": "7d7bf633a7", "title": "RWO vor Spitzenspiel gegen BVB II – „Natürlich wollen wir Herbstmeister werden“", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-04T15:01:50.836237", "id": "ea7c3f5b4d", "title": "VfB Wissen: Forsche Kampfansage vor dem Spiel des Jahres gegen TuS Koblenz", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:50.837394", "id": "aebf28516c", "title": "CFR Cluj - Ausländische Spieler aus Portugal", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:50.838718", "id": "2d5aa372a6", "title": "Schlüsselduell am Schwarzen Meer: Ginter muss Salah stoppen", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:50.839652", "id": "f12d2508fa", "title": "Burkhard Hansmann", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:50.840513", "id": "105410efd2", "title": "Günther Knof", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:50.841375", "id": "546e16e71a", "title": "Rheydter SV", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:50.842228", "id": "c92241caf4", "title": "Jannis Kuckertz", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:50.843057", "id": "495ad9b054", "title": "Taraba Kagnassim", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:50.843493", "id": "b2f998c175", "title": "2. Liga: Ära endet im Sommer - dieser Trainer macht nach 20 Jahren Schluss", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:51.143239", "id": "b0f3221cc8", "title": "4. Brückengeflüster live: Zwei Achterbahnfahrten und ein Ritt durch Enochs‘ lila", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:51.143816", "id": "24bd434634", "title": "Regionalliga Nord: Rückkehrer Kai Pröger will VfB Oldenburg zum Aufstieg führen", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:51.144297", "id": "632ece7d57", "title": "11. Spieltag: VfL Osnabrück - 1.FC Kaiserslautern - 1. FC Kaiserslautern - Forum", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:51.144886", "id": "31dab795a5", "title": "Rot-Weiss Essen gewinnt auch dreckig: Die Aufstiegschancen sind höher als letzte", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-04T15:01:51.145347", "id": "a21bc982c4", "title": "Das Voltigieren in Melle und Bohmte ist vor allem bei Mädchen und jungen Frauen ", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:51.522174", "id": "3e51fdd858", "title": "Zweiter gegen Dritter: Flutlicht-Kracher wird zum Frauen-Topspiel", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:51.525285", "id": "9973f5240f", "title": "(k+) Fanliebling hier, Feindbild da: Reese und das Treffen mit den Geistern", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:51.525724", "id": "8b8e730cfb", "title": "\"Tolle Anerkennung\" - HSV-Frauen haben jetzt ein Talentförderzentrum", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:51.526381", "id": "6a63f5851e", "title": "Newsblog: SC Freiburg bezieht klar Stellung zu zwei von Fans verursachten Spielu", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-04T15:01:51.527604", "id": "1aae4f74f3", "title": "Zesiger über die Schattenseiten des Fussballgeschäfts", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-04T15:01:52.224856", "id": "254167760e", "title": "Pokal-Achtelfinale zeitgenau angesetzt - Drei Spiele im Free-TV", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-04T15:01:53.686625", "id": "628abd46db", "title": "Dynamo‘s Covic auf dem Zettel eines Bundesligisten?", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-04T15:01:53.687766", "id": "e9f731dda3", "title": "VfB Stuttgart News: Pokal-Achtelfinale gegen Dynamo Dresden exakt terminiert", "stage": "stage5", "reason": "sammelartikel"}
+{"ts": "2026-11-04T15:01:53.687934", "id": "ca8c7aab38", "title": "Tabelle zweitrangig? Dynamos Rossipal lässt nach Kellerduell-Pleite aufhorchen", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-04T15:01:53.688563", "id": "7bebaf692c", "title": "Nach Ankermann: THW-Kiel-Talente Eisend und Faciejew in den DHB-Elitekader beruf", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-04T15:04:55.934226", "id": "41aba25812", "title": "\"Wirtschaftlich stabiles Fundament\": KSC verzeichnet Millionengewinn", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-04T15:04:55.934490", "id": "48b30f7d2d", "title": "\"Ein Spieler, den sich jeder Trainer wünscht\": Bansé verlängert in Fürth", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-04T15:04:55.934614", "id": "247d60b97d", "title": "Pädagoge und Ex-Profi: Frey wird Nachfolger von Chatzialexiou", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-04T15:04:55.934730", "id": "ba150344be", "title": "Maik Franz: „Ich war der meistgehasste Spieler der Liga. Und fand's super!“", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-04T15:04:55.934838", "id": "76cc7ebe62", "title": "Eine Ära endet: So sah die Welt beim Schmidt-Start in Heidenheim aus", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-04T15:04:55.934943", "id": "8a1dace052", "title": "Fix! Nürnberg macht Ex-Spieler zum Boss", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-04T15:04:55.935040", "id": "99c9971353", "title": "2. Fußball-Bundesliga - Nürnberg findet Chatzialexiou-Nachfolger in eigenen Reih", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-04T15:04:55.935160", "id": "72ea2a708b", "title": "Live-Übertragung: Holstein Kiel gegen Arminia Bielefeld - Stream und TV", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-04T15:04:55.935270", "id": "f3619c4962", "title": "VfL Bochum: In Liga zwei nur Ergänzungsspieler - Jetzt ist er im Ausland Kapitän", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-04T15:04:55.935377", "id": "885b36a922", "title": "2. Fußball-Bundesliga - DFB nimmt Rote Karte gegen Kiel-Zeugwart zurück - Bayern", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-04T15:04:55.935439", "id": "79beba3f18", "title": "2. Fußball-Bundesliga: DFB nimmt Rote Karte gegen Kiel-Zeugwart zurück", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-04T15:04:55.935521", "id": "d6787a3e8d", "title": "Dieter Frey wird neuer Sportvorstand beim 1. FC Nürnberg", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-04T15:04:55.935613", "id": "4d14570cc4", "title": "Braunschweig gegen Energie Cottbus – Tipp, Prognose & Quoten am 06.11.2026 | KI-", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-04T15:04:55.935715", "id": "981ab8ed75", "title": "Dynamo Dresden gegen Fürth – Tipp, Prognose & Quoten am 06.11.2026 | KI-Analyse", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-04T15:04:55.935815", "id": "dc3ea8d8b7", "title": "DFB-Pokal: Pokal-Achtelfinale: Bayern - Hertha bei RTL", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-04T15:04:55.935915", "id": "3d5b2b9d36", "title": "Ex-Bundesliga-Profi wird Sportvorstand: Nürnberg befördert Frey zum Chatzialexio", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-04T15:04:55.936012", "id": "e5baa91835", "title": "Nach fast 20 Jahren: Schmidt verlässt Heidenheim im Sommer", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-04T15:04:55.936150", "id": "b5169d3d33", "title": "DFB-Pokal: Bayern-Spiel im Achtelfinale gegen Hertha terminiert", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-04T15:04:55.936261", "id": "4219c4e6e5", "title": "Heidenheims Trainerlegende Frank Schmidt hört auf!", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-04T15:04:55.936365", "id": "b0c2f78fb9", "title": "FC Heidenheim: Trainer Frank Schmidt hört im Sommer auf", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-04T15:04:55.936462", "id": "11ee3c1a52", "title": "VfL Osnabrück - 1. FC Kaiserslautern Wett Tipp & Quoten 07.11.2026", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-04T15:04:55.936565", "id": "354c8dc907", "title": "1.FC Magdeburg", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-04T15:04:55.936664", "id": "13e96fc8b5", "title": "Ein großer Moment für kleine Fußballfans: SelectLine Software GmbH ermöglicht Ki", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-04T15:04:55.936762", "id": "0755acc058", "title": "FC St. Pauli: Branimir Hrgota in neuer Rolle - \"War ein bisschen ungewohnt\"", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-04T15:04:55.936863", "id": "23013a9754", "title": "Chatzialexiou-Nachfolger: Frey wird Nürnbergs neuer Sportchef", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-04T15:04:55.936962", "id": "06fb0eadd6", "title": "Offiziell: Nürnberg findet Chatzialexious Erben in den eigenen Reihen", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-04T15:04:55.937076", "id": "85f4327b01", "title": "„Bild“: Chatzialexiou-Nachfolge in Nürnberg geklärt – Frey übernimmt im zweiten ", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-04T15:04:55.937197", "id": "a87391b431", "title": "Ab sofort: 1. FC Nürnberg bestätigt Frey als Chatzialexiou-Nachfolger – „Logisch", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-04T15:04:55.937307", "id": "8d1df0b48c", "title": "Führungswechsel beim 1. FC Nürnberg: Dieter Frey wird neuer Sportvorstand : 선물·상", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-04T15:04:55.937406", "id": "50feb878d1", "title": "11. Spieltag: 1.FC Nürnberg - SV Darmstadt 98 - SV Darmstadt 98 - Forum | Page 1", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-04T15:04:55.937502", "id": "b5e8a76e1e", "title": "So Liefen Die Millionen-Deals Des 1. FC Nürnberg | Club-Funk Spezial Sean Longst", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-04T15:04:55.937606", "id": "14c5335946", "title": "Heimrechttausch: U21 empfängt Arminia Bielefeld", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-04T15:04:55.937706", "id": "7b93b62a4c", "title": "Hooligan-Prügelei nach Spiel von Arminia Bielefeld sorgt für größeren Polizeiein", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-04T15:04:55.937801", "id": "4434b38a9e", "title": "Holstein Kiel - DSC Arminia Bielefeld Wett Tipp & Quoten 07.11.2026", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-04T15:04:55.937893", "id": "f2764318b3", "title": "VfL Osnabrück: Niedersachsens Nummer 1, Top 18 in Deutschland", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-04T15:04:55.937996", "id": "b73d0595a7", "title": "DFB-Pokal-Achtelfinale terminiert: Wann der VfB gegen Dynamo Dresden spielt", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-04T15:04:55.938115", "id": "d537995c96", "title": "Dynamo Dresden - SpVgg Greuther Fürth Wett Tipp & Quoten 06.11.2026", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-04T15:04:55.938220", "id": "8d8bf1b1ae", "title": "Achtelfinale zeitgenau angesetzt: TV-Entscheidung um Kölns Pokal-Duell in Kiel g", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-04T15:04:55.938325", "id": "844cb63fc0", "title": "Derby-Nachspiel: Video soll Choreo-Raub vor Eintracht Braunschweig gegen Hannove", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-04T15:04:55.938419", "id": "ac06b4a90f", "title": "Video vom Choreoklau soll zeigen, wie 96-Fans die Millenium-Halle in Braunschwei", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-04T15:04:55.938517", "id": "2b7e7e3e06", "title": "Ex-Bayern-Keeper schwärmt: \"Kimmich ist so ein Motivationsmonster\"", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-04T15:04:55.938623", "id": "856da4fae0", "title": "RE2 in Königs Wusterhausen: Bahn warnt vor Fahrt in Zügen nach Cottbus", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-04T15:04:55.938725", "id": "d85145fff5", "title": "Nach Razzien: Spontane Demo zieht über St. Pauli", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-04T15:04:55.938824", "id": "e2127d6573", "title": "Eishockey: Ein Ex-Wolfsburger ist neuer italienischer Nationaltrainer", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-04T15:04:55.938915", "id": "3373680935", "title": "Die VfL-Wolfsburg-Meinung: Bislang waren die VfL-Transfers Volltreffer", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-04T15:04:55.939005", "id": "6fd67e590c", "title": "Achtelfinale: DFB-Pokal: Hertha-Kracher bei Bayern München terminiert", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-04T15:04:55.939113", "id": "2b184a3dc1", "title": "Hertha-Fan raubt Freiburg-Schal – Berliner Polizei fahndet mit Fotos", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-04T15:04:55.939214", "id": "637a3ae229", "title": "Hertha-Fan klaut Freiburg-Anhänger seinen Schal, jetzt sucht ihn die Polizei", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-04T15:04:55.939316", "id": "fbbe6698eb", "title": "Hamburg & Schleswig-Holstein: DFB nimmt Rote Karte gegen Kiel-Zeugwart zurück", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-04T15:04:55.939414", "id": "7f1f021e82", "title": "Kilia stürzt Holstein II vom Thron: Kieler Derby-Spektakel mit 8 Toren", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-04T15:04:55.939511", "id": "4691582c1c", "title": "Karlsruher SC II verschärft im Nachholspiel die Krise des FC Nöttingen", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-04T15:04:55.939607", "id": "d75eaaaadb", "title": "Klare Sache: VfR Aalen lässt dem KSC nach der Pause keine Chance", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-04T15:04:55.939698", "id": "cfa9d97a28", "title": "Highlights XXL: Borussia M’gladbach – Karlsruher SC, 2. Runde", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-04T15:04:55.939885", "id": "17cf0bfd92", "title": "Heidenheim ab Sommer ohne Trainer Frank Schmidt: \"Will eine Pause machen\"", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-04T15:04:55.939993", "id": "1b2a1179cb", "title": "Mehr als 20 Pkw-Aufbrüche in der Karlsruher Waldstadt und Hagsfeld", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-04T15:04:55.940102", "id": "5de41e15b2", "title": "Was ist am Wochenende in Karlsruhe los? Die Veranstaltungstipps vom 6. bis 8. No", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-04T15:04:55.940207", "id": "cce455aa5e", "title": "SpVgg Greuther Fürth: Warum Medien den Namen einer Stadt ständig verunstalten - ", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-04T15:04:55.940313", "id": "6370ddd8b1", "title": "Zurück zur SpVgg Fürth: Eine Abstimmung als Signal", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-04T15:04:55.940410", "id": "1e6462c6d1", "title": "Mehr Transparenz beim Klimaschutz: Neue Online-Plattform zeigt Fortschritte in F", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-04T15:04:55.940498", "id": "21557c8e63", "title": "Greuther Fürth II gegen Aubstadt: Statistiken und Spieldaten", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-04T15:04:55.940579", "id": "e600096c16", "title": "Der SV Darmstadt 98 schaut mit der Lupe auf sich selbst", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-04T15:04:55.940673", "id": "c207f2f453", "title": "SV Darmstadt 98 veranstaltet Inklusions-Spieltagscamp", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-04T15:04:55.940778", "id": "096dc13ba9", "title": "Hessen: Pokal-Achtelfinale: Eintracht - Dortmund in der ARD", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-04T15:04:55.940891", "id": "278ce80171", "title": "Jetzt steht fest, wann der FCA auf seinen Angstgegner Bochum trifft", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-04T15:04:55.940984", "id": "ade91f5a81", "title": "Er trainierte Bochum und Schalke: Wie Thomas Reis der Traumstart in Trabzon gela", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-04T15:04:55.941095", "id": "5d45526738", "title": "Bundesliga Tipps 31. Spieltag 24/25 | U.a. Hoffenheim - BVB & Bochum - Union | P", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-04T15:04:55.941204", "id": "dd837d47c4", "title": "VfL Wolfsburg e.V. und TV Jahn Wolfsburg: Rollkunstläuferinnen feiern internatio", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-04T15:04:55.941277", "id": "bbf8eab85b", "title": "Keine Fan-Gespräche: Hertha fordert Respekt für Reese", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-04T15:05:10.394618", "id": "18666b4216", "title": "Ansetzung im DFB-Pokal fix: Gladbach empfängt den SV Darmstadt 98 am Dienstagabe", "stage": "S7", "reason": "kein_bl_hauptklub"}
+{"ts": "2026-11-04T15:05:34.751697", "id": "0256ad7641", "title": "Hertha BSC: Nicht nur Reese kehrt zurück, aber fällt das Bruder-Duell aus?", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-04T15:05:51.984102", "id": "56106cd33c", "title": "„Enorm wichtige Säule“: Kleeblatt verlängert den auslaufenden Vertrag mit Sacha ", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-04T15:05:56.865221", "id": "9aec997484", "title": "St. Pauli mit Eric Smith nach Magdeburg? Das ist der Stand", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-04T15:06:22.258864", "id": "35d4a51fe7", "title": "Dynamo Dresden empfängt Greuther Fürth – Abwehr dezimiert, Druck riesig", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-04T15:06:25.189966", "id": "12185c50ab", "title": "FCM im Wettlauf gegen die Zeit – kehrt Zukowski gegen St. Pauli zurück?", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-04T15:06:26.111081", "id": "db270515c3", "title": "Zurück Im Titelrennen! | VfL Wolfsburg - SC Freiburg 3:2 | Alle Tore Und Highlig", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-04T15:06:39.406759", "id": "bea657d902", "title": "Die VfL-Wolfsburg-Meinung: Warum Herthas Botschaft vor Reeses Rückkehr nicht rei", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-04T15:06:39.406982", "id": "6f51d02cbe", "title": "VfL Wolfsburg: Reese vor Rückkehr nach Berlin - Hertha fordert Respekt", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-04T15:06:45.151946", "id": "441d1031e3", "title": "Energie Cottbus in Braunschweig: Wollitz will „andere Mannschaft“ sehen", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-04T15:06:48.881785", "id": "f34f2eaf7c", "title": "Luka Hyryläinen und der Traum von der Bundesliga: \"Magdeburg hat viel Potenzial\"", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-04T15:06:57.822644", "id": "31fc0263e0", "title": "Hannover 96: Kind rechnet mit Boldt ab – wem wer Vertrauen zuspricht", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-04T15:07:07.821210", "id": "1552126688", "title": "Premiere für Hyryläinen! Diese FCM-Profis gehen auf Reisen", "stage": "S7", "reason": "nicht_relevant"}
+{"ts": "2026-11-04T15:07:11.932963", "id": "aef9fd7ade", "title": "\"Eine Befreiung\": FCH-Trainer Frank Schmidt über die Gründe für seinen Abschied", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-04T15:07:16.380734", "id": "50120daffd", "title": "Nach Hannover-Knall: Kind teilt gegen Boldt aus", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-04T15:07:29.084755", "id": "e3b2c48a1a", "title": "„Kein Mehrwert“: Welche Neuheit St. Paulis Rapp kritisch sieht", "stage": "S7", "reason": "nicht_relevant"}
+{"ts": "2026-11-04T15:07:36.440994", "id": "893a15f72b", "title": "Ab in den Süden? So plant Arminia Bielefeld die Winter-Vorbereitung", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-04T15:07:40.135164", "id": "d98ad0a558", "title": "Kind tritt gegen Boldt nach: \"Ein Irrtum zum Schluss\"", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-04T15:07:42.707827", "id": "2ed11b8100", "title": "Kai Klefisch vom SV Darmstadt 98: „Ich lasse mein Herz auf dem Feld“", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-04T15:07:44.159704", "id": "1156727926", "title": "Warum Fürths Trainer Heiko Vogel Aaron Keller nicht nur für sein Siegtor gegen K", "stage": "stage7", "reason": "zu_wenig_quelltext"}
