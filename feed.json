@@ -1,5 +1,38 @@
 [
   {
+    "id": "860d39c7c1",
+    "titel": "Lieberknecht warnt vor Osnabrücks „Hexenkessel“ und lobt den Aufsteiger",
+    "kategorie": "aufstellung",
+    "badge": "Aufstellung",
+    "badge_bg": "#2e7d32",
+    "badge_fg": "#fff",
+    "datum": "05.11.2026 15:04",
+    "wappen_url": "logos/kaiserslautern.png",
+    "vereine": [
+      "Kaiserslautern",
+      "Osnabrück"
+    ],
+    "anriss": "Der 1. FC Kaiserslautern reist mit Respekt zum Zweitligaspiel beim VfL Osnabrück. FCK-Trainer Torsten Lieberknecht lobte vor der Partie am Samstag (13.00 Uhr/Sky) den Gegner und dessen Stadion. Personell kann",
+    "spielerstatus": [
+      {
+        "spieler": "Gyamfi",
+        "klub": "Kaiserslautern",
+        "status": "faellt_aus",
+        "grund": "Gelbsperre"
+      },
+      {
+        "spieler": "Kamga",
+        "klub": "Kaiserslautern",
+        "status": "faellt_aus",
+        "grund": "Augenentzündung"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Kaiserslautern",
+    "pfad": "artikel/lieberknecht-warnt-vor-osnabruecks-hexenkessel-und-lobt-den-aufsteiger-860d39c7c1.html",
+    "bild_tm": ""
+  },
+  {
     "id": "3f63c5f30a",
     "titel": "Nürnberg: Dieter Frey wird Nachfolger von Joti Chatzialexiou",
     "kategorie": "news",
