@@ -393,3 +393,59 @@
 {"ts": "2026-11-05T18:05:02.210560", "id": "0148a4b79a", "title": "Gewaltige Kulisse: Hertha-Coach Leitl lässt sich vom Reese-Wirbel nicht beeindru", "stage": "stage6.5", "reason": "schon_berichtet"}
 {"ts": "2026-11-05T18:05:38.794166", "id": "09537f0473", "title": "Energie Cottbus: Wollitz warnt vor dem Kellerduell", "stage": "stage7", "reason": "zu_wenig_quelltext"}
 {"ts": "2026-11-05T18:05:40.297910", "id": "cd5e4b7948", "title": "Energie Cottbus: Das steckt hinter dem Lob von Wollitz für Präsident Lemke", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-05T21:01:34.744158", "id": "b6774b85dd", "title": "Klose über Darmstadt: \"Will nicht Angstgegner sagen, aber ...\"", "stage": "stage1", "reason": "medienseite"}
+{"ts": "2026-11-05T21:01:37.248286", "id": "bcbe020d42", "title": "Braunschweig vs. Energie Cottbus live im TV und Livestream: Übertragung, Anstoßz", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-05T21:01:37.249949", "id": "ccd7bc049c", "title": "Trabzonspor gegen SC Freiburg: Hier läuft das Spiel live!", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-05T21:01:37.250202", "id": "a89caa4102", "title": "2. Bundesliga: Pfiffe gegen Reese? Wolfsburg-Trainer mit schrägem Vergleich", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-05T21:01:37.250843", "id": "65c1375666", "title": "Dynamo Dresden vor dem Spiel gegen Greuther Fürth: Siegen gegen die Unruhe in de", "stage": "stage2", "reason": "batch_title_dup_100pct"}
+{"ts": "2026-11-05T21:01:37.251035", "id": "17509ee32d", "title": "Dynamo Dresden vs. Greuther Fürth live sehen: TV-Übertragung, Livestream und Ans", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-05T21:01:37.251456", "id": "d729741d7c", "title": "TSG Hoffenheim verspielt Sieg bei Crystal Palace: Später Gegentreffer bremst Eur", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-05T21:01:37.252719", "id": "20a8dbe3e1", "title": "HSV gegen Gladbach live: Wo läuft das Bundesliga-Spiel am Freitagabend? Alle Inf", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-05T21:01:37.253035", "id": "61a9872cf0", "title": "2. Bundesliga: Kiel-Coach Tim Walter: „Weniger schauen und mehr machen“", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-05T21:01:37.255300", "id": "9bbffcaa47", "title": "Energie Cottbus 2. Liga: Leon Guwara schöpft bei Energie Cottbus neue Kraft", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-05T21:01:37.256357", "id": "180c305b6d", "title": "2. Bundesliga: Pfiffe gegen Reese? Wolfsburg-Trainer mit schrägem Vergleich", "stage": "stage2", "reason": "batch_title_dup_95pct"}
+{"ts": "2026-11-05T21:01:37.256575", "id": "6937d2e1d6", "title": "Dynamo gegen Kleeblatt heute live: Wer überträgt Dresden gegen Fürth? Sky", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-05T21:01:37.256793", "id": "90a92044d6", "title": "Braunschweig gegen Energie heute live: Wer überträgt das Spiel? Sky + WOW", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-05T21:01:39.805367", "id": "ad297ee5e9", "title": "Zbigniew Boniek", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-05T21:01:40.501671", "id": "f761ba3ccc", "title": "FCN-Trainer Klose verrät: \"sehr, sehr interessante Botschaft\" vom neuen Chef", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-05T21:01:40.502319", "id": "bf20c29869", "title": "SC Freiburg: Frauen vor Heimspiel gegen Nürnberg", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-05T21:01:40.806772", "id": "fa89543d67", "title": "Arminia Bielefeld U17", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-05T21:01:40.808088", "id": "33d0d4d245", "title": "Ar­mi­nia Lud­wigs­ha­fen vor Top­spiel: Ba­sa­ra Mainz kommt", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-05T21:01:41.885021", "id": "a608a462a9", "title": "Personal, Taktik, Form: So geht der SC Paderborn ins Heimspiel gegen Frankfurt", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-05T21:01:42.735085", "id": "45e91a1cbc", "title": "Ein guter Absteiger, aber zu wenig Torgefahr", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-05T21:01:43.768415", "id": "d3e96dd86e", "title": "Pfiffe gegen Reese? Wolfsburg-Trainer mit schrägem Vergleich", "stage": "stage2", "reason": "batch_title_dup_100pct"}
+{"ts": "2026-11-05T21:01:44.493261", "id": "685b4cbd45", "title": "SHsportlich: Das steht am Wochenende an", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-05T21:01:45.666677", "id": "32f100486a", "title": "Gladbach spielt sonntags auf Schalke und am Samstagabend gegen Bayern", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-05T21:01:46.013753", "id": "1514cdf701", "title": "Mutmacher: Drei Gründe, warum Mainz 05 den FC Bayern ärgern kann", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-05T21:01:46.015332", "id": "51c7beb5e2", "title": "\"Jetzt soll es richtig groß werden\" - Agit Kabayel im exklusiven Interview mit D", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-05T21:01:46.743398", "id": "bba4ede4f0", "title": "Flutlicht-Kracher: Eintracht Frauen gegen Wolfsburg", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-05T21:01:49.268772", "id": "292d14d5d1", "title": "Grammy-Gewinner & Dynamo-Fan: Purple Disco Machine spricht über Aufstiegsträume", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-05T21:01:49.269260", "id": "6ab344e09b", "title": "So viel Geld hat der VfL Osnabrück mit dem Verkauf von Tickets in den letzten Ja", "stage": "stage5", "reason": "randthema"}
+{"ts": "2026-11-05T21:01:49.269496", "id": "78f90212b0", "title": "Der Nachrichtenüberblick im Landkreis Heidenheim am Donnerstag, 5. November 2026", "stage": "stage5", "reason": "sammelartikel"}
+{"ts": "2026-11-05T21:01:49.269770", "id": "33af711ca9", "title": "Aufstellung | Bayern München - 1. FC Nürnberg 5:0 | 10. Spieltag | U-17-DFB-Nach", "stage": "stage5", "reason": "nicht_fuer_uns"}
+{"ts": "2026-11-05T21:01:49.270060", "id": "1c33551f0c", "title": "Müller zahlt Lehrgeld: Wie steckt das Dynamo-Juwel seine Pech-Wochen weg?", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-05T21:01:49.270322", "id": "51169444c2", "title": "Sportchef-Suche in Hannover: Ex-Nationalspieler ein überraschender Kandidat", "stage": "stage5", "reason": "archiv_doppelt"}
+{"ts": "2026-11-05T21:03:11.419837", "id": "c5b522d431", "title": "Spieltage 14 bis 18 zeitgenau angesetzt", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-05T21:03:11.420088", "id": "84269e963e", "title": "Live: Holstein Kiel gegen Arminia Bielefeld am 7.11.2026", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-05T21:03:11.420205", "id": "258c335276", "title": "2. Fußball-Bundesliga: Hertha-Trainer Leitl sieht Reese-Rückkehr „sehr nüchtern“", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-05T21:03:11.420305", "id": "4c9721089c", "title": "Topspiel Hertha BSC - VfL Wolfsburg im Live-Stream und TV: Ligaprimus Hertha am ", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-05T21:03:11.420400", "id": "b0e331e391", "title": "1.FC Magdeburg", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-05T21:03:11.420522", "id": "9c2b070a0c", "title": "FCM gegen Dynamo Dresden: Angriff auf Polizisten - Haftstrafe nach Krawallen", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-05T21:03:11.420612", "id": "ae15b15de5", "title": "FCN: Neuer Aufsichtsrats-Kandidat: Wird ER Nürnbergs mächtigster Boss?", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-05T21:03:11.420696", "id": "93eb2215f9", "title": "Arminia-Termine bis Ende Januar sind fix", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-05T21:03:11.420853", "id": "2237daff5a", "title": "Dresden Monarchs: Meistertrainer Greg Seamon verlängert für die Saison 2027", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-05T21:03:11.420989", "id": "210b4090db", "title": "2. Fußball-Bundesliga: Kleeblatt-Trainer Vogel: Dresden wie angeschlagener Boxer", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-05T21:03:11.421088", "id": "35e33af284", "title": "Hannover 96", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-05T21:03:11.421187", "id": "468dc46a28", "title": "Das sagt Hertha-Coach Stefan Leitl zur heiß diskutierten Reese-Rückkehr", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-05T21:03:11.421279", "id": "388986bfa3", "title": "Hertha BSC empfängt Wolfsburg zum Flutlichtspiel", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-05T21:03:11.421366", "id": "8a9fe36dd3", "title": "Spieltage 14 bis 18 terminiert: Arminia bekommt drei Flutlichtspiele", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-05T21:03:16.824970", "id": "168abb7c42", "title": "Nach fast 20 Jahren: So plant Heidenheim die Schmidt-Nachfolge", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-05T21:03:25.190338", "id": "29cce8e5d2", "title": "Endlich! Hertha-Stürmer Gustaf Nilsson ist fit für den Wolfsburg-Hit", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-05T21:03:34.753866", "id": "fbe5024275", "title": "Hertha BSC vs. VfL Wolfsburg: Diese Spieler könnten wieder auf dem Platz stehen", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-05T21:03:47.012753", "id": "264967adf5", "title": "Arminia-Trainer Kirch will in Kiel keinen Bus parken", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-05T21:03:52.501060", "id": "eed33fa2c5", "title": "Kind hat hohe Meinung: Marin im Kandidatenkreis von Hannover", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-05T21:03:56.685750", "id": "580bd08fc4", "title": "Dynamo Dresden vor dem Spiel gegen Greuther Fürth: Siegen gegen die Unruhe in de", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-05T21:04:03.874449", "id": "ef20e03cad", "title": "Pfiffe gegen Reese? Wolfsburg-Trainer mit schrägem Vergleich", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-05T21:04:21.744476", "id": "32d3d9b643", "title": "So blicken die Lilien auf das Spiel in Nürnberg", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-05T21:04:22.442722", "id": "085dc04663", "title": "Eintracht wählt Transferziel – Kontakt zu Sangaré", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-05T21:04:25.321774", "id": "cad9b68c44", "title": "Arminia Bielefeld: Publikumsliebling Grodowski will endlich auch auswärts treffe", "stage": "stage7", "reason": "zu_wenig_quelltext"}
