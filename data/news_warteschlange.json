@@ -1,34 +1,5 @@
 [
  {
-  "id": "aa0d9ead1c",
-  "schluessel": "cottbus|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Cottbus",
-  "klubs": [
-   "Cottbus"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Energie Cottbus: Ende der Zugeständnisse - Wollitz „kann nichts mehr ausschließen“",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRlctLXNZaGtpTHFwb0xYSXBCUGl2X0NsUnJ1SlpSLVlORmhndnZEa1o5ZDR0TnFnb3NNT2lkUXVJck1KSjkxbkN2SmcxZVc1Ni1QWHNZekxSdDBvZ2ZDZGRWSFVmMzRzM3YyV2pTUlZZckFKNkk0Z1JuQnc4WVlnOEdUanFMcUpDMFdzNUkxakwzdlhZQWNBMWFpVjlDell1RUNkOXdCdzFnQkY1YkRweW51VFNjZkxDVWlSTDZ5UW9QdGEweG9JNWx4andRN2M?oc=5",
-    "aid": "695671229a",
-    "titel": "Energie Cottbus: Ende der Zugeständnisse - Wollitz „kann nichts mehr ausschließen“",
-    "quelle": "Lausitzer Rundschau",
-    "beschr": " Energie Cottbus: Ende der Zugeständnisse - Wollitz „kann nichts mehr ausschließen“ &nbsp;&nbsp; Lausitzer Rundschau ",
-    "zeit": "2026-11-05T04:00"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "u",
-  "erstmals": "2026-11-05T06:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
   "id": "60e4a111b0",
   "schluessel": "heidenheim|sonstiges",
   "person": "",
@@ -56,7 +27,7 @@
   "status": "n",
   "erstmals": "2026-11-05T06:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "af899b9c9a",
@@ -85,7 +56,7 @@
   "status": "n",
   "erstmals": "2026-11-05T09:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "f9f19d30fc",
@@ -123,7 +94,7 @@
     "summary": "Dynamo Dresdens Kennedy Okpala fehlte dreimal in Folge im Spieltagskader, nach Angaben von Trainer Thomas Stamm aus sportlichen Gründen. Die Verspätung vor dem Magdeburg-Spiel sei abgehakt."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "eb210c6f53",
@@ -167,7 +138,7 @@
     "summary": "Wolfsburgs Fabian Reese und Muhammed Damar freuen sich auf das Spiel bei Tabellenführer Hertha BSC am Samstag. Beide haben eine Vergangenheit in Berlin und kommen nach dem 2:0 gegen Osnabrück mit Rückenwind."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "307f7d3709",
@@ -212,7 +183,7 @@
     "summary": "Hertha BSC gewinnt beim 1. FC Kaiserslautern 3:0 und bleibt nach zehn Spielen ungeschlagen Tabellenführer. Grønning trifft doppelt, Adewumi einmal, Pedersen bereitet zwei Tore vor."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "8fa7ee2f07",
@@ -240,6 +211,93 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-05T09:01",
+  "archiv": [],
+  "versuche": 2
+ },
+ {
+  "id": "180e404ed8",
+  "schluessel": "heidenheim|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Heidenheim",
+  "klubs": [
+   "Heidenheim"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Trainerbeben: Frank Schmidt verlässt Heidenheim",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOU9tSF94ZTFTWTdfLWN6RVZ2djVCazdnWHlVV3dWY0R6YkJoeFFQZFk4akRGakxXbzQxTFdTWGxYYnpLVXlIYXl3bjVHNXk2X2l4OWFsbFYxR3Q5OTJrYkIyZUkySmNkMEhQQVd4alh0Q3EzX2I5bVZ0eENKS3hmemFCWEpKT1RVSGl5OEVCZ0JoZw?oc=5",
+    "aid": "dc687604ba",
+    "titel": "Trainerbeben: Frank Schmidt verlässt Heidenheim",
+    "quelle": "sport.de",
+    "beschr": " Trainerbeben: Frank Schmidt verlässt Heidenheim &nbsp;&nbsp; sport.de ",
+    "zeit": "2026-11-03T20:18"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-05T12:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "931e965ef1",
+  "schluessel": "cottbus|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Cottbus",
+  "klubs": [
+   "Cottbus"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Energie Cottbus: Das steckt hinter dem Lob von Wollitz für Präsident Lemke",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOHVLSzhRbXltci1vTTZ3bk52dlJrV25leU9MX1FuZ29YODh5UWNEYTlIWVZjWlNnbm42dXVjSWZWX0xsakg4QUx0eXVIUVZmcXR2STVLZ2JybUpVaFp4eDdNWlVBYWhmQ0UwN2JBamVSeEtfaEFUOFUxbzByMG4tc0dNOS1TRmdCZU5oU09tWlhCd2tYYzhOdzdHMVhfaDJsdVh0T2pWMWtzaFJMMjEtbEFTbVVFZFVqclp2aGZITnFmb05ieVBSenJNcnpYQ2sxdWJv?oc=5",
+    "aid": "cd5e4b7948",
+    "titel": "Energie Cottbus: Das steckt hinter dem Lob von Wollitz für Präsident Lemke",
+    "quelle": "Lausitzer Rundschau",
+    "beschr": " Energie Cottbus: Das steckt hinter dem Lob von Wollitz für Präsident Lemke &nbsp;&nbsp; Lausitzer Rundschau ",
+    "zeit": "2026-11-05T10:00"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-05T12:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "c31d37440c",
+  "schluessel": "cottbus|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Cottbus",
+  "klubs": [
+   "Cottbus"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Energie Cottbus: Wollitz warnt vor dem Kellerduell",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX0VBbmR1cnFMR1p5dDhXRzdfQWU3NHhJbGxZNWNCRFRTMzQ2ZUs4Ukc2b19VZWpjRVplZXFtSVk1TVkwZUF5d1J4WFRockFhQVc4OHZuYjJSWDhXanJMRi1TNXJvcmNxZWdLZ0JZd2M5aXM4LVFGMTN0aklqa2R4WTJ6YXJ1VFllbWY5SXExLTV1TS1uWHJUTmpxSEhtM09hcE9VLXhCZU0zZWFiV29ldQ?oc=5",
+    "aid": "09537f0473",
+    "titel": "Energie Cottbus: Wollitz warnt vor dem Kellerduell",
+    "quelle": "BZ Berlin",
+    "beschr": " Energie Cottbus: Wollitz warnt vor dem Kellerduell &nbsp;&nbsp; BZ Berlin ",
+    "zeit": "2026-11-05T11:23"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-05T12:01",
   "archiv": [],
   "versuche": 1
  }
