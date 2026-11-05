@@ -1,369 +1,5 @@
 [
  {
-  "id": "94184e02f1",
-  "schluessel": "heidenheim|transfer",
-  "person": "",
-  "spieler": [],
-  "klub": "Heidenheim",
-  "klubs": [
-   "Heidenheim"
-  ],
-  "stufe": "geruecht",
-  "klasse": "transfer",
-  "titel": "Schmidts Abschiedstournee beginnt: Junioren-Trainer ein Nachfolgekandidat",
-  "quellen": [
-   {
-    "url": "https://www.kicker.de/schmidts-abschiedstournee-beginnt-junioren-trainer-ein-nachfolgekandidat-1268594/artikel#omrss",
-    "aid": "a558d4f34f",
-    "titel": "Schmidts Abschiedstournee beginnt: Junioren-Trainer ein Nachfolgekandidat",
-    "quelle": "kicker 2. Bundesliga News",
-    "beschr": "Seit Dienstagabend ist es offiziell: Frank Schmidt wird den 1. FC Heidenheim am Ende dieser Saison als Trainer verlassen. Trotz des angekündigten Endes einer beispiellosen Ära ist Schmidt alles andere als eine \"lame duck\". Schließlich geht es auch noch um das Saisonziel.",
-    "zeit": "2026-11-04T19:28"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "u",
-  "erstmals": "2026-11-04T21:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "d7a1fc9811",
-  "schluessel": "nurnberg|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Nürnberg",
-  "klubs": [
-   "Nürnberg"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Neuer Sportvorstand beim 1. FC Nürnberg: Dieter Frey im Kurztalk",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRTNFNWc5a0tVb3BKZHBZUTN1NzJISHo4NmxwMmhtRnZJYkZuVWVKT3IwRmN5RHNRa3NTbkE0bmlyNFRBRTd5ZVEzTktTSlhQMDR6amdQQXYyUFlvbmhRZ2daOVNROVN0SllDT0cyQU1wMzdZaGNweDFNcE9lNFYtdm1jLVRuRy1pbEp1RWFqV0ZfbGE5R21QU2szdG42VlY2eExqelNzbnFZcEtDRDk2Q1Y0RGE?oc=5",
-    "aid": "63ee8c683e",
-    "titel": "Neuer Sportvorstand beim 1. FC Nürnberg: Dieter Frey im Kurztalk",
-    "quelle": "Franken Fernsehen",
-    "beschr": " Neuer Sportvorstand beim 1. FC Nürnberg: Dieter Frey im Kurztalk &nbsp;&nbsp; Franken Fernsehen ",
-    "zeit": "2026-11-04T18:05"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-04T21:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "2d403b5846",
-  "schluessel": "hannover|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hannover",
-  "klubs": [
-   "Hannover"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Neuer Sportdirektor in Hannover: 96-Patron Martin Kind wird der Chef-Aufpasser",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNLXZsQV9NUWdKM0pfbE5JUl8xSVlqQWxqbC0xVlVmLURxcFZRd2lmbVdNUlFmZGctenNGbzViaFFJX05weTZtNlJNa3JldENid29fTHVHOGQ3VkZqMkduNXFHQmlsMGtienA4elhrbVU3Qi15VVIzT251Q0NmZDhra2x4VjBuOEJaaHo0S1lYU2poNGZXRnRyS0M2c21sck8zNUU5WnhzVmp4Tko4dkU2WjVSY2IyWGo1UVJOdHZNeWlpSTg3a242ZDNraFBrcjdzUE9TM184ZXBrT3d5clctSEsxSzM?oc=5",
-    "aid": "5fc9e62d23",
-    "titel": "Neuer Sportdirektor in Hannover: 96-Patron Martin Kind wird der Chef-Aufpasser",
-    "quelle": "Neue Presse",
-    "beschr": " Neuer Sportdirektor in Hannover: 96-Patron Martin Kind wird der Chef-Aufpasser &nbsp;&nbsp; Neue Presse ",
-    "zeit": "2026-11-04T18:01"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-04T21:01",
-  "archiv": [
-   {
-    "id": "46380a1986",
-    "titel": "Wontorra stärkt Hannovers Trainer Wagner den Rücken",
-    "datum": "01.11.",
-    "stufe": "sonstiges",
-    "summary": "Moderatorin Laura Wontorra stärkt Hannovers Trainer Sandro Wagner, der nach vier Pflichtspielen noch sieglos ist, im Podcast „TOMorrow“ den Rücken. Sie traut ihm eine große Trainerkarriere zu."
-   },
-   {
-    "id": "afa3db9641",
-    "titel": "Hannover 96 trennt sich nach fünf Monaten von Sportchef Boldt",
-    "datum": "01.11.",
-    "stufe": "sonstiges",
-    "summary": "Hannover 96 hat Sport-Geschäftsführer Jonas Boldt nach nur fünf Monaten mit sofortiger Wirkung abberufen. Der Klub steht nach neun Spieltagen mit acht Punkten auf Platz 16."
-   },
-   {
-    "id": "cb0b737b08",
-    "titel": "Dynamo sucht in Hannover den ersten Auswärtssieg seit April",
-    "datum": "01.11.",
-    "stufe": "sonstiges",
-    "summary": "Dynamo Dresden will bei Hannover 96 den ersten Auswärtssieg seit 204 Tagen holen. Seit dem 2:0 in Nürnberg im April blieb das Team von Trainer Thomas Stamm auswärts acht Ligaspiele ohne Sieg."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "0a8a702657",
-  "schluessel": "frankfurt|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Frankfurt",
-  "klubs": [
-   "Frankfurt",
-   "Heidenheim"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Eintracht Frankfurt - 1. FC Heidenheim: 13 Partien ohne Sieg: Heidenheim setzt Negativtrend fort - Bundesliga",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPZk9tNXYzVnA4cjdQc21IMllWZ0FxRDQ4VjVZcmtac0U0YThfSVZTMDdISHZmRGtYc01CYmNNUml3bWg1UXJubllLaDZFSFdER1FZMjVYbFhxX2NleWdaZWRSNlpsYU5mMDkwaEtmSHQwWjZuTTVZS0pWNkpjUGZEUmN3cWwxWDFVOEsxSDB1eEh1THprZjlkN1MtWFU2alFjVmVIMTZZYXpvQzFXYXVWWjI3V014b2M4d2V2UFdsa05FM0gxaGtsNDZXY3VkSjBTVEs4Y0MxOEMwSm01Rm1SZVpGdFhhbllBTTNhdUhuNDN0WGdyRktvVk44TF93ZjN4OE1ZSnJLbE1VcXRLLU5RTjBUQQ?oc=5",
-    "aid": "0ab0d0b3c0",
-    "titel": "Eintracht Frankfurt - 1. FC Heidenheim: 13 Partien ohne Sieg: Heidenheim setzt Negativtrend fort - Bundesliga",
-    "quelle": "WELT",
-    "beschr": " Eintracht Frankfurt - 1. FC Heidenheim: 13 Partien ohne Sieg: Heidenheim setzt Negativtrend fort - Bundesliga &nbsp;&nbsp; WELT ",
-    "zeit": "2026-11-04T09:08"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-05T06:01",
-  "archiv": []
- },
- {
-  "id": "af5db58887",
-  "schluessel": "nurnberg|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Nürnberg",
-  "klubs": [
-   "Nürnberg",
-   "Kaiserslautern"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "1. FC Nürnberg - 1. FC Kaiserslautern",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSjBYZWtWLWsxVW1fMzlpTE5sY0tHUHlRYXY3aFNXdFBoMXA0Z01qRmpXRUs5ekliSnQtZzNadFZJckFzY193ZHMyVmdISmFhSlhHUk5oR1RLVHNUc3AxQWZoZjNBV3lIRUNJZzlqWEVLN1J3T0NWM2lYM3MyQlpqOEVCemw5enB2N3RIWVhHblhMZUx4OVE?oc=5",
-    "aid": "0c536f8051",
-    "titel": "1. FC Nürnberg - 1. FC Kaiserslautern",
-    "quelle": "Nordbayern",
-    "beschr": " 1. FC Nürnberg - 1. FC Kaiserslautern &nbsp;&nbsp; Nordbayern ",
-    "zeit": "2026-11-05T00:21"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-05T06:01",
-  "archiv": []
- },
- {
-  "id": "8b1d9757d2",
-  "schluessel": "nurnberg|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Nürnberg",
-  "klubs": [
-   "Nürnberg",
-   "Kaiserslautern"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "9. Spieltag: 1.FC Nürnberg - 1.FC Kaiserslautern - 1. FC Nürnberg - Forum | Sayfa 1",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM1lBSlM3MUREMjh5b0ZNcVF0OC14YlRMWkI5OGloZUxuNldkYTZtaHBlX3dYajI2Vk1MSDk0bUtzZXUzeDcxS240Z090S19LaDI2YlZpei1zSFZlWE1iaW1KSmxvWjdOaUNnMVprV2xhOF9vcnRKbVpCMFI5bENQNXlYV0JOdlZBZjBReGlIdVREcnBTcURwMDI2eTFHdUx1dDc5elpXZXpBSkZuTk5V?oc=5",
-    "aid": "17d0e1cea2",
-    "titel": "9. Spieltag: 1.FC Nürnberg - 1.FC Kaiserslautern - 1. FC Nürnberg - Forum | Sayfa 1",
-    "quelle": "Transfermarkt",
-    "beschr": " 9. Spieltag: 1.FC Nürnberg - 1.FC Kaiserslautern - 1. FC Nürnberg - Forum | Sayfa 1 &nbsp;&nbsp; Transfermarkt ",
-    "zeit": "2026-11-04T17:53"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-05T06:01",
-  "archiv": []
- },
- {
-  "id": "a572586d00",
-  "schluessel": "magdeburg|transfer",
-  "person": "",
-  "spieler": [],
-  "klub": "Magdeburg",
-  "klubs": [
-   "Magdeburg"
-  ],
-  "stufe": "vollzogen",
-  "klasse": "transfer",
-  "titel": "Seit einem Jahr offiziell Magdeburgs Cheftrainer, aber: Sander wäre fast bei diesem Ost-Club gelandet",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWXlKcVZTVjNycXFDdkZVNVBkYjFCMXNRVUUwel83OURLRG5PUU1oZDJrVUdnT0dwcGM4WElwTGxsLXcyVDVnOGFZWTVlUnJNT0tyd3RPcHpjZHNwaHN0dXhpWmJRTHRKazFycnkzYUc0eldEaWRRcWlPMC1UUzk3dUxzSXE1MzhuNXlMc3RlRXl0Wm45RlFfaGMtLXpvUlZqaUM2SlVPWjhrMHZyeTk5aVpvQ2RuMk4yTm1qaFBrZlE3ZnJoQnhmTnFnX2VQMmxLbHp5a05VcU5Kc3ha?oc=5",
-    "aid": "542af00886",
-    "titel": "Seit einem Jahr offiziell Magdeburgs Cheftrainer, aber: Sander wäre fast bei diesem Ost-Club gelandet",
-    "quelle": "TAG24",
-    "beschr": " Seit einem Jahr offiziell Magdeburgs Cheftrainer, aber: Sander wäre fast bei diesem Ost-Club gelandet &nbsp;&nbsp; TAG24 ",
-    "zeit": "2026-11-05T06:00"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-05T06:01",
-  "archiv": []
- },
- {
-  "id": "584aa910b3",
-  "schluessel": "bielefeld|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Bielefeld",
-  "klubs": [
-   "Bielefeld"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Istanbul | Dämpfer für Liverpool - Valverde rettet Real",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNejFUS2hlaWRxbWIwZEhFU2Q5eks2YlpQOXRDVU85NG1zSU5tSWRUdnhueDFnQ1BTLUJaYnd4WFk4VHQ1bWZqbWtrNWVkTERQb0E3UGw4LUlYRjZ4X3N0U1pYX29YNnhXaVBSQ3lzOXdnR3Z6bmZJeE5yRXB5c3lpV0drMFNual9rajdWU01lMmZPbEhaQ1lsQ3VNc2ltSVpxcTAxTVZ4Y2g0RkItUWRfNA?oc=5",
-    "aid": "f43c076470",
-    "titel": "Istanbul | Dämpfer für Liverpool - Valverde rettet Real",
-    "quelle": "Radio Bielefeld",
-    "beschr": " Istanbul | Dämpfer für Liverpool - Valverde rettet Real &nbsp;&nbsp; Radio Bielefeld ",
-    "zeit": "2026-11-04T21:00"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-05T06:01",
-  "archiv": []
- },
- {
-  "id": "992ed725d4",
-  "schluessel": "bielefeld|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Bielefeld",
-  "klubs": [
-   "Bielefeld"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Das Wichtigste aus OWL: Frau in Bielefeld in Auto gezerrt & Schwänzen nimmt zu",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPVkxVandick1sOHk5SXdpWUhNWjRtRzlBcnpid0JlRS1NTDdGZzFnZnVvN05NaldGX0ZudjJIeE1pWkZJM1M2QnpVU0YtQzl4RXhvdlB2cGI4X0cxMGVwNVdCaHBxNW1jejM1bFBZM2Nab19fS2NVNDU2VTMxSDgwVnQ4SnVHMEdCdE9ad25telFmWHpqSl9WWC13X2E5WFlRLVNYOGpFOFhLeURMQmdaQ1phcmo2Y1I5RDNrUW9YdlN6QnA1TTVwa3BReUtpTUxneDRYRkZMbF9sdUV0Zk8wLTBXbFZUWUFKc045Q2g3NjhRUlZSamZ1S0g3U1EtSmRMUUtqRW1hem9mZw?oc=5",
-    "aid": "3e499e58ac",
-    "titel": "Das Wichtigste aus OWL: Frau in Bielefeld in Auto gezerrt & Schwänzen nimmt zu",
-    "quelle": "Neue Westfälische",
-    "beschr": " Das Wichtigste aus OWL: Frau in Bielefeld in Auto gezerrt & Schwänzen nimmt zu &nbsp;&nbsp; Neue Westfälische ",
-    "zeit": "2026-11-04T20:04"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-05T06:01",
-  "archiv": []
- },
- {
-  "id": "e034a4f17f",
-  "schluessel": "bielefeld|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Bielefeld",
-  "klubs": [
-   "Bielefeld"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Berlin | Zverev kontert Becker: Erzählt «relativ viel Blödsinn»",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUjlqWHc2a0V5Vm9wMWF6MUVtUmdtSzZhRXJNcURxY1pBeGhtTnh2cDlBWmNtX2RMNkNEUXFLekd1VnFsLXVLUEZYYlFINGpWNS1yWW5HTGZscTI5bGVNekJ6TTd4cmM1aUVJMHB4RlJBSXFLTGY5Z1ktUXUzR3FJRVRsbkVrajBRdkp5RVBJZkZKa3ZjVXp4VTZId2NBRFY1YXpyN05ac3g4M3ZRcEV4YmlTX1pFQ24wVnc?oc=5",
-    "aid": "01b6a8d8a7",
-    "titel": "Berlin | Zverev kontert Becker: Erzählt «relativ viel Blödsinn»",
-    "quelle": "Radio Bielefeld",
-    "beschr": " Berlin | Zverev kontert Becker: Erzählt «relativ viel Blödsinn» &nbsp;&nbsp; Radio Bielefeld ",
-    "zeit": "2026-11-04T17:27"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-05T06:01",
-  "archiv": []
- },
- {
-  "id": "7ec8191029",
-  "schluessel": "bielefeld|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Bielefeld",
-  "klubs": [
-   "Bielefeld"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Madrid | Große Gedenkfeier für gestorbenen Fußballer Jesús de Miguel",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSkV3bXBpVlgzM3Jad1pObTJMX1B4NGVCMTRUeTA1ZHN2UGxWdWptTmpCY3p6Y0llZVRqUF9LdklvWTlRdlQteEs4bWVyeTlMZlNOWldpMmdGeWdvTkh1cHNqR2RpbjFzanY4bFpUWi1pWF9GdW1WV1ZnSVBRMUhrVTYyZHlOTE81TTlmdE5OR1Yyb1hhVmI5bml3b1ZvVjZNRnk4N004UXc1cnBBX2xoaFQzYjYwQl9FbUZRVTBTdVpzZm5JamZoUQ?oc=5",
-    "aid": "1e8fbf594a",
-    "titel": "Madrid | Große Gedenkfeier für gestorbenen Fußballer Jesús de Miguel",
-    "quelle": "Radio Bielefeld",
-    "beschr": " Madrid | Große Gedenkfeier für gestorbenen Fußballer Jesús de Miguel &nbsp;&nbsp; Radio Bielefeld ",
-    "zeit": "2026-11-04T14:56"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-05T06:01",
-  "archiv": []
- },
- {
-  "id": "7dec85a644",
-  "schluessel": "dresden|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Dresden",
-  "klubs": [
-   "Dresden"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Biathlon: Der erfolgreichste Trainer der Welt wird 75 - und stammt aus Dresden",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMGltU0VKQTF1RzZxbnRDTGpyUXBWS2NTRjdnZWd1dm5adjREQ1V5Q3JPQk1NLTVrLWhYVm5jWVFNakFPclNGWTdOUEVRNU1IQktmSl9LX1FJX1J6cEE1M0Nsd0lYNkJPeDNtOHZNTEIxQ0t4RVc3NXg3YzZ2d0FHanNXRV91Y1F6TFJsTlpqeER5cldFM2R4R3Q3SnFIaGhNTW5HVmxvTERYSlJSbFhqeEU1T0VlR3FzbXpXTzZTYVJ1Qkg3ejVhWXlhSXhCNFZ3aWtEWTlOSnRLTmlHdFVYX3o4d9IB_wFBVV95cUxQcmlfQmszR3RYbXZnbjJKNXZDY0VoM0Vva0dveGtESzlIX0FWN3lIQnl3RkNtTS1HeVVxQXNTRlBrQ19XQkFneWVBWUNoV3pVNHFXTUJtbXlnUnJpamhPRTV0OGJNSzJZd0hPaThBVG1oc1QwcXZwVm5CZFNqaGxvYVZGYUo2eFVlSnpEVE9KUGZXck95ZDZDMEUzeVB5XzZJRzZvMVdlQ2EySVlGZnpudFVyeGJvcmFTcmx4MmktZ19EWDBFY2pxdWdNVTZBd2dUaE85T1NmSUluN1djQ3MyVEV2ci1TamVScEtxc3hIQzdtUWpPcV94SzB6SklBY3M?oc=5",
-    "aid": "79459b8f9f",
-    "titel": "Biathlon: Der erfolgreichste Trainer der Welt wird 75 - und stammt aus Dresden",
-    "quelle": "Sächsische Zeitung",
-    "beschr": " Biathlon: Der erfolgreichste Trainer der Welt wird 75 - und stammt aus Dresden &nbsp;&nbsp; Sächsische Zeitung ",
-    "zeit": "2026-11-05T04:59"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-05T06:01",
-  "archiv": []
- },
- {
   "id": "aa0d9ead1c",
   "schluessel": "cottbus|sonstiges",
   "person": "",
@@ -390,7 +26,7 @@
   "status": "u",
   "erstmals": "2026-11-05T06:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "60e4a111b0",
@@ -416,179 +52,195 @@
    }
   ],
   "archiv_status": "neu",
-  "prio": null,
-  "status": "",
+  "prio": 2,
+  "status": "n",
   "erstmals": "2026-11-05T06:01",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
-  "id": "69150dca69",
+  "id": "af899b9c9a",
+  "schluessel": "heidenheim|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Heidenheim",
+  "klubs": [
+   "Heidenheim"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Folgt dieser Trainer beim 1. FC Heidenheim auf Frank Schmidt?",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY0xUM0pUN21pRWUxU0pVcmM3dmJQZUNfOFFsQ0hUTDNmLWlweUVWNjAwX1F2bW9PM1BzTFVTandVdlFSSEVZUW5xSDBMZUVxQ2JLWEwxekszMzl4NDhvR3h0NGY2UVo1Uzk4TnZIeGdWcngzdUh6VDh3OE1YTC1XVG1obmdvOHY0N2U1aVlJdGNrV2JuRDZDZmRSNEF4QQ?oc=5",
+    "aid": "ab00c3fe9c",
+    "titel": "Folgt dieser Trainer beim 1. FC Heidenheim auf Frank Schmidt?",
+    "quelle": "sport.de",
+    "beschr": " Folgt dieser Trainer beim 1. FC Heidenheim auf Frank Schmidt? &nbsp;&nbsp; sport.de ",
+    "zeit": "2026-11-05T06:25"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-05T09:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "f9f19d30fc",
+  "schluessel": "dresden|kader",
+  "person": "",
+  "spieler": [],
+  "klub": "Dresden",
+  "klubs": [
+   "Dresden",
+   "Fürth"
+  ],
+  "stufe": "kader",
+  "klasse": "kader",
+  "titel": "Dynamo Dresden vs. Greuther Fürth: voraussichtliche Aufstellungen",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOckxXSjFfSVRzUW43ZUt4dzN2cHFBVEl5akJHMUtHLUFVMktUMXl2UWstV2tPejNSOWtlMjVtT3RSZjctRGE0OGMxd0pyUHdfeWtpQy1MZE5QQlRqZmVoOUtGZUV3aUZfeTdTbkF3cHNfcjY0dzVNcVNrcjBQekpKODk1d1VIbXk3ckJ0WTY0RFhPN3dBMF8wVmJ3dTktWkVkOHM0dGhQV2NNUVhPWDZoaW9DY1c?oc=5",
+    "aid": "30855c9464",
+    "titel": "Dynamo Dresden vs. Greuther Fürth: voraussichtliche Aufstellungen",
+    "quelle": "Tipico",
+    "beschr": " Dynamo Dresden vs. Greuther Fürth: voraussichtliche Aufstellungen &nbsp;&nbsp; Tipico ",
+    "zeit": "2026-11-05T08:01"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-05T09:01",
+  "archiv": [
+   {
+    "id": "a761ca495d",
+    "titel": "Dresden: Okpala fehlt aus sportlichen Gründen im Kader",
+    "datum": "01.11.",
+    "stufe": "kader",
+    "summary": "Dynamo Dresdens Kennedy Okpala fehlte dreimal in Folge im Spieltagskader, nach Angaben von Trainer Thomas Stamm aus sportlichen Gründen. Die Verspätung vor dem Magdeburg-Spiel sei abgehakt."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "eb210c6f53",
   "schluessel": "hertha|sonstiges",
   "person": "",
   "spieler": [],
   "klub": "Hertha",
   "klubs": [
+   "Hertha"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Warum sich Hertha BSC gerade anfühlt wie ein schlechter Traum",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeHdRNjdfczBEbnNUb0JxWGQ4MU1ZRWpLYkp5aEN0UnJaRjF4bDZZdlB3N3JBU2RzcFpibENLMm9zV3kxaWZmOTZmRk1Odmc4VmttZ2JjTGRTdk1lS2EwbUU1OE15ZjZHS2lJRnRvTndVMGVMYnlUN2VpTGpiNkFwZnpGM19DYWg1YkFTNmNnUkJVUXVDazJvMFA0N1hYSGNkRkt0dlY3Mk9rYlFwVHZHNGMyZjRYSFRFN1ltV0QzTU4?oc=5",
+    "aid": "9d35139715",
+    "titel": "Warum sich Hertha BSC gerade anfühlt wie ein schlechter Traum",
+    "quelle": "Berliner Morgenpost",
+    "beschr": " Warum sich Hertha BSC gerade anfühlt wie ein schlechter Traum &nbsp;&nbsp; Berliner Morgenpost ",
+    "zeit": "2026-11-05T06:01"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-05T09:01",
+  "archiv": [
+   {
+    "id": "c636d3e74a",
+    "titel": "Hertha im Pokal-Achtelfinale gegen Bayern live bei RTL",
+    "datum": "04.11.",
+    "stufe": "sonstiges",
+    "summary": "Hertha BSC spielt im DFB-Pokal-Achtelfinale am 1. Dezember um 20:45 Uhr gegen den FC Bayern München. RTL überträgt die Partie live."
+   },
+   {
+    "id": "f57eea9f29",
+    "titel": "Reese und Damar freuen sich auf Wiedersehen mit Hertha",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Wolfsburgs Fabian Reese und Muhammed Damar freuen sich auf das Spiel bei Tabellenführer Hertha BSC am Samstag. Beide haben eine Vergangenheit in Berlin und kommen nach dem 2:0 gegen Osnabrück mit Rückenwind."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "307f7d3709",
+  "schluessel": "hertha|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
    "Hertha",
-   "Wolfsburg"
+   "Bayern"
   ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Spielstatistik Hertha BSC - VfL Wolfsburg",
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "Hertha-Legende Granitza traut der Alten Dame den Pokal-Sieg gegen Bayern zu",
   "quellen": [
    {
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kZXpVZTZjUllkamxvelhrRDhob1I1cTFvWkQzQVZNTUlXVjlMbFc1YWxjS1NEZkd1RnByel9BdWs5cVFkNExremo4ZFFqRU91ZVlacmVqbjNkZDlKOVpCWUtHeVFzUlQyOU53bA?oc=5",
-    "aid": "c227f62569",
-    "titel": "Spielstatistik Hertha BSC - VfL Wolfsburg",
-    "quelle": "NDR.de",
-    "beschr": " Spielstatistik Hertha BSC - VfL Wolfsburg &nbsp;&nbsp; NDR.de ",
-    "zeit": "2026-11-04T23:07"
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd2xoVmp1dzVBdzMtQjY0OHV5ZWdTZXdqU2VoSlA5VEhCT0QycmFzb1RZb3VuSzQ0MGZ3Sk92QVo2eGVkd0dGVk1zM01SY1BrM09oM0tZOEUxdEdZdV9zWlQ5WWZWR1BKOE82NFJUSDhDT0NrYTJORnNtWFc1dnM5OE14c1JMYmkwSEdvMDhDVlBCX2lTTXlfNGhwZmotNGowY3hVTGNqSElPd3pMOHhtazlLVdIBuAFBVV95cUxOcEpteHRocUVpc0RHNC04Ym85VDlJMUgwWnBxLTBURHRweGprTWlmenpJLVpKc2M0TVA5MEhtSDB1T01GVVBfMFpIZ3BjY282R1hGclp3ME1TQlV2am5WMlpFLXR2emZjYnI4UHNlM0U0WUFWUDhVMzFnam54dXdFMlMtQklMUFI1UlJ4R0FTVHBmNEtBb1llQ0tiNl92dXVMSVR1MFJydTFiMHlZbUNPdEtSMlRieVRU?oc=5",
+    "aid": "ede959d113",
+    "titel": "Hertha-Legende Granitza traut der Alten Dame den Pokal-Sieg gegen Bayern zu",
+    "quelle": "Tribuna.com",
+    "beschr": " Hertha-Legende Granitza traut der Alten Dame den Pokal-Sieg gegen Bayern zu &nbsp;&nbsp; Tribuna.com ",
+    "zeit": "2026-11-05T08:00"
    }
   ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-05T06:01",
-  "archiv": []
- },
- {
-  "id": "7378187267",
-  "schluessel": "hamburger|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hamburger",
-  "klubs": [
-   "Hamburger"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Kiel-Hamburg: Bahn meldet stabile Strecke nach Chaos im Oktober",
-  "quellen": [
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-05T09:01",
+  "archiv": [
    {
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZzNuVWllOXV4U2dqSFpGVjVxcm5NYkIxX2x1T3J1MHJBR3NWN0xybmhKZWNzYUNabW9FTEplQ3Z2cnhmVkd6NGFlZU9fWTdfZFdnYW9SUUxhS1IydWZQbXgyQzF3Wnh0NUctNFFVeUk5R3NaS2FHV3FoSVAtdWNBQ0psV0VRNUwtS09KTEJwcEU4aDJnUUxJOFZHZTR2OXRnd0dxRTBVSjdObUZudG94NGZpVmpNQ194UE5FMWd3YVVRUGFXYnpud1lvODNKLXpVZFpXYdIB8AFBVV95cUxNRXV0dkZjeFlNT0lKY3gyMEZDeEVJWW5CYUZxY19ibUJVa3BNU01ESU81Ykl2S3ZxR2p3T2w2cnNLZ0hIWWw4Nm80Vk9zTklvbGJvc0lpV2hYa3FXMnl2VnJXcjZ2SU9QZ3dFem5fREpFb0VYUTJwRy1DQmNhV1VnWC1TRmhhVlpCNmZQMGc0RW8tMm1wLWltdFRfOFdaLUZfTHo5dWxKWXNIRG5DSUpnWndseVdDRXVoT3VGbVhCclg2MEJKOEhUektTODJLaTZWX0pBSHhQdW9ja1JIaXRJd29xMmdqMUppZm9lSmNPRVE?oc=5",
-    "aid": "73443e189e",
-    "titel": "Kiel-Hamburg: Bahn meldet stabile Strecke nach Chaos im Oktober",
-    "quelle": "Kieler Nachrichten",
-    "beschr": " Kiel-Hamburg: Bahn meldet stabile Strecke nach Chaos im Oktober &nbsp;&nbsp; Kieler Nachrichten ",
-    "zeit": "2026-11-04T16:44"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-05T06:01",
-  "archiv": []
- },
- {
-  "id": "a6ef6fed44",
-  "schluessel": "karlsruhe|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Karlsruhe",
-  "klubs": [
-   "Karlsruhe"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Kehrtwende: Karlsruher SC steigt jetzt wieder auf",
-  "quellen": [
+    "id": "b2e2c3e675",
+    "titel": "Hengen nach 0:3 gegen Hertha: „Sind in einem Prozess“",
+    "datum": "02.11.",
+    "stufe": "spielbericht",
+    "summary": "Kaiserslauterns Geschäftsführer Thomas Hengen wertet das 0:3 gegen Hertha BSC als Dämpfer, nicht als Rückschlag. Er lobt Rückkehrer Ivan Prtajin und nennt das Auswärtsspiel in Osnabrück einen Prüfstein."
+   },
    {
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN3NzTmtZak0zeEFHdTM4Ny1nWktQUnA0Y3RScFdySGhQYm5UemQ5aTdJRVUtOHg2aWNOOEVNeUZpMWI3TF9NMnBaNTFFYUk0bm5nRVNPdGs4NG12ZjFqMVMtYkdRUy1EQUE0aklTLUVudEk0VWVGeWN2QkZxcmFVMm9uenltU3lYeW5kNmJxMDFRRmw5VUJnTVQySm9GeGM?oc=5",
-    "aid": "c100c57843",
-    "titel": "Kehrtwende: Karlsruher SC steigt jetzt wieder auf",
-    "quelle": "Karlsruhe Insider᠋",
-    "beschr": " Kehrtwende: Karlsruher SC steigt jetzt wieder auf &nbsp;&nbsp; Karlsruhe Insider᠋ ",
-    "zeit": "2026-11-04T23:50"
+    "id": "0c7fc3ed29",
+    "titel": "Hertha siegt in Kaiserslautern 3:0 und bleibt Spitzenreiter",
+    "datum": "01.11.",
+    "stufe": "spielbericht",
+    "summary": "Hertha BSC gewinnt beim 1. FC Kaiserslautern 3:0 und bleibt nach zehn Spielen ungeschlagen Tabellenführer. Grønning trifft doppelt, Adewumi einmal, Pedersen bereitet zwei Tore vor."
    }
   ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-05T06:01",
-  "archiv": []
+  "versuche": 1
  },
  {
-  "id": "faccbb4021",
-  "schluessel": "kaiserslautern|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Kaiserslautern",
-  "klubs": [
-   "Kaiserslautern",
-   "Darmstadt"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "OPENING - 👿 1. FC KAISERSLAUTERN Vs. SV DARMSTADT 98 ⚜️ | Palzlied & Choreo | 5.9.2026 Rebel Wilson (PvnIwKY6iU)",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLXzRoOWF6aVNnV1N4aGRJdEZlUHVYY3pMdkVEdzdOZWJvUTJSUzNBaVlRZERGMy1SOVIxM1RBT2dBdWRRMzBwcl82dkxxalBvZGZ6WFVmekJYWXFCQ0JXaWFiYjg0cTNOVXZJ?oc=5",
-    "aid": "abcd309638",
-    "titel": "OPENING - 👿 1. FC KAISERSLAUTERN Vs. SV DARMSTADT 98 ⚜️ | Palzlied & Choreo | 5.9.2026 Rebel Wilson (PvnIwKY6iU)",
-    "quelle": "Unisba Media",
-    "beschr": " OPENING - 👿 1. FC KAISERSLAUTERN Vs. SV DARMSTADT 98 ⚜️ | Palzlied & Choreo | 5.9.2026 Rebel Wilson (PvnIwKY6iU) &nbsp;&nbsp; Unisba Media ",
-    "zeit": "2026-11-04T14:18"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-05T06:01",
-  "archiv": []
- },
- {
-  "id": "07c00deb79",
-  "schluessel": "bochum|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Bochum",
-  "klubs": [
-   "Bochum"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Geplanter Überfall in Bochum: Urteil gegen „Ausbrecherkönig“ erwartet",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSjZUdGZtSkd5amV6WGdqMVRnRlF3WWxudXhnOFNCeXR4T3M5bTZfV0l5SFF3ZGpKMnBsTm5CZzhDcFJsOEk2TVFuWmxXNHVIQ1Nsam1zS1lYQWozTC1FdzYyS0NsNFpuM09GbFFWeXVHRGZXRHEyWjVqMVhLTU1YVmJxdVpyb0UyaUIxYjc1Q2p5ME1uTUk4cXluaVcxTEotSXVpM1VwQWN6bi1WS3RjZA?oc=5",
-    "aid": "74ba7ed44d",
-    "titel": "Geplanter Überfall in Bochum: Urteil gegen „Ausbrecherkönig“ erwartet",
-    "quelle": "STERN.de",
-    "beschr": " Geplanter Überfall in Bochum: Urteil gegen „Ausbrecherkönig“ erwartet &nbsp;&nbsp; STERN.de ",
-    "zeit": "2026-11-05T04:08"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-05T06:01",
-  "archiv": []
- },
- {
-  "id": "89b0e6e27e",
-  "schluessel": "wolfsburg|trainer",
+  "id": "8fa7ee2f07",
+  "schluessel": "wolfsburg|sonstiges",
   "person": "",
   "spieler": [],
   "klub": "Wolfsburg",
   "klubs": [
    "Wolfsburg"
   ],
-  "stufe": "entlassung",
-  "klasse": "trainer",
-  "titel": "VfL Wolfsburg: Was sich Klaus Allofs und Dieter Hecking zehn Jahre nach dem Rauswurf zu sagen hatten",
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Vorm Wiedersehen: Welches Detail Dieter Hecking über den Wechsel von Fabian Reese zum VfL Wolfsburg verriet",
   "quellen": [
    {
-    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOQV9uUnFjNm5IMnhBaWJIZ0MtbDE0VHUteG1kNjgyaDk2LTVTMTZlYzE2aVpFNnNLRWZJdXBWX2pEcEZPTkFVWjYxNDVHTGtFLUhYb3lvUnFCSnIyUTd5bEJtaXFYcTVraHZiSDdoeGh3MEhzNUdwZHVyMURYaFJXZVpoaXdmX3QyaEZXT2xydkNIZGhNT19mQkdTYW0yYVRuTWZVTC1mN1N4eEpzaXZiNjA1ZjRERDl2MVBnWFZJRjBQNlFET0ZhYTMwdC1ZMHAxTktoSkdQaWdkeWNwdGVORHlpY09Ea1U4cjNJWnA5RXZMdkhCczd2UzFhLWpQUkgxckHSAZ4CQVVfeXFMT0QxRGd0MW9fZ1JNNENqVnhETUJQQkJDZE5WZjVTdUszVEVIS19NZGRhOTJ3WDNYWXRtTmdLMkJlWEhoYVR6SzQ2dHJTNG5feUVqcktnS1pkTWFDY3F4VERLNlNXZTdZWlY0VWNjZTB3eTliajVnekNWemE2WHZwb1BvMExVUXFoRmc4Qlc0TlVMaTIyajNORmo5WEdPaDVsUTJKYlhyZ1lmcWJ5dUEzbkFibFd0bXhobTRZQzljYWJNSTROYnR6MUZERWl1eVBGOHJiMktRZVViSV8yYWN6WFdiWjNBWjZhbnN0VmVaWEl6bkJDN1REWjZBN2tCUVFQR2plRkhOUU1sTi1TWENwWG9xZmRXUldGOXZlSVJTQQ?oc=5",
-    "aid": "f0d98dc3b2",
-    "titel": "VfL Wolfsburg: Was sich Klaus Allofs und Dieter Hecking zehn Jahre nach dem Rauswurf zu sagen hatten",
+    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQOUlaR2QyU2gxbXpuV0dKcWF0X0pQd3VHNllnUDl3R1VaMS10cUoycnY4eFVjR0RCd0JqTVA2UHFUR2tUanNQTzg2aUxZTlU0WkpOeUR2Q0dENlozMTFaZXhyMkdBalhtaXlDcXB3SWpXZmRycGdqWTVUZGhwTnZock9hTUQxbUdFclZNRmFBNlh0UVFkWWpnT2hWdFRscUdqc1M3Rzd4UUFjSnZrRzI0aDlTNGk2dW9FU3dJVVlkRl90ckhxWjZ0c0NXV1VwdEZabC1ISU9OU2lEX09GMkhTaEI2MFBYUUhxaE9EQ0JnQXkxWWNYa2xORGY4MHdBX1oxckHSAZ4CQVVfeXFMT2NyeGpGX0h5WUN6cFZhaWdaWGVtY05rbmF3TGdVc3JuV3dVSlAwM2UycGRsSXJYLUtVTGQ5TENJYm83ckhBTDl3ZmtjWnpsdmVndWd5d3JySlRxaTlVSGExdHNYUmMxR0d4YW4zS1VWRHowaVRxbkVnb0RuTDAxR3I2aUVnaTVQSUhkYzl4X3d6OE81VUJ6T2JhQVNxMFMwUU1BZnJUajRoSEdxWHRDTHVfZGdFUHNvbWEtVlpDbWVoUFBoUm1iQlNTX0VUSEJTTUtaRE8td19hNTB5aDc5SUh6dDJXY0RKNFhnanU1VmkzaXFFUmluRDM0SmFMSGV0bHJ6M2JCdlk2OHpwNnNDcnBMckJIb1Z2MHU0SThHZw?oc=5",
+    "aid": "1fb8b5c93d",
+    "titel": "Vorm Wiedersehen: Welches Detail Dieter Hecking über den Wechsel von Fabian Reese zum VfL Wolfsburg verriet",
     "quelle": "WAZ-ONLINE.de",
-    "beschr": " VfL Wolfsburg: Was sich Klaus Allofs und Dieter Hecking zehn Jahre nach dem Rauswurf zu sagen hatten &nbsp;&nbsp; WAZ-ONLINE.de ",
-    "zeit": "2026-11-04T21:21"
+    "beschr": " Vorm Wiedersehen: Welches Detail Dieter Hecking über den Wechsel von Fabian Reese zum VfL Wolfsburg verriet &nbsp;&nbsp; WAZ-ONLINE.de ",
+    "zeit": "2026-11-05T06:36"
    }
   ],
   "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-05T06:01",
-  "archiv": []
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-05T09:01",
+  "archiv": [],
+  "versuche": 1
  }
 ]
