@@ -1,92 +1,5 @@
 [
  {
-  "id": "180e404ed8",
-  "schluessel": "heidenheim|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Heidenheim",
-  "klubs": [
-   "Heidenheim"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Trainerbeben: Frank Schmidt verlässt Heidenheim",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOU9tSF94ZTFTWTdfLWN6RVZ2djVCazdnWHlVV3dWY0R6YkJoeFFQZFk4akRGakxXbzQxTFdTWGxYYnpLVXlIYXl3bjVHNXk2X2l4OWFsbFYxR3Q5OTJrYkIyZUkySmNkMEhQQVd4alh0Q3EzX2I5bVZ0eENKS3hmemFCWEpKT1RVSGl5OEVCZ0JoZw?oc=5",
-    "aid": "dc687604ba",
-    "titel": "Trainerbeben: Frank Schmidt verlässt Heidenheim",
-    "quelle": "sport.de",
-    "beschr": " Trainerbeben: Frank Schmidt verlässt Heidenheim &nbsp;&nbsp; sport.de ",
-    "zeit": "2026-11-03T20:18"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-05T12:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "931e965ef1",
-  "schluessel": "cottbus|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Cottbus",
-  "klubs": [
-   "Cottbus"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Energie Cottbus: Das steckt hinter dem Lob von Wollitz für Präsident Lemke",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOHVLSzhRbXltci1vTTZ3bk52dlJrV25leU9MX1FuZ29YODh5UWNEYTlIWVZjWlNnbm42dXVjSWZWX0xsakg4QUx0eXVIUVZmcXR2STVLZ2JybUpVaFp4eDdNWlVBYWhmQ0UwN2JBamVSeEtfaEFUOFUxbzByMG4tc0dNOS1TRmdCZU5oU09tWlhCd2tYYzhOdzdHMVhfaDJsdVh0T2pWMWtzaFJMMjEtbEFTbVVFZFVqclp2aGZITnFmb05ieVBSenJNcnpYQ2sxdWJv?oc=5",
-    "aid": "cd5e4b7948",
-    "titel": "Energie Cottbus: Das steckt hinter dem Lob von Wollitz für Präsident Lemke",
-    "quelle": "Lausitzer Rundschau",
-    "beschr": " Energie Cottbus: Das steckt hinter dem Lob von Wollitz für Präsident Lemke &nbsp;&nbsp; Lausitzer Rundschau ",
-    "zeit": "2026-11-05T10:00"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-05T12:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "c31d37440c",
-  "schluessel": "cottbus|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Cottbus",
-  "klubs": [
-   "Cottbus"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Energie Cottbus: Wollitz warnt vor dem Kellerduell",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX0VBbmR1cnFMR1p5dDhXRzdfQWU3NHhJbGxZNWNCRFRTMzQ2ZUs4Ukc2b19VZWpjRVplZXFtSVk1TVkwZUF5d1J4WFRockFhQVc4OHZuYjJSWDhXanJMRi1TNXJvcmNxZWdLZ0JZd2M5aXM4LVFGMTN0aklqa2R4WTJ6YXJ1VFllbWY5SXExLTV1TS1uWHJUTmpxSEhtM09hcE9VLXhCZU0zZWFiV29ldQ?oc=5",
-    "aid": "09537f0473",
-    "titel": "Energie Cottbus: Wollitz warnt vor dem Kellerduell",
-    "quelle": "BZ Berlin",
-    "beschr": " Energie Cottbus: Wollitz warnt vor dem Kellerduell &nbsp;&nbsp; BZ Berlin ",
-    "zeit": "2026-11-05T11:23"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-05T12:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
   "id": "eedbb6d19e",
   "schluessel": "hertha|sonstiges",
   "person": "",
@@ -122,44 +35,7 @@
     "summary": "Wolfsburgs Fabian Reese und Muhammed Damar freuen sich auf das Spiel bei Tabellenführer Hertha BSC am Samstag. Beide haben eine Vergangenheit in Berlin und kommen nach dem 2:0 gegen Osnabrück mit Rückenwind."
    }
   ],
-  "versuche": 1
- },
- {
-  "id": "568f746a19",
-  "schluessel": "hertha|verletzung",
-  "person": "",
-  "spieler": [],
-  "klub": "Hertha",
-  "klubs": [
-   "Hertha"
-  ],
-  "stufe": "rueckkehr",
-  "klasse": "verletzung",
-  "titel": "Brisante Rückkehr nach Berlin: Reese trifft erstmals auf Ex-Klub Hertha",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLTJKd1B1cFlWalZYSEFuM3BNMnItellUanNHRVpiMlpYT2JGa0o0THA4V0FiTHZDUEpjd0FyUjVfZEx3bWg2aG55VnlXU0hkVWxpWE1uaXR5bmpvVXJSWEpmSGpvaG9LUDBjUjJJbnlmckZPOWJncER5QmdkRVE1bTdmZ3I2eVVaUFVPVkpXVVNMT1JCbGYxc2NSdVMtRkpnajdJaFNWX2JidmpLZGJBV2hTUWF3UGUxa0VWbDdjaEhSQQ?oc=5",
-    "aid": "9c80a3cdbf",
-    "titel": "Brisante Rückkehr nach Berlin: Reese trifft erstmals auf Ex-Klub Hertha",
-    "quelle": "Sky.de",
-    "beschr": " Brisante Rückkehr nach Berlin: Reese trifft erstmals auf Ex-Klub Hertha &nbsp;&nbsp; Sky.de ",
-    "zeit": "2026-11-05T14:17"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-05T15:01",
-  "archiv": [
-   {
-    "id": "f32559af08",
-    "titel": "Hertha vor Wolfsburg: Nilsson und Dardai zurück im Training",
-    "datum": "03.11.",
-    "stufe": "rueckkehr",
-    "summary": "Herthas Stürmer Gustaf Nilsson und Innenverteidiger Marton Dardai sind nach Verletzungen ins Mannschaftstraining zurückgekehrt. Am Samstagabend wartet im Olympiastadion das Topspiel gegen Wolfsburg."
-   }
-  ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "6271b58227",
@@ -188,7 +64,7 @@
   "status": "n",
   "erstmals": "2026-11-05T15:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "3028718a8a",
@@ -217,7 +93,7 @@
   "status": "n",
   "erstmals": "2026-11-05T15:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "bbdf4aa857",
@@ -246,6 +122,437 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-05T15:01",
+  "archiv": [],
+  "versuche": 2
+ },
+ {
+  "id": "61ea135056",
+  "schluessel": "furth|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Fürth",
+  "klubs": [
+   "Fürth",
+   "Hertha",
+   "Wolfsburg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Leitl über Reese: \"Es ist nichts hängen geblieben\"",
+  "quellen": [
+   {
+    "url": "https://www.kicker.de/leitl-ueber-reese-es-ist-nichts-haengen-geblieben-1268925/artikel#omrss",
+    "aid": "7dce33c8cd",
+    "titel": "Leitl über Reese: \"Es ist nichts hängen geblieben\"",
+    "quelle": "kicker 2. Bundesliga News",
+    "beschr": "Beide arbeiteten in Fürth und Berlin zusammen. Jetzt muss Stefan Leitl mit Hertha BSC den Neu-Wolfsburger Fabian Reese stoppen - und warnt vor einer Überfrachtung.",
+    "zeit": "2026-11-05T16:17"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-05T18:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "29f3ab6a09",
+  "schluessel": "wolfsburg|kader",
+  "person": "",
+  "spieler": [],
+  "klub": "Wolfsburg",
+  "klubs": [
+   "Wolfsburg",
+   "Hertha"
+  ],
+  "stufe": "kader",
+  "klasse": "kader",
+  "titel": "\"Wenn es er wäre\": Strobl kündigt Kader-Überraschung an",
+  "quellen": [
+   {
+    "url": "https://www.kicker.de/wenn-es-er-waere-strobl-kuendigt-kader-ueberraschung-an-1268917/artikel#omrss",
+    "aid": "8411a0fb15",
+    "titel": "\"Wenn es er wäre\": Strobl kündigt Kader-Überraschung an",
+    "quelle": "kicker 2. Bundesliga News",
+    "beschr": "Der VfL Wolfsburg steht vor dem Topspiel bei Hertha BSC. Für Tobias Strobl ein Duell, das natürlich einen besonderen Stellenwert hat, bei dem er aber keine Rechenspiele anstellt. Geäußert hat sich der Coach auch zu Fabian Reese und weiteren Personalien.",
+    "zeit": "2026-11-05T16:16"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-05T18:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "bd2ce47119",
+  "schluessel": "kiel|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Kiel",
+  "klubs": [
+   "Kiel",
+   "Bielefeld"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Holstein Kiel: Schonlau und Skrzybski fit – wer spielt gegen Arminia Bielefeld?",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVjhRS0FqazIyal9BNGVKNVdWT2tMbTY4NkVHQjdOOTF5OFhyczRoRUw1Rld5RklMX2FsNlZuNFhGTWdia2lSME5USDNyZldTYlZaRHJQd0xUNlVxNjEwUlpvLWdSRWN3NlpwUjRvWE5DeG5JTlFpNWwyd2JxRVNrV1ZlYTBSZjdXdzNtTm5UOGFnbWFIampSdTNZMUt3MzRpa0M1cmc0N1gydkxuNWFWVXNncGRxTlNEbnNYS25UYWx5QVlZbDFtWE9HZ00xcFZhUjNFdHdZZmZCeGJiWWtad9IB_AFBVV95cUxQbU1TdkhvNU55V255VG9QNmwteWFZdWxfbloteVMwNTdQNl9kLVZfdU5ZYTB1czdQYV9MdXN2VHFMRDFWdXM3OEltdWR6N2poMlBEMVdOc2JwLXItNHpoa2NNaGpYYms4M2N6WTZQalNobF9QXzViZmdMcWdnXzZEVzJhMWZVTks5SUxORUFkd1VGS05PZWJjSUdFbHBhVEhCQVhFN3ZwMnBCU2dsUVF2cWRpNlpySldneHRLM0pJR01KM2JUbXN4OFZudWtQYUE0U3JBVkE1c18zVl9saEhJcUxqaUUzLXp1SHJMZHRfdjZjUEdYRjBQOFg0OC0?oc=5",
+    "aid": "424ff7a4ee",
+    "titel": "Holstein Kiel: Schonlau und Skrzybski fit – wer spielt gegen Arminia Bielefeld?",
+    "quelle": "Kieler Nachrichten",
+    "beschr": " Holstein Kiel: Schonlau und Skrzybski fit – wer spielt gegen Arminia Bielefeld? &nbsp;&nbsp; Kieler Nachrichten ",
+    "zeit": "2026-11-05T15:20"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-05T18:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "9709d7df76",
+  "schluessel": "dresden|kader",
+  "person": "",
+  "spieler": [],
+  "klub": "Dresden",
+  "klubs": [
+   "Dresden",
+   "Fürth"
+  ],
+  "stufe": "kader",
+  "klasse": "kader",
+  "titel": "Dynamo Dresden Aufstellung: Startelf gegen Greuther Fürth - Stamm wischt Sorgen weg",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQVh4MnVxTUQ0U0Q2SUhUSWtiem5yNlZaSG5zejJfcFI0R1NGVHVIUk1iM3BGWkRJTVlMS0ZGV19yT1dEbHBDU2o5ald1N2ROaGRCOVd4MXdvajk2U1NJU2pEdUhCbWpITTU1SWREcG9KcmZia3hyLW1tcmppVDZsU0tFaHV6bWJLVVVVaDhCS25Fa3ktVjhyWWp5Q2t6OFo4bUcxcHdxalFDZDJRSmI2WHJiajMtZ2JlNklWOGtwUUpqeEcxazRQUU9QUDBFSmdGanNSdVJkYWlCd2N6RVVV?oc=5",
+    "aid": "d459d8463f",
+    "titel": "Dynamo Dresden Aufstellung: Startelf gegen Greuther Fürth - Stamm wischt Sorgen weg",
+    "quelle": "Lausitzer Rundschau",
+    "beschr": " Dynamo Dresden Aufstellung: Startelf gegen Greuther Fürth - Stamm wischt Sorgen weg &nbsp;&nbsp; Lausitzer Rundschau ",
+    "zeit": "2026-11-05T16:30"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-05T18:01",
+  "archiv": [
+   {
+    "id": "a761ca495d",
+    "titel": "Dresden: Okpala fehlt aus sportlichen Gründen im Kader",
+    "datum": "01.11.",
+    "stufe": "kader",
+    "summary": "Dynamo Dresdens Kennedy Okpala fehlte dreimal in Folge im Spieltagskader, nach Angaben von Trainer Thomas Stamm aus sportlichen Gründen. Die Verspätung vor dem Magdeburg-Spiel sei abgehakt."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "127f05fdd6",
+  "schluessel": "hertha|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha",
+   "Wolfsburg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Ein Brisanzduell vor Rekordkulisse: Verspürt Hertha Druck vor Wolfsburg?",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMWFvOEkxZW9aQWJvNDZiOGp2SnlaenhiRURCdmdaZ19jbWQ2LWpvbGpldjI4RTA0LVNjSEJGVDNCeVU4bFFBY1IyRzlYS29qOG1Vc3FzYjFHaEt2SlViaWJuRzRlT0hXdUZWNmFtZGhJVW1pU2RKWl9TUzA2dGRHSFE1bVY2c01fZmF5VE1kTVpYc2N4Z2FRb3J3?oc=5",
+    "aid": "0bd778d210",
+    "titel": "Ein Brisanzduell vor Rekordkulisse: Verspürt Hertha Druck vor Wolfsburg?",
+    "quelle": "fussballdaten.de",
+    "beschr": " Ein Brisanzduell vor Rekordkulisse: Verspürt Hertha Druck vor Wolfsburg? &nbsp;&nbsp; fussballdaten.de ",
+    "zeit": "2026-11-05T15:24"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-05T18:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "7ecf4533dd",
+  "schluessel": "darmstadt|transfer",
+  "person": "",
+  "spieler": [],
+  "klub": "Darmstadt",
+  "klubs": [
+   "Darmstadt"
+  ],
+  "stufe": "geruecht",
+  "klasse": "transfer",
+  "titel": "Revanche im Visier: Club will gegen Darmstadt endlich wieder treffen",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXM4dzY3UUVTVm5VWnRYNFEybFlHeG5jV29XVXo2UFBBREk1Mk5Lemdwa3hhNk5ETnM5SjZURDlPQVItRllUbFE3amo3UV9pX1NKM1NYR3FPa0dLUWhfelFscEtyc1dDYWMxalpGVmRVVzZ0OHZMWWhYZjNVbXpaaVVRQVVab2NZUWJsM1pGMnRnbk1hQkFKdzRUYnRDbGJHWW8tNkdiamI0OUw0akV0cmRlSmF1Tms?oc=5",
+    "aid": "e8358336a3",
+    "titel": "Revanche im Visier: Club will gegen Darmstadt endlich wieder treffen",
+    "quelle": "Franken Fernsehen",
+    "beschr": " Revanche im Visier: Club will gegen Darmstadt endlich wieder treffen &nbsp;&nbsp; Franken Fernsehen ",
+    "zeit": "2026-11-05T16:34"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-05T18:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "e3238e7d09",
+  "schluessel": "nurnberg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Nürnberg",
+  "klubs": [
+   "Nürnberg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Neuer Sportvorstand beim 1. FC Nürnberg: Dieter Frey im Kurztalk",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44RlpvckxUQjA4TElyelBZT2JrZVBjTkR3akxjUUZLSE1IYXg1bW42MFJodUZlbEF5Qlo2Q2VOaDNJcXRCWnlLS3RXbzVVeFlFcWRLc013WWtZa0N5NVVTOU95LUE3LWJSU3lUdkNqNndOODI0dldXZkJYWGo?oc=5",
+    "aid": "c168e75faf",
+    "titel": "Neuer Sportvorstand beim 1. FC Nürnberg: Dieter Frey im Kurztalk",
+    "quelle": "Franken Fernsehen",
+    "beschr": " Neuer Sportvorstand beim 1. FC Nürnberg: Dieter Frey im Kurztalk &nbsp;&nbsp; Franken Fernsehen ",
+    "zeit": "2026-11-05T14:49"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "u",
+  "erstmals": "2026-11-05T18:01",
+  "archiv": [
+   {
+    "id": "3f63c5f30a",
+    "titel": "Nürnberg: Dieter Frey wird Nachfolger von Joti Chatzialexiou",
+    "datum": "05.11.",
+    "stufe": "sonstiges",
+    "summary": "Der 1. FC Nürnberg macht Dieter Frey zum Sportvorstand und Nachfolger des zu Eintracht Frankfurt wechselnden Joti Chatzialexiou. Frey war seit 2024 Sportlicher Leiter und stieg Anfang 2026 zum Direktor auf."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "248eb400ce",
+  "schluessel": "dresden|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Dresden",
+  "klubs": [
+   "Dresden"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Dynamo-Dresden-Blog: Stamm atmet auf - Er kann gegen seinen Ex-Verein spielen",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOGVjUVVyNzRNRmFOLXU0VGYzT3B1MUQyRVBLWnM1cDZIM2t1M0x3bGM1MDVSWnhFMDF3QXhwbEdyNkFCVkYzZmVsRFg5QzlnS3N1M0RQczBZQUhZMjkzMFljU3YtLTFmRGpkcG91QkpnYjBDNWFHc3hzTmYxVm02SUVOd2tJdFpFbUlXc0g3c2JyekJhVGtxb2N1eXB0NUw2YkRvSDVFWDAwRTB2NDVLR2l5WFR0bzVrZVBVenBTQnBpTHFleU9IYmlDTTZ3aEpFQ29HdmFOZHc0b2s?oc=5",
+    "aid": "cd10e9b647",
+    "titel": "Dynamo-Dresden-Blog: Stamm atmet auf - Er kann gegen seinen Ex-Verein spielen",
+    "quelle": "TAG24",
+    "beschr": " Dynamo-Dresden-Blog: Stamm atmet auf - Er kann gegen seinen Ex-Verein spielen &nbsp;&nbsp; TAG24 ",
+    "zeit": "2026-11-05T16:00"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-05T18:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "90dc8970de",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Überraschende Aussagen bei Hannover 96: So redet der glücklose Källman über Titz und Wagner",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMzFrN3Uxd0dCWGNwRkZjVXJGdDQ4RmdIdEZ6R0NlMnMyb1RkbjJnNXd0U0dGaHdlRjNtdVFlYmJLejRqd3NRQTZVNkNjaXFlbmxpb0hubGlPc3FJcWQzQ0hmS01Md1htZ2s3ZWJLNC1PR09NLVpTV0JXSWJ5Z01LM2tZVkN3akg4Sy04c0NHTTB5MmFuNjZGMzdQN19KUUxmcEJ4RUlxcUlMelJQcmZ2a2RMSHI0TWRmYXlubGQ4eHFqZFhLaHpUeTdicEYydk9raGwzNnlSenJ2dXVpRzJkaUtsWS1ZYWlWMUtQX2NvejJ6UC1ad0ZYdmE2Zw?oc=5",
+    "aid": "6c1231117e",
+    "titel": "Überraschende Aussagen bei Hannover 96: So redet der glücklose Källman über Titz und Wagner",
+    "quelle": "Neue Presse",
+    "beschr": " Überraschende Aussagen bei Hannover 96: So redet der glücklose Källman über Titz und Wagner &nbsp;&nbsp; Neue Presse ",
+    "zeit": "2026-11-05T15:57"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-05T18:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "ea335e8323",
+  "schluessel": "hertha|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Hertha BSC gegen Reese? Trainer Leitl hat eine klare Antwort",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcURVV1hRb0g2clhpZlhHSjZtM1Y3ZGQ1dHgwWW12QnJ0Vks1emJGM1lUTTBrUUJnV1NnSkxGaDYwN0hlMU5VTGQ3QUpiUHkyT0t0RkhaTE1za1prWjJxaEZQaVdIX3NsZ1JITlBESEw3eHJjbENFazlsU1VtUmlPWmVoNkNmX3h0VEg4QU9keHpnLWU1Zmk5cXJIaERZUk1kNVFzcHE3UHdfWWJic0g0dWctWTBPWHBET1RuTw?oc=5",
+    "aid": "9eeff86313",
+    "titel": "Hertha BSC gegen Reese? Trainer Leitl hat eine klare Antwort",
+    "quelle": "Berliner Morgenpost",
+    "beschr": " Hertha BSC gegen Reese? Trainer Leitl hat eine klare Antwort &nbsp;&nbsp; Berliner Morgenpost ",
+    "zeit": "2026-11-05T17:21"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-05T18:01",
+  "archiv": [
+   {
+    "id": "c636d3e74a",
+    "titel": "Hertha im Pokal-Achtelfinale gegen Bayern live bei RTL",
+    "datum": "04.11.",
+    "stufe": "sonstiges",
+    "summary": "Hertha BSC spielt im DFB-Pokal-Achtelfinale am 1. Dezember um 20:45 Uhr gegen den FC Bayern München. RTL überträgt die Partie live."
+   },
+   {
+    "id": "f57eea9f29",
+    "titel": "Reese und Damar freuen sich auf Wiedersehen mit Hertha",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Wolfsburgs Fabian Reese und Muhammed Damar freuen sich auf das Spiel bei Tabellenführer Hertha BSC am Samstag. Beide haben eine Vergangenheit in Berlin und kommen nach dem 2:0 gegen Osnabrück mit Rückenwind."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "b6fe8a5519",
+  "schluessel": "wolfsburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Wolfsburg",
+  "klubs": [
+   "Wolfsburg",
+   "Hertha"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Der VfL Wolfsburg vorm Spitzenspiel gegen Hertha BSC: „Es gibt Momente im Leben, die musst Du nicht verstehen“",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPbWhPZ1VQMDBRSlVXaGdoTi1Tb2ZuMU5hWlJ2ajRyQlJoSFhLVmlJNWpnVVplakpaX253Ml92TkhxZDJMaktxcmpzemJ4Xzh3OFY2LUlTaEktOHEyYVF0dDNvRTBKS1pXQkIwQ0FTLWczeUp5ZnBUQlVpTUwySHhvT3JSTzgzekVfanY5d1JpeFJodzljNGp1ZEFvNGs1aTRTN25nbEFoZ0R3RmJRVGRRbk1xRDljZlo2a1RsNmpHdnZ6cm5vX1c0aWp0R2NnQi1Ib21hdTZDY1RaQUxzdTlGbTg5Nk9mcTNaVzlnWDdfdTdWRlhvbThVd1JLekxyQdIBmgJBVV95cUxQQ1ZzYVpsWXkyY2ZQZE5kaXU2Q3BOSWNnVUl3U0tjOUtyNmdRN19DWEh6aHlLQ1d6ZWxKZW1FWVdNMU1fYjA2VFczZmt2LVBXcm1DS2FqMHVKc0x5dlFsVXJGak9TRGdzbDVRNHVKZXg5R0FyWTdyZE80LWh0WDh4eXB0LWNKVF9KZFRIVnJjZTJOd3EzRU1GQk5BeGhrMGg5TmY5eFoxNy1IaVYzRzE2VnhDbkVSaHA0TFJsYXE5MUdxVXRuOTF1N3Y1N1kyY2NsQ2lDalV0dHVQRlhFOEVJT0VEX2o5QThsYlZFcWd4UmNfd2o0WGdBcFlIV000X29EdzdhYkZQb3pkWFd2Y0lwRjBSaEZ6TUl0S0E?oc=5",
+    "aid": "e1a5bf6c8b",
+    "titel": "Der VfL Wolfsburg vorm Spitzenspiel gegen Hertha BSC: „Es gibt Momente im Leben, die musst Du nicht verstehen“",
+    "quelle": "WAZ-ONLINE.de",
+    "beschr": " Der VfL Wolfsburg vorm Spitzenspiel gegen Hertha BSC: „Es gibt Momente im Leben, die musst Du nicht verstehen“ &nbsp;&nbsp; WAZ-ONLINE.de ",
+    "zeit": "2026-11-05T16:00"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-05T18:01",
+  "archiv": [
+   {
+    "id": "f57eea9f29",
+    "titel": "Reese und Damar freuen sich auf Wiedersehen mit Hertha",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Wolfsburgs Fabian Reese und Muhammed Damar freuen sich auf das Spiel bei Tabellenführer Hertha BSC am Samstag. Beide haben eine Vergangenheit in Berlin und kommen nach dem 2:0 gegen Osnabrück mit Rückenwind."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "f075ae166c",
+  "schluessel": "kiel|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Kiel",
+  "klubs": [
+   "Kiel"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Vom Baby-Glück beflügelt: Wie Kvilitaia Holstein Kiel in der Krise helfen kann",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUlJlVWpVNjBabXVGZHZsbUxLNFhZeEpFdWRCR1hyY05vS2M3bFZFdVhwNTEzYVRNbGY5UnVFUkNuS0ZrQ185VGdwV3VHOEZlbkotd19BSVk0NEZCdUR4RlVtdjZaYmRuU1NnZTRSZGJHRHlFd3ZUeTJKOGdFODdTVzVzYVVFazB0QTZhc0RhWmhnLUpVUTFwdkhDay1GVVhaa19nS0hpWTk1MEFXZUZIcnhCN1FNUQ?oc=5",
+    "aid": "3231b61fb1",
+    "titel": "Vom Baby-Glück beflügelt: Wie Kvilitaia Holstein Kiel in der Krise helfen kann",
+    "quelle": "shz.de",
+    "beschr": " Vom Baby-Glück beflügelt: Wie Kvilitaia Holstein Kiel in der Krise helfen kann &nbsp;&nbsp; shz.de ",
+    "zeit": "2026-11-05T15:42"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-05T18:01",
+  "archiv": [
+   {
+    "id": "d9282c2c6e",
+    "titel": "DFB-Pokal: Holstein Kiel empfängt im Achtelfinale den 1. FC Köln",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Holstein Kiel bekommt im DFB-Pokal-Achtelfinale den Bundesligisten 1. FC Köln zugelost und hat Heimrecht. Gespielt wird am 1. und 2. Dezember 2026, der genaue Termin steht noch nicht fest."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "8a885ac02d",
+  "schluessel": "darmstadt|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Darmstadt",
+  "klubs": [
+   "Darmstadt"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Klose über Darmstadt: \"Will nicht Angstgegern sagen, aber ...\" | Fokus auf Offensive | Video",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNXllRV9aN2xpa0V1ejlqTzBiOUY1STNmWTBQdDVEMTM1MVZoRlhUUEZSVUs3SzVDdTN1MUhlM09iMDVPMVJ0SmpHR1JPM0FUYXFJMHJlekdjOGRocUpwaE8xd3VwdTI1amJYbndySFY5QzRHYkJlT21sa3QySzk5V0E3cHJicTFNaWJ4eC14aHJ6MUYxR0E?oc=5",
+    "aid": "d5e90213d6",
+    "titel": "Klose über Darmstadt: \"Will nicht Angstgegern sagen, aber ...\" | Fokus auf Offensive | Video",
+    "quelle": "Kicker",
+    "beschr": " Klose über Darmstadt: \"Will nicht Angstgegern sagen, aber ...\" | Fokus auf Offensive | Video &nbsp;&nbsp; Kicker ",
+    "zeit": "2026-11-05T17:26"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-05T18:01",
   "archiv": [],
   "versuche": 1
  }

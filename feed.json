@@ -1,5 +1,92 @@
 [
   {
+    "id": "0f621c17e7",
+    "titel": "FCM gegen St. Pauli: Wiedersehen mit Kaars und Mathisen",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "05.11.2026 18:05",
+    "wappen_url": "logos/magdeburg.png",
+    "vereine": [
+      "Magdeburg",
+      "St. Pauli"
+    ],
+    "anriss": "Der 1. FC Magdeburg empfängt am Wochenende im nächsten Heimspiel den FC St. Pauli. Dabei kommt es zum Wiedersehen mit zwei Ex-Magdeburgern: Stürmer Martijn Kaars und Innenverteidiger Marcus Mathisen stehen",
+    "spielerstatus": [
+      {
+        "spieler": "Zukowski",
+        "klub": "Magdeburg",
+        "status": "fraglich",
+        "grund": "Einsatz gegen St. Pauli weiter offen"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Magdeburg",
+    "pfad": "artikel/fcm-gegen-st-pauli-wiedersehen-mit-kaars-und-mathisen-0f621c17e7.html",
+    "bild_tm": ""
+  },
+  {
+    "id": "7e1135c173",
+    "titel": "Leitl vor Reese-Rückkehr: „Es geht um den VfL Wolfsburg“",
+    "kategorie": "interview",
+    "badge": "Interview",
+    "badge_bg": "#1976d2",
+    "badge_fg": "#fff",
+    "datum": "05.11.2026 18:04",
+    "wappen_url": "logos/hertha.png",
+    "vereine": [
+      "Hertha",
+      "Wolfsburg"
+    ],
+    "anriss": "Herthas Trainer Stefan Leitl will die Rückkehr von Fabian Reese vor dem Spitzenspiel gegen den VfL Wolfsburg nicht überhöhen. Der Tabellenführer der 2. Bundesliga empfängt am Samstag (20.30 Uhr) den",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Hertha",
+    "pfad": "artikel/leitl-vor-reese-rueckkehr-es-geht-um-den-vfl-wolfsburg-7e1135c173.html",
+    "bild_tm": ""
+  },
+  {
+    "id": "65e86f4d4a",
+    "titel": "Braunschweig fliegt nach Belek: Kornetka wollte das Wintertrainingslager",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "05.11.2026 18:04",
+    "wappen_url": "logos/braunschweig.png",
+    "vereine": [
+      "Braunschweig"
+    ],
+    "anriss": "Eintracht Braunschweig fährt im Januar erstmals seit vier Jahren wieder in ein reguläres Wintertrainingslager. Trainer Lars Kornetka bestätigte auf der Pressekonferenz vor dem Heimspiel gegen Energie Cottbus am 6. November,",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Braunschweig",
+    "pfad": "artikel/braunschweig-reist-ins-wintertrainingslager-kornetka-setzte-belek-65e86f4d4a.html",
+    "bild_tm": ""
+  },
+  {
+    "id": "5744ae1e73",
+    "titel": "Kiel gegen Bielefeld: Walter fordert mehr Tore und Effizienz",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "05.11.2026 18:04",
+    "wappen_url": "logos/kiel.png",
+    "vereine": [
+      "Bielefeld",
+      "Fürth",
+      "Kiel"
+    ],
+    "anriss": "Holstein Kiel empfängt am Samstag (13 Uhr) Arminia Bielefeld. Trainer Tim Walter fordert vor dem Heimspiel der Zweiten Liga mehr Durchschlagskraft von seiner Offensive. Der Vorletzte unterlag zuletzt bei Greuther",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Kiel",
+    "pfad": "artikel/kiel-gegen-bielefeld-walter-fordert-mehr-tore-und-effizienz-5744ae1e73.html",
+    "bild_tm": ""
+  },
+  {
     "id": "860d39c7c1",
     "titel": "Lieberknecht warnt vor Osnabrücks „Hexenkessel“ und lobt den Aufsteiger",
     "kategorie": "aufstellung",
