@@ -16,7 +16,8 @@
     "formation": "",
     "hauptklub": "Heidenheim",
     "pfad": "artikel/heidenheim-patrick-mayer-im-kreis-der-schmidt-nachfolger-04270defe9.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": null
   },
   {
     "id": "fc46321225",
@@ -38,7 +39,8 @@
     "formation": "",
     "hauptklub": "Dresden",
     "pfad": "artikel/dynamo-vor-doppelbelastung-pokal-in-stuttgart-drei-tage-spaeter-fc46321225.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": null
   },
   {
     "id": "0f621c17e7",
@@ -65,7 +67,8 @@
     "formation": "",
     "hauptklub": "Magdeburg",
     "pfad": "artikel/fcm-gegen-st-pauli-wiedersehen-mit-kaars-und-mathisen-0f621c17e7.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": null
   },
   {
     "id": "7e1135c173",
@@ -85,7 +88,8 @@
     "formation": "",
     "hauptklub": "Hertha",
     "pfad": "artikel/leitl-vor-reese-rueckkehr-es-geht-um-den-vfl-wolfsburg-7e1135c173.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": null
   },
   {
     "id": "65e86f4d4a",
@@ -104,7 +108,8 @@
     "formation": "",
     "hauptklub": "Braunschweig",
     "pfad": "artikel/braunschweig-reist-ins-wintertrainingslager-kornetka-setzte-belek-65e86f4d4a.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": null
   },
   {
     "id": "5744ae1e73",
@@ -125,7 +130,8 @@
     "formation": "",
     "hauptklub": "Kiel",
     "pfad": "artikel/kiel-gegen-bielefeld-walter-fordert-mehr-tore-und-effizienz-5744ae1e73.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": null
   },
   {
     "id": "860d39c7c1",
@@ -158,7 +164,8 @@
     "formation": "",
     "hauptklub": "Kaiserslautern",
     "pfad": "artikel/lieberknecht-warnt-vor-osnabruecks-hexenkessel-und-lobt-den-aufsteiger-860d39c7c1.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": null
   },
   {
     "id": "3f63c5f30a",
@@ -177,7 +184,8 @@
     "formation": "",
     "hauptklub": "Nürnberg",
     "pfad": "artikel/nuernberg-dieter-frey-wird-nachfolger-von-joti-chatzialexiou-3f63c5f30a.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": null
   },
   {
     "id": "4d7982a26a",
@@ -197,7 +205,8 @@
     "formation": "",
     "hauptklub": "Darmstadt",
     "pfad": "artikel/darmstadt-kohfeldt-setzt-auf-pragmatismus-und-smits-tore-4d7982a26a.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": null
   },
   {
     "id": "f8a5283d33",
@@ -223,7 +232,14 @@
     "formation": "",
     "hauptklub": "Dresden",
     "pfad": "artikel/dynamo-dresden-luca-herrmann-faellt-bis-jahresende-aus-f8a5283d33.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "reaktion",
+      "frage": "",
+      "antworten": [
+        "💚 Gute Besserung"
+      ]
+    }
   },
   {
     "id": "64923b152e",
@@ -242,7 +258,8 @@
     "formation": "",
     "hauptklub": "St. Pauli",
     "pfad": "artikel/st-pauli-mitov-ando-und-fujita-nicht-fuer-nationalteams-nominiert-64923b152e.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": null
   },
   {
     "id": "3bcb08987d",
@@ -275,7 +292,15 @@
     "formation": "",
     "hauptklub": "Cottbus",
     "pfad": "artikel/wollitz-greift-durch-cottbus-muss-in-braunschweig-ohne-borgmann-und-3bcb08987d.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "recht",
+      "frage": "Hat Wollitz recht, in Cottbus die Zügel anzuziehen?",
+      "antworten": [
+        "Ja",
+        "Nein"
+      ]
+    }
   },
   {
     "id": "c636d3e74a",
@@ -294,7 +319,8 @@
     "formation": "",
     "hauptklub": "Hertha",
     "pfad": "artikel/hertha-im-pokal-achtelfinale-gegen-bayern-live-bei-rtl-c636d3e74a.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": null
   },
   {
     "id": "362110494d",
@@ -313,7 +339,15 @@
     "formation": "",
     "hauptklub": "Fürth",
     "pfad": "artikel/fuerth-verlaengert-mit-sechser-sacha-banse-um-zwei-jahre-362110494d.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "deal",
+      "frage": "Ist die Verlängerung mit Bansé ein guter Deal für Fürth?",
+      "antworten": [
+        "👍 Guter Deal",
+        "👎 Fehler"
+      ]
+    }
   },
   {
     "id": "428a3cc66d",
@@ -332,7 +366,8 @@
     "formation": "",
     "hauptklub": "Heidenheim",
     "pfad": "artikel/frank-schmidt-hoert-im-sommer-in-heidenheim-auf-428a3cc66d.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": null
   },
   {
     "id": "f32559af08",
@@ -352,7 +387,8 @@
     "formation": "",
     "hauptklub": "Hertha",
     "pfad": "artikel/hertha-vor-wolfsburg-nilsson-und-dardai-zurueck-im-training-f32559af08.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": null
   },
   {
     "id": "2e6cf3b603",
@@ -371,7 +407,8 @@
     "formation": "",
     "hauptklub": "Magdeburg",
     "pfad": "artikel/hyrylaeinen-traeumt-von-der-bundesliga-auch-mit-dem-fcm-2e6cf3b603.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": null
   },
   {
     "id": "6c42a192ac",
@@ -391,7 +428,14 @@
     "formation": "",
     "hauptklub": "Karlsruhe",
     "pfad": "artikel/ksc-franke-und-jung-fehlen-zum-start-der-bochum-vorbereitung-6c42a192ac.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "reaktion",
+      "frage": "",
+      "antworten": [
+        "💚 Gute Besserung"
+      ]
+    }
   },
   {
     "id": "0d4c400062",
@@ -437,7 +481,14 @@
     "formation": "",
     "hauptklub": "Dresden",
     "pfad": "artikel/dynamo-vor-fuerth-spiel-mit-sorgen-in-der-innenverteidigung-0d4c400062.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "reaktion",
+      "frage": "",
+      "antworten": [
+        "💚 Gute Besserung"
+      ]
+    }
   },
   {
     "id": "e1e975ae4a",
@@ -456,7 +507,8 @@
     "formation": "",
     "hauptklub": "Hannover",
     "pfad": "artikel/hannover-96-sucht-sportchef-drei-kandidaten-nach-boldt-aus-e1e975ae4a.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": null
   },
   {
     "id": "9ca02576e8",
@@ -476,7 +528,16 @@
     "formation": "",
     "hauptklub": "Karlsruhe",
     "pfad": "artikel/scholl-ersetzt-franke-und-wird-beim-ksc-zum-abwehrchef-9ca02576e8.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    }
   },
   {
     "id": "0243113205",
@@ -495,7 +556,8 @@
     "formation": "",
     "hauptklub": "Hertha",
     "pfad": "artikel/messi-waehlt-maza-hertha-stolz-auf-ex-talent-aus-der-akademie-0243113205.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": null
   },
   {
     "id": "f9d7235522",
@@ -515,7 +577,8 @@
     "formation": "",
     "hauptklub": "St. Pauli",
     "pfad": "artikel/st-pauli-verliert-trotz-4-13-expected-goals-1-3-gegen-nuernberg-f9d7235522.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": null
   },
   {
     "id": "922b910d1b",
@@ -535,7 +598,8 @@
     "formation": "",
     "hauptklub": "Heidenheim",
     "pfad": "artikel/heidenheims-schmidt-stellt-sich-schuetzend-vor-vogt-klare-worte-gegen-922b910d1b.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": null
   },
   {
     "id": "e8d2176e39",
@@ -580,7 +644,14 @@
     "formation": "",
     "hauptklub": "Hannover",
     "pfad": "artikel/hannover-96-chakroun-mit-schulterblessur-einsatz-in-heidenheim-offen-e8d2176e39.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "reaktion",
+      "frage": "",
+      "antworten": [
+        "💚 Gute Besserung"
+      ]
+    }
   },
   {
     "id": "956ebe3028",
@@ -606,7 +677,14 @@
     "formation": "",
     "hauptklub": "Darmstadt",
     "pfad": "artikel/darmstadt-monatelang-ohne-verkooijen-syndesmoseband-gerissen-956ebe3028.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "reaktion",
+      "frage": "",
+      "antworten": [
+        "💚 Gute Besserung"
+      ]
+    }
   },
   {
     "id": "1084b0bf21",
@@ -626,7 +704,8 @@
     "formation": "",
     "hauptklub": "Hertha",
     "pfad": "artikel/dfb-pokal-hertha-bsc-trifft-im-achtelfinale-auf-bayern-muenchen-1084b0bf21.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": null
   },
   {
     "id": "7806aee3d0",
@@ -654,7 +733,8 @@
     "formation": "",
     "hauptklub": "Magdeburg",
     "pfad": "artikel/magdeburg-peilt-gegen-st-pauli-rekord-an-zukowski-soll-zurueckkehren-7806aee3d0.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": null
   },
   {
     "id": "b2e2c3e675",
@@ -674,7 +754,15 @@
     "formation": "",
     "hauptklub": "Kaiserslautern",
     "pfad": "artikel/hengen-nach-0-3-gegen-hertha-sind-in-einem-prozess-b2e2c3e675.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "recht",
+      "frage": "Hat Hengen recht, dass das 0:3 gegen Hertha kein Rückschlag ist?",
+      "antworten": [
+        "Ja",
+        "Nein"
+      ]
+    }
   },
   {
     "id": "6a67ca932b",
@@ -701,7 +789,14 @@
     "formation": "",
     "hauptklub": "St. Pauli",
     "pfad": "artikel/sorgen-um-smith-st-paulis-abwehrchef-humpelt-vom-platz-6a67ca932b.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "reaktion",
+      "frage": "",
+      "antworten": [
+        "💚 Gute Besserung"
+      ]
+    }
   },
   {
     "id": "d9282c2c6e",
@@ -720,7 +815,8 @@
     "formation": "",
     "hauptklub": "Kiel",
     "pfad": "artikel/dfb-pokal-holstein-kiel-empfaengt-im-achtelfinale-den-1-fc-koeln-d9282c2c6e.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": null
   },
   {
     "id": "d77e4a0b3d",
@@ -739,7 +835,8 @@
     "formation": "",
     "hauptklub": "Kaiserslautern",
     "pfad": "artikel/pokal-achtelfinale-kaiserslautern-empfaengt-den-sc-freiburg-d77e4a0b3d.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": null
   },
   {
     "id": "a761ca495d",
@@ -759,7 +856,8 @@
     "formation": "",
     "hauptklub": "Dresden",
     "pfad": "artikel/dresden-okpala-fehlt-aus-sportlichen-gruenden-im-kader-a761ca495d.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": null
   },
   {
     "id": "7a2fa6344c",
@@ -778,7 +876,15 @@
     "formation": "",
     "hauptklub": "St. Pauli",
     "pfad": "artikel/nemeth-diese-niederlage-war-wichtig-fuer-uns-7a2fa6344c.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "recht",
+      "frage": "Hat Nemeth recht, dass die Pokalniederlage wichtig für St. Pauli war?",
+      "antworten": [
+        "Ja",
+        "Nein"
+      ]
+    }
   },
   {
     "id": "1b80ac3b06",
@@ -798,7 +904,16 @@
     "formation": "",
     "hauptklub": "Nürnberg",
     "pfad": "artikel/nuernberg-gewinnt-3-1-bei-st-pauli-teenager-kornwachs-barjuan-trifft-1b80ac3b06.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    }
   },
   {
     "id": "17f7b2ba54",
@@ -817,7 +932,16 @@
     "formation": "",
     "hauptklub": "Fürth",
     "pfad": "artikel/keller-trifft-spaet-fuerth-schlaegt-kiel-mit-1-0-17f7b2ba54.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    }
   },
   {
     "id": "84170c115b",
@@ -837,7 +961,16 @@
     "formation": "",
     "hauptklub": "Hannover",
     "pfad": "artikel/hannover-dreht-kellerduell-gegen-dresden-und-springt-auf-rang-zwoelf-84170c115b.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    }
   },
   {
     "id": "e17c699427",
@@ -857,7 +990,16 @@
     "formation": "",
     "hauptklub": "Dresden",
     "pfad": "artikel/dresden-verspielt-fuehrung-in-hannover-und-ist-schlusslicht-e17c699427.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    }
   },
   {
     "id": "46380a1986",
@@ -876,7 +1018,15 @@
     "formation": "",
     "hauptklub": "Hannover",
     "pfad": "artikel/wontorra-staerkt-hannovers-trainer-wagner-den-ruecken-46380a1986.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "recht",
+      "frage": "Hat Wontorra recht, Wagner in Hannover den Rücken zu stärken?",
+      "antworten": [
+        "Ja",
+        "Nein"
+      ]
+    }
   },
   {
     "id": "df8456704e",
@@ -896,7 +1046,8 @@
     "formation": "",
     "hauptklub": "Cottbus",
     "pfad": "artikel/cottbus-wollitz-kuendigt-nach-1-2-gegen-bochum-konsequenzen-an-df8456704e.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": null
   },
   {
     "id": "f57eea9f29",
@@ -916,7 +1067,8 @@
     "formation": "",
     "hauptklub": "Wolfsburg",
     "pfad": "artikel/reese-und-damar-freuen-sich-auf-wiedersehen-mit-hertha-f57eea9f29.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": null
   },
   {
     "id": "afa3db9641",
@@ -935,7 +1087,8 @@
     "formation": "",
     "hauptklub": "Hannover",
     "pfad": "artikel/hannover-96-trennt-sich-nach-fuenf-monaten-von-sportchef-boldt-afa3db9641.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": null
   },
   {
     "id": "05c7f56713",
@@ -955,7 +1108,16 @@
     "formation": "",
     "hauptklub": "Bochum",
     "pfad": "artikel/bochum-dreht-partie-in-cottbus-durch-hofmann-und-rasmussen-05c7f56713.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    }
   },
   {
     "id": "fc3123210c",
@@ -988,7 +1150,8 @@
     "formation": "",
     "hauptklub": "St. Pauli",
     "pfad": "artikel/st-pauli-hrgota-statt-niang-gegen-nuernberg-in-der-startelf-fc3123210c.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": null
   },
   {
     "id": "66e89ee9fd",
@@ -1008,7 +1171,16 @@
     "formation": "",
     "hauptklub": "Karlsruhe",
     "pfad": "artikel/wanitzek-schiesst-den-ksc-per-freistoss-aus-der-abstiegszone-66e89ee9fd.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    }
   },
   {
     "id": "cb0b737b08",
@@ -1028,7 +1200,8 @@
     "formation": "",
     "hauptklub": "Dresden",
     "pfad": "artikel/dynamo-sucht-in-hannover-den-ersten-auswaertssieg-seit-april-cb0b737b08.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": null
   },
   {
     "id": "ce7f44a89b",
@@ -1047,7 +1220,15 @@
     "formation": "",
     "hauptklub": "Nürnberg",
     "pfad": "artikel/chatzialexiou-verlaesst-nuernberg-und-wechselt-nach-frankfurt-ce7f44a89b.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "deal",
+      "frage": "Ist Chatzialexiou ein guter Deal für Frankfurt?",
+      "antworten": [
+        "👍 Guter Deal",
+        "👎 Fehler"
+      ]
+    }
   },
   {
     "id": "7ba2dce612",
@@ -1067,7 +1248,16 @@
     "formation": "",
     "hauptklub": "Osnabrück",
     "pfad": "artikel/osnabrueck-verliert-in-wolfsburg-0-2-reese-entscheidet-das-duell-7ba2dce612.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    }
   },
   {
     "id": "9db96cdceb",
@@ -1087,7 +1277,16 @@
     "formation": "",
     "hauptklub": "Darmstadt",
     "pfad": "artikel/darmstadt-holt-gegen-magdeburg-nur-ein-1-1-trotz-hackentor-von-smit-9db96cdceb.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    }
   },
   {
     "id": "0c7fc3ed29",
@@ -1107,6 +1306,15 @@
     "formation": "",
     "hauptklub": "Hertha",
     "pfad": "artikel/hertha-siegt-in-kaiserslautern-3-0-und-bleibt-spitzenreiter-0c7fc3ed29.html",
-    "bild_tm": ""
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    }
   }
 ]
