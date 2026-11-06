@@ -1,5 +1,162 @@
 [
   {
+    "id": "8249a06f6e",
+    "titel": "Klose bedauert Abgang von Chatzialexiou und hält sich beim Aufstieg bedeckt",
+    "kategorie": "interview",
+    "badge": "Interview",
+    "badge_bg": "#1976d2",
+    "badge_fg": "#fff",
+    "datum": "06.11.2026 21:06",
+    "wappen_url": "logos/nuernberg.png",
+    "vereine": [
+      "Nürnberg"
+    ],
+    "anriss": "Der 1. FC Nürnberg verliert seinen Sportchef Joti Chatzialexiou. Den 50-Jährigen zieht es spätestens zum 1. Februar 2027 zu Eintracht Frankfurt. Trainer Miroslav Klose zeigte sich im Interview mit Sky",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Nürnberg",
+    "pfad": "artikel/klose-bedauert-abgang-von-chatzialexiou-und-haelt-sich-beim-aufstieg-8249a06f6e.html",
+    "bild_tm": "",
+    "umfrage": null
+  },
+  {
+    "id": "c4b2de1f98",
+    "titel": "Hannover 96 prüft offenbar Marko Marin als Sportchef",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "06.11.2026 21:06",
+    "wappen_url": "logos/hannover.png",
+    "vereine": [
+      "Hannover"
+    ],
+    "anriss": "Hannover 96 sucht nach dem Aus von Jonas Boldt einen neuen Verantwortlichen für den sportlichen Bereich. Laut Sky und RTL soll Ex-Nationalspieler Marko Marin, aktuell Technischer Direktor von Roter Stern",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Hannover",
+    "pfad": "artikel/hannover-96-prueft-offenbar-marko-marin-als-sportchef-c4b2de1f98.html",
+    "bild_tm": "",
+    "umfrage": null
+  },
+  {
+    "id": "4c95231583",
+    "titel": "Dresden schlägt Fürth 3:0 und verlässt das Tabellenende",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "06.11.2026 21:05",
+    "wappen_url": "logos/dresden.png",
+    "vereine": [
+      "Dresden",
+      "Fürth"
+    ],
+    "anriss": "Dynamo Dresden hat das Duell der Tabellenletzten in der 2. Bundesliga gegen die SpVgg Greuther Fürth mit 3:0 (2:0) gewonnen. Vor 30.786 Zuschauern im Rudolf-Harbig-Stadion trafen Robert Wagner, Ben Bobzien",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Dresden",
+    "pfad": "artikel/dresden-schlaegt-fuerth-3-0-und-verlaesst-das-tabellenende-4c95231583.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    }
+  },
+  {
+    "id": "326a90cf49",
+    "titel": "Cottbus holt 0:0 in Braunschweig: Kinsombi trifft den Pfosten",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "06.11.2026 21:05",
+    "wappen_url": "logos/cottbus.png",
+    "vereine": [
+      "Braunschweig",
+      "Cottbus"
+    ],
+    "anriss": "Energie Cottbus hat am 11. Spieltag der 2. Bundesliga bei Eintracht Braunschweig 0:0 gespielt. In einer chancenarmen Partie am Freitagabend nahmen beide Mannschaften jeweils einen Punkt mit. Die beste Möglichkeit",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Cottbus",
+    "pfad": "artikel/cottbus-holt-0-0-in-braunschweig-kinsombi-trifft-den-pfosten-326a90cf49.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    }
+  },
+  {
+    "id": "6f652ae524",
+    "titel": "Dynamo vor Fürth-Spiel mit Personalnot in der Innenverteidigung",
+    "kategorie": "verletzung",
+    "badge": "Verletzung",
+    "badge_bg": "#e53935",
+    "badge_fg": "#fff",
+    "datum": "06.11.2026 21:05",
+    "wappen_url": "logos/dresden.png",
+    "vereine": [
+      "Dresden",
+      "Fürth",
+      "Hannover"
+    ],
+    "anriss": "Dynamo Dresden droht am Freitagabend im Heimspiel gegen die SpVgg Greuther Fürth eine Not-Defensive. Nach der Niederlage bei Hannover 96 fehlt Innenverteidiger Friedrich Müller wegen einer Ampelkarte definitiv, hinter Nicolai",
+    "spielerstatus": [
+      {
+        "spieler": "Müller",
+        "klub": "Dresden",
+        "status": "faellt_aus",
+        "grund": "Ampelkarte in Hannover"
+      },
+      {
+        "spieler": "Rapp",
+        "klub": "Dresden",
+        "status": "fraglich",
+        "grund": "zur Halbzeit ausgewechselt"
+      },
+      {
+        "spieler": "Keller",
+        "klub": "Dresden",
+        "status": "faellt_aus",
+        "grund": "Gehirnerschütterung, Trainingsteilnahme unmöglich"
+      },
+      {
+        "spieler": "Schmidt",
+        "klub": "Dresden",
+        "status": "faellt_aus",
+        "grund": "Langzeitverletzung"
+      },
+      {
+        "spieler": "Bünning",
+        "klub": "Dresden",
+        "status": "faellt_aus",
+        "grund": "Langzeitverletzung"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Dresden",
+    "pfad": "artikel/dynamo-vor-fuerth-spiel-mit-personalnot-in-der-innenverteidigung-6f652ae524.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "reaktion",
+      "frage": "",
+      "antworten": [
+        "💚 Gute Besserung"
+      ]
+    }
+  },
+  {
     "id": "76d12d0c9e",
     "titel": "KSC will in Bochum Konstanz zeigen: Senft will kein neues Auf und Ab",
     "kategorie": "news",
