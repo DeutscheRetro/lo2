@@ -177,10 +177,7 @@
       const name = user.user_metadata?.full_name || user.email;
       // Rollen stehen in der Datenbank; der Server bestätigt sie
       isAdmin = false;
-      user.jwt().then(t => fetch('/api', { method: 'POST',
-        headers: { 'Content-Type': 'application/json', Authorization: 'Bearer ' + t },
-        body: JSON.stringify({ aktion: 'wer_bin_ich' }) }))
-        .then(r => r.json()).then(w => {
+      window.loWerBinIch(user).then(w => {
           isAdmin = !!w.darfLoeschen;
           if (isAdmin && !document.getElementById('admin-link')) {
             const a = document.createElement('a');
