@@ -1,5 +1,93 @@
 [
   {
+    "id": "1e14aee0b2",
+    "titel": "Mattuschka rügt Hannover 96: Außendarstellung „unfassbar schlecht“",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "06.11.2026 15:05",
+    "wappen_url": "logos/hannover.png",
+    "vereine": [
+      "Hannover"
+    ],
+    "anriss": "Sky-Experte Torsten Mattuschka hat die Außendarstellung von Hannover 96 scharf kritisiert. Vor dem 2:1-Sieg gegen Dynamo Dresden habe sich nach der Entlassung von Sportchef Jonas Boldt kein Verantwortlicher des Klubs",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Hannover",
+    "pfad": "artikel/mattuschka-ruegt-hannover-96-aussendarstellung-unfassbar-schlecht-1e14aee0b2.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "recht",
+      "frage": "Hat Mattuschka recht mit seiner Kritik an Hannover 96?",
+      "antworten": [
+        "Ja",
+        "Nein"
+      ]
+    }
+  },
+  {
+    "id": "b4e9126002",
+    "titel": "Klose nach Sieg bei St. Pauli: „Normalerweise verliert man solche Spiele“",
+    "kategorie": "interview",
+    "badge": "Interview",
+    "badge_bg": "#1976d2",
+    "badge_fg": "#fff",
+    "datum": "06.11.2026 15:05",
+    "wappen_url": "logos/nuernberg.png",
+    "vereine": [
+      "Nürnberg",
+      "St. Pauli"
+    ],
+    "anriss": "Nürnbergs Trainer Miroslav Klose hat den 3:1-Erfolg seines Teams beim FC St. Pauli eingeordnet. Gegenüber RTL und Sky sagte er, normalerweise verliere man solche Spiele. Die Hamburger hatten trotz einer",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Nürnberg",
+    "pfad": "artikel/klose-nach-sieg-bei-st-pauli-normalerweise-verliert-man-solche-spiele-b4e9126002.html",
+    "bild_tm": "",
+    "umfrage": null
+  },
+  {
+    "id": "836589a0c7",
+    "titel": "Robatsch bleibt in Beveren Reservist: Bornemann spricht von „unbefriedigender Situation“",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "06.11.2026 15:04",
+    "wappen_url": "logos/stpauli.png",
+    "vereine": [
+      "St. Pauli"
+    ],
+    "anriss": "Der an den belgischen Erstliga-Aufsteiger SK Beveren verliehene Jannik Robatsch kommt auch drei Monate nach seinem Abschied vom FC St. Pauli kaum zum Zug. In den vergangenen sechs Ligaspielen stand",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "St. Pauli",
+    "pfad": "artikel/robatsch-bleibt-in-beveren-reservist-bornemann-spricht-von-836589a0c7.html",
+    "bild_tm": "",
+    "umfrage": null
+  },
+  {
+    "id": "206fcc524e",
+    "titel": "KSC-Verteidiger Sandro: Vom Erntehelfer zum Profi in Karlsruhe",
+    "kategorie": "interview",
+    "badge": "Interview",
+    "badge_bg": "#1976d2",
+    "badge_fg": "#fff",
+    "datum": "06.11.2026 15:04",
+    "wappen_url": "logos/karlsruhe.png",
+    "vereine": [
+      "Karlsruhe"
+    ],
+    "anriss": "Karlsruhes Innenverteidiger Sandro hat in einem Vereinsinterview über seinen ungewöhnlichen Weg in den Profifußball gesprochen. Der 26-Jährige lebt nach eigenen Angaben inzwischen gerne in Karlsruhe und arbeitet daran, Deutsch zu",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Karlsruhe",
+    "pfad": "artikel/ksc-verteidiger-sandro-vom-erntehelfer-zum-profi-in-karlsruhe-206fcc524e.html",
+    "bild_tm": "",
+    "umfrage": null
+  },
+  {
     "id": "f24f0b5c26",
     "titel": "Erstes Spiel nach Schmidt-Ankündigung: Heidenheim empfängt Hannover",
     "kategorie": "news",

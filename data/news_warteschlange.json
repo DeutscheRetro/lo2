@@ -1,50 +1,5 @@
 [
  {
-  "id": "0428bc9364",
-  "schluessel": "braunschweig|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Braunschweig",
-  "klubs": [
-   "Braunschweig",
-   "Frankfurt"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Eintracht Braunschweig: Neue Aufgabe gegen die Niederlausitzer am 06.11.2026",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX2plRzI4ZExEZHRLUVV6a056YW1OaVB3d1pVM0s0Y2JoaVFlOHlRa1p1WmxfOERRak16YmktOGhna2pleFJRZ1FKQTF5OF9JTnlGT0dwcnZidk90a2Rwam1VWEVQT2RodUlES3U4Q2Q2MmtJQkUyektabGt5UkUzd0tfcXIyRENZdzIyUlV5OXBQZ2lDclZLSEgzOUZWX0g0Qi1pT01lc1ExYjd5MW5KbUZ6NGItTjhOOVgxcFZPVF9aVnROQkZkTC1Lcw?oc=5",
-    "aid": "edea0cc790",
-    "titel": "Eintracht Braunschweig: Neue Aufgabe gegen die Niederlausitzer am 06.11.2026",
-    "quelle": "News.de",
-    "beschr": " Eintracht Braunschweig: Neue Aufgabe gegen die Niederlausitzer am 06.11.2026 &nbsp;&nbsp; News.de ",
-    "zeit": "2026-11-06T09:31"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-06T09:57",
-  "archiv": [
-   {
-    "id": "65e86f4d4a",
-    "titel": "Braunschweig reist ins Wintertrainingslager: Kornetka setzte Belek durch",
-    "datum": "05.11.",
-    "stufe": "sonstiges",
-    "summary": "Eintracht Braunschweig reist vom 4. bis 11. Januar 2027 nach Belek, es ist das erste reguläre Wintertrainingslager seit vier Jahren. Trainer Lars Kornetka hatte sich ausdrücklich dafür eingesetzt."
-   },
-   {
-    "id": "3bcb08987d",
-    "titel": "Wollitz greift durch: Cottbus muss in Braunschweig ohne Borgmann und Guttau auskommen",
-    "datum": "04.11.",
-    "stufe": "sonstiges",
-    "summary": "Cottbus-Trainer Claus-Dieter Wollitz will nach der 1:2-Heimniederlage gegen Bochum Zugeständnisse wie freie Tage streichen. Im Spiel in Braunschweig am Freitag fehlen Kapitän Axel Borgmann und Neuzugang Julian Guttau."
-   }
-  ],
-  "versuche": 2
- },
- {
   "id": "565231e804",
   "schluessel": "hertha|verletzung",
   "person": "",
@@ -86,7 +41,7 @@
     "summary": "Herthas Stürmer Gustaf Nilsson und Innenverteidiger Marton Dardai sind nach Verletzungen ins Mannschaftstraining zurückgekehrt. Am Samstagabend wartet im Olympiastadion das Topspiel gegen Wolfsburg."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "7d93f44180",
@@ -116,7 +71,7 @@
   "status": "n",
   "erstmals": "2026-11-06T12:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "ddd23c262e",
@@ -155,7 +110,7 @@
     "summary": "Cottbus-Trainer Claus-Dieter Wollitz will nach der 1:2-Heimniederlage gegen Bochum Zugeständnisse wie freie Tage streichen. Im Spiel in Braunschweig am Freitag fehlen Kapitän Axel Borgmann und Neuzugang Julian Guttau."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "81c47bb7a7",
@@ -200,7 +155,7 @@
     "summary": "Hannover 96 hat Sport-Geschäftsführer Jonas Boldt nach nur fünf Monaten mit sofortiger Wirkung abberufen. Der Klub steht nach neun Spieltagen mit acht Punkten auf Platz 16."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "0144f1f340",
@@ -237,7 +192,7 @@
     "summary": "Hertha BSC spielt im DFB-Pokal-Achtelfinale am 1. Dezember um 20:45 Uhr gegen den FC Bayern München. RTL überträgt die Partie live."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "f446dd0987",
@@ -265,6 +220,406 @@
   "prio": 2,
   "status": "u",
   "erstmals": "2026-11-06T12:01",
+  "archiv": [],
+  "versuche": 2
+ },
+ {
+  "id": "9fcfce03d7",
+  "schluessel": "bochum|verletzung",
+  "person": "",
+  "spieler": [],
+  "klub": "Bochum",
+  "klubs": [
+   "Bochum"
+  ],
+  "stufe": "rueckkehr",
+  "klasse": "verletzung",
+  "titel": "VfL Bochum: Uwe Rösler ist froh, ein Trio steht vor der Rückkehr beim VfL",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRzN6VFRMeVJPZkhxVENFRmNDc3VoOVltTHhWMFRYNlUzQldHX3kwTmN6cUpPWm5BY3ZDVjZSVVVnakpZd0Y0MkFxNXR0eEhJSEp6cU9OR0Z0SDNJZDRxY25NMkc4bjJoZmZSVGljVFMtWElsY214a0h6STZ5R1VnSTVDdUlhQ25GaE5oQk9QR2xtc041RzMzd1o1S1QzaG1WMkptSlBRNXNEN3FGQzhNMWRqRGd4bnAzc3phalYtUEtvdw?oc=5",
+    "aid": "1dab1c93c7",
+    "titel": "VfL Bochum: Uwe Rösler ist froh, ein Trio steht vor der Rückkehr beim VfL",
+    "quelle": "RevierSport online",
+    "beschr": " VfL Bochum: Uwe Rösler ist froh, ein Trio steht vor der Rückkehr beim VfL &nbsp;&nbsp; RevierSport online ",
+    "zeit": "2026-11-06T13:28"
+   }
+  ],
+  "archiv_status": "update",
+  "prio": 3,
+  "status": "u",
+  "erstmals": "2026-11-06T15:01",
+  "archiv": [
+   {
+    "id": "6c42a192ac",
+    "titel": "KSC: Franke und Jung fehlen zum Start der Bochum-Vorbereitung",
+    "datum": "03.11.",
+    "stufe": "verletzung",
+    "summary": "Der KSC hat die Vorbereitung auf das Auswärtsspiel in Bochum am 8. November begonnen. Marcel Franke (Infekt) und Sebastian Jung (Muskelfaserriss) fehlten im Training."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "a3045d5061",
+  "schluessel": "hertha|kader",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha",
+   "Wolfsburg"
+  ],
+  "stufe": "kader",
+  "klasse": "kader",
+  "titel": "Mit Nilsson: Verändert Leitl die Hertha-Startelf vor Wolfsburg?",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRjlSQ2FoSnlBNWFSVHc1dHlhaGJ0aDQ4T3FiS2I3U0psUVRtcEFqd1E2NGdOREI5VEpFb3doSVNIbEhrUEpCeVcxc2t6ek9yOElUMDJHUnFkSHU2a005aVNzRzd5N0IyRXc1eUFVRkNGSzB4VWJWV2w1RFVZdUY2SU42dzhQWllwTEZ1VmNB?oc=5",
+    "aid": "99207a2f40",
+    "titel": "Mit Nilsson: Verändert Leitl die Hertha-Startelf vor Wolfsburg?",
+    "quelle": "fussballdaten.de",
+    "beschr": " Mit Nilsson: Verändert Leitl die Hertha-Startelf vor Wolfsburg? &nbsp;&nbsp; fussballdaten.de ",
+    "zeit": "2026-11-06T13:30"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-06T15:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "eef728e044",
+  "schluessel": "darmstadt|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Darmstadt",
+  "klubs": [
+   "Darmstadt",
+   "Nürnberg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Spieltagstipp: Was ist drin für die Lilien gegen Nürnberg?",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZUZJbHdXQkZnbGxrYlNqejFYaWQ0X0syM1ZqOVF5VUNFTk1ELWhIc29aaHVhcXhnNkRHY1JBTXRQX1FDN1Y1REFYazVzX2JmNHQwYUNfUlZ1SjdYS3ZRWVdXbGY0MjBRTUlyaXRVSFVvbmhYc0tFLW8yUFUweDhRSkZ0bWNFWGNVRGNUWHdUN0toajZ3UTVmSTdfZmpVZ0dOY01JNWVSNy1rU0xCaHZ1YU1B0gG3AUFVX3lxTE5LTS15ZDNiTUlicFhLaGtZZmNGNUhvdUJ3Um5NdHJlM3RGRWUwUzcxY25BTUdfd3oteFp6RjFLWDM4UFI0WGtyNXBobHpjeEotT3o5Y0RQZWlpdDJiTUx2LXFVZkIwQ3dYVEl3SjZQc3NBSFQ5ZEZDNzNhTmc1UTJHUGRpcHF4ZGl6dUlWckw5b1pqV2ZRRkJnbHBPM3BGb2ZfZzNfTFBjbnZiQmdDQ1UtQkhRWXg0SQ?oc=5",
+    "aid": "bf734934e8",
+    "titel": "Spieltagstipp: Was ist drin für die Lilien gegen Nürnberg?",
+    "quelle": "Lilienblog",
+    "beschr": " Spieltagstipp: Was ist drin für die Lilien gegen Nürnberg? &nbsp;&nbsp; Lilienblog ",
+    "zeit": "2026-11-06T12:12"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-06T15:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "4dcae298d2",
+  "schluessel": "dresden|verletzung",
+  "person": "",
+  "spieler": [],
+  "klub": "Dresden",
+  "klubs": [
+   "Dresden"
+  ],
+  "stufe": "rueckkehr",
+  "klasse": "verletzung",
+  "titel": "Dynamo Dresden: Justin Eilers feiert nach zehn Jahren ein Comeback bei seinem Lieblingsverein",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdzdUT1pycHE0MlRwaDVlTzcwd1hXSVBGbEVMUFJ0SEVIektpQk5LbVU2UmoydkVxMVVUamhzaUhPOFc1ZFpaYjJ5OU45X0FlNGVPTjNrQmc1WjByODhhNGVvek85Nkt6ODZzZU40Z3R0RGRFdXFfeXE5bklNYTJyLWk3WkxVbWUyQXFWc3VCdWJIejM1VjA2eVRwZ05MX3A5UWlGMG9mdjlLREJlSG9wUEZ1MlhrazZOdU45UWxSTHJfTkhyaVNpc2l3bUZRenl6V1g4QUZpcUpWcGZjMThaWVpVSWVybGtUN3dhUUNsTkxvZkxIVk9MbFl30gGWAkFVX3lxTFBIYm15aG56UmgwaVlURE01V1BYaEJZalFGMTFBS0pEZ2ZzOUxPVFdNQjNhdGR2YUxJck1ZU1pnNHVuNTduU2hKMzJRRzlPV3FWVWduWU4yT0FkLXV4Tm5abDdHcmpJYlBLOHpEUlk1cjNnZ3h5by1udDRYZDg0REZRN3BtX0hiNnpmX1RMcnVEUzZPdzI1dlJCZHlweDc3bkt1WnRpSkdpbmJURndDNkhRbG9EXzFiNlhxa1pCZjZ0eTFaZnk4VG1OTmJVdE5tcFdtRkVuUk5jaFREYU1Qa2N5clJqMld6UkJGY0JJOHBBZXZYVWdKd0lKaTZFSHRjZnotZEs5ZnpmUXhHZFBqc0hMdHpTM0pR?oc=5",
+    "aid": "eb2fd6a6d8",
+    "titel": "Dynamo Dresden: Justin Eilers feiert nach zehn Jahren ein Comeback bei seinem Lieblingsverein",
+    "quelle": "Sächsische Zeitung",
+    "beschr": " Dynamo Dresden: Justin Eilers feiert nach zehn Jahren ein Comeback bei seinem Lieblingsverein &nbsp;&nbsp; Sächsische Zeitung ",
+    "zeit": "2026-11-06T12:57"
+   }
+  ],
+  "archiv_status": "update",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-06T15:01",
+  "archiv": [
+   {
+    "id": "f8a5283d33",
+    "titel": "Dynamo Dresden: Luca Herrmann fällt bis Jahresende aus",
+    "datum": "04.11.",
+    "stufe": "ausfall",
+    "summary": "Dynamo Dresden muss bis Jahresende auf Mittelfeldspieler Luca Herrmann verzichten. Er zog sich beim Spiel in Hannover eine Fußverletzung zu."
+   },
+   {
+    "id": "0d4c400062",
+    "titel": "Dynamo vor Fürth-Spiel mit Sorgen in der Innenverteidigung",
+    "datum": "03.11.",
+    "stufe": "ausfall",
+    "summary": "Dynamo Dresden muss gegen Fürth auf den gesperrten Friedrich Müller sowie die Langzeitverletzten Bünning und Schmidt verzichten. Der Einsatz von Nicolai Rapp ist offen."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "4f45994d24",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Hannover 96: Patron Martin Kind spricht von Rückzug",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWGpxYWtHcmMxX1hUYjRJZndTTkJjbHBnSnVYQlYwbHA2b0JEbWV2aEw4WGptaUxBQmVnTlFkNXRZd2pxX2oxOVR5MjMwWV9FYVBiVU85LU1OQTdBR2kwcW1mVjFYYVNFd3dlNEZEck1KdVlVZFVVNG44R2dzR21lMnpBajg5bnFGSk1WX3Vwbm0zUmFDRkxHYldWbG5Nc1MyWTNEbTg2MHA2SUptVUxWOA?oc=5",
+    "aid": "9b608eab86",
+    "titel": "Hannover 96: Patron Martin Kind spricht von Rückzug",
+    "quelle": "BILD",
+    "beschr": " Hannover 96: Patron Martin Kind spricht von Rückzug &nbsp;&nbsp; BILD ",
+    "zeit": "2026-11-06T13:50"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-06T15:01",
+  "archiv": [
+   {
+    "id": "46380a1986",
+    "titel": "Wontorra stärkt Hannovers Trainer Wagner den Rücken",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Moderatorin Laura Wontorra stärkt Hannovers Trainer Sandro Wagner, der nach vier Pflichtspielen noch sieglos ist, im Podcast „TOMorrow“ den Rücken. Sie traut ihm eine große Trainerkarriere zu."
+   },
+   {
+    "id": "afa3db9641",
+    "titel": "Hannover 96 trennt sich nach fünf Monaten von Sportchef Boldt",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Hannover 96 hat Sport-Geschäftsführer Jonas Boldt nach nur fünf Monaten mit sofortiger Wirkung abberufen. Der Klub steht nach neun Spieltagen mit acht Punkten auf Platz 16."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "e02609338d",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover",
+   "Heidenheim"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Wende bei Hannover 96: Wie wirkt Wagners Zauber in Heidenheim?",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcmh5MTI4WUpxU25FUTByVS1iSnM2blBHZl93Q28xQVlUdEJOdG5mOGNIbVdPVjY3UVhHWmJ1N0NfcEt2U0Roa3dfUXFBYzl1LWwtVjkyMTBEYmNhVkxyV2RSc1NxOEVtOFpkSmNkakNObXkyRDB2UWh2RGsyTGxDa2FfV2JrVkszT29LQVE5eDA4czhTVnhLWTV1ME0xd3J0Rk5hRlh2cGR2MlV1OE5mYm0yRHZXcWRmS2FjSS1hbnlGdUpkMWNtSG1QNHdnTm9MSzRVOWdRejlXRHZlU0pR?oc=5",
+    "aid": "08fc425ce9",
+    "titel": "Wende bei Hannover 96: Wie wirkt Wagners Zauber in Heidenheim?",
+    "quelle": "Neue Presse",
+    "beschr": " Wende bei Hannover 96: Wie wirkt Wagners Zauber in Heidenheim? &nbsp;&nbsp; Neue Presse ",
+    "zeit": "2026-11-06T14:09"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-06T15:01",
+  "archiv": [
+   {
+    "id": "f24f0b5c26",
+    "titel": "Heidenheim will Schmidt-Abschied gegen Hannover vergolden",
+    "datum": "06.11.",
+    "stufe": "sonstiges",
+    "summary": "Heidenheim empfängt am Sonntag Hannover 96 und ist zu Hause noch ungeschlagen. Es ist das erste Spiel nach der Ankündigung, dass Trainer Frank Schmidt im Sommer aufhört."
+   },
+   {
+    "id": "46380a1986",
+    "titel": "Wontorra stärkt Hannovers Trainer Wagner den Rücken",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Moderatorin Laura Wontorra stärkt Hannovers Trainer Sandro Wagner, der nach vier Pflichtspielen noch sieglos ist, im Podcast „TOMorrow“ den Rücken. Sie traut ihm eine große Trainerkarriere zu."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "a9e1f1283f",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Marko Marin als Chef? Hannover 96 weckt Bremer Gefühle einer Nacht in Genua",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVUJ4NGtISkZsc2JnNnhkUmd0RGtzeTUwYlpCVXJkN0c5WTJUX3hTTFE4dV90a1QyYVZQY1ZJSmcxRnZaOGJsc1JFamJNMFJsWHZ6VnU3SjY1UVk4YmszSWZKODRCVTJvN2lfRlc2blU4c0Q5M2Q1bEJDZUctLVZ2SFUzR3FWZ0tja1UxejJtam9RNjM2MUhsc1Q3X0Eyb21tWkVHLUdBcHJsSFhROW05b1BxSHo2WkllQUgxQ1B6VG9HSkMyT1N0NXY4UlJiWVY1aTNaYk5WNW1vajE4QThhc1V3?oc=5",
+    "aid": "c7d1f49e79",
+    "titel": "Marko Marin als Chef? Hannover 96 weckt Bremer Gefühle einer Nacht in Genua",
+    "quelle": "Neue Presse",
+    "beschr": " Marko Marin als Chef? Hannover 96 weckt Bremer Gefühle einer Nacht in Genua &nbsp;&nbsp; Neue Presse ",
+    "zeit": "2026-11-06T13:37"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-06T15:01",
+  "archiv": [
+   {
+    "id": "cb0b737b08",
+    "titel": "Dynamo sucht in Hannover den ersten Auswärtssieg seit April",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Dynamo Dresden will bei Hannover 96 den ersten Auswärtssieg seit 204 Tagen holen. Seit dem 2:0 in Nürnberg im April blieb das Team von Trainer Thomas Stamm auswärts acht Ligaspiele ohne Sieg."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "51d9ee1aff",
+  "schluessel": "hertha|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Hertha BSC: Reese fällt Entscheidung über Verabschiedung",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLWhJbGlWX3ZGZHVOVE9NQ3lhcnlFWTl1WmViQ0p4MWJaQmxKUEYxUVJLaFJHRERxc185R3hObGl3VmxKMFVEY0poUE5lQ3NtejJrQmxDU0Z3YUZ6QkZUWVRzTElfUGtXandoYy1McUdwWHdqQjdLX2FTNVN6WWVjbThFWV8zVkExU0p5Ykx2dHBqMmJFRG03WXJQR3FiNmtKLTF4QTFQVTJ5Skk3U3NOVlAzTnB6RDg1dF9oVFFGVlBGZlc0ak5wSnB0UQ?oc=5",
+    "aid": "333c703014",
+    "titel": "Hertha BSC: Reese fällt Entscheidung über Verabschiedung",
+    "quelle": "BZ Berlin",
+    "beschr": " Hertha BSC: Reese fällt Entscheidung über Verabschiedung &nbsp;&nbsp; BZ Berlin ",
+    "zeit": "2026-11-06T14:22"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "u",
+  "erstmals": "2026-11-06T15:01",
+  "archiv": [
+   {
+    "id": "f57eea9f29",
+    "titel": "Reese und Damar freuen sich auf Wiedersehen mit Hertha",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Wolfsburgs Fabian Reese und Muhammed Damar freuen sich auf das Spiel bei Tabellenführer Hertha BSC am Samstag. Beide haben eine Vergangenheit in Berlin und kommen nach dem 2:0 gegen Osnabrück mit Rückenwind."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "a11d8e5ec7",
+  "schluessel": "wolfsburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Wolfsburg",
+  "klubs": [
+   "Wolfsburg",
+   "Hertha"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Der VfL Wolfsburg bei der Hertha: Ein Spiel, das es so noch nie gab",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdnBKLU9GM3BfZXdvQUh2UXlMLXZlM0phUXc3akxFdGVsOHJ3SktSNWtCdzR6Q1o3OHhTMUl4azI1ak9XU3ZpOHlOWWtETmlJbGNjTW5jYXFLYUw0Yzl5Y0szX3YxR2NBbkxVamt0cEQyY3pZSzVRQ3E4dS1mSnZuT0xPQk4zUHhaR21XMjJKc2xzQTV5bnpPTEpGUk0ySTFiNndLNnhrdGRnNWZGczVpdjAxOUhCQU1Fb0twLVlXY3pDU0ZrODRSZmwtMU9nWnlKSXVtaNIB8AFBVV95cUxNQ3dvSEhQWmkyQS1vZzFqdE0zelhBRk9WX2tNek9zNzI0ZjdBX09feHdwX1RkTjdHYm1od1FyZ01rVW1qWXJhcmRtSmVoVXh3ZmdaYS1ERFpMWV9EU1pPMW40RWVHaGZxR3NsM2hUREZITmg2ak9RT0lnZzFPbGJyUF9FNGVCTFpHOUNia0FCSHl2ZmY4TjVwNW51cmhKb1NWOXRId1Rvc1NZcmtWenlxaVZyN3Z6TFhIX3JHcUx0amlXYnBXQnRJeGlNdWl2akRaWF9xNFcyOVNDcV9SeFdiakdNeGdidlV0NjlRSGJpenQ?oc=5",
+    "aid": "f230d98f98",
+    "titel": "Der VfL Wolfsburg bei der Hertha: Ein Spiel, das es so noch nie gab",
+    "quelle": "WAZ-ONLINE.de",
+    "beschr": " Der VfL Wolfsburg bei der Hertha: Ein Spiel, das es so noch nie gab &nbsp;&nbsp; WAZ-ONLINE.de ",
+    "zeit": "2026-11-06T14:27"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-06T15:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "77e0821e4a",
+  "schluessel": "kiel|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Kiel",
+  "klubs": [
+   "Kiel"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "„Glück im Unglück\": Wie Schonlau Holstein Kiel im Abstiegskampf helfen will",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbDloSWVtLVdkNDc3QkVzU1F0MW1IWkFtRW5vT2RzRzNWRGN6WGQxSFlCM2VaNmF3Nno5eVQ4bEFiQ0FKeXFtalo0SUtFTTZHUnVVLUJfMHRQRjRTQjA0TFF2Q00wamttbk5QQ0xWbnBsUW0wM1lHUUF6Vk5kelJRY05jSGJWM3ZOWC12aTdGQ2ROUm1ueEJpX2tyb2I5ZGQ0U3h4OGJ3b3A0RWJORVUtMXZ3c2N3ZE1vWUlaUHNtMnJxTjdkZm9Gb1JZN3FtVVBCdzZKeWFHVFI1Y3JYVDY00gH7AUFVX3lxTFBVclRVOUI2ZnBmclZzOU13dm5YVjdMaU90cU1aV05IeVc1NG9ibkFTQlQwRlhJLTktelJnb1pRS09pcmdZVU1ZVnV2dkRCNXBIQmpqTEJPUXVYLU5QTENqZTBXYVFyN1RTYVdBV0R2QXdwUnhSSUdFZ0lTdWtfUENKM3hzTmI2ODhKNlRYWEtWbmJ4alZtek1ZT3V5N2I2Mk1SalRrWXBSWjU2TnFnTWZEUHpjbDh0X3lCNFM3ekJMbXJFR1czbnlEWkgweVZIeEl4UFJiYTNWRlB3LTN0XzVSZ09HQ0M5aDdhcWN3aS1fWHg0VDNzODNNcjlZ?oc=5",
+    "aid": "494727bfa4",
+    "titel": "„Glück im Unglück\": Wie Schonlau Holstein Kiel im Abstiegskampf helfen will",
+    "quelle": "Kieler Nachrichten",
+    "beschr": " „Glück im Unglück\": Wie Schonlau Holstein Kiel im Abstiegskampf helfen will &nbsp;&nbsp; Kieler Nachrichten ",
+    "zeit": "2026-11-06T12:28"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-06T15:01",
+  "archiv": [
+   {
+    "id": "d9282c2c6e",
+    "titel": "DFB-Pokal: Holstein Kiel empfängt im Achtelfinale den 1. FC Köln",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Holstein Kiel bekommt im DFB-Pokal-Achtelfinale den Bundesligisten 1. FC Köln zugelost und hat Heimrecht. Gespielt wird am 1. und 2. Dezember 2026, der genaue Termin steht noch nicht fest."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "19ebcc13c7",
+  "schluessel": "osnabruck|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Osnabrück",
+  "klubs": [
+   "Osnabrück"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "VfL Osnabrück will in ausverkaufter Bremer Brücke den nächsten Heimsieg gegen Lautern holen",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaDFfQmprRjZZLUVZNEVPUVNzQTcwTWIxQkV4eDFyQkJaZTh4M2VPOEt2YVVoeGNIaU1tWTZyMXFiR093VG1DbDBHR1E0U3hvOTRDR3o1MFliWXlkRWxqcnAtR05QOVNZVl8yOVp2UGRrdWFLT3NRX0xaM1hiOEV5V21GdG55T3N2YTAtTEdBSXZHa3FfWlhtaFNEOE5tem0yTTN0SWQ1U0tzU0FEOGlrVl91N0s?oc=5",
+    "aid": "f9ff0904c8",
+    "titel": "VfL Osnabrück will in ausverkaufter Bremer Brücke den nächsten Heimsieg gegen Lautern holen",
+    "quelle": "os|radio 104,8",
+    "beschr": " VfL Osnabrück will in ausverkaufter Bremer Brücke den nächsten Heimsieg gegen Lautern holen &nbsp;&nbsp; os|radio 104,8 ",
+    "zeit": "2026-11-06T14:42"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-06T15:01",
   "archiv": [],
   "versuche": 1
  }
