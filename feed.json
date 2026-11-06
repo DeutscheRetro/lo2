@@ -1,5 +1,75 @@
 [
   {
+    "id": "f24f0b5c26",
+    "titel": "Erstes Spiel nach Schmidt-Ankündigung: Heidenheim empfängt Hannover",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "06.11.2026 12:04",
+    "wappen_url": "logos/heidenheim.png",
+    "vereine": [
+      "Hannover",
+      "Heidenheim"
+    ],
+    "anriss": "Der 1. FC Heidenheim empfängt am Sonntag (8. November 2026, 13.30 Uhr) Hannover 96 in der Voith Arena. Es ist das erste Spiel nach der Bekanntgabe, dass Trainer Frank Schmidt",
+    "spielerstatus": [],
+    "formation": "4-4-2",
+    "hauptklub": "Heidenheim",
+    "pfad": "artikel/heidenheim-will-schmidt-abschied-gegen-hannover-vergolden-f24f0b5c26.html",
+    "bild_tm": "",
+    "umfrage": null
+  },
+  {
+    "id": "7d386cf19d",
+    "titel": "Braunschweig: Kovacevic vor Kaderrückkehr gegen Cottbus",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "06.11.2026 12:04",
+    "wappen_url": "logos/braunschweig.png",
+    "vereine": [
+      "Braunschweig",
+      "Cottbus"
+    ],
+    "anriss": "Eintracht Braunschweigs Neuzugang Damjan Kovacevic steht vor der Rückkehr in den Spieltagskader. Trainer Lars Kornetka kündigte vor dem Heimspiel gegen Energie Cottbus am Freitag (6. November, 18.30 Uhr) an, dass",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Braunschweig",
+    "pfad": "artikel/braunschweig-kovacevic-vor-kaderrueckkehr-gegen-cottbus-7d386cf19d.html",
+    "bild_tm": "",
+    "umfrage": null
+  },
+  {
+    "id": "250791d7a6",
+    "titel": "Klose setzt gegen Darmstadt auf die Kulisse im Max-Morlock-Stadion",
+    "kategorie": "interview",
+    "badge": "Interview",
+    "badge_bg": "#1976d2",
+    "badge_fg": "#fff",
+    "datum": "06.11.2026 12:03",
+    "wappen_url": "logos/nuernberg.png",
+    "vereine": [
+      "Darmstadt",
+      "Nürnberg"
+    ],
+    "anriss": "Der 1. FC Nürnberg empfängt als Tabellenzweiter der 2. Bundesliga am Samstag (13 Uhr/Sky) den SV Darmstadt 98. Trainer Miroslav Klose möchte den Club in der Länderspielpause auf einem der",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Nürnberg",
+    "pfad": "artikel/klose-setzt-gegen-darmstadt-auf-die-kulisse-im-max-morlock-stadion-250791d7a6.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "recht",
+      "frage": "Hat Klose recht: Ist die Kulisse im Max-Morlock-Stadion Nürnbergs Trumpf?",
+      "antworten": [
+        "Ja",
+        "Nein"
+      ]
+    }
+  },
+  {
     "id": "04270defe9",
     "titel": "Heidenheim: Patrick Mayer im Kreis der Schmidt-Nachfolger",
     "kategorie": "news",

@@ -1,241 +1,5 @@
 [
  {
-  "id": "2290e29ed3",
-  "schluessel": "hannover|transfer",
-  "person": "",
-  "spieler": [],
-  "klub": "Hannover",
-  "klubs": [
-   "Hannover"
-  ],
-  "stufe": "geruecht",
-  "klasse": "transfer",
-  "titel": "Hannover-Interesse an Ex-Bremer Marin",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQjdJVmJKSEVVTGp0eTl5Wm9idjFlaU8tbk83WFdXOFZQV2pBb3M5ZDFqazY1ZFhlRVpOUlE1LWJraGxuc1ladURBWVliVXBwMUN3TDFsSWJINDIxZzJUWHRXY2lNQzZVbGJ0eWdSZkxydmsxNFVoWkREcGxEcVhPbVVpR29ScTZoUW1JZEtjbTJLdXpJamY0?oc=5",
-    "aid": "cd9f9cfb17",
-    "titel": "Hannover-Interesse an Ex-Bremer Marin",
-    "quelle": "FussballTransfers.com",
-    "beschr": " Hannover-Interesse an Ex-Bremer Marin &nbsp;&nbsp; FussballTransfers.com ",
-    "zeit": "2026-11-05T21:47"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-06T06:01",
-  "archiv": [
-   {
-    "id": "e1e975ae4a",
-    "titel": "Hannover 96 sucht Sportchef: Drei Kandidaten nach Boldt-Aus",
-    "datum": "03.11.",
-    "stufe": "geruecht",
-    "summary": "Hannover 96 hat nach dem Aus von Jonas Boldt laut Aufsichtsratschef Martin Kind drei Kandidaten für den Sportchef-Posten. Ein neuer Mann soll Mitte oder Ende November kommen, Sportdirektor Ralf Becker steht offenbar vor dem Aus."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "d411310153",
-  "schluessel": "dresden|verletzung",
-  "person": "",
-  "spieler": [],
-  "klub": "Dresden",
-  "klubs": [
-   "Dresden",
-   "Fürth"
-  ],
-  "stufe": "ausfall",
-  "klasse": "verletzung",
-  "titel": "Dynamo Dresden muss gegen Fürth auf sechs Spieler verzichten",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZUxRTzhIQ2VuREJKQW9tbUFMWVRQUi1QUTVvZXdCWkcxTDVLSldNSnJFa1hqSk1NZlF3NDZocGQ2am53bWpqbXdqeVZIbmMwSkd5OXRERExmcmYwUlVEcmczdHRzWjZwS0Y3UURBOHViMVV4NF8wRFZSQTBYY1V2TVVXeUpzY1RkSjhDR1ExVjVlQnJNVzMzMmQxRnZKMUVtVi1IOXBHMFl2VXRhNGtlMnIweF9lTTNOMzByVzZnUFhhNlNzeXpqQUdxOXlpZEl60gHsAUFVX3lxTE9VZWR0UVBOSU5PSXNlQVBBTFhsUHRFN2ozM09NM0dJYVN1U25kNklJTUxUWXJqNmM1dkNaZWtGX0RtVHc4Yl9CektEQzF1ak1ZMnBKZEtpbGN0WHZOMmREcWV0S3hrcHYzVWc0NXEyMG1RdHdnYy1fckZPZ2FWemNlR2h5X3RuZXczekl2OUV5WmNZT2otZ3pid29nZmloLW1QeEljWHE1WXdjY0NtY1htcWZZeUdQUXlrYjh0RTZUdjNGeDNwLUtkTHpseElMX2F3QUpidElSSjZIbmV6Z2Q0SjVqSlBIM3NpOHNa?oc=5",
-    "aid": "60dc329df6",
-    "titel": "Dynamo Dresden muss gegen Fürth auf sechs Spieler verzichten",
-    "quelle": "Sächsische Zeitung",
-    "beschr": " Dynamo Dresden muss gegen Fürth auf sechs Spieler verzichten &nbsp;&nbsp; Sächsische Zeitung ",
-    "zeit": "2026-11-06T05:40"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 3,
-  "status": "u",
-  "erstmals": "2026-11-06T06:01",
-  "archiv": [
-   {
-    "id": "f8a5283d33",
-    "titel": "Dynamo Dresden: Luca Herrmann fällt bis Jahresende aus",
-    "datum": "04.11.",
-    "stufe": "ausfall",
-    "summary": "Dynamo Dresden muss bis Jahresende auf Mittelfeldspieler Luca Herrmann verzichten. Er zog sich beim Spiel in Hannover eine Fußverletzung zu."
-   },
-   {
-    "id": "0d4c400062",
-    "titel": "Dynamo vor Fürth-Spiel mit Sorgen in der Innenverteidigung",
-    "datum": "03.11.",
-    "stufe": "ausfall",
-    "summary": "Dynamo Dresden muss gegen Fürth auf den gesperrten Friedrich Müller sowie die Langzeitverletzten Bünning und Schmidt verzichten. Der Einsatz von Nicolai Rapp ist offen."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "d696b47229",
-  "schluessel": "cottbus|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Cottbus",
-  "klubs": [
-   "Cottbus"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Rassistischer Vorfall: Test Cottbus gegen Halle abgebrochen",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbnlCNHFOZjF4dWpqajc1OEk1Y2Zab0pxMU1EazVyUWZZQk1OM0tRRFpGbV9pajhBOXFzV3hWSkdqeDUtcmxBWl8zdHBLOEpSYTFIWnFJNzVoeGhjQjFEa3c1TUFSQkYzYlJXOWhyS1gzcWN3TjN1OGZwOEdfRS1MajRCSHdxY3RXS3JwSjRuVTRaQV80WGpSTUlhRnNzWmhJTVY1bmlRVDJjd05RNm8zQ2pVaFRXeG9fSENHNHFLQQ?oc=5",
-    "aid": "04f2aad5ed",
-    "titel": "Rassistischer Vorfall: Test Cottbus gegen Halle abgebrochen",
-    "quelle": "Soester Anzeiger",
-    "beschr": " Rassistischer Vorfall: Test Cottbus gegen Halle abgebrochen &nbsp;&nbsp; Soester Anzeiger ",
-    "zeit": "2026-11-06T00:11"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-06T06:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "f12998bf40",
-  "schluessel": "hertha|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hertha",
-  "klubs": [
-   "Hertha"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Hertha BSC: Reese fällt Entscheidung über Verabschiedung",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc3IxeU1FamFhRDBYel9Fd3NPcTNOaFBKdU5UMEVERGE1Q1M1VjM1Qk9TYzhJWmh5NnZjQWFuSTJITjVqek8tOHYtUW9mR0R1MGM2NWNfYTJIVU02RWJ3TEZyd3ZyTU1iUFhDWHNzZ3VIRE9qVjEwWEhMSjJEVWJvenNfdHJUQUFEdWZmempzTy1KbnBjRHRzd2JYQ0V4aU92MERVTVJOUU1QMG8xcW5YbFktUGl0U0o0?oc=5",
-    "aid": "17702bb39b",
-    "titel": "Hertha BSC: Reese fällt Entscheidung über Verabschiedung",
-    "quelle": "BILD",
-    "beschr": " Hertha BSC: Reese fällt Entscheidung über Verabschiedung &nbsp;&nbsp; BILD ",
-    "zeit": "2026-11-06T05:05"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "u",
-  "erstmals": "2026-11-06T06:01",
-  "archiv": [
-   {
-    "id": "f57eea9f29",
-    "titel": "Reese und Damar freuen sich auf Wiedersehen mit Hertha",
-    "datum": "01.11.",
-    "stufe": "sonstiges",
-    "summary": "Wolfsburgs Fabian Reese und Muhammed Damar freuen sich auf das Spiel bei Tabellenführer Hertha BSC am Samstag. Beide haben eine Vergangenheit in Berlin und kommen nach dem 2:0 gegen Osnabrück mit Rückenwind."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "8c778bd810",
-  "schluessel": "bochum|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Bochum",
-  "klubs": [
-   "Bochum"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "VfL Bochum: Crimaldi kommt nicht mehr zum Zug – deutliche Worte von Uwe Rösler",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOF9iNG9aenlLa0o1WHhiMjR2QVByTGRKeUd5R0dZQzlSV2otLURCTGtkeXNYRWwzemQwcjUzSk40Rm1zdEdKVkw0WVNVNXRjMlBoTGUtUXp6QVBxb0ROM24td1drTG5HUWpMeUc1RnVwYkJtTk84bGFFUENqMThaOUZmRkhkYmpEbnFueFY0eG1MYXRyMFlldkNOaExCWTVPRmlUU21ndnh1VksyT2pOUDFfUlFoUjkzOTlXTE01czAtXzRrNDlaZ0h5X3ZPd3M?oc=5",
-    "aid": "b10c2ad5fc",
-    "titel": "VfL Bochum: Crimaldi kommt nicht mehr zum Zug – deutliche Worte von Uwe Rösler",
-    "quelle": "WAZ",
-    "beschr": " VfL Bochum: Crimaldi kommt nicht mehr zum Zug – deutliche Worte von Uwe Rösler &nbsp;&nbsp; WAZ ",
-    "zeit": "2026-11-05T21:00"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-06T06:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "5f291da4ee",
-  "schluessel": "darmstadt|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Darmstadt",
-  "klubs": [
-   "Darmstadt"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Klose über Darmstadt: \"Will nicht Angstgegner sagen, aber ...\" | Fokus auf Offensive | Video",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObE9pQnF1bld3X1VDNVZSWmJEWjUtU1ZQaGhyNWNzM1FsWXJDMjNjcWFTSEtZbllHNm5uenRpaDQ2eGhOQlI0c3duS0hUbGo5OGNFWmwyWkRJYTE0UTZNbUhTWnJCbXVQdXF6WTlYS25vODhyN25vcXd2a09tUEZ0T0lWWXpUNVpMdFVJOS1Objk0MlRjU3c?oc=5",
-    "aid": "c3e9638d5e",
-    "titel": "Klose über Darmstadt: \"Will nicht Angstgegner sagen, aber ...\" | Fokus auf Offensive | Video",
-    "quelle": "Kicker",
-    "beschr": " Klose über Darmstadt: \"Will nicht Angstgegner sagen, aber ...\" | Fokus auf Offensive | Video &nbsp;&nbsp; Kicker ",
-    "zeit": "2026-11-05T17:26"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-06T06:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "83fd3bba60",
-  "schluessel": "hertha|kader",
-  "person": "",
-  "spieler": [],
-  "klub": "Hertha",
-  "klubs": [
-   "Hertha",
-   "Wolfsburg"
-  ],
-  "stufe": "kader",
-  "klasse": "kader",
-  "titel": "Hertha BSC vs. VfL Wolfsburg: voraussichtliche Aufstellungen",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYy1Zakg3cThpMVB5YU95UnJ4MHRxS0t4WTd5TDlyZFg4cEllcEZKTERKU2JqazFtejliTWdjSFRhaHduSXMzb0VnOFR1eTBjZjVQbUR5V0ZWa1l2MHF5czNCNkRrOTNCc2lXNE1mZy1kYnlSZnNEaWpYRGd6LTE2d2t5WVV5ZmphOHd2LXVMMjduOG5KT2FpbUViM09mc2dTQklaRmpscHVHRVVC?oc=5",
-    "aid": "d7eaf06538",
-    "titel": "Hertha BSC vs. VfL Wolfsburg: voraussichtliche Aufstellungen",
-    "quelle": "Tipico",
-    "beschr": " Hertha BSC vs. VfL Wolfsburg: voraussichtliche Aufstellungen &nbsp;&nbsp; Tipico ",
-    "zeit": "2026-11-06T08:08"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-06T09:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
   "id": "0428bc9364",
   "schluessel": "braunschweig|sonstiges",
   "person": "",
@@ -278,6 +42,230 @@
     "summary": "Cottbus-Trainer Claus-Dieter Wollitz will nach der 1:2-Heimniederlage gegen Bochum Zugeständnisse wie freie Tage streichen. Im Spiel in Braunschweig am Freitag fehlen Kapitän Axel Borgmann und Neuzugang Julian Guttau."
    }
   ],
+  "versuche": 2
+ },
+ {
+  "id": "565231e804",
+  "schluessel": "hertha|verletzung",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha"
+  ],
+  "stufe": "rueckkehr",
+  "klasse": "verletzung",
+  "titel": "Vor Rückkehr zu Hertha BSC: Heftiger Kruse-Seitenhieb für Fabian Reese",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVnk5X2RpeEF6cXhXeGxfd013VkZmTG1XVXNvYmg5YnJwbmEtak9GcjZhVldDSzhzNEFwTUJNcHUxa2RPcFBFYzl1NEZXSnVZMUpsUGFyTHl6MXVZNU1sX1Zwakp3cE83WGZ2THhIVHFpWUZrcWlScXFCcnFDWGkzektNaHBGVlVlUXp2REpmMG9PbHhtelhleDlwb2U1a1JNX3kwSUJScGJjTW5uU2c?oc=5",
+    "aid": "4fa9f4715d",
+    "titel": "Vor Rückkehr zu Hertha BSC: Heftiger Kruse-Seitenhieb für Fabian Reese",
+    "quelle": "sport.de",
+    "beschr": " Vor Rückkehr zu Hertha BSC: Heftiger Kruse-Seitenhieb für Fabian Reese &nbsp;&nbsp; sport.de ",
+    "zeit": "2026-11-06T10:24"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "u",
+  "erstmals": "2026-11-06T12:01",
+  "archiv": [
+   {
+    "id": "7e1135c173",
+    "titel": "Leitl vor Reese-Rückkehr: „Es geht um den VfL Wolfsburg“",
+    "datum": "05.11.",
+    "stufe": "rueckkehr",
+    "summary": "Herthas Trainer Stefan Leitl will die Rückkehr von Fabian Reese vor dem Spitzenspiel gegen Wolfsburg nüchtern betrachten. Der ungeschlagene Tabellenführer trifft am Samstagabend im Olympiastadion auf den Drittplatzierten."
+   },
+   {
+    "id": "f32559af08",
+    "titel": "Hertha vor Wolfsburg: Nilsson und Dardai zurück im Training",
+    "datum": "03.11.",
+    "stufe": "rueckkehr",
+    "summary": "Herthas Stürmer Gustaf Nilsson und Innenverteidiger Marton Dardai sind nach Verletzungen ins Mannschaftstraining zurückgekehrt. Am Samstagabend wartet im Olympiastadion das Topspiel gegen Wolfsburg."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "7d93f44180",
+  "schluessel": "dresden|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Dresden",
+  "klubs": [
+   "Dresden",
+   "Fürth"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "SG Dynamo Dresden: Was Fans vor dem Duell mit SpVgg Greuther Fürth wissen sollten",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORThzMmI1VF9zcnNiX00wZXBLOHhIS3BOZ1NrUVFCS2daYzczWHRZOHNiNDdhenA5YXQwTlAzaFNMUm5DZ1BqM3VUTkFkc1hObV9JQ0pnWVdUVm9relAxOHJSelJQVkhFdUNHZUt5T0prVjVpcWRmM2lfNTBNZDVUdC1XZzlGWnZrX0ZpSjNUUEx5WGhSaTlJY0pJczFKMHNFSHowSmhBakMxY1dGM3NhUXJrTVRsVTFGZTRtMUtIdU1OZ1Q1Y3ROUQ?oc=5",
+    "aid": "adb4cfa452",
+    "titel": "SG Dynamo Dresden: Was Fans vor dem Duell mit SpVgg Greuther Fürth wissen sollten",
+    "quelle": "News.de",
+    "beschr": " SG Dynamo Dresden: Was Fans vor dem Duell mit SpVgg Greuther Fürth wissen sollten &nbsp;&nbsp; News.de ",
+    "zeit": "2026-11-06T09:31"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-06T12:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "ddd23c262e",
+  "schluessel": "cottbus|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Cottbus",
+  "klubs": [
+   "Cottbus",
+   "Braunschweig",
+   "Frankfurt"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "FC Energie Cottbus: Ausgangslage und News vor Eintracht Braunschweig am 06.11.2026",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbjBqay1wX3htNlVQQkw1V0ZHdll1N08yTm8wemtBcWd4bUY2VUlha0p6ZDZ3VkZrOFlVU0J6RE43Y2FXaWxRN1VOVjA1dkt2R2I1NVFtUmVoMG56ZEU5Z2NEVmdkZkNacS11bTNWS1BaM0FBd0J2V1QwNS1SUmVoenJsem9IZF9paklURFBzYUgxamFYc2E3NW1VemxLcUhmTEJqVkxOellxSW5YNFJrRkx1N21wc1ozZzhjc2duamYtdktJd05VSWs4WQ?oc=5",
+    "aid": "329f710d0c",
+    "titel": "FC Energie Cottbus: Ausgangslage und News vor Eintracht Braunschweig am 06.11.2026",
+    "quelle": "News.de",
+    "beschr": " FC Energie Cottbus: Ausgangslage und News vor Eintracht Braunschweig am 06.11.2026 &nbsp;&nbsp; News.de ",
+    "zeit": "2026-11-06T09:31"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-06T12:01",
+  "archiv": [
+   {
+    "id": "3bcb08987d",
+    "titel": "Wollitz greift durch: Cottbus muss in Braunschweig ohne Borgmann und Guttau auskommen",
+    "datum": "04.11.",
+    "stufe": "sonstiges",
+    "summary": "Cottbus-Trainer Claus-Dieter Wollitz will nach der 1:2-Heimniederlage gegen Bochum Zugeständnisse wie freie Tage streichen. Im Spiel in Braunschweig am Freitag fehlen Kapitän Axel Borgmann und Neuzugang Julian Guttau."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "81c47bb7a7",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover",
+   "Heidenheim"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Hannover in Heidenheim, Kind sortiert 96 neu",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR3VxNzhudE5sVkVpR29KNHpUeVBjdUpuMk83THNMdnpkV3A4WV8teHM5YnFNWGRScEJMNmE0X2JmNkdNNVo0ZXo0WGp3QlZLRlZsYVZpSE9NY19GZy0xZmYxVXFXOVJfUUl0VC1fRWlkTDdOanBiU3V1T3NVOXNJT0VDZG1jNmhRYVBQc05CWlV0LW1rVnlxbWtNWEczWWNybmfSAb4BQVVfeXFMTm1BMFc0amFid2o3N1pGcklTTjZrbG4yWkNPOGZDYXNWY2h3MEZ2Q05VMHl0VnFQd2lNUksyTlhLYVdxZU9CeUVvZW1sVjZIX1NiZ3k0azEwRTVFVFJMZ2RsTlMwVVBSeVZkZnotbWFfcXNpdV82WGQ3QXhMajVaZ1lHazRjai1SUXF4cmhybnptd1Q0WUpDVjRWbmpaV1R1a1MyaTREV3JYUkZZSWtjcE4zZTZISWltMHRmV3BGZw?oc=5",
+    "aid": "b63c53552b",
+    "titel": "Hannover in Heidenheim, Kind sortiert 96 neu",
+    "quelle": "HAZ",
+    "beschr": " Hannover in Heidenheim, Kind sortiert 96 neu &nbsp;&nbsp; HAZ ",
+    "zeit": "2026-11-06T09:10"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "u",
+  "erstmals": "2026-11-06T12:01",
+  "archiv": [
+   {
+    "id": "46380a1986",
+    "titel": "Wontorra stärkt Hannovers Trainer Wagner den Rücken",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Moderatorin Laura Wontorra stärkt Hannovers Trainer Sandro Wagner, der nach vier Pflichtspielen noch sieglos ist, im Podcast „TOMorrow“ den Rücken. Sie traut ihm eine große Trainerkarriere zu."
+   },
+   {
+    "id": "afa3db9641",
+    "titel": "Hannover 96 trennt sich nach fünf Monaten von Sportchef Boldt",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Hannover 96 hat Sport-Geschäftsführer Jonas Boldt nach nur fünf Monaten mit sofortiger Wirkung abberufen. Der Klub steht nach neun Spieltagen mit acht Punkten auf Platz 16."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "0144f1f340",
+  "schluessel": "hertha|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "\"Es kribbelt\" - Strobl über Topspiel gegen Hertha BSC",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMExlYjI4UHNwWEVadVJfdWY5M0FCbU4yMjZUQU5XTVpzdnNGUnF6M3VmRGliZzFHamJlTjd3Z3U1Zm5kUWJ1WnNiNmM4dWVBQ2cyVTM1dnk5clVldVl6M09OUWtYSHdyTTk5akdpV3ZkR1N3WlpYZ1dsTlFwdXVPQUo1VFNlQTFFYk12b1hHRTZ0aGZod0FsSWJiVWhxNHRjSFFRVERn?oc=5",
+    "aid": "31f74362bf",
+    "titel": "\"Es kribbelt\" - Strobl über Topspiel gegen Hertha BSC",
+    "quelle": "Sky.de",
+    "beschr": " \"Es kribbelt\" - Strobl über Topspiel gegen Hertha BSC &nbsp;&nbsp; Sky.de ",
+    "zeit": "2026-11-06T11:41"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-06T12:01",
+  "archiv": [
+   {
+    "id": "c636d3e74a",
+    "titel": "Hertha im Pokal-Achtelfinale gegen Bayern live bei RTL",
+    "datum": "04.11.",
+    "stufe": "sonstiges",
+    "summary": "Hertha BSC spielt im DFB-Pokal-Achtelfinale am 1. Dezember um 20:45 Uhr gegen den FC Bayern München. RTL überträgt die Partie live."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "f446dd0987",
+  "schluessel": "kiel|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Kiel",
+  "klubs": [
+   "Kiel"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Holstein Kiel: Die Störche kommen nicht vom Fleck",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQmpjMWUxdlRacFc4YnhQMWg1YjdtTDNYWEpEUHBrV3pzYTNpZlhkR01YeXBLQkgxN3F2X3V2a3RjV08yRmpGLTA0MW8tNHJVdlQxdk42WEZRM2tJVl9zcmlsVDVqNEdaV1NiSDdyRHhIaEF5S205YnMxVzFyVTBkRDBhcVh1YzQxZklsZWEtUklPZndnRVk2Y21QSEZrbUxWM1d6Q3FRZU1ZUmIzTU5Yd0laTXdGVTB6MW1NXzNR0gHaAUFVX3lxTFBZU0xjUTFhX2lxV1l0QVROSGlaWVRKSFVJUWFPcGEybmFPZHcyQTJzYU1yZ2NWOU5qMHFjaFRwVlpRU3RiaTgxLU41enRJVGU0dk5lVzJKUnN4Q18yX3RPN3A3cDFja09oWjdIRmxVYnRmQWFDRjAxWVRyUUpUSXR6M0VpeEpUajBHdzBVTm94aGl5SnpvRk0xZllxSlYyd2xkSGt4NUFpeEN6TndBMVgzeFhraWRPeVFRV3IwNE5zZ2hRbThtdy1OSmp2bHVmbktjZlJHMjBzekhR?oc=5",
+    "aid": "532f18b7e4",
+    "titel": "Holstein Kiel: Die Störche kommen nicht vom Fleck",
+    "quelle": "Kieler Nachrichten",
+    "beschr": " Holstein Kiel: Die Störche kommen nicht vom Fleck &nbsp;&nbsp; Kieler Nachrichten ",
+    "zeit": "2026-11-06T11:03"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "u",
+  "erstmals": "2026-11-06T12:01",
+  "archiv": [],
   "versuche": 1
  }
 ]
