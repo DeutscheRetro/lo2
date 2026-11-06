@@ -3291,12 +3291,12 @@ def _verein_faq(team_name: str, kurz: str, feed: list, naechste: list, tiefe: st
     transfers = [a for a in feed if kurz in (a.get("vereine") or []) and a.get("kategorie") == "transfer"
                  and Path(a["pfad"]).exists()][:3]
     if transfers:
-        fragen.append((f"Welche Transfers gibt es bei {voll}?", "Die neuesten Meldungen: " + "; ".join(
+        fragen.append((f"Welche Transfers gibt es bei {team_name}?", "Die neuesten Meldungen: " + "; ".join(
             f'<a href="{tiefe}{e(a["pfad"])}">{e(a["titel"])}</a>' for a in transfers) + "."))
     verletzt = [a for a in feed if kurz in (a.get("vereine") or []) and a.get("kategorie") == "verletzung"
                 and Path(a["pfad"]).exists()][:3]
     if verletzt:
-        fragen.append((f"Wer fällt bei {voll} aus?", "Die neuesten Meldungen: " + "; ".join(
+        fragen.append((f"Wer fällt bei {team_name} aus?", "Die neuesten Meldungen: " + "; ".join(
             f'<a href="{tiefe}{e(a["pfad"])}">{e(a["titel"])}</a>' for a in verletzt) + "."))
     return _faq(fragen)
 
