@@ -1,5 +1,60 @@
 [
   {
+    "id": "76d12d0c9e",
+    "titel": "KSC will in Bochum Konstanz zeigen: Senft will kein neues Auf und Ab",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "06.11.2026 18:04",
+    "wappen_url": "logos/karlsruhe.png",
+    "vereine": [
+      "Bochum",
+      "Darmstadt",
+      "Karlsruhe"
+    ],
+    "anriss": "Der Karlsruher SC will am Sonntag, 8. November, beim VfL Bochum nach dem jüngsten Heimsieg auch auswärts eine stabile Leistung zeigen. Trainer Maximilian Senft möchte ein ähnliches Auf und Ab",
+    "spielerstatus": [
+      {
+        "spieler": "Franke",
+        "klub": "Karlsruhe",
+        "status": "faellt_aus",
+        "grund": "fehlt weiter"
+      },
+      {
+        "spieler": "Jung",
+        "klub": "Karlsruhe",
+        "status": "faellt_aus",
+        "grund": "fehlt weiter"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Karlsruhe",
+    "pfad": "artikel/ksc-will-in-bochum-konstanz-zeigen-senft-fordert-reaktion-76d12d0c9e.html",
+    "bild_tm": "",
+    "umfrage": null
+  },
+  {
+    "id": "741030cd26",
+    "titel": "Nürnberg: Frey gibt Bischof und Schindler Job-Garantie",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "06.11.2026 18:04",
+    "wappen_url": "logos/nuernberg.png",
+    "vereine": [
+      "Nürnberg"
+    ],
+    "anriss": "Der 1. FC Nürnberg setzt nach dem Wechsel an der Spitze der Sportabteilung vorerst auf Kontinuität. Der neue Sportvorstand Dieter Frey will die engsten Mitarbeiter seines Vorgängers Joti Chatzialexiou, den",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Nürnberg",
+    "pfad": "artikel/nuernberg-frey-gibt-bischof-und-schindler-job-garantie-741030cd26.html",
+    "bild_tm": "",
+    "umfrage": null
+  },
+  {
     "id": "1e14aee0b2",
     "titel": "Mattuschka rügt Hannover 96: Außendarstellung „unfassbar schlecht“",
     "kategorie": "news",
@@ -49,7 +104,7 @@
   },
   {
     "id": "836589a0c7",
-    "titel": "Robatsch bleibt in Beveren Reservist: Bornemann spricht von „unbefriedigender Situation“",
+    "titel": "Robatsch in Beveren Reservist: Bornemann nennt Lage „unbefriedigend“",
     "kategorie": "news",
     "badge": "News",
     "badge_bg": "#e8c000",
