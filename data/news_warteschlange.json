@@ -34,7 +34,7 @@
     "summary": "Hannover 96 hat nach dem Aus von Jonas Boldt laut Aufsichtsratschef Martin Kind drei Kandidaten für den Sportchef-Posten. Ein neuer Mann soll Mitte oder Ende November kommen, Sportdirektor Ralf Becker steht offenbar vor dem Aus."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "d411310153",
@@ -79,7 +79,7 @@
     "summary": "Dynamo Dresden muss gegen Fürth auf den gesperrten Friedrich Müller sowie die Langzeitverletzten Bünning und Schmidt verzichten. Der Einsatz von Nicolai Rapp ist offen."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "d696b47229",
@@ -108,7 +108,7 @@
   "status": "n",
   "erstmals": "2026-11-06T06:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "f12998bf40",
@@ -145,7 +145,7 @@
     "summary": "Wolfsburgs Fabian Reese und Muhammed Damar freuen sich auf das Spiel bei Tabellenführer Hertha BSC am Samstag. Beide haben eine Vergangenheit in Berlin und kommen nach dem 2:0 gegen Osnabrück mit Rückenwind."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "8c778bd810",
@@ -174,7 +174,7 @@
   "status": "n",
   "erstmals": "2026-11-06T06:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "5f291da4ee",
@@ -203,7 +203,7 @@
   "status": "n",
   "erstmals": "2026-11-06T06:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "83fd3bba60",
@@ -233,6 +233,51 @@
   "status": "n",
   "erstmals": "2026-11-06T09:01",
   "archiv": [],
+  "versuche": 2
+ },
+ {
+  "id": "0428bc9364",
+  "schluessel": "braunschweig|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Braunschweig",
+  "klubs": [
+   "Braunschweig",
+   "Frankfurt"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Eintracht Braunschweig: Neue Aufgabe gegen die Niederlausitzer am 06.11.2026",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX2plRzI4ZExEZHRLUVV6a056YW1OaVB3d1pVM0s0Y2JoaVFlOHlRa1p1WmxfOERRak16YmktOGhna2pleFJRZ1FKQTF5OF9JTnlGT0dwcnZidk90a2Rwam1VWEVQT2RodUlES3U4Q2Q2MmtJQkUyektabGt5UkUzd0tfcXIyRENZdzIyUlV5OXBQZ2lDclZLSEgzOUZWX0g0Qi1pT01lc1ExYjd5MW5KbUZ6NGItTjhOOVgxcFZPVF9aVnROQkZkTC1Lcw?oc=5",
+    "aid": "edea0cc790",
+    "titel": "Eintracht Braunschweig: Neue Aufgabe gegen die Niederlausitzer am 06.11.2026",
+    "quelle": "News.de",
+    "beschr": " Eintracht Braunschweig: Neue Aufgabe gegen die Niederlausitzer am 06.11.2026 &nbsp;&nbsp; News.de ",
+    "zeit": "2026-11-06T09:31"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-06T09:57",
+  "archiv": [
+   {
+    "id": "65e86f4d4a",
+    "titel": "Braunschweig reist ins Wintertrainingslager: Kornetka setzte Belek durch",
+    "datum": "05.11.",
+    "stufe": "sonstiges",
+    "summary": "Eintracht Braunschweig reist vom 4. bis 11. Januar 2027 nach Belek, es ist das erste reguläre Wintertrainingslager seit vier Jahren. Trainer Lars Kornetka hatte sich ausdrücklich dafür eingesetzt."
+   },
+   {
+    "id": "3bcb08987d",
+    "titel": "Wollitz greift durch: Cottbus muss in Braunschweig ohne Borgmann und Guttau auskommen",
+    "datum": "04.11.",
+    "stufe": "sonstiges",
+    "summary": "Cottbus-Trainer Claus-Dieter Wollitz will nach der 1:2-Heimniederlage gegen Bochum Zugeständnisse wie freie Tage streichen. Im Spiel in Braunschweig am Freitag fehlen Kapitän Axel Borgmann und Neuzugang Julian Guttau."
+   }
+  ],
   "versuche": 1
  }
 ]
