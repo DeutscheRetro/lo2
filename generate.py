@@ -1770,17 +1770,18 @@ def main():
     log.info(f"URL-Cache geladen: {url_cache.get_seen_count()} bekannte URLs (letzte 30 Tage)")
 
     _SKIP_KEYWORDS = (
-        "nagelsmann", "nationalmannschaft", "dfb-team", "em 2026", "wm 2026",
-        "nations league", "länderspiel", "u21-em", "olympia",
+        # Länderspiele und Nationalteams bewertet die Redaktionskonferenz (Zweitliga-Spieler mit Rolle zählen);
+        # "länderspiel" träfe sonst auch jede Meldung mit "Länderspielpause"
+        "nagelsmann", "em 2026", "wm 2026", "nations league", "u21-em", "olympia",
         "frauen", "frauenfußball", "frauenbundesliga", "-frauen",
-        "2. bundesliga", "2. liga", "zweite bundesliga", "zweitliga",
+        # kein "2. bundesliga"/"2. liga"/"zweitliga": das ist hier die eigene Liga
         # Rueckblicke: kicker spielt Archivmaterial in die Team-Feeds.
         # Bewusst eng: "retro" oder "legendär" allein wirft auch aktuelle News
         # raus, etwa das Retro-Trikot, das Frankfurts Vereinswebsite lahmlegte.
         "heute vor", "vor x jahren", "rückblick auf die saison",
         "in den 70ern", "in den 80ern", "in den 90ern", "jahrestag",
         # Jugend, Reserve, Unterhaus und Statistik-/Galerieseiten (v. a. aus der Google-Suche)
-        "u19", "u17", "u16", "u15", "u23", "regionalliga", "3. liga", "oberliga", "futsal",
+        "u19", "u17", "u16", "u15", "u23", "regionalliga", "oberliga", "futsal",   # kein "3. liga": steht bei Auf- und Absteigern dabei
         "e-sport", "esport", "(galerie)", "| seite", "spielereignisse", "detailansicht",
         "live im stream", "live im tv", "im free-tv", "wo läuft", "tv-übertragung", "so sehen sie",
         "ea fc", "fc 26", "fc 27", "beliebtheitsrangliste", "marktwertentwicklung",

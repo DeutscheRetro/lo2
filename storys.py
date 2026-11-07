@@ -392,7 +392,13 @@ def archiv_abgleich(g: dict, archiv: list[dict], jetzt: datetime.datetime | None
             else:
                 hauptperson = bool(g["person"]) and e["person"] == falten(g["person"])
                 endgueltig = g["stufe"] in ("vollzogen", "geplatzt", "entlassung", "trainer_neu")
-                sicher = aehnlich >= 55 or (endgueltig and (hauptperson or not g["person"]))
+                # Ohne Spielernamen (keine Spielerdatenbank für diese Liga) ist "MSV holt Stürmer" nicht
+                # dasselbe wie "MSV holt Verteidiger": nur Trainerwechsel gelten ohne Person als gleich
+                # Ohne Person teilen sich die Titel Klub und Verb ("MSV verpflichtet …" ~65 %):
+                # dann nur fast gleiche Schlagzeilen; den Rest prüft die KI-Dublettenprüfung
+                ohne_person = not g["person"] and g["stufe"] in ("entlassung", "trainer_neu")
+                schwelle = 55 if g["person"] or ohne_person else 85
+                sicher = aehnlich >= schwelle or (endgueltig and (hauptperson or ohne_person))
             if sicher:
                 return "doppelt", [x for x, _ in treffer][:3]
         elif STUFEN_REIHE.get(g["stufe"], 0) > STUFEN_REIHE.get(e["stufe"], 0) or g["klasse"] == "verletzung":
@@ -443,6 +449,10 @@ def einreihen(schlange: list[dict], g: dict) -> bool:
             # Vermischtes nur bei derselben Person und ähnlicher Schlagzeile
             if not g["person"] or fuzz.token_sort_ratio(falten(g["titel"]), falten(w["titel"])) < 50:
                 continue
+        elif not g["person"] and fuzz.token_sort_ratio(falten(g["titel"]), falten(w["titel"])) < 85:
+            # Schlüssel nur aus Klub + Ereignisart (Spieler unbekannt): zwei Transfers desselben Klubs
+            # nicht in einen Artikel mischen
+            continue
         bekannt = {q["url"] for q in w["quellen"]}
         w["quellen"] += [q for q in g["quellen"] if q["url"] not in bekannt]
         w["quellen"].sort(key=quellen_rang)
