@@ -1,0 +1,8 @@
+anthropic>=1.11,<2
+feedparser
+python-slugify
+python-dotenv
+requests
+trafilatura
+rapidfuzz
+Pillow

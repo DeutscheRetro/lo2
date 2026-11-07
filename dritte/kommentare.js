@@ -1,0 +1,569 @@
+// kommentare.js – LO Kommentarsystem
+// Erwartet als Globals: SUPABASE_URL, SUPABASE_ANON
+// Optional: ARTIKEL_ID (nur auf Artikelseiten)
+
+(function () {
+  const SB_URL = location.origin + '/sb';   // über die eigene Domain (Blocker-sicher)
+  let sb = supabase.createClient(SB_URL, SUPABASE_ANON);
+  let aktuellerUser = null;
+  let isAdmin = false;
+  let darfLoeschen = false;
+  let eigenerBan = null;   // kommt vom Server (wer_bin_ich), die Bann-Tabelle ist nicht öffentlich
+  let ignorierteListe = [];   // localStorage wirft bei blockierten Cookies
+  try { ignorierteListe = JSON.parse(localStorage.getItem('lo_ignore') || '[]'); } catch (e) {}
+
+  // ─── Schreibzugriffe ─────────────────────────────────────────────────────────
+  // Der anon-Key darf nur noch lesen. Jede Aenderung geht an die Netlify
+  // Function, die das Identity-Token serverseitig prueft.
+  async function api(aktion, daten = {}) {
+    const user = window.netlifyIdentity && netlifyIdentity.currentUser();
+    if (!user) throw new Error('Nicht angemeldet');
+    const token = await user.jwt();
+    const res = await fetch('/api', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${token}` },
+      body: JSON.stringify({ aktion, ...daten })
+    });
+    const antwort = await res.json().catch(() => ({}));
+    if (!res.ok) throw new Error(antwort.fehler || `Fehler ${res.status}`);
+    return antwort;
+  }
+  window._loApi = api;
+
+  // ─── Theme ───────────────────────────────────────────────────────────────────
+  function applyTheme(t) {
+    document.body.classList.toggle('light', t === 'light');
+    document.documentElement.classList.toggle('light', t === 'light');
+    const icon  = document.getElementById('theme-icon');
+    const label = document.getElementById('theme-label');
+    if (icon)  icon.textContent  = t === 'light' ? '🌙' : '☀️';
+    if (label) label.textContent = t === 'light' ? 'Dunkel' : 'Hell';
+  }
+  let gespeichert = null;
+  try { gespeichert = localStorage.getItem('theme'); } catch (e) {}
+  applyTheme(gespeichert || (document.documentElement.classList.contains('light') ? 'light' : 'dark'));
+  document.getElementById('theme-toggle')?.addEventListener('click', () => {
+    const t = document.body.classList.contains('light') ? 'dark' : 'light';
+    try { localStorage.setItem('theme', t); } catch (e) {}
+    applyTheme(t);
+  });
+
+  // ─── Auth ────────────────────────────────────────────────────────────────────
+  function anzeigeName(user) { return user.user_metadata?.full_name || user.email; }
+
+  async function setUser(user) {
+    aktuellerUser = user;
+    // Rollen liegen in der Datenbank; der Server ist die Wahrheit. Das Token
+    // dient nur noch dem Nachweis, wer man ist.
+    let wer = {};
+    try {
+      wer = window.loWerBinIch ? await window.loWerBinIch(user) : await api('wer_bin_ich');
+      isAdmin = !!wer.istAdmin;
+      darfLoeschen = !!wer.darfLoeschen;
+      eigenerBan = wer.ban || null;
+    } catch {
+      isAdmin = false; darfLoeschen = false;
+    }
+    window._loIch = { handle: wer.handle || null, email: user.email };
+    document.dispatchEvent(new CustomEvent('lo-ich', { detail: window._loIch }));
+    const name = anzeigeName(user);
+    const el = document.getElementById('user-name');
+    if (el) {
+      el.textContent = name;
+      el.style.cursor = 'pointer';
+      el.title = 'Mein Profil';
+      el.onclick = () => wer.handle ? (location.href = '/profil/' + encodeURIComponent(wer.handle))
+                                    : window._zeigeProfil(name, null);
+      el.querySelector('.post-zahl')?.remove();
+      if (wer.anfragen) {
+        const b = document.createElement('span');
+        b.className = 'post-zahl profil-anfragen';
+        b.title = wer.anfragen + ' offene Freundschaftsanfrage(n)';
+        b.textContent = wer.anfragen;
+        el.appendChild(b);
+      }
+    }
+    const ui = document.getElementById('user-info');
+    if (ui && !document.getElementById('admin-link')) {
+      ui.querySelector('#admin-link')?.remove();
+      if (darfLoeschen) {
+        const a = document.createElement('a');
+        a.id = 'admin-link'; a.href = 'https://ligaoutsider.de/chefred.html'; a.textContent = '⚙ Admin';
+        a.className = 'btn-nav'; a.style.cssText = 'margin-right:8px;text-decoration:none;font-weight:700;color:var(--accent,#e8c000)';
+        ui.prepend(a);
+      }
+    }
+    document.getElementById('user-info')?.style && (document.getElementById('user-info').style.display = 'flex');
+    document.getElementById('login-btn')  && (document.getElementById('login-btn').style.display = 'none');
+    document.getElementById('signup-btn') && (document.getElementById('signup-btn').style.display = 'none');
+    if (document.getElementById('k-gasthinweis')) document.getElementById('k-gasthinweis').style.display = 'none';
+    if (document.getElementById('kommentar-form')) document.getElementById('kommentar-form').style.display = 'block';
+    if (document.getElementById('k-username'))     document.getElementById('k-username').textContent = name;
+    if (typeof ARTIKEL_ID !== 'undefined') ladeKommentare();
+    ungeleseneAnzeigen();
+  }
+
+  function clearUser() {
+    aktuellerUser = null; isAdmin = false; darfLoeschen = false;
+    window._loIch = null;
+    document.dispatchEvent(new CustomEvent('lo-ich', { detail: null }));
+    sb = supabase.createClient(SB_URL, SUPABASE_ANON);
+    document.getElementById('user-info')  && (document.getElementById('user-info').style.display = 'none');
+    document.getElementById('admin-link')?.remove();
+    document.getElementById('login-btn')  && (document.getElementById('login-btn').style.display = '');
+    document.getElementById('signup-btn') && (document.getElementById('signup-btn').style.display = '');
+    if (document.getElementById('k-gasthinweis')) document.getElementById('k-gasthinweis').style.display = 'block';
+    if (document.getElementById('kommentar-form')) document.getElementById('kommentar-form').style.display = 'none';
+    if (typeof ARTIKEL_ID !== 'undefined') ladeKommentare();
+  }
+
+  if (window.netlifyIdentity) {
+    netlifyIdentity.on('init',   u => { if (u) setUser(u); });
+    netlifyIdentity.on('login',  u => { setUser(u); netlifyIdentity.close(); });
+    netlifyIdentity.on('logout', clearUser);
+  }
+  document.getElementById('login-btn')  ?.addEventListener('click', e => { e.preventDefault(); netlifyIdentity.open('login'); });
+  document.getElementById('signup-btn') ?.addEventListener('click', e => { e.preventDefault(); netlifyIdentity.open('signup'); });
+  document.getElementById('logout-btn') ?.addEventListener('click', e => { e.preventDefault(); netlifyIdentity.logout(); });
+
+
+  // ─── Ungelesene Nachrichten in der Navigation ───────────────────────────────
+  async function ungeleseneAnzeigen() {
+    const zahl = document.getElementById('nachrichten-zahl');
+    if (!zahl || !aktuellerUser) return;
+    try {
+      const r = await api('postfach');
+      const n = r.ungelesen || 0;
+      zahl.textContent = n > 99 ? '99+' : String(n);
+      zahl.hidden = !n;
+    } catch {}
+  }
+
+  // ─── Ban-Check ───────────────────────────────────────────────────────────────
+  async function pruefeBan() {
+    if (!eigenerBan) return null;
+    if (eigenerBan.gebannt_bis && new Date(eigenerBan.gebannt_bis) < new Date()) return null;
+    return eigenerBan;
+  }
+  // Öffentlicher Schlüssel einer Person: Profilname, bei alten Kommentaren der Anzeigename
+  const personKey = k => k.autor_handle ? k.autor_handle : 'n:' + (k.name || '');
+
+  // ─── Bereinigen ──────────────────────────────────────────────────────────────
+  const esc = t => String(t ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+
+  function bereinigen(text) {
+    return text
+      .replace(/<[^>]*>/g, '')
+      .replace(/https?:\/\/\S+/gi, '')
+      .replace(/www\.\S+/gi, '')
+      .trim();
+  }
+
+  // ─── Votes ───────────────────────────────────────────────────────────────────
+  async function vote(kommentarId, wert) {
+    if (!aktuellerUser) return;
+    try { await api('vote', { kommentar_id: kommentarId, wert }); }
+    catch (e) { alert(e.message); return; }
+    ladeKommentare();
+  }
+  window._vote = vote;
+
+  // ─── Ignore ──────────────────────────────────────────────────────────────────
+  window._ignoriereUser = function(email) {
+    if (!ignorierteListe.includes(email)) {
+      ignorierteListe.push(email);
+      try { localStorage.setItem('lo_ignore', JSON.stringify(ignorierteListe)); } catch (e) {}
+    }
+    ladeKommentare();
+  };
+  window._entIgnoriereUser = function(email) {
+    ignorierteListe = ignorierteListe.filter(e => e !== email);
+    try { localStorage.setItem('lo_ignore', JSON.stringify(ignorierteListe)); } catch (e) {}
+    ladeKommentare();
+  };
+
+  // ─── Ban-Modal (Admin) ───────────────────────────────────────────────────────
+  window._zeigeBanModal = function(kommentarId, name) {
+    let m = document.getElementById('ban-modal');
+    if (m) m.remove();
+    m = document.createElement('div');
+    m.id = 'ban-modal';
+    m.style.cssText = 'position:fixed;inset:0;background:rgba(0,0,0,0.8);z-index:2000;display:flex;align-items:center;justify-content:center';
+    m.innerHTML = `
+      <div style="background:var(--bg2);border:1px solid #c62828;border-radius:10px;padding:24px;max-width:320px;width:90%">
+        <div style="font-size:15px;font-weight:800;color:#e53935;margin-bottom:16px">🚫 User bannen</div>
+        <div style="font-size:13px;color:var(--text3);margin-bottom:12px">${esc(name)}</div>
+        <select id="ban-dauer" style="width:100%;background:var(--bg4);border:1px solid var(--border2);border-radius:5px;color:var(--text);padding:8px;font-size:13px;margin-bottom:10px">
+          <option value="1">1 Tag</option>
+          <option value="7">7 Tage</option>
+          <option value="30">30 Tage</option>
+          <option value="0">Permanent</option>
+        </select>
+        <input id="ban-grund" placeholder="Grund (optional)" maxlength="200" style="width:100%;background:var(--bg4);border:1px solid var(--border2);border-radius:5px;color:var(--text);padding:8px;font-size:13px;margin-bottom:14px;box-sizing:border-box"/>
+        <div style="display:flex;gap:8px">
+          <button onclick="window._banUser('${kommentarId}')" style="flex:1;background:#c62828;color:#fff;border:none;border-radius:5px;padding:8px;font-weight:700;font-size:13px;cursor:pointer">Bannen</button>
+          <button onclick="document.getElementById('ban-modal').remove()" style="flex:1;background:var(--bg4);color:var(--text);border:1px solid var(--border2);border-radius:5px;padding:8px;font-size:13px;cursor:pointer">Abbrechen</button>
+        </div>
+      </div>`;
+    document.body.appendChild(m);
+    m.addEventListener('click', e => { if (e.target === m) m.remove(); });
+  };
+
+  window._banUser = async function(kommentarId) {
+    const tage = parseInt(document.getElementById('ban-dauer').value);
+    const grund = document.getElementById('ban-grund').value.trim();
+    const bis = tage === 0 ? null : new Date(Date.now() + tage * 86400000).toISOString();
+    try { await api('ban', { kommentar_id: kommentarId, grund: grund || null, gebannt_bis: bis }); }
+    catch (e) { alert(e.message); return; }
+    document.getElementById('ban-modal')?.remove();
+    document.getElementById('profil-modal')?.remove();
+    ladeKommentare();
+  };
+
+  window._entbanneUser = async function(kommentarId) {
+    try { await api('unban', { kommentar_id: kommentarId }); } catch (e) { alert(e.message); return; }
+    document.getElementById('profil-modal')?.remove();
+    ladeKommentare();
+  };
+
+  // ─── Profil-Modal ────────────────────────────────────────────────────────────
+  window._zeigeProfil = async function(name, handle, kommentarId) {
+    // Mit Profilnamen gibt es eine richtige Profilseite; Moderatoren sehen das Kurzprofil mit Bann-Knopf
+    if (handle && !darfLoeschen) { location.href = '/profil/' + encodeURIComponent(handle); return; }
+    try {
+    let q = sb.from('kommentare').select('id, erstellt_am').neq('geloescht', true);
+    q = handle ? q.eq('autor_handle', handle) : q.eq('name', name).is('autor_handle', null);
+    const { data: komms } = await q;
+    let banInfo = null;
+    if (darfLoeschen && kommentarId) { try { banInfo = (await api('ban_info', { kommentar_id: kommentarId })).ban; } catch (e) {} }
+    const key = handle || 'n:' + name;
+
+    const anzahl = komms?.length || 0;
+    const dates  = komms?.map(k => new Date(k.erstellt_am)) || [];
+    const dabei  = dates.length ? new Date(Math.min(...dates)).toLocaleDateString('de-DE') : '–';
+    let ups = 0, downs = 0;
+    if (komms?.length) {
+      const ids = komms.map(k => k.id);
+      const { data: voten } = await sb.from('kommentar_votes').select('vote').in('kommentar_id', ids);
+      voten?.forEach(v => v.vote === 1 ? ups++ : downs++);
+    }
+
+    const istEigen   = !!handle && window._loIch?.handle === handle;
+    const istIgn     = ignorierteListe.includes(key);
+    const istGebannt = !!banInfo;
+    const banText    = istGebannt
+      ? (banInfo.gebannt_bis ? `Gebannt bis ${new Date(banInfo.gebannt_bis).toLocaleDateString('de-DE')}` : 'Permanent gebannt')
+      : '';
+
+    let m = document.getElementById('profil-modal');
+    if (!m) { m = document.createElement('div'); m.id = 'profil-modal'; document.body.appendChild(m); }
+    m.style.cssText = 'position:fixed;inset:0;background:rgba(0,0,0,0.75);z-index:1000;display:flex;align-items:center;justify-content:center';
+    m.innerHTML = `
+      <div style="background:var(--bg2);border:1px solid var(--border2);border-radius:10px;padding:28px;max-width:340px;width:90%;position:relative">
+        <button onclick="document.getElementById('profil-modal').remove()" style="position:absolute;top:12px;right:16px;background:none;border:none;color:var(--text3);font-size:18px;cursor:pointer">✕</button>
+        ${istGebannt ? `<div style="background:#c62828;color:#fff;font-size:11px;font-weight:700;padding:4px 10px;border-radius:4px;margin-bottom:12px;display:inline-block">🚫 ${banText}</div>` : ''}
+        <div style="font-size:17px;font-weight:800;color:var(--accent);margin-bottom:2px">${esc(name)}</div>
+        <div style="margin-bottom:16px"></div>
+        <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px;margin-bottom:16px">
+          <div style="background:var(--bg4);border-radius:6px;padding:10px;text-align:center">
+            <div style="font-size:18px;font-weight:800;color:var(--text)">${anzahl}</div>
+            <div style="font-size:10px;color:var(--text4)">Kommentare</div>
+          </div>
+          <div style="background:var(--bg4);border-radius:6px;padding:10px;text-align:center">
+            <div style="font-size:14px;font-weight:700;color:#4caf50">▲ ${ups}</div>
+            <div style="font-size:10px;color:var(--text4)">Upvotes</div>
+          </div>
+          <div style="background:var(--bg4);border-radius:6px;padding:10px;text-align:center">
+            <div style="font-size:14px;font-weight:700;color:#e53935">▼ ${downs}</div>
+            <div style="font-size:10px;color:var(--text4)">Downvotes</div>
+          </div>
+        </div>
+        <div style="font-size:12px;color:var(--text4);margin-bottom:16px">Dabei seit: <span style="color:var(--text3)">${dabei}</span></div>
+        ${!istEigen && aktuellerUser ? `
+          <div style="display:flex;flex-direction:column;gap:8px">
+            <button onclick="window._${istIgn ? 'entIgnoriereUser' : 'ignoriereUser'}(${esc(JSON.stringify(key))});document.getElementById('profil-modal').remove()"
+              style="padding:8px;background:${istIgn ? 'var(--bg4)' : 'var(--bg4)'};color:${istIgn ? 'var(--accent)' : 'var(--text)'};border:1px solid var(--border2);border-radius:5px;font-size:12px;font-weight:700;cursor:pointer">
+              ${istIgn ? '✓ Nicht mehr ignorieren' : '🙈 Ignorieren'}
+            </button>
+            ${darfLoeschen ? `
+              ${istGebannt
+                ? `<button onclick="window._entbanneUser('${kommentarId}')" style="padding:8px;background:var(--bg4);color:#4caf50;border:1px solid #4caf50;border-radius:5px;font-size:12px;font-weight:700;cursor:pointer">✓ Entbannen</button>`
+                : `<button onclick="window._zeigeBanModal('${kommentarId}',${esc(JSON.stringify(name))})" style="padding:8px;background:#c62828;color:#fff;border:none;border-radius:5px;font-size:12px;font-weight:700;cursor:pointer">🚫 Bannen</button>`
+              }` : ''}
+          </div>` : ''}
+      </div>`;
+    m.addEventListener('click', e => { if (e.target === m) m.remove(); });
+    } catch(err) { console.error('[Profil] Fehler:', err); }
+  };
+
+  // ─── Edit ────────────────────────────────────────────────────────────────────
+  window._editKommentar = function(id) {
+    const textEl = document.getElementById('kt-' + id);
+    if (!textEl || textEl.dataset.editing) return;
+    textEl.dataset.editing = '1';
+    const original = textEl.textContent.trim();
+    textEl.dataset.original = original;
+    const ta = document.createElement('textarea');
+    ta.id = 'edit-ta-' + id;
+    ta.value = original;
+    ta.style.cssText = 'width:100%;background:var(--bg4);border:1px solid var(--border2);border-radius:5px;color:var(--text);padding:8px;font-size:14px;min-height:80px;resize:vertical;font-family:inherit;box-sizing:border-box';
+    const btnRow = document.createElement('div');
+    btnRow.style.cssText = 'display:flex;gap:8px;margin-top:6px';
+    const saveBtn = document.createElement('button');
+    saveBtn.textContent = 'Speichern';
+    saveBtn.style.cssText = 'background:var(--accent);color:#000;border:none;border-radius:4px;padding:5px 14px;font-size:12px;font-weight:700;cursor:pointer';
+    saveBtn.addEventListener('click', () => window._saveEdit(id));
+    const cancelBtn = document.createElement('button');
+    cancelBtn.textContent = 'Abbrechen';
+    cancelBtn.style.cssText = 'background:var(--bg4);color:var(--text);border:1px solid var(--border2);border-radius:4px;padding:5px 12px;font-size:12px;cursor:pointer';
+    cancelBtn.addEventListener('click', () => window._cancelEdit(id));
+    btnRow.appendChild(saveBtn);
+    btnRow.appendChild(cancelBtn);
+    textEl.textContent = '';
+    textEl.appendChild(ta);
+    textEl.appendChild(btnRow);
+  };
+
+  window._cancelEdit = function(id) {
+    const textEl = document.getElementById('kt-' + id);
+    if (!textEl) return;
+    const original = textEl.dataset.original || '';
+    delete textEl.dataset.editing;
+    delete textEl.dataset.original;
+    textEl.textContent = original;
+  };
+
+  window._saveEdit = async function(id) {
+    const ta = document.getElementById('edit-ta-' + id);
+    if (!ta) return;
+    const sauber = bereinigen(ta.value).slice(0, 1000);
+    if (!sauber) return;
+    try { await api('kommentar_edit', { id, inhalt: sauber }); }
+    catch (e) { alert(e.message); return; }
+    ladeKommentare();
+  };
+
+  // ─── Löschen ─────────────────────────────────────────────────────────────────
+  window._loescheKommentar = async function(id, hardDelete) {
+    if (!confirm('Kommentar wirklich löschen?')) return;
+    try { await api('kommentar_loeschen', { id, hart: !!hardDelete }); }
+    catch (e) { alert(e.message); return; }
+    ladeKommentare();
+  };
+
+  // ─── Kommentare laden ────────────────────────────────────────────────────────
+  async function ladeKommentare() {
+    const liste = document.getElementById('kommentar-liste');
+    if (!liste || typeof ARTIKEL_ID === 'undefined') return;
+
+    const { data, error } = await sb.from('kommentare')
+      .select('id, artikel_id, name, inhalt, erstellt_am, geaendert_am, geloescht, autor_handle')
+      .eq('artikel_id', ARTIKEL_ID)
+      .neq('geloescht', true)
+      .order('erstellt_am', { ascending: true });
+
+    if (error) {
+      console.error('[Kommentare] Supabase Fehler:', error);
+      liste.innerHTML = '<p class="kommentar-leer">Fehler beim Laden.</p>';
+      return;
+    }
+    if (!data?.length) {
+      liste.innerHTML = '<p class="kommentar-leer">Noch keine Kommentare. Sei der Erste!</p>';
+      return;
+    }
+
+    const ids = data.map(k => k.id);
+    let votes = null;
+    try {
+      ({ data: votes } = await sb.from('kommentar_votes')
+        .select('kommentar_id, vote').in('kommentar_id', ids));
+    } catch (e) { console.error('[Kommentare] Votes', e); }
+
+    // Eigene Kommentare und eigene Bewertungen kennt nur der Server
+    let eigene = new Set(), meine = {};
+    if (aktuellerUser) {
+      try { const r = await api('kommentar_meins', { ids }); eigene = new Set(r.eigene || []); meine = r.votes || {}; }
+      catch (e) { console.error('[Kommentare] Eigene', e); }
+    }
+
+    const voteMap = {};
+    votes?.forEach(v => {
+      if (!voteMap[v.kommentar_id]) voteMap[v.kommentar_id] = { up: 0, down: 0, mine: 0 };
+      v.vote === 1 ? voteMap[v.kommentar_id].up++ : voteMap[v.kommentar_id].down++;
+    });
+    Object.entries(meine).forEach(([id, w]) => { if (voteMap[id]) voteMap[id].mine = w; });
+
+    // Check ban for current user
+    let banStatus = null;
+    if (aktuellerUser) banStatus = await pruefeBan();
+
+    // Profilbilder der Autoren (öffentlich, nur Profilname → Bild)
+    let avatare = {};
+    const handles = [...new Set(data.map(k => k.autor_handle).filter(Boolean))];
+    if (handles.length) {
+      try { avatare = await (await fetch('/api?avatare=' + encodeURIComponent(handles.join(',')))).json(); }
+      catch (e) { console.error('[Kommentare] Avatare', e); }
+    }
+    const avatarHtml = k => {
+      const bild = k.autor_handle && avatare[k.autor_handle];
+      const stil = 'width:28px;height:28px;border-radius:50%;flex-shrink:0;border:1.5px solid var(--accent,#e8c000);';
+      return bild
+        ? `<img src="${bild}" alt="" style="${stil}object-fit:cover">`
+        : `<span style="${stil}display:inline-flex;align-items:center;justify-content:center;background:var(--bg4,#222);color:var(--accent,#e8c000);font-size:13px;font-weight:800">${bereinigen(k.name || '?').charAt(0).toUpperCase()}</span>`;
+    };
+
+    // Lookup map für Event Delegation
+    const kommentarMeta = {};
+
+    try {
+    liste.innerHTML = data.map(k => {
+      if (k.geloescht) return `<div class="kommentar-item"><span style="font-size:13px;color:var(--text4);font-style:italic">— Kommentar gelöscht —</span></div>`;
+
+      const ignoriert = ignorierteListe.includes(personKey(k));
+      if (ignoriert) return `<div class="kommentar-item">
+        <span style="font-size:12px;color:var(--text4);font-style:italic">Kommentar von ignoriertem Nutzer.
+          <button data-action="entignoriere" data-key="${bereinigen(personKey(k)).replace(/"/g, '&quot;')}" style="background:none;border:none;color:var(--accent);cursor:pointer;font-size:12px;padding:0">Anzeigen</button>
+        </span></div>`;
+
+      kommentarMeta[k.id] = { name: k.name, handle: k.autor_handle || null };
+
+      const datum = new Date(k.erstellt_am).toLocaleDateString('de-DE', { day:'2-digit', month:'2-digit', year:'numeric', hour:'2-digit', minute:'2-digit' });
+      const editTag = k.geaendert_am ? `<em style="font-size:10px;color:var(--text4)"> · editiert ${new Date(k.geaendert_am).toLocaleDateString('de-DE',{day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit'})}</em>` : '';
+
+      const v = voteMap[k.id] || { up: 0, down: 0, mine: 0 };
+      const istEigenVote = eigene.has(k.id);
+      const voteKnopf = (wert, zahl, aktiv) => `<button data-action="vote" data-id="${k.id}" data-wert="${wert}"
+        class="k-vote${aktiv ? (wert === 1 ? ' k-vote--up' : ' k-vote--down') : ''}"
+        ${istEigenVote ? 'disabled title="Eigene Kommentare kannst du nicht bewerten"' : `title="${wert === 1 ? 'Gefällt mir' : 'Gefällt mir nicht'}"`}
+        aria-label="${wert === 1 ? 'Daumen hoch' : 'Daumen runter'}, ${zahl}">${wert === 1 ? '👍' : '👎'} <span>${zahl}</span></button>`;
+
+      const istEigen = eigene.has(k.id);
+
+      const aktionen = `<div style="display:flex;gap:10px;margin-top:8px;align-items:center;flex-wrap:wrap">
+        ${aktuellerUser ? `
+          ${voteKnopf(1, v.up, v.mine === 1)}${voteKnopf(-1, v.down, v.mine === -1)}
+          ${istEigen ? `<button data-action="edit" data-id="${k.id}" style="background:none;border:none;cursor:pointer;font-size:11px;color:var(--text4);padding:0">✏ Bearbeiten</button>` : ''}
+          ${istEigen || darfLoeschen ? `<button data-action="loeschen" data-id="${k.id}" data-hard="${darfLoeschen && !istEigen}" style="background:none;border:none;cursor:pointer;font-size:11px;color:var(--text4);padding:0">🗑 Löschen</button>` : ''}
+          <button data-action="profil" data-id="${k.id}" style="background:none;border:none;cursor:pointer;font-size:11px;color:var(--text4);padding:0">👤</button>
+        ` : `<button data-action="login-vote" class="k-vote" title="Zum Bewerten anmelden">👍 <span>${v.up}</span></button><button data-action="login-vote" class="k-vote" title="Zum Bewerten anmelden">👎 <span>${v.down}</span></button>`}
+      </div>`;
+
+      return `<div class="kommentar-item" id="k-${k.id}">
+        <div class="kommentar-kopf">
+          <span style="display:inline-flex;align-items:center;gap:8px">${avatarHtml(k)}${k.autor_handle
+            ? `<a class="kommentar-name" href="/profil/${encodeURIComponent(k.autor_handle)}">${esc(k.name)}</a>`
+            : `<span class="kommentar-name" style="cursor:pointer" data-action="profil" data-id="${k.id}">${esc(k.name)}</span>`}</span>
+          <span class="kommentar-datum">${datum}${editTag}</span>
+        </div>
+        <div class="kommentar-text" id="kt-${k.id}">${k.inhalt.replace(/</g,'&lt;')}</div>
+        ${aktionen}
+      </div>`;
+    }).join('');
+    } catch (e) {
+      console.error('[Kommentare] Anzeige', e);
+      liste.innerHTML = '<p class="kommentar-leer">Kommentare konnten nicht angezeigt werden. Bitte Seite neu laden.</p>';
+      return;
+    }
+
+    // Event Delegation — ein Listener für alle Aktionen
+    liste.onclick = async e => {
+      const el = e.target.closest('[data-action]');
+      if (!el) return;
+      const action = el.dataset.action;
+      const id     = el.dataset.id;
+      const meta   = id ? kommentarMeta[id] : null;
+      if (action === 'profil')      window._zeigeProfil(meta.name, meta.handle, id);
+      if (action === 'vote')        vote(id, parseInt(el.dataset.wert));
+      if (action === 'login-vote' && window.netlifyIdentity) netlifyIdentity.open('login');
+      if (action === 'edit')        window._editKommentar(id);
+      if (action === 'loeschen')    window._loescheKommentar(id, el.dataset.hard === 'true');
+      if (action === 'entignoriere') window._entIgnoriereUser(el.dataset.key);
+    };
+
+    // Ban-Hinweis im Formular anzeigen
+    const form = document.getElementById('kommentar-form');
+    const hint = document.getElementById('k-gasthinweis');
+    if (banStatus && form && hint) {
+      form.style.display = 'none';
+      hint.style.display = 'block';
+      hint.innerHTML = banStatus.gebannt_bis
+        ? `⛔ Deine Kommentarfunktion ist bis <strong>${new Date(banStatus.gebannt_bis).toLocaleDateString('de-DE')}</strong> gesperrt.${banStatus.grund ? ` Grund: ${banStatus.grund}` : ''}`
+        : `⛔ Du wurdest permanent gesperrt.${banStatus.grund ? ` Grund: ${banStatus.grund}` : ''}`;
+    }
+  }
+
+  // ─── Neuer Kommentar ─────────────────────────────────────────────────────────
+  document.getElementById('kommentar-form')?.addEventListener('submit', async e => {
+    e.preventDefault();
+    if (!aktuellerUser) return;
+    // Doppelklick: zweites Absenden ignorieren, solange das erste läuft
+    const form = e.currentTarget, knopf = form.querySelector('[type=submit]');
+    if (form.dataset.sendet) return;
+    form.dataset.sendet = '1';
+    if (knopf) knopf.disabled = true;
+    try { await kommentarSenden(); }
+    finally { delete form.dataset.sendet; if (knopf) knopf.disabled = false; }
+  });
+
+  async function kommentarSenden() {
+
+    const ban = await pruefeBan();
+    if (ban) { ladeKommentare(); return; }
+
+    const status  = document.getElementById('kommentar-status');
+    const inhalt  = document.getElementById('k-text').value.trim();
+    if (!inhalt) return;
+
+    const name         = anzeigeName(aktuellerUser);
+    const sauberName   = bereinigen(name).slice(0, 60);
+    const sauberInhalt = bereinigen(inhalt).slice(0, 1000);
+    if (!sauberName || !sauberInhalt) { status.textContent = 'Kein HTML oder Links erlaubt.'; return; }
+
+    status.textContent = 'Wird gesendet…';
+    let error = null;
+    try { await api('kommentar_neu', { artikel_id: ARTIKEL_ID, inhalt: sauberInhalt }); }
+    catch (e) { error = e; }
+
+    if (error) {
+      status.textContent = 'Fehler: ' + error.message;
+    } else {
+      status.textContent = '✓ Gespeichert!';
+      document.getElementById('k-text').value = '';
+      setTimeout(() => { status.textContent = ''; }, 3000);
+      ladeKommentare();
+    }
+  }
+
+  // ─── Einladung für Gäste: Google-Button oder E-Mail-Registrierung ────────────
+  (function gastBox() {
+    const h = document.getElementById('k-gasthinweis');
+    if (!h) return;
+    h.style.cssText = 'margin-top:16px;padding:18px;border:1px solid var(--border2,#333);border-radius:12px;background:var(--bg3,#1a1a1a);font-size:14px;color:var(--text2,#ccc)';
+    h.innerHTML = `
+      <strong style="display:block;font-size:16px;color:var(--text,#fff);margin-bottom:4px">Mitdiskutieren? Kostenlos anmelden.</strong>
+      <span style="display:block;margin-bottom:12px">Ein Klick genügt, deinen Namen wählst du selbst.</span>
+      <button type="button" id="k-google" style="display:flex;align-items:center;justify-content:center;gap:10px;width:100%;max-width:340px;padding:11px;border:1px solid #ddd;border-radius:8px;background:#fff;color:#1f1f1f;font-weight:600;font-size:14px;cursor:pointer">
+        <svg width="18" height="18" viewBox="0 0 48 48" aria-hidden="true"><path fill="#FFC107" d="M43.6 20.5H42V20H24v8h11.3C33.7 32.7 29.2 36 24 36c-6.6 0-12-5.4-12-12s5.4-12 12-12c3.1 0 5.8 1.2 7.9 3.1l5.7-5.7C34.1 6.1 29.3 4 24 4 12.9 4 4 12.9 4 24s8.9 20 20 20 20-8.9 20-20c0-1.3-.1-2.4-.4-3.5z"/><path fill="#FF3D00" d="M6.3 14.7l6.6 4.8C14.7 15.1 19 12 24 12c3.1 0 5.8 1.2 7.9 3.1l5.7-5.7C34.1 6.1 29.3 4 24 4 16.3 4 9.7 8.3 6.3 14.7z"/><path fill="#4CAF50" d="M24 44c5.2 0 9.9-2 13.4-5.2l-6.2-5.2C29.2 35.1 26.7 36 24 36c-5.2 0-9.6-3.3-11.3-8l-6.5 5C9.5 39.6 16.2 44 24 44z"/><path fill="#1976D2" d="M43.6 20.5H42V20H24v8h11.3c-.8 2.2-2.2 4.2-4.1 5.6l6.2 5.2C37 39.2 44 34 44 24c0-1.3-.1-2.4-.4-3.5z"/></svg>
+        Mit Google registrieren</button>
+      <span style="display:block;margin-top:12px;font-size:13px">oder <a href="#" data-k="signup" style="color:var(--accent,#e8c000)">mit E-Mail registrieren</a> · Schon ein Konto? <a href="#" data-k="login" style="color:var(--accent,#e8c000)">Anmelden</a></span>`;
+    h.addEventListener('click', e => {
+      const t = e.target.closest('#k-google, [data-k]');
+      if (!t) return;
+      e.preventDefault();
+      if (window.gtag) gtag('event', 'registrierung_aufgefordert', { ort: 'kommentare' });
+      if (t.id === 'k-google') location.href = 'https://rsodjlglzwlscamdlwev.supabase.co/auth/v1/authorize?provider=google&redirect_to=' + encodeURIComponent(location.href.split('#')[0]);
+      else if (window.netlifyIdentity) netlifyIdentity.open(t.dataset.k);
+    });
+  })();
+
+  ladeKommentare();
+})();
+
+// Spielernamen in Artikeln verlinken (spieler.js lädt spieler_db.json)
+if (document.querySelector('.artikel-text') && !document.getElementById('lo-spieler-js')) {
+  const s = document.createElement('script');
+  s.id = 'lo-spieler-js';
+  s.src = '/spieler.js';
+  s.defer = true;
+  document.head.appendChild(s);
+}

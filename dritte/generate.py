@@ -1,0 +1,4207 @@
+"""
+LO – Artikel-Generator
+Ablauf: Schlagzeilen sammeln → zu Geschichten bündeln und mit dem Archiv abgleichen
+(ohne KI) → Redaktionskonferenz (ein günstiger KI-Aufruf) → wichtigste Geschichten
+schreiben, solange das Budget reicht → prüfen → HTML speichern → feed.json
+
+Starten mit:  python generate.py
+"""
+
+import os
+import sys
+import calendar
+from urllib.parse import urlparse
+import json
+import functools
+import glob
+import hashlib
+import datetime
+from zoneinfo import ZoneInfo
+import re
+import time
+import logging
+from pathlib import Path
+from dotenv import load_dotenv
+import feedparser
+import socket
+
+# feedparser kennt keinen Timeout: ein Feed, der nie antwortet, hielt sonst den ganzen Lauf bis zum Job-Limit fest
+socket.setdefaulttimeout(20)
+import anthropic
+from slugify import slugify
+from url_cache import URLCache
+from vereine import VEREINE, GANZES_WORT
+import ki_budget
+import storys
+import umfrage
+from ki_budget import BudgetErschoepft
+
+load_dotenv()
+
+# ─── Logging ──────────────────────────────────────────────────────────────────
+
+LOG_DIR = Path("logs")
+LOG_DIR.mkdir(exist_ok=True)
+_run_ts = datetime.datetime.now().strftime("%Y%m%d_%H%M")
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s %(levelname)s %(message)s",
+    handlers=[
+        logging.FileHandler(LOG_DIR / f"run_{_run_ts}.log", encoding="utf-8"),
+        logging.StreamHandler(),
+    ],
+)
+log = logging.getLogger("lo")
+
+# Skips als JSONL
+_skips_path = LOG_DIR / f"skips_{_run_ts[:8]}.jsonl"
+
+def _log_skip(item_id: str, title: str, stage: str, reason: str):
+    entry = {"ts": datetime.datetime.now().isoformat(), "id": item_id,
+             "title": title[:80], "stage": stage, "reason": reason}
+    with _skips_path.open("a", encoding="utf-8") as f:
+        f.write(json.dumps(entry, ensure_ascii=False) + "\n")
+
+# ─── Konfiguration ────────────────────────────────────────────────────────────
+
+RSS_FEEDS = [
+    # 3. Liga: allgemeine Quellen
+    "https://newsfeed.kicker.de/news/3-liga",
+    "https://www.sport.de/rss/news/",
+    "https://www.11freunde.de/feed",
+    # Google News – 3. Liga gezielt
+    "https://news.google.com/rss/search?q=%223.+Liga%22&hl=de&gl=DE&ceid=DE:de",
+    "https://news.google.com/rss/search?q=3.+Liga+Verletzung+Ausfall+gesperrt&hl=de&gl=DE&ceid=DE:de",
+    "https://news.google.com/rss/search?q=3.+Liga+Transfer+Wechsel+verpflichtet&hl=de&gl=DE&ceid=DE:de",
+    "https://news.google.com/rss/search?q=3.+Liga+Ger%C3%BCcht+Interesse+Angebot&hl=de&gl=DE&ceid=DE:de",
+    "https://news.google.com/rss/search?q=3.+Liga+Vertrag+verl%C3%A4ngert+abl%C3%B6sefrei&hl=de&gl=DE&ceid=DE:de",
+    "https://news.google.com/rss/search?q=3.+Liga+Trainer+Entlassung&hl=de&gl=DE&ceid=DE:de",
+    # Google News – alle 20 Vereine, je die letzten 24 Stunden
+    "https://news.google.com/rss/search?q=%221.+FC+Saarbr%C3%BCcken%22+when%3A1d&hl=de&gl=DE&ceid=DE:de",
+    "https://news.google.com/rss/search?q=%22Alemannia+Aachen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de",
+    "https://news.google.com/rss/search?q=%22FC+Ingolstadt%22+when%3A1d&hl=de&gl=DE&ceid=DE:de",
+    "https://news.google.com/rss/search?q=%22Fortuna+D%C3%BCsseldorf%22+when%3A1d&hl=de&gl=DE&ceid=DE:de",
+    "https://news.google.com/rss/search?q=%22Fortuna+K%C3%B6ln%22+when%3A1d&hl=de&gl=DE&ceid=DE:de",
+    "https://news.google.com/rss/search?q=%22Hansa+Rostock%22+when%3A1d&hl=de&gl=DE&ceid=DE:de",
+    "https://news.google.com/rss/search?q=%22Jahn+Regensburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de",
+    "https://news.google.com/rss/search?q=%22MSV+Duisburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de",
+    "https://news.google.com/rss/search?q=%22Preu%C3%9Fen+M%C3%BCnster%22+when%3A1d&hl=de&gl=DE&ceid=DE:de",
+    "https://news.google.com/rss/search?q=%22Rot-Weiss+Essen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de",
+    "https://news.google.com/rss/search?q=%22SC+Verl%22+when%3A1d&hl=de&gl=DE&ceid=DE:de",
+    "https://news.google.com/rss/search?q=%22Sonnenhof+Gro%C3%9Faspach%22+when%3A1d&hl=de&gl=DE&ceid=DE:de",
+    "https://news.google.com/rss/search?q=%22SV+Meppen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de",
+    "https://news.google.com/rss/search?q=%22Waldhof+Mannheim%22+when%3A1d&hl=de&gl=DE&ceid=DE:de",
+    "https://news.google.com/rss/search?q=%22Wehen+Wiesbaden%22+when%3A1d&hl=de&gl=DE&ceid=DE:de",
+    "https://news.google.com/rss/search?q=%22Hoffenheim+II%22+when%3A1d&hl=de&gl=DE&ceid=DE:de",
+    "https://news.google.com/rss/search?q=%22TSV+Havelse%22+when%3A1d&hl=de&gl=DE&ceid=DE:de",
+    "https://news.google.com/rss/search?q=%22VfB+Stuttgart+II%22+when%3A1d&hl=de&gl=DE&ceid=DE:de",
+    "https://news.google.com/rss/search?q=%22Viktoria+K%C3%B6ln%22+when%3A1d&hl=de&gl=DE&ceid=DE:de",
+    "https://news.google.com/rss/search?q=%22W%C3%BCrzburger+Kickers%22+when%3A1d&hl=de&gl=DE&ceid=DE:de",
+    # kicker Vereinsfeeds (nur die, deren Adresse einen echten Vereinsfeed liefert; geprüft 07.11.2026,
+    # ohne Fortuna Köln, Großaspach, Meppen, Würzburg)
+    "https://newsfeed.kicker.de/team/1-fc-saarbruecken",
+    "https://newsfeed.kicker.de/team/alemannia-aachen",
+    "https://newsfeed.kicker.de/team/fc-ingolstadt-04",
+    "https://newsfeed.kicker.de/team/fortuna-duesseldorf",
+    "https://newsfeed.kicker.de/team/hansa-rostock",
+    "https://newsfeed.kicker.de/team/jahn-regensburg",
+    "https://newsfeed.kicker.de/team/msv-duisburg",
+    "https://newsfeed.kicker.de/team/preussen-muenster",
+    "https://newsfeed.kicker.de/team/rot-weiss-essen",
+    "https://newsfeed.kicker.de/team/sc-verl",
+    "https://newsfeed.kicker.de/team/waldhof-mannheim",
+    "https://newsfeed.kicker.de/team/sv-wehen-wiesbaden",
+    "https://newsfeed.kicker.de/team/tsg-hoffenheim-ii",
+    "https://newsfeed.kicker.de/team/tsv-havelse",
+    "https://newsfeed.kicker.de/team/vfb-stuttgart-ii",
+    "https://newsfeed.kicker.de/team/fc-viktoria-koeln",
+]
+
+# Artikel bis zu X Tage alt akzeptieren
+MAX_ALTER_TAGE = 3
+
+# Wie viele neue Artikel maximal pro Durchlauf generieren
+MAX_ARTIKEL_PRO_LAUF = 50
+# Läuft die KI über das Claude-Abo, teilt sich die Pipeline das Kontingent mit
+# der eigenen Nutzung – deshalb höchstens so viele Artikel pro Lauf
+ABO_MAX_ARTIKEL_PRO_LAUF = int(os.environ.get("ABO_MAX_ARTIKEL_PRO_LAUF", "6"))
+
+# Wo Artikel gespeichert werden
+ARTIKEL_ORDNER = Path("artikel")
+FEED_JSON      = Path("feed.json")
+ARCHIV_PRO_SEITE = 100   # Artikel je archiv-seite-N.html
+# Bundesliga-Saison (Startjahr): ab Juli die neue, sonst läuft Spielplan/Kader nach dem Sommer ins Leere
+LIGA_API = "bl3"            # OpenLigaDB-Kürzel der Liga
+SEITE_URL = "https://3liga.ligaoutsider.de"
+SAISON = datetime.date.today().year if datetime.date.today().month >= 7 else datetime.date.today().year - 1
+OG_ORDNER      = Path("og")
+FONT_ORDNER    = Path(__file__).parent / "fonts"
+
+DISQUS_SHORTNAME = ""
+
+# ─── 3. Liga Klubs 2026/27 ──────────────────────────────────────────────
+
+BL2_KLUBS = [n for kurz, _s, voll, keys in VEREINE for n in [voll, kurz] + [k.title() for k in keys]]
+BL1_KLUBS = BL2_KLUBS   # Name aus der 1. Liga, damit der übrige Code unverändert bleibt
+
+# ─── Wappen-URLs für die Feed-Anzeige ─────────────────────────────────────────
+
+
+VEREIN_WAPPEN = {k: f"logos/{slug}.png" for _k, slug, _v, keys in VEREINE for k in keys}
+
+# Mapping: Texttreffer → data-filter-Schlüssel (wie in index.html)
+VEREIN_FILTER = {k: kurz for kurz, _s, _v, keys in VEREINE for k in keys}
+
+# Kanonische Klubnamen, die das Modell in "hauptklub" zurueckgeben darf,
+# plus das zugehoerige Wappen. Reihenfolge = Reihenfolge im Prompt.
+KLUB_LOGO = {kurz: f"logos/{slug}.png" for kurz, slug, _v, _k in VEREINE}
+
+
+def _vereins_chips(tiefe: str) -> str:
+    """Wappenleiste der Unterseiten, aus vereine.py (statt fest im HTML)."""
+    return "\n".join(f'        <li><a href="{tiefe}verein/{sl}.html" class="team-chip" title="{v}">'
+                     f'<img src="{tiefe}logos/{sl}.png" alt="{k}" /></a></li>' for k, sl, v, _ in VEREINE)
+
+# "HSV" liest sich im Prompt natuerlicher, der Filter-Chip auf der Seite
+# heisst aber "Hamburger" – wie vereine_im_text() den Klub benennt.
+KLUB_FILTERNAME = {}
+
+
+def _count_key(key: str, text: str) -> int:
+    """Zählt Vorkommen von key in text am Wortanfang.
+
+    Rechts bewusst offen: deutsche Beugungen wie 'Frankfurter', 'Kölner',
+    'Schalker' oder 'Bayerns' sind echte Treffer. Die Grenze links verhindert
+    Substring-Unfug wie 'anspruchsvollem' → hsv oder 'ausgezeichnet' → sge.
+
+    Kurze Kürzel (BVB, SGE, SVE) sind Akronyme statt Wortstämme und brauchen
+    auch rechts eine Grenze, sonst schlägt 'SVE' auf 'Sven' und 'Svensson' an.
+    """
+    rechts = r'(?!\w)' if len(key) <= 3 or key in GANZES_WORT else ''
+    return len(re.findall(r'(?<!\w)' + re.escape(key) + rechts, text))
+
+
+def vereine_im_text(titel: str, text: str) -> list[str]:
+    """Taggt Club nur wenn er im Titel steht ODER ≥2x im Artikeltext vorkommt.
+    Nutzt Wortgrenzen um Substrings wie 'anspruchsvollem' → 'hsv' zu verhindern."""
+    t_lower = titel.lower()
+    body_lower = text.lower()
+    gefunden = set()
+    bereits_gefunden: set[str] = set()
+    for key in sorted(VEREIN_FILTER, key=len, reverse=True):
+        club = VEREIN_FILTER[key]
+        if club in bereits_gefunden:
+            continue
+        in_titel = _count_key(key, t_lower) > 0
+        count_body = _count_key(key, body_lower)
+        if in_titel or count_body >= 2:
+            gefunden.add(club)
+            bereits_gefunden.add(club)
+    return sorted(gefunden)
+
+BADGE_KATEGORIEN = {
+    "transfer":    ("Transfer",    "#e8c000", "#000"),
+    "verletzung":  ("Verletzung",  "#e53935", "#fff"),
+    "aufstellung": ("Aufstellung", "#2e7d32", "#fff"),
+    "interview":   ("Interview",   "#1976d2", "#fff"),
+    "analyse":     ("Analyse",     "#6a1fbf", "#fff"),
+    "news":        ("News",        "#e8c000", "#000"),
+}
+
+# ─── Hilfsfunktionen ──────────────────────────────────────────────────────────
+
+def artikel_id(url: str) -> str:
+    return hashlib.md5(url.encode()).hexdigest()[:10]
+
+
+def artikel_slug(titel: str) -> str:
+    """Lesbarer URL-Teil aus der Überschrift, z. B. 'hsv-groenbaek-erleidet-faserriss'."""
+    t = str(titel or "").lower()
+    for a, b in (("ä", "ae"), ("ö", "oe"), ("ü", "ue"), ("ß", "ss"), ("ø", "oe"), ("æ", "ae"),
+                 ("å", "a"), ("ł", "l"), ("đ", "d"), ("ı", "i")):
+        t = t.replace(a, b)
+    import unicodedata
+    t = unicodedata.normalize("NFKD", t).encode("ascii", "ignore").decode()
+    t = re.sub(r"[^a-z0-9]+", "-", t).strip("-")
+    if len(t) > 70:
+        t = t[:70].rsplit("-", 1)[0]
+    return t or "artikel"
+
+
+def _zeitzone() -> str:
+    """Offset der lokalen Zeit (Workflow läuft mit TZ=Europe/Berlin), z. B. '+02:00'."""
+    z = time.strftime("%z")
+    return f"{z[:3]}:{z[3:]}"
+
+
+_ARTIKEL_DATEIEN: dict = {}
+
+def artikel_datei(aid: str) -> Path:
+    """Echte Datei eines Artikels: artikel/<slug>-<id>.html (neu) oder artikel/<id>.html (alt)."""
+    if not _ARTIKEL_DATEIEN:
+        for f in ARTIKEL_ORDNER.glob("*.html"):
+            _ARTIKEL_DATEIEN[f.stem[-10:]] = f
+    return _ARTIKEL_DATEIEN.get(aid, ARTIKEL_ORDNER / f"{aid}.html")
+
+
+def lade_deleted_ids() -> set:
+    p = Path("deleted_ids.json")
+    if not p.exists():
+        return set()
+    try:
+        return set(json.loads(p.read_text()))
+    except Exception:
+        return set()
+
+DELETED_IDS: set = set()  # wird in main() befüllt
+
+def schon_verarbeitet(url: str) -> bool:
+    aid = artikel_id(url)
+    if aid in DELETED_IDS:
+        return True
+    html_file = artikel_datei(aid)
+    if html_file.exists():
+        # Regenerate if SEO tags missing
+        if 'rel="canonical"' not in html_file.read_text(encoding='utf-8', errors='ignore'):
+            return False
+        return True
+    return (ARTIKEL_ORDNER / f"{aid}.skip").exists()
+
+
+
+
+def badge_fuer_kategorie(kategorie: str) -> tuple:
+    return BADGE_KATEGORIEN.get(kategorie.lower(), ("News", "#e8c000", "#000"))
+
+
+def _atomar_schreiben(pfad: Path, text: str):
+    """Erst in eine Nebendatei, dann umbenennen: ein Absturz mitten im Schreiben lässt keine halbe Datei zurück."""
+    tmp = pfad.with_name(pfad.name + ".tmp")
+    tmp.write_text(text, encoding="utf-8")
+    os.replace(tmp, pfad)
+
+
+def _pub_lokal(t) -> datetime.datetime:
+    """feedparser-Zeit (UTC, struct_time) als lokale Zeit, damit Vergleiche mit datetime.now() stimmen."""
+    return datetime.datetime.fromtimestamp(calendar.timegm(t))
+
+
+def feed_laden() -> list:
+    """Lädt feed.json – merged lokale Datei mit live Version von der Live-Seite."""
+    lokal = []
+    if FEED_JSON.exists():
+        try:
+            lokal = json.loads(FEED_JSON.read_text(encoding="utf-8"))
+        except Exception as ex:
+            # Nicht mit leerer Liste weitermachen: feed_speichern würde das ganze Archiv überschreiben
+            raise RuntimeError(f"feed.json nicht lesbar, Lauf abgebrochen: {ex}")
+
+    live = []   # kein Abgleich mit einer Live-Seite: diese Kopie hat ihren eigenen Feed
+
+    # Merge: live + lokal, Duplikate per ID entfernen
+    # Lokal (= Git-Stand) gewinnt: dort stehen auch Korrekturen der Qualitätsprüfung
+    merged = {a["id"]: a for a in lokal}
+    for a in live:
+        merged.setdefault(a["id"], a)
+    # Titelkorrekturen aus Chefred gewinnen immer (sonst setzt ein Merge-Konflikt den alten Titel zurück)
+    try:
+        for aid, k in json.loads(Path("chefred_titel.json").read_text(encoding="utf-8")).items():
+            if aid in merged:
+                merged[aid].update({f: v for f, v in k.items() if f in ("titel", "wappen_url") and v})
+    except FileNotFoundError:
+        pass
+    except Exception as e:
+        print(f"  chefred_titel.json nicht lesbar: {e}")
+    # Gelöschte Artikel und Einträge ohne Seite verwerfen: sonst holt der Live-Merge sie zurück (Startseite zeigt 404)
+    weg = lade_deleted_ids()
+    return [a for a in merged.values() if a["id"] not in weg and Path(a.get("pfad") or "-").exists()]
+
+
+def feed_speichern(artikel_liste: list):
+    # Neueste zuerst
+    from datetime import datetime
+    artikel_liste.sort(key=lambda x: datetime.strptime(x["datum"], "%d.%m.%Y %H:%M"), reverse=True)
+    _atomar_schreiben(FEED_JSON, json.dumps(artikel_liste[:100_000], ensure_ascii=False, indent=2))
+
+
+# ─── KI-Funktionen ────────────────────────────────────────────────────────────
+
+client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"], timeout=60.0)
+
+
+HAIKU  = "claude-haiku-4-5-20251001"
+SONNET = "claude-sonnet-4-6"
+OPUS   = "claude-opus-5-5"
+# Schreibt die Artikel und prüft Dubletten. Modellvergleich 05.10.2026: Sonnet 5.5 mit
+# effort low schreibt fast so gut wie Opus medium, bei ~40 % des Verbrauchs.
+SCHREIBER = "claude-sonnet-5-5"
+SCHREIBER_EFFORT = "low"
+
+
+def _text_aus(antwort) -> str:
+    return next((b.text for b in antwort.content if getattr(b, "type", "") == "text"), "").strip()
+
+
+
+
+# Geld, das für die Doppel-Gegenproben nach dem Schreiben frei bleiben muss
+QA_RESERVE = 0.002
+
+
+# Sätze, die nur Lücken füllen oder auf fehlende Infos verweisen – fliegen raus
+_FLOSKELN = re.compile(
+    r"bleibt abzuwarten|nicht spezifiziert|nennt die quelle nicht|laut (?:der )?quelle nicht|"
+    r"(?:details|einzelheiten) (?:sind|wurden|werden) nicht|bezahlschranke|paywall|"
+    r"liegen (?:noch )?keine (?:weiteren )?informationen vor|keine weiteren (?:details|informationen)|"
+    r"wurde(?:n)? nicht (?:genannt|bekannt(?:gegeben)?)|ist (?:bislang )?nicht bekannt",
+    re.IGNORECASE)
+
+
+def anfuehrungszeichen(text: str) -> str:
+    """Deutsche Anführungszeichen: „…" und "…" werden zu „…“."""
+    text = re.sub(r'„([^“"\n]*)"', "„\\1“", text)
+    return re.sub(r'"([^"\n]+)"', "„\\1“", text)
+
+
+def floskeln_entfernen(text: str) -> str:
+    text = anfuehrungszeichen(text)
+    absaetze = []
+    for absatz in text.split("\n\n"):
+        saetze = re.split(r"(?<=[.!?…])\s+", absatz.strip())
+        behalten = [x for x in saetze if x and not _FLOSKELN.search(x)]
+        if behalten:
+            absaetze.append(" ".join(behalten))
+    return "\n\n".join(absaetze)
+
+
+# Sammelartikel (mehrere Themen in einem Text) liefern vermischte Artikel – nie verwenden
+SAMMELARTIKEL = re.compile(
+    r"news-?update|news-?blog|news-?ticker|\bticker\b|liveticker|personal-?update|\bnews\s*:|news\s+(?:am|vom|zum)\b"
+    r"|alle news|\bkompakt\b|presseschau|gerüchteküche|überblick|zusammenfassung|was heute wichtig|am morgen|am abend"
+)
+
+# Nie schreiben, auch mit Spielerbezug: Fan-Wahlen und Nachwuchs-/U23-Themen
+NICHT_FUER_UNS = re.compile(
+    r"spieler des monats|tor des monats|spieler der saison|fan-?wahl|wahl zum|gewählt|voting"
+    r"|\bu ?19\b|\bu ?17\b"   # 3. Liga: U23, Nachwuchs, Jugend bewertet die Konferenz (Hoffenheim II, Stuttgart II)
+)
+
+# Randthemen, die wir ohne Spielerbezug nicht schreiben (Entscheidung 10/2026: Fokus auf
+# das, was Fans und Manager brauchen – Personal, Transfers, Trainer, Spiele)
+RANDTHEMEN = re.compile(
+    r"ticket|trikot|fan-?(?:shop|aktion|artikel|club)|sponsor|merch|gewinnspiel|quiz|podcast|tippspiel"
+    r"|kalender|jubiläum|mitglieder(?:versammlung|zahl)|stadion(?:umbau|ausbau|erweiterung|name)"
+    r"|catering|bratwurst|maskottchen|charity|benefiz|weihnacht|hauptversammlung|bilanz|umsatz"
+)
+
+
+def redaktionskonferenz(geschichten: list[dict], unsere_titel: list[str]) -> None:
+    """Stage 6: Haiku bewertet die neuen Geschichten – ein Aufruf je 40 Stück.
+
+    Setzt g["prio"] (0–3) und g["status"] (n = neu, u = Update, d = doppelt).
+    Ohne Antwort bleibt prio None; die Geschichte wird im nächsten Lauf bewertet."""
+    heute = datetime.date.today().strftime("%d.%m.%Y")
+    unsere = "\n".join(f"- {t[:100]}" for t in unsere_titel[:40]) or "- (keine)"
+    plan = "\n".join(spielplan_kontext()) or "(keine Spiele der 3. Liga in diesen Tagen – z. B. Länderspielpause)"
+    for start in range(0, len(geschichten), 80):
+        teil = geschichten[start:start + 80]
+        zeilen = []
+        for i, g in enumerate(teil):
+            n = len(g["quellen"])
+            zeilen.append(f"[{i}] {g['titel'][:120]}" + (f" ({n} Quellen)" if n > 1 else ""))
+            for q in g["quellen"][1:2]:
+                if storys.falten(q["titel"]) != storys.falten(g["titel"]):
+                    zeilen.append(f"  auch: {q['titel'][:90]}")
+            for a in g.get("archiv", [])[:2]:
+                zeilen.append(f"  Archiv {a['datum']}: {a['titel'][:90]}")
+        prompt = (
+            f"Du bist Nachrichtenchef von LO, einer Seite für Fans der 3. Liga. "
+            f"Heute ist der {heute}.\n\n"
+            "Bewerte jede Geschichte mit einer Priorität:\n"
+            "3 = Muss: Verletzung, Ausfall, Sperre, Rückkehr ins Training, Startelf oder Aufstellung, "
+            "Transfer oder Vertrag mit konkretem Stand, Trainerwechsel, Ergebnis eines Drittligaspiels\n"
+            "2 = Gut: Aussagen von Trainern, Spielern oder Verantwortlichen zum aktuellen Geschehen "
+            "(Personal, Form, nächstes Spiel), konkrete Transfergerüchte\n"
+            "1 = Randthema: Tickets, Fans, Sponsoren, Stadion, Trikots, Nachwuchs ohne Profibezug, Ehrungen, Kurioses\n"
+            "0 = Nicht für uns: kein Drittligaklub im Mittelpunkt, 1. oder 2. Bundesliga (eigene Seiten), Regionalliga oder tiefer, Frauen, Jugend, "
+            "Nationalmannschaft ohne Drittliga-Spieler in einer konkreten Rolle, Rückblick oder Jubiläum, Ranking, Liste, Statistik- oder "
+            "Kaderseite, Werbung, Quiz, Liveticker\n"
+            "Spielberichte zählen als 3 nur bei Partien aus dem SPIELPLAN DER 3. LIGA unten oder Pokal- und "
+            "Landespokalspielen der Drittligaklubs. Andere Ergebnisse (oft Frauen-, Jugend- oder "
+            "Unterhausteams mit gleichem Vereinsnamen) bekommen 0, Testspiele der Profis höchstens 2.\n"
+            "Länderspiele: 2, wenn ein Drittliga-Spieler konkret betroffen ist (Debüt, Tor, Vorlage, Verletzung, "
+            "Platzverweis, Kapitän, Abreise), sonst 0.\n"
+            "Sammelartikel mit mehreren Themen (News-Update, Ticker, Überblick): 0.\n"
+            "Fan-Wahlen (Spieler/Tor des Monats) und U23-, Nachwuchs- oder Talent-Themen ohne Profi-Einsatz: 0 (Ausnahme: Hoffenheim II und VfB Stuttgart II spielen in der 3. Liga und zählen voll).\n"
+            "Testspiele: nur Ergebnisse (2). Vorschauen auf Testspiele: 0.\n\n"
+            "und einem Status:\n"
+            "n = neu\n"
+            "u = Update: echte neue Entwicklung zu einer unserer Meldungen (Gerücht → Angebot → offiziell, "
+            "verletzt → fraglich → fällt aus → zurück im Training, neues Spiel)\n"
+            "d = doppelt: dasselbe Ereignis wie eine unserer Meldungen (Archiv oder UNSERE LETZTEN MELDUNGEN) "
+            "oder wie eine frühere Geschichte in dieser Liste, ohne neue Entwicklung\n\n"
+            f"SPIELPLAN DER 3. LIGA (±4 Tage, Männer):\n{plan}\n\n"
+            f"UNSERE LETZTEN MELDUNGEN (24 Stunden):\n{unsere}\n\n"
+            "GESCHICHTEN (darunter jeweils weitere Schlagzeilen und passende Archivmeldungen):\n"
+            + "\n".join(zeilen)
+            + "\n\nAntworte nur mit einer Zeile pro Geschichte: Nummer Priorität Status, z. B. \"0 3 n\"."
+        )
+        antwort = ki_budget.aufruf("konferenz", model=HAIKU, effort="low", max_tokens=10 * len(teil) + 30,
+                                   messages=[{"role": "user", "content": prompt}])
+        for m in re.finditer(r"^\s*\[?(\d+)\]?\s*[:.\-]?\s*([0-3])\s*[,;]?\s*([nud])\b", _text_aus(antwort), re.M):
+            i = int(m.group(1))
+            if 0 <= i < len(teil):
+                teil[i]["prio"] = int(m.group(2))
+                teil[i]["status"] = m.group(3)
+
+
+def gleiches_ereignis(a_titel: str, a_kern: str, b_titel: str, b_kern: str, b_artikel: bool = False) -> bool:
+    """Gegenprobe für ein einzelnes Paar (Sonnet – genauer als Haiku bei Sammelartikeln).
+    b_artikel: B ist ein fertiger Artikel von uns, der A auch nur als Teil enthalten kann."""
+    frage = ("Steht das Ereignis aus Meldung A bereits in unserem Artikel B – als Hauptthema oder als Teil "
+             "eines größeren Artikels (z. B. Personal-Update mit mehreren Spielern)? Ist A nur eine Wiederholung "
+             "ohne wesentliche neue Information = JA. Bringt A eine neue Entwicklung oder ein anderes Ereignis = NEIN."
+             if b_artikel else
+             "Berichten diese zwei Meldungen über dasselbe Ereignis mit denselben Personen? "
+             "Andere Person oder anderes Ereignis = NEIN.")
+    laenge = 2500 if b_artikel else 600
+    antwort = ki_budget.aufruf("dublette", model=SCHREIBER, effort=SCHREIBER_EFFORT, max_tokens=5, messages=[{"role": "user", "content": (
+        frage + "\n\n"
+        "Eine neue Entwicklung (Gerücht → offiziell, fraglich → fällt aus, Verletzung → zurück im Training, "
+        "Kandidat → Absage) ist KEIN gleiches Ereignis.\n\n"
+        f"A: {a_titel}\nKern A: {a_kern[:600]}\n\nB: {b_titel}\nKern B: {(b_kern or '(nur Titel)')[:laenge]}\n\n"
+        "Antworte nur JA oder NEIN."
+    )}])
+    return "JA" in _text_aus(antwort).upper()
+
+
+def vorpruefung(g: dict, kern: str, vergleich: list[dict]) -> str | None:
+    """Stage 6.5: Gibt es zur selben Person in den letzten drei Tagen schon einen
+    Artikel (Archiv oder dieser Lauf)? Dann vergleicht Haiku vor dem teuren Schreiben
+    beide Meldungen. Gibt den Titel der Doppelmeldung zurück oder None."""
+    jetzt = datetime.datetime.now()
+    titel = " / ".join(q["titel"] for q in g["quellen"][:2])
+    if g.get("person"):
+        person = storys.falten(g["person"])
+        nahe = sorted((e for e in vergleich if person in e["spieler"] and (jetzt - e["zeit"]).days <= 3),
+                      key=lambda e: e["zeit"], reverse=True)
+        for e in nahe[:2]:
+            if gleiches_ereignis(titel, kern, e["titel"], e.get("summary", "")):
+                return e["titel"]
+    # Sammelartikel (Personal-Update, Trainingsbericht) desselben Klubs aus den letzten
+    # 24 Stunden können die Meldung schon enthalten, auch wenn die Person dort Nebenfigur ist
+    klubs = set(storys.klubs_in(titel)) | ({g["klub"]} if g.get("klub") else set())
+    gleicher_klub = sorted((e for e in vergleich if e.get("text") and klubs & set(e.get("klubs", ()))
+                            and (jetzt - e["zeit"]).total_seconds() < 86400),
+                           key=lambda e: e["zeit"], reverse=True)
+    for e in gleicher_klub[:3]:
+        if gleiches_ereignis(titel, kern, e["titel"], e["text"], b_artikel=True):
+            return e["titel"]
+    # Themen-Dublette: alle Artikel derselben Klubs der letzten 72 Stunden auf einen Blick
+    # (z. B. drei Vorberichte zum selben Spiel mit wechselnden Überschriften)
+    themen = sorted((e for e in vergleich if klubs & set(e.get("klubs", ()))
+                     and (jetzt - e["zeit"]).total_seconds() < 72 * 3600),
+                    key=lambda e: e["zeit"], reverse=True)[:15]
+    if themen:
+        liste = "\n".join(f"{i + 1}. {e['titel']}" for i, e in enumerate(themen))
+        antwort = ki_budget.aufruf("dublette", model=SCHREIBER, effort=SCHREIBER_EFFORT, max_tokens=5, messages=[{"role": "user", "content": (
+            "Neue Meldung A und unsere Artikel der letzten drei Tage zu denselben Klubs. Hat einer davon schon "
+            "dasselbe Thema, sodass A keine wesentliche neue Information bringt?\n"
+            "Regeln: Mehrere Vorberichte zum selben Spiel sind EIN Thema, auch wenn ein anderer Spieler oder "
+            "Aspekt in der Überschrift steht (Gegner-Analyse, Personallage, Trainerstimmen vor dem Spiel). "
+            "Neu und erlaubt sind: ein neuer Ausfall oder eine neue Verletzung, ein offizieller Vollzug "
+            "(Gerücht → offiziell), ein Spielbericht nach dem Spiel, ein ganz anderes Ereignis.\n\n"
+            f"A: {titel}\nKern A: {kern[:500]}\n\nUnsere Artikel:\n{liste}\n\n"
+            "Antworte nur mit der Nummer des Artikels mit demselben Thema oder 0."
+        )}])
+        m = re.search(r"\d+", _text_aus(antwort))
+        if m and 0 < int(m.group()) <= len(themen):
+            return themen[int(m.group()) - 1]["titel"]
+    return None
+
+
+_SPIELPLAN: list[str] | None = None
+
+def spielplan_kontext(tage: int = 4) -> list[str]:
+    """Bundesliga-Partien der letzten und nächsten Tage (OpenLigaDB, kostenlos).
+    Damit erkennt die Redaktionskonferenz Spielberichte aus Frauen-, Jugend- oder
+    Unterhausligen, die in der Schlagzeile nicht als solche erkennbar sind."""
+    global _SPIELPLAN
+    if _SPIELPLAN is not None:
+        return _SPIELPLAN
+    _SPIELPLAN = []
+    try:
+        import requests as _req
+        spiele = _req.get(f"https://api.openligadb.de/getmatchdata/{LIGA_API}/{SAISON}", timeout=15).json()
+    except Exception as e:
+        log.warning(f"Spielplan nicht verfügbar: {e}")
+        return _SPIELPLAN
+    jetzt = datetime.datetime.now()
+    for m in spiele:
+        try:
+            t = datetime.datetime.fromisoformat(m["matchDateTime"])
+        except Exception:
+            continue
+        if abs((t - jetzt).total_seconds()) > tage * 86400:
+            continue
+        erg = next((f" {x['pointsTeam1']}:{x['pointsTeam2']}" for x in m.get("matchResults") or []
+                    if x.get("resultTypeID") == 2), "")
+        _SPIELPLAN.append(f"{t:%d.%m.} {m['team1']['teamName']} – {m['team2']['teamName']}{erg}")
+    return _SPIELPLAN
+
+
+_GOOGLE_FEHLER_IN_FOLGE = 0
+MIN_QUELL_WOERTER = 80           # weniger Stoff ergibt keine runde Meldung
+
+
+# Hosts, die Bots sperren (403 "Please enable JS" / leere Seite): ihr Volltext ist nie abrufbar.
+# Ihre Schlagzeilen bleiben als Themenhinweis, aber sie belegen keinen der fünf Abrufplätze.
+NICHT_ABRUFBAR = ("kicker.de", "reddit.com")
+_ERSATZ_GESUCHT: set = set()
+
+
+def ergaenzende_quellen(g: dict, max_neu: int = 4) -> list[dict]:
+    """Sucht dieselbe Meldung bei anderen Medien (Google News), wenn die eigenen Quellen keinen Volltext liefern
+    (z. B. Thema nur von kicker). Nur Treffer, die zur Geschichte passen: ähnlicher Titel und, wenn bekannt,
+    ein Nachname der beteiligten Spieler im Titel."""
+    from urllib.parse import quote
+    from rapidfuzz import fuzz
+    titel = re.sub(r"\s+[-–|]\s+[^-–|]{2,30}$", "", g["titel"]).strip()
+    url = f"https://news.google.com/rss/search?q={quote(titel[:90] + ' when:2d')}&hl=de&gl=DE&ceid=DE:de"
+    try:
+        eintraege = feedparser.parse(url).entries[:15]
+    except Exception as e:
+        log.info(f"S7 Ersatzsuche fehlgeschlagen: {e}")
+        return []
+    namen = [str(n).split()[-1].lower() for n in (g.get("spieler") or []) if str(n).strip()]
+    bekannt = {q["url"] for q in g["quellen"]}
+    treffer = []
+    for e in eintraege:
+        quelle = e.get("source") or {}
+        host = (quelle.get("href") or "").lower()
+        if any(d in host for d in NICHT_ABRUFBAR) or "ligainsider" in host or e.get("link") in bekannt:
+            continue
+        t = re.sub(r"\s+-\s+[^-]{2,40}$", "", e.get("title", "")).strip()
+        if SAMMELARTIKEL.search(t.lower()) or fuzz.token_set_ratio(titel.lower(), t.lower()) < (65 if namen else 75):
+            continue
+        if namen and not any(n in t.lower() for n in namen):
+            continue
+        treffer.append({"url": e["link"], "titel": t, "quelle": quelle.get("title") or host, "beschr": ""})
+        if len(treffer) >= max_neu:
+            break
+    return treffer
+
+
+def quellen_laden(g: dict, max_texte: int = 3, genug_woerter: int = 900) -> list[dict]:
+    """Volltexte der besten Quellen einer Geschichte (höchstens fünf Abrufe), bis
+    genug Stoff für einen vollwertigen Artikel beisammen ist. Reicht der Stoff nicht
+    (z. B. nur kicker-Schlagzeilen), wird einmal je Geschichte nach derselben Meldung bei anderen Medien gesucht."""
+    global _GOOGLE_FEHLER_IN_FOLGE
+    texte = []
+
+    def woerter():
+        return sum(len(t["text"].split()) for t in texte)
+
+    def laden(q):
+        global _GOOGLE_FEHLER_IN_FOLGE
+        # Google-Links auflösen: verlinkt wird das Original, LigaInsider nie.
+        # Sperrt Google die Auflösung (kommt auf GitHub-Servern vor), nach drei
+        # Fehlschlägen in Folge für den Rest des Laufs keine Google-Links mehr.
+        original = q["url"]
+        if "news.google.com" in original:
+            if _GOOGLE_FEHLER_IN_FOLGE >= 3:
+                return
+            aufgeloest = _decode_google_news_url(original)
+            if not aufgeloest:
+                _GOOGLE_FEHLER_IN_FOLGE += 1
+                if _GOOGLE_FEHLER_IN_FOLGE == 3:
+                    log.warning("Google-News-Links in diesem Lauf nicht auflösbar – nur direkte Quellen")
+                return
+            _GOOGLE_FEHLER_IN_FOLGE = 0
+            original = aufgeloest
+        if "ligainsider" in original.lower() or any(d in original.lower() for d in NICHT_ABRUFBAR) \
+                or SAMMELARTIKEL.search(q["titel"].lower()):
+            return
+        text, grund = fetch_fulltext(original)
+        if grund != "ok":
+            log.info(f"S7 kein Volltext ({grund}): {q['titel'][:60]}")
+            return
+        eintrag = {**q, "text": text[:3500], "link": original}
+        if "aid" not in q:   # Ersatzquelle aus der Google-Suche: kennt nur den Google-Link, braucht aber Artikel-ID und echte URL
+            eintrag["aid"] = artikel_id(original)
+            eintrag["url"] = original
+        texte.append(eintrag)
+
+    abrufbar = [q for q in g["quellen"] if not any(d in q["url"].lower() for d in NICHT_ABRUFBAR)]
+    for q in abrufbar[:5]:
+        if len(texte) >= max_texte or woerter() >= genug_woerter:
+            break
+        laden(q)
+
+    if woerter() < MIN_QUELL_WOERTER and g.get("id") not in _ERSATZ_GESUCHT and _GOOGLE_FEHLER_IN_FOLGE < 3:
+        _ERSATZ_GESUCHT.add(g.get("id"))
+        ersatz = ergaenzende_quellen(g)
+        log.info(f"S7 Ersatzquellen für \"{g['titel'][:50]}\": {len(ersatz)} passende Treffer")
+        vorher = len(texte)
+        for q in ersatz:
+            if len(texte) >= max_texte or woerter() >= genug_woerter:
+                break
+            laden(q)
+        if len(texte) > vorher:
+            log.info(f"S7 Ersatzquelle liefert Text ({woerter()} Wörter, {len(texte) - vorher} Quellen): {g['titel'][:60]}")
+    return texte
+
+
+def _als_archiv_eintrag(ergebnis: dict, aid: str) -> dict:
+    """Fertigen Artikel so aufbereiten wie storys.archiv_vorbereiten() das Archiv."""
+    a = storys.analysiere(ergebnis["titel"])
+    stufe = ergebnis.get("ereignis") if ergebnis.get("ereignis") in storys.STUFEN_KLASSE else a["stufe"]
+    spieler = [s for s in (ergebnis.get("spieler") or []) if s] or a["spieler"]
+    hauptklub = KLUB_FILTERNAME.get(ergebnis.get("hauptklub", ""), ergebnis.get("hauptklub", ""))
+    klubs = set(a["klubs"]) | ({hauptklub} if hauptklub in VEREIN_FILTER.values() else set())
+    person = a["person"] or (spieler[0] if spieler else "")
+    return {
+        "id": aid, "titel": ergebnis["titel"], "zeit": datetime.datetime.now(),
+        "person": storys.falten(person), "summary": ergebnis.get("kurzfassung", ""),
+        "stufe": stufe, "klasse": storys.STUFEN_KLASSE[stufe],
+        "spieler": {storys.falten(s) for s in spieler}, "klubs": klubs,
+        # für archiv_abgleich() als "Geschichte" lesbar:
+        "klub": a["klub"] or (hauptklub if hauptklub in VEREIN_FILTER.values() else ""),
+        "person_name": person, "spieler_namen": spieler,
+        "text": ergebnis.get("text", ""),
+    }
+
+
+def nachpruefung(eintrag: dict, archiv: list[dict]) -> str | None:
+    """Stage 7.6: fertigen Artikel gegen Archiv und Artikel dieses Laufs prüfen.
+    Gibt den Titel der Doppelmeldung zurück oder None."""
+    g = {"titel": eintrag["titel"], "person": eintrag["person_name"], "spieler": eintrag["spieler_namen"],
+         "klub": eintrag["klub"], "klubs": list(eintrag["klubs"]), "stufe": eintrag["stufe"],
+         "klasse": eintrag["klasse"]}
+    status, treffer = storys.archiv_abgleich(g, archiv)
+    if status == "doppelt":
+        return treffer[0]["titel"]
+    # Unklar: gleiche Ereignisart und Stufe – dann vergleicht Haiku die Kurzfassungen
+    fenster = datetime.timedelta(days=storys.FENSTER_TAGE[g["klasse"]])
+    for e in treffer:
+        if (e["klasse"] == g["klasse"] != "sonstiges" and e["stufe"] == g["stufe"]
+                and datetime.datetime.now() - e["zeit"] <= fenster):
+            try:
+                if gleiches_ereignis(g["titel"], eintrag["summary"], e["titel"], e.get("summary", "")):
+                    return e["titel"]
+            except Exception as ex:
+                log.warning(f"S7.6 Gegenprobe nicht möglich: {ex}")
+            break
+    return None
+
+
+def _geschichte_verwerfen(g: dict, stufe: str, grund: str, ausser: str = "") -> None:
+    """Alle Quellen einer Geschichte als erledigt markieren (kommen nicht wieder)."""
+    for q in g["quellen"]:
+        if q.get("aid") and q["aid"] != ausser:
+            _log_skip(q["aid"], q["titel"], stufe, grund)
+            (ARTIKEL_ORDNER / f"{q['aid']}.skip").touch()
+
+
+# ─── Published Stories (persistenter State) ───────────────────────────────────
+
+PUBLISHED_JSON = Path("data/published_stories.json")
+
+def lade_published_stories() -> list[dict]:
+    PUBLISHED_JSON.parent.mkdir(exist_ok=True)
+    if not PUBLISHED_JSON.exists():
+        return []
+    try:
+        return json.loads(PUBLISHED_JSON.read_text(encoding="utf-8"))
+    except Exception as ex:
+        # Leere Liste hieße: alle veröffentlichten Artikel vergessen, Dubletten folgen
+        raise RuntimeError(f"published_stories.json nicht lesbar, Lauf abgebrochen: {ex}")
+
+NEWS_ARCHIVE_JSON = Path("data/news_archive.json")
+
+def lade_news_archive() -> list[dict]:
+    if NEWS_ARCHIVE_JSON.exists():
+        try:
+            return json.loads(NEWS_ARCHIVE_JSON.read_text(encoding="utf-8"))
+        except Exception as ex:
+            # Ein leeres Archiv würde das Dublettengedächtnis löschen
+            raise RuntimeError(f"news_archive.json nicht lesbar, Lauf abgebrochen: {ex}")
+    return []
+
+def speichere_news_archive(archive: list[dict]):
+    # Gelesen werden höchstens 14 Tage (storys.ARCHIV_TAGE), 30 behalten reicht
+    archive = [e for e in archive if _ist_innerhalb_tage(e.get("published_at", ""), days=30)]
+    _atomar_schreiben(NEWS_ARCHIVE_JSON, json.dumps(archive, ensure_ascii=False, indent=2))
+
+def final_pre_publish_check(titel: str, fp: dict, archive: list[dict]) -> bool:
+    """True = Duplikat (skip), False = neu publizieren.
+    Gleicher main_club + gleiche main_players + gleiche event_stage innerhalb 7 Tage → Duplikat.
+    Andere event_stage → neue Entwicklung → publizieren."""
+    if not fp:
+        return False
+    new_club = (fp.get("main_club") or "").lower().strip()
+    new_stage = fp.get("event_stage", "sonstiges")
+    new_players = {p.lower() for p in storys._liste(fp.get("main_players"))}
+
+    cutoff = datetime.datetime.now() - datetime.timedelta(days=7)
+    for entry in archive:
+        try:
+            entry_ts = datetime.datetime.fromisoformat(entry.get("published_at", ""))
+        except Exception:
+            continue
+        if entry_ts < cutoff:
+            continue
+
+        old_club = (entry.get("main_club") or "").lower().strip()
+        old_stage = entry.get("event_stage", "sonstiges")
+        old_players = {p.lower() for p in storys._liste(entry.get("main_players"))}
+
+        # Gleicher Verein?
+        if new_club and old_club and new_club != old_club:
+            continue
+
+        # Spieler-Überschneidung? Fehlt auf einer Seite die Liste, reichen Klub und Stufe nicht:
+        # dann muss auch der Titel ähnlich sein (sonst fiel z. B. jedes zweite Gladbach-Transferthema raus)
+        if new_players and old_players and not (new_players & old_players):
+            continue
+        if not (new_players and old_players):
+            from rapidfuzz import fuzz
+            if fuzz.token_set_ratio(titel.lower(), (entry.get("title") or "").lower()) < 70:
+                continue
+
+        # Gleiche event_stage → echtes Duplikat
+        if new_stage == old_stage and new_stage not in ("sonstiges", ""):
+            log.info(f"FinalCheck SKIP: {new_club}/{new_players} stage={new_stage} bereits in Archiv")
+            return True
+
+        # Andere event_stage → neue Entwicklung → durchlassen
+        # (z.B. geruecht → vollzogen)
+
+    return False
+
+def gleiche_geschichte_im_lauf(titel: str, fp: dict, bisher: list[tuple]) -> bool:
+    """True, wenn ein schon freigegebener Artikel DIESES Laufs dieselbe Geschichte erzählt.
+    bisher = [(titel, fingerprint)]. Gleicher Klub, gemeinsamer Spieler und ähnlicher Titel genügt,
+    auch bei verschiedener event_stage: zwei Stufen derselben Meldung im selben Lauf sind keine
+    neue Entwicklung (Beispiel: 'vertrag' und 'vollzogen' bei Chatzialexiou/Frankfurt)."""
+    from rapidfuzz import fuzz as _fuzz2
+    klub = (fp.get("main_club") or "").lower().strip()
+    spieler = {p.lower() for p in storys._liste(fp.get("main_players"))}
+    for alt_titel, alt_fp in bisher:
+        alt_klub = (alt_fp.get("main_club") or "").lower().strip()
+        alt_spieler = {p.lower() for p in storys._liste(alt_fp.get("main_players"))}
+        if klub and alt_klub and klub != alt_klub:
+            continue
+        if not (spieler & alt_spieler):
+            continue
+        if _fuzz2.ratio(titel.lower(), alt_titel.lower()) >= 75:
+            return True
+    return False
+
+
+def speichere_published_stories(stories: list[dict]):
+    PUBLISHED_JSON.parent.mkdir(exist_ok=True)
+    _atomar_schreiben(PUBLISHED_JSON, json.dumps(stories[-1000:], ensure_ascii=False, indent=2))
+
+
+
+def _ist_innerhalb_tage(published_at_str: str, days: int = 14) -> bool:
+    """True wenn published_at innerhalb der letzten N Tage."""
+    if not published_at_str:
+        return False
+    try:
+        ts = datetime.datetime.fromisoformat(published_at_str)
+        return (datetime.datetime.now() - ts).days <= days
+    except Exception:
+        return False
+
+
+_BL_SPIELER_CACHE: list[str] = []
+_BL_SPIELER_LOADED = False
+
+def _lade_bl_spieler() -> list[str]:
+    """Namen aller Bundesliga-Spieler für den Vorfilter (gecacht pro Lauf).
+
+    Quelle ist spieler_db.json (Transfermarkt-Kader). OpenLigaDB liefert für
+    2026 keine Spielerliste mehr – dadurch fielen Überschriften ohne Vereinsnamen
+    ("Kane findet Ballon-d'Or-Debatte kompliziert") früher komplett durch.
+    """
+    global _BL_SPIELER_CACHE, _BL_SPIELER_LOADED
+    if _BL_SPIELER_LOADED:
+        return _BL_SPIELER_CACHE
+    _BL_SPIELER_LOADED = True
+    namen = set()
+    try:
+        db = json.loads(Path("spieler_db.json").read_text(encoding="utf-8"))
+        for team in db["teams"].values():
+            for sp in team["spieler"]:
+                for n in (sp.get("name"), (sp.get("kickbase") or {}).get("name")):
+                    if not n:
+                        continue
+                    namen.add(n)
+                    teile = n.split()
+                    # Nachname allein nur, wenn er lang genug ist, um nicht ständig zu treffen
+                    if len(teile) > 1 and len(teile[-1]) >= 5:
+                        namen.add(teile[-1])
+    except Exception as e:
+        log.warning(f"Spielerliste nicht verfügbar: {e}")
+    _BL_SPIELER_CACHE = sorted(namen)
+    log.info(f"BL-Spielerliste geladen: {len(_BL_SPIELER_CACHE)} Namen")
+    return _BL_SPIELER_CACHE
+
+
+# Klubs ausserhalb der 3. Liga. Mehrwortig, wo der Stadtname sonst mit einem
+# Drittligisten kollidiert (Köln, Stuttgart, Hoffenheim haben dort zweite Mannschaften).
+NICHT_BL_KLUBS = (
+    # 1. Bundesliga (eigene Seite): nur relevant, wenn ein Drittligist im Titel fehlt
+    "fc bayern", "bayern münchen", "borussia dortmund", "bvb", "rb leipzig", "bayer leverkusen", "bayer 04",
+    "eintracht frankfurt", "vfb stuttgart", "borussia mönchengladbach", "gladbach", "sc freiburg", "tsg hoffenheim",
+    "mainz 05", "fc augsburg", "union berlin", "werder bremen", "hamburger sv", "hsv", "1. fc köln", "fc köln",
+    "fc schalke", "schalke 04", "sc paderborn", "sv elversberg",
+    # 2. Bundesliga (eigene Seite)
+    "heidenheim", "kaiserslautern", "1. fc magdeburg", "1. fc nürnberg", "arminia bielefeld", "dynamo dresden",
+    "eintracht braunschweig", "energie cottbus", "st. pauli", "hannover 96", "hertha", "holstein kiel",
+    "karlsruher sc", "greuther fürth", "darmstadt 98", "vfl bochum", "vfl osnabrück", "vfl wolfsburg",
+    # Regionalliga und andere
+    "lok leipzig", "chemie leipzig", "ssv ulm", "sv sandhausen", "tsv 1860", "1860 münchen", "erzgebirge aue",
+    "stuttgarter kickers", "vfb oldenburg", "kickers offenbach", "rot-weiß oberhausen", "fc 08 homburg",
+)
+
+
+def nur_fremdklub(titel: str) -> bool:
+    """Titel dreht sich um einen Nicht-Erstligisten und nennt keinen BL-Klub.
+
+    Bewusst eng gefasst: sobald auch ein Bundesligist im Titel steht, bleibt
+    der Artikel drin. "Hansa Rostock verliert Test gegen Gladbach" ist echte
+    Gladbach-News, auch wenn Rostock vorne steht.
+    """
+    t = titel.lower()
+    if not any(k in t for k in NICHT_BL_KLUBS):
+        return False
+    return not any(_count_key(k, t) for k in VEREIN_WAPPEN)
+
+
+def keyword_pre_filter(titel: str, beschreibung: str) -> bool:
+    """Stage 3: Billiger Keyword-Check — kein Haiku-Call.
+    Lässt durch wenn BL-Klub ODER BL-Spieler im Titel/Beschreibung vorkommt."""
+    combined = (titel + " " + beschreibung).lower()
+    if any(_count_key(k.lower(), combined) for k in BL1_KLUBS):
+        return True
+    # Spielerdatenbank mit Klubbezug: findet auch kurze Namen (Agu, Tah, Kim)
+    a = storys.analysiere(titel, beschreibung)
+    if a["spieler"] or a["klubs"]:
+        return True
+    spieler = _lade_bl_spieler()
+    return any(_count_key(s.lower(), combined) for s in spieler if len(s) > 4)
+
+
+_GN_UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+          "(KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36")
+
+
+@functools.lru_cache(maxsize=2048)   # wird für Volltext und Quellen-Link gebraucht
+def _decode_google_news_url(google_url: str) -> str | None:
+    """Loest einen Google-News-Link zur echten Artikel-URL auf.
+
+    Frueher steckte die Ziel-URL base64-kodiert im Pfad. Seit Google auf
+    undurchsichtige Artikel-IDs (AU_yqL...) umgestellt hat, greift der alte
+    Weg nicht mehr - er wird nur noch fuer Altbestaende versucht. Danach
+    fragen wir denselben Endpunkt ab, den die Google-News-Oberflaeche nutzt.
+
+    Schlaegt alles fehl, gibt die Funktion None zurueck und der Artikel wird
+    uebersprungen; die Pipeline darf daran nie haengen bleiben.
+    """
+    import base64
+    import requests as _req
+
+    m = re.search(r'articles/([A-Za-z0-9_=-]+)', google_url)
+    if not m:
+        return None
+    artikel_id = m.group(1)
+
+    # Altes Format: Ziel-URL steckt direkt im base64-Teil
+    if artikel_id.startswith("CBMi"):
+        try:
+            b64 = artikel_id[4:]
+            b64 += "=" * (-len(b64) % 4)
+            roh = base64.urlsafe_b64decode(b64).decode("utf-8", errors="ignore")
+            treffer = re.search(r'https?://[^\x00-\x1f\s]+', roh)
+            if treffer:
+                ziel = treffer.group(0).rstrip("\x00").rstrip("=")
+                if "google.com" not in ziel:
+                    return ziel
+        except Exception as _ex:
+            log.debug(f"Google-News-Link nicht lesbar: {_ex}")
+
+    # Aktuelles Format: Signatur von der Artikelseite holen, dann aufloesen
+    try:
+        s = _req.Session()
+        s.headers.update({"User-Agent": _GN_UA})
+        # Ohne Einwilligungs-Cookie leitet Google (EU) auf consent.google.com um.
+        # "CONSENT=YES+cb" wird nicht mehr akzeptiert, maßgeblich ist heute SOCS.
+        s.cookies.set("SOCS", "CAESEwgDEgk0ODE3Nzk3MjQaAmRlIAEaBgiA_LyaBg", domain=".google.com")
+        s.cookies.set("CONSENT", "PENDING+987", domain=".google.com")
+        seite = s.get(f"https://news.google.com/rss/articles/{artikel_id}", timeout=10)
+        sig = re.search(r'data-n-a-sg="([^"]+)"', seite.text)
+        ts = re.search(r'data-n-a-ts="([^"]+)"', seite.text)
+        if not (sig and ts):
+            log.info(f"Google-News-Link nicht auflösbar: HTTP {seite.status_code}, "
+                     f"{'Sperrseite' if 'sorry' in seite.url or 'consent' in seite.url else 'keine Signatur'}")
+            return None
+
+        nutzlast = json.dumps([
+            "Fbv4je",
+            json.dumps(["garturlreq", [["de", "DE", ["FINANCE_TOP_INDICES", "WEB_TEST_1_0_0"],
+                                        None, None, 1, 1, "DE:de", None, 180, None, None, None,
+                                        None, None, 0, None, None, [1608992194]],
+                                       "de", "DE", 1, [2, 4, 8], 1, 1, None, 0, 0, None, 0],
+                        artikel_id, int(ts.group(1)), sig.group(1)]),
+        ])
+        antwort = s.post(
+            "https://news.google.com/_/DotsSplashUi/data/batchexecute",
+            data={"f.req": json.dumps([[nutzlast and json.loads(nutzlast)]])},
+            headers={"Content-Type": "application/x-www-form-urlencoded;charset=UTF-8"},
+            timeout=10,
+        )
+        # Die Ziel-URL steht als escaptes JSON in der Antwort: ...["garturlres","https://…"]
+        ziel = re.search(r'garturlres\\?",\\?"(https?://[^"\\]+)', antwort.text)
+        if not ziel:
+            log.debug(f"Google-News-Antwort ohne URL: {antwort.status_code} {antwort.text[:120]}")
+        return ziel.group(1) if ziel else None
+    except Exception as e:
+        log.debug(f"Google-News-Aufloesung fehlgeschlagen: {e}")
+        return None
+
+
+def _ligainsider_eintraege() -> list[dict]:
+    """Themenfinder: News der letzten Tage von den 18 LigaInsider-Vereinsseiten im
+    Format eines RSS-Eintrags. LigaInsider selbst wird nie Quelle – die Pipeline
+    folgt nur dem dort verlinkten Originalartikel (siehe main)."""
+    import requests as _req
+    import html as _html
+    s = _req.Session()
+    s.headers.update({"User-Agent": _GN_UA, "Accept-Language": "de-DE,de;q=0.9"})
+    try:
+        start = s.get("https://www.ligainsider.de/bundesliga/spieltage/", timeout=15).text
+    except Exception as e:
+        log.warning(f"LigaInsider nicht erreichbar: {e}")
+        return []
+    teams = sorted(set(re.findall(r'href="/(?!bundesliga)([a-z0-9-]+)/(\d+)/verein/news/"', start)))
+    jetzt = datetime.datetime.now()
+    eintraege, gesehen = [], set()
+    for slug, tid in teams:
+        try:
+            h = s.get(f"https://www.ligainsider.de/{slug}/{tid}/verein/news/", timeout=15).text
+        except Exception:
+            continue
+        for m in re.finditer(r'<h3>(.*?)</h3>', h, re.S):
+            titel = re.sub(r"\s+", " ", _html.unescape(re.sub(r"<[^>]+>", "", m.group(1)))).replace("\xad", "").strip()
+            link = re.search(r'href="(/[^"]+-\d+/)"[^>]*>\s*$', h[max(0, m.start() - 300):m.start()])
+            zeit = re.search(r'<small class="float-start">([^<]+)</small>', h[m.end():m.end() + 2500])
+            if not (titel and link and zeit):
+                continue
+            url = "https://www.ligainsider.de" + link.group(1)
+            if url in gesehen:
+                continue
+            gesehen.add(url)
+            z = zeit.group(1).strip()
+            if (mm := re.match(r"Vor (\d+) (Min|Std)", z)):
+                dt = jetzt - datetime.timedelta(minutes=int(mm.group(1)) * (1 if mm.group(2) == "Min" else 60))
+            elif z == "Gestern":
+                dt = jetzt - datetime.timedelta(days=1)
+            elif (mm := re.match(r"Vor (\d+) Tagen", z)):
+                dt = jetzt - datetime.timedelta(days=int(mm.group(1)))
+            elif (mm := re.match(r"(\d\d)\.(\d\d)\.(\d{4})", z)):
+                dt = datetime.datetime(int(mm.group(3)), int(mm.group(2)), int(mm.group(1)))
+            else:
+                continue
+            # Vereinsname aus der Adresse ("sv-werder-bremen"), damit kurze Namen
+            # wie "Hein" oder "Agu" dem richtigen Klub zugeordnet werden
+            verein = slug.replace("-", " ")
+            for a, b in (("ae", "ä"), ("oe", "ö"), ("ue", "ü")):
+                verein = verein.replace(a, b)
+            eintraege.append({"link": url, "title": titel, "summary": f"{titel} ({verein})",
+                              "published_parsed": dt.timetuple()})
+        time.sleep(1)
+    log.info(f"LigaInsider (Themenfinder): {len(eintraege)} Meldungen von {len(teams)} Vereinsseiten")
+    return eintraege
+
+
+def _host_oeffentlich(url: str) -> bool:
+    """Nur http(s) und Hosts, die ausschließlich auf öffentliche Adressen zeigen (kein localhost, kein internes Netz)."""
+    import socket, ipaddress
+    from urllib.parse import urlparse
+    u = urlparse(url)
+    if u.scheme not in ("http", "https") or not u.hostname:
+        return False
+    try:
+        infos = socket.getaddrinfo(u.hostname, None)
+    except (OSError, UnicodeError):
+        return False
+    try:
+        return bool(infos) and all(ipaddress.ip_address(i[4][0].split('%')[0]).is_global for i in infos)
+    except ValueError:
+        return False
+
+
+def _sicher_get(url: str, **kw):
+    """requests.get, das Weiterleitungen selbst folgt und jeden Schritt prüft.
+    shortcut: DNS-Rebinding zwischen Prüfung und Abruf bleibt möglich; Runner hat keine internen Dienste, daher akzeptiert."""
+    import requests as _r
+    from urllib.parse import urljoin
+    for _ in range(6):
+        if not _host_oeffentlich(url):
+            raise ValueError(f"URL nicht öffentlich: {url[:80]}")
+        r = _r.get(url, allow_redirects=False, stream=True, **kw)
+        if r.is_redirect and r.headers.get("location"):
+            url = urljoin(r.url, r.headers["location"])
+            r.close()
+            continue
+        # timeout= begrenzt nur die Pause zwischen Bytes: Größe und Gesamtdauer selbst deckeln
+        daten, t0 = bytearray(), time.time()
+        for teil in r.iter_content(65536):
+            daten += teil
+            if len(daten) > 3_000_000 or time.time() - t0 > 30:
+                break
+        r.close()
+        r._content, r._content_consumed = bytes(daten), True
+        return r
+    raise ValueError("zu viele Weiterleitungen")
+
+
+# ganze Wörter: "abo" soll "Kaboré" oder "Labor" nicht treffen
+PAYWALL_RE = re.compile(r"\b(?:paywall|abo|abonnenten|premium)\b|login erforderlich|nur für abonnenten|artikelende")
+
+
+def fetch_fulltext(url: str) -> tuple[str | None, str]:
+    """Lädt Volltext via trafilatura. Gibt (text, reason) zurück — reason='ok' oder Fehlergrund."""
+    import trafilatura
+    import requests as _req
+    try:
+        # Google News Redirect vorab dekodieren
+        fetch_url = url
+        if "news.google.com" in url:
+            decoded = _decode_google_news_url(url)
+            if decoded:
+                fetch_url = decoded
+                log.debug(f"Google News dekodiert: {decoded[:80]}")
+
+        # Redirect folgen
+        try:
+            r = _sicher_get(fetch_url, timeout=12,
+                         headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"})
+            final_url = r.url
+            if "google.com" in final_url:
+                return None, "google_redirect_unresolved"
+            html_content = r.content
+        except Exception as e:
+            return None, f"fetch_failed_{type(e).__name__}"
+
+        # Seitendatum prüfen: alte Archivseiten (z. B. Liveticker) nicht als News verwerten
+        # Maßgeblich ist das Erscheinungsdatum aus den Seitendaten (JSON-LD datePublished,
+        # article:published_time). trafilatura greift sonst gern ein aktuelles Datum aus
+        # der Seite ab: am 09.10. kam so ein tag24-Artikel vom 10.08. als neue Meldung durch.
+        try:
+            _quelltext = html_content.decode("utf-8", "ignore") if isinstance(html_content, bytes) else html_content
+            # je Quelle nur der erste Treffer: weiter unten stehen oft Teaser verwandter, älterer Artikel
+            daten = []
+            for _muster in (r'"datePublished"\s*:\s*"(\d{4}-\d{2}-\d{2})',
+                            r'(?:article:published_time|og:published_time|pubdate|date)"\s+content="(\d{4}-\d{2}-\d{2})',
+                            r'content="(\d{4}-\d{2}-\d{2})[^"]*"\s+(?:property|name)="(?:article:published_time|og:published_time)"'):
+                _t = re.search(_muster, _quelltext)
+                if _t:
+                    daten.append(_t.group(1))
+            _meta = trafilatura.extract_metadata(html_content)
+            if _meta and getattr(_meta, "date", None):
+                daten.append(_meta.date[:10])
+            if daten:
+                _dt = datetime.datetime.strptime(min(daten), "%Y-%m-%d")
+                if (datetime.datetime.now() - _dt).days > MAX_ALTER_TAGE:
+                    return None, "seite_zu_alt"
+        except Exception as _ex:
+            log.debug(f"Seitendatum nicht prüfbar: {_ex}")
+
+        text = trafilatura.extract(
+            html_content,
+            include_comments=False,
+            include_tables=False,
+            output_format="txt",
+            favor_precision=True,
+        )
+        if not text:
+            return None, "trafilatura_returned_empty"
+
+        words = text.split()
+        word_count = len(words)
+        if word_count < 80:             # darunter meist Teaser oder Bezahlschranke
+            return None, f"too_short_{word_count}_words"
+
+        if PAYWALL_RE.search(text.lower()):
+            return None, "likely_paywall"
+
+        unique_ratio = len(set(words)) / len(words)
+        if unique_ratio < 0.4:
+            return None, "low_unique_content_ratio"
+
+        return text[:4000], "ok"
+
+    except Exception as e:
+        return None, f"exception_{type(e).__name__}"
+
+
+
+
+KATEGORIEN = ["transfer", "verletzung", "aufstellung", "interview", "analyse", "news"]
+
+
+def _schema_artikel() -> dict:
+    """Feste Antwortstruktur: das Modell kann kein kaputtes JSON mehr liefern
+    (früher scheiterte fast jeder dritte Artikel an Anführungszeichen in Zitaten)."""
+    klubs = list(KLUB_LOGO)
+    return {
+        "type": "object",
+        "properties": {
+            "relevant": {"type": "boolean"},
+            "genug_stoff": {"type": "boolean"},
+            "titel": {"type": "string"},
+            "text": {"type": "string"},
+            "kategorie": {"type": "string", "enum": KATEGORIEN},
+            "hauptklub": {"type": "string", "enum": klubs + ["keiner"]},
+            "ereignis": {"type": "string", "enum": storys.STUFEN},
+            "spieler": {"type": "array", "items": {"type": "string"}},
+            "kurzfassung": {"type": "string"},
+            "spielerstatus": {"type": "array", "items": {
+                "type": "object",
+                "properties": {
+                    "spieler": {"type": "string"},
+                    "klub": {"type": "string", "enum": klubs},
+                    "status": {"type": "string", "enum": ["faellt_aus", "fraglich", "spielt", "startelf"]},
+                    "grund": {"type": "string"},
+                },
+                "required": ["spieler", "klub", "status", "grund"],
+                "additionalProperties": False,
+            }},
+            "formation": {"type": "string"},
+            "umfrage": {"type": "object", "properties": {
+                "typ": {"type": "string", "enum": ["keine", "deal", "recht"]},
+                "frage": {"type": "string"},
+            }, "required": ["typ", "frage"], "additionalProperties": False},
+        },
+        "required": ["relevant", "genug_stoff", "titel", "text", "kategorie", "hauptklub", "ereignis",
+                     "spieler", "kurzfassung", "spielerstatus", "formation", "umfrage"],
+        "additionalProperties": False,
+    }
+
+
+SCHREIB_MAX_TOKENS = 2000
+SCHREIB_ZEICHEN = 18000          # Prompt mit bis zu drei Quellen, für die Budgetschätzung
+
+
+def artikel_generieren(g: dict, texte: list[dict], reserve: float = 0.0,
+                       model: str = SCHREIBER, effort: str | None = SCHREIBER_EFFORT) -> dict:
+    """Sonnet schreibt aus bis zu drei Quellen einen Artikel und liefert die Angaben
+    fürs Archiv (Ereignis, Spieler, Kurzfassung) gleich mit – kein Extra-Aufruf."""
+    klub_liste = " | ".join(KLUB_LOGO) + " | keiner"
+    quellen = "\n\n".join(f"=== QUELLE {i + 1}: {t['quelle']} ===\nSchlagzeile: {t['titel']}\n{t['text']}"
+                          for i, t in enumerate(texte))
+    frueher = ""
+    if g.get("archiv"):
+        frueher = ("\n\nUNSERE FRÜHEREN BERICHTE ZUM THEMA (nur zur Einordnung, nicht nacherzählen):\n"
+                   + "\n".join(f"- {a['datum']}: {a['titel']}" + (f" ({a['summary'][:220]})" if a.get("summary") else "")
+                               for a in g["archiv"][:3]))
+    wie_berichtet = ('Bei einer neuen Entwicklung zu UNSEREN FRÜHEREN BERICHTEN kurz einordnen ("Wie berichtet, ...").'
+                     if frueher else
+                     'Schreibe NIE "Wie berichtet" oder "wie bereits berichtet" – wir hatten zu diesem Thema noch keinen Artikel.')
+    prompt = f"""Du bist Sportredakteur bei LO. Stil: kicker.de – sachlich, präzise, konkret.
+Heute ist der {datetime.date.today().strftime('%d.%m.%Y')}.
+
+ABSOLUTE REGELN – KEINE HALLUZINATIONEN:
+- Nur Fakten, Namen, Zahlen aus den QUELLEN verwenden.
+- Steht eine Information nicht in den Quellen → einfach weglassen. Niemals Sätze wie "laut Quelle nicht spezifiziert",
+  "Details nennt die Quelle nicht" oder Verweise auf Bezahlschranken/Pressekonferenzen ohne Inhalt schreiben.
+- KEINE Spekulationen, KEINE Ergänzungen aus Trainingswissen.
+- VERBOTEN: „Die Entwicklung bleibt abzuwarten", „Transfers dieser Art sind komplex", alle Plattitüden.
+- Spielernamen korrekt inkl. Akzente (João, Raphaël, Øyvind).
+- Alter, Zahlen, Daten und Rekorde nur, wenn sie in den Quellen stehen – nie aus eigenem Wissen.
+- Personen beim ersten Nennen IMMER mit Vor- und Nachnamen (Oliver Burke, Trainer Sebastian Hoeneß), danach
+  Nachname. Steht der Vorname nicht in den Quellen und ist die Person ein bekannter Drittliga-Spieler oder
+  -Trainer, darfst du den Vornamen ergänzen – sonst nur Funktion + Nachname.
+- Testspiele: nur das Resultat – kurze Meldung (70 bis 120 Wörter) mit Ergebnis, Torschützen und auffälligen
+  Personalien (Verletzung, Startelf-Kandidat). Keine kompletten Aufstellungen, kein Spielverlauf.
+  Vorschauen auf Testspiele (noch nicht gespielt) sind nicht relevant.
+- Keine Gedankenstriche als Satzzeichen. Klare Sätze, max. 25 Wörter. Keine Ausrufezeichen.
+- Zitate in deutschen Anführungszeichen „…“.
+
+QUELLEN ({len(texte)}):
+{quellen}{frueher}
+
+Fülle diese Felder:
+- relevant: false, wenn die Quellen kein aktuelles Thema eines Drittligaklubs sind (Rückblick auf frühere
+  Spielzeiten, Jubiläum, Frauen, Jugend, 1. oder 2. Bundesliga, Regionalliga, Ranking oder Liste, Werbung, Sammelartikel mit mehreren
+  unverbundenen Themen, Fan-Wahlen wie Spieler des Monats, U23-/Nachwuchsthemen; Hoffenheim II und VfB Stuttgart II spielen aber in der 3. Liga und zählen voll). Länderspiele sind relevant, wenn ein Drittliga-Spieler konkret betroffen ist (Debüt,
+  Tor, Vorlage, Verletzung, Platzverweis, Kapitän); dann aus Sicht dieses Spielers und seines Klubs schreiben.
+  Dann alle Textfelder leer lassen und Listen leer.
+- genug_stoff: false, wenn die Quellen nicht einmal für eine runde Kurzmeldung (Intro, Mittelteil, Schluss) reichen.
+  Dann ebenfalls alle Textfelder leer lassen.
+- titel: präziser Titel im Kicker-Stil (max. 80 Zeichen).
+- text: ein vollständiger Nachrichtenartikel wie bei kicker oder LigaInsider, Absätze durch eine Leerzeile getrennt.
+  Länge nach Gewicht und Stoff – das schätzt du selbst ein: im Schnitt 150 bis 300 Wörter in 3 bis 5 Absätzen.
+  Einfache Meldungen (z. B. ein Spieler fällt wegen einer Erkältung aus, eine kurze Personalie) dürfen kürzer
+  sein, 70 bis 150 Wörter in 3 kurzen Absätzen – aber auch dann mit Intro, Mittelteil und Schluss. Große Themen
+  mit viel Stoff (Transfer mit Details, Trainerwechsel, Spielbericht) eher 250 bis 300. Nie mit Füllsätzen
+  strecken. Nutze die relevanten Details, Zahlen, Zitate und Hintergründe aus allen Quellen.
+  Kein Stichpunkt-Telegramm – jeder Absatz hat mindestens zwei ganze Sätze.
+  Aufbau – jeder Artikel hat IMMER Intro, Mittelteil und Schluss, wie ein echter Zeitungsartikel:
+  1. Intro (erster Absatz): die Nachricht in zwei bis drei vollständigen Sätzen – wer (mit Klub und Rolle,
+     z. B. "Werders Stammtorhüter Karl Hein"), was, wann, für welches Spiel. Wer nur das Intro liest, weiß Bescheid.
+  2. Mittelteil (ein bis drei Absätze): Details, Hintergründe und Zitate aus den Quellen (wörtlich, mit Sprecher),
+     danach die Einordnung, soweit die Quellen sie hergeben (Rolle des Spielers, bisherige Saison, Vorgeschichte).
+     Widersprechen sich Quellen, nenne beide Angaben. {wie_berichtet}
+  3. Schluss (letzter Absatz, mindestens zwei Sätze): rundet die Meldung ab. Am besten ein Ausblick aus den Quellen
+     (nächstes Spiel, Rückkehrtermin, wer ersetzen könnte, nächster Schritt im Transfer). Gibt es keinen, fasse
+     zusammen, was die Nachricht für Spieler und Klub bedeutet – ebenfalls nur mit Fakten aus den Quellen.
+     Der Artikel darf nie mitten in den Details enden. Der Schluss wiederholt nicht einfach das Intro
+     ("Für den Klub bedeutet das den Ausfall von ...") – er bringt einen weiteren Fakt oder Ausblick.
+  Bleib beim Thema dieser Geschichte: Ist eine Quelle ein Sammelartikel (News-Update, Ticker, Personal-Update
+  mit mehreren Themen), nutze nur die Teile zu diesem Thema. Andere Themen aus der Quelle (anderer Spieler,
+  Trainerverträge, Talente) gehören nicht in den Artikel.
+  Keine Füllsätze, keine Wiederholungen.
+- kategorie: transfer | verletzung | aufstellung | interview | analyse | news
+- hauptklub: der EINE Klub, um den es zentral geht. Erlaubt: {klub_liste}
+  Der Klub, dessen Perspektive der Artikel einnimmt – nicht der Gegner.
+  "Schalke gewinnt bei Union" → Schalke. "Bayern verpflichtet Brown von Frankfurt" → Bayern.
+  Wird ein Klub nur als Gegner, in einer Rangliste oder Aufzählung erwähnt, ist er NICHT der Hauptklub.
+  Geht es zentral um einen Klub außerhalb der Liste oder um keinen Klub: "keiner".
+- ereignis: Stand der Nachricht. Transfer: geruecht (Interesse, Spekulation) | angebot | einigung |
+  vollzogen (offiziell/unterschrieben) | geplatzt. Verletzung: verletzung (neu/Diagnose) | fraglich | ausfall
+  (fehlt sicher im nächsten Spiel, auch Sperre) | reha | rueckkehr (zurück im Mannschaftstraining/Kader).
+  Trainer: trainer_kandidat | trainer_neu | entlassung. Sonst: vertrag | spielbericht | kader (Startelf,
+  Aufstellung, Personal) | sonstiges.
+- spieler: die bis zu drei Drittliga-Spieler oder Trainer, um die es zentral geht (voller Name). Nebenfiguren nicht.
+- kurzfassung: zwei Sätze mit dem Kern der Nachricht (für unser Archiv).
+- spielerstatus: nur wenn die Quellen ausdrücklich sagen, ob ein Drittliga-Spieler am nächsten LIGASPIEL
+  teilnehmen kann (Europapokal, DFB-Pokal und Länderspiele zählen nicht). Pro Spieler: spieler (Nachname wie im
+  Text), klub, status (faellt_aus | fraglich | spielt = wieder fit | startelf = Startelfeinsatz angekündigt),
+  grund (max. 8 Wörter). Keine Transfers, keine Gerüchte, keine Vermutungen. Sonst leere Liste.
+- formation: nur wenn die Quellen die Grundordnung für das nächste Spiel des Hauptklubs mit Zahlen nennen
+  (z. B. "4-2-3-1"). Sonst "".
+- umfrage: eine Ein-Klick-Frage an die Leser, nur wenn sie wirklich passt. Sonst typ "keine" und frage "".
+  typ "deal": bei Transfer, Gerücht, Angebot oder Vertrag. Eine Frage, die man mit „Guter Deal“ oder „Fehler“
+  beantwortet, mit Spieler und Klub: „Wäre Zubimendi ein guter Deal für Bayern?“, „Ist Kobels Verlängerung ein
+  guter Deal für den BVB?“
+  typ "recht": wenn eine Person im Artikel eine klare Meinung, Forderung oder Kritik äußert (mit Zitat).
+  Die Frage beginnt mit „Hat <Nachname> recht“, gern mit kurzem Bezug: „Hat Hoeneß recht mit seiner Kritik
+  an der Länderspielpause?“
+  Regeln: höchstens 90 Zeichen, nur Namen und Fakten aus dem Text, keine Unterstellung, nichts zu Gesundheit,
+  Privatleben, Tod, Ermittlungen oder Vorwürfen. Bei Verletzungen und Spielberichten immer "keine"."""
+
+    antwort = ki_budget.aufruf(
+        "schreiben", model=model, max_tokens=SCHREIB_MAX_TOKENS, reserve=reserve, effort=effort,
+        messages=[{"role": "user", "content": prompt}],
+        output_config={"format": {"type": "json_schema", "schema": _schema_artikel()}},
+    )
+    if antwort.stop_reason == "max_tokens":
+        raise ValueError("Antwort abgeschnitten (max_tokens)")
+    return json.loads(_text_aus(antwort))
+
+
+# ─── og:image-Karten ──────────────────────────────────────────────────────────
+
+def _og_wrap(draw, text, font, max_w):
+    words, lines, cur = text.split(), [], ""
+    for w in words:
+        probe = f"{cur} {w}".strip()
+        if draw.textlength(probe, font=font) <= max_w:
+            cur = probe
+        else:
+            if cur:
+                lines.append(cur)
+            cur = w
+    if cur:
+        lines.append(cur)
+    return lines
+
+
+_OG_HG = {}
+
+def _og_hintergrund(W: int, H: int):
+    if (W, H) not in _OG_HG:
+        _OG_HG[(W, H)] = _og_hintergrund_malen(W, H)
+    return _OG_HG[(W, H)].copy()
+
+
+def _og_hintergrund_malen(W: int, H: int):
+    """Diagonaler Verlauf Nachtblau -> Petrol mit weichem Lichtfleck oben rechts.
+    Bleibt dunkel genug für weiße Schrift."""
+    from PIL import Image, ImageDraw, ImageFilter
+    a, b = (12, 22, 45), (16, 78, 96)          # #0c162d -> #104e60
+    verlauf = Image.new("RGB", (W, H))
+    px = verlauf.load()
+    for x in range(W):
+        for y in range(0, H, 1):
+            t = (x / W) * 0.7 + (y / H) * 0.3
+            px[x, y] = tuple(int(a[i] + (b[i] - a[i]) * t) for i in range(3))
+    licht = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    ImageDraw.Draw(licht).ellipse([W - 520, -260, W + 180, 360], fill=(90, 200, 210, 60))
+    licht = licht.filter(ImageFilter.GaussianBlur(120))
+    verlauf.paste(licht, (0, 0), licht)
+    return verlauf
+
+
+_BILDPOOL: dict | None = None
+
+def spielerbild(namen: list) -> tuple[str, dict] | None:
+    """Erster zentraler Spieler mit Bild im Pool (bilder/spieler/index.json) -> (tm_id, info)."""
+    global _BILDPOOL
+    if _BILDPOOL is None:
+        try:
+            _BILDPOOL = json.loads(Path("bilder/spieler/index.json").read_text(encoding="utf-8"))
+        except Exception:
+            _BILDPOOL = {}
+    if not _BILDPOOL:
+        return None
+    nach_name = {storys.falten(v["name"]): k for k, v in _BILDPOOL.items()}
+    for n in namen or []:
+        tm = nach_name.get(storys.falten(str(n)))
+        if tm and Path(f"bilder/spieler/{tm}.jpg").exists():
+            return tm, _BILDPOOL[tm]
+    return None
+
+
+def bild_credit(info: dict, bearbeitet: bool = True) -> str:
+    fotograf = re.sub(r",?\s*Wikimedia Commons$", "", info["fotograf"], flags=re.I)
+    return f"Foto: {fotograf} (Wikimedia Commons){', bearbeitet' if bearbeitet else ''} · {info['lizenz']}"
+
+
+def og_karte(datei_id: str, titel: str, kategorie: str, wappen_url: str, spieler_tm: str | None = None):
+    """1200x630-Karte für Social-Previews. Gibt die oeffentliche URL zurueck
+    oder None, wenn die Karte nicht erzeugt werden konnte."""
+    try:
+        from PIL import Image, ImageDraw, ImageFont
+    except ImportError:
+        log.warning("Pillow fehlt – keine og:image-Karten")
+        return None
+
+    # Mit Spielerbild aus dem Pool: Sticker-Stil (freigestellter Kopf, Vereinsstreifen)
+    if spieler_tm and Path(f"bilder/spieler/{spieler_tm}.webp").exists():
+        try:
+            import bildstil
+            from PIL import Image
+            spielerbild([])                       # lädt den Pool-Index, falls noch nicht geschehen
+            info = (_BILDPOOL or {}).get(spieler_tm, {})
+            OG_ORDNER.mkdir(parents=True, exist_ok=True)
+            label, badge_bg, badge_fg = badge_fuer_kategorie(kategorie)
+            kopf = Image.open(f"bilder/spieler/{spieler_tm}.webp").convert("RGBA")
+            karte = bildstil.og_sticker(titel, label, badge_bg, badge_fg, kopf,
+                                        info.get("logo") or wappen_url, bild_credit(info) if info else None)
+            karte.save(OG_ORDNER / f"{datei_id}.jpg", "JPEG", quality=82, optimize=True, progressive=True)
+            return f"https://3liga.ligaoutsider.de/og/{datei_id}.jpg"
+        except Exception as e:
+            log.warning(f"Sticker-Karte fehlgeschlagen ({e}) – Standardkarte")
+
+    try:
+        OG_ORDNER.mkdir(parents=True, exist_ok=True)
+        W, H = 1200, 630
+        img = _og_hintergrund(W, H)
+        d = ImageDraw.Draw(img)
+        d.rectangle([0, 0, W, 10], fill="#e8c000")
+
+        fett = str(FONT_ORDNER / "InterDisplay-ExtraBold.ttf")
+        tile, tile_x = 220, 80
+        text_x = tile_x + tile + 56
+        text_w = W - text_x - 70
+        badge_h, badge_gap = 46, 30
+
+        label, badge_bg, badge_fg = badge_fuer_kategorie(kategorie)
+
+        for size in (62, 56, 50, 45, 41):
+            f_titel = ImageFont.truetype(fett, size)
+            lines = _og_wrap(d, titel, f_titel, text_w)
+            if len(lines) <= 4:
+                break
+        lines = lines[:4]
+        lh = int(size * 1.16)
+
+        block_h = badge_h + badge_gap + lh * len(lines)
+        top = max(90, (H - 70 - block_h) // 2)
+
+        ty = max(60, min(top + (block_h - tile) // 2, H - 150 - tile))
+        # Wappen auf weißer Scheibe mit weichem Schatten – funktioniert für helle und dunkle Wappen
+        from PIL import ImageFilter
+        schatten = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+        ImageDraw.Draw(schatten).ellipse([tile_x + 4, ty + 12, tile_x + tile + 4, ty + tile + 12], fill=(0, 0, 0, 110))
+        schatten = schatten.filter(ImageFilter.GaussianBlur(14))
+        img.paste(schatten, (0, 0), schatten)
+        d = ImageDraw.Draw(img)
+        d.ellipse([tile_x, ty, tile_x + tile, ty + tile], fill="#ffffff")
+
+        logo_datei = None
+        if wappen_url:
+            logo_datei = Path(wappen_url.lstrip("./"))
+        if logo_datei and logo_datei.exists():
+            logo = Image.open(logo_datei).convert("RGBA")
+            scale = min(140 / logo.width, 140 / logo.height)
+            logo = logo.resize((max(1, round(logo.width * scale)),
+                                max(1, round(logo.height * scale))), Image.LANCZOS)
+            img.paste(logo, (tile_x + (tile - logo.width) // 2,
+                             ty + (tile - logo.height) // 2), logo)
+
+        f_badge = ImageFont.truetype(fett, 26)
+        bw = d.textlength(label.upper(), font=f_badge)
+        d.rounded_rectangle([text_x, top, text_x + bw + 34, top + badge_h], radius=6, fill=badge_bg)
+        d.text((text_x + 17, top + 9), label.upper(), font=f_badge, fill=badge_fg)
+
+        y = top + badge_h + badge_gap
+        for ln in lines:
+            d.text((text_x, y), ln, font=f_titel, fill="#ffffff")
+            y += lh
+
+        f_mark = ImageFont.truetype(fett, 32)
+        x, my = 80, H - 68
+        for teil, farbe in (("Liga", "#e8c000"), ("outsider", "#ffffff"), (".de", "#9fb3c8")):
+            d.text((x, my), teil, font=f_mark, fill=farbe)
+            x += d.textlength(teil, font=f_mark)
+
+        img.save(OG_ORDNER / f"{datei_id}.jpg", "JPEG",
+                 quality=82, optimize=True, progressive=True)
+        return f"https://3liga.ligaoutsider.de/og/{datei_id}.jpg"
+    except Exception as e:
+        log.warning(f"og:image fuer {datei_id} fehlgeschlagen: {e}")
+        return None
+
+
+# ─── HTML-Erzeugung ───────────────────────────────────────────────────────────
+
+def artikel_html(
+    datei_id: str,
+    titel: str,
+    text: str,
+    kategorie: str,
+    quelle_name: str,
+    quelle_url: str,
+    datum: str,
+    wappen_url: str,
+    vereine: list = None,
+    og_image_url: str = None,
+    dateiname: str = None,
+    quelle2_url: str = "",
+    verwandte: list = None,
+    bild: tuple | None = None,
+    umfrage_daten: dict | None = None,
+) -> str:
+    from html import escape as _esc, unescape as _unesc
+    # Texte aus Feeds und von der KI sind nicht vertrauenswürdig: für HTML escapen, für JSON-LD getrennt behandeln
+    titel_roh = titel
+    titel = _esc(_unesc(titel_roh), quote=False)
+    quelle_url_h = _esc(quelle_url) if re.match(r"https?://", quelle_url or "") else "#"
+    wappen_url = _esc(wappen_url) if wappen_url else wappen_url
+    badge_label, badge_bg, badge_fg = badge_fuer_kategorie(kategorie)
+    quelle2_html = (f' · <a href="{_esc(quelle2_url)}" target="_blank" rel="noopener noreferrer">Quelle 2</a>'
+                    if re.match(r"https?://", quelle2_url or "") else "")
+    # Frühere Artikel zum selben Thema: hilft Lesern und Google (interne Verlinkung)
+    verwandte_html = ""
+    if verwandte:
+        links = "".join(f'<a href="{_esc(pfad)}">{_esc(t)}</a>' for t, pfad in verwandte)
+        verwandte_html = ('<div class="artikel-mehr"><div class="artikel-mehr-t">Mehr zum Thema</div>'
+                          + links + '</div>')
+    absaetze = "".join(f"<p>{_esc(_unesc(p.strip()), quote=False)}</p>" for p in text.split("\n\n") if p.strip())
+    # Spielerbild aus dem Pool, Namensnennung hochkant am rechten Rand (verlinkt, wie CC verlangt)
+    bild_html = ""
+    if bild:
+        _tm, _bi = bild
+        bild_html = (
+            f'<figure class="artikel-bild"><img src="../bilder/spieler/{_tm}.jpg" width="1200" height="500" '
+            f'alt="{_esc(_bi["name"])}" loading="lazy"/>'
+            f'<figcaption class="bild-credit">Foto: <a href="{_esc(_bi["quelle"])}" target="_blank" rel="noopener">'
+            f'{_esc(_bi["fotograf"])}</a>, bearbeitet · '
+            + (f'<a href="{_esc(_bi["lizenz_url"])}" target="_blank" rel="noopener">{_esc(_bi["lizenz"])}</a>'
+               if _bi.get("lizenz_url") else _esc(_bi["lizenz"]))
+            + '</figcaption></figure>')
+    wappen_html = (
+        f'<img src="{wappen_url}" class="artikel-wappen" alt="Wappen" onerror="this.style.display=\'none\'"/>'
+        if wappen_url else
+        '<div class="artikel-wappen-placeholder">2. BL</div>'
+    )
+    vereine_tags_html = ""
+    if vereine:
+        tags = "".join(
+            (f'<a href="../verein/{VEREIN_SLUG[v]}.html" class="verein-tag">{v}</a>' if v in VEREIN_SLUG
+             else f'<a href="../index.html?filter={v}" class="verein-tag">{v}</a>')
+            for v in vereine
+        )
+        vereine_tags_html = f'<div class="verein-tags">{tags}</div>'
+
+    artikel_url = f"https://3liga.ligaoutsider.de/artikel/{dateiname or datei_id + '.html'}"
+    ersten_absatz = text.split("\n\n")[0].strip() if text else titel
+    meta_desc = _esc(_unesc(ersten_absatz).replace('\n', ' ')[:155])
+    titel_attr = _esc(_unesc(titel_roh))
+    # schema.org verlangt ISO 8601, sonst ignoriert Google das Datum
+    _dm = re.match(r"(\d{2})\.(\d{2})\.(\d{4})[ T](\d{2}):(\d{2})", datum or "")
+    datum_iso = (f"{_dm.group(3)}-{_dm.group(2)}-{_dm.group(1)}"
+                 f"T{_dm.group(4)}:{_dm.group(5)}:00{_zeitzone()}") if _dm else datum
+    # JSON-LD-Werte muessen JSON-escaped sein, sonst zerlegen Anfuehrungszeichen den Block
+    titel_json = json.dumps(titel_roh, ensure_ascii=False).replace("<", "\\u003c")
+    desc_json = json.dumps(_unesc(ersten_absatz)[:200], ensure_ascii=False).replace("<", "\\u003c")
+    if og_image_url:
+        og_image = og_image_url
+        # Masse nur angeben, wenn es wirklich die 1200x630-Karte ist
+        og_masse = ('  <meta property="og:image:width" content="1200"/>\n'
+                    '  <meta property="og:image:height" content="630"/>\n')
+        twitter_card = "summary_large_image"
+    elif wappen_url and not wappen_url.startswith('http'):
+        og_image = f"https://3liga.ligaoutsider.de/{wappen_url.lstrip('./')}"
+        og_masse = ""
+        twitter_card = "summary"
+    else:
+        og_image = wappen_url or "https://3liga.ligaoutsider.de/favicon.png"
+        og_masse = ""
+        twitter_card = "summary"
+
+    return f"""<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>{titel} – Ligaoutsider.de</title>
+  <link rel="canonical" href="{artikel_url}"/>
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1"/>
+  <meta name="description" content="{meta_desc}"/>
+  <meta property="og:type" content="article"/>
+  <meta property="og:title" content="{titel_attr}"/>
+  <meta property="og:description" content="{meta_desc}"/>
+  <meta property="og:url" content="{artikel_url}"/>
+  <meta property="og:image" content="{og_image}"/>
+{og_masse}  <meta property="og:image:alt" content="{titel_attr}"/>
+  <meta property="og:site_name" content="Ligaoutsider.de"/>
+  <meta property="og:locale" content="de_DE"/>
+  <meta name="twitter:card" content="{twitter_card}"/>
+  <meta name="twitter:title" content="{titel_attr}"/>
+  <meta name="twitter:description" content="{meta_desc}"/>
+  <meta name="twitter:image" content="{og_image}"/>
+  <link rel="stylesheet" href="../style.css"/>
+  <link rel="stylesheet" href="../artikel.css"/>
+  <link rel="icon" href="../favicon.png" type="image/png"/>
+  <script>if(localStorage.getItem('theme')==='light')document.documentElement.classList.add('light');</script>
+<script src="/consent.js"></script>
+  <script type="application/ld+json">
+  {{
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": {titel_json},
+    "image": [{json.dumps(_unesc(og_image))}],
+    "datePublished": "{datum_iso}",
+    "dateModified": "{datum_iso}",
+    "author": {{
+      "@type": "Organization",
+      "name": "Ligaoutsider.de",
+      "url": "https://3liga.ligaoutsider.de"
+    }},
+    "publisher": {{
+      "@type": "Organization",
+      "name": "Ligaoutsider.de",
+      "url": "https://3liga.ligaoutsider.de",
+      "logo": {{
+        "@type": "ImageObject",
+        "url": "https://3liga.ligaoutsider.de/logos/publisher-logo.png",
+        "width": 600,
+        "height": 60
+      }}
+    }},
+    "mainEntityOfPage": "{artikel_url}",
+    "url": "{artikel_url}",
+    "description": {desc_json},
+    "inLanguage": "de",
+    "about": {{
+      "@type": "SportsOrganization",
+      "name": "3. Liga"
+    }}
+  }}
+  </script>
+</head>
+<body>
+
+  <script src="/auth.js"></script>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="../index.html" class="logo">
+        <span class="logo-liga">Liga</span><span class="logo-outsider">outsider</span><span class="logo-de">.de</span>
+      </a>
+      <nav class="liga-zeile" aria-label="Liga wählen"><a href="https://ligaoutsider.de/"><span class="liga-marke">BL</span><span class="liga-lang">Bundesliga</span><span class="liga-kurz">1. Liga</span></a><a href="https://2liga.ligaoutsider.de/"><span class="liga-marke zwei">2.BL</span><span class="liga-lang">2. Bundesliga</span><span class="liga-kurz">2. Liga</span></a><a href="/" class="aktiv" aria-current="page"><span class="liga-marke drei">3.L</span><span class="liga-lang">3. Liga</span><span class="liga-kurz">3. Liga</span></a></nav>
+      <div class="header-right">
+        <button class="theme-toggle" id="theme-toggle" title="Hell/Dunkel wechseln">
+          <span id="theme-icon">☀️</span>
+          <span id="theme-label">Hell</span>
+        </button>
+        <div class="auth-buttons">
+          <a href="#" class="auth-btn" id="login-btn">Anmelden</a>
+          <span id="user-info" style="display:none">
+            <a href="https://ligaoutsider.de/nachrichten.html" id="nachrichten-icon" class="post-icon" title="Nachrichten" aria-label="Nachrichten">✉️<span class="post-zahl" id="nachrichten-zahl" hidden></span></a>
+            <span id="user-name" class="auth-username"></span>
+            <a href="#" class="auth-btn" id="logout-btn">Abmelden</a>
+          </span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <nav class="team-nav" aria-label="Vereine">
+    <ul class="team-list">
+{_vereins_chips("../")}
+    </ul>
+  </nav>
+
+  <nav class="section-nav">
+    <div class="section-nav-inner">
+      <a href="../index.html" class="section-nav-link" data-nav="news">News</a>
+      <a href="../verein/" class="section-nav-link" data-nav="vereine">Vereine</a>
+      <a href="../archiv.html" class="section-nav-link" data-nav="archiv">Archiv</a>
+    </div>
+  </nav>
+
+  <div class="artikel-wrap">
+    <a href="javascript:history.back()" class="artikel-back">← Zurück</a>
+    <article class="artikel">
+
+      <div class="artikel-header">
+        {wappen_html}
+        <div>
+          <span class="feed-badge" style="background:{badge_bg};color:{badge_fg}">{badge_label}</span>
+          <h1 class="artikel-titel">{titel}</h1>
+          <p class="artikel-meta">{datum}</p>
+        </div>
+      </div>
+
+      {bild_html}
+
+      <div class="artikel-text">
+        {absaetze}
+      </div>
+
+      {umfrage.box_html(datei_id, umfrage_daten)}
+
+      {verwandte_html}
+
+      {vereine_tags_html}
+
+      <div class="artikel-quelle">
+        <a href="{quelle_url_h}" target="_blank" rel="noopener noreferrer">Quelle</a>{quelle2_html}
+      </div>
+
+    </article>
+
+    <!-- Kommentare -->
+    <section class="kommentare">
+      <h2>Kommentare</h2>
+      <div id="kommentar-liste"><p class="kommentar-laden">Lade Kommentare…</p></div>
+      <p id="k-gasthinweis" style="font-size:13px;color:var(--text4);margin-top:16px">
+        Bitte <a href="#" onclick="netlifyIdentity.open('login');return false;" style="color:var(--accent-text)">anmelden</a>, um Kommentare zu schreiben.
+      </p>
+      <form id="kommentar-form" style="display:none">
+        <p id="k-eingeloggt" style="font-size:12px;color:var(--text4);margin-bottom:8px">Kommentieren als <strong id="k-username" style="color:var(--accent-text)"></strong></p>
+        <textarea id="k-text" placeholder="Dein Kommentar…" maxlength="1000" required></textarea>
+        <button type="submit" class="kommentar-btn">Kommentar absenden</button>
+        <p id="kommentar-status"></p>
+      </form>
+    </section>
+
+  </div>
+
+  <script>
+    const SUPABASE_URL  = location.origin + '/sb';
+    const SUPABASE_ANON = 'sb_publishable_FQH-uSDHZkVrVBtYfUYQQQ_atmsR-wF';
+    const ARTIKEL_ID    = '{datei_id}';
+  </script>
+  <script src="/vendor/supabase.min.js"></script>
+  <script src="../kommentare.js"></script>
+  <script src="../umfrage.js" defer></script>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p class="footer-copy">© Ligaoutsider.de, 2026</p>
+      <nav class="footer-nav">
+        <a href="../impressum.html">Impressum</a>
+        <a href="../datenschutz.html">Datenschutzerklärung</a>
+        <a href="../nutzungsbedingungen.html">Nutzungsbedingungen</a>
+      </nav>
+    </div>
+  </footer>
+
+</body>
+</html>"""
+
+
+
+
+# ─── Hauptprogramm ────────────────────────────────────────────────────────────
+
+def logs_aufraeumen():
+    """Logs älter als 14 Tage löschen (Datum aus dem Dateinamen, im Checkout ist jede Datei "neu").
+    Nur im Hauptlauf: andere Skripte importieren generate, ihre Workflows committen logs/ nicht."""
+    grenze = (datetime.datetime.now() - datetime.timedelta(days=14)).strftime("%Y%m%d")
+    for f in LOG_DIR.iterdir():
+        m = re.search(r"_(\d{8})", f.name)
+        if m and m.group(1) < grenze:
+            f.unlink()
+
+
+def main():
+    logs_aufraeumen()
+    global DELETED_IDS
+    DELETED_IDS = lade_deleted_ids()
+    ARTIKEL_ORDNER.mkdir(exist_ok=True)
+    ki_budget.init(client)
+    storys.init(Path("spieler_db.json"), VEREIN_FILTER)
+    _k = ki_budget.bericht()
+    log.info(f"💶 Budget: dieser Lauf {_k['lauf_budget_usd']:.3f} $ | heute {_k['heute_usd']:.2f} $ | "
+             f"Monat {_k['monat_usd']:.2f} / {_k['monatsbudget_usd']:g} $")
+    bestehende = feed_laden()
+    published_stories = lade_published_stories()
+    pub_urls: set[str] = {s.get("original_url", "") for s in published_stories}
+
+    # Run-Stats
+    stats = {
+        "ts": _run_ts, "ingested": 0,
+        "s2_pre_filter": 0, "s3_relevance": 0, "s4_dedup_early": 0,
+        "gesammelt": 0, "geschichten_neu": 0, "s5_archiv_doppelt": 0, "s5_zusammengefuehrt": 0,
+        "s6_aussortiert": 0, "s7_geschrieben": 0, "s7_verworfen": 0, "s5_fulltext_fail": 0,
+        "s8_qa_rejected": 0, "published": 0,
+    }
+
+    neu_generiert = 0
+    kandidaten: list[dict] = []
+    gesammelt: list[dict] = []   # Schlagzeilen, die alle Gratis-Filter überstanden haben
+    batch_titles: list[str] = []  # für Intra-Batch rapidfuzz Titel-Dedup (Stage 2)
+
+    url_cache = URLCache("data/seen_urls.json", max_age_days=30)
+    log.info(f"URL-Cache geladen: {url_cache.get_seen_count()} bekannte URLs (letzte 30 Tage)")
+
+    _SKIP_KEYWORDS = (
+        # Länderspiele und Nationalteams bewertet die Redaktionskonferenz (Drittliga-Spieler mit Rolle zählen);
+        # "länderspiel" träfe sonst auch jede Meldung mit "Länderspielpause"
+        "nagelsmann", "em 2026", "wm 2026", "nations league", "u21-em", "olympia",
+        "frauen", "frauenfußball", "frauenbundesliga", "-frauen",
+        # Rueckblicke: kicker spielt Archivmaterial in die Team-Feeds.
+        # Bewusst eng: "retro" oder "legendär" allein wirft auch aktuelle News
+        # raus, etwa das Retro-Trikot, das Frankfurts Vereinswebsite lahmlegte.
+        "heute vor", "vor x jahren", "rückblick auf die saison",
+        "in den 70ern", "in den 80ern", "in den 90ern", "jahrestag",
+        # Jugend, Reserve, Unterhaus und Statistik-/Galerieseiten (v. a. aus der Google-Suche)
+        # Kein "3. liga", "2. liga", "u23", "regionalliga": stehen in fast jeder Drittliga-Meldung
+        # (Hoffenheim II und VfB Stuttgart II sind U23-Teams); Fremdligen filtert nur_fremdklub
+        "u19", "u17", "u16", "u15", "oberliga", "futsal",
+        "e-sport", "esport", "(galerie)", "| seite", "spielereignisse", "detailansicht",
+        "live im stream", "live im tv", "im free-tv", "wo läuft", "tv-übertragung", "so sehen sie",
+        "ea fc", "fc 26", "fc 27", "beliebtheitsrangliste", "marktwertentwicklung",
+    )
+
+    log.info(f"=== LO Generator startet – max. {MAX_ARTIKEL_PRO_LAUF} Artikel ===")
+
+    # Reihum: jeder Lauf beginnt dort, wo der letzte wegen des Zeitbudgets aufgehört hat.
+    # Sonst kämen die hinteren Quellen (14 Vereinssuchen, kicker-Vereinsfeeds) nie dran.
+    _pos_datei = Path("data/feed_position.json")
+    try:
+        _start_pos = int(json.loads(_pos_datei.read_text(encoding="utf-8")).get("naechste", 0)) % len(RSS_FEEDS)
+    except Exception:
+        _start_pos = 0
+    _rotiert = RSS_FEEDS[_start_pos:] + RSS_FEEDS[:_start_pos]
+    _all_feeds = _rotiert
+    _feeds_fertig = 0
+    # Zeitbudget: GitHub bricht den Lauf nach 35 Minuten ab. Einlesen bekommt
+    # höchstens 9 Minuten, der Rest bleibt fürs Schreiben. Was nicht mehr gelesen
+    # wird, bleibt ungesehen und kommt im nächsten Lauf dran.
+    _start = time.time()
+    SAMMEL_SEK = 9 * 60
+    ZEITBUDGET_SEK = 20 * 60
+
+    for feed_url in _all_feeds:
+        if time.time() - _start > SAMMEL_SEK:
+            log.warning("Zeitbudget fürs Einlesen erreicht – restliche Feeds im nächsten Lauf")
+            break
+
+        log.info(f"Feed: {feed_url}")
+        try:
+            if feed_url == "ligainsider:themen":
+                from types import SimpleNamespace
+                feed = SimpleNamespace(entries=_ligainsider_eintraege(), feed={"title": "LigaInsider"})
+            else:
+                feed = feedparser.parse(feed_url)
+        except Exception as e:
+            log.error(f"Feed-Parse-Fehler: {e}")
+            continue
+
+        if feed_url in RSS_FEEDS:
+            _feeds_fertig += 1   # zählt als begonnen; bei Abbruch wird er im nächsten Lauf wiederholt
+        ist_google_news = "news.google.com" in feed_url
+        feed_quelle = feed.feed.get("title", feed_url)
+
+        for eintrag in feed.entries:
+            if time.time() - _start > SAMMEL_SEK:
+                break
+
+            url    = eintrag.get("link", "")
+            titel  = eintrag.get("title", "").strip()
+            beschr = eintrag.get("summary", eintrag.get("description", ""))
+
+            if not url or not titel:
+                continue
+
+            # URL-Cache: bereits gesehene Einträge sofort überspringen
+            if url_cache.is_seen(url):
+                continue
+
+            # Video- und Galerieseiten haben keinen Artikeltext. Was daraus
+            # entsteht, ist duenn und oft ein historischer Rueckblick - so kam
+            # ein Bericht ueber die Champions League 2009/10 als aktuelle News
+            # auf die Seite. Bei kicker ist knapp ein Drittel des Team-Feeds Video.
+            if re.search(r'/(video|videos|galerie|bildergalerie|podcast|audio)([/\-]|$|#|\?)', url.lower()):
+                log.info(f"S1 Medienseite ohne Artikeltext: {titel[:60]}")
+                _log_skip(artikel_id(url), titel, "stage1", "medienseite")
+                url_cache.mark_seen(url)
+                continue
+
+            # Quelle bei Google News aus entry.source
+            quelle_name = feed_quelle
+            if ist_google_news:
+                src = eintrag.get("source", {})
+                if isinstance(src, dict) and src.get("title"):
+                    quelle_name = src["title"]
+                elif hasattr(src, "title") and src.title:
+                    quelle_name = src.title
+                else:
+                    from urllib.parse import urlparse as _up
+                    _netloc = _up(url).netloc.replace("www.", "")
+                    if _netloc and "google" not in _netloc:
+                        quelle_name = _netloc
+                # Google hängt " - Quelle" an die Schlagzeile
+                if quelle_name and titel.endswith(" - " + str(quelle_name)):
+                    titel = titel[: -len(" - " + str(quelle_name))].strip()
+                # LigaInsider ist nie Quelle: deren Themen kommen über den eigenen
+                # Themen-Feed, der auf den Originalartikel verweist
+                if "ligainsider" in str(quelle_name).lower() or titel.lower().endswith("ligainsider"):
+                    url_cache.mark_seen(url)
+                    continue
+
+            # Reddit: echte URL extrahieren
+            if "reddit.com" in feed_url:
+                echte_url = eintrag.get("url", "")
+                if not echte_url:
+                    m = re.search(r'href="(https?://(?!www\.reddit)[^"]+)"', beschr)
+                    echte_url = m.group(1) if m else ""
+                if echte_url and "reddit.com" not in echte_url:
+                    from urllib.parse import urlparse as _up
+                    quelle_name = _up(echte_url).netloc.replace("www.", "")
+                    url = echte_url
+
+            # LigaInsider dient nur zum Finden von Themen. Verarbeitet und als Quelle
+            # genannt wird ausschließlich der dort verlinkte Originalartikel.
+            # Ohne echten Link (z. B. nur "Pressekonferenz") wird die Meldung übersprungen.
+            if (urlparse(url).hostname or "").endswith("ligainsider.de"):
+                url_cache.mark_seen(url)
+                try:
+                    import urllib.request as _ureq
+                    from urllib.parse import urlparse as _up
+                    _html = _sicher_get(url, headers={"User-Agent": _GN_UA}, timeout=8).content.decode("utf-8", errors="ignore")
+                    _m = re.search(r'<strong>Quelle:</strong>\s*<a[^>]+href="(https?://[^"]+)"', _html)
+                    _ziel = _m.group(1) if _m else ""
+                    _host = _up(_ziel).netloc.lower() if _ziel else ""
+                    if not (_ziel and "." in _host and "ligainsider" not in _host) or any(
+                            x in _host for x in ("instagram.", "x.com", "twitter.", "facebook.", "tiktok.", "youtube.")):
+                        continue
+                    url = _ziel
+                    quelle_name = _up(url).netloc.replace("www.", "")
+                    if url_cache.is_seen(url):
+                        continue
+                except Exception:
+                    continue
+
+            aid = artikel_id(url)
+            url_cache.mark_seen(url)
+            stats["ingested"] += 1
+
+            # ── Stage 2: Pre-Filter Gate ──────────────────────────────────────
+            # Exact: schon verarbeitet (lokale .html/.skip oder published_stories)
+            if schon_verarbeitet(url) or url in pub_urls:
+                log.debug(f"S2 skip (already processed): {titel[:60]}")
+                continue
+
+            # Liveticker-Seiten sind Archiv/Dauerseiten, oft von alten Spielen
+            if re.search(r'liveticker|live-ticker', (titel + " " + url).lower()):
+                log.info(f"S2 Liveticker übersprungen: {titel[:60]}")
+                (ARTIKEL_ORDNER / f"{aid}.skip").touch()
+                continue
+
+            # Alters-Check
+            veroeffentlicht = eintrag.get("published_parsed") or eintrag.get("updated_parsed")
+            if veroeffentlicht:
+                alter = datetime.datetime.now() - _pub_lokal(veroeffentlicht)
+                if alter.days > MAX_ALTER_TAGE:
+                    (ARTIKEL_ORDNER / f"{aid}.skip").touch()
+                    continue
+
+            # Intra-Batch Titel-Dedup via rapidfuzz (Stage 2)
+            if batch_titles:
+                from rapidfuzz import process as _rfp
+                match = _rfp.extractOne(titel, batch_titles, score_cutoff=88)
+                if match:
+                    log.debug(f"S2 batch title dup ({match[1]}%): {titel[:60]}")
+                    _log_skip(aid, titel, "stage2", f"batch_title_dup_{match[1]:.0f}pct")
+                    (ARTIKEL_ORDNER / f"{aid}.skip").touch()
+                    stats["s2_pre_filter"] += 1
+                    continue
+
+            # Blacklist-Keywords
+            text_check = (titel + " " + beschr).lower()
+            if any(kw in text_check for kw in _SKIP_KEYWORDS):
+                log.info(f"S2 blacklist: {titel[:60]}")
+                _log_skip(aid, titel, "stage2", "blacklist_keyword")
+                (ARTIKEL_ORDNER / f"{aid}.skip").touch()
+                stats["s2_pre_filter"] += 1
+                continue
+
+            # Reine Unterhaus-Meldung: spart Volltext-Abruf und Haiku-Call
+            if nur_fremdklub(titel):
+                log.info(f"S2 kein BL-Klub im Titel: {titel[:60]}")
+                _log_skip(aid, titel, "stage2", "nur_fremdklub")
+                (ARTIKEL_ORDNER / f"{aid}.skip").touch()
+                stats["s2_pre_filter"] += 1
+                continue
+
+            # ── Stage 3: Keyword Pre-Filter (kein Haiku-Call) ────────────────
+            if not keyword_pre_filter(titel, beschr):
+                log.info(f"S3 keyword miss: {titel[:60]}")
+                _log_skip(aid, titel, "stage3", "keyword_pre_filter")
+                (ARTIKEL_ORDNER / f"{aid}.skip").touch()
+                stats["s3_relevance"] += 1
+                continue
+
+            # ── Stage 4: Titel-Abgleich mit Veröffentlichtem (ohne KI) ────────
+            from rapidfuzz import fuzz as _fuzz
+            _pub_titel = [s.get("generated_title") or s.get("title", "") for s in published_stories[-150:]]
+            if any(pt and _fuzz.ratio(titel.lower(), pt.lower()) >= 88 for pt in _pub_titel):
+                log.info(f"S4 title-fuzz dup: {titel[:60]}")
+                _log_skip(aid, titel, "stage4", "title_fuzzy_duplicate")
+                (ARTIKEL_ORDNER / f"{aid}.skip").touch()
+                stats["s4_dedup_early"] += 1
+                continue
+
+            # Gesammelt – gebündelt, bewertet und geschrieben wird nach dem Einlesen
+            batch_titles.append(titel)
+            _zeit = _pub_lokal(veroeffentlicht) if veroeffentlicht else datetime.datetime.now()
+            gesammelt.append({
+                "url": url, "aid": aid, "titel": titel, "quelle": quelle_name,
+                "beschr": re.sub(r"<[^>]+>", " ", (beschr or "")[:2000])[:600],
+                "zeit": _zeit.isoformat(timespec="minutes"),
+            })
+
+    stats["gesammelt"] = len(gesammelt)
+    log.info(f"Eingelesen: {len(gesammelt)} Schlagzeilen nach den Gratis-Filtern")
+
+    # ── Stage 5: zu Geschichten bündeln + Archivabgleich (ohne KI) ───────────
+    jetzt = datetime.datetime.now()
+    archiv = storys.archiv_vorbereiten(lade_news_archive(), jetzt)
+    schlange = storys.warteschlange_laden(jetzt)
+    neue: list[dict] = []
+    for g in storys.buendeln(gesammelt):
+        if not (g["person"] or g["klub"]):
+            log.info(f"S5 kein Bundesliga-Spieler oder -Klub erkennbar: {g['titel'][:70]}")
+            _geschichte_verwerfen(g, "stage5", "kein_bl_bezug")
+            stats["s5_ohne_bezug"] = stats.get("s5_ohne_bezug", 0) + 1
+            continue
+        if NICHT_FUER_UNS.search(g["titel"].lower()):
+            log.info(f"S5 Fan-Wahl/Nachwuchs: {g['titel'][:70]}")
+            _geschichte_verwerfen(g, "stage5", "nicht_fuer_uns")
+            stats["s5_randthema"] = stats.get("s5_randthema", 0) + 1
+            continue
+        if SAMMELARTIKEL.search(g["titel"].lower()):
+            log.info(f"S5 Sammelartikel: {g['titel'][:70]}")
+            _geschichte_verwerfen(g, "stage5", "sammelartikel")
+            stats["s5_randthema"] = stats.get("s5_randthema", 0) + 1
+            continue
+        # Randthemen ohne Spielerbezug lassen wir weg (Tickets, Trikots, Sponsoren …)
+        if not g["person"] and g["klasse"] == "sonstiges" and RANDTHEMEN.search(g["titel"].lower()):
+            log.info(f"S5 Randthema: {g['titel'][:70]}")
+            _geschichte_verwerfen(g, "stage5", "randthema")
+            stats["s5_randthema"] = stats.get("s5_randthema", 0) + 1
+            continue
+        status, treffer = storys.archiv_abgleich(g, archiv, jetzt)
+        if status == "doppelt":
+            log.info(f"S5 schon berichtet ({treffer[0]['titel'][:45]}): {g['titel'][:60]}")
+            _geschichte_verwerfen(g, "stage5", "archiv_doppelt")
+            stats["s5_archiv_doppelt"] += 1
+            continue
+        if storys.einreihen(schlange, g):
+            stats["s5_zusammengefuehrt"] += 1
+            continue
+        g.update({
+            "archiv_status": status, "prio": None, "status": "",
+            "erstmals": jetzt.isoformat(timespec="minutes"),
+            "archiv": [{"id": e["id"], "titel": e["titel"], "datum": e["zeit"].strftime("%d.%m."),
+                        "stufe": e["stufe"], "summary": e.get("summary", "")} for e in treffer],
+        })
+        neue.append(g)
+    stats["geschichten_neu"] = len(neue)
+    log.info(f"S5: {len(neue)} neue Geschichten, {stats['s5_archiv_doppelt']} schon berichtet, "
+             f"{stats['s5_zusammengefuehrt']} zu wartenden Geschichten ergänzt, {len(schlange)} warten")
+
+    # ── Stage 6: Redaktionskonferenz (ein Haiku-Aufruf je 40 Geschichten) ─────
+    zu_bewerten = neue + [w for w in schlange if w.get("prio") is None]
+    _letzte = [e["titel"] for e in sorted(bestehende, key=lambda e: datetime.datetime.strptime(e["datum"], "%d.%m.%Y %H:%M"), reverse=True)
+               if (jetzt - datetime.datetime.strptime(e["datum"], "%d.%m.%Y %H:%M")).total_seconds() < 24 * 3600]
+    try:
+        redaktionskonferenz(zu_bewerten, _letzte)
+    except BudgetErschoepft as e:
+        log.warning(f"S6 Redaktionskonferenz ausgesetzt: {e}")
+    except Exception as e:
+        log.warning(f"S6 Redaktionskonferenz fehlgeschlagen: {e}")
+    for g in zu_bewerten:
+        im_warten = any(w is g for w in schlange)
+        if g.get("prio") is None:
+            if not im_warten:
+                schlange.append(g)          # wird im nächsten Lauf bewertet
+            continue
+        if g["status"] == "d" or g["prio"] <= 1:
+            grund = "doppelt" if g["status"] == "d" else f"prio_{g['prio']}"
+            log.info(f"S6 aussortiert ({grund}): {g['titel'][:70]}")
+            _geschichte_verwerfen(g, "stage6", grund)
+            if im_warten:
+                schlange.remove(g)
+            stats["s6_aussortiert"] += 1
+            continue
+        if not im_warten:
+            schlange.append(g)
+
+    # ── Stage 7: schreiben – wichtigste Geschichten zuerst, solange das Budget reicht ──
+    def _rang(w):
+        # Priorität, dann Zahl der Quellen (= wie viele Portale berichten), dann Aktualität
+        neueste = max((q.get("zeit", "") for q in w["quellen"]), default="")
+        try:
+            ts = datetime.datetime.fromisoformat(neueste).timestamp()
+        except Exception:
+            ts = 0.0
+        return (-w["prio"], -min(len(w["quellen"]), 5), -ts)
+    reihenfolge = sorted((w for w in schlange if (w.get("prio") or 0) >= 2), key=_rang)
+    dieser_lauf: list[dict] = []     # fertige Artikel, aufbereitet wie das Archiv
+    for g in reihenfolge:
+        if len(kandidaten) >= MAX_ARTIKEL_PRO_LAUF or time.time() - _start > ZEITBUDGET_SEK:
+            break
+        if ki_budget.abo_aktiv() and len(kandidaten) >= ABO_MAX_ARTIKEL_PRO_LAUF:
+            log.info(f"S7 Abo-Deckel ({ABO_MAX_ARTIKEL_PRO_LAUF} Artikel) erreicht – Rest wartet auf den nächsten Lauf")
+            break
+        if SAMMELARTIKEL.search(g["titel"].lower()) or NICHT_FUER_UNS.search(g["titel"].lower()):
+            # auch Geschichten, die schon vor dem Filter in der Warteschlange lagen
+            log.info(f"S7 Sammelartikel: {g['titel'][:60]}")
+            _geschichte_verwerfen(g, "stage7", "sammelartikel")
+            schlange.remove(g)
+            continue
+        reserve = QA_RESERVE
+        if ki_budget.rest() < ki_budget.schaetzung(SCHREIBER, SCHREIB_MAX_TOKENS, SCHREIB_ZEICHEN) + reserve:
+            log.info(f"S7 Budget dieses Laufs reicht für keinen weiteren Artikel – "
+                     f"{len(reihenfolge) - reihenfolge.index(g)} Geschichten warten auf den nächsten Lauf")
+            break
+        texte = quellen_laden(g)
+        woerter_quellen = sum(len(t["text"].split()) for t in texte)
+        if woerter_quellen < MIN_QUELL_WOERTER:
+            # Zu wenig Stoff für einen vollwertigen Artikel: später neue Quellen abwarten
+            stats["s5_fulltext_fail"] += 1
+            g["versuche"] = g.get("versuche", 0) + 1
+            log.info(f"S7 zu wenig Stoff ({woerter_quellen} Wörter aus {len(texte)} Quellen, "
+                     f"Versuch {g['versuche']}/3): {g['titel'][:60]}")
+            if g["versuche"] >= 3:
+                _geschichte_verwerfen(g, "stage7", "zu_wenig_quelltext")
+                schlange.remove(g)
+            continue
+        try:
+            doppel = vorpruefung(g, texte[0]["text"][:600], archiv + dieser_lauf)
+        except BudgetErschoepft as e:
+            log.info(f"S6.5 {e}")
+            break
+        except Exception as e:
+            log.warning(f"S6.5 Vorprüfung nicht möglich: {e}")
+            doppel = None
+        if doppel:
+            log.info(f"S6.5 schon berichtet ({doppel[:45]}): {g['titel'][:60]}")
+            _geschichte_verwerfen(g, "stage6.5", "schon_berichtet")
+            schlange.remove(g)
+            stats["s7_verworfen"] += 1
+            continue
+        log.info(f"S7 schreiben (Prio {g['prio']}, {len(texte)} Quellen): {g['titel'][:60]}")
+        try:
+            ergebnis = artikel_generieren(g, texte, reserve=reserve)
+        except BudgetErschoepft as e:
+            log.info(f"S7 {e}")
+            break
+        except Exception as e:
+            log.warning(f"S7 Schreibfehler: {e}")
+            g["versuche"] = g.get("versuche", 0) + 1
+            if g["versuche"] >= 3:
+                _geschichte_verwerfen(g, "stage7", "schreibfehler")
+                schlange.remove(g)
+            continue
+        schlange.remove(g)
+        stats["s7_geschrieben"] += 1
+        aid = texte[0]["aid"]
+
+        ergebnis["text"] = floskeln_entfernen(str(ergebnis.get("text", "")))
+        ergebnis["titel"] = anfuehrungszeichen(str(ergebnis.get("titel", "")))
+        if not g.get("archiv"):
+            t = re.sub(r",\s*wie (?:bereits |zuvor |zuletzt )?berichtet,", "", ergebnis["text"])
+            # Satzanfang: Ersatz statt Streichen, sonst kippt die Wortstellung ("Soll Tottenham …")
+            ergebnis["text"] = re.sub(r"\bWie (?:bereits |zuvor |zuletzt )?berichtet,\s*", "Laut Berichten ", t)
+        grund = None
+        woerter = len(ergebnis["text"].split())
+        hauptklub = str(ergebnis.get("hauptklub", "")).strip()
+        if not ergebnis.get("relevant", True):
+            grund = "nicht_relevant"
+        elif not ergebnis.get("genug_stoff", True):
+            grund = "zu_wenig_stoff"
+        elif woerter < 60:
+            grund = f"zu_kurz_{woerter}_woerter"
+        elif hauptklub not in KLUB_LOGO:
+            grund = "kein_bl_hauptklub"
+        if grund:
+            log.info(f"S7 verworfen ({grund}): {ergebnis.get('titel') or g['titel'][:60]}")
+            _geschichte_verwerfen(g, "S7", grund)
+            stats["s7_verworfen"] += 1
+            continue
+
+        # ── Stage 7.6: fertigen Artikel gegen Archiv und diesen Lauf prüfen ──
+        eintrag = _als_archiv_eintrag(ergebnis, aid)
+        doppel = nachpruefung(eintrag, archiv + dieser_lauf)
+        if doppel:
+            log.info(f"S7.6 doppelt ({doppel[:50]}): {ergebnis['titel'][:50]}")
+            _geschichte_verwerfen(g, "stage7.6", "fertiger_artikel_doppelt")
+            stats["s7_verworfen"] += 1
+            continue
+        dieser_lauf.append(eintrag)
+        _geschichte_verwerfen(g, "stage7", "in_artikel_verarbeitet", ausser=aid)
+
+        datum = datetime.datetime.now().strftime("%d.%m.%Y %H:%M")
+        vereine = vereine_im_text(ergebnis["titel"], ergebnis["text"])
+        wappen_url = KLUB_LOGO[hauptklub]
+        vereine = sorted(set(vereine) | {KLUB_FILTERNAME.get(hauptklub, hauptklub)})
+        kurz = ergebnis.get("kurzfassung", "")
+        fp = {
+            "event_type": ergebnis.get("kategorie", "news"), "main_club": hauptklub,
+            "event_stage": eintrag["stufe"], "main_teams": vereine,
+            "main_players": eintrag["spieler_namen"], "summary": kurz,
+            "one_sentence_summary": re.split(r"(?<=[.!?])\s+", kurz)[0] if kurz else "",
+            "schluessel": f"{storys.falten(eintrag['person_name'] or eintrag['klub'])}|{eintrag['klasse']}",
+        }
+        verwandte = []
+        for a in g.get("archiv", [])[:3]:
+            datei = artikel_datei(a["id"])
+            if datei.exists():
+                verwandte.append((a["titel"], "/" + datei.as_posix()))
+        kandidaten.append({
+            "aid":         aid,
+            "datum":       datum,
+            "ergebnis":    ergebnis,
+            "quelle_name": texte[0]["quelle"],
+            "url":         texte[0]["url"],
+            "quelle_link": texte[0]["link"],
+            "quelle2_url": texte[1]["link"] if len(texte) > 1 else "",
+            "verwandte":   verwandte,
+            "wappen_url":  wappen_url,
+            "vereine":     vereine,
+            "fingerprint": fp,
+        })
+        log.info(f"  Kandidat: {ergebnis['titel'][:60]}")
+
+    storys.warteschlange_speichern(schlange)
+
+    # ── Stage 8: Qualität ────────────────────────────────────────────────────
+    # Die frühere KI-Prüfung kannte die Quellen nicht und lehnte mit veraltetem
+    # Wissen echte Fakten ab ("Baum ist nicht Augsburg-Trainer"). Floskeln werden
+    # jetzt regelbasiert entfernt (floskeln_entfernen), Länge, Relevanz und
+    # Doppel sind vorher geprüft.
+    approved = list(kandidaten)
+
+    # ── Stage 9.5: Final Pre-Publish Check ────────────────────────────────────
+    news_archive = lade_news_archive()
+    from rapidfuzz import fuzz as _fuzz2
+
+    # Archiv-Summaries + Titel für Content-Vergleich (letzte 7 Tage)
+    archive_recent = [
+        e for e in news_archive
+        if _ist_innerhalb_tage(e.get("published_at", ""), days=7)
+    ]
+    archive_summaries = [(e.get("summary", ""), e.get("title", "")) for e in archive_recent]
+
+    final_approved = []
+    dieser_lauf = []     # (titel, fingerprint, summary) der Artikel, die in diesem Lauf schon durchgingen
+    for k in approved:
+        fp = k.get("fingerprint") or {}
+        titel_k = k["ergebnis"]["titel"]
+        new_summary = fp.get("summary") or fp.get("one_sentence_summary", "")
+
+        # 1) Summary-Vergleich gegen news_archive (letzten 7 Tage) und gegen Artikel dieses Laufs
+        dup = False
+        if gleiche_geschichte_im_lauf(titel_k, fp, [(t, f) for t, f, _ in dieser_lauf]):
+            log.info(f"S9.5 gleiche Geschichte im selben Lauf: {titel_k[:60]}")
+            _log_skip(k["aid"], titel_k, "s9.5", "gleicher_lauf_duplikat")
+            dup = True
+        if new_summary and not dup:
+            for arch_summary, arch_title in [*archive_summaries, *[(sm, t) for t, _, sm in dieser_lauf]]:
+                if not arch_summary:
+                    continue
+                sim = _fuzz2.token_set_ratio(new_summary.lower(), arch_summary.lower())
+                if sim >= 82:
+                    log.info(f"S9.5 summary-dup (sim={sim}, '{arch_title[:40]}'): {titel_k[:50]}")
+                    _log_skip(k["aid"], titel_k, "s9.5", f"summary_duplicate_sim{sim}")
+                    dup = True
+                    break
+
+        # 2) Titel-Fallback wenn kein Summary vorhanden
+        if not dup and not new_summary:
+            all_pub_titles = (
+                [s.get("generated_title") or s.get("title", "") for s in published_stories[-200:]]
+                + [e.get("titel", "") for e in bestehende]
+            )
+            for pt in all_pub_titles:
+                if pt and _fuzz2.ratio(titel_k.lower(), pt.lower()) >= 88:
+                    log.info(f"S9.5 title-dup ({pt[:40]}): {titel_k[:50]}")
+                    _log_skip(k["aid"], titel_k, "s9.5", "title_duplicate_fallback")
+                    dup = True
+                    break
+
+        if dup:
+            stats["s8_qa_rejected"] = stats.get("s8_qa_rejected", 0) + 1
+            continue
+
+        # 3) event_stage Check (gleiche Stage = echtes Dup, andere Stage = neue Entwicklung)
+        if final_pre_publish_check(titel_k, fp, news_archive):
+            _log_skip(k["aid"], titel_k, "s9.5", "final_pre_publish_duplicate")
+            stats["s8_qa_rejected"] = stats.get("s8_qa_rejected", 0) + 1
+        else:
+            final_approved.append(k)
+            dieser_lauf.append((titel_k, fp, new_summary))
+    log.info(f"S9.5 FinalCheck: {len(final_approved)}/{len(approved)} durch")
+    approved = final_approved
+
+    # ── Stage 9/10: Publish & Persist ────────────────────────────────────────
+    fehlgeschlagen = set()
+    for k in approved:
+        # Ein kaputter Datensatz soll nicht die folgenden Artikel mitreißen
+        try:
+            ergebnis = k["ergebnis"]
+            aid = k["aid"]
+            _wu = k["wappen_url"]
+            _artikel_wu = ("../" + _wu) if _wu and _wu.startswith("logos/") else _wu
+            _bild = spielerbild(ergebnis.get("spieler") or [])
+            _og_url = og_karte(aid, ergebnis["titel"], ergebnis["kategorie"], _wu, _bild[0] if _bild else None)
+            _umfrage = umfrage.waehlen(ergebnis.get("ereignis", ""), ergebnis["kategorie"], ergebnis["text"],
+                                       ergebnis.get("umfrage"))
+            html = artikel_html(
+                datei_id    = aid,
+                titel       = ergebnis["titel"],
+                text        = ergebnis["text"],
+                kategorie   = ergebnis["kategorie"],
+                quelle_name = k["quelle_name"],
+                quelle_url  = k.get("quelle_link") or k["url"],
+                datum       = k["datum"],
+                wappen_url  = _artikel_wu,
+                vereine     = k["vereine"],
+                og_image_url = _og_url,
+                dateiname   = f"{artikel_slug(ergebnis['titel'])}-{aid}.html",
+                quelle2_url = k.get("quelle2_url", ""),
+                verwandte   = k.get("verwandte") or [],
+                bild        = _bild,
+                umfrage_daten = _umfrage,
+            )
+            _datei = ARTIKEL_ORDNER / f"{artikel_slug(ergebnis['titel'])}-{aid}.html"
+            _datei.write_text(html, encoding="utf-8")
+            _ARTIKEL_DATEIEN[aid] = _datei
+            badge_label, badge_bg, badge_fg = badge_fuer_kategorie(ergebnis["kategorie"])
+            feed_entry = {
+                "id":         aid,
+                "titel":      ergebnis["titel"],
+                "kategorie":  ergebnis["kategorie"],
+                "badge":      badge_label,
+                "badge_bg":   badge_bg,
+                "badge_fg":   badge_fg,
+                "datum":      k["datum"],
+                "wappen_url": k["wappen_url"],
+                "vereine":    k["vereine"],
+                "anriss":     " ".join(ergebnis["text"].split()[:45]),
+                "spielerstatus": [x for x in (ergebnis.get("spielerstatus") or [])
+                                  if isinstance(x, dict) and x.get("spieler") and x.get("status")],
+                "formation":  (ergebnis.get("formation") or "").strip(),
+                "hauptklub":  ergebnis.get("hauptklub", ""),
+                "pfad":       f"artikel/{_datei.name}",
+                "bild_tm":    _bild[0] if _bild else "",
+                "umfrage":    _umfrage,
+            }
+            bestehende.append(feed_entry)
+            feed_speichern(bestehende)
+
+            # Persistenter State updaten
+            published_stories.append({
+                "id":             aid,
+                "generated_title": ergebnis["titel"],
+                "original_url":   k["url"],
+                "fingerprint":    k.get("fingerprint"),
+                "published_at":   datetime.datetime.now().isoformat(),
+                "source":         k["quelle_name"],
+            })
+            speichere_published_stories(published_stories)
+
+            # news_archive.json Eintrag
+            fp = k.get("fingerprint") or {}
+            archive_entry = {
+                "id":           aid,
+                "title":        ergebnis["titel"],
+                "published_at": datetime.datetime.now().isoformat(),
+                "main_club":    fp.get("main_club", ""),
+                "event_stage":  fp.get("event_stage", "sonstiges"),
+                "summary":      fp.get("summary") or fp.get("one_sentence_summary", ""),
+                "main_players": storys._liste(fp.get("main_players")),
+                "schluessel":   fp.get("schluessel", ""),
+                "source_url":   k["url"],
+            }
+            news_archive.append(archive_entry)
+            speichere_news_archive(news_archive)
+
+            neu_generiert += 1
+            stats["published"] += 1
+            log.info(f"Veröffentlicht: {ergebnis['titel'][:60]}")
+        except Exception as e:
+            log.error(f"Veröffentlichen fehlgeschlagen ({k['aid']}): {e}", exc_info=True)
+            fehlgeschlagen.add(k["aid"])
+    approved = [k for k in approved if k["aid"] not in fehlgeschlagen]
+
+    sitemap_generieren(bestehende)
+    rss_generieren(bestehende)
+
+    # Stage 9: Social-Warteschlange nach finalem Publish
+    for k in approved:
+        ergebnis = k["ergebnis"]
+        aid = k["aid"]
+        artikel_url = f"https://3liga.ligaoutsider.de/{artikel_datei(aid).as_posix()}"
+
+    # Run-Stats speichern, mit den echten KI-Kosten dieses Laufs
+    stats["kosten"] = ki_budget.bericht()
+    _k = stats["kosten"]
+    log.info(f"💶 Kosten: dieser Lauf {_k['lauf_usd']:.3f} $ (Budget {_k['lauf_budget_usd']:.3f} $) | "
+             f"heute {_k['heute_usd']:.2f} $ | Monat {_k['monat_usd']:.2f} / {_k['monatsbudget_usd']:g} $ | "
+             + ", ".join(f"{z} {v['anzahl']}× {v['usd']:.3f} $" for z, v in _k["aufrufe"].items()))
+    if _k.get("abo_tokens"):
+        _t = _k["abo_tokens"]
+        _sum = lambda feld: sum(v[feld] for v in _t.values())
+        log.info(f"🎫 Abo-Verbrauch: {_sum('ein') + _sum('cache_schreiben') + _sum('cache_lesen'):,} Tokens rein "
+                 f"(davon Cache gelesen {_sum('cache_lesen'):,}), {_sum('aus'):,} raus, "
+                 f"API-Gegenwert {sum(v['api_wert_usd'] for v in _t.values()):.2f} $ | "
+                 + ", ".join(f"{z} {v['aufrufe']}×: {v['ein'] + v['cache_schreiben'] + v['cache_lesen']:,}/{v['aus']:,}"
+                             for z, v in _t.items()))
+    stats_path = LOG_DIR / f"run_{_run_ts}.json"
+    stats_path.write_text(json.dumps(stats, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    url_cache.cleanup_and_save()
+    # Nächster Lauf startet beim zuletzt begonnenen Feed (der evtl. nicht fertig wurde)
+    _naechste = (_start_pos + max(0, _feeds_fertig - 1)) % len(RSS_FEEDS) if _feeds_fertig < len(RSS_FEEDS) else 0
+    _atomar_schreiben(_pos_datei, json.dumps({"naechste": _naechste, "stand": datetime.datetime.now().isoformat()}))
+    log.info(f"Feeds: {_feeds_fertig}/{len(RSS_FEEDS)} begonnen, nächster Lauf startet bei Nr. {_naechste}")
+    log.info(f"URL-Cache gespeichert: {url_cache.get_seen_count()} URLs")
+
+    log.info(f"=== Fertig. {neu_generiert} neue Artikel. feed.json: {len(bestehende)} ===")
+    log.info(f"Stats: {json.dumps(stats)}")
+
+
+def archiv_seiten_schreiben(artikel_liste: list):
+    """Statische Archivseiten (archiv-seite-1.html …) mit echten Links auf alle Artikel.
+    archiv.html baut seine Liste per JavaScript; Suchmaschinen finden ohne diese Seiten
+    viele Artikel nur über die Sitemap und indexieren sie nur zögerlich."""
+    from html import escape as _esc
+    aktuell = [a for a in artikel_liste if Path(a["pfad"]).exists()]
+    seiten = max(1, -(-len(aktuell) // ARCHIV_PRO_SEITE))
+    kopf = Path("datenschutz.html").read_text(encoding="utf-8")
+    kopf = kopf[:kopf.index('  <div class="ds-wrap">')]
+    fuss = Path("datenschutz.html").read_text(encoding="utf-8")
+    fuss = fuss[fuss.index("  </div>", fuss.index('<h2 id="m15">')):]
+    alt = {Path(p).name for p in glob.glob("archiv-seite-*.html")}
+    for n in range(1, seiten + 1):
+        teil = aktuell[(n - 1) * ARCHIV_PRO_SEITE:n * ARCHIV_PRO_SEITE]
+        zeilen = "\n".join(
+            f'      <li><a href="{_esc(a["pfad"])}">{_esc(a["titel"])}</a> <small>{_esc((a.get("datum") or "")[:10])}</small></li>'
+            for a in teil)
+        nav = " · ".join(
+            (f"<strong>{i}</strong>" if i == n else f'<a href="archiv-seite-{i}.html">{i}</a>') for i in range(1, seiten + 1))
+        titel = f"Alle Artikel, Seite {n} – Ligaoutsider.de"
+        k = (kopf.replace("Datenschutzerklärung – Ligaoutsider.de", titel)
+                 .replace("Datenschutzerklärung von Ligaoutsider.de.", "Alle News zur 3. Liga von Ligaoutsider.de als Liste.")
+                 .replace("datenschutz.html", f"archiv-seite-{n}.html"))
+        seite = (k + f'''  <div class="ds-wrap">
+    <h1>Alle Artikel</h1>
+    <p>Seite {n} von {seiten}. Die neuesten Artikel zuerst. Mit Filtern und Suche: <a href="archiv.html">Newsarchiv</a>.</p>
+    <ul style="list-style:none;padding:0">
+{zeilen}
+    </ul>
+    <p>{nav}</p>
+''' + fuss)
+        Path(f"archiv-seite-{n}.html").write_text(seite, encoding="utf-8")
+        alt.discard(f"archiv-seite-{n}.html")
+    for rest in alt:
+        Path(rest).unlink(missing_ok=True)
+    print(f"✅ {seiten} statische Archivseiten geschrieben")
+
+
+def sitemap_generieren(artikel_liste: list):
+    archiv_seiten_schreiben(artikel_liste)
+    base = "https://3liga.ligaoutsider.de"
+    heute = datetime.date.today().isoformat()
+    urls = [
+        (f"{base}/", "1.0", "daily"),
+        (f"{base}/archiv.html", "0.8", "daily"),
+    ] + [(f"{base}/{Path(p).name}", "0.5", "daily") for p in sorted(glob.glob("archiv-seite-*.html"))] \
+      + [(f"{base}/verein/", "0.8", "daily")] \
+      + [(f"{base}/{p.replace(os.sep, '/')}", "0.8", "daily") for p in sorted(glob.glob("verein/*.html")) if not p.endswith("index.html")]
+    def _iso(datum):
+        m = re.match(r"(\d{2})\.(\d{2})\.(\d{4})", datum or "")
+        return f"{m.group(3)}-{m.group(2)}-{m.group(1)}" if m else heute
+    for a in artikel_liste:
+        if Path(a["pfad"]).exists():
+            urls.append((f"{base}/{a['pfad']}", "0.9", "monthly", _iso(a.get("datum"))))
+    try:
+        _db = json.loads(Path("spieler_db.json").read_text(encoding="utf-8"))
+        urls.append((f"{base}/spieler/index.html", "0.7", "weekly"))
+        for _slug in spieler_slugs(_db).values():
+            urls.append((f"{base}/spieler/{_slug}.html", "0.7", "weekly"))
+    except Exception as _ex:
+        log.warning(f"Sitemap ohne Spielerseiten: {_ex}")
+
+    lines = ['<?xml version="1.0" encoding="UTF-8"?>',
+             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+    for loc, prio, freq, *mod in urls:
+        lines += [
+            "  <url>",
+            f"    <loc>{loc}</loc>",
+            f"    <lastmod>{mod[0] if mod else heute}</lastmod>",
+            f"    <changefreq>{freq}</changefreq>",
+            f"    <priority>{prio}</priority>",
+            "  </url>",
+        ]
+    lines.append("</urlset>")
+    Path("sitemap.xml").write_text("\n".join(lines), encoding="utf-8")
+    print(f"✅ sitemap.xml generiert ({len(urls)} URLs)")
+    news_sitemap_generieren(artikel_liste)
+
+
+def news_sitemap_generieren(artikel_liste: list):
+    """Google-News-Sitemap: nur Artikel der letzten 48 Stunden (Vorgabe von Google)."""
+    from xml.sax.saxutils import escape
+    grenze = datetime.datetime.now() - datetime.timedelta(hours=48)
+    lines = ['<?xml version="1.0" encoding="UTF-8"?>',
+             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" '
+             'xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">']
+    n = 0
+    for a in artikel_liste:
+        try:
+            dt = datetime.datetime.strptime(a["datum"], "%d.%m.%Y %H:%M")
+        except Exception:
+            continue
+        if dt < grenze or not Path(a["pfad"]).exists():
+            continue
+        n += 1
+        lines += [
+            "  <url>",
+            f"    <loc>https://3liga.ligaoutsider.de/{a['pfad']}</loc>",
+            "    <news:news>",
+            "      <news:publication><news:name>Ligaoutsider</news:name><news:language>de</news:language></news:publication>",
+            f"      <news:publication_date>{dt.replace(second=0, microsecond=0, tzinfo=ZoneInfo('Europe/Berlin')).isoformat()}</news:publication_date>",
+            f"      <news:title>{escape(a['titel'])}</news:title>",
+            "    </news:news>",
+            "  </url>",
+        ]
+    lines.append("</urlset>")
+    Path("news-sitemap.xml").write_text("\n".join(lines), encoding="utf-8")
+    print(f"✅ news-sitemap.xml generiert ({n} Artikel)")
+
+
+
+
+def rss_generieren(artikel_liste: list):
+    from email.utils import formatdate
+    import time
+
+    base = "https://3liga.ligaoutsider.de"
+    items = []
+    for a in artikel_liste[:50]:  # Max 50 Einträge im Feed
+        titel = a.get("titel", "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+        link = f"{base}/{a['pfad']}"
+        desc = a.get("kategorie", "").replace("&", "&amp;")
+        badge = a.get("badge", "")
+        if badge:
+            desc = f"[{badge}] {desc}"
+        # Datum parsen für RFC-2822
+        try:
+            from datetime import datetime as _dt
+            dt = _dt.strptime(a["datum"], "%d.%m.%Y %H:%M")
+            pub_date = formatdate(timeval=time.mktime(dt.timetuple()), localtime=True)
+        except Exception:
+            pub_date = formatdate()
+        vereine = a.get("vereine", [])
+        verein_str = ", ".join(vereine) if isinstance(vereine, list) else str(vereine)
+        items.append(f"""  <item>
+    <title>{titel}</title>
+    <link>{link}</link>
+    <guid isPermaLink="true">{link}</guid>
+    <description>{desc}</description>
+    <category>{verein_str}</category>
+    <pubDate>{pub_date}</pubDate>
+  </item>""")
+
+    rss = f"""<?xml version=\"1.0\" encoding=\"UTF-8\"?>
+<rss version=\"2.0\" xmlns:atom=\"http://www.w3.org/2005/Atom\">
+  <channel>
+    <title>Ligaoutsider – 3. Liga News</title>
+    <link>{base}/</link>
+    <description>Aktuelle News zur 3. Liga, Transfers und Gerüchte</description>
+    <language>de-de</language>
+    <atom:link href="{base}/rss.xml" rel="self" type="application/rss+xml"/>
+{chr(10).join(items)}
+  </channel>
+</rss>"""
+    Path("rss.xml").write_text(rss, encoding="utf-8")
+    print(f"✅ rss.xml generiert ({len(items)} Einträge)")
+
+COMUNIO_BASE = "https://stats.comunio.de"
+COMUNIO_KLUB = [  # Teilstring im Comstats-Klubnamen -> Logo
+    ("Bayern", "bayern"), ("Dortmund", "dortmund"), ("Leipzig", "leipzig"),
+    ("Leverkusen", "leverkusen"), ("Frankfurt", "frankfurt"), ("Stuttgart", "stuttgart"),
+    ("gladbach", "gladbach"), ("Freiburg", "freiburg"), ("Union", "union"),
+    ("Mainz", "mainz"), ("Augsburg", "augsburg"), ("Werder", "werder"),
+    ("Hoffenheim", "hoffenheim"), ("Hamburg", "hsv"), ("Köln", "koeln"),
+    ("Schalke", "schalke"), ("Paderborn", "paderborn"), ("Elversberg", "elversberg"),
+    ("Munich", "bayern"), ("Cologne", "koeln"), ("Koln", "koeln"), ("Bremen", "werder"),
+]
+
+
+def _comunio_logo(klub):
+    for teil, datei in COMUNIO_KLUB:
+        if klub and teil.lower() in klub.lower():
+            return f"logos/{datei}.png"
+    return ""
+
+
+def _comunio_tabellen(pfad, session):
+    """Alle Spielertabellen einer Comstats-Seite als Zeilen-Dicts."""
+    import html as _html
+    r = session.get(COMUNIO_BASE + pfad, timeout=20)
+    r.raise_for_status()
+    tabellen = []
+    bloecke = re.findall(r"<table class='(?:playersTable|rangliste)[^']*'>(.*?)</table>", r.text, re.S)
+    # Kaderseiten haben keine eigene Tabellenklasse → ganze Seite als eine Tabelle lesen
+    for tb in bloecke or [r.text]:
+        zeilen = []
+        for tr in re.findall(r"<tr>(.*?)</tr>", tb, re.S):
+            name = re.search(r"<a class='playerName[^>]*>(.*?)</a>", tr)
+            if not name:
+                continue
+            nach_name = tr[name.end():]
+            werte = [re.sub(r"\s+", " ", _html.unescape(re.sub(r"<[^>]+>", "", td))).replace(" ", "").strip()
+                     for td in re.findall(r"<td[^>]*>(.*?)</td>", nach_name, re.S)]
+            pos = re.search(r"class='vectoricon pos[^']*' alt='([^']+)'", tr)
+            zeilen.append({
+                "name": _html.unescape(name.group(1)),
+                "klubs": [_html.unescape(k) for k in re.findall(r'title="([^"]+)" class=\'clubicon', tr)],
+                "pos": pos.group(1) if pos else "",
+                "werte": [w for w in werte if w],
+            })
+        tabellen.append(zeilen)
+    return tabellen
+
+
+def _zahl(txt):
+    txt = (txt or "").replace(".", "").replace(",", ".").replace("+", "").replace("%", "").replace(" ", "")
+    try:
+        return float(txt)
+    except ValueError:
+        return 0.0
+
+
+def comunio_fetch():
+    """Comunio-Statistiken von Comstats (stats.comunio.de) holen — Quelle wird auf der Seite genannt."""
+    import requests as _req
+    session = _req.Session()
+    session.headers.update({"User-Agent": "Mozilla/5.0 (LO)"})
+
+    def spieler(z, **extra):
+        klub = z["klubs"][0] if z["klubs"] else ""
+        return {"name": z["name"], "klub": klub, "logo": _comunio_logo(klub), "pos": z["pos"], **extra}
+
+    # Spalten nach dem Namen: Klub(leer), Marktwert, Einsätze "3 (3)", Tore, Punkte, Punkte/Spiel
+    def punkte_zeile(z):
+        w = z["werte"]
+        einsaetze = int(_zahl(w[1].split("(")[0])) if len(w) > 1 else 0
+        return spieler(z, mw=int(_zahl(w[0])), spiele=einsaetze, tore=int(_zahl(w[2])),
+                       pts=int(_zahl(w[3])), ap=round(_zahl(w[4]), 2))
+
+    result = {"updated": datetime.datetime.now(datetime.timezone.utc).isoformat()}
+
+    # Marktwert
+    mw = _comunio_tabellen("/toplist/mv_ovr_25-Top25_Marktwerte", session)[0]
+    result["teuerste"] = [spieler(z, mw=int(_zahl(z["werte"][0]))) for z in mw[:10]]
+
+    # Punkte – Basis für Schnitt und Effizienz
+    alle = [punkte_zeile(z) for z in _comunio_tabellen("/toplist/pts_ovr_100-Top100_Punkte_Spieler", session)[0]]
+    result["punkte"] = alle[:10]
+    max_spiele = max((p["spiele"] for p in alle), default=0)
+    min_spiele = max(1, round(max_spiele * 0.75))
+    stamm = [p for p in alle if p["spiele"] >= min_spiele]
+    result["schnitt"] = sorted(stamm, key=lambda p: -p["ap"])[:10]
+    for p in stamm:
+        p["eff"] = round(p["pts"] / (p["mw"] / 1e6), 1) if p["mw"] else 0
+    result["effizienz"] = sorted(stamm, key=lambda p: -p["eff"])[:10]
+    result["torjaeger"] = sorted([p for p in alle if p["tore"] > 0], key=lambda p: (-p["tore"], -p["pts"]))[:10]
+
+    # Beste je Position (Punkte pro Spiel, nur Stammkräfte)
+    for key, pfad in [("torwart", "ppm_gk_25-Top25_Punkte_pro_Spiel_Torhueter"),
+                      ("abwehr", "ppm_def_25-Top25_Punkte_pro_Spiel_Abwehr"),
+                      ("mittelfeld", "ppm_mf_25-Top25_Punkte_pro_Spiel_Mittelfeld"),
+                      ("sturm", "ppm_off_25-Top25_Punkte_pro_Spiel_Sturm")]:
+        liste = [punkte_zeile(z) for z in _comunio_tabellen("/toplist/" + pfad, session)[0]]
+        result[key] = [p for p in liste if p["spiele"] >= min_spiele][:8]
+        time.sleep(1)
+
+    # Marktwert-Gewinner/-Verlierer: Tabellen Tag+, Tag-, Woche+, Woche-, Monat+, Monat-
+    pt = _comunio_tabellen("/toplist/pt-Gewinner_Verlierer", session)
+    def trend(z):
+        w = z["werte"]
+        return spieler(z, mw=int(_zahl(w[0])), diff=int(_zahl(w[1])), proz=_zahl(w[2]))
+    for key, idx in [("raketen", 0), ("crash", 1), ("woche", 2), ("wocheminus", 3)]:
+        result[key] = [trend(z) for z in pt[idx][:10]] if len(pt) > idx else []
+
+    # Nachfrage durch Manager: Tabelle 0 = trendend, 1 = aufsteigend
+    tr = _comunio_tabellen("/trending", session)
+    def gefragt(z):
+        return spieler(z, pts=int(_zahl(z["werte"][0])), mw=int(_zahl(z["werte"][1])))
+    result["trend"] = [gefragt(z) for z in tr[0][:10]] if tr else []
+    result["aufsteigend"] = [gefragt(z) for z in tr[1][:10]] if len(tr) > 1 else []
+
+    # Punkterekorde an einem Spieltag, aktuelle Saison: Punkte, Tore "3 (0)" (davon Elfmeter), Saison, Gegner
+    rek = _comunio_tabellen("/toplist/mptsreccurseason_ovr_100-Top100_Punkterekorde_Spieler_Spieltag_Aktuelle_Saison", session)
+    result["rekorde"] = [spieler(z, pts=int(_zahl(z["werte"][0])),
+                                 tore=int(_zahl(z["werte"][1].split("(")[0])),
+                                 gegner=z["klubs"][1] if len(z["klubs"]) > 1 else "")
+                         for z in (rek[0][:10] if rek else [])]
+
+    Path("comunio.json").write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"✅ comunio.json geschrieben ({len(alle)} Spieler, via Comstats)")
+
+
+# ─── Spieler-Datenbank (Transfermarkt-Kader, abgeglichen mit Kickbase) ────────
+TM_SAISON = SAISON
+TM_POS_GRUPPE = {
+    "Torwart": "Torwart",
+    "Innenverteidiger": "Abwehr", "Linker Verteidiger": "Abwehr", "Rechter Verteidiger": "Abwehr",
+    "Defensives Mittelfeld": "Mittelfeld", "Zentrales Mittelfeld": "Mittelfeld",
+    "Offensives Mittelfeld": "Mittelfeld", "Linkes Mittelfeld": "Mittelfeld", "Rechtes Mittelfeld": "Mittelfeld",
+    "Linksaußen": "Sturm", "Rechtsaußen": "Sturm", "Hängende Spitze": "Sturm", "Mittelstürmer": "Sturm",
+}
+
+
+def _namens_schluessel(name):
+    import unicodedata
+    n = unicodedata.normalize("NFKD", (name or "").lower())
+    n = "".join(c for c in n if not unicodedata.combining(c))
+    n = n.replace("ø", "o").replace("æ", "ae").replace("ß", "ss").replace("ł", "l").replace("đ", "d")
+    # Umschrift angleichen: "schwaebe" (URL) == "schwäbe" (nach NFKD "schwabe")
+    n = n.replace("ae", "a").replace("oe", "o").replace("ue", "u")
+    return re.sub(r"[^a-z ]", " ", n).split()
+
+
+def _tm_kader(pfad, session):
+    import html as _html
+    r = session.get(f"https://www.transfermarkt.de{pfad}", timeout=25)
+    r.raise_for_status()
+    kader = []
+    for zeile in re.findall(r'<tr class="(?:odd|even)">(.*?)</tr>\s*(?=<tr class="(?:odd|even)"|</tbody>)', r.text, re.S):
+        link = re.search(r'<td class="hauptlink">\s*<a href="/([^"]+)/profil/spieler/(\d+)">\s*(.*?)\s*</a>', zeile, re.S)
+        if not link:
+            continue
+        # Hinter dem Namen hängen Symbole mit title: Kapitän, Verletzung, Sperre
+        symbole = [_html.unescape(t) for t in re.findall(r'<span title="([^"]+)"', link.group(3))]
+        name = re.sub(r"\s+", " ", _html.unescape(re.sub(r"<span.*", "", link.group(3), flags=re.S))).strip()
+        pos = re.search(r"<tr>\s*<td>\s*([^<]+?)\s*</td>\s*</tr>\s*</table>", zeile, re.S)
+        nr = re.search(r"<div class=rn_nummer>([^<]*)</div>", zeile)
+        zellen = [re.sub(r"\s+", " ", _html.unescape(re.sub(r"<[^>]+>", "", z))).strip()
+                  for z in re.findall(r'<td class="zentriert">(.*?)</td>', zeile, re.S)]
+        nation = re.findall(r'class="flaggenrahmen"[^>]*|title="([^"]+)" alt="[^"]+" class="flaggenrahmen"', zeile)
+        mw = re.search(r'marktwertverlauf/spieler/\d+">([^<]+)</a>', zeile)
+        geb = next((z for z in zellen if re.match(r"\d\d\.\d\d\.\d{4}", z)), "")
+        kader.append({
+            "name": name,
+            "tm_id": int(link.group(2)),
+            "kapitaen": "Mannschaftskapitän" in symbole,
+            "tm_hinweise": [t for t in symbole if t != "Mannschaftskapitän"],
+            "nr": (nr.group(1).strip() if nr else "").replace("-", "") or None,
+            "position": _html.unescape(pos.group(1)).strip() if pos else "",
+            "geboren": geb[:10],
+            "nation": [n for n in nation if n],
+            "fuss": next((z for z in zellen if z in ("links", "rechts", "beidfüßig")), ""),
+            "vertrag_bis": zellen[-1] if zellen and re.match(r"\d\d\.\d\d\.\d{4}", zellen[-1]) else "",
+            "tm_marktwert": _html.unescape(mw.group(1)).strip() if mw else "",
+        })
+    return kader
+
+
+def spieler_db_fetch():
+    """Alle Bundesliga-Kader von Transfermarkt, je Spieler mit Kickbase-Daten verknüpft → spieler_db.json."""
+    import difflib
+    import requests as _req
+    tm = _req.Session()
+    tm.headers.update({"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"})
+    liga = tm.get(f"https://www.transfermarkt.de/1-bundesliga/startseite/wettbewerb/L1/saison_id/{TM_SAISON}", timeout=25).text
+    vereine = sorted(set(re.findall(rf'href="/([^"/]+)/startseite/verein/(\d+)/saison_id/{TM_SAISON}"', liga)))
+    if len(vereine) < 18:
+        raise RuntimeError(f"Transfermarkt liefert nur {len(vereine)} Vereine")
+
+    kb = _req.Session()
+    kb.headers.update({"User-Agent": "Mozilla/5.0", "Referer": "https://www.base-xi.de/players"})
+    kb.get("https://www.base-xi.de/players", timeout=10)
+    kb_spieler = kb.get("https://www.base-xi.de/api/players?comp=bl1&t=1", timeout=20).json()
+    kb_nach_logo = {}
+    for p in kb_spieler:
+        kb_nach_logo.setdefault(_comunio_logo(p.get("teamName") or ""), []).append(p)
+
+    teams = {}
+    for slug, vid in vereine:
+        kader = _tm_kader(f"/{slug}/kader/verein/{vid}/saison_id/{TM_SAISON}/plus/1", tm)
+        time.sleep(2)
+        # Vereinsname aus dem Slug ist ungenau → über Logo-Zuordnung auf den Kickbase-Namen
+        logo = _comunio_logo(slug.replace("-", " ").replace("monchengladbach", "gladbach")
+                             .replace("rasenballsport", "leipzig").replace("koln", "köln"))
+        kb_team = kb_nach_logo.get(logo, [])
+        team_name = kb_team[0]["teamName"] if kb_team else slug
+        frei = list(kb_team)
+        for s_ in kader:
+            s_["gruppe"] = TM_POS_GRUPPE.get(s_["position"], "")
+            ks = _namens_schluessel(s_["name"])
+            treffer = None
+            # 1. exakter Name, 2. gleicher Nachname + Rückennummer, 3. gleicher Nachname, 4. ähnlich
+            for pruef in (
+                lambda k: _namens_schluessel(k["name"]) == ks,
+                lambda k: _namens_schluessel(k["name"])[-1:] == ks[-1:] and str(k.get("shirtNumber")) == str(s_["nr"]),
+                lambda k: _namens_schluessel(k["name"])[-1:] == ks[-1:],
+                # vertauschte/zusammengezogene Namen ("Min-jae Kim" / "Kim Minjae")
+                lambda k: sorted("".join(_namens_schluessel(k["name"]))) == sorted("".join(ks)),
+                # Namenszusätze ("Lukeba Castello Jr.", Doppelnamen)
+                lambda k: len(set(_namens_schluessel(k["name"])) & set(ks)) >= 2,
+            ):
+                kandidaten = [k for k in frei if pruef(k)]
+                if len(kandidaten) == 1:
+                    treffer = kandidaten[0]
+                    break
+            if not treffer:
+                namen = {" ".join(_namens_schluessel(k["name"])): k for k in frei}
+                nah = difflib.get_close_matches(" ".join(ks), list(namen), n=1, cutoff=0.8)
+                treffer = namen[nah[0]] if nah else None
+            if treffer:
+                frei.remove(treffer)
+                s_["kickbase"] = {"id": treffer.get("id"), "name": treffer.get("name"),
+                                  "position": treffer.get("position"), "nr": treffer.get("shirtNumber"),
+                                  "mw": treffer.get("marketValue") or 0}
+            else:
+                s_["kickbase"] = None
+        teams[team_name] = {
+            "logo": logo, "tm_id": int(vid), "spieler": kader,
+            "nur_kickbase": [{"id": k.get("id"), "name": k.get("name"), "position": k.get("position"),
+                              "nr": k.get("shirtNumber")} for k in frei],
+        }
+
+    # Comunio: Marktwert und Position je Spieler von den Comstats-Kaderseiten
+    import urllib.parse
+    try:
+        cs = _req.Session()
+        cs.headers.update({"User-Agent": "Mozilla/5.0 (LO)"})
+        start = cs.get(f"{COMUNIO_BASE}/squad/1-FC+Bayern+M%C3%BCnchen", timeout=20).text
+        kader_links = sorted(set(re.findall(r'href="(/squad/\d+-[^"]+)"', start)))
+        cs_treffer = 0
+        for link in kader_links:
+            logo = _comunio_logo(urllib.parse.unquote_plus(link.split("-", 1)[1]))
+            team = next((t for t in teams.values() if t["logo"] == logo), None) if logo else None
+            if not team:
+                continue
+            for tb in _comunio_tabellen(link, cs):
+                for z in tb:
+                    zahlen = [w for w in z["werte"] if re.fullmatch(r"\d{1,3}(\.\d{3})+", w)]
+                    eintrag = _finde_spieler(z["name"], team["spieler"])
+                    if eintrag is not None and zahlen:
+                        eintrag["comunio"] = {"mw": int(zahlen[-1].replace(".", "")), "position": z["pos"]}
+                        cs_treffer += 1
+            time.sleep(1)
+        print(f"  → Comunio-Marktwerte für {cs_treffer} Spieler")
+    except Exception as ex:
+        print(f"  ⚠️ Comunio-Kader nicht verfügbar: {ex}")
+
+    _atomar_schreiben(Path("spieler_db.json"), json.dumps({
+        "updated": datetime.datetime.now(datetime.timezone.utc).isoformat(),
+        "saison": TM_SAISON, "teams": teams,
+    }, ensure_ascii=False, indent=1))
+    n = sum(len(t["spieler"]) for t in teams.values())
+    ok = sum(1 for t in teams.values() for s_ in t["spieler"] if s_["kickbase"])
+    print(f"✅ spieler_db.json geschrieben ({n} Spieler, {ok} mit Kickbase verknüpft)")
+
+
+# ─── Fremde Aufstellungsprognosen (LigaInsider, RotoWire) ─────────────────────
+QUELLEN_UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36"
+
+
+def _ligainsider_prognosen(session):
+    """Voraussichtliche Elf je Team: {logo: {"start": [...], "wackel": [...], "alt": [...]}} – Namen als Slug-Vollnamen."""
+    uebersicht = session.get("https://www.ligainsider.de/bundesliga/spieltage/", timeout=20).text
+    teams = sorted(set(re.findall(r'href="/bundesliga/team/([a-z0-9-]+)/(\d+)/saison-', uebersicht)))
+    ergebnis = {}
+    for slug, tid in teams:
+        try:
+            t = session.get(f"https://www.ligainsider.de/{slug}/{tid}/", timeout=20).text
+            a = t.find('<div class="player_position_row')
+            b = t.find('league_name_holder', a)
+            if a < 0 or b < 0:
+                continue
+            block = t[a:b]
+            start, wackel, alt = [], [], []
+            for spalte in block.split('<div class="player_position_column')[1:]:
+                namen = re.findall(r'<div class="player_name"><a href="/([a-z0-9-]+)_\d+/"', spalte)
+                if not namen:
+                    continue
+                if "sub_child" in spalte and len(namen) > 1:
+                    wackel.append(namen[0].replace("-", " "))
+                    alt.extend(n.replace("-", " ") for n in namen[1:])
+                else:
+                    start.append(namen[0].replace("-", " "))
+            stand = re.search(r"Letzte Aktualisierung:[^|]*\|\s*([\d.]+ [\d:]+)", t)
+            if len(start) + len(wackel) >= 10:
+                ergebnis[_comunio_logo(slug.replace("-", " ").replace("koeln", "köln").replace("moenchengladbach", "gladbach"))] = {
+                    "start": start, "wackel": wackel, "alt": alt, "stand": stand.group(1) if stand else ""}
+        except Exception as ex:
+            print(f"  ⚠️ LigaInsider {slug}: {ex}")
+        time.sleep(1.5)
+    return ergebnis
+
+
+def _rotowire_prognosen(session):
+    """{logo: {"start": [...], "bestaetigt": bool}} von RotoWire (Vollnamen aus dem title-Attribut)."""
+    import html as _html
+    t = session.get("https://www.rotowire.com/soccer/lineups.php?league=BUND", timeout=25).text
+    ergebnis = {}
+    for spiel in t.split('class="lineup is-soccer"')[1:]:
+        namen = [re.sub(r"\s+", " ", _html.unescape(n)).strip()
+                 for n in re.findall(r'class="lineup__mteam is-(?:home|visit)">\s*([^<]+)', spiel)]
+        listen = re.findall(r'<ul class="lineup__list is-(home|visit)">(.*?)</ul>', spiel, re.S)
+        for (seite, inhalt), team in zip(listen, namen):
+            vor_verletzt = re.split(r'lineup__title', inhalt)[0]
+            spieler = [_html.unescape(n) for n in re.findall(r'<li class="lineup__player">.*?<a title="([^"]+)"', vor_verletzt, re.S)]
+            if len(spieler) >= 10:
+                ergebnis[_comunio_logo(team)] = {"start": spieler[:11], "bestaetigt": "is-confirmed" in vor_verletzt}
+    return ergebnis
+
+
+def _finde_spieler(name, kader):
+    """Ordnet einen fremden Spielernamen einem Kaderspieler zu (oder None)."""
+    ks = _namens_schluessel(name)
+    if not ks:
+        return None
+    for pruef in (
+        lambda k: _namens_schluessel(k["name"]) == ks,
+        lambda k: sorted("".join(_namens_schluessel(k["name"]))) == sorted("".join(ks)),
+        lambda k: len(set(_namens_schluessel(k["name"])) & set(ks)) >= 2,
+        lambda k: _namens_schluessel(k["name"])[-1:] == ks[-1:],
+    ):
+        treffer = [k for k in kader if pruef(k)]
+        if len(treffer) == 1:
+            return treffer[0]
+    return None
+
+
+
+# ─── Spieler → Artikel (für die News-Liste im Spielerprofil) ──────────────────
+def spieler_news_index(max_je_spieler=8):
+    """spieler_news.json: je Transfermarkt-ID die neuesten Artikel, in denen der Spieler vorkommt.
+    Gleiche Regeln wie die Verlinkung in spieler.js: voller Name immer, Nachname nur beim
+    Verein des Artikels (akzentunabhängig, Groß-/Kleinschreibung zählt)."""
+    import unicodedata
+    import html as _html
+
+    def falte(t):
+        t = unicodedata.normalize("NFD", t)
+        t = "".join(c for c in t if not unicodedata.combining(c))
+        return t.replace("ø", "o").replace("Ø", "O").replace("ł", "l").replace("đ", "d")
+
+    try:
+        db = json.loads(Path("spieler_db.json").read_text(encoding="utf-8"))
+        feed = json.loads(FEED_JSON.read_text(encoding="utf-8"))
+    except Exception as ex:
+        print(f"⚠️  spieler_news_index: {ex}")
+        return
+
+    spieler = []
+    for team in db["teams"].values():
+        for sp in team["spieler"]:
+            teile = sp["name"].split()
+            nach = " ".join(teile[1:]) if len(teile) > 1 else sp["name"]
+            grenze = r"(?<![\w-]){}(?![\w-])"
+            spieler.append({
+                "id": sp["tm_id"], "logo": team["logo"],
+                "voll": re.compile(grenze.format(re.escape(falte(sp["name"])))) if len(teile) > 1 else None,
+                "nach": re.compile(grenze.format(re.escape(falte(nach)))) if len(nach) >= 4 else None,
+                "nach_txt": nach,
+            })
+    # Nachnamen, die innerhalb eines Vereins mehrfach vorkommen, sind nicht eindeutig
+    doppelt = {}
+    for sp in spieler:
+        doppelt[(sp["logo"], sp["nach_txt"])] = doppelt.get((sp["logo"], sp["nach_txt"]), 0) + 1
+
+    index = {}
+    for e in feed:  # neueste zuerst
+        pfad = Path(e.get("pfad", ""))
+        if not pfad.exists():
+            continue
+        roh = pfad.read_text(encoding="utf-8")
+        body = re.search(r'<div class="artikel-text">(.*?)</div>', roh, re.S)
+        text = falte(e.get("titel", "") + " " + _html.unescape(re.sub(r"<[^>]+>", " ", body.group(1) if body else "")))
+        vereine = {_comunio_logo(KLUB_FILTERNAME.get(v, v)) for v in (e.get("vereine") or [])}
+        if e.get("hauptklub"):
+            vereine.add(_comunio_logo(KLUB_FILTERNAME.get(e["hauptklub"], e["hauptklub"])))
+        vereine.discard("")
+        for sp in spieler:
+            treffer = bool(sp["voll"] and sp["voll"].search(text))
+            if not treffer and sp["nach"] and sp["logo"] in vereine and doppelt[(sp["logo"], sp["nach_txt"])] == 1:
+                treffer = bool(sp["nach"].search(text))
+            if treffer:
+                liste = index.setdefault(str(sp["id"]), [])
+                if len(liste) < max_je_spieler:
+                    liste.append({"titel": e["titel"], "datum": e["datum"], "pfad": e["pfad"]})
+
+    Path("spieler_news.json").write_text(json.dumps(index, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    print(f"✅ spieler_news.json geschrieben ({len(index)} Spieler mit News)")
+
+
+# ─── Spielerseiten (eine statische Seite je Spieler, für Google) ─────────────
+SPIELER_SEITEN_ORDNER = Path("spieler")
+
+
+def spieler_slugs(db):
+    """tm_id → URL-Slug ("harry-kane"); bei gleichen Namen wird die ID angehängt."""
+    import unicodedata
+
+    def basis(name):
+        n = unicodedata.normalize("NFKD", name.replace("ø", "o").replace("Ø", "O").replace("ß", "ss")
+                                  .replace("ł", "l").replace("æ", "ae").replace("đ", "d"))
+        n = "".join(c for c in n if not unicodedata.combining(c)).lower()
+        return re.sub(r"[^a-z0-9]+", "-", n).strip("-") or "spieler"
+
+    alle = [sp for t in db["teams"].values() for sp in t["spieler"]]
+    zaehler = {}
+    for sp in alle:
+        zaehler[basis(sp["name"])] = zaehler.get(basis(sp["name"]), 0) + 1
+    return {sp["tm_id"]: basis(sp["name"]) + (f"-{sp['tm_id']}" if zaehler[basis(sp["name"])] > 1 else "")
+            for sp in alle}
+
+
+def _mio(v):
+    return f"{v / 1e6:.1f}".replace(".", ",") + " Mio. €" if v else ""
+
+
+def _seite(titel, beschreibung, url, inhalt, head_extra="", tiefe="../", kommentar_id=None):
+    """Gemeinsamer Seitenrahmen (Kopf, Menü, Fuß) für generierte Seiten."""
+    e = _html_esc
+    kommentare = ""
+    if kommentar_id:
+        kommentare = f"""
+    <section class="kommentare">
+      <h2>Kommentare</h2>
+      <div id="kommentar-liste"><p class="kommentar-laden">Lade Kommentare…</p></div>
+      <p id="k-gasthinweis" style="font-size:13px;color:var(--text4);margin-top:16px">
+        Bitte <a href="#" onclick="netlifyIdentity.open('login');return false;" style="color:var(--accent-text)">anmelden</a>, um Kommentare zu schreiben.
+      </p>
+      <form id="kommentar-form" style="display:none">
+        <p id="k-eingeloggt" style="font-size:12px;color:var(--text4);margin-bottom:8px">Kommentieren als <strong id="k-username" style="color:var(--accent-text)"></strong></p>
+        <textarea id="k-text" placeholder="Dein Kommentar…" maxlength="1000" required></textarea>
+        <button type="submit" class="kommentar-btn">Kommentar absenden</button>
+        <p id="kommentar-status"></p>
+      </form>
+    </section>"""
+    return f"""<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>{e(titel)}</title>
+  <link rel="canonical" href="{url}"/>
+  <meta name="description" content="{e(beschreibung)}"/>
+  <meta property="og:type" content="profile"/>
+  <meta property="og:title" content="{e(titel)}"/>
+  <meta property="og:description" content="{e(beschreibung)}"/>
+  <meta property="og:url" content="{url}"/>
+  <meta property="og:site_name" content="Ligaoutsider.de"/>
+  <meta property="og:locale" content="de_DE"/>
+  <link rel="stylesheet" href="{tiefe}style.css"/>
+  <link rel="icon" href="{tiefe}favicon.png" type="image/png"/>
+  <script>if(localStorage.getItem('theme')==='light')document.documentElement.classList.add('light');</script>
+<script src="/consent.js"></script>
+{head_extra}</head>
+<body>
+
+  <script src="/auth.js"></script>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="{tiefe}index.html" class="logo">
+        <span class="logo-liga">Liga</span><span class="logo-outsider">outsider</span><span class="logo-de">.de</span>
+      </a>
+      <nav class="liga-zeile" aria-label="Liga wählen"><a href="https://ligaoutsider.de/"><span class="liga-marke">BL</span><span class="liga-lang">Bundesliga</span><span class="liga-kurz">1. Liga</span></a><a href="https://2liga.ligaoutsider.de/"><span class="liga-marke zwei">2.BL</span><span class="liga-lang">2. Bundesliga</span><span class="liga-kurz">2. Liga</span></a><a href="/" class="aktiv" aria-current="page"><span class="liga-marke drei">3.L</span><span class="liga-lang">3. Liga</span><span class="liga-kurz">3. Liga</span></a></nav>
+      <div class="header-right">
+        <button class="theme-toggle" id="theme-toggle" title="Hell/Dunkel wechseln">
+          <span id="theme-icon">☀️</span>
+          <span id="theme-label">Hell</span>
+        </button>
+        <div class="auth-buttons">
+          <a href="#" class="auth-btn" id="login-btn">Anmelden</a>
+          <span id="user-info" style="display:none">
+            <a href="https://ligaoutsider.de/nachrichten.html" id="nachrichten-icon" class="post-icon" title="Nachrichten" aria-label="Nachrichten">✉️<span class="post-zahl" id="nachrichten-zahl" hidden></span></a>
+            <span id="user-name" class="auth-username"></span>
+            <a href="#" class="auth-btn" id="logout-btn">Abmelden</a>
+          </span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <nav class="team-nav" aria-label="Vereine">
+    <ul class="team-list">
+{_vereins_chips(tiefe)}
+    </ul>
+  </nav>
+
+  <nav class="section-nav">
+    <div class="section-nav-inner">
+      <a href="{tiefe}index.html" class="section-nav-link" data-nav="news">News</a>
+      <a href="{tiefe}verein/" class="section-nav-link" data-nav="vereine">Vereine</a>
+      <a href="{tiefe}archiv.html" class="section-nav-link" data-nav="archiv">Archiv</a>
+    </div>
+  </nav>
+
+  <div class="sp-wrap">
+{inhalt}
+{kommentare}
+  </div>
+
+  <script>
+    const SUPABASE_URL  = location.origin + '/sb';
+    const SUPABASE_ANON = 'sb_publishable_FQH-uSDHZkVrVBtYfUYQQQ_atmsR-wF';
+{f"    const ARTIKEL_ID    = '{kommentar_id}';" if kommentar_id else ""}
+  </script>
+  <script src="/vendor/supabase.min.js"></script>
+  <script src="{tiefe}kommentare.js"></script>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p class="footer-copy">© Ligaoutsider.de, 2026</p>
+      <nav class="footer-nav">
+        <a href="{tiefe}impressum.html">Impressum</a>
+        <a href="{tiefe}datenschutz.html">Datenschutzerklärung</a>
+        <a href="{tiefe}nutzungsbedingungen.html">Nutzungsbedingungen</a>
+      </nav>
+    </div>
+  </footer>
+
+</body>
+</html>"""
+
+
+def _html_esc(t):
+    import html as _h
+    return _h.escape(str(t if t is not None else ""), quote=True)
+
+
+# Kurzname im Feed ("Bayern", "Hamburger") -> Logo-/URL-Name
+VEREIN_SLUG = {kurz: slug for kurz, slug, _v, _k in VEREINE}
+VEREIN_VON_SLUG = {v: k for k, v in VEREIN_SLUG.items()}
+
+
+# ─── Vereinsseiten der 3. Liga ──────────────────────────────────────────
+# verein/<slug>.html: News, nächste Spiele, Ergebnisse und Fragen je Verein; verein/index.html als Übersicht.
+# Spielplandaten kommen beim Bauen von OpenLigaDB (kein Spielerverzeichnis nötig).
+
+_LIGA_SPIELE = None
+
+def liga_spiele() -> list:
+    """Alle Spiele der laufenden Saison (OpenLigaDB), einmal je Lauf geladen (auch ein Fehlschlag, damit 18 Vereine nicht 18-mal warten)."""
+    global _LIGA_SPIELE
+    if _LIGA_SPIELE is not None:
+        return _LIGA_SPIELE
+    import requests as _r
+    _LIGA_SPIELE = []
+    try:
+        antwort = _r.get(f"https://api.openligadb.de/getmatchdata/{LIGA_API}/{SAISON}", timeout=20)
+        antwort.raise_for_status()
+        roh = antwort.json()
+        if not isinstance(roh, list):
+            raise ValueError("unerwartete Antwort")
+    except Exception as ex:
+        print(f"⚠️  Spielplan nicht erreichbar: {ex}")
+        return _LIGA_SPIELE
+    for m in roh:
+        try:
+            erg = next((x for x in m.get("matchResults") or [] if x.get("resultTypeID") == 2), None) or (m.get("matchResults") or [None])[-1]
+            _LIGA_SPIELE.append({
+                "zeit": m["matchDateTime"], "tag": (m.get("group") or {}).get("groupOrderID", 0),
+                "heim": m["team1"]["teamName"], "gast": m["team2"]["teamName"],
+                "fertig": bool(m.get("matchIsFinished")) and erg is not None,
+                "tore": (erg["pointsTeam1"], erg["pointsTeam2"]) if erg else None})
+        except (KeyError, TypeError, AttributeError):
+            continue   # unvollständiges Spiel überspringen, der Rest zählt
+    return _LIGA_SPIELE
+
+
+def _datum_kurz(iso: str) -> str:
+    d = datetime.datetime.fromisoformat(iso)
+    return f'{["Mo","Di","Mi","Do","Fr","Sa","So"][d.weekday()]} {d.day:02d}.{d.month:02d}. {d.hour:02d}:{d.minute:02d}'
+
+
+def _verein_spiele(voll: str):
+    mine = [m for m in liga_spiele() if voll in (m["heim"], m["gast"])]
+    mine.sort(key=lambda m: m["zeit"])
+    ergebnisse = [m for m in mine if m["fertig"]][-5:][::-1]
+    naechste = [m for m in mine if not m["fertig"]][:3]
+    return naechste, ergebnisse
+
+
+def _verein_faq(team_name: str, kurz: str, feed: list, naechste: list, tiefe: str = "../") -> tuple:
+    e = _html_esc
+    fragen = []
+    if naechste:
+        m = naechste[0]
+        gegner = m["gast"] if m["heim"] == team_name else m["heim"]
+        ort = "zu Hause" if m["heim"] == team_name else "auswärts"
+        fragen.append((f"Wann spielt {team_name} als Nächstes?",
+                       f'{e(_datum_kurz(m["zeit"]))} Uhr {ort} gegen {e(gegner)} (3. Liga).'))
+    transfers = [a for a in feed if kurz in (a.get("vereine") or []) and a.get("kategorie") == "transfer"
+                 and Path(a["pfad"]).exists()][:3]
+    if transfers:
+        fragen.append((f"Welche Transfers gibt es bei {team_name}?", "Die neuesten Meldungen: " + "; ".join(
+            f'<a href="{tiefe}{e(a["pfad"])}">{e(a["titel"])}</a>' for a in transfers) + "."))
+    verletzt = [a for a in feed if kurz in (a.get("vereine") or []) and a.get("kategorie") == "verletzung"
+                and Path(a["pfad"]).exists()][:3]
+    if verletzt:
+        fragen.append((f"Wer fällt bei {team_name} aus?", "Die neuesten Meldungen: " + "; ".join(
+            f'<a href="{tiefe}{e(a["pfad"])}">{e(a["titel"])}</a>' for a in verletzt) + "."))
+    return _faq(fragen)
+
+
+def verein_seiten():
+    e = _html_esc
+    try:
+        feed = json.loads(FEED_JSON.read_text(encoding="utf-8"))
+    except Exception as ex:
+        print(f"⚠️  verein_seiten: {ex}")
+        return
+    base = SEITE_URL
+    Path("verein").mkdir(exist_ok=True)
+    uebersicht = []
+    for kurz, stem, voll, _keys in VEREINE:
+        news = [a for a in feed if kurz in (a.get("vereine") or []) and a.get("pfad") and a.get("datum") and Path(a["pfad"]).exists()][:40]
+        naechste, ergebnisse = _verein_spiele(voll)
+        if not naechste and not ergebnisse and liga_spiele():
+            print(f"⚠️  Keine Spiele für {voll}: stimmt der Name mit OpenLigaDB überein?")
+        news_html = "".join(
+            f'<a href="../{e(a["pfad"])}"><span>{e(a["titel"])}</span><small>{e(a["datum"].split(" ")[0])}</small></a>'
+            for a in news) or "<p>Noch keine Meldungen.</p>"
+        def zeile(m):
+            erg = f'{m["tore"][0]}:{m["tore"][1]}' if m["fertig"] else _datum_kurz(m["zeit"])
+            return f'<a href="../index.html#tabelle"><span>{e(m["heim"])} – {e(m["gast"])}</span><small>{e(erg)}</small></a>'
+        spiele_html = ""
+        if naechste:
+            spiele_html += '<h2 class="sp-h2">Nächste Spiele</h2><div class="lo-sp-news sp-news">' + "".join(zeile(m) for m in naechste) + "</div>"
+        if ergebnisse:
+            spiele_html += '<h2 class="sp-h2">Letzte Ergebnisse</h2><div class="lo-sp-news sp-news">' + "".join(zeile(m) for m in ergebnisse) + "</div>"
+        faq_html, faq_ld = _verein_faq(voll, kurz, feed, naechste)
+        titel = f"{voll}: News, Spielplan und Ergebnisse | Ligaoutsider 3. Liga"
+        beschr = f"Aktuelle News zu {voll}: Verletzungen, Transfers, nächste Spiele und Ergebnisse der 3. Liga. Täglich aktualisiert."
+        url = f"{base}/verein/{stem}.html"
+        ld = json.dumps({"@context": "https://schema.org", "@type": "SportsTeam", "name": voll, "sport": "Fußball",
+                         "url": url, "logo": f"{base}/logos/{stem}.png"}, ensure_ascii=False)
+        inhalt = f"""
+    <div class="sp-kopf"><img src="../logos/{stem}.png" alt="{e(voll)}" width="72" height="72" style="object-fit:contain">
+      <div><h1>{e(voll)}</h1><p>Aktuelle News, Spielplan und Ergebnisse der 3. Liga</p></div></div>
+    <h2 class="sp-h2">Aktuelle News zu {e(voll)}</h2>
+    <div class="lo-sp-news sp-news">{news_html}</div>
+    {spiele_html}
+    {faq_html}
+    <p class="sp-links"><a href="../index.html">Alle News →</a><a href="../archiv.html">Alle Artikel →</a></p>"""
+        seite = _seite(titel, beschr, url, inhalt, head_extra=f'<script type="application/ld+json">{ld}</script>\n' + faq_ld, tiefe="../")
+        seite = seite.replace(f'href="../verein/{stem}.html" class="team-chip"', f'href="../verein/{stem}.html" class="team-chip active"', 1)
+        Path(f"verein/{stem}.html").write_text(seite, encoding="utf-8")
+        uebersicht.append((voll, stem, f"logos/{stem}.png", len(news)))
+    uebersicht.sort()
+    zeilen = "".join(f'<a href="{s}.html" style="display:flex;align-items:center;gap:12px"><img src="../{e(l)}" alt="" width="28" height="28" '
+                     f'style="object-fit:contain"><span>{e(n)}</span></a>' for n, s, l, _ in uebersicht)
+    inhalt = f"""
+    <h1>Alle 20 Vereine der 3. Liga</h1><p>News, Spielplan und Ergebnisse zu jedem Verein.</p>
+    <div class="lo-sp-news sp-news">{zeilen}</div>"""
+    Path("verein/index.html").write_text(_seite("3.-Liga-Vereine: News, Spielplan, Ergebnisse | Ligaoutsider 3. Liga",
+        "Alle 20 Vereine der 3. Liga mit aktuellen News, Spielplan und Ergebnissen.", f"{base}/verein/", inhalt, tiefe="../"),
+        encoding="utf-8")
+    print(f"✅ {len(uebersicht)} Vereinsseiten geschrieben")
+
+
+
+
+# ─── Fragen, die Google zu Bundesliga-Suchen anzeigt ("Weitere Fragen") ───────
+# Antworten nur aus eigenen Daten (aufstellung.json, feed.json, spieler_db.json), ohne KI.
+# Senderverteilung 2025/26 bis 2028/29 laut DFL-Vergabe: Freitag Sky, Samstag Einzelspiele und
+# Topspiel Sky, Samstagskonferenz DAZN, Sonntag DAZN; Sat.1 zeigt ausgewählte Spiele frei.
+
+def _sender(anstoss_text: str) -> str:
+    m = re.match(r"(Mo|Di|Mi|Do|Fr|Sa|So)\s+\S+\s+(\d{1,2}):(\d{2})", anstoss_text or "")
+    if not m:
+        return "Sky oder DAZN"
+    tag, std = m.group(1), int(m.group(2))
+    if tag == "Fr":
+        return "Sky"
+    if tag == "Sa":
+        return "Sky (Topspiel)" if std >= 17 else "Sky (Einzelspiel), DAZN (Konferenz)"
+    if tag == "So":
+        return "DAZN"
+    return "Sky oder DAZN"
+
+
+def _faq(fragen: list) -> tuple:
+    """fragen = [(frage, antwort_html)] → (sichtbarer Block, JSON-LD FAQPage)."""
+    fragen = [(f, a) for f, a in fragen if f and a]
+    if not fragen:
+        return "", ""
+    html_block = '<h2 class="sp-h2">Häufige Fragen</h2><div class="faq">' + "".join(
+        f'<details class="faq-item"><summary>{_html_esc(f)}</summary><div class="faq-a">{a}</div></details>'
+        for f, a in fragen) + "</div>"
+    ld = json.dumps({"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+        {"@type": "Question", "name": f, "acceptedAnswer": {"@type": "Answer", "text": re.sub(r"<[^>]+>", "", a)}}
+        for f, a in fragen]}, ensure_ascii=False)
+    return html_block, f'<script type="application/ld+json">{ld}</script>\n'
+
+
+def _aufstellung_daten() -> dict:
+    try:
+        return json.loads(Path("aufstellung.json").read_text(encoding="utf-8"))
+    except Exception:
+        return {"partien": [], "teams": {}}
+
+
+def _ausfall_text(team: dict, tiefe: str = "../") -> str:
+    e = _html_esc
+    teile = []
+    for sp in (team.get("ausfall") or [])[:8]:
+        teile.append(f'{e(sp["name"])} ({e(sp.get("grund") or "fehlt")})')
+    fraglich = [e(sp["name"]) for sp in (team.get("fraglich") or [])[:6]]
+    txt = ("Ausfälle: " + "; ".join(teile) + ".") if teile else "Aktuell sind keine Ausfälle gemeldet."
+    if fraglich:
+        txt += " Fraglich: " + ", ".join(fraglich) + "."
+    return txt
+
+
+def bundesliga_heute_seite():
+    """bundesliga-heute.html: Spiele des Tages (sonst des nächsten Spieltags) mit Anstoß, Sender, Ausfällen."""
+    e = _html_esc
+    aufst = _aufstellung_daten()
+    partien = aufst.get("partien") or []
+    if not partien:
+        print("⚠️  bundesliga_heute: keine Partien")
+        return
+    heute = datetime.datetime.now(ZoneInfo("Europe/Berlin")).strftime("%d.%m.")
+    heutige = [p for p in partien if heute in p.get("anstoss_text", "")]
+    ist_heute = bool(heutige)
+    if not heutige:   # kein Spiel heute: nächster Spieltag
+        st = partien[0].get("spieltag")
+        heutige = [p for p in partien if p.get("spieltag") == st]
+    tag_txt = "heute" if ist_heute else f"am {heutige[0]['anstoss_text'].split(' ')[0]} {heutige[0]['anstoss_text'].split(' ')[1]}"
+    zeilen = "".join(
+        f'<a href="aufstellung.html?team={e(p["heim"])}"><span>{e(p["heim"])} – {e(p["gast"])}</span>'
+        f'<small>{e(p["anstoss_text"])} · {e(_sender(p["anstoss_text"]))}</small></a>' for p in heutige)
+    spiele_txt = "; ".join(f'{e(p["heim"])} gegen {e(p["gast"])} ({e(p["anstoss_text"].split(" ")[-1])} Uhr)' for p in heutige)
+    abend = [p for p in heutige if int((re.search(r"(\d{1,2}):", p["anstoss_text"]) or [0, "0"])[1]) >= 17]
+    teams = aufst.get("teams") or {}
+    fragen = [
+        (f"Welche Bundesliga-Spiele finden {tag_txt} statt?", spiele_txt + "."),
+        (f"Wo laufen die Bundesliga-Spiele {tag_txt} im TV?",
+         "; ".join(f'{e(p["heim"])} – {e(p["gast"])}: {e(_sender(p["anstoss_text"]))}' for p in heutige)
+         + ". Die Rechte 2025/26 bis 2028/29: Freitag Sky, Samstag Einzelspiele und Topspiel Sky, Samstagskonferenz DAZN, Sonntag DAZN."),
+        ("Welche Bundesliga-Spiele laufen im Free-TV?",
+         "Live frei empfangbar zeigt Sat.1 nur ausgewählte Spiele, etwa die Saisoneröffnung. Highlights aller Spiele laufen in der "
+         "Sportschau (ARD, Samstag) und im Aktuellen Sportstudio (ZDF)."),
+    ]
+    if abend:
+        fragen.append((f"Wo kann ich {tag_txt} Abend Bundesliga sehen?" if ist_heute else "Welches Bundesliga-Spiel läuft am Abend?",
+                       "; ".join(f'{e(p["heim"])} – {e(p["gast"])} um {e(p["anstoss_text"].split(" ")[-1])} Uhr bei {e(_sender(p["anstoss_text"]))}' for p in abend) + "."))
+    for p in heutige:
+        for t in (p["heim"], p["gast"]):
+            if t in teams and (teams[t].get("ausfall") or teams[t].get("fraglich")):
+                fragen.append((f"Wer fehlt bei {t}?", _ausfall_text(teams[t], tiefe="")))
+    faq_html, faq_ld = _faq(fragen)
+    titel = f"Bundesliga {'heute' if ist_heute else 'am Spieltag'}: Spiele, Anstoß, TV-Sender | Ligaoutsider.de"
+    beschr = f"Welche Bundesliga-Spiele laufen {tag_txt}? Alle Partien mit Anstoßzeit, TV-Sender (Sky, DAZN) und Ausfällen."
+    inhalt = f"""
+    <h1>Bundesliga {e(tag_txt)}</h1>
+    <p>Alle Spiele mit Anstoß und Sender, dazu die Ausfälle. Stand: {datetime.datetime.now(ZoneInfo("Europe/Berlin")).strftime("%d.%m.%Y, %H:%M")} Uhr.</p>
+    <div class="lo-sp-news sp-news">{zeilen}</div>
+    <p class="sp-links"><a href="aufstellung.html">Voraussichtliche Aufstellungen →</a><a href="tippspiel.html">Jetzt tippen →</a>
+      <a href="bundesliga-fragen.html">Weitere Bundesliga-Fragen →</a></p>
+    {faq_html}"""
+    Path("bundesliga-heute.html").write_text(
+        _seite(titel, beschr, "https://3liga.ligaoutsider.de/bundesliga-heute.html", inhalt, head_extra=faq_ld, tiefe=""), encoding="utf-8")
+    print(f"✅ bundesliga-heute.html ({len(heutige)} Spiele, {len(fragen)} Fragen)")
+
+
+def bundesliga_fragen_seite():
+    """bundesliga-fragen.html: dauerhafte Fragen, Marktwerte aus spieler_db.json, Rest geprüfte Fakten."""
+    e = _html_esc
+    try:
+        db = json.loads(Path("spieler_db.json").read_text(encoding="utf-8"))
+    except Exception as ex:
+        print(f"⚠️  bundesliga_fragen: {ex}")
+        return
+    def _mw(sp):
+        m = re.match(r"([\d,]+)\s*(Mio|Tsd)", sp.get("tm_marktwert") or "")
+        return float(m.group(1).replace(",", ".")) * (1 if m.group(2) == "Mio" else 0.001) if m else 0
+    alle = [(sp, tn) for tn, t in db["teams"].items() for sp in t["spieler"]]
+    top = sorted(alle, key=lambda x: -_mw(x[0]))[:5]
+    slugs = spieler_slugs(db)
+    top_txt = "; ".join(f'<a href="spieler/{slugs[sp["tm_id"]]}.html">{e(sp["name"])}</a> ({e(tn)}, {e(sp["tm_marktwert"])})'
+                        for sp, tn in top if sp.get("tm_id") in slugs)
+    fragen = [
+        ("Wer ist der wertvollste Spieler der Bundesliga?",
+         f"Nach Marktwert (Transfermarkt, Stand {e(str(db.get('updated', ''))[:10])}): {top_txt}."),
+        ("Welche Bundesliga-Vereine sind noch nie abgestiegen?",
+         "Unter den aktuellen Erstligisten sind FC Bayern München, Bayer 04 Leverkusen, RB Leipzig, TSG Hoffenheim und "
+         "der 1. FC Union Berlin noch nie aus der Bundesliga abgestiegen. Die SV Elversberg spielt ihre erste Bundesliga-Saison."),
+        ("Welcher Verein spielt am längsten ununterbrochen in der Bundesliga?",
+         "Der FC Bayern München, seit seinem Aufstieg 1965. Der Hamburger SV hielt den Rekord als Gründungsmitglied bis zu seinem Abstieg 2018."),
+        ("Wer ist Rekordmeister der Bundesliga?", "Der FC Bayern München mit den meisten Meistertiteln."),
+        ("Wo laufen die Bundesliga-Spiele im TV?",
+         "Von 2025/26 bis 2028/29: Freitag Sky, Samstag Einzelspiele und Topspiel Sky, Samstagskonferenz DAZN, Sonntag DAZN. "
+         'Sat.1 zeigt ausgewählte Spiele frei. <a href="bundesliga-heute.html">Spiele und Sender heute →</a>'),
+    ]
+    faq_html, faq_ld = _faq(fragen)
+    inhalt = f"""
+    <h1>Bundesliga-Fragen und Antworten</h1>
+    <p>Kurze Antworten auf häufige Fragen zur Bundesliga, mit aktuellen Marktwerten aus unserer Spielerdatenbank.</p>
+    {faq_html}
+    <p class="sp-links"><a href="bundesliga-heute.html">Bundesliga heute →</a><a href="verein/">Alle Vereine →</a></p>"""
+    Path("bundesliga-fragen.html").write_text(
+        _seite("Bundesliga-Fragen: Marktwerte, Rekorde, TV | Ligaoutsider.de",
+               "Wer ist der wertvollste Bundesliga-Spieler, wer ist nie abgestiegen, wo laufen die Spiele? Antworten zur Bundesliga.",
+               "https://3liga.ligaoutsider.de/bundesliga-fragen.html", inhalt, head_extra=faq_ld, tiefe=""), encoding="utf-8")
+    print("✅ bundesliga-fragen.html")
+
+
+def spieler_seiten():
+    """spieler/<slug>.html für alle Kaderspieler plus spieler/index.html als Übersicht."""
+    e = _html_esc
+    try:
+        db = json.loads(Path("spieler_db.json").read_text(encoding="utf-8"))
+    except Exception as ex:
+        print(f"⚠️  spieler_seiten: {ex}")
+        return
+    try:
+        news = json.loads(Path("spieler_news.json").read_text(encoding="utf-8"))
+    except Exception:
+        news = {}
+    slugs = spieler_slugs(db)
+    SPIELER_SEITEN_ORDNER.mkdir(exist_ok=True)
+    # Kurzübersicht für "Mein Bereich" (Favoriten): tm_id -> Name, Verein, Position, Slug
+    Path("spieler_kurz.json").write_text(json.dumps({
+        str(sp["tm_id"]): {"n": sp["name"], "v": team_name, "l": Path(team.get("logo", "")).stem,
+                           "p": sp.get("position") or sp.get("gruppe") or "", "s": slugs[sp["tm_id"]],
+                           "mw": sp.get("tm_marktwert") or "", "nr": sp.get("nr") or ""}
+        for team_name, team in db["teams"].items() for sp in team["spieler"]}, ensure_ascii=False, separators=(",", ":")),
+        encoding="utf-8")
+    base = "https://3liga.ligaoutsider.de"
+    geschrieben = 0
+    heute = datetime.date.today()
+
+    def alter(geb):
+        m = re.match(r"(\d\d)\.(\d\d)\.(\d{4})", geb or "")
+        if not m:
+            return None
+        g = datetime.date(int(m.group(3)), int(m.group(2)), int(m.group(1)))
+        return heute.year - g.year - ((heute.month, heute.day) < (g.month, g.day))
+
+    for team_name, team in db["teams"].items():
+        for sp in team["spieler"]:
+            slug = slugs[sp["tm_id"]]
+            url = f"{base}/spieler/{slug}.html"
+            kb, cm = sp.get("kickbase") or {}, sp.get("comunio") or {}
+            a = alter(sp.get("geboren"))
+            nation = " / ".join(sp.get("nation") or [])
+            pos = sp.get("position") or sp.get("gruppe") or "Spieler"
+
+            beschreibung = (f"{sp['name']} ({team_name}): {pos}"
+                            + (f", {a} Jahre" if a else "") + (f", {nation}" if nation else "")
+                            + (f". Kickbase-Marktwert {_mio(kb.get('mw'))}" if kb.get("mw") else "")
+                            + (f", Comunio {_mio(cm.get('mw'))}" if cm.get("mw") else "")
+                            + ". Aktuelle News, Verletzungen und Aufstellungschancen.")
+            zeilen = [
+                ("Verein", team_name), ("Position", pos), ("Rückennummer", sp.get("nr")),
+                ("Geboren", sp.get("geboren") + (f" ({a} Jahre)" if a else "") if sp.get("geboren") else ""),
+                ("Nationalität", nation), ("Starker Fuß", sp.get("fuss")),
+                ("Vertrag bis", sp.get("vertrag_bis")), ("Marktwert (Transfermarkt)", sp.get("tm_marktwert")),
+                ("Kickbase", " · ".join(x for x in (kb.get("position"), _mio(kb.get("mw"))) if x)),
+                ("Comunio", " · ".join(x for x in (cm.get("position"), _mio(cm.get("mw"))) if x)),
+            ]
+            _stem = Path(team.get("logo", "")).stem
+            tabelle = "".join(
+                f"<div><span>{e(k)}</span><span>"
+                + (f'<a href="../verein/{_stem}.html">{e(v)}</a>' if k == "Verein" and _stem else e(v))
+                + "</span></div>" for k, v in zeilen if v)
+            hinweise = "".join(f"<div>{e(h)}</div>" for h in sp.get("tm_hinweise") or [])
+            news_html = "".join(
+                f'<a href="../{e(n["pfad"])}"><span>{e(n["titel"])}</span><small>{e(n["datum"].split(" ")[0])}</small></a>'
+                for n in news.get(str(sp["tm_id"]), []))
+            mitspieler = "".join(
+                f'<a href="{slugs[m["tm_id"]]}.html">{e(m["name"])}</a>'
+                for m in team["spieler"] if m["tm_id"] != sp["tm_id"])
+
+            person = {
+                "@context": "https://schema.org", "@type": "Person", "name": sp["name"], "url": url,
+                "jobTitle": "Fußballspieler", "memberOf": {"@type": "SportsTeam", "name": team_name, "sport": "Fußball"},
+            }
+            m = re.match(r"(\d\d)\.(\d\d)\.(\d{4})", sp.get("geboren") or "")
+            if m:
+                person["birthDate"] = f"{m.group(3)}-{m.group(2)}-{m.group(1)}"
+            if nation:
+                person["nationality"] = [{"@type": "Country", "name": n} for n in sp.get("nation")]
+            # Spielerbild aus dem Bilderpool (freies Foto, Namensnennung hochkant)
+            bild_html = ""
+            _bi = spielerbild([sp["name"]])
+            if _bi:
+                _tm, _info = _bi
+                person["image"] = f"{base}/bilder/spieler/{_tm}.jpg"
+                bild_html = (
+                    f'<figure class="artikel-bild"><img src="../bilder/spieler/{_tm}.jpg" width="1200" height="500" '
+                    f'alt="{e(sp["name"])}" loading="lazy"/><figcaption class="bild-credit">Foto: '
+                    f'<a href="{e(_info["quelle"])}" target="_blank" rel="noopener">{e(_info["fotograf"])}</a>, bearbeitet · '
+                    + (f'<a href="{e(_info["lizenz_url"])}" target="_blank" rel="noopener">{e(_info["lizenz"])}</a>'
+                       if _info.get("lizenz_url") else e(_info["lizenz"]))
+                    + '</figcaption></figure>')
+            head = f'  <script type="application/ld+json">{json.dumps(person, ensure_ascii=False)}</script>\n'
+
+            inhalt = f"""    <a href="index.html" class="artikel-back">← Alle Spieler</a>
+    <div class="sp-kopf">
+      <img src="../{e(team['logo'])}" alt="{e(team_name)}">
+      <div>
+        <h1>{e(sp['name'])}{' <span title="Kapitän">(C)</span>' if sp.get('kapitaen') else ''}</h1>
+        <p>{e(pos)} · {e(team_name)}</p>
+        <button class="fav-btn" data-fav-tm="{sp['tm_id']}" hidden>☆ Zu Favoriten</button>
+      </div>
+    </div>
+    {bild_html}
+    {f'<div class="sp-hinweis">{hinweise}</div>' if hinweise else ''}
+    <div class="sp-tabelle">{tabelle}</div>
+    <h2 class="sp-h2">Aktuelle News zu {e(sp['name'])}</h2>
+    <div class="lo-sp-news sp-news">{news_html or '<p class="sp-leer">Noch keine Artikel.</p>'}</div>
+    <p class="sp-links"><a href="../aufstellung.html?team={e(team_name)}">Voraussichtliche Elf fürs nächste Bundesliga-Spiel →</a>
+      <a href="../elf.html">In „Meine Elf“ aufstellen →</a></p>
+    <h2 class="sp-h2">Kader {e(team_name)}</h2>
+    <div class="sp-mitspieler">{mitspieler}</div>"""
+
+            html_neu = _seite(f"{sp['name']} – {team_name}: Profil, Marktwert, News | Ligaoutsider.de",
+                              beschreibung[:300], url, inhalt, head, kommentar_id=f"spieler-{sp['tm_id']}")
+            datei = SPIELER_SEITEN_ORDNER / f"{slug}.html"
+            if not datei.exists() or datei.read_text(encoding="utf-8") != html_neu:
+                datei.write_text(html_neu, encoding="utf-8")
+                geschrieben += 1
+
+    # Übersicht aller Spieler nach Verein (interne Verlinkung für Google)
+    bloecke = "".join(
+        f'<section class="sp-team"><h2><img src="../{e(t["logo"])}" alt="">{e(tn)}</h2><div class="sp-mitspieler">'
+        + "".join(f'<a href="{slugs[x["tm_id"]]}.html">{e(x["name"])}<small>{e(x.get("position") or "")}</small></a>'
+                  for x in t["spieler"]) + "</div></section>"
+        for tn, t in sorted(db["teams"].items()))
+    uebersicht = _seite("Alle Bundesliga-Spieler 2026/27 – Profile, Marktwerte, News | Ligaoutsider.de",
+                        "Alle Spieler der 18 Bundesliga-Kader mit Position, Marktwert bei Kickbase und Comunio, "
+                        "Verletzungen und aktuellen News.",
+                        f"{base}/spieler/index.html",
+                        f'    <h1 class="sp-titel">Alle Bundesliga-Spieler</h1>\n{bloecke}')
+    (SPIELER_SEITEN_ORDNER / "index.html").write_text(uebersicht, encoding="utf-8")
+    print(f"✅ Spielerseiten: {len(slugs)} Spieler, {geschrieben} geändert")
+
+# ─── Aufstellungs-Check ───────────────────────────────────────────────────────
+# Kickbase-Statuscodes: 0 fit, 2 angeschlagen; alles andere
+# (1 verletzt, 8/16/32 Sperren, 256 nicht im Kader …) heißt Ausfall.
+AMPEL_GELB = {2}  # 4 = Aufbautraining: noch nicht im Teamtraining, also Ausfall
+STATUS_TEXT = {1: "verletzt", 2: "angeschlagen", 4: "im Aufbautraining"}
+POS_REIHE = {"Torwart": "tw", "Abwehr": "abw", "Mittelfeld": "mf", "Sturm": "st"}
+
+
+def _nachname(name):
+    import unicodedata
+    teil = (name or "").split()[-1] if (name or "").split() else ""
+    return "".join(c for c in unicodedata.normalize("NFKD", teil.lower()) if not unicodedata.combining(c))
+
+
+def _news_hinweise(tage=6):
+    """Spielerstatus aus den Artikeln der letzten Tage, neuester Hinweis zuerst."""
+    try:
+        feed = json.loads(FEED_JSON.read_text(encoding="utf-8"))
+    except Exception:
+        return {}, {}
+    grenze = datetime.datetime.now() - datetime.timedelta(days=tage)
+    hinweise, formationen = {}, {}
+    for e in feed:  # feed ist neueste zuerst sortiert
+        try:
+            dt = datetime.datetime.strptime(e["datum"], "%d.%m.%Y %H:%M")
+        except Exception:
+            continue
+        if dt < grenze:
+            continue
+        for h in e.get("spielerstatus") or []:
+            logo = _comunio_logo(KLUB_FILTERNAME.get(h.get("klub"), h.get("klub")) or "")
+            key = (logo, _nachname(h["spieler"]))
+            hinweise.setdefault(key, {**h, "pfad": e["pfad"], "datum": e["datum"]})
+        f = (e.get("formation") or "").strip()
+        if re.fullmatch(r"\d(-\d){2,3}", f) and e.get("hauptklub"):
+            logo = _comunio_logo(KLUB_FILTERNAME.get(e["hauptklub"], e["hauptklub"]))
+            formationen.setdefault(logo, {"formation": f, "pfad": e["pfad"]})
+    return hinweise, formationen
+
+
+def _formation_aus_statistik(kader):
+    """Durchschnittliche Startelf-Besetzung je Positionsgruppe, auf 10 Feldspieler gerundet."""
+    spiele = max((p["spiele_team"] for p in kader), default=0)
+    anteile = {}
+    for pos in ("abw", "mf", "st"):
+        jetzt = sum(p["starts"] for p in kader if p["reihe"] == pos) / spiele if spiele else 0
+        vor = sum(p["starts_vor"] for p in kader if p["reihe"] == pos) / 34
+        anteile[pos] = 0.7 * jetzt + 0.3 * vor if spiele else vor
+    # Kickbase führt offensive Außenverteidiger als Abwehr und Flügelspieler als Sturm –
+    # daher eine Fünferkette bzw. drei Stürmer erst bei klarer Mehrheit
+    abw = anteile["abw"]
+    st = anteile["st"]
+    anz = {"abw": 3 if abw < 3.4 else (5 if abw >= 4.85 else 4),
+           "st": 1 if st < 1.45 else (3 if st >= 2.6 else 2)}
+    anz["mf"] = 10 - anz["abw"] - anz["st"]
+    return anz
+
+
+def aufstellung_fetch():
+    """Voraussichtliche Startelf je Team aus Kickbase-Daten (BaseXI) plus News-Hinweisen."""
+    import requests as _req
+    session = _req.Session()
+    session.headers.update({"User-Agent": "Mozilla/5.0", "Referer": "https://www.base-xi.de/players"})
+    session.get("https://www.base-xi.de/players", timeout=10)
+    daten = session.get("https://www.base-xi.de/api/players?comp=bl1&t=1", timeout=20).json()
+    hinweise, formationen = _news_hinweise()
+
+    fremd = {}
+    qs = _req.Session()
+    qs.headers.update({"User-Agent": QUELLEN_UA, "Accept-Language": "de-DE,de;q=0.9"})
+    for quelle, abruf in (("ligainsider", _ligainsider_prognosen), ("rotowire", _rotowire_prognosen)):
+        try:
+            daten_q = abruf(qs)
+            print(f"  → {quelle}: {len(daten_q)} Teams")
+            for logo, d in daten_q.items():
+                fremd.setdefault(logo, {})[quelle] = d
+        except Exception as ex:
+            print(f"  ⚠️ {quelle} nicht verfügbar: {ex}")
+
+    # Spieler-Datenbank: echte Kader, genaue Positionen, Transfermarkt-Hinweise
+    db = {}
+    try:
+        for t in json.loads(Path("spieler_db.json").read_text(encoding="utf-8"))["teams"].values():
+            for e in t["spieler"]:
+                if e.get("kickbase"):
+                    db[str(e["kickbase"]["id"])] = e
+    except Exception as ex:
+        print(f"⚠️  spieler_db.json nicht nutzbar: {ex}")
+
+    teams = {}
+    for p in daten:
+        team = p.get("teamName") or ""
+        if not team or p.get("position") not in POS_REIHE:
+            continue
+        if db and str(p.get("id")) not in db:
+            continue  # nur Kickbase kennt ihn – kein Profikader
+        teams.setdefault(team, []).append(p)
+
+    spiele, ergebnis_teams = {}, {}
+    for team, roh in teams.items():
+        logo = _comunio_logo(team)
+        spiele_team = max((p.get("matchesPlayed") or 0) for p in roh)
+        kader = []
+        for p in roh:
+            status = p.get("status") or 0
+            ampel = "gruen" if status == 0 else ("gelb" if status in AMPEL_GELB else "rot")
+            roh_text = p.get("statusText") or ""
+            text = roh_text.lower()
+            naechster = ((p.get("match_data") or {}).get("next_abbr") or "").upper()
+            # "verpasst" zählt nur, wenn damit ausdrücklich das nächste Spiel gemeint ist
+            # ("verpasst KOE (H)" bei nächstem Gegner KOE). Alles andere ist veraltet
+            # oder betrifft spätere Spiele – dann entscheidet der Statuscode.
+            genannt = re.findall(r"verpasst\b[^,;.]*?\b([A-Z0-9]{2,4}) \((?:H|A)\)", roh_text)
+            # "Rückkehr gegen B04 (H)": erst dann wieder dabei – beim nächsten Gegner fraglich, sonst Ausfall
+            rueckkehr = re.findall(r"rückkehr\b[^,;.]*?\b([A-Z0-9]{2,4}) \((?:H|A)\)", roh_text, re.I)
+            if naechster and naechster in genannt:
+                ampel = "rot"
+            elif rueckkehr and ampel != "gruen" or rueckkehr and status == 0 and text:
+                ampel = "gelb" if naechster in [r.upper() for r in rueckkehr] else "rot"
+            elif re.search(r"fällt\b.*\baus\b|ausfall|nächste woche|wochen|monate|saisonaus|kreuzband"
+                           # noch nicht im Mannschaftstraining → spielt am Wochenende nicht
+                           r"|individuell|laufprogramm|aufbautraining|reha\b|keine option"
+                           r"|(nach|vor) der lsp|rückkehr ins (team|mannschafts)training|trainingseinstieg", text):
+                ampel = "rot"
+            elif status == 0 and text:
+                # Kickbase lässt den Status oft auf 0, obwohl der Text eine Blessur meldet
+                if re.search(r"fällt .*aus", text):
+                    ampel = "rot"
+                elif not re.search(r"soll morgen|wieder (voll )?im training|zurück im", text):
+                    ampel = "gelb"
+            eintrag = db.get(str(p.get("id"))) or {}
+            anstoss = ((p.get("next_match") or {}).get("date_iso") or "")[:10]
+            tm_grund = ""
+            for h in eintrag.get("tm_hinweise", []):
+                bis = re.search(r"(?:bis|am) (\d\d)\.(\d\d)\.(\d{4})", h)
+                datum = f"{bis.group(3)}-{bis.group(2)}-{bis.group(1)}" if bis else ""
+                if "sperre" in h.lower():
+                    # nur Bundesliga- oder wettbewerbsübergreifende Sperren zählen
+                    if re.search(r"bundesliga|wettbewerbsübergreifend", h, re.I) and (not datum or not anstoss or datum >= anstoss):
+                        ampel, tm_grund = "rot", h.split(" – ")[0] + (f" bis {bis.group(1)}.{bis.group(2)}." if bis else "")
+                elif "Rückkehr vsl." in h and datum and anstoss and datum > anstoss:
+                    ampel, tm_grund = "rot", h
+            grund = roh_text.replace("AchKrankes", "Achilles").strip()
+            # Hinweise auf andere Spiele als das nächste sind für die Anzeige irreführend
+            grund = re.sub(r"\s*[-,]?\s*verpasst\b[^,;.]*?\b([A-Z0-9]{2,4}) \((?:H|A)\)",
+                           lambda m: m.group(0) if m.group(1) == naechster else "", grund).strip(" -,")
+            grund = tm_grund or grund or STATUS_TEXT.get(status, "" if status == 0 else "fehlt laut Kickbase")
+            news = hinweise.get((logo, _nachname(p.get("name"))))
+            if news:
+                grund = news.get("grund") or grund
+                ampel = {"faellt_aus": "rot", "fraglich": "gelb"}.get(news["status"], "gruen")
+            kader.append({
+                "name": eintrag.get("name") or p.get("name", ""),
+                "reihe": POS_REIHE.get(eintrag.get("gruppe")) or POS_REIHE[p["position"]],
+                "pos": eintrag.get("position", ""),
+                "nr": eintrag.get("nr") or p.get("shirtNumber"), "ampel": ampel, "grund": grund,
+                "news": news["pfad"] if news else "", "angekuendigt": bool(news and news["status"] == "startelf"),
+                "starts": p.get("starts") or 0, "spiele": p.get("matchesPlayed") or 0,
+                "starts_vor": p.get("startsPrevSeason") or 0, "minuten": p.get("avgMinutes") or 0,
+                "spiele_team": spiele_team, "mw": p.get("marketValue") or 0,
+            })
+
+        quellen_team = fremd.get(logo, {})
+        zuordnung = {}
+        for quelle, d in quellen_team.items():
+            for art in ("start", "wackel", "alt"):
+                for n in d.get(art, []):
+                    k = _finde_spieler(n, kader)
+                    if k is not None:
+                        zuordnung.setdefault(id(k), {})[quelle] = art
+
+        def wert(p):
+            """Mittel aus LigaInsider, RotoWire und eigenem Modell."""
+            if p["ampel"] == "rot":
+                return 0.0
+            anteile = [(modell(p), 0.25)]
+            z = zuordnung.get(id(p), {})
+            if "ligainsider" in quellen_team:
+                anteile.append(({"start": 1.0, "wackel": 0.6, "alt": 0.35}.get(z.get("ligainsider"), 0.03), 0.4))
+            if "rotowire" in quellen_team:
+                anteile.append((1.0 if z.get("rotowire") == "start" else 0.03, 0.35))
+            w = sum(a * g for a, g in anteile) / sum(g for _, g in anteile)
+            if p["ampel"] == "gelb":
+                w = min(w, 0.6)
+            if p["angekuendigt"]:
+                w = max(w, 0.9)
+            return round(min(0.97, w), 3)
+
+        def modell(p):
+            """Startelf-Wahrscheinlichkeit 0..1: Startquote dieser Saison, mit der
+            Vorsaison als Vorwissen geglättet (zählt wie zwei Spiele)."""
+            if p["ampel"] == "rot":
+                return 0.0
+            if p["angekuendigt"]:
+                return 0.95
+            vor = min(1, p["starts_vor"] / 30) if p["starts_vor"] else min(0.5, p["mw"] / 4e7)
+            # Wer in fast jedem seiner Einsätze begonnen hat, hat verpasste Spiele meist
+            # wegen Verletzung/Sperre gefehlt – die zählen nicht gegen ihn.
+            basis = spiele_team
+            if p["spiele"] and p["starts"] >= 0.75 * p["spiele"]:
+                basis = p["spiele"]
+            if not p["spiele"] and spiele_team >= 2:
+                # diese Saison noch keine Minute: Vorsaison zählt kaum
+                w = min(0.15, (2 * vor) / (spiele_team + 2) * 0.5)
+            else:
+                w = (p["starts"] + 2 * vor) / (basis + 2)
+            if p["ampel"] == "gelb":
+                w *= 0.5
+            return max(0.0, min(0.95, w))
+
+        verfuegbar = sorted([p for p in kader if p["ampel"] != "rot"], key=wert, reverse=True)
+        anz = _formation_aus_statistik(kader)
+        news_form = formationen.get(logo)
+        form_txt = f"{anz['abw']}-{anz['mf']}-{anz['st']}"
+        if news_form:
+            teile = [int(x) for x in news_form["formation"].split("-")]
+            anz = {"abw": teile[0], "st": teile[-1], "mf": sum(teile[1:-1])}
+            form_txt = news_form["formation"]
+
+        # Elf: bester Torwart + zehn Feldspieler mit höchster Wahrscheinlichkeit,
+        # dabei 3–5 Verteidiger (eine Elf ohne Abwehr wäre offensichtlich falsch)
+        elf = {"tw": [p for p in verfuegbar if p["reihe"] == "tw"][:1], "abw": [], "mf": [], "st": []}
+        feld = [p for p in verfuegbar if p["reihe"] != "tw"]
+        abw_min = 4 if len([p for p in feld if p["reihe"] == "abw" and wert(p) >= 0.4]) >= 4 else 3
+        gewaehlt = [p for p in feld if p["reihe"] == "abw"][:abw_min]
+        for p in feld:
+            if len(gewaehlt) >= 10:
+                break
+            if p in gewaehlt:
+                continue
+            if p["reihe"] == "abw" and sum(q["reihe"] == "abw" for q in gewaehlt) >= 5:
+                continue
+            gewaehlt.append(p)
+        for p in gewaehlt:
+            elf[p["reihe"]].append(p)
+        in_elf = {id(p) for v in elf.values() for p in v}
+
+        def sauber(p, sicher=None):
+            q = {k: p[k] for k in ("name", "nr", "ampel", "grund", "news", "reihe", "pos")}
+            q["prozent"] = round(wert(p) * 100)
+            if not q["grund"] and p["ampel"] == "gruen":
+                if not spiele_team:
+                    q["grund"] = ""
+                elif not p["spiele"]:
+                    q["grund"] = "noch ohne Einsatz"
+                else:
+                    q["grund"] = f"{p['starts']} von {p['spiele']} Einsätzen in der Startelf · Ø {p['minuten']} min"
+                    if p["spiele"] < spiele_team:
+                        fehlt = spiele_team - p["spiele"]
+                        q["grund"] += f" · {fehlt} Spiel{'e' if fehlt > 1 else ''} ohne Einsatz"
+            if sicher is not None:
+                q["sicher"] = sicher
+            return q
+
+        ergebnis_teams[team] = {
+            "logo": logo, "formation": form_txt if news_form else "",
+            "quellen": sorted(quellen_team),
+            "formation_quelle": news_form["pfad"] if news_form else "",
+            "elf": {k: [sauber(p) for p in sorted(v, key=wert, reverse=True)] for k, v in elf.items()},
+            "bank": [sauber(p) for p in verfuegbar
+                     if id(p) not in in_elf and p["ampel"] == "gruen" and wert(p) >= 0.1][:9],
+            "fraglich": [sauber(p) for p in verfuegbar if p["ampel"] == "gelb" and id(p) not in in_elf],
+            "ausfall": [sauber(p) for p in sorted(kader, key=lambda p: -p["mw"]) if p["ampel"] == "rot"],
+        }
+
+        nm = roh[0].get("next_match") or {}
+        md = roh[0].get("match_data") or {}
+        if nm.get("date_iso") and md.get("home_game") is not None:
+            heim, gast = (team, md.get("next_opponent")) if md["home_game"] else (md.get("next_opponent"), team)
+            # date_iso ist nicht verlässlich zeitzonenbehaftet – "date" ist deutsche Ortszeit
+            tag = datetime.date.fromisoformat(nm["date_iso"][:10])
+            wt = ["Mo", "Di", "Mi", "Do", "Fr", "Sa", "So"][tag.weekday()]
+            spiele[(heim, gast)] = {"heim": heim, "gast": gast, "anstoss": nm["date_iso"],
+                                   "anstoss_text": f"{wt} {nm.get('date', '')}".strip(),
+                                   "spieltag": nm.get("matchday")}
+
+    # Gegnernamen aus match_data können von teamName abweichen ("FC Bayern" vs. "FC Bayern München")
+    def team_key(name):
+        logo = _comunio_logo(name)
+        return next((t for t in ergebnis_teams if ergebnis_teams[t]["logo"] == logo), name)
+
+    partien = {}
+    for sp in spiele.values():
+        heim, gast = team_key(sp["heim"]), team_key(sp["gast"])
+        partien[(heim, gast)] = {**sp, "heim": heim, "gast": gast}
+    partien = sorted(partien.values(), key=lambda s: s["anstoss"])
+
+    result = {
+        "updated": datetime.datetime.now(datetime.timezone.utc).isoformat(),
+        "spieltag": partien[0]["spieltag"] if partien else None,
+        "partien": partien,
+        "teams": ergebnis_teams,
+    }
+    Path("aufstellung.json").write_text(json.dumps(result, ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"✅ aufstellung.json geschrieben ({len(partien)} Partien, {len(ergebnis_teams)} Teams)")
+
+
+def kickbase_fetch():
+    """Kickbase-Daten via BaseXI (base-xi.de) holen — kein Login nötig."""
+    import requests as _req
+
+    session = _req.Session()
+    session.headers.update({"User-Agent": "Mozilla/5.0", "Referer": "https://www.base-xi.de/players"})
+
+    try:
+        # Session-Cookie setzen
+        session.get("https://www.base-xi.de/players", timeout=10)
+        r = session.get("https://www.base-xi.de/api/players?comp=bl1&t=1", timeout=20)
+        r.raise_for_status()
+        data = r.json()
+        print(f"  → {len(data)} Spieler von BaseXI geladen")
+    except Exception as e:
+        print(f"❌ BaseXI Fetch fehlgeschlagen: {e}")
+        return
+
+    # Ohne Mindesteinsatz besteht die Effizienz-Liste aus billigen Bankspielern:
+    # wer 1,1 Mio wert ist und 85 Punkte holt, schlaegt rechnerisch jeden Stammspieler.
+    max_spieltage = max((p.get("matchesPlayed") or 0) for p in data) if data else 0
+    min_spiele = max(1, round(max_spieltage * 0.75))
+    min_starts = 1 if max_spieltage < 3 else 2
+
+    players = []
+    for p in data:
+        mw  = p.get("marketValue") or 0
+        pts = p.get("totalPoints") or 0
+        mvt = p.get("mvTrend") or 0
+        spiele = p.get("matchesPlayed") or 0
+        starts = p.get("starts") or 0
+        stammspieler = spiele >= min_spiele and starts >= min_starts
+        players.append({
+            "name":   p.get("name", ""),
+            # Spielerfotos von Kickbase sind urheberrechtlich geschützt -> nur Klubwappen
+            "logo":   _comunio_logo(p.get("teamName", "")),
+            "team":   p.get("teamName", ""),
+            "pos":    p.get("position", ""),
+            "mw":     mw,
+            "pts":    pts,
+            "ap":     p.get("avgPoints") or 0,
+            "mvt":    mvt,
+            "t7":     p.get("trend7d") or 0,
+            "fair":   p.get("fairValue") or 0,
+            "spiele": spiele,
+            "stamm":  stammspieler,
+            "apvor":  p.get("avgPrevSeason") or 0,
+            "formdiff": (p.get("avgPoints") or 0) - (p.get("avgPrevSeason") or 0),
+            "status": p.get("status") or 0,
+            "info":   (p.get("statusText") or "").strip(),
+            "eff":    round(pts / (mw / 1e6), 2) if (mw > 500000 and pts > 0 and stammspieler) else 0,
+        })
+
+    def top(lst, key, n=10, reverse=True):
+        return sorted([x for x in lst if x.get(key)], key=lambda x: x[key], reverse=reverse)[:n]
+
+    # Formcheck: Punkteschnitt jetzt gegen Vorsaison. Nur wer in beiden Saisons
+    # genug gespielt hat, sonst vergleicht man Zufallswerte.
+    formspieler = [p for p in players if p["stamm"] and p["apvor"]]
+
+    # Angeschlagene und ausfallende Spieler (status != 0)
+    angeschlagen = [p for p in players if p["status"]]
+    angeschlagen.sort(key=lambda p: p["mw"], reverse=True)
+
+    # Unterbewertet: fairValue deutlich ueber Marktwert.
+    # Zwei Fallstricke der Quelle:
+    #   0,5 Mio ist ein Platzhalter statt einer Schaetzung -> erst ab 1 Mio.
+    #   fairValue haengt an der Vorsaison (r=0,81) und kaum an der laufenden
+    #   (r=0,37). Ohne Einsatzhuerde stehen Spieler oben, die letztes Jahr stark
+    #   waren und jetzt auf der Bank sitzen - Kramaric fuehrte die Liste mit
+    #   minus drei Punkten und null Startelf-Einsaetzen an.
+    schnaeppchen = sorted(
+        (p for p in players
+         if p["fair"] > 1_000_000 and p["mw"] > 1_000_000 and p["pts"] > 0 and p["stamm"]),
+        key=lambda p: p["fair"] / p["mw"], reverse=True)
+
+    result = {
+        "updated":   datetime.datetime.now(datetime.timezone.utc).isoformat(),
+        "teuerste":  [{"name":p["name"],"logo":p["logo"],"mw":p["mw"]}   for p in top(players,"mw")],
+        "punkte":    [{"name":p["name"],"logo":p["logo"],"pts":p["pts"]}  for p in top(players,"pts")],
+        "effizienz": [{"name":p["name"],"logo":p["logo"],"eff":p["eff"]}  for p in top(players,"eff")],
+        "raketen":   [{"name":p["name"],"logo":p["logo"],"diff":p["mvt"],"mw":p["mw"]} for p in top(players,"mvt")],
+        "crash":     [{"name":p["name"],"logo":p["logo"],"diff":p["mvt"],"mw":p["mw"]} for p in top(players,"mvt",reverse=False) if p["mvt"] < 0],
+        "schnitt":   [{"name":p["name"],"logo":p["logo"],"ap":p["ap"]}
+                      for p in top([p for p in players if p["spiele"] >= 2], "ap")],
+        "woche":     [{"name":p["name"],"logo":p["logo"],"diff":p["t7"],"mw":p["mw"]} for p in top(players,"t7")],
+        "wocheminus":[{"name":p["name"],"logo":p["logo"],"diff":p["t7"],"mw":p["mw"]}
+                      for p in top(players,"t7",reverse=False) if p["t7"] < 0],
+        "schnaeppchen": [{"name":p["name"],"logo":p["logo"],"mw":p["mw"],
+                          "fair":p["fair"],"faktor":round(p["fair"]/p["mw"],2)}
+                         for p in schnaeppchen[:10]],
+        "verletzt":  [{"name":p["name"],"logo":p["logo"],"mw":p["mw"],
+                       "info":p["info"] or "angeschlagen"} for p in angeschlagen[:10]],
+        "formauf":   [{"name":p["name"],"logo":p["logo"],"diff":p["formdiff"],
+                       "ap":p["ap"],"vor":p["apvor"]} for p in top(formspieler,"formdiff")],
+        "formab":    [{"name":p["name"],"logo":p["logo"],"diff":p["formdiff"],
+                       "ap":p["ap"],"vor":p["apvor"]}
+                      for p in top(formspieler,"formdiff",reverse=False) if p["formdiff"] < 0],
+    }
+    for feld, pos in (("torwart", "Torwart"), ("abwehr", "Abwehr"),
+                      ("mittelfeld", "Mittelfeld"), ("sturm", "Sturm")):
+        result[feld] = [{"name":p["name"],"logo":p["logo"],"ap":p["ap"]}
+                        for p in top([x for x in players
+                                      if x["pos"] == pos and x["stamm"]], "ap")]
+    Path("kickbase.json").write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
+    # Alle Spieler kompakt für "Mein Bereich" (Favoriten: Marktwert, Trend, Status)
+    import unicodedata as _ud
+    def _nk(t):
+        t = _ud.normalize("NFKD", str(t).replace("ø", "o").replace("ß", "ss")).encode("ascii", "ignore").decode().lower()
+        return re.sub(r"[^a-z0-9]+", " ", t).strip()
+    Path("kickbase_spieler.json").write_text(json.dumps({
+        f"{Path(p['logo']).stem}|{_nk(p['name'])}": {"mw": p["mw"], "d": p["mvt"], "w": p["t7"], "p": p["pts"], "s": p["status"], "i": p["info"]}
+        for p in players if p["logo"]}, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    print(f"✅ kickbase.json geschrieben ({len(players)} Spieler, via BaseXI)")
+
+
+def spieler_fetch():
+    """Top-Scorer aus OpenLigaDB holen, Profildaten scrapen, spieler/*.json speichern."""
+    import urllib.request
+
+    UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+
+    def get_json(url, headers=None):
+        req = urllib.request.Request(url, headers={"User-Agent": UA, **(headers or {})})
+        with urllib.request.urlopen(req, timeout=10) as r:
+            return json.load(r)
+
+    def get_html(url):
+        req = urllib.request.Request(url, headers={"User-Agent": UA})
+        with urllib.request.urlopen(req, timeout=10) as r:
+            return r.read().decode("utf-8", errors="replace")
+
+    SPIELER_ORDNER = Path("spieler")
+    SPIELER_ORDNER.mkdir(exist_ok=True)
+
+    # 1. Top-Scorer aus OpenLigaDB
+    print("📊 Lade Torjäger von OpenLigaDB …")
+    try:
+        scorer_data = get_json(f"https://api.openligadb.de/getgoalgetters/{LIGA_API}/{SAISON}")
+    except Exception as e:
+        print(f"❌ OpenLigaDB Fehler: {e}")
+        return
+
+    top_scorer = sorted(scorer_data, key=lambda x: x["goalCount"], reverse=True)[:15]
+
+    # goalGetterId → teamId via Spieldaten (letzter Spieltag reicht)
+    player_team = {}
+    try:
+        matches = get_json(f"https://api.openligadb.de/getmatchdata/{LIGA_API}/{SAISON}")
+        for m in matches:
+            for g in (m.get("goals") or []):
+                if g.get("goalGetterID") and g.get("scoringTeamId") and not g.get("isOwnGoal"):
+                    player_team[g["goalGetterID"]] = g["scoringTeamId"]
+    except Exception as e:
+        print(f"⚠️  Spieldaten Fehler: {e}")
+
+    # teamId → Name
+    team_names = {}
+    try:
+        teams = get_json(f"https://api.openligadb.de/getavailableteams/{LIGA_API}/{SAISON}")
+        for t in teams:
+            team_names[t["teamId"]] = t["teamName"]
+    except Exception as _ex:
+        print(f"⚠️  Teamnamen nicht ladbar: {_ex}")
+
+    for scorer in top_scorer:
+        gid = scorer["goalGetterId"]
+        name = scorer["goalGetterName"]
+        print(f"  → {name} …", end=" ", flush=True)
+
+        out_path = SPIELER_ORDNER / f"{gid}.json"
+
+        # 2. TM-ID + Profildaten
+        tm_id = None
+        tm_mw = None
+        tm_alter = None
+        tm_groesse = None
+        tm_nation = None
+        tm_position = None
+        tm_vollname = None
+        try:
+            # TM-Suche: "H. Kane" → "Kane", "Luis Díaz" → "Luis Díaz"
+            m_abbr = re.match(r'^[A-Z]\.\s+(.+)$', name)
+            tm_suchname = m_abbr.group(1) if m_abbr else name
+            search_html = get_html(
+                f"https://www.transfermarkt.de/schnellsuche/ergebnis/schnellsuche?query={urllib.parse.quote(tm_suchname)}&Spieler_page=0"
+            )
+            m_id = re.search(r'href="/([^/]+)/profil/spieler/(\d+)"', search_html)
+            if m_id:
+                tm_slug = m_id.group(1)
+                tm_id = m_id.group(2)
+                # Slug → vollständiger Name (z.B. "patrik-schick" → "Patrik Schick")
+                tm_vollname = tm_slug.replace("-", " ").title()
+
+                # Profilseite
+                profil_html = get_html(f"https://www.transfermarkt.de/{tm_slug}/profil/spieler/{tm_id}")
+
+                # Marktwert
+                m_mw = re.search(r'(\d+[,\.]\d+)\s*(Mio|Tsd)\.?\s*€', profil_html)
+                if m_mw:
+                    betrag = m_mw.group(1).replace(",", ".")
+                    einheit = m_mw.group(2)
+                    tm_mw = f"{m_mw.group(1)} {einheit}. €"
+
+                # Info-Tabelle parsen
+                info_block = re.search(r'class="info-table[^"]*">(.*?)class="box"', profil_html, re.DOTALL)
+                if info_block:
+                    block = info_block.group(1)
+                    # Alter
+                    m_age = re.search(r'\d{2}\.\d{2}\.\d{4}\s*\((\d+)\)', block)
+                    if m_age:
+                        tm_alter = int(m_age.group(1))
+                    # Größe
+                    m_gr = re.search(r'(\d,\d{2})\s*m', block)
+                    if m_gr:
+                        tm_groesse = m_gr.group(1) + " m"
+                    # Nationalität (text hinter Flagge)
+                    nations = re.findall(r'title="([A-ZÄÖÜ][a-zäöüA-ZÄÖÜ\s\-]+)"\s+alt="\1"[^>]+class="flaggenrahmen"', block)
+                    if nations:
+                        tm_nation = nations[0]
+                    # Position
+                    m_pos = re.search(r'<dt[^>]*>Hauptposition:</dt>\s*<dd[^>]*>([^<]+)<', profil_html)
+                    if m_pos:
+                        tm_position = m_pos.group(1).strip()
+        except Exception as e:
+            print(f"(TM Fehler: {e})", end=" ")
+
+        # 4. TM Performance + Transfer-History → BL-Karriere
+        karriere = []
+        transfers_resp = None
+        if tm_id:
+            try:
+                from collections import defaultdict
+                import datetime as dt
+
+                perf, transfers_resp = None, None
+                try:
+                    perf = get_json(
+                        f"https://www.transfermarkt.de/ceapi/performance-game/{tm_id}",
+                        headers={"x-tmapi-version": "1"}
+                    )
+                except Exception:
+                    pass
+                try:
+                    transfers_resp = get_json(
+                        f"https://www.transfermarkt.de/ceapi/transferHistory/list/{tm_id}",
+                        headers={"x-tmapi-version": "1"}
+                    )
+                except Exception:
+                    pass
+
+                # Transfer-History → Saison → Vereinsname
+                # Saison "24/25" startet ~01.08.2024, endet ~31.05.2025
+                def verein_fuer_saison(transfers_data, saison_str):
+                    """Bestimmt Vereinsname + Wappen-URL für eine Saison aus Transfer-History."""
+                    if not transfers_data:
+                        return None, None
+                    year_start = 2000 + int(saison_str[:2])
+                    season_end = dt.date(year_start + 1, 6, 30)
+
+                    tlist = sorted(
+                        [t for t in transfers_data.get("transfers", []) if t.get("dateUnformatted")],
+                        key=lambda t: t["dateUnformatted"]
+                    )
+                    current_name = None
+                    current_icon = None
+                    for t in tlist:
+                        try:
+                            d = dt.date.fromisoformat(t["dateUnformatted"])
+                        except Exception:
+                            continue
+                        if d >= season_end:
+                            break
+                        to = t.get("to", {})
+                        to_club = to.get("clubName", "")
+                        if to_club and to_club not in ("Vereinslos", "Without Club"):
+                            current_name = to_club
+                            current_icon = to.get("clubEmblem-2x", "")
+                    return current_name, current_icon
+
+                games = (perf or {}).get("data", {}).get("performance", [])
+
+                # Aggregiere BL-Spiele nach Saison
+                bl_stats = defaultdict(lambda: {"spiele": 0, "tore": 0, "assists": 0})
+                bl_season_id = {}
+
+                for g in games:
+                    info = g.get("gameInformation", {})
+                    if info.get("competitionId") != "L1" or info.get("isNationalGame"):
+                        continue
+                    season_display = info.get("season", {}).get("display", "")
+                    season_id = info.get("season", {}).get("id", 0)
+                    if not season_display:
+                        continue
+                    gs = g.get("statistics", {}).get("goalStatistics", {})
+                    bl_stats[season_display]["spiele"] += 1
+                    bl_stats[season_display]["tore"]   += gs.get("goalsScoredTotal") or 0
+                    bl_stats[season_display]["assists"] += gs.get("assists") or 0
+                    bl_season_id[season_display] = season_id
+
+                # Vereinsname + Wappen aus Transfer-History
+                for saison in sorted(bl_stats.keys(),
+                                     key=lambda s: bl_season_id.get(s, 0), reverse=True):
+                    st = bl_stats[saison]
+                    verein_name, verein_icon = verein_fuer_saison(transfers_resp, saison)
+                    karriere.append({
+                        "saison":      saison,
+                        "verein":      verein_name or "",
+                        "verein_icon": verein_icon or "",
+                        "spiele":      st["spiele"],
+                        "tore":        st["tore"],
+                        "assists":     st["assists"],
+                    })
+            except Exception as e:
+                print(f"(Perf Fehler: {e})", end=" ")
+
+        # Vereinshistorie aus Transfer-History (nur Profivereine, keine Leih-Enden)
+        vereinshistorie = []
+        if transfers_resp:
+            JUGEND_KEYWORDS = ("U17", "U18", "U19", "U21", "U23", "Jgd", "B-Junioren", "A-Junioren")
+            for t in transfers_resp.get("transfers", []):
+                fee = t.get("fee", "")
+                if fee in ("Leih-Ende", "-", "?"):
+                    continue
+                to = t.get("to", {})
+                club = to.get("clubName", "")
+                if not club or club in ("Vereinslos", "Without Club"):
+                    continue
+                if any(k in club for k in JUGEND_KEYWORDS):
+                    continue
+                year = (t.get("dateUnformatted") or "")[:4]
+                vereinshistorie.append({
+                    "jahr": year,
+                    "verein": club,
+                    "verein_icon": to.get("clubEmblem-2x", ""),
+                    "leihe": fee == "Leihe",
+                })
+
+        # 5. Verein aus OpenLigaDB
+        team_id = player_team.get(gid)
+        verein = team_names.get(team_id, "") if team_id else ""
+
+        result = {
+            "goalGetterId": gid,
+            "name": tm_vollname or name,
+            "verein": verein,
+            "alter": tm_alter,
+            "groesse": tm_groesse,
+            "nation": tm_nation,
+            "position": tm_position,
+            "marktwert": tm_mw,
+            "karriere": karriere,
+            "vereinshistorie": vereinshistorie,
+            "updated": datetime.datetime.now(datetime.timezone.utc).isoformat(),
+        }
+
+        out_path.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
+        print("✅")
+        time.sleep(1.5)  # TM nicht überlasten
+
+    print(f"✅ spieler/ aktualisiert ({len(top_scorer)} Spieler)")
+
+
+if __name__ == "__main__":
+    # Reihenfolge: News schreiben, dann die festen Seiten (Vereine) aus dem Feed bauen.
+    # Ein Fehler im News-Teil darf den Seitenbau nicht blockieren; er wird laut gemeldet (Exit-Code 1),
+    # nachdem alles Weitere gelaufen ist, damit der Lauf nicht grün meldet.
+    import traceback
+    _fehler = []
+    try:
+        main()
+    except Exception as e:
+        print(f"❌ main (News) Fehler: {e}")
+        traceback.print_exc()
+        _fehler.append(e)
+    try:
+        verein_seiten()
+    except Exception as e:
+        print(f"❌ verein_seiten Fehler: {e}")
+        traceback.print_exc()
+        _fehler.append(e)
+    if _fehler:
+        sys.exit(1)

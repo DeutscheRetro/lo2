@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Impressum – Ligaoutsider.de</title>
+  <meta name="description" content="Impressum und Anbieterkennzeichnung von Ligaoutsider.de."/>
+  <link rel="canonical" href="https://3liga.ligaoutsider.de/impressum.html"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:title" content="Impressum – Ligaoutsider.de"/>
+  <meta property="og:description" content="Impressum und Anbieterkennzeichnung von Ligaoutsider.de."/>
+  <meta property="og:url" content="https://3liga.ligaoutsider.de/impressum.html"/>
+  <meta property="og:site_name" content="Ligaoutsider.de"/>
+  <meta property="og:locale" content="de_DE"/>
+  <link rel="stylesheet" href="style.css" />
+  <script>if(localStorage.getItem('theme')==='light')document.documentElement.classList.add('light');</script>
+  <link rel="icon" href="favicon.png" type="image/png" />
+<script src="/consent.js"></script>
+</head>
+<body>
+
+  <div class="topbar">
+    <div class="topbar-inner">
+      <span>Saison 2025/26</span>
+      <div class="topbar-right">
+        <a href="#">Anmelden</a>
+        <a href="#">Registrieren</a>
+      </div>
+    </div>
+  </div>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="index.html" class="logo">
+        <span class="logo-liga">Liga</span><span class="logo-outsider">outsider</span><span class="logo-de">.de</span>
+      </a>
+    </div>
+  </header>
+
+  <div class="archiv-wrap">
+    <div class="impressum-box">
+      <h1>Impressum</h1>
+
+      <h2>Angaben gemäß § 5 DDG</h2>
+      <p>
+        Florian Huber<br />
+        Markgrafenstraße 24<br />
+        10117 Berlin
+      </p>
+
+      <h2>Kontakt</h2>
+      <p>E-Mail: <a href="mailto:ligaoutsider@proton.me">ligaoutsider@proton.me</a></p>
+      <p>Oder direkt über das Kontaktformular:</p>
+      <form id="kontakt-form" class="kontakt-form" novalidate>
+        <label for="k-name">Name</label>
+        <input id="k-name" name="name" type="text" maxlength="100" autocomplete="name" required>
+        <label for="k-mail">E-Mail</label>
+        <input id="k-mail" name="email" type="email" maxlength="200" autocomplete="email" required>
+        <label for="k-nachricht">Nachricht</label>
+        <textarea id="k-nachricht" name="nachricht" rows="6" maxlength="5000" required></textarea>
+        <div class="k-falle" aria-hidden="true"><label for="k-website">Website</label><input id="k-website" name="website" type="text" tabindex="-1" autocomplete="off"></div>
+        <p class="k-hinweis">Mit dem Absenden verarbeiten wir deine Angaben zur Beantwortung, siehe <a href="datenschutz.html#kontakt">Datenschutzerklärung</a>.</p>
+        <button type="submit">Nachricht senden</button>
+        <p id="k-status" role="status" aria-live="polite"></p>
+      </form>
+      <script>
+      (function () {
+        const f = document.getElementById('kontakt-form'), st = document.getElementById('k-status'), t = Date.now();
+        f.addEventListener('submit', async e => {
+          e.preventDefault();
+          const knopf = f.querySelector('button'); knopf.disabled = true; st.textContent = 'Wird gesendet…';
+          try {
+            const r = await fetch('/api?kontakt', { method: 'POST', headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify({ name: f.elements['name'].value, email: f.elements['email'].value, nachricht: f.elements['nachricht'].value, website: f.elements['website'].value, t }) });
+            const d = await r.json().catch(() => ({}));
+            if (!r.ok) throw new Error(d.fehler || 'Senden fehlgeschlagen.');
+            f.reset(); st.textContent = 'Danke, deine Nachricht ist angekommen.';
+          } catch (err) { st.textContent = err.message; }
+          knopf.disabled = false;
+        });
+      })();
+      </script>
+
+      <h2>Redaktionell verantwortlich nach § 18 Abs. 2 MStV</h2>
+      <p>Florian Huber (Anschrift wie oben)</p>
+
+      <h2>Haftung für Inhalte</h2>
+      <p>Die Inhalte dieser Seite wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs. 1 DDG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich.</p>
+
+      <h2>Haftung für Links</h2>
+      <p>Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich.</p>
+
+      <h2>Urheberrecht</h2>
+      <p>Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers.</p>
+
+      <h2>Hinweis zu KI-generierten Inhalten</h2>
+      <p>Artikel auf Ligaoutsider.de werden auf Basis öffentlich zugänglicher Quellen mithilfe von KI-Technologie erstellt und redaktionell aufbereitet. Die Originalquellen werden jeweils am Ende des Artikels verlinkt.</p>
+    </div>
+  </div>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p class="footer-copy">© Ligaoutsider.de, 2026</p>
+      <nav class="footer-nav">
+        <a href="impressum.html">Impressum</a>
+        <a href="datenschutz.html">Datenschutzerklärung</a>
+        <a href="nutzungsbedingungen.html">Nutzungsbedingungen</a>
+        <a href="archiv-seite-1.html">Alle Artikel</a>
+        <a href="verein/">Alle Vereine</a>
+      </nav>
+    </div>
+  </footer>
+
+</body>
+</html>

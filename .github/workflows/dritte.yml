@@ -1,0 +1,198 @@
+name: 3. Liga – neue Artikel generieren
+
+# Die 3. Liga (3liga.ligaoutsider.de, Worker lo3) liegt im Unterordner dritte/.
+# Sie läuft hier im lo2-Repo, weil hier die Claude-Schlüssel schon als Secrets liegen.
+# Zeitplan: 3 Läufe am Tag, 09/15/21 Uhr Winterzeit (08/14/20 UTC), um 21 Uhr mit Qualitätsprüfung.
+# GitHubs Zeitplan kann sich verspäten; das ist hier in Kauf genommen.
+on:
+  schedule:
+    - cron: '0 8 * * *'
+    - cron: '0 14 * * *'
+    - cron: '0 20 * * *'
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: 'Manueller oder externer Trigger'
+        required: false
+        default: 'manuell'
+      qualitaet:
+        description: 'Danach Qualitätsprüfung durch Opus (sonst nur um 21 Uhr)'
+        type: boolean
+        required: false
+        default: false
+
+env:
+  TZ: Europe/Berlin
+
+# Der Lauf committet Artikel und liest den Status früherer Läufe
+permissions:
+  contents: write
+  actions: read
+
+jobs:
+  zeitplan:
+    runs-on: ubuntu-latest
+    outputs:
+      los: ${{ steps.pruefen.outputs.los }}
+      qualitaet: ${{ steps.pruefen.outputs.qualitaet }}
+    steps:
+      - id: pruefen
+        env:
+          QUALITAET: ${{ github.event.inputs.qualitaet }}
+          ZEITPLAN: ${{ github.event.schedule }}
+        run: |
+          q="${QUALITAET:-false}"
+          [ "$ZEITPLAN" = "0 20 * * *" ] && q=true
+          echo "los=true" >> "$GITHUB_OUTPUT"
+          echo "qualitaet=$q" >> "$GITHUB_OUTPUT"
+          echo "Anlass: ${ZEITPLAN:-manuell} | Qualitätsprüfung: $q"
+
+  generate:
+    needs: zeitplan
+    if: needs.zeitplan.outputs.los == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    # Nie einen laufenden Lauf abbrechen: er hat womöglich schon für Artikel bezahlt,
+    # und ohne Commit fehlen die Kosten in data/api_kosten.json
+    concurrency:
+      group: generate-dritte
+      cancel-in-progress: false
+
+    defaults:
+      run:
+        working-directory: dritte
+
+    steps:
+      - name: Code holen
+        uses: actions/checkout@v4
+        with:
+          token: ${{ github.token }}   # eingebautes Token reicht (permissions unten): kein eigenes Secret nötig
+          # Neuester Stand statt Stand beim Auslösen: ein wartender Lauf muss die Artikel
+          # des Laufs davor kennen, sonst schreibt er dieselben Meldungen noch einmal
+          ref: main
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+          cache-dependency-path: dritte/requirements.txt
+
+      - name: Pakete installieren
+        run: |
+          pip install -r requirements.txt
+          pip list | grep -E 'trafilatura|rapidfuzz|feedparser|anthropic|requests'
+
+      # Bricht den Lauf laut ab statt still: fehlende Namen in generate.py, Postgrenzen
+      - name: Tests
+        run: python -m unittest discover tests
+
+      - name: JS-Tests
+        run: node --test tests/*.mjs
+
+      # Claude-Code-CLI: damit laufen die KI-Aufrufe über das Claude-Abo
+      # (Secret CLAUDE_CODE_OAUTH_TOKEN, erzeugt mit "claude setup-token").
+      # Ohne Secret oder bei erschöpftem Kontingent geht es über die API.
+      - name: Claude Code installieren
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          npm install -g @anthropic-ai/claude-code && claude --version
+          # Diagnose ohne den Wert zu zeigen: Länge und Präfix (sk-ant-oat01-…)
+          T="$CLAUDE_CODE_OAUTH_TOKEN"
+          echo "Abo-Token: ${#T} Zeichen, Präfix ${T:0:13}, Leerzeichen/Umbrüche: $(printf %s "$T" | tr -cd ' \n\r\t' | wc -c)"
+          echo "Antworte nur mit OK" | env -u ANTHROPIC_API_KEY claude -p --model haiku --tools "" --setting-sources "" || true
+
+      # Ein Fehler hier stoppt den Lauf erst am Ende: erst Stand sichern, dann laut fehlschlagen
+      - name: Artikel generieren
+        id: gen
+        continue-on-error: true
+        env:
+          # Fester Deckel für Claude-Kosten pro Kalendermonat (siehe ki_budget.py).
+          # Die Lauf-Zeiten oben stehen auch in ki_budget.LAUFPLAN_BERLIN.
+          # 3. Liga: kein API-Guthaben, nur das Claude-Abo (Kontingent teilen sich alle drei Seiten).
+          # Fällt das Abo aus, entfällt der Lauf statt über die API zu gehen.
+          MONATSBUDGET_USD:     '0'
+          # Abo-Fehler bricht nur diesen einen Aufruf ab, nicht den Rest des Laufs (API hätte kein Budget)
+          KI_NUR_ABO:           '1'
+          ANTHROPIC_API_KEY:    ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: python generate.py
+
+      # Zweimal am Tag prüft Opus alle Artikel seit der letzten Prüfung gegen ihre Quelle
+      - name: Qualitätsprüfung (Opus)
+        if: needs.zeitplan.outputs.qualitaet == 'true'
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          KI_NUR_ABO: '1'
+        run: python qualitaet.py || echo "Qualitätsprüfung fehlgeschlagen – Artikel bleiben unverändert"
+
+      - name: Änderungen committen & pushen
+        run: |
+          git config user.name  "LO Bot"
+          git config user.email "lo-bot@users.noreply.github.com"
+
+          # -A und gequoteter Glob: auch gelöschte Archivseiten; ohne || true fällt ein Fehler auf
+          git add -A -- feed.json artikel data logs sitemap.xml news-sitemap.xml rss.xml og verein 'archiv-seite-*.html'
+
+          if git diff --staged --quiet; then
+            echo "Nichts zu speichern"
+            exit 0
+          fi
+          git commit -m "🤖 3. Liga Update $(date +'%d.%m.%Y %H:%M')"
+
+          git stash -u 2>/dev/null || true
+          # Bis zu 3 Versuche: ein anderer Workflow kann zwischen Abgleich und Push pushen
+          for i in 1 2 3; do
+            if git pull --rebase -X theirs origin main; then
+              git push && { gepusht=1; break; }
+            else
+              git rebase --abort || true
+            fi
+            sleep 15
+          done
+          git stash pop 2>/dev/null || true
+          [ -n "${gepusht:-}" ] || { echo "::error::Push nach 3 Versuchen gescheitert"; exit 1; }
+          echo "veroeffentlicht=true" >> "$GITHUB_ENV"
+          echo "NEUER_COMMIT=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
+
+      # Prüft nach jedem Lauf, ob die Seite erreichbar ist. Liefert sie Fehler,
+      # wird einmal neu gebaut; hilft das nicht, schlägt der Lauf fehl (GitHub
+      # schickt dann eine Mail).
+      - name: Seite erreichbar?
+        if: always()
+        run: |
+          pruefe() {
+            for u in / /robots.txt /archiv.html; do
+              c=$(curl -s -o /dev/null -w '%{http_code}' --max-time 20 "https://3liga.ligaoutsider.de$u")
+              [ "$c" = "200" ] || { echo "$u -> $c"; return 1; }
+            done
+            return 0
+          }
+          stabil_kaputt() {
+            for i in 1 2 3; do pruefe && return 1; sleep 30; done
+            return 0
+          }
+          # Nach einer Veröffentlichung erst den neuen Deploy abwarten
+          [ "${veroeffentlicht:-}" = "true" ] && sleep 120
+          if ! stabil_kaputt; then echo "✅ Seite erreichbar"; exit 0; fi
+
+          echo "⚠️ Seite liefert Fehler – stoße neuen Deploy an"
+          git config user.name  "LO Bot"
+          git config user.email "lo-bot@users.noreply.github.com"
+          git pull --rebase -X theirs origin main
+          git commit --allow-empty -m "🔁 Neu-Deploy: Seite lieferte Fehler"
+          git push
+          sleep 150
+          if stabil_kaputt; then
+            echo "::error::Die Seite liefert auch nach Neu-Deploy Fehler – bitte in Cloudflare (Workers & Pages → lo3 → Deployments, Quelle: Repo lo2, Ordner dritte) prüfen"
+            exit 1
+          fi
+          echo "✅ Seite nach Neu-Deploy wieder erreichbar"
+
+      # Der Lauf meldet Fehler aus generate.py erst jetzt, nachdem der Stand gesichert ist
+      - name: Fehler melden
+        if: steps.gen.outcome == 'failure'
+        run: |
+          echo "::error::generate.py ist fehlgeschlagen, siehe Schritt 'Artikel generieren'"
+          exit 1

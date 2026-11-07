@@ -1,0 +1,19 @@
+// Cloudflare Worker: liefert die statischen Seiten aus und beantwortet /api.
+// html_handling "none": Adressen behalten ihr ".html" (so stehen sie bei Google);
+// Cloudflare Pages würde sie abschneiden und umleiten.
+{
+  "name": "lo3",
+  "main": "worker.js",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./",
+    "binding": "ASSETS",
+    "html_handling": "none",
+    "not_found_handling": "404-page",
+    // Jede Anfrage läuft zuerst durch den Worker (http→https, /api, /sb, Ordneradressen); die Dateien holt er aus ASSETS
+    "run_worker_first": true
+  },
+  // Kein Cron: die Läufe startet der GitHub-Zeitplan in lo2/.github/workflows/dritte.yml
+  "triggers": { "crons": [] },
+  "observability": { "enabled": true }
+}

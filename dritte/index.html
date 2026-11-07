@@ -1,0 +1,795 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ligaoutsider 3. Liga – News zur 3. Liga</title>
+  <meta name="description" content="News zur 3. Liga: Transfers, Verletzungen, Spielplan, Ergebnisse und Tabelle. Alle 20 Vereine, täglich aktuell." />
+  <meta name="msvalidate.01" content="E889AC16F7B319F80DAE8873DDEA7643" />
+  <link rel="canonical" href="https://3liga.ligaoutsider.de/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Ligaoutsider 3. Liga – News zur 3. Liga" />
+  <meta property="og:description" content="News, Transfers, Spielplan, Ergebnisse und Tabelle der 3. Liga – täglich aktuell." />
+  <meta property="og:url" content="https://3liga.ligaoutsider.de/" />
+  <meta property="og:site_name" content="Ligaoutsider.de" />
+  <meta property="og:locale" content="de_DE" />
+  <link rel="alternate" type="application/rss+xml" title="Ligaoutsider 3. Liga News" href="/rss.xml" />
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" href="favicon.png" type="image/png" />
+  <script>if(localStorage.getItem('theme')==='light')document.documentElement.classList.add('light');</script>
+  <script src="/auth.js"></script>
+  <script src="/spieltipp.js" defer></script>
+<script src="/consent.js"></script>
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="index.html" class="logo">
+        <span class="logo-liga">Liga</span><span class="logo-outsider">outsider</span><span class="logo-de">.de</span>
+      </a>
+      <nav class="liga-zeile" aria-label="Liga wählen"><a href="https://ligaoutsider.de/"><span class="liga-marke">BL</span><span class="liga-lang">Bundesliga</span><span class="liga-kurz">1. Liga</span></a><a href="https://2liga.ligaoutsider.de/"><span class="liga-marke zwei">2.BL</span><span class="liga-lang">2. Bundesliga</span><span class="liga-kurz">2. Liga</span></a><a href="/" class="aktiv" aria-current="page"><span class="liga-marke drei">3.L</span><span class="liga-lang">3. Liga</span><span class="liga-kurz">3. Liga</span></a></nav>
+      <div class="header-right">
+        <form class="search-form" onsubmit="return false;">
+          <input type="search" id="search-input" class="search-input" placeholder="Suche…" autocomplete="off" />
+        </form>
+        <button class="theme-toggle" id="theme-toggle" title="Hell/Dunkel wechseln">
+          <span class="icon" id="theme-icon">☀️</span>
+          <span id="theme-label">Hell</span>
+        </button>
+        <div class="auth-buttons">
+          <a href="#" class="auth-btn" id="login-btn">Anmelden</a>
+          <a href="#" class="auth-btn auth-btn--primary" id="signup-btn">Registrieren</a>
+          <span id="user-info" style="display:none">
+            <a href="https://ligaoutsider.de/nachrichten.html" id="nachrichten-icon" class="post-icon" title="Nachrichten" aria-label="Nachrichten">✉️<span class="post-zahl" id="nachrichten-zahl" hidden></span></a>
+            <span id="user-name" class="auth-username"></span>
+            <a href="#" class="auth-btn" id="logout-btn">Abmelden</a>
+          </span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <nav class="team-nav">
+    <div class="nav-inner">
+      <ul class="team-list" id="team-list">
+        <li><button class="team-chip" data-filter="Saarbrücken" title="1. FC Saarbrücken"><img src="logos/saarbruecken.png" alt="Saarbrücken" /></button></li>
+        <li><button class="team-chip" data-filter="Aachen" title="Alemannia Aachen"><img src="logos/aachen.png" alt="Aachen" /></button></li>
+        <li><button class="team-chip" data-filter="Ingolstadt" title="FC Ingolstadt 04"><img src="logos/ingolstadt.png" alt="Ingolstadt" /></button></li>
+        <li><button class="team-chip" data-filter="Düsseldorf" title="Fortuna Düsseldorf"><img src="logos/duesseldorf.png" alt="Düsseldorf" /></button></li>
+        <li><button class="team-chip" data-filter="Fortuna Köln" title="Fortuna Köln"><img src="logos/fortunakoeln.png" alt="Fortuna Köln" /></button></li>
+        <li><button class="team-chip" data-filter="Rostock" title="Hansa Rostock"><img src="logos/rostock.png" alt="Rostock" /></button></li>
+        <li><button class="team-chip" data-filter="Regensburg" title="Jahn Regensburg"><img src="logos/regensburg.png" alt="Regensburg" /></button></li>
+        <li><button class="team-chip" data-filter="Duisburg" title="MSV Duisburg"><img src="logos/duisburg.png" alt="Duisburg" /></button></li>
+        <li><button class="team-chip" data-filter="Münster" title="Preußen Münster"><img src="logos/muenster.png" alt="Münster" /></button></li>
+        <li><button class="team-chip" data-filter="RW Essen" title="Rot-Weiss Essen"><img src="logos/essen.png" alt="RW Essen" /></button></li>
+        <li><button class="team-chip" data-filter="Verl" title="SC Verl"><img src="logos/verl.png" alt="Verl" /></button></li>
+        <li><button class="team-chip" data-filter="Großaspach" title="SG Sonnenhof Großaspach"><img src="logos/grossaspach.png" alt="Großaspach" /></button></li>
+        <li><button class="team-chip" data-filter="Meppen" title="SV Meppen"><img src="logos/meppen.png" alt="Meppen" /></button></li>
+        <li><button class="team-chip" data-filter="Mannheim" title="SV Waldhof Mannheim"><img src="logos/mannheim.png" alt="Mannheim" /></button></li>
+        <li><button class="team-chip" data-filter="Wiesbaden" title="SV Wehen Wiesbaden"><img src="logos/wiesbaden.png" alt="Wiesbaden" /></button></li>
+        <li><button class="team-chip" data-filter="Hoffenheim II" title="TSG 1899 Hoffenheim II"><img src="logos/hoffenheim2.png" alt="Hoffenheim II" /></button></li>
+        <li><button class="team-chip" data-filter="Havelse" title="TSV Havelse"><img src="logos/havelse.png" alt="Havelse" /></button></li>
+        <li><button class="team-chip" data-filter="Stuttgart II" title="VfB Stuttgart II"><img src="logos/stuttgart2.png" alt="Stuttgart II" /></button></li>
+        <li><button class="team-chip" data-filter="Viktoria Köln" title="Viktoria Köln"><img src="logos/viktoriakoeln.png" alt="Viktoria Köln" /></button></li>
+        <li><button class="team-chip" data-filter="Würzburg" title="Würzburger Kickers"><img src="logos/wuerzburg.png" alt="Würzburg" /></button></li>
+      </ul>
+    </div>
+  </nav>
+
+  <nav class="section-nav">
+    <div class="section-nav-inner">
+      <a href="index.html" class="section-nav-link active" data-nav="news">News</a>
+      <a href="verein/" class="section-nav-link" data-nav="vereine">Vereine</a>
+      <a href="archiv.html" class="section-nav-link" data-nav="archiv">Archiv</a>
+    </div>
+  </nav>
+
+  <div class="site-content">
+    <main class="content-main">
+
+      <div class="feed-header">
+        <h1 class="sr-only">Ligaoutsider 3. Liga: News zur 3. Liga, Spielplan, Ergebnisse und Tabelle</h1>
+        <h2 id="feed-titel">Aktuell</h2>
+      </div>
+
+      <div class="aufmacher" id="aufmacher"></div>
+
+      <ul class="feed" id="feed">
+        <li class="feed-loading">Lade Artikel …</li>
+      </ul>
+      <a href="archiv.html" class="mehr-button" id="mehr-btn" style="display:none">Mehr News anzeigen</a>
+
+    </main>
+
+    <aside class="sidebar">
+
+      <div class="sidebar-widget">
+        <h3 class="widget-title">Nächste Spiele</h3>
+        <ul class="fixture-list" id="spiele-list">
+          <li style="padding:12px;color:#555">Lädt…</li>
+        </ul>
+      </div>
+
+      <div class="sidebar-widget">
+        <h3 class="widget-title" id="tabelle">Tabelle 3. Liga</h3>
+        <table class="standings-table">
+          <thead><tr><th>#</th><th></th><th>Team</th><th>Sp</th><th>Td</th><th>Pkt</th></tr></thead>
+          <tbody id="tabelle-body">
+          </tbody>
+        </table>
+      </div>
+
+      <div class="sidebar-widget">
+        <h3 class="widget-title">⚽ Torjäger</h3>
+        <ul class="scorer-list" id="torjaeger-list">
+          <li style="color:var(--text4);font-size:12px;padding:10px 12px">Lädt…</li>
+        </ul>
+      </div>
+
+
+    </aside>
+  </div>
+
+  <!-- Spieler-Modal -->
+  <div id="spieler-modal" style="display:none;position:fixed;inset:0;z-index:9999;background:rgba(0,0,0,.7);overflow-y:auto;padding:20px 12px" onclick="if(event.target===this)this.style.display='none'">
+    <div style="max-width:480px;margin:0 auto;background:var(--bg2);border-radius:12px;overflow:hidden;position:relative">
+      <button onclick="document.getElementById('spieler-modal').style.display='none';document.body.style.overflow=''" style="position:absolute;top:10px;right:12px;background:none;border:none;color:var(--text2);font-size:22px;cursor:pointer;line-height:1">×</button>
+      <div id="spieler-modal-inhalt" style="padding:20px"></div>
+    </div>
+  </div>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p class="footer-copy">&copy; Ligaoutsider.de, 2026</p>
+      <nav class="footer-nav">
+        <a href="impressum.html">Impressum</a>
+        <a href="datenschutz.html">Datenschutzerklärung</a>
+        <a href="nutzungsbedingungen.html">Nutzungsbedingungen</a>
+        <a href="archiv-seite-1.html">Alle Artikel</a>
+        <a href="verein/">Alle Vereine</a>
+      </nav>
+    </div>
+  </footer>
+
+  <script>
+    const esc = t => String(t ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+    // ─── Netlify Identity ─────────────────────────────────────────────────────
+    let isAdmin = false;
+
+    if (window.netlifyIdentity) {
+      netlifyIdentity.on('init', user => {
+        if (user) showUser(user);
+      });
+      netlifyIdentity.on('login', user => {
+        showUser(user);
+        netlifyIdentity.close();
+      });
+      netlifyIdentity.on('logout', () => {
+        isAdmin = false;
+        document.getElementById('user-info').style.display = 'none';
+        document.getElementById('login-btn').style.display = '';
+        document.getElementById('signup-btn').style.display = '';
+        if (typeof renderFeed === 'function') renderFeed();
+      });
+      netlifyIdentity.init();
+    }
+
+    function showUser(user) {
+      const name = user.user_metadata?.full_name || user.email;
+      // Rollen stehen in der Datenbank; der Server bestätigt sie
+      isAdmin = false;
+      window.loWerBinIch(user).then(w => {
+          isAdmin = !!w.darfLoeschen;
+          if (isAdmin && !document.getElementById('admin-link')) {
+            const a = document.createElement('a');
+            a.id = 'admin-link'; a.href = 'https://ligaoutsider.de/chefred.html'; a.textContent = '⚙ Admin';
+            a.style.cssText = 'margin-right:8px;text-decoration:none;font-weight:700;color:var(--accent,#e8c000)';
+            document.getElementById('user-info').prepend(a);
+          }
+          if (typeof renderFeed === 'function') renderFeed();
+        }).catch(() => {});
+      document.getElementById('user-name').textContent = name;
+      { const un = document.getElementById('user-name'); un.style.cursor = 'pointer'; un.title = 'Mein Profil'; un.onclick = () => { location.href = 'https://ligaoutsider.de/profil.html'; }; }
+      document.getElementById('user-info').style.display = 'flex';
+      document.getElementById('login-btn').style.display = 'none';
+      document.getElementById('signup-btn').style.display = 'none';
+      if (typeof renderFeed === 'function') renderFeed();
+    }
+
+    document.getElementById('login-btn').addEventListener('click', e => {
+      e.preventDefault();
+      netlifyIdentity.open('login');
+    });
+    document.getElementById('signup-btn').addEventListener('click', e => {
+      e.preventDefault();
+      netlifyIdentity.open('signup');
+    });
+    document.getElementById('logout-btn').addEventListener('click', e => {
+      e.preventDefault();
+      netlifyIdentity.logout();
+    });
+
+    // ─── Hell/Dunkel Toggle ───────────────────────────────────────────────────
+    const btn   = document.getElementById('theme-toggle');
+    const icon  = document.getElementById('theme-icon');
+    const label = document.getElementById('theme-label');
+
+    function setTheme(light) {
+      document.body.classList.toggle('light', light);
+      document.documentElement.classList.toggle('light', light);
+      icon.textContent  = light ? '🌙' : '☀️';
+      label.textContent = light ? 'Dunkel' : 'Hell';
+      localStorage.setItem('theme', light ? 'light' : 'dark');
+    }
+
+    // Gespeicherte Präferenz laden
+    setTheme(localStorage.getItem('theme') === 'light');
+    btn.addEventListener('click', () => setTheme(!document.body.classList.contains('light')));
+  </script>
+
+  <script>
+    // ─── Tabelle (OpenLigaDB Live) ──────────────────────────────────────────
+    function posColor(pos) {
+      if (pos <= 2)  return '#2e7d32';
+      if (pos === 3) return '#f57c00';
+      if (pos >= 17) return '#c62828';
+      return null;
+    }
+    const LOGO_MAP = {
+      '1. FC Saarbrücken':'saarbruecken',
+      'Alemannia Aachen':'aachen',
+      'FC Ingolstadt 04':'ingolstadt',
+      'Fortuna Düsseldorf':'duesseldorf',
+      'Fortuna Köln':'fortunakoeln',
+      'Hansa Rostock':'rostock',
+      'Jahn Regensburg':'regensburg',
+      'MSV Duisburg':'duisburg',
+      'Preußen Münster':'muenster',
+      'Rot-Weiss Essen':'essen',
+      'SC Verl':'verl',
+      'SG Sonnenhof Großaspach':'grossaspach',
+      'SV Meppen':'meppen',
+      'SV Waldhof Mannheim':'mannheim',
+      'SV Wehen Wiesbaden':'wiesbaden',
+      'TSG 1899 Hoffenheim II':'hoffenheim2',
+      'TSV Havelse':'havelse',
+      'VfB Stuttgart II':'stuttgart2',
+      'Viktoria Köln':'viktoriakoeln',
+      'Würzburger Kickers':'wuerzburg'
+    };
+    (async () => {
+      try {
+        const tabelle = await fetch('https://api.openligadb.de/getbltable/bl3/' + window.LO_SAISON).then(r=>r.json());
+        document.getElementById('tabelle-body').innerHTML = tabelle.map((t, i) => {
+          const pos = i + 1;
+          const col = posColor(pos);
+          const posHtml = col
+            ? `<span style="display:inline-flex;align-items:center;justify-content:center;width:18px;height:18px;border-radius:50%;background:${col};color:#fff;font-size:10px;font-weight:800">${pos}</span>`
+            : `<span style="font-size:12px;color:var(--text3)">${pos}</span>`;
+          const logo = LOGO_MAP[t.teamName] || LOGO_MAP[t.shortName];
+          const logoHtml = logo ? `<img src="logos/${logo}.png" alt="" style="width:18px;height:18px;object-fit:contain;vertical-align:middle" onerror="this.style.display='none'">` : '';
+          const td = (t.goalDiff > 0 ? "+" : "") + t.goalDiff; return `<tr><td style="padding:4px 8px">${posHtml}</td><td>${logoHtml}</td><td>${esc(t.shortName || t.teamName)}</td><td>${t.matches}</td><td style="color:var(--text3)">${td}</td><td style="font-weight:700">${t.points}</td></tr>`;
+        }).join('');
+      } catch(e) {}
+    })();
+
+    // ─── Nächste Spiele (OpenLigaDB Live) ─────────────────────────────────
+    (async () => {
+      const el = document.getElementById('spiele-list');
+      const KÜRZEL = {
+        '1. FC Saarbrücken':'Saarbrücken',
+        'Alemannia Aachen':'Aachen',
+        'FC Ingolstadt 04':'Ingolstadt',
+        'Fortuna Düsseldorf':'Düsseldorf',
+        'Fortuna Köln':'Fortuna Köln',
+        'Hansa Rostock':'Rostock',
+        'Jahn Regensburg':'Regensburg',
+        'MSV Duisburg':'Duisburg',
+        'Preußen Münster':'Münster',
+        'Rot-Weiss Essen':'RW Essen',
+        'SC Verl':'Verl',
+        'SG Sonnenhof Großaspach':'Großaspach',
+        'SV Meppen':'Meppen',
+        'SV Waldhof Mannheim':'Mannheim',
+        'SV Wehen Wiesbaden':'Wiesbaden',
+        'TSG 1899 Hoffenheim II':'Hoffenheim II',
+        'TSV Havelse':'Havelse',
+        'VfB Stuttgart II':'Stuttgart II',
+        'Viktoria Köln':'Viktoria Köln',
+        'Würzburger Kickers':'Würzburg'
+      };
+      const kürzel = n => KÜRZEL[n] || n;
+      const todayStr = () => {
+        const d = new Date();
+        return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+      };
+      const fmtDatum = iso => {
+        const d = new Date(iso);
+        const today = todayStr();
+        const ds = `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+        if (ds === today) return 'HEUTE';
+        const wd = ['So','Mo','Di','Mi','Do','Fr','Sa'][d.getDay()];
+        return `${wd} ${String(d.getDate()).padStart(2,'0')}.${String(d.getMonth()+1).padStart(2,'0')}.`;
+      };
+      const fmtTime = iso => {
+        const d = new Date(iso);
+        return `${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`;
+      };
+      try {
+        // Aktuellen Spieltag holen
+        // Über /api?oldb (Cloudflare-Cache, siehe functions/api.js): 12 s Timeout, ein zweiter Versuch
+        const holen = async pfad => {
+          for (let v = 0; v < 2; v++) {
+            try {
+              const r = await fetch('/api?oldb=' + encodeURIComponent(pfad), { signal: AbortSignal.timeout(12000) });
+              if (r.ok) return await r.json();
+            } catch (e) { /* nächster Versuch */ }
+          }
+          throw new Error('OpenLigaDB ' + pfad);
+        };
+        const gid = (await holen('getcurrentgroup/bl3')).groupOrderID;
+        // Aktuellen + nächsten Spieltag laden
+        const [cur, nxt, pokalAlle] = await Promise.all([
+          holen(`getmatchdata/bl3/${window.LO_SAISON}/${gid}`),
+          holen(`getmatchdata/bl3/${window.LO_SAISON}/${gid+1}`).catch(()=>[]),
+          holen(`getmatchdata/dfb/${window.LO_SAISON}`).catch(()=>[]),
+        ]);
+        const oneWeekAgo = Date.now() - 7 * 24 * 60 * 60 * 1000;
+        // DFB-Pokal: nur Spiele mit Bundesligisten, im selben Zeitraum wie die geladenen Spieltage
+        const blEnde = Math.max(...[...cur, ...nxt].map(m => new Date(m.matchDateTime).getTime()));
+        const pokal = pokalAlle.filter(m => (KÜRZEL[m.team1.teamName] || KÜRZEL[m.team2.teamName])
+          && new Date(m.matchDateTime).getTime() <= blEnde).map(m => ({ ...m, pokal: true }));
+        const spiele = [...cur, ...nxt, ...pokal]
+          .filter(m => !(m.matchIsFinished && new Date(m.matchDateTime).getTime() < oneWeekAgo))
+          .sort((a,b) => new Date(a.matchDateTime) - new Date(b.matchDateTime));
+
+        // Nach Datum gruppieren
+        const gruppen = {};
+        spiele.forEach(m => {
+          const ds = fmtDatum(m.matchDateTime);
+          if (!gruppen[ds]) gruppen[ds] = [];
+          gruppen[ds].push(m);
+        });
+
+        el.innerHTML = Object.entries(gruppen).map(([datum, matches]) => {
+          const isHeute = datum === 'HEUTE';
+          const headerStyle = isHeute
+            ? 'padding:6px 12px 4px;font-size:10px;font-weight:800;color:#fff;text-transform:uppercase;letter-spacing:.8px;background:#2e7d32;border-bottom:1px solid var(--item-border)'
+            : 'padding:6px 12px 4px;font-size:10px;font-weight:800;color:var(--accent-text);text-transform:uppercase;letter-spacing:.8px;background:var(--bg3);border-bottom:1px solid var(--item-border)';
+          const rows = matches.map(m => {
+            const finished = m.matchIsFinished;
+            const goals1 = m.matchResults?.find(r=>r.resultTypeID===2)?.pointsTeam1 ?? m.matchResults?.[0]?.pointsTeam1;
+            const goals2 = m.matchResults?.find(r=>r.resultTypeID===2)?.pointsTeam2 ?? m.matchResults?.[0]?.pointsTeam2;
+            const hasScore = finished && goals1 !== undefined;
+            const score = hasScore
+              ? `<span style="font-weight:800;color:#e8c000;min-width:34px;text-align:center">${goals1}:${goals2}</span>`
+              : `<span style="color:var(--text4);min-width:34px;text-align:center;font-size:10px">${fmtTime(m.matchDateTime)}</span>`;
+            const badge = m.pokal
+              ? `<span style="background:#1565c0;color:#fff;font-size:8px;font-weight:800;padding:1px 4px;border-radius:2px;flex-shrink:0" title="DFB-Pokal">DFB</span>`
+              : `<span style="background:#d32f2f;color:#fff;font-size:8px;font-weight:800;padding:1px 4px;border-radius:2px;flex-shrink:0;white-space:nowrap">2. BL</span>`;
+            return `<div class="sp-zeile" data-spiel="${m.matchID}" data-anpfiff="${m.matchDateTimeUTC || ''}" data-fertig="${finished ? 1 : 0}" data-wettbewerb="${m.pokal ? 'DFB-Pokal' : '3. Liga'}" style="display:flex;align-items:center;gap:7px;padding:5px 12px;border-bottom:1px solid var(--item-border)">
+              ${badge}
+              <span class="sp-t sp-h" style="font-size:12px;font-weight:600;color:var(--text2);flex:1;text-align:right">${esc(kürzel(m.team1.teamName))}</span>
+              ${score}
+              <span class="sp-t sp-g" style="font-size:12px;font-weight:600;color:var(--text2);flex:1">${esc(kürzel(m.team2.teamName))}</span>
+            </div>`;
+          }).join('');
+          return `<li>
+            <div style="${headerStyle}">${datum}</div>
+            ${rows}
+          </li>`;
+        }).join('');
+        if (window.loSpieltipp) window.loSpieltipp(el);
+      } catch(e) {
+        el.innerHTML = '<li style="padding:12px;color:var(--text4);font-size:12px">Spielplan nicht verfügbar</li>';
+      }
+    })();
+
+    // ─── Feed & Filter ────────────────────────────────────────────────────────
+    let alleArtikel   = [];
+    const _urlFilter = new URLSearchParams(location.search).get('filter');
+    let aktiverFilter = _urlFilter || null; // null = alle
+
+    function feedItem(a) {
+      const slug = a.pfad.replace('artikel/', '').replace('.html', '');
+      const adminBtn = isAdmin
+        ? `<a href="https://ligaoutsider.de/chefred.html#${slug}" class="admin-edit-btn">✏️ News editieren</a>`
+        : '';
+      return `<li class="feed-item">
+        <a href="${esc(a.pfad)}" class="feed-wappen-link">
+          <img src="${esc(a.wappen_url || 'favicon.png')}" class="feed-wappen" alt="Wappen" />
+        </a>
+        <div class="feed-body">
+          <span class="feed-badge" style="background:${esc(a.badge_bg)};color:${esc(a.badge_fg)}">${esc(a.badge)}</span>
+          <a href="${esc(a.pfad)}" class="feed-title">${esc(a.titel)}</a>
+          <div class="feed-meta"><span class="feed-time">${a.datum.split(' ')[0]}</span>${kommentarChip(a.id)}${adminBtn}</div>
+        </div>
+      </li>`;
+    }
+
+    function gefiltert() {
+      const q = (document.getElementById('search-input').value || '').trim().toLowerCase();
+      return alleArtikel.filter(a => {
+        const matchSearch = !q || a.titel.toLowerCase().includes(q);
+        const matchFilter = !aktiverFilter ||
+          (a.vereine && a.vereine.includes(aktiverFilter)) ||
+          a.titel.toLowerCase().includes(aktiverFilter.toLowerCase());
+        return matchSearch && matchFilter;
+      });
+    }
+
+    // Kommentarzahlen je Artikel. Faellt der Abruf aus, bleibt die Anzeige
+    // einfach leer statt die Liste zu blockieren.
+    let kommentarZahlen = {};
+    async function ladeKommentarZahlen() {
+      try {
+        const r = await fetch('/api?kommentar_zaehler');
+        if (!r.ok) return;
+        kommentarZahlen = await r.json();
+        renderFeed();
+      } catch {}
+    }
+    function kommentarChip(id) {
+      const n = kommentarZahlen[id] || 0;
+      return n ? `<span class="feed-komm" title="${n} Kommentare">💬 ${n}</span>` : '';
+    }
+
+    // Vorschau endet am letzten ganzen Satz. "7.", "St.", "Mio." usw. sind kein Satzende.
+    const KEIN_ENDE = /(^|\s)(\d+|[A-Za-zÄÖÜäöüß]{1,3}|bzw|ca|Mio|Mrd|Nr|Dr|Prof|vgl|evtl|inkl|u\.a|z\.B|d\.h)$/;
+    function anrissSatz(s) {
+      if (!s) return '';
+      const enden = [...s.matchAll(/[.!?][“"]?(?=\s|$)/g)];
+      for (let i = enden.length - 1; i >= 0; i--) {
+        const pos = enden[i].index;
+        if (s[pos] === '.' && KEIN_ENDE.test(s.slice(0, pos))) continue;
+        const satz = s.slice(0, pos + enden[i][0].length);
+        if (satz.length >= 40) return satz;
+        break;
+      }
+      return s + '…';
+    }
+
+    function aufmacherKarte(a) {
+      const bild = a.wappen_url || 'favicon.png';
+      return `<article class="auf-karte">
+        <div class="auf-kopf">
+          <img src="${esc(bild)}" class="auf-wappen" alt="" onerror="this.style.display='none'">
+          <span class="feed-badge" style="background:${esc(a.badge_bg)};color:${esc(a.badge_fg)}">${esc(a.badge)}</span>
+        </div>
+        <a href="${esc(a.pfad)}" class="auf-titel">${esc(a.titel)}</a>
+        <p class="auf-text">${esc(anrissSatz(a.anriss))}</p>
+        <div class="auf-fuss">
+          <span class="feed-time">${a.datum.split(' ')[0]}</span>${kommentarChip(a.id)}
+          <a href="${esc(a.pfad)}" class="auf-mehr">Weiterlesen</a>
+        </div>
+      </article>`;
+    }
+
+    function renderFeed() {
+      const liste = gefiltert();
+      const feed  = document.getElementById('feed');
+      const btn   = document.getElementById('mehr-btn');
+      const titel = document.getElementById('feed-titel');
+      const auf   = document.getElementById('aufmacher');
+
+      titel.textContent = aktiverFilter || 'Aktuell';
+
+      // Aufmacher nur in der ungefilterten Ansicht, sonst doppelt sich alles
+      const suche = (document.getElementById('search-input').value || '').trim();
+      const zeigeAufmacher = !aktiverFilter && !suche && liste.length >= 3;
+      auf.innerHTML = zeigeAufmacher ? liste.slice(0, 3).map(aufmacherKarte).join('') : '';
+      const rest = zeigeAufmacher ? liste.slice(3) : liste;
+
+      feed.innerHTML = rest.length
+        ? rest.slice(0, 50).map(feedItem).join('')
+        : (zeigeAufmacher ? '' : '<li class="feed-loading">Keine Artikel gefunden.</li>');
+      btn.style.display = rest.length > 50 ? 'block' : 'none';
+    }
+
+    // Team-Chip Filter
+    document.querySelectorAll('.team-chip').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const filter = btn.dataset.filter;
+        if (aktiverFilter === filter) {
+          aktiverFilter = null;
+          btn.classList.remove('active');
+        } else {
+          document.querySelectorAll('.team-chip').forEach(b => b.classList.remove('active'));
+          aktiverFilter = filter;
+          btn.classList.add('active');
+        }
+        renderFeed();
+      });
+    });
+
+    // Suche
+    document.getElementById('search-input').addEventListener('input', () => {
+      aktiverFilter = null;
+      document.querySelectorAll('.team-chip').forEach(b => b.classList.remove('active'));
+      renderFeed();
+    });
+
+    // ─── Torjäger & Scorer (OpenLigaDB) ──────────────────────────────────────
+    let teamIcons = {};   // teamId → iconUrl  (global für Modal)
+    let teamNames = {};   // teamId → teamName (global für Modal)
+
+    async function ladeScorer() {
+      try {
+        // Parallel: Torjäger + Teams + letzte Spieltage für Spieler→Team-Mapping
+        const [scorerRes, teamsRes, matchRes] = await Promise.all([
+          fetch('https://api.openligadb.de/getgoalgetters/bl3/' + window.LO_SAISON),
+          fetch('https://api.openligadb.de/getavailableteams/bl3/' + window.LO_SAISON),
+          fetch('https://api.openligadb.de/getmatchdata/bl3/' + window.LO_SAISON)
+        ]);
+        if (!scorerRes.ok) throw new Error();
+        const data = await scorerRes.json();
+
+        if (teamsRes.ok) {
+          const teams = await teamsRes.json();
+          // Eigene Wappen statt fremder Bild-Links (LOGO_MAP oben, aus vereine.py)
+          teams.forEach(t => {
+            const lokal = LOGO_MAP[t.teamName];
+            teamIcons[t.teamId] = lokal ? `logos/${lokal}.png` : t.teamIconUrl;
+            teamNames[t.teamId] = t.teamName;
+          });
+        }
+
+        // goalGetterId → teamId aus Spieldaten
+        const playerTeam = {};
+        if (matchRes.ok) {
+          const matches = await matchRes.json();
+          matches.forEach(m => {
+            (m.goals || []).forEach(g => {
+              if (g.goalGetterID && g.scoringTeamId && !g.isOwnGoal) {
+                playerTeam[g.goalGetterID] = g.scoringTeamId;
+              }
+            });
+          });
+        }
+
+        function playerIcon(p) {
+          const teamId = playerTeam[p.goalGetterId];
+          const url = teamId && teamIcons[teamId];
+          if (!url) return '';
+          return `<img src="${esc(url)}" alt="" onerror="this.style.display='none'" style="width:18px;height:18px;object-fit:contain;flex-shrink:0">`;
+        }
+
+        function playerLi(p, valueHtml) {
+          const tid = playerTeam[p.goalGetterId];
+          return `<li data-playerid="${p.goalGetterId}" data-name="${esc(p.goalGetterName)}" data-team="${tid ? (teamNames[tid] || '') : ''}" style="cursor:pointer" title="Profil anzeigen">
+            ${playerIcon(p)}
+            <span class="scorer-name">${esc(p.goalGetterName)}</span>
+            ${valueHtml}
+          </li>`;
+        }
+
+        const top = data.sort((a,b) => b.goalCount - a.goalCount).slice(0, 8);
+        document.getElementById('torjaeger-list').innerHTML = top
+          .filter(p => p.goalCount > 0)
+          .slice(0, 6)
+          .map(p => playerLi(p, `<span class="scorer-goals">${p.goalCount}</span>`))
+          .join('') || '<li style="color:var(--text4);font-size:12px;padding:10px 12px">Keine Daten</li>';
+
+        // Spieler ohne Wappen (kein Tor in den Spieldaten gefunden): Verein aus der Spieler-Datenbank
+        const ohne = [...document.querySelectorAll('#torjaeger-list li[data-playerid]')].filter(li => !li.querySelector('img'));
+        if (ohne.length) {
+          spielerDbPromise = spielerDbPromise || fetch('spieler_db.json').then(r => r.ok ? r.json() : null).catch(() => null);
+          spielerDbPromise.then(db => {
+            if (!db) return;
+            ohne.forEach(li => {
+              const s = findeInDb(db, li.dataset.name, '');
+              if (!s || !s.logo) return;
+              const img = document.createElement('img');
+              img.src = s.logo.replace(/^\.?\//, '');
+              img.style.cssText = 'width:18px;height:18px;object-fit:contain;flex-shrink:0';
+              img.onerror = () => img.remove();
+              li.prepend(img);
+              li.dataset.team = li.dataset.team || s.verein;
+            });
+          });
+        }
+
+        // Klick-Handler
+        document.getElementById('torjaeger-list').addEventListener('click', e => {
+          const li = e.target.closest('li[data-playerid]');
+          if (li) oeffneSpielerModal(li.dataset.playerid, li.dataset.name, li.dataset.team);
+        });
+      } catch(e) {
+        document.getElementById('torjaeger-list').innerHTML = '<li style="color:var(--text4);font-size:12px;padding:10px 12px">Saison noch nicht gestartet</li>';
+      }
+    }
+    ladeScorer();
+
+    // ─── Spieler-Modal ────────────────────────────────────────────────────────
+    // Spieler-Datenbank (Transfermarkt-Kader) als Grundlage für jedes Profil
+    let spielerDbPromise = null;
+    const nameKey = n => String(n || '').normalize('NFKD').replace(/[\u0300-\u036f]/g, '').toLowerCase()
+      .replace(/ø/g, 'o').replace(/ß/g, 'ss').replace(/ł/g, 'l').replace(/[^a-z ]/g, ' ').trim().split(/\s+/);
+    function findeInDb(db, name, team) {
+      const k = nameKey(name.replace(/^([A-ZÄÖÜ])\.\s*/, '$1 '));
+      const nach = k[k.length - 1], init = k.length > 1 && k[0].length === 1 ? k[0] : null;
+      const alle = [];
+      for (const [tn, t] of Object.entries(db.teams)) for (const s of t.spieler) alle.push({ ...s, verein: tn, logo: t.logo });
+      let treffer = alle.filter(s => { const sk = nameKey(s.name); return sk[sk.length - 1] === nach && (!init || sk[0][0] === init); });
+      if (treffer.length > 1 && team) {
+        const tk = nameKey(team).filter(w => w.length > 3);
+        const eng = treffer.filter(s => nameKey(s.verein).some(w => tk.includes(w)));
+        if (eng.length) treffer = eng;
+      }
+      return treffer.length === 1 ? treffer[0] : null;
+    }
+    function alterAus(geb) {
+      const m = /(\d\d)\.(\d\d)\.(\d{4})/.exec(geb || '');
+      if (!m) return '';
+      const g = new Date(+m[3], +m[2] - 1, +m[1]), h = new Date();
+      return h.getFullYear() - g.getFullYear() - (h < new Date(h.getFullYear(), g.getMonth(), g.getDate()) ? 1 : 0);
+    }
+
+    let spielerNewsPromise = null;
+    async function zeigeSpielerNews(ziel, tmId) {
+      spielerNewsPromise = spielerNewsPromise || fetch('spieler_news.json').then(r => r.ok ? r.json() : {}).catch(() => ({}));
+      const liste = (await spielerNewsPromise)[String(tmId)] || [];
+      if (!liste.length) return;
+      const e = t => String(t).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+      ziel.innerHTML = '<div class="lo-sp-news-t">Letzte News</div>' + liste.map(n =>
+        `<a href="${e(n.pfad)}"><span>${e(n.titel)}</span><small>${e(n.datum.split(' ')[0])}</small></a>`).join('');
+    }
+
+    async function oeffneSpielerModal(goalGetterId, name, team) {
+      const modal = document.getElementById('spieler-modal');
+      const inhalt = document.getElementById('spieler-modal-inhalt');
+      inhalt.innerHTML = '<p style="color:var(--text3);text-align:center;padding:40px 0">Lädt…</p>';
+      modal.style.display = 'block';
+      document.body.style.overflow = 'hidden';
+
+      spielerDbPromise = spielerDbPromise || fetch('spieler_db.json').then(r => r.ok ? r.json() : null).catch(() => null);
+      const [profil, db] = await Promise.all([
+        fetch(`spieler/${goalGetterId}.json`).then(r => r.ok ? r.json() : null).catch(() => null),
+        spielerDbPromise,
+      ]);
+      const s = db && name ? findeInDb(db, name, team) : null;
+      if (!profil && !s) {
+        inhalt.innerHTML = '<p style="color:var(--text3);text-align:center;padding:40px 0">Keine Daten verfügbar</p>';
+        return;
+      }
+      const d = { ...(profil || {}) };
+      if (s) {
+        d.name = s.name;
+        d.position = s.position || d.position;
+        d.nation = (s.nation || []).join(' / ') || d.nation;
+        d.alter = alterAus(s.geboren) || d.alter;
+        d.marktwert = s.tm_marktwert || d.marktwert;
+        d.verein = s.verein;
+      }
+      d.name = d.name || name;
+
+      const infos = [
+        d.position && `<span>${d.position}</span>`,
+        d.nation    && `<span>${d.nation}</span>`,
+        d.alter     && `<span>${d.alter} Jahre</span>`,
+        d.groesse   && `<span>${d.groesse}</span>`,
+        d.marktwert && `<span style="color:var(--gold)">${d.marktwert}</span>`,
+        d.verein    && `<span>${d.verein}</span>`,
+      ].filter(Boolean).join('<span style="color:var(--text4)"> · </span>');
+
+      // Bundesliga Leistungsdaten nach Saison
+      let karriereHtml = '';
+      if (d.karriere && d.karriere.length) {
+        const saisonOrder = [];
+        const bySaison = {};
+        d.karriere.forEach(k => {
+          if (!bySaison[k.saison]) { bySaison[k.saison] = []; saisonOrder.push(k.saison); }
+          bySaison[k.saison].push(k);
+        });
+        const saisonBlocks = saisonOrder.map(saison => {
+          const rows = bySaison[saison].map(k => {
+            const logoHtml = k.verein_icon
+              ? `<img src="${k.verein_icon}" alt="${k.verein}" title="${k.verein}" style="width:24px;height:24px;object-fit:contain;vertical-align:middle" onerror="this.style.display='none'">`
+              : `<span style="font-size:12px;color:var(--text3)">${k.verein}</span>`;
+            return `<tr style="border-bottom:1px solid var(--border)">
+              <td style="padding:6px 8px;white-space:nowrap">${logoHtml}</td>
+              <td style="padding:6px 8px;text-align:right">${k.spiele}</td>
+              <td style="padding:6px 8px;text-align:right;font-weight:700;color:var(--gold)">${k.tore}</td>
+              <td style="padding:6px 8px;text-align:right">${k.assists}</td>
+            </tr>`;
+          }).join('');
+          return `<div style="margin-top:16px">
+            <div style="font-size:11px;font-weight:700;color:var(--text3);text-transform:uppercase;letter-spacing:.05em;margin-bottom:4px">Saison ${saison}</div>
+            <table style="width:100%;border-collapse:collapse;font-size:13px">
+              <thead><tr style="color:var(--text4);font-size:11px">
+                <th style="text-align:left;padding:4px 8px;font-weight:500">Verein</th>
+                <th style="text-align:right;padding:4px 8px;font-weight:500">Sp</th>
+                <th style="text-align:right;padding:4px 8px;font-weight:500">Tore</th>
+                <th style="text-align:right;padding:4px 8px;font-weight:500">Vorlagen</th>
+              </tr></thead>
+              <tbody>${rows}</tbody>
+            </table>
+          </div>`;
+        }).join('');
+        karriereHtml = `
+          <div style="margin-top:20px;margin-bottom:8px;font-size:12px;font-weight:700;color:var(--text2);text-transform:uppercase;letter-spacing:.08em;border-bottom:1px solid var(--border);padding-bottom:6px">Bundesliga Leistungsdaten</div>
+          ${saisonBlocks}`;
+      }
+
+      // Vereinshistorie
+      let historyHtml = '';
+      if (d.vereinshistorie && d.vereinshistorie.length) {
+        const rows = d.vereinshistorie.map(v => {
+          const logo = v.verein_icon
+            ? `<img src="${v.verein_icon}" alt="${v.verein}" title="${v.verein}" style="width:20px;height:20px;object-fit:contain;vertical-align:middle;margin-right:6px" onerror="this.style.display='none'">`
+            : '';
+          const leihe = v.leihe ? `<span style="font-size:10px;color:var(--text4);margin-left:6px">(Leihe)</span>` : '';
+          return `<div style="display:flex;align-items:center;padding:5px 0;border-bottom:1px solid var(--border);font-size:13px">
+            <span style="color:var(--text4);font-size:11px;width:38px;flex-shrink:0">${v.jahr}</span>
+            ${logo}<span style="color:var(--text1)">${v.verein}</span>${leihe}
+          </div>`;
+        }).join('');
+        historyHtml = `
+          <div style="margin-top:20px;margin-bottom:8px;font-size:12px;font-weight:700;color:var(--text2);text-transform:uppercase;letter-spacing:.08em;border-bottom:1px solid var(--border);padding-bottom:6px">Vereinshistorie</div>
+          ${rows}`;
+      }
+
+      const detail = s ? [
+        ['Rückennummer', s.nr], ['Geboren', s.geboren], ['Starker Fuß', s.fuss],
+        ['Vertrag bis', s.vertrag_bis], ['Kickbase-Position', s.kickbase && s.kickbase.position],
+      ].filter(([, v]) => v).map(([k, v]) => `<div style="display:flex;justify-content:space-between;padding:5px 0;border-bottom:1px solid var(--border);font-size:13px">
+          <span style="color:var(--text3)">${k}</span><span style="color:var(--text1)">${v}</span></div>`).join('') : '';
+      const hinweise = s && (s.tm_hinweise || []).length
+        ? `<div style="margin-top:12px;padding:8px 10px;border-radius:6px;background:rgba(224,72,72,.12);color:#e06060;font-size:12px">${s.tm_hinweise.join('<br>')}</div>` : '';
+
+      inhalt.innerHTML = `
+        <div style="margin-bottom:14px">
+          ${s && s.logo ? `<img src="${s.logo}" alt="" style="width:36px;height:36px;object-fit:contain;float:right;margin-right:28px">` : ''}
+          <div style="font-size:20px;font-weight:700;color:var(--text1)">${esc(d.name)}${s && s.kapitaen ? ' <span title="Kapitän" style="font-size:13px;color:var(--gold)">(C)</span>' : ''}</div>
+          <div style="font-size:12px;color:var(--text3);margin-top:4px;line-height:1.8">${infos}</div>
+        </div>
+        ${hinweise}
+        ${detail ? `<div style="margin-top:14px">${detail}</div>` : ''}
+        <div class="lo-sp-news" id="modal-news"></div>
+        ${karriereHtml}
+        ${historyHtml}
+      `;
+      if (s) zeigeSpielerNews(document.getElementById('modal-news'), s.tm_id);
+    }
+
+    document.getElementById('spieler-modal').addEventListener('click', function(e) {
+      if (e.target === this) {
+        this.style.display = 'none';
+        document.body.style.overflow = '';
+      }
+    });
+
+    const SUPABASE_URL  = location.origin + '/sb';
+    const SUPABASE_ANON = 'sb_publishable_FQH-uSDHZkVrVBtYfUYQQQ_atmsR-wF';
+
+    // Frisch ausgeblendete Artikel liegen in Supabase, bis der naechste Build
+    // sie wirklich entfernt. Faellt der Abruf aus, wird nichts gefiltert.
+    async function versteckteIds() {
+      try {
+        const r = await fetch(`${SUPABASE_URL}/rest/v1/hidden_articles?select=artikel_id`, {
+          headers: { apikey: SUPABASE_ANON, Authorization: `Bearer ${SUPABASE_ANON}` }
+        });
+        if (!r.ok) return new Set();
+        return new Set((await r.json()).map(x => x.artikel_id));
+      } catch { return new Set(); }
+    }
+
+    // Feed laden
+    Promise.all([
+      fetch('feed.json').then(r => r.ok ? r.json() : Promise.reject()),
+      versteckteIds()
+    ])
+      .then(([artikel, versteckt]) => {
+        alleArtikel = artikel.filter(a => !versteckt.has(a.id));
+        renderFeed();
+        ladeKommentarZahlen();
+      })
+      .catch(() => {
+        document.getElementById('feed').innerHTML =
+          '<li class="feed-loading">feed.json nicht gefunden – starte generate.py.</li>';
+      });
+  </script>
+
+</body>
+</html>
