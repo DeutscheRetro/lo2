@@ -194,7 +194,7 @@ def main():
         if ok:
             _html_anpassen(pfad, titel, text, neu_titel, neu_text)
             e["titel"] = neu_titel
-            e["anriss"] = " ".join(neu_text.split()[:30])
+            e["anriss"] = " ".join(neu_text.split()[:45])
             if neu_titel != html.unescape(titel):
                 gen.og_karte(e["id"], neu_titel, e.get("kategorie", "news"), e.get("wappen_url", ""), e.get("bild_tm") or None)
             geaendert += 1
