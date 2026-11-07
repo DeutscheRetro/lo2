@@ -302,11 +302,11 @@
       };
       try {
         // Aktuellen Spieltag holen
-        // OpenLigaDB hängt an Spieltagen manchmal: 8 s Timeout, ein zweiter Versuch
+        // Über /api?oldb (Cloudflare-Cache, siehe functions/api.js): 12 s Timeout, ein zweiter Versuch
         const holen = async pfad => {
           for (let v = 0; v < 2; v++) {
             try {
-              const r = await fetch('https://api.openligadb.de/' + pfad, { signal: AbortSignal.timeout(8000) });
+              const r = await fetch('/api?oldb=' + encodeURIComponent(pfad), { signal: AbortSignal.timeout(12000) });
               if (r.ok) return await r.json();
             } catch (e) { /* nächster Versuch */ }
           }
