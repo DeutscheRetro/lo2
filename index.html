@@ -302,13 +302,22 @@
       };
       try {
         // Aktuellen Spieltag holen
-        const grp = await fetch('https://api.openligadb.de/getcurrentgroup/bl2').then(r=>r.json());
-        const gid = grp.groupOrderID;
+        // OpenLigaDB hängt an Spieltagen manchmal: 8 s Timeout, ein zweiter Versuch
+        const holen = async pfad => {
+          for (let v = 0; v < 2; v++) {
+            try {
+              const r = await fetch('https://api.openligadb.de/' + pfad, { signal: AbortSignal.timeout(8000) });
+              if (r.ok) return await r.json();
+            } catch (e) { /* nächster Versuch */ }
+          }
+          throw new Error('OpenLigaDB ' + pfad);
+        };
+        const gid = (await holen('getcurrentgroup/bl2')).groupOrderID;
         // Aktuellen + nächsten Spieltag laden
         const [cur, nxt, pokalAlle] = await Promise.all([
-          fetch(`https://api.openligadb.de/getmatchdata/bl2/${window.LO_SAISON}/${gid}`).then(r=>r.json()),
-          fetch(`https://api.openligadb.de/getmatchdata/bl2/${window.LO_SAISON}/${gid+1}`).then(r=>r.json()).catch(()=>[]),
-          fetch(`https://api.openligadb.de/getmatchdata/dfb/${window.LO_SAISON}`).then(r=>r.json()).catch(()=>[]),
+          holen(`getmatchdata/bl2/${window.LO_SAISON}/${gid}`),
+          holen(`getmatchdata/bl2/${window.LO_SAISON}/${gid+1}`).catch(()=>[]),
+          holen(`getmatchdata/dfb/${window.LO_SAISON}`).catch(()=>[]),
         ]);
         const oneWeekAgo = Date.now() - 7 * 24 * 60 * 60 * 1000;
         // DFB-Pokal: nur Spiele mit Bundesligisten, im selben Zeitraum wie die geladenen Spieltage
