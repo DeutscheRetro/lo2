@@ -1,441 +1,5 @@
 [
  {
-  "id": "064b0e074a",
-  "schluessel": "darmstadt|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Darmstadt",
-  "klubs": [
-   "Darmstadt"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Smits Vorhaben: \"Muss ein bisschen mehr Egoist sein\"",
-  "quellen": [
-   {
-    "url": "https://www.kicker.de/smits-vorhaben-muss-ein-bisschen-mehr-egoist-sein-1268847/artikel#omrss",
-    "aid": "046252a467",
-    "titel": "Smits Vorhaben: \"Muss ein bisschen mehr Egoist sein\"",
-    "quelle": "kicker 2. Bundesliga News",
-    "beschr": "Milan Smit sollte im Darmstädter Sturm die Lücke füllen, die nach dem Verkauf mehrerer Angreifer entstanden ist. Das ist dem Niederländer bisher nur bedingt gelungen. Doch zuletzt zeigte die Formkurve nach oben.",
-    "zeit": "2026-11-06T17:48"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-06T18:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "1859b5b6a3",
-  "schluessel": "heidenheim|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Heidenheim",
-  "klubs": [
-   "Heidenheim"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "\"Das hat etwas mit mir gemacht\": Schmidt grübelte \"Monate\" über sein Ende",
-  "quellen": [
-   {
-    "url": "https://www.kicker.de/das-hat-etwas-mit-mir-gemacht-schmidt-gruebelte-monate-ueber-sein-ende-1269243/artikel#omrss",
-    "aid": "5404603833",
-    "titel": "\"Das hat etwas mit mir gemacht\": Schmidt grübelte \"Monate\" über sein Ende",
-    "quelle": "kicker 2. Bundesliga News",
-    "beschr": "Wenige Tage nach seinem Entschluss, den 1. FC Heidenheim nach einer gefühlten Ewigkeit zu verlassen, hat sich Frank Schmidt ausführlich erklärt - und Einblicke in seine Gefühlswelt gegeben.",
-    "zeit": "2026-11-06T16:48"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "u",
-  "erstmals": "2026-11-06T18:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "266595430c",
-  "schluessel": "furth|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Fürth",
-  "klubs": [
-   "Fürth",
-   "Hannover"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Dynamo gegen Fürth live: Stamm nimmt nach Hannover-Pleite vier Wechsel vor!",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNd2FxUjlVUWpmNm9TbkF5VzFhSk80aG1XYUJXMTNYSm8wQjhzQ0xHeFBBWWtJdEtCeUdUdXFoVHh6emlHWEdzYXZhMWVqNS1qajJNVGhXWDV3VDdZTkZnZ1ktdTlQRkhmMG5GQ3Rxb1Y0aFIwVVlNcVRUczFNM0lMdHJGOUZjZUlVN21lYWY0dnk3clNYRmhzTVMzT3E2Yk1sSXE4dDF3Zm5JcC01Uy1OZTB0X1RiYW93c0d5U2Q5blM0UnBOSEhScHlmQlBXczREaUNJeWRzQ2d0Q2c?oc=5",
-    "aid": "5ee5bed48c",
-    "titel": "Dynamo gegen Fürth live: Stamm nimmt nach Hannover-Pleite vier Wechsel vor!",
-    "quelle": "TAG24",
-    "beschr": " Dynamo gegen Fürth live: Stamm nimmt nach Hannover-Pleite vier Wechsel vor! &nbsp;&nbsp; TAG24 ",
-    "zeit": "2026-11-06T17:32"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-06T18:01",
-  "archiv": [
-   {
-    "id": "17f7b2ba54",
-    "titel": "Keller trifft spät: Fürth schlägt Kiel mit 1:0",
-    "datum": "01.11.",
-    "stufe": "spielbericht",
-    "summary": "Die SpVgg Greuther Fürth schlägt Holstein Kiel am 10. Spieltag mit 1:0. Aaron Keller trifft in der 87. Minute nach Vorarbeit von Dennis Srbeny."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "f049d228bc",
-  "schluessel": "heidenheim|trainer",
-  "person": "",
-  "spieler": [],
-  "klub": "Heidenheim",
-  "klubs": [
-   "Heidenheim"
-  ],
-  "stufe": "trainer_kandidat",
-  "klasse": "trainer",
-  "titel": "Heidenheim sucht neuen Trainer: Schnatterer wird nicht Schmidts Nachfolger!",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWTlFdjlUM08yTk1yem9GN3RiRWlrZHVTNkJSSVVkNnMyWG1ULXRNaGlFMnViX2VOSHJpc3QzamI2aS1QbTNaaFVIZEE2c3d5VXlRdzc5M1JpZnpTeWZZWWthcmM4d2MxTUFVS2Y4MVVXa3RXTE1DWHJOblNwT29uWWpOTHRCWkM3SnlVbi1mOHVUd3U0T0hlOVRHWnM5UEEtT3lxNFpXN19GZw?oc=5",
-    "aid": "4c1317c2e9",
-    "titel": "Heidenheim sucht neuen Trainer: Schnatterer wird nicht Schmidts Nachfolger!",
-    "quelle": "donau 3 fm",
-    "beschr": " Heidenheim sucht neuen Trainer: Schnatterer wird nicht Schmidts Nachfolger! &nbsp;&nbsp; donau 3 fm ",
-    "zeit": "2026-11-06T12:27"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 3,
-  "status": "u",
-  "erstmals": "2026-11-06T18:01",
-  "archiv": [
-   {
-    "id": "04270defe9",
-    "titel": "Heidenheim: Patrick Mayer im Kreis der Schmidt-Nachfolger",
-    "datum": "06.11.",
-    "stufe": "trainer_kandidat",
-    "summary": "Heidenheim zieht laut „kicker“ U19- und U21-Trainer Patrick Mayer als Nachfolger für Frank Schmidt in Betracht. Schmidt verlängert seinen Vertrag im Sommer nicht, nach 20 Jahren endet seine Ära."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "9ac77f7670",
-  "schluessel": "st. pauli|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "St. Pauli",
-  "klubs": [
-   "St. Pauli",
-   "Magdeburg"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Ende der Unentschieden-Serie?: FC St. Pauli beim heimstarken 1. FC Magdeburg gefordert",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLWx5MnJ2a2szSndRLWNuaWU4MDJjd08weHczU2lsRGh2NDBEa2YtZ2owWXNUQXVUU0xiaGVDcUZCSW1NS2ZPdURXZHROd2txVVRqN3ppMGZ3cmYzWExtRUNTRkQ1R1NjOFRnWEtJeE4tcTE2bFdodTdxbU1aU1pjdWpUN3daVFkxT0JGMVp5b2tHbjZKSjBnby1FTnFlZTQxODFQNzRpTlZDTVU?oc=5",
-    "aid": "1594ae1630",
-    "titel": "Ende der Unentschieden-Serie?: FC St. Pauli beim heimstarken 1. FC Magdeburg gefordert",
-    "quelle": "Hamburg 1",
-    "beschr": " Ende der Unentschieden-Serie?: FC St. Pauli beim heimstarken 1. FC Magdeburg gefordert &nbsp;&nbsp; Hamburg 1 ",
-    "zeit": "2026-11-06T17:17"
-   },
-   {
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQUh6MGx6YmwwakRGR2NIM2ROQlAwYjlRMFVtMXpWWWdxZzZyNHNnendjYktVb1dDVGRrR2JfVE8tZGNEY19PQTNqMHlmUWY4MDBrMVhkM3dJcl93VmY1eUZpWllJRGxVajZHdE95aklfUXFsUVg1UFFqTUhfckNxYm5MMDY2WXk5RjhYcEZLQzlRMWUtYXFodQ?oc=5",
-    "aid": "5e3d47db0c",
-    "titel": "FC St. Pauli will Unentschieden-Serie in Magdeburg beenden",
-    "quelle": "SAT.1 Regional",
-    "beschr": " FC St. Pauli will Unentschieden-Serie in Magdeburg beenden &nbsp;&nbsp; SAT.1 Regional ",
-    "zeit": "2026-11-06T17:05"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-06T18:01",
-  "archiv": [
-   {
-    "id": "b4e9126002",
-    "titel": "Klose nach Sieg bei St. Pauli: „Normalerweise verliert man solche Spiele“",
-    "datum": "06.11.",
-    "stufe": "spielbericht",
-    "summary": "Nürnbergs Trainer Miroslav Klose ordnet den 3:1-Sieg bei St. Pauli ein und lobt die Gemeinschaft im Team. Über einen Aufstieg als Ziel will er als Tabellenzweiter nicht sprechen."
-   },
-   {
-    "id": "f9d7235522",
-    "titel": "St. Pauli verliert trotz 4,13 Expected Goals 1:3 gegen Nürnberg",
-    "datum": "02.11.",
-    "stufe": "spielbericht",
-    "summary": "St. Pauli verliert das Spitzenspiel gegen Nürnberg 1:3, obwohl die Expected Goals 4,13 zu 0,92 lauten. Trainer Marcel Rapp sieht sein Team auf dem richtigen Weg, am Sonntag geht es nach Magdeburg."
-   },
-   {
-    "id": "7a2fa6344c",
-    "titel": "Nemeth: „Diese Niederlage war wichtig für uns“",
-    "datum": "01.11.",
-    "stufe": "spielbericht",
-    "summary": "St. Paulis Kapitän David Nemeth bezeichnet die Pokal-Niederlage gegen Rot-Weiss Essen als wichtig. Er spricht über seine neue Rolle, die defensive Stabilität und die vielen Unentschieden."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "765f60635f",
-  "schluessel": "braunschweig|transfer",
-  "person": "",
-  "spieler": [],
-  "klub": "Braunschweig",
-  "klubs": [
-   "Braunschweig",
-   "Frankfurt"
-  ],
-  "stufe": "vollzogen",
-  "klasse": "transfer",
-  "titel": "Eintracht Braunschweig: Kornetkas vielsagende Worte über Null-Minuten-Neuzugang Kovacevic",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUk0za2pNTGlCVXlVNDVrOEhoelQ4bkl1MVZOMkpmSEthNERLOXFndXFxUHhEcWtXRTRuT3M2d0NfWlNLNF9mQXc4UjVkZ2JwVThTZE5DNE9lQ0NuWktXaEtQTG5EZVpSakJuR0x6N0QtNkl1U2xOQjRBamtaOTFGQkx2cUdNNUtaQ1ZpYWk3NUZYRUZISUFLa1FBLXRkQjAzWWs4VXd4SkNwYzNQWnFmX2dTeVhBRXJwYTVZYkYtdFhKUll1Y3VnTER5MG9xSGFOREhVanVnV2hsMEpfTUQ1VWVLYlFPUDlUUmQ3VmptOUsza2x60gGQAkFVX3lxTE9NWkpRMzFoN19pX0JNenc4N2FWT0pMeTFLOVdHVi1pUTBLb1RzR2kwSG93aUJiMkl5RUVsb3gzM2tIM0JSOWg0d2ZPNFRVSFZ2NnB1bkc4STJ4cGZXLU1KVlFLQ2VQa0FUeHF0TDhBdC1mZHIxY3pSX0h3ZVJGd203U2V1endOT3lSc0ZucHJWU2RlTHV4RmJWTTlaUGQ4QnZJVVlQc3lObVlWMDNPdFNLaFJWZjJOSUZGakd5S1RDZ29NSmlvYU83OV9vb0k4dENEanFORDR0TTdLTk81LTNOOHI5WlMzZk0zZ0l2TmxVaU9FT3pkNy1SVGI5Ylk1VHlJeEhWU1ZhMHRod3hRaWxW?oc=5",
-    "aid": "56dfb3ed65",
-    "titel": "Eintracht Braunschweig: Kornetkas vielsagende Worte über Null-Minuten-Neuzugang Kovacevic",
-    "quelle": "WAZ-ONLINE.de",
-    "beschr": " Eintracht Braunschweig: Kornetkas vielsagende Worte über Null-Minuten-Neuzugang Kovacevic &nbsp;&nbsp; WAZ-ONLINE.de ",
-    "zeit": "2026-11-06T16:19"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "u",
-  "erstmals": "2026-11-06T18:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "3d2fce4113",
-  "schluessel": "hannover|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hannover",
-  "klubs": [
-   "Hannover"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Hannover 96 im Mann gegen Mann: Das sagt Trainer Wagner über „Herrn Schmidt“",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVkh5eC1UMm9yXzh0S3pxZkNpNy1sT1BicmNpcmdHTXNLU1EtajYtUzByVDVXbWtmUDZmZjlpdGZMNzk2N1RXS1I4eThOM2w3NXhVdVhCclNwU00yQnJmU1pDem05MDM2MDNia3dueTNWV2pLaUZKLXhkejVFNVZ2a1RFRmk3WTZIWnJDRnZXWU1VOGs5N1lfbTRxSHVJM3hLYURyUjVxdS0zLTZaVXhfaTVqRTNnTkVfakJuWl96ckdZTDBYQmVtcG0taVlzd21zR2ZNY3BYdi1MN0RDT3VQZXJhSTdoSURfVWJ1cWc0aUY0YlE?oc=5",
-    "aid": "bd20252193",
-    "titel": "Hannover 96 im Mann gegen Mann: Das sagt Trainer Wagner über „Herrn Schmidt“",
-    "quelle": "Neue Presse",
-    "beschr": " Hannover 96 im Mann gegen Mann: Das sagt Trainer Wagner über „Herrn Schmidt“ &nbsp;&nbsp; Neue Presse ",
-    "zeit": "2026-11-06T17:00"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-06T18:01",
-  "archiv": [
-   {
-    "id": "1e14aee0b2",
-    "titel": "Mattuschka rügt Hannover 96: Außendarstellung „unfassbar schlecht“",
-    "datum": "06.11.",
-    "stufe": "sonstiges",
-    "summary": "Sky-Experte Torsten Mattuschka kritisiert die Außendarstellung von Hannover 96 nach der Boldt-Entlassung als „unfassbar schlecht“. Drei Kandidaten sind laut Sky für die Nachfolge im Rennen, darunter Marko Marin."
-   },
-   {
-    "id": "f24f0b5c26",
-    "titel": "Heidenheim will Schmidt-Abschied gegen Hannover vergolden",
-    "datum": "06.11.",
-    "stufe": "sonstiges",
-    "summary": "Heidenheim empfängt am Sonntag Hannover 96 und ist zu Hause noch ungeschlagen. Es ist das erste Spiel nach der Ankündigung, dass Trainer Frank Schmidt im Sommer aufhört."
-   },
-   {
-    "id": "46380a1986",
-    "titel": "Wontorra stärkt Hannovers Trainer Wagner den Rücken",
-    "datum": "01.11.",
-    "stufe": "sonstiges",
-    "summary": "Moderatorin Laura Wontorra stärkt Hannovers Trainer Sandro Wagner, der nach vier Pflichtspielen noch sieglos ist, im Podcast „TOMorrow“ den Rücken. Sie traut ihm eine große Trainerkarriere zu."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "b5869a3c44",
-  "schluessel": "hertha|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hertha",
-  "klubs": [
-   "Hertha",
-   "Wolfsburg"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Brekalo oder Reese? Hertha BSC und VfL Wolfsburg im Mann-gegen-Mann-Vergleich",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU0FJaUhFd1VLLWdyQUhISWFNckZxZmZHZVM4ZWk0RGJtQmZGNWZYcWNrTmdNVS1PR1BQZEI0Qm4tOTZGRG9jaVZsVlJYcndTVEZKSDZzY21RUEZUcWJlMmJsanp6Vno2RVR4cHpjR0hoaWhRUnVSa2VyT2JnanBTLXJ3Tk4zcHI0Rjc3aTFValk5VXpzUndmRG0zaTI5bzBXcC1BcEkyRXF3NHhWbk5pUWZMRVFEcjFaT2tUcHJodUs1TnQ3TjUwY05nQzRYVGFpV0Y4?oc=5",
-    "aid": "60a4942f41",
-    "titel": "Brekalo oder Reese? Hertha BSC und VfL Wolfsburg im Mann-gegen-Mann-Vergleich",
-    "quelle": "Berliner Morgenpost",
-    "beschr": " Brekalo oder Reese? Hertha BSC und VfL Wolfsburg im Mann-gegen-Mann-Vergleich &nbsp;&nbsp; Berliner Morgenpost ",
-    "zeit": "2026-11-06T17:30"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-06T18:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "dd7a49e995",
-  "schluessel": "kiel|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Kiel",
-  "klubs": [
-   "Kiel"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Holstein Kiel profitiert von der defensiven Stabilität durch Noah Madsen",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWFNWMHdWRm1CeU1iU1RkbjJISmdEa2JOTi1PcF92VFhlMTBUcUZyV0N6Z3EwblBRT2JGcTNPOWFWOG41OGlUSXB0alFIUTFBYWc5TVBwUXFRamJna2dyYjJEZHV3X0FGM0YxZTlldXdXR2UzdmtSVFo5bjBVZk92X053UENNbWRwNm1HdXhwTkJUdTVYUFdFQ0RBRHR4UXZiMGRpUm9va05mYlY1Vmg2czF30gG3AUFVX3lxTE9EUTltdVMwZnpiR0VvcEVVX3VOZW51RE1YMXRzUk5xd2NiVndENHFsaDNyYm10c1dtWmx3TTZDMHJiV1R0eEsyN0ZnTlVqS0RLX1ZZZ2NhN2tWSXdhZ2dKaTF1ZzFwb3RJSjNYaUdOY016cWdsMU9zWDJyVlJkR0RESS02YXB3aTBLdGYtejlic09QYWt6WnBlVUdPWEJuZllqLUs0RS1ETjlOVS1mdUo5WkM0OWdzSQ?oc=5",
-    "aid": "4291b70efd",
-    "titel": "Holstein Kiel profitiert von der defensiven Stabilität durch Noah Madsen",
-    "quelle": "Tribuna.com",
-    "beschr": " Holstein Kiel profitiert von der defensiven Stabilität durch Noah Madsen &nbsp;&nbsp; Tribuna.com ",
-    "zeit": "2026-11-06T14:27"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-06T18:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "69e1ba705d",
-  "schluessel": "bochum|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Bochum",
-  "klubs": [
-   "Bochum",
-   "Karlsruhe"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "VfL Bochum: Drei spannende Fragen vor dem KSC‑Spiel – Auf wen setzt Rösler?",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTWQ4TmdBVFFCQ0x0SnlaRzJLZEVYdW82RnRrQ1JTa2d4Y0VxOWZMWEoxS3BXOEJSWWdtUFk3T2M3alJCUEg3NWl4OWVubXJOdzhReDJoVm1FZHplaF9EdFo1V01RM2tWWHBSMWFyLUoyX25tRk1wTEszWElyNjNUODdkdXcza0hiOWFNd2I3c0xWV1JRQXVjWEstTFlYYjhLdm9MTWo4c2dRNWtfV3ZkTlBDZ1lGOFZMNFpTMmhkNGxYT0w1cFZ5WkVNdU1pWl9p?oc=5",
-    "aid": "7711ea4776",
-    "titel": "VfL Bochum: Drei spannende Fragen vor dem KSC‑Spiel – Auf wen setzt Rösler?",
-    "quelle": "WAZ | Westdeutsche Allgemeine Zeitung",
-    "beschr": " VfL Bochum: Drei spannende Fragen vor dem KSC‑Spiel – Auf wen setzt Rösler? &nbsp;&nbsp; WAZ | Westdeutsche Allgemeine Zeitung ",
-    "zeit": "2026-11-06T16:48"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-06T18:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "c2409bf3d6",
-  "schluessel": "karlsruhe|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Karlsruhe",
-  "klubs": [
-   "Karlsruhe"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Karlsruher SC findet mit Santeri Väänänen die gewünschte Stabilität im Mittelfeld",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcFQ5QUJSUDhPV0xDbnd3cUYwREFMY25qQ1ZDNVBOakRKNzNjSWhPVFl0alRja0RVMTYwSEhMdzFJbHlIdXBWcmYzYmtseWR3ZzhWa0UzNWY2VkE3OVdMbW81eU8tVlFPX19zZzM1VnhfSDhWdXF2a3Z1MUJMMlJrNHFTeWIxNW42X0FWdlRVWkVta05NZjVyaHhCWVNLaGptMWZaYmVPVm5IV1liR2pnRFBSbFNoWXZ1ekxCMVF30gHDAUFVX3lxTFBMclplMm1HMlRhLVc0WU1BRWdfWFVNaExRTk9BdFg4dDkzWDdlM1NZcG9FdXBrZlBqckYwZ1NyWWZQd2ItMFFuUEs1aWRoaV9zNHRUWDBVU2N6cUpGUXlTR1JOOUc1cmZtb0w2MVJ0anV4OF85aUJvLVREMFQwSFAtU2VOUUc2RUY5T1pfS3B2WU1ZdF9HSHFxTEhyMm9oYnM0dHgxRHdqYXVnNk5Tb281QXhvT1RwX01hUEh5T3ZKMU5sVQ?oc=5",
-    "aid": "178a759379",
-    "titel": "Karlsruher SC findet mit Santeri Väänänen die gewünschte Stabilität im Mittelfeld",
-    "quelle": "Tribuna.com",
-    "beschr": " Karlsruher SC findet mit Santeri Väänänen die gewünschte Stabilität im Mittelfeld &nbsp;&nbsp; Tribuna.com ",
-    "zeit": "2026-11-06T14:36"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-06T18:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "d117280f0d",
-  "schluessel": "bochum|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Bochum",
-  "klubs": [
-   "Bochum"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Geheimes Testspiel SC Verl gegen Bochum",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY2VDcjk1cWFhWFRBSEZKeHU3SFZMQ1FJZUl0b3FuX05hM3ZoOWlQSXB4a1I0cjhNamZ2SUpQc3JaTmY3emVfRF9Nb3F4WkhXZnVabk4wQzBISmNMWDlub2xuTXI5WmVTSE9MZV9Sdk5UNW5KdWF2VlFBZ21rc292bDlESlRjVW9RNGJVSXJ0eUhPNFY1RUJMWlBseklmaGNONlkwb29mUkhlMlpo?oc=5",
-    "aid": "cf343b63c2",
-    "titel": "Geheimes Testspiel SC Verl gegen Bochum",
-    "quelle": "Radio Gütersloh",
-    "beschr": " Geheimes Testspiel SC Verl gegen Bochum &nbsp;&nbsp; Radio Gütersloh ",
-    "zeit": "2026-11-06T15:15"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-06T18:01",
-  "archiv": [
-   {
-    "id": "df8456704e",
-    "titel": "Cottbus: Wollitz kündigt nach 1:2 gegen Bochum Konsequenzen an",
-    "datum": "01.11.",
-    "stufe": "spielbericht",
-    "summary": "Nach dem 1:2 gegen Bochum kündigt Cottbus-Trainer Wollitz Änderungen in der Startelf an und nimmt die Niederlage auf seine Kappe. Er kritisiert die Defensive und die Einstellung einiger Profis."
-   },
-   {
-    "id": "05c7f56713",
-    "titel": "Bochum dreht Partie in Cottbus durch Hofmann und Rasmussen",
-    "datum": "01.11.",
-    "stufe": "spielbericht",
-    "summary": "Der VfL Bochum gewinnt bei Aufsteiger Energie Cottbus nach 0:1-Rückstand mit 2:1. Philipp Hofmann (71.) und Christian Rasmussen (88.) drehen die Partie."
-   }
-  ],
-  "versuche": 2
- },
- {
   "id": "37b78782f8",
   "schluessel": "st. pauli|sonstiges",
   "person": "",
@@ -462,7 +26,7 @@
   "status": "n",
   "erstmals": "2026-11-06T21:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "a635655a98",
@@ -500,7 +64,7 @@
     "summary": "Magdeburg trifft im Heimspiel auf St. Pauli und damit auf die Ex-Spieler Martijn Kaars und Marcus Mathisen, die in Hamburg beide kaum spielen. Mateusz Zukowski ist für den FCM weiterhin fraglich."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "2d920f1c20",
@@ -529,6 +93,170 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-06T21:01",
+  "archiv": [],
+  "versuche": 2
+ },
+ {
+  "id": "f3cd1129ab",
+  "schluessel": "braunschweig|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Braunschweig",
+  "klubs": [
+   "Braunschweig",
+   "Frankfurt",
+   "Cottbus"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "\"Hier sind andere Anforderungen gefragt\": Wollitz begründet Cigercis Reservistenrolle",
+  "quellen": [
+   {
+    "url": "https://www.kicker.de/hier-sind-andere-anforderungen-gefragt-wollitz-begruendet-cigercis-reservistenrolle-1269317/artikel#omrss",
+    "aid": "1515bb2b64",
+    "titel": "\"Hier sind andere Anforderungen gefragt\": Wollitz begründet Cigercis Reservistenrolle",
+    "quelle": "kicker 2. Bundesliga News",
+    "beschr": "Bei Eintracht Braunschweig konnte sich Energie Cottbus kaum Torchancen erspielen und kam deshalb nicht über ein 0:0 hinaus. Trotzdem durfte Top-Scorer Tolcay Cigerci erst in den letzten Minuten mitspielen. Trainer Claus-Dieter Wollitz nannte die Gründe.",
+    "zeit": "2026-11-06T22:57"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-07T06:01",
+  "archiv": [
+   {
+    "id": "3bcb08987d",
+    "titel": "Wollitz greift durch: Cottbus muss in Braunschweig ohne Borgmann und Guttau auskommen",
+    "datum": "04.11.",
+    "stufe": "sonstiges",
+    "summary": "Cottbus-Trainer Claus-Dieter Wollitz will nach der 1:2-Heimniederlage gegen Bochum Zugeständnisse wie freie Tage streichen. Im Spiel in Braunschweig am Freitag fehlen Kapitän Axel Borgmann und Neuzugang Julian Guttau."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "8d0e2d6ae5",
+  "schluessel": "darmstadt|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Darmstadt",
+  "klubs": [
+   "Darmstadt"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Gierig und erfolgreich bleiben: So will der Club gegen den SV Darmstadt 98 bestehen",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZy1WTHZCT21LUE4tODhUU2ZMd2RjWmRBSGNxbnhCYkVDUzI1d1ZfSGhiTE9OWGk5YnVTWkxVMFQxblZhZzYtWHZIdEFpZVZkVjVsNmpTWExsazFnaGRGOENyWEdLYUpUX254Y2d0R2RZSnlZU3ZSdURIQ0VibVNBekVfZFhiYVdGWXJ4dFFxYzIyWXkzMGE4ZjF3MVl0eGpSTXJPSl9oZ0ppX0d0TmpsYnVXN1hWU09Ec2E0MV85d0h0UVlXYWI4MXhZdVA?oc=5",
+    "aid": "3dd9299510",
+    "titel": "Gierig und erfolgreich bleiben: So will der Club gegen den SV Darmstadt 98 bestehen",
+    "quelle": "NN.de",
+    "beschr": " Gierig und erfolgreich bleiben: So will der Club gegen den SV Darmstadt 98 bestehen &nbsp;&nbsp; NN.de ",
+    "zeit": "2026-11-07T05:00"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-07T06:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "09903c9cdd",
+  "schluessel": "bielefeld|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Bielefeld",
+  "klubs": [
+   "Bielefeld",
+   "Kiel"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Arminia-Gegner Holstein Kiel im Check: Heimstärke trifft auf Auswärtsschwäche",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNY3preDFjTDJ0cTRHV1VKVG9HRTUwNHBraFRQbG9CQmkxOUFLdkFkR1dKdGhEcHZDZjJTN2E0Mk1mMkhsRmplTzJOSDREdHFOVFRyNnRaTWlJYXlWWXMxSk1XTE02bTgzeEZvU3lpVEJrdDFYVjdRX3FUdEY5ZnlnR2V1N1JIUEE2QWlWR2lGU0Zsb182TU1ydnNCQi1oWkFIN1R4VE4zNlI5NFdsQ0ZjUnFRWHEyU0FjOENIa0Ruc245LVYtM0NNZ04xQXdIUEFBMlduMmdqR2lfMWlQTlhMdUhn?oc=5",
+    "aid": "b4e8d67d22",
+    "titel": "Arminia-Gegner Holstein Kiel im Check: Heimstärke trifft auf Auswärtsschwäche",
+    "quelle": "Neue Westfälische",
+    "beschr": " Arminia-Gegner Holstein Kiel im Check: Heimstärke trifft auf Auswärtsschwäche &nbsp;&nbsp; Neue Westfälische ",
+    "zeit": "2026-11-07T05:00"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-07T06:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "41bc8a266e",
+  "schluessel": "dresden|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Dresden",
+  "klubs": [
+   "Dresden"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Wechsel bei SG Dynamo Dresden",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSVMzeDZpeHZVRk5TVERieGFLeGhIMnlULU9lT095aHZxVWpUUVZQLTBPV3N4LW5rWWFlT2ZrUE1BdE9oSlJveU05T0Y0c2FfazI0U2FwTzZBT2lXS3lHaEhpWmxTNzQ0WUJ3dVpKLTlmWkJPOTZTZWhiVS04LUoxaA?oc=5",
+    "aid": "776837d1ea",
+    "titel": "Wechsel bei SG Dynamo Dresden",
+    "quelle": "SpVgg Greuther Fürth",
+    "beschr": " Wechsel bei SG Dynamo Dresden &nbsp;&nbsp; SpVgg Greuther Fürth ",
+    "zeit": "2026-11-06T09:30"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-07T06:01",
+  "archiv": [
+   {
+    "id": "cb0b737b08",
+    "titel": "Dynamo sucht in Hannover den ersten Auswärtssieg seit April",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Dynamo Dresden will bei Hannover 96 den ersten Auswärtssieg seit 204 Tagen holen. Seit dem 2:0 in Nürnberg im April blieb das Team von Trainer Thomas Stamm auswärts acht Ligaspiele ohne Sieg."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "d8f1781974",
+  "schluessel": "bochum|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Bochum",
+  "klubs": [
+   "Bochum"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Spielinfo | VfL Bochum - SC Verl : | KW46 | Fußball-Vereine Freundschaftsspiele 2026/27",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVTF3VDBxMVVid3VNX2h2WGpRMkkwMlk5WWwyRTJ6VGJRWTBDQWQzazZsSm5LQm1WWGd2czZ0TmI5a1hvU3FMM2poc1ZKRTBQQlFCd2VBMTVmN2Y1VVpCOUZjc1ltYTZxTWNiSFFqQ2V6VWMtWjhiOENPeVZZLXZLSVAyQ0VlSER5eUdWclZaYktoVXJ4?oc=5",
+    "aid": "ffbeea487f",
+    "titel": "Spielinfo | VfL Bochum - SC Verl : | KW46 | Fußball-Vereine Freundschaftsspiele 2026/27",
+    "quelle": "kicker",
+    "beschr": " Spielinfo | VfL Bochum - SC Verl : | KW46 | Fußball-Vereine Freundschaftsspiele 2026/27 &nbsp;&nbsp; kicker ",
+    "zeit": "2026-11-06T14:28"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-07T06:01",
   "archiv": [],
   "versuche": 1
  }
