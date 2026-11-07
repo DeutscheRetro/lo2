@@ -1,5 +1,139 @@
 [
   {
+    "id": "b7ac7e3a7a",
+    "titel": "Young trifft spät: Bielefeld gewinnt 2:1 bei Holstein Kiel",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "07.11.2026 18:05",
+    "wappen_url": "logos/bielefeld.png",
+    "vereine": [
+      "Bielefeld",
+      "Kiel"
+    ],
+    "anriss": "Der DSC Arminia Bielefeld hat 2:1 (1:0) bei Holstein Kiel gewonnen. Nach einem Eigentor von Hiroki Sekine (14.) glich Sekine per Kopf aus (76.). Der eingewechselte Isaiah Young sorgte in",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Bielefeld",
+    "pfad": "artikel/bielefeld-dreht-spaet-auf-2-1-bei-holstein-kiel-b7ac7e3a7a.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    }
+  },
+  {
+    "id": "182900733e",
+    "titel": "Darmstadt: Fernie vermeidet Bekenntnis zu Kohfeldt",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "07.11.2026 18:05",
+    "wappen_url": "logos/darmstadt.png",
+    "vereine": [
+      "Darmstadt"
+    ],
+    "anriss": "Geschäftsführer Sport Paul Fernie vom SV Darmstadt 98 hat sich nach der 0:2-Niederlage beim 1. FC Nürnberg nicht ausdrücklich hinter Cheftrainer Florian Kohfeldt gestellt. Im Sky-Interview nach der Partie vermied",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Darmstadt",
+    "pfad": "artikel/darmstadt-fernie-vermeidet-bekenntnis-zu-kohfeldt-182900733e.html",
+    "bild_tm": "",
+    "umfrage": null
+  },
+  {
+    "id": "41dddc17ce",
+    "titel": "Tazemeta trifft nach Einwechslung: Lautern siegt in Osnabrück",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "07.11.2026 18:04",
+    "wappen_url": "logos/kaiserslautern.png",
+    "vereine": [
+      "Kaiserslautern",
+      "Osnabrück"
+    ],
+    "anriss": "Der 1. FC Kaiserslautern hat beim VfL Osnabrück mit 1:0 gewonnen. Den einzigen Treffer erzielte Thierry Tazemeta in der 55. Minute, kurz nach seiner Einwechslung. Die erste Hälfte blieb torlos.",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Kaiserslautern",
+    "pfad": "artikel/tazemeta-trifft-nach-einwechslung-lautern-siegt-in-osnabrueck-41dddc17ce.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    }
+  },
+  {
+    "id": "12b3d6a07a",
+    "titel": "Nürnberg schlägt Darmstadt dank Scobel und Bøving mit 2:0",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "07.11.2026 18:04",
+    "wappen_url": "logos/nuernberg.png",
+    "vereine": [
+      "Darmstadt",
+      "Nürnberg"
+    ],
+    "anriss": "Der 1. FC Nürnberg hat den SV Darmstadt 98 mit 2:0 (0:0) besiegt. Piet Scobel (50.) und William Bøving (88.) erzielten die Tore für den Club. Nach zähem Beginn machte",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Nürnberg",
+    "pfad": "artikel/nuernberg-schlaegt-darmstadt-dank-scobel-und-boeving-mit-2-0-12b3d6a07a.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    }
+  },
+  {
+    "id": "0e20d2bb72",
+    "titel": "Nürnberg: Chatzialexiou-Wechsel nach Frankfurt rückt näher",
+    "kategorie": "transfer",
+    "badge": "Transfer",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "07.11.2026 18:04",
+    "wappen_url": "logos/nuernberg.png",
+    "vereine": [
+      "Nürnberg"
+    ],
+    "anriss": "Der vorgezogene Wechsel von Joti Chatzialexiou zu Eintracht Frankfurt rückt näher. Peter Meier, Aufsichtsratsvorsitzender des 1. FC Nürnberg, bestätigte bei Sky, dass die Gespräche über eine frühere Freigabe laufen. Einen",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Nürnberg",
+    "pfad": "artikel/nuernberg-chatzialexiou-wechsel-nach-frankfurt-rueckt-naeher-0e20d2bb72.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "deal",
+      "frage": "Ist Chatzialexious Wechsel ein guter Deal für Eintracht Frankfurt?",
+      "antworten": [
+        "👍 Guter Deal",
+        "👎 Fehler"
+      ]
+    }
+  },
+  {
     "id": "1355b3f768",
     "titel": "Heidenheim: Sanwald kämpfte bis zum Schluss um Schmidt",
     "kategorie": "news",
