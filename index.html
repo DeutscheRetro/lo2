@@ -552,7 +552,7 @@
 
         function playerLi(p, valueHtml) {
           const tid = playerTeam[p.goalGetterId];
-          return `<li data-playerid="${p.goalGetterId}" data-name="${esc(p.goalGetterName)}" data-team="${tid ? (teamNames[tid] || '') : ''}" style="cursor:pointer" title="Profil anzeigen">
+          return `<li data-playerid="${p.goalGetterId}" data-name="${esc(p.goalGetterName)}" data-team="${tid ? (teamNames[tid] || '') : ''}">
             ${playerIcon(p)}
             <span class="scorer-name">${esc(p.goalGetterName)}</span>
             ${valueHtml}
@@ -585,11 +585,7 @@
           });
         }
 
-        // Klick-Handler
-        document.getElementById('torjaeger-list').addEventListener('click', e => {
-          const li = e.target.closest('li[data-playerid]');
-          if (li) oeffneSpielerModal(li.dataset.playerid, li.dataset.name, li.dataset.team);
-        });
+        // Kein Klick: für die 2./3. Liga gibt es keine Spielerdatenbank, das Profil wäre leer
       } catch(e) {
         document.getElementById('torjaeger-list').innerHTML = '<li style="color:var(--text4);font-size:12px;padding:10px 12px">Saison noch nicht gestartet</li>';
       }
