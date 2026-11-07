@@ -743,5 +743,92 @@
   "gruende": [],
   "alt_titel": null,
   "quelle_gelesen": true
+ },
+ {
+  "zeit": "07.11.2026 12:04",
+  "id": "4c95231583",
+  "pfad": "artikel/dresden-schlaegt-fuerth-3-0-und-verlaesst-das-tabellenende-4c95231583.html",
+  "urteil": "verbessert",
+  "gruende": [
+   "Titel geändert: Dass Dresden das Tabellenende verlässt, steht nicht in der Quelle",
+   "„Duell der Tabellenletzten“ gestrichen: Laut Quelle war nur Dresden Schlusslicht",
+   "Bobzien-Zitat, Stamm-Zitat und „Rang 14“ gestrichen, weil sie nicht in der Quelle stehen",
+   "Dresdens Aufstellung (Stamm, 1:2 in Hannover, Muhamedbegovic, Müller) gestrichen, weil sie nicht in der Quelle steht",
+   "Erste Gelbe Karte für Blank ergänzt (Tritt gegen Vermeij, steht in der Quelle)",
+   "Zank korrekt als lange verletzt und erstmals auf der Bank beschrieben",
+   "Neuer Schluss mit dem Rückblick auf das Januar-Duell aus der Quelle"
+  ],
+  "alt_titel": "Dresden schlägt Fürth 3:0 und verlässt das Tabellenende",
+  "quelle_gelesen": true
+ },
+ {
+  "zeit": "07.11.2026 12:05",
+  "id": "326a90cf49",
+  "pfad": "artikel/cottbus-holt-0-0-in-braunschweig-kinsombi-trifft-den-pfosten-326a90cf49.html",
+  "urteil": "verbessert",
+  "gruende": [
+   "Aufbau: Die Startelf-Änderung stand mitten im Absatz zur zweiten Halbzeit und steht jetzt vor dem Spielverlauf.",
+   "Die Namen Kinsombi und Bittencourt sind entsprechend umgestellt: Bei der ersten Nennung stehen Vor- und Nachname.",
+   "Wollitz' Einordnung der defensiven Stabilität aus Quelle 2 ist als Einordnung ergänzt.",
+   "Präzisiert: Die Niederlage gegen Bochum war eine Heimniederlage, Braunschweig hatte den besseren Start (beides laut Quelle)."
+  ],
+  "alt_titel": "Cottbus holt 0:0 in Braunschweig: Kinsombi trifft den Pfosten",
+  "quelle_gelesen": true
+ },
+ {
+  "zeit": "07.11.2026 12:05",
+  "id": "6f652ae524",
+  "pfad": "artikel/dynamo-vor-fuerth-spiel-mit-personalnot-in-der-innenverteidigung-6f652ae524.html",
+  "urteil": "verbessert",
+  "gruende": [
+   "„Heimspiel“ gestrichen: Die Quelle sagt nicht, dass das Spiel gegen Fürth in Dresden stattfindet.",
+   "Verschachtelte Anführungszeichen im Stamm-Zitat korrigiert (‚Rappo‘).",
+   "Neininger-Szene genauer: Laut Quelle führte sein schwaches Abwehrverhalten nach VAR-Eingriff nicht zum 1:3.",
+   "Der Schluss nennt nun die Folge laut Quelle: Ohne Sieg droht ein ungemütlicher November.",
+   "Altersangaben aus der Quelle ergänzt und Sätze gestrafft."
+  ],
+  "alt_titel": "Dynamo vor Fürth-Spiel mit Personalnot in der Innenverteidigung",
+  "quelle_gelesen": true
+ },
+ {
+  "zeit": "07.11.2026 12:05",
+  "id": "8249a06f6e",
+  "pfad": "artikel/klose-bedauert-abgang-von-chatzialexiou-und-haelt-sich-beim-aufstieg-8249a06f6e.html",
+  "urteil": "verbessert",
+  "gruende": [
+   "„enttäuscht“ durch „bedauert“ ersetzt, weil Klose laut Quelle von „traurig“ und „bitter“ spricht",
+   "Den Absatz über Zoma aus dem Zitatabsatz zu Chatzialexiou herausgenommen und als Überleitung zum sportlichen Teil eingebaut",
+   "Sportlichen Absatz leicht umformuliert, damit der Text besser fließt"
+  ],
+  "alt_titel": "Klose bedauert Abgang von Chatzialexiou und hält sich beim Aufstieg bedeckt",
+  "quelle_gelesen": true
+ },
+ {
+  "zeit": "07.11.2026 12:05",
+  "id": "c4b2de1f98",
+  "pfad": "artikel/hannover-96-prueft-offenbar-marko-marin-als-sportchef-c4b2de1f98.html",
+  "urteil": "verbessert",
+  "gruende": [
+   "Satz „Wer neben Marin noch zum Kreis der Kandidaten gehört …“ gestrichen: Diese Aussage steht so nicht in der Quelle.",
+   "Boldts frühere HSV-Rolle ins Intro verschoben. Im Mittelteil stand sie ohne Zusammenhang.",
+   "Aufbau gestrafft: Intro mit Kandidat und aktueller Funktion, Mittelteil mit Chancen und Laufbahn, Schluss mit möglicher Rückkehr nach Deutschland.",
+   "Titel präzisiert („neuen Sportchef“)."
+  ],
+  "alt_titel": "Hannover 96 prüft offenbar Marko Marin als Sportchef",
+  "quelle_gelesen": true
+ },
+ {
+  "zeit": "07.11.2026 12:06",
+  "id": "2d5f25514d",
+  "pfad": "artikel/st-pauli-kaars-vor-wiedersehen-mit-magdeburg-unter-druck-2d5f25514d.html",
+  "urteil": "verbessert",
+  "gruende": [
+   "Falsche Zuschreibung korrigiert: Dass nur Rapp über Kaars' Einsatz entscheiden kann, sagt in der Quelle nicht Sander, sondern der Autor.",
+   "Schluss verbessert: Sanders Aussage zu Kaars' Motivation aus der Quelle als Ausblick ergänzt.",
+   "Intro ergänzt: Im Umfeld des Vereins traut man Kaars laut Quelle nicht mehr viel zu.",
+   "Langen Absatz zur Nürnberg-Szene und zur Torbilanz in zwei Absätze geteilt."
+  ],
+  "alt_titel": "St. Pauli: Kaars vor Wiedersehen mit Magdeburg unter Druck",
+  "quelle_gelesen": true
  }
 ]
