@@ -236,13 +236,24 @@
       return null;
     }
     const LOGO_MAP = {
-      'FC Bayern München':'bayern','Borussia Dortmund':'dortmund','RB Leipzig':'leipzig',
-      'Bayer 04 Leverkusen':'leverkusen','Eintracht Frankfurt':'frankfurt','VfB Stuttgart':'stuttgart',
-      'Borussia Mönchengladbach':'gladbach','Sport-Club Freiburg':'freiburg','SC Freiburg':'freiburg',
-      '1. FC Union Berlin':'union','1. FSV Mainz 05':'mainz','FC Augsburg':'augsburg',
-      'SV Werder Bremen':'werder','TSG Hoffenheim':'hoffenheim','TSG 1899 Hoffenheim':'hoffenheim',
-      'Hamburger SV':'hsv','1. FC Köln':'koeln','FC Schalke 04':'schalke',
-      'SC Paderborn 07':'paderborn','SV Elversberg':'elversberg','SV 07 Elversberg':'elversberg'
+      '1. FC Heidenheim 1846':'heidenheim',
+      '1. FC Kaiserslautern':'kaiserslautern',
+      '1. FC Magdeburg':'magdeburg',
+      '1. FC Nürnberg':'nuernberg',
+      'DSC Arminia Bielefeld':'bielefeld',
+      'Dynamo Dresden':'dresden',
+      'Eintracht Braunschweig':'braunschweig',
+      'Energie Cottbus':'cottbus',
+      'FC St. Pauli':'stpauli',
+      'Hannover 96':'hannover',
+      'Hertha BSC':'hertha',
+      'Holstein Kiel':'kiel',
+      'Karlsruher SC':'karlsruhe',
+      'SpVgg Greuther Fürth':'fuerth',
+      'SV Darmstadt 98':'darmstadt',
+      'VfL Bochum':'bochum',
+      'VfL Osnabrück':'osnabrueck',
+      'VfL Wolfsburg':'wolfsburg'
     };
     (async () => {
       try {
@@ -382,7 +393,7 @@
         : '';
       return `<li class="feed-item">
         <a href="${esc(a.pfad)}" class="feed-wappen-link">
-          <img src="${esc(a.wappen_url || 'logos/bundesliga.png')}" class="feed-wappen" alt="Wappen" />
+          <img src="${esc(a.wappen_url || 'favicon.png')}" class="feed-wappen" alt="Wappen" />
         </a>
         <div class="feed-body">
           <span class="feed-badge" style="background:${esc(a.badge_bg)};color:${esc(a.badge_fg)}">${esc(a.badge)}</span>
@@ -420,7 +431,7 @@
     }
 
     function aufmacherKarte(a) {
-      const bild = a.wappen_url || 'logos/bundesliga.png';
+      const bild = a.wappen_url || 'favicon.png';
       return `<article class="auf-karte">
         <div class="auf-kopf">
           <img src="${esc(bild)}" class="auf-wappen" alt="" onerror="this.style.display='none'">
@@ -496,15 +507,10 @@
 
         if (teamsRes.ok) {
           const teams = await teamsRes.json();
-          // Eigene Wappen statt fremder Bild-Links (der Leverkusen-Link von OpenLigaDB ist kaputt)
-          const LOKAL = [['bayern','bayern'],['dortmund','dortmund'],['leipzig','leipzig'],['leverkusen','leverkusen'],
-            ['frankfurt','frankfurt'],['stuttgart','stuttgart'],['gladbach','gladbach'],['freiburg','freiburg'],['union','union'],
-            ['mainz','mainz'],['augsburg','augsburg'],['bremen','werder'],['hoffenheim','hoffenheim'],['hamburg','hsv'],
-            ['köln','koeln'],['koeln','koeln'],['schalke','schalke'],['paderborn','paderborn'],['elversberg','elversberg']];
+          // Eigene Wappen statt fremder Bild-Links (LOGO_MAP oben, aus vereine.py)
           teams.forEach(t => {
-            const n = String(t.teamName || '').toLowerCase();
-            const lokal = LOKAL.find(([k]) => n.includes(k));
-            teamIcons[t.teamId] = lokal ? `logos/${lokal[1]}.png` : t.teamIconUrl;
+            const lokal = LOGO_MAP[t.teamName];
+            teamIcons[t.teamId] = lokal ? `logos/${lokal}.png` : t.teamIconUrl;
             teamNames[t.teamId] = t.teamName;
           });
         }

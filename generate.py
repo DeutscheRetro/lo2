@@ -151,6 +151,12 @@ VEREIN_FILTER = {k: kurz for kurz, _s, _v, keys in VEREINE for k in keys}
 # plus das zugehoerige Wappen. Reihenfolge = Reihenfolge im Prompt.
 KLUB_LOGO = {kurz: f"logos/{slug}.png" for kurz, slug, _v, _k in VEREINE}
 
+
+def _vereins_chips(tiefe: str) -> str:
+    """Wappenleiste der Unterseiten, aus vereine.py (statt fest im HTML)."""
+    return "\n".join(f'        <li><a href="{tiefe}verein/{sl}.html" class="team-chip" title="{v}">'
+                     f'<img src="{tiefe}logos/{sl}.png" alt="{k}" /></a></li>' for k, sl, v, _ in VEREINE)
+
 # "HSV" liest sich im Prompt natuerlicher, der Filter-Chip auf der Seite
 # heisst aber "Hamburger" – wie vereine_im_text() den Klub benennt.
 KLUB_FILTERNAME = {}
@@ -1634,24 +1640,7 @@ def artikel_html(
 
   <nav class="team-nav" aria-label="Vereine">
     <ul class="team-list">
-        <li><a href="../verein/heidenheim.html" class="team-chip" title="1. FC Heidenheim 1846"><img src="../logos/heidenheim.png" alt="Heidenheim" /></a></li>
-        <li><a href="../verein/kaiserslautern.html" class="team-chip" title="1. FC Kaiserslautern"><img src="../logos/kaiserslautern.png" alt="Kaiserslautern" /></a></li>
-        <li><a href="../verein/magdeburg.html" class="team-chip" title="1. FC Magdeburg"><img src="../logos/magdeburg.png" alt="Magdeburg" /></a></li>
-        <li><a href="../verein/nuernberg.html" class="team-chip" title="1. FC Nürnberg"><img src="../logos/nuernberg.png" alt="Nürnberg" /></a></li>
-        <li><a href="../verein/bielefeld.html" class="team-chip" title="DSC Arminia Bielefeld"><img src="../logos/bielefeld.png" alt="Bielefeld" /></a></li>
-        <li><a href="../verein/dresden.html" class="team-chip" title="Dynamo Dresden"><img src="../logos/dresden.png" alt="Dresden" /></a></li>
-        <li><a href="../verein/braunschweig.html" class="team-chip" title="Eintracht Braunschweig"><img src="../logos/braunschweig.png" alt="Braunschweig" /></a></li>
-        <li><a href="../verein/cottbus.html" class="team-chip" title="Energie Cottbus"><img src="../logos/cottbus.png" alt="Cottbus" /></a></li>
-        <li><a href="../verein/stpauli.html" class="team-chip" title="FC St. Pauli"><img src="../logos/stpauli.png" alt="St. Pauli" /></a></li>
-        <li><a href="../verein/hannover.html" class="team-chip" title="Hannover 96"><img src="../logos/hannover.png" alt="Hannover" /></a></li>
-        <li><a href="../verein/hertha.html" class="team-chip" title="Hertha BSC"><img src="../logos/hertha.png" alt="Hertha" /></a></li>
-        <li><a href="../verein/kiel.html" class="team-chip" title="Holstein Kiel"><img src="../logos/kiel.png" alt="Kiel" /></a></li>
-        <li><a href="../verein/karlsruhe.html" class="team-chip" title="Karlsruher SC"><img src="../logos/karlsruhe.png" alt="Karlsruhe" /></a></li>
-        <li><a href="../verein/fuerth.html" class="team-chip" title="SpVgg Greuther Fürth"><img src="../logos/fuerth.png" alt="Fürth" /></a></li>
-        <li><a href="../verein/darmstadt.html" class="team-chip" title="SV Darmstadt 98"><img src="../logos/darmstadt.png" alt="Darmstadt" /></a></li>
-        <li><a href="../verein/bochum.html" class="team-chip" title="VfL Bochum"><img src="../logos/bochum.png" alt="Bochum" /></a></li>
-        <li><a href="../verein/osnabrueck.html" class="team-chip" title="VfL Osnabrück"><img src="../logos/osnabrueck.png" alt="Osnabrück" /></a></li>
-        <li><a href="../verein/wolfsburg.html" class="team-chip" title="VfL Wolfsburg"><img src="../logos/wolfsburg.png" alt="Wolfsburg" /></a></li>
+{_vereins_chips("../")}
     </ul>
   </nav>
 
@@ -3081,24 +3070,7 @@ def _seite(titel, beschreibung, url, inhalt, head_extra="", tiefe="../", komment
 
   <nav class="team-nav" aria-label="Vereine">
     <ul class="team-list">
-        <li><a href="{tiefe}verein/heidenheim.html" class="team-chip" title="1. FC Heidenheim 1846"><img src="{tiefe}logos/heidenheim.png" alt="Heidenheim" /></a></li>
-        <li><a href="{tiefe}verein/kaiserslautern.html" class="team-chip" title="1. FC Kaiserslautern"><img src="{tiefe}logos/kaiserslautern.png" alt="Kaiserslautern" /></a></li>
-        <li><a href="{tiefe}verein/magdeburg.html" class="team-chip" title="1. FC Magdeburg"><img src="{tiefe}logos/magdeburg.png" alt="Magdeburg" /></a></li>
-        <li><a href="{tiefe}verein/nuernberg.html" class="team-chip" title="1. FC Nürnberg"><img src="{tiefe}logos/nuernberg.png" alt="Nürnberg" /></a></li>
-        <li><a href="{tiefe}verein/bielefeld.html" class="team-chip" title="DSC Arminia Bielefeld"><img src="{tiefe}logos/bielefeld.png" alt="Bielefeld" /></a></li>
-        <li><a href="{tiefe}verein/dresden.html" class="team-chip" title="Dynamo Dresden"><img src="{tiefe}logos/dresden.png" alt="Dresden" /></a></li>
-        <li><a href="{tiefe}verein/braunschweig.html" class="team-chip" title="Eintracht Braunschweig"><img src="{tiefe}logos/braunschweig.png" alt="Braunschweig" /></a></li>
-        <li><a href="{tiefe}verein/cottbus.html" class="team-chip" title="Energie Cottbus"><img src="{tiefe}logos/cottbus.png" alt="Cottbus" /></a></li>
-        <li><a href="{tiefe}verein/stpauli.html" class="team-chip" title="FC St. Pauli"><img src="{tiefe}logos/stpauli.png" alt="St. Pauli" /></a></li>
-        <li><a href="{tiefe}verein/hannover.html" class="team-chip" title="Hannover 96"><img src="{tiefe}logos/hannover.png" alt="Hannover" /></a></li>
-        <li><a href="{tiefe}verein/hertha.html" class="team-chip" title="Hertha BSC"><img src="{tiefe}logos/hertha.png" alt="Hertha" /></a></li>
-        <li><a href="{tiefe}verein/kiel.html" class="team-chip" title="Holstein Kiel"><img src="{tiefe}logos/kiel.png" alt="Kiel" /></a></li>
-        <li><a href="{tiefe}verein/karlsruhe.html" class="team-chip" title="Karlsruher SC"><img src="{tiefe}logos/karlsruhe.png" alt="Karlsruhe" /></a></li>
-        <li><a href="{tiefe}verein/fuerth.html" class="team-chip" title="SpVgg Greuther Fürth"><img src="{tiefe}logos/fuerth.png" alt="Fürth" /></a></li>
-        <li><a href="{tiefe}verein/darmstadt.html" class="team-chip" title="SV Darmstadt 98"><img src="{tiefe}logos/darmstadt.png" alt="Darmstadt" /></a></li>
-        <li><a href="{tiefe}verein/bochum.html" class="team-chip" title="VfL Bochum"><img src="{tiefe}logos/bochum.png" alt="Bochum" /></a></li>
-        <li><a href="{tiefe}verein/osnabrueck.html" class="team-chip" title="VfL Osnabrück"><img src="{tiefe}logos/osnabrueck.png" alt="Osnabrück" /></a></li>
-        <li><a href="{tiefe}verein/wolfsburg.html" class="team-chip" title="VfL Wolfsburg"><img src="{tiefe}logos/wolfsburg.png" alt="Wolfsburg" /></a></li>
+{_vereins_chips(tiefe)}
     </ul>
   </nav>
 
