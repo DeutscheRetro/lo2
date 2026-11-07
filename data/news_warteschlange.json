@@ -1,102 +1,5 @@
 [
  {
-  "id": "37b78782f8",
-  "schluessel": "st. pauli|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "St. Pauli",
-  "klubs": [
-   "St. Pauli"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Verfolger bleiben torlos – so steht St. Pauli nach den Freitagsspielen da",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNHRxdkIxb3FxZy04bkhjdFFndEpGcmlkWjJMV0dRbV9PU0RpYXNmMVhaMkFoMUVLVlBxZjJCTURaeDZYbFZHYUpNUFRTY3JScE9uZ0RnVDZENVdEOXcwMEp5YjR3TEVabEpGcmFQNGpRamEta08tU05SSTJHcS03ekZjYzBlVFpVSU4wR0ViWnMzZXNrZHMydFk1clRKLU9EVUNMSW1LcDROMktKblpVbVNB?oc=5",
-    "aid": "4afdef7442",
-    "titel": "Verfolger bleiben torlos – so steht St. Pauli nach den Freitagsspielen da",
-    "quelle": "StPauli24",
-    "beschr": " Verfolger bleiben torlos – so steht St. Pauli nach den Freitagsspielen da &nbsp;&nbsp; StPauli24 ",
-    "zeit": "2026-11-06T20:28"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-06T21:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "a635655a98",
-  "schluessel": "st. pauli|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "St. Pauli",
-  "klubs": [
-   "St. Pauli",
-   "Magdeburg"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "FC St. Pauli trifft auf heimstarkes Magdeburg",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNDlTaXU0Zl8xU2NfVlVvVU9rRTNjb3VZNE44bTZCSFRvakhqTTNJbDNuTzhKU3lMeGs2NXQ3cmdSeThManBjX1lQTDdRb1pvT3ktVnViZXFWT05Yd2IySDBpYU9ubEQ4Y3VfRFhjQkd4cmFsSEU2Vi14LXFrNWYyTWRWNlllWGdVNHc1T0d2dTFka1I2d3hFM2Rua3plVDZ3S0pobGFTUmpqTml2VzFVbFF2c19IUQ?oc=5",
-    "aid": "a19e890a18",
-    "titel": "FC St. Pauli trifft auf heimstarkes Magdeburg",
-    "quelle": "NDR.de",
-    "beschr": " FC St. Pauli trifft auf heimstarkes Magdeburg &nbsp;&nbsp; NDR.de ",
-    "zeit": "2026-11-06T19:49"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-06T21:01",
-  "archiv": [
-   {
-    "id": "0f621c17e7",
-    "titel": "FCM gegen St. Pauli: Wiedersehen mit Kaars und Mathisen",
-    "datum": "05.11.",
-    "stufe": "sonstiges",
-    "summary": "Magdeburg trifft im Heimspiel auf St. Pauli und damit auf die Ex-Spieler Martijn Kaars und Marcus Mathisen, die in Hamburg beide kaum spielen. Mateusz Zukowski ist für den FCM weiterhin fraglich."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "2d920f1c20",
-  "schluessel": "karlsruhe|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Karlsruhe",
-  "klubs": [
-   "Karlsruhe",
-   "Bochum"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "KSC vor Bochum-Spiel: Trainer Senft will nächsten Rückschlag verhindern",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb01JQU5MZ0FjeXVwVW1LbjEyR0ZuNHg2Y1dicXB3SzgyVEhoRGQ5bVZWM0VPOFprUnB1WHFaVUVXSFMzLTNjeFFJYXk5MkxtV3NtM3N2aUdISkNJRlUzYUZIN1YyMnNUd05PdUZHZGJzdFg3R0RBU29sNS1qT0NSa3BYdVdPNWRET0M5NWdvS3dwaUZKSHVGa3VCV1hZQXNwNmhxZm1vVURHaHFQMmFxcA?oc=5",
-    "aid": "1bdf8d4362",
-    "titel": "KSC vor Bochum-Spiel: Trainer Senft will nächsten Rückschlag verhindern",
-    "quelle": "die neue welle",
-    "beschr": " KSC vor Bochum-Spiel: Trainer Senft will nächsten Rückschlag verhindern &nbsp;&nbsp; die neue welle ",
-    "zeit": "2026-11-06T15:57"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-06T21:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
   "id": "f3cd1129ab",
   "schluessel": "braunschweig|sonstiges",
   "person": "",
@@ -133,7 +36,7 @@
     "summary": "Cottbus-Trainer Claus-Dieter Wollitz will nach der 1:2-Heimniederlage gegen Bochum Zugeständnisse wie freie Tage streichen. Im Spiel in Braunschweig am Freitag fehlen Kapitän Axel Borgmann und Neuzugang Julian Guttau."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "8d0e2d6ae5",
@@ -162,7 +65,7 @@
   "status": "n",
   "erstmals": "2026-11-07T06:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "09903c9cdd",
@@ -192,7 +95,7 @@
   "status": "n",
   "erstmals": "2026-11-07T06:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "41bc8a266e",
@@ -229,7 +132,7 @@
     "summary": "Dynamo Dresden will bei Hannover 96 den ersten Auswärtssieg seit 204 Tagen holen. Seit dem 2:0 in Nürnberg im April blieb das Team von Trainer Thomas Stamm auswärts acht Ligaspiele ohne Sieg."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "d8f1781974",
@@ -257,6 +160,220 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-07T06:01",
+  "archiv": [],
+  "versuche": 2
+ },
+ {
+  "id": "a1ee84cec8",
+  "schluessel": "wolfsburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Wolfsburg",
+  "klubs": [
+   "Wolfsburg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Der Gastgeber des VfL Wolfsburg darf gern ein Top-Klub in Europa werden",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOamZXOS1OTnhsOFd2LUVwV0hwd3lTZW9ldFI4eUVQX1I5Si01bEFaZFVEajM2a0RCTGFGU0I1d0NQd1pZeXBYQV9JYXdRME1uek9aOFBRVEt5Y1hlc29oejJHS1pKY3hKdXBLRjVWS2dGRDl3alFMZzZsOVI1SEJlQ1hKTjFmalZvb3RTUTZHUENoZkFQNW5WeTlxckNTb2pTcENub01CTkd2eklnMGwteHpocnMxRnVGYWlnM3doVkZOR2dKck1CaWtDc1JTeXBHY2tWczY0MHUxT2o10gH4AUFVX3lxTE1TQ09PV1FmLWFEN21xTWhxeXE1bkhzVHR4aWI0WmpYMGltY3ZNcVVBQ0hOWjZzZ0lIcGE3ZEg0YmJOUy1CeGNEaG1vREc1Z2p5bktBblhyM3FNMndSeHVmSGNxaEQxcTc2TmtPQ3QzVkFCUDlmRElpTjVsbnJaaFM1N3VHNktuM3R3RTl0QUstNWpYWUxQX3NaWVVmbElPczB0SWRfZ2wwOUN5X2pXb2thQlgzMEtWV0NQVDFyeVhaaWRKY3ROV3l5bnJyV25vLTJSZzNqUG1UX2Y3MVUyeDI2ZjdQaXZxVFFTaktHQ2Y2V0JyU1lTZWtl?oc=5",
+    "aid": "527ee51526",
+    "titel": "Der Gastgeber des VfL Wolfsburg darf gern ein Top-Klub in Europa werden",
+    "quelle": "WAZ-ONLINE.de",
+    "beschr": " Der Gastgeber des VfL Wolfsburg darf gern ein Top-Klub in Europa werden &nbsp;&nbsp; WAZ-ONLINE.de ",
+    "zeit": "2026-11-07T06:14"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-07T09:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "46d1e4cf68",
+  "schluessel": "osnabruck|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Osnabrück",
+  "klubs": [
+   "Osnabrück",
+   "Kaiserslautern"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "VfL Osnabrück empfängt Kaiserslautern: Zwei Brüder im Geiste und ein hoher Anspruch",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObDh2Yk8zay1MM01RTzgwbVdYYUVHd0R3bHU4bHN1SGt4eGVTZFJublFWZkR5bTgzLWwxbFZIZDAtWW9RVFJKYlBvY2EwYWZCbkpUci1jZ1JEakFHejhkY2Z3dnFPM2g4b0NkZ1ZMU01HVVpoMExYUktJbTNZZ2I1UjB4VjdYUWI0clBxU2VRYTlkQjBVVnloTDZoZFJWSE8tczcwUWVzYWpyc1JhWjR4TlRlS1VpcWpiaW5F?oc=5",
+    "aid": "a0dc7ecebf",
+    "titel": "VfL Osnabrück empfängt Kaiserslautern: Zwei Brüder im Geiste und ein hoher Anspruch",
+    "quelle": "noz.de",
+    "beschr": " VfL Osnabrück empfängt Kaiserslautern: Zwei Brüder im Geiste und ein hoher Anspruch &nbsp;&nbsp; noz.de ",
+    "zeit": "2026-11-07T07:00"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-07T09:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "b80b499d8a",
+  "schluessel": "nurnberg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Nürnberg",
+  "klubs": [
+   "Nürnberg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "1. FC Nürnberg verleiht Michal Kukucka nach Tschechien",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM0pTeWx5RUpucXBQdmxmX3lsRGlWT2FjNHIyUGxOa2VTZEJBclo5dzkyRXhEZlNSMlVwY3lTbVJaWEgyU1BNLXZySzVBNkc4cmJOazd6MXlhd2tQbXFmWnR0eFRpeHJnV1pTQmU0LV9EYnhsYkdNTWJQaUZsOG9OcDhHLVhaWllEb1pRSW9seklTTzhuX2JSMV9pR3laN3puY0dv?oc=5",
+    "aid": "a9c2266d86",
+    "titel": "1. FC Nürnberg verleiht Michal Kukucka nach Tschechien",
+    "quelle": "Pnp.de",
+    "beschr": " 1. FC Nürnberg verleiht Michal Kukucka nach Tschechien &nbsp;&nbsp; Pnp.de ",
+    "zeit": "2026-11-07T02:26"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-07T09:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "7032200546",
+  "schluessel": "bielefeld|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Bielefeld",
+  "klubs": [
+   "Bielefeld",
+   "Kiel"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Arminia-Gegner Holstein Kiel im Check: Heimstärke trifft auf Auswärtsschwäche",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMWR5MG8yZkNwenUtRzFhVFZza01mRjJwWHlXUGdYdmZpMHlhSFk3Ti03d3dQS3g0cGpwc3lvcEg1c05KV3kzc0Zlc1RSbXVKNHV1V1NXRVhxOFZpYTBpb2pnQ1VuZ3ZfM1V4cXhiVVl1a2JZYk5ocUxfUDFUZlFUSmxkbWkxRExEMUJPZ05PeHNvZzA2Ni1zdFBTejZjOUdIOHdhaU5PZDdkaVZxQy1jMWREa0R3NU42c0w4TzZDWWZzSzk5X1EybVRoSmlobWxM?oc=5",
+    "aid": "163358ed5a",
+    "titel": "Arminia-Gegner Holstein Kiel im Check: Heimstärke trifft auf Auswärtsschwäche",
+    "quelle": "Mindener Tageblatt",
+    "beschr": " Arminia-Gegner Holstein Kiel im Check: Heimstärke trifft auf Auswärtsschwäche &nbsp;&nbsp; Mindener Tageblatt ",
+    "zeit": "2026-11-07T05:00"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-07T09:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "858d74470b",
+  "schluessel": "st. pauli|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "St. Pauli",
+  "klubs": [
+   "St. Pauli"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "FC St. Pauli holte ihn als Anführer – jetzt spricht Mathisen über sein Dilemma",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc3I1Y2dWVkJUQ2hadFBDWXMwNDlyVUhjMHZ5cVozdjdJRUt4MVBGVmExd09jeFpwQUdQSXdUNmp6cVdCTE5iT1pyZ1JQUVJqcG5LUUJDbzhOaElXVnd4MEtmQzBZMHp2dFc4RUgta0kxOVNPUzF6WWwza0pWYWVERWMxZDlJcXJyWXpnY21pNThoTWs0dEhacFZZRElTMUhsZlNLc1JxeTdibTJDT2tfSDRFYjczODBvQTJ1Rw?oc=5",
+    "aid": "ddc4525b5b",
+    "titel": "FC St. Pauli holte ihn als Anführer – jetzt spricht Mathisen über sein Dilemma",
+    "quelle": "Hamburger Abendblatt",
+    "beschr": " FC St. Pauli holte ihn als Anführer – jetzt spricht Mathisen über sein Dilemma &nbsp;&nbsp; Hamburger Abendblatt ",
+    "zeit": "2026-11-07T06:00"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-07T09:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "da6aa715c0",
+  "schluessel": "hertha|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Wer stoppt den Ex-Liebling?: Hertha hat einen Reese-Plan",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPazNVTFpGd09YNzVnUkVrcUU1NWZRalNEWGpEd3RsdEx1WGpNNm1tanN3Wkx5ZmktTElRTkJQNVhGMDUtNEEySXR4SWVhaHd4eFdMOVQ3RklpUGpGVndOWE00MXMxXzE4ODhQbWo2Q2pITFE4SEZkRzVVeTVmSVZzSG9KWUUyRjFqZVhlWjJhR25WZGU1NVFiVktHTEZlNXdhVDk3SWx0VHNXVlZhZk41UVBRR3dvaVJhTEZOdUNULXBheFRZOWEw?oc=5",
+    "aid": "402bd30a74",
+    "titel": "Wer stoppt den Ex-Liebling?: Hertha hat einen Reese-Plan",
+    "quelle": "BZ Berlin",
+    "beschr": " Wer stoppt den Ex-Liebling?: Hertha hat einen Reese-Plan &nbsp;&nbsp; BZ Berlin ",
+    "zeit": "2026-11-07T07:07"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-07T09:01",
+  "archiv": [
+   {
+    "id": "0243113205",
+    "titel": "Messi wählt Maza: Hertha stolz auf Ex-Talent aus der Akademie",
+    "datum": "03.11.",
+    "stufe": "sonstiges",
+    "summary": "Lionel Messi hat Ex-Herthaner Ibrahim Maza bei der Kopa-Trophäe als einziger Juror auf Platz drei gesetzt. Hertha zeigt sich stolz, Maza landete in der Endabrechnung auf Rang neun."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "6ea3bbf844",
+  "schluessel": "stuttgart|transfer",
+  "person": "",
+  "spieler": [],
+  "klub": "Stuttgart",
+  "klubs": [
+   "Stuttgart",
+   "Wolfsburg"
+  ],
+  "stufe": "geruecht",
+  "klasse": "transfer",
+  "titel": "Dzenan Pejcinovic zum VfB Stuttgart? Wolfsburg fordert 25 Millionen Euro für den VfL-Stürmer | Transfer Centre News",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaGZWVE9lRks3dXMwb0dYQUVxTlQ5Sk13QlNQdnJscXM1MGtxdTJMRTBXZU95dW1iTmpyTDBEdUN0MER2Vl95Umc3VmVITkg5ZllYUUZhWUJXcmRtajVSdkNMM2Jta08yYjVFQ0ZDTllOS3NJaUY4Q2E4N0VGblZTTUJDM3NudHFLSjJwZG5lME81cDZsMm14SlNrTFYyUlg3ZW5DVm1Nc2Z2bzY1d2JRRUNLejlsdm1YOVUzeWJyNWkxbThLclhLQVVtaE9KaUJWOWNMOURGcGdnWHc?oc=5",
+    "aid": "8f5177408d",
+    "titel": "Dzenan Pejcinovic zum VfB Stuttgart? Wolfsburg fordert 25 Millionen Euro für den VfL-Stürmer | Transfer Centre News",
+    "quelle": "Sky.de",
+    "beschr": " Dzenan Pejcinovic zum VfB Stuttgart? Wolfsburg fordert 25 Millionen Euro für den VfL-Stürmer | Transfer Centre News &nbsp;&nbsp; Sky.de ",
+    "zeit": "2026-11-07T05:02"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-07T09:01",
   "archiv": [],
   "versuche": 1
  }
