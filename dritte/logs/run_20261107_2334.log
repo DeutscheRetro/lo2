@@ -1,0 +1,425 @@
+2026-11-07 23:34:31,897 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 1 passende Treffer
+2026-11-07 23:34:31,898 INFO S7 Ersatzquelle liefert Text (120 Wörter, 1 Quellen): Kimmich nach Rückkehr: Hier am absolut richtigen Ort
+2026-11-07 23:34:31,898 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 0 passende Treffer
+2026-11-07 23:34:31,898 INFO FinalCheck SKIP: borussia mönchengladbach/{'max muster'} stage=geruecht bereits in Archiv
+2026-11-07 23:34:31,898 INFO FinalCheck SKIP: borussia mönchengladbach/set() stage=geruecht bereits in Archiv
+2026-11-07 23:34:39,012 INFO 💶 Budget: dieser Lauf 0.000 $ | heute 0.00 $ | Monat 0.00 / 0 $
+2026-11-07 23:34:39,012 INFO URL-Cache geladen: 0 bekannte URLs (letzte 30 Tage)
+2026-11-07 23:34:39,012 INFO === LO Generator startet – max. 50 Artikel ===
+2026-11-07 23:34:39,012 INFO Feed: https://newsfeed.kicker.de/news/3-liga
+2026-11-07 23:34:39,424 INFO S1 Medienseite ohne Artikeltext: Fortuna verspielt 2:0-Führung - Langeneke: "Einmal durchatme
+2026-11-07 23:34:39,424 INFO S1 Medienseite ohne Artikeltext: Breitenreiter nach Hansa-Sieg: "Keiner setzt mehr auf uns"
+2026-11-07 23:34:39,424 INFO S1 Medienseite ohne Artikeltext: Abiama-Volley zum RWE-Sieg: "Entweder aufs Dach oder ins Tor
+2026-11-07 23:34:39,426 INFO S1 Medienseite ohne Artikeltext: Multhaup sauer: "Brauchen uns nicht beschweren, fünf Dinger 
+2026-11-07 23:34:39,428 INFO S1 Medienseite ohne Artikeltext: Da Silva Kiala veredelt sein Solo: Aachen schlägt Münster mi
+2026-11-07 23:34:39,429 INFO S1 Medienseite ohne Artikeltext: Bätzner legt per Kopf vor, Abiama schließt per Kopf ab
+2026-11-07 23:34:39,429 INFO S1 Medienseite ohne Artikeltext: Mithilfe des Innenpfostens: Pick zieht aus 16 Metern ab und 
+2026-11-07 23:34:39,429 INFO S1 Medienseite ohne Artikeltext: Bonga bestraft Elfmeter-Fehlschuss: Würzburg siegt bei der F
+2026-11-07 23:34:39,429 INFO S1 Medienseite ohne Artikeltext: Von der Linie gekratzt: Meppen hält dem Düsseldorfer Druck s
+2026-11-07 23:34:39,429 INFO Feed: https://www.sport.de/rss/news/
+2026-11-07 23:34:40,000 INFO Feed: https://www.11freunde.de/feed
+2026-11-07 23:34:41,322 INFO S2 blacklist: Was Fabian Reese über Hertha BSC wissen muss: „Ja: Inzwische
+2026-11-07 23:34:41,324 WARNING Spielerliste nicht verfügbar: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-07 23:34:41,324 INFO BL-Spielerliste geladen: 0 Namen
+2026-11-07 23:34:41,325 INFO S3 keyword miss: Melanie Leupolz: „Mutter werden darf nicht das Karriereende 
+2026-11-07 23:34:41,325 INFO S2 blacklist: Das wird am Wochenende wichtig
+2026-11-07 23:34:41,325 INFO S2 blacklist: USA: Das kurioseste Tor der Woche fiel im College-Sport – Wo
+2026-11-07 23:34:41,326 INFO S3 keyword miss: Lost Grounds: Wenn verlassene Stadien wieder zum Leben erwac
+2026-11-07 23:34:41,328 INFO S3 keyword miss: Reese-Showdown in Berlin, trifft Füllkrug auch beim VfB?
+2026-11-07 23:34:41,329 INFO S3 keyword miss: Frankreich: Valenciennes-Fans machen sich über eigene Mannsc
+2026-11-07 23:34:41,329 INFO S2 kein BL-Klub im Titel: TSG Hoffenheim: Streit um Ticketpreise gegen Schalke 04 – „D
+2026-11-07 23:34:41,331 INFO S3 keyword miss: DJ wählt den falschen Knopf: Schweigeminute gerät zum Desast
+2026-11-07 23:34:41,332 INFO S3 keyword miss: Der DFB-Kader und seine Lehren
+2026-11-07 23:34:41,333 INFO S3 keyword miss: Champions League: Die höchsten Siege – Como klatscht Cuisanc
+2026-11-07 23:34:41,335 INFO S3 keyword miss: Cristiano Ronaldo tritt aus Portugals Nationalmannschaft zur
+2026-11-07 23:34:41,336 INFO S3 keyword miss: Bundesliga: So oft spielen die Vereine samstags um 15:30 Uhr
+2026-11-07 23:34:41,336 INFO S2 kein BL-Klub im Titel: Champions League: Borussia Dortmund schlägt Betis, Como schr
+2026-11-07 23:34:41,338 INFO S3 keyword miss: Birmingham City mit Traumtor: Ein Hauch von Roberto Carlos
+2026-11-07 23:34:41,338 INFO S2 kein BL-Klub im Titel: Borussia Dortmund, Liverpool, Como: Die Netzreaktionen zur C
+2026-11-07 23:34:41,340 INFO S3 keyword miss: Niclas Füllkrug zurück in die Nationalelf?
+2026-11-07 23:34:41,341 INFO S3 keyword miss: Maik Franz im FMLUI-Podcast: „Mario Gomez? War ein Weichei!“
+2026-11-07 23:34:41,342 INFO S3 keyword miss: Champions League: Bayern siegt bei Atletico, Stuttgart verli
+2026-11-07 23:34:41,343 INFO S3 keyword miss: Wayne Rooney: Tipps für den ehemaligen Superstar im Dschunge
+2026-11-07 23:34:41,345 INFO S3 keyword miss: Maik Franz: „Ich war der meistgehasste Spieler der Liga. Und
+2026-11-07 23:34:41,345 INFO S2 kein BL-Klub im Titel: FC Bayern vs. Atlético Madrid: „Konrad Laimer today“
+2026-11-07 23:34:41,346 INFO S3 keyword miss: Maik Franz über seine Karriere: „Ich war der meistgehasste S
+2026-11-07 23:34:41,351 INFO S2 Liveticker übersprungen: FC Bayern München vs. 1. FC Magdeburg im Liveticker: Das Gol
+2026-11-07 23:34:41,351 INFO Feed: https://news.google.com/rss/search?q=%223.+Liga%22&hl=de&gl=DE&ceid=DE:de
+2026-11-07 23:34:41,988 INFO S2 blacklist: Hier läuft Rot-Weiss Essen vs. Alemannia Aachen jetzt live i
+2026-11-07 23:34:41,990 INFO S3 keyword miss: "Syndrom der 3. Liga" - Mink mit VAR-Forderung und nächster 
+2026-11-07 23:34:41,993 INFO S2 Liveticker übersprungen: Dortmund gegen Elversberg | Bundesliga | Liveticker
+2026-11-07 23:34:41,995 INFO S3 keyword miss: Regionalligarefom: Drittligisten lehnen fünften Absteiger ab
+2026-11-07 23:34:41,996 INFO S3 keyword miss: Regionalliga: Zweitliga-Sportchef und 3. Liga mit Watsch‘n f
+2026-11-07 23:34:42,003 INFO S3 keyword miss: „Eine besondere Nähe“: Erste Panini-Kollektion zur Dritten L
+2026-11-07 23:34:42,003 INFO S2 blacklist: Meppen vs. Jahn Regensburg live im TV und Livestream – 3. Li
+2026-11-07 23:34:42,004 INFO S2 blacklist: Übertragung der 3. Liga 26/27: Welche Spiele laufen im Free-
+2026-11-07 23:34:42,007 INFO S3 keyword miss: Nach Mini-Kulisse: Neues Zuschauerschlusslicht in der 3. Lig
+2026-11-07 23:34:42,009 INFO S3 keyword miss: 3. Liga 2026/27: Termine und Spielplan der 19. Saison
+2026-11-07 23:34:42,012 INFO S3 keyword miss: Fortuna verspielt 2:0-Führung - Langeneke: "Einmal durchatme
+2026-11-07 23:34:42,014 INFO S3 keyword miss: Panini-Kollektion für die 3. Liga jetzt auf dem Markt: "Fühl
+2026-11-07 23:34:42,017 INFO S2 Liveticker übersprungen: 3. Liga: Duisburg gewinnt 2:1 in Münster – der Liveticker zu
+2026-11-07 23:34:42,018 INFO S2 blacklist: Preußen Münster gegen MSV Duisburg heute live im TV und Stre
+2026-11-07 23:34:42,020 INFO S2 blacklist: Nachwuchsergebnisse U19
+2026-11-07 23:34:42,025 INFO S3 keyword miss: "Das klingt so einfach, ist aber unfassbar schwer" - Otto üb
+2026-11-07 23:34:42,027 INFO S2 blacklist: Rot-Weiss Essen gegen Alemannia Aachen jetzt live im TV und 
+2026-11-07 23:34:42,028 INFO S2 blacklist: Hansa Rostock gegen Sonnenhof Großaspach jetzt live im TV un
+2026-11-07 23:34:42,032 INFO S3 keyword miss: Nicht nur Campino und die Toten Hosen: Diese Promis halten a
+2026-11-07 23:34:42,038 INFO S3 keyword miss: 3. Liga: Fortuna-Ikone Sobottka spricht Klartext - "Störfeue
+2026-11-07 23:34:42,039 INFO S2 blacklist: Waldhof Mannheim jubelt spät gegen Fortuna Köln
+2026-11-07 23:34:42,043 INFO S3 keyword miss: "Mittelfristig in die 2. Liga aufsteigen" - Sportdirektor Fl
+2026-11-07 23:34:42,045 INFO S3 keyword miss: Vorbereitungen für 3. Liga: Wie der Chemnitzer FC Herbstmeis
+2026-11-07 23:34:42,048 INFO S2 blacklist: Multhaup sauer: "Brauchen uns nicht beschweren, fünf Dinger 
+2026-11-07 23:34:42,049 INFO S2 blacklist: Viktoria Köln vs. Saarbrücken live im TV und Livestream – 3.
+2026-11-07 23:34:42,052 INFO S3 keyword miss: Spielverlegung Auswärtsspiel beim BFC Dynamo
+2026-11-07 23:34:42,055 INFO S3 keyword miss: Handball – 3. Liga Nord-Ost: SCM-Youngsters wollen ihre make
+2026-11-07 23:34:42,056 INFO S2 blacklist: Live im Free-TV: Hier sehen Sie Rot-Weiss Essen gegen Aleman
+2026-11-07 23:34:42,059 INFO S2 blacklist: Münster gegen Duisburg: Wo läuft das Westduell live?
+2026-11-07 23:34:42,061 INFO S3 keyword miss: Nach Wendel-Aus in der Handball 3. Liga: Dominik Koch und Fa
+2026-11-07 23:34:42,062 INFO S2 blacklist: Hansa Rostock vs. Sonnenhof Großaspach live im TV und Livest
+2026-11-07 23:34:42,066 INFO S3 keyword miss: So gering ist Fortunas Aufstiegswahrscheinlichkeit laut Comp
+2026-11-07 23:34:42,067 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Verletzung+Ausfall+gesperrt&hl=de&gl=DE&ceid=DE:de
+2026-11-07 23:34:42,411 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Transfer+Wechsel+verpflichtet&hl=de&gl=DE&ceid=DE:de
+2026-11-07 23:34:42,718 INFO S3 keyword miss: Wechsel-Beben beim KSC: Das sind alle Transfers der Saison 2
+2026-11-07 23:34:42,720 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Ger%C3%BCcht+Interesse+Angebot&hl=de&gl=DE&ceid=DE:de
+2026-11-07 23:34:43,069 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Vertrag+verl%C3%A4ngert+abl%C3%B6sefrei&hl=de&gl=DE&ceid=DE:de
+2026-11-07 23:34:43,381 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Trainer+Entlassung&hl=de&gl=DE&ceid=DE:de
+2026-11-07 23:34:43,773 INFO S3 keyword miss: Trainer erfuhr von möglicher Entlassung aus Medien
+2026-11-07 23:34:43,777 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Saarbr%C3%BCcken%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-07 23:34:44,103 INFO S3 keyword miss: U-19-DFB-Nachwuchsliga (Vorrunde) 2026/27, 11. Spieltag
+2026-11-07 23:34:44,105 INFO S3 keyword miss: (U-19-DFB-Nachwuchsliga (Vorrunde))
+2026-11-07 23:34:44,105 INFO S2 Liveticker übersprungen: Liveticker
+2026-11-07 23:34:44,108 INFO S3 keyword miss: 16-Tore-Stürmerin: Zuletzt vor drei Jahren – FCS-Stürmerin A
+2026-11-07 23:34:44,111 INFO S3 keyword miss: Zurück auf dem Rasen: Bayern-Schreck Marcel Gaus läuft jetzt
+2026-11-07 23:34:44,112 INFO S2 blacklist: LIVE! Viktoria Köln empfängt den 1. FC Saarbrücken als Tabel
+2026-11-07 23:34:44,112 INFO S2 blacklist: Viktoria Köln schlägt Saarbrücken im 8-Tore-Spektakel
+2026-11-07 23:34:44,113 INFO S2 kein BL-Klub im Titel: „Blaue Pokalreise“ der Stuttgarter Kickers machte Station im
+2026-11-07 23:34:44,115 INFO S2 blacklist: Spielereignisse | SV Elversberg - VfL Bochum 0:1 | 11. Spiel
+2026-11-07 23:34:44,115 INFO S2 blacklist: Live im Free-TV und im Stream: Fortuna Düsseldorf gegen den 
+2026-11-07 23:34:44,120 INFO Feed: https://news.google.com/rss/search?q=%22Alemannia+Aachen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-07 23:34:44,491 INFO S3 keyword miss: U-19-DFB-Nachwuchsliga (Vorrunde) 2026/27, 11. Spieltag
+2026-11-07 23:34:44,492 INFO S2 Liveticker übersprungen: Liveticker Rot-Weiss Essen - Alemannia Aachen 1:0 | 13. Spie
+2026-11-07 23:34:44,495 INFO S2 blacklist: Spielereignisse | Bor. Mönchengladbach - Alemannia Aachen 5:
+2026-11-07 23:34:44,496 INFO S2 blacklist: Borussia Mönchengladbach U19 - Alemannia Aachen U19, 07.11.2
+2026-11-07 23:34:44,497 INFO S2 blacklist: Essen gegen Aachen: Übertragung heute live im TV & Stream
+2026-11-07 23:34:44,500 INFO S2 blacklist: Rot-Weiss Essen - Alemannia Aachen im Live-Stream und TV: Aa
+2026-11-07 23:34:44,501 INFO Feed: https://news.google.com/rss/search?q=%22FC+Ingolstadt%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-07 23:34:44,949 INFO S2 Liveticker übersprungen: Die Partie im Liveticker: FC Ingolstadt 04 vs. Fortuna Düsse
+2026-11-07 23:34:44,953 INFO S2 Liveticker übersprungen: Liveticker FC Ingolstadt 04 - Fortuna Düsseldorf 3:2 | 13. S
+2026-11-07 23:34:44,954 INFO S2 blacklist: Videos & Highlights: Ingolstadt U19 vs. FCB U19 - U19 DFB-Na
+2026-11-07 23:34:44,957 INFO S3 keyword miss: Genaue Diagnose noch offen: Fortuna droht langer Lord-Ausfal
+2026-11-07 23:34:44,958 INFO S2 blacklist: Spielereignisse | FC Ingolstadt 04 - Bayern München 0:1 | 11
+2026-11-07 23:34:44,960 INFO S2 blacklist: Live im Free-TV und im Stream: Fortuna Düsseldorf gegen den 
+2026-11-07 23:34:44,963 INFO S3 keyword miss: Nerven liegen blank: Wekesser-Auftritt nach Fortuna-Pleite s
+2026-11-07 23:34:44,966 INFO S2 blacklist: SpVgg GW Deggendorf U15
+2026-11-07 23:34:44,966 INFO S2 Liveticker übersprungen: Liveticker
+2026-11-07 23:34:44,970 INFO S3 keyword miss: „Probleme mit der Rippe“: Fortuna droht längerer Lord-Ausfal
+2026-11-07 23:34:44,974 INFO S3 keyword miss: Match Centre
+2026-11-07 23:34:44,976 INFO S3 keyword miss: Lokalfußball in Franken
+2026-11-07 23:34:44,978 INFO S2 blacklist: Ingolstadt verlängert mit Eigengewächs Sekulovic
+2026-11-07 23:34:44,979 INFO S2 Liveticker übersprungen: Live-Ticker zum Nachlesen: Schluss in Ingolstadt – Fortuna v
+2026-11-07 23:34:44,979 INFO S2 Liveticker übersprungen: Dritte Liga im Live-Ticker: Fortuna zu Gast in Ingolstadt – 
+2026-11-07 23:34:44,980 INFO S2 Liveticker übersprungen: FC Ingolstadt 04 - Fortuna Düsseldorf Liveticker, 07.11.2026
+2026-11-07 23:34:44,984 INFO Feed: https://news.google.com/rss/search?q=%22Fortuna+D%C3%BCsseldorf%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-07 23:34:45,348 INFO S3 keyword miss: Abstiegskampf statt Aufstiegsrennen: Computer simuliert komp
+2026-11-07 23:34:45,353 INFO S3 keyword miss: Vier Rückzüge seit Bewerbungsschluss: Das sind alle 25 zugel
+2026-11-07 23:34:45,355 INFO S3 keyword miss: Trauer um Fanlieblinge in diesem Jahr: Diese Spieler und Mit
+2026-11-07 23:34:45,357 INFO S3 keyword miss: Teils wilde Wechsel im Sommer – aber ein paar Fortuna-Abstei
+2026-11-07 23:34:45,360 INFO S2 blacklist: Fortunas U19 muss die nächste Aufgabe mit einem Rumpfkader l
+2026-11-07 23:34:45,360 INFO Feed: https://news.google.com/rss/search?q=%22Fortuna+K%C3%B6ln%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-07 23:34:45,732 INFO S2 Liveticker übersprungen: Liveticker
+2026-11-07 23:34:45,738 INFO S3 keyword miss: Wald­hof nimmt Ge­schenk dan­kend an
+2026-11-07 23:34:45,739 INFO S2 blacklist: Letzte Köln-Reise des Jahres: BVB-Frauen beim SC Fortuna gef
+2026-11-07 23:34:45,744 INFO Feed: https://news.google.com/rss/search?q=%22Hansa+Rostock%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-07 23:34:46,093 INFO S2 Liveticker übersprungen: Liveticker
+2026-11-07 23:34:46,094 INFO S3 keyword miss: Match Centre
+2026-11-07 23:34:46,096 INFO S2 Liveticker übersprungen: Hansa Rostock - SG Sonnenhof Großaspach Liveticker, 07.11.20
+2026-11-07 23:34:46,101 INFO Feed: https://news.google.com/rss/search?q=%22Jahn+Regensburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-07 23:34:46,402 INFO Feed: https://news.google.com/rss/search?q=%22MSV+Duisburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-07 23:34:46,806 INFO S2 blacklist: U19: Drei bittere Minuten für RWE - MSV Duisburg dreht das D
+2026-11-07 23:34:46,809 INFO S3 keyword miss: „Bitte nicht schon wieder“ - Bitter mit Flashbacks an Stuttg
+2026-11-07 23:34:46,811 INFO S2 blacklist: U19: Zwei Halbzeiten, zwei Gesichter - MSV und RWE wechseln 
+2026-11-07 23:34:46,812 INFO S2 Liveticker übersprungen: Liveticker Preußen Münster - MSV Duisburg 1:2 | 13. Spieltag
+2026-11-07 23:34:46,822 INFO S3 keyword miss: Benny Wendt
+2026-11-07 23:34:46,833 INFO S3 keyword miss: Computer simuliert komplette Drittliga-Saison – die Tabelle 
+2026-11-07 23:34:46,834 INFO Feed: https://news.google.com/rss/search?q=%22Preu%C3%9Fen+M%C3%BCnster%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-07 23:34:47,194 INFO S2 blacklist: Spielereignisse | Wuppertaler SV - Preußen Münster 1:4 | 6. 
+2026-11-07 23:34:47,197 INFO Feed: https://news.google.com/rss/search?q=%22Rot-Weiss+Essen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-07 23:34:47,625 INFO S3 keyword miss: sportarena am Samstag (07.11.2026)
+2026-11-07 23:34:47,627 INFO S3 keyword miss: "45.000 wie die Ölsardinen": Als die Hafenstraße vor der grö
+2026-11-07 23:34:47,628 INFO S2 Liveticker übersprungen: Rot-Weiss Essen - Alemannia Aachen Liveticker, 07.11.2026
+2026-11-07 23:34:47,628 INFO Feed: https://news.google.com/rss/search?q=%22SC+Verl%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-07 23:34:47,942 INFO S2 blacklist: Live im Free-TV und im Stream: Fortuna Düsseldorf gegen den 
+2026-11-07 23:34:47,944 INFO S3 keyword miss: Emily Beadle ist Stargast in der Verler Sportclub-Arena
+2026-11-07 23:34:47,946 INFO Feed: https://news.google.com/rss/search?q=%22Sonnenhof+Gro%C3%9Faspach%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-07 23:34:48,295 INFO Feed: https://news.google.com/rss/search?q=%22SV+Meppen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-07 23:34:48,578 INFO S3 keyword miss: Regionalliga Nord | Spieltag - Tabelle - News - Statistiken
+2026-11-07 23:34:48,579 INFO Feed: https://news.google.com/rss/search?q=%22Waldhof+Mannheim%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-07 23:34:48,891 INFO S2 Liveticker übersprungen: Liveticker Waldhof Mannheim - Fortuna Köln 2:1 | 13. Spielta
+2026-11-07 23:34:48,893 INFO S2 blacklist: SV Waldhof Mannheim U19
+2026-11-07 23:34:48,893 INFO Feed: https://news.google.com/rss/search?q=%22Wehen+Wiesbaden%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-07 23:34:49,165 INFO S2 Liveticker übersprungen: Liveticker SV Wehen Wiesbaden - TSV Havelse 3:0 | 13. Spielt
+2026-11-07 23:34:49,169 INFO S2 blacklist: Mainz 05 U19 setzt in Wiesbaden ein Ausrufezeichen
+2026-11-07 23:34:49,170 INFO S2 blacklist: Wehen Wiesbaden vs. TSV Havelse live im TV und Livestream – 
+2026-11-07 23:34:49,177 INFO Feed: https://news.google.com/rss/search?q=%22Hoffenheim+II%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-07 23:34:49,490 INFO S2 blacklist: 3. Liga: Termine, TV-Übertragung und Spielplan
+2026-11-07 23:34:49,493 INFO Feed: https://news.google.com/rss/search?q=%22TSV+Havelse%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-07 23:34:49,871 INFO S2 blacklist: Spielereignisse | VfL Wolfsburg - Hannover 96 1:1 | 11. Spie
+2026-11-07 23:34:49,872 INFO Feed: https://news.google.com/rss/search?q=%22VfB+Stuttgart+II%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-07 23:34:50,160 INFO S2 blacklist: Live im Free-TV und im Stream: Fortuna Düsseldorf gegen den 
+2026-11-07 23:34:50,161 INFO S2 kein BL-Klub im Titel: VfB Stuttgart: Was Fans vor dem Duell mit SV Werder Bremen w
+2026-11-07 23:34:50,161 INFO Feed: https://news.google.com/rss/search?q=%22Viktoria+K%C3%B6ln%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-07 23:34:50,473 INFO S2 blacklist: FC Viktoria Köln Jugend - Rekord-Abgänge (Galerie) | Seite 2
+2026-11-07 23:34:50,474 INFO Feed: https://news.google.com/rss/search?q=%22W%C3%BCrzburger+Kickers%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-07 23:34:50,792 INFO S3 keyword miss: Fußball: Neuer Job für Marc Reitmaier: Ex-Kickers-Coach führ
+2026-11-07 23:34:50,794 INFO S3 keyword miss: 3. Liga 2026/27: Termine und Spielplan der 19. Saison
+2026-11-07 23:34:50,795 INFO S3 keyword miss: Felix Deißenberger
+2026-11-07 23:34:50,797 INFO S3 keyword miss: Regionalliga-Abschaffung? BFV schießt heftig gegen Trainer z
+2026-11-07 23:34:50,798 INFO Feed: https://newsfeed.kicker.de/team/1-fc-saarbruecken
+2026-11-07 23:34:51,132 INFO S1 Medienseite ohne Artikeltext: Pick stinksauer auf Schiri: "Ist das schon Matchfixing?"
+2026-11-07 23:34:51,133 INFO S1 Medienseite ohne Artikeltext: Owusu-Solo als Highlight: Saarbrücken jubelt bei der Fortuna
+2026-11-07 23:34:51,133 INFO S1 Medienseite ohne Artikeltext: Eiskalt vor dem Tor: Duisburg erteilt "Lehrstunde" im Topspi
+2026-11-07 23:34:51,133 INFO S1 Medienseite ohne Artikeltext: Bretschneider: "Lehrstunde in Sachen Zweikampfhärte und Chan
+2026-11-07 23:34:51,134 INFO Feed: https://newsfeed.kicker.de/team/alemannia-aachen
+2026-11-07 23:34:51,333 INFO S1 Medienseite ohne Artikeltext: Ecken als Erfolgsrezept: Aachen besteht bei Stuttgart II
+2026-11-07 23:34:51,333 INFO S1 Medienseite ohne Artikeltext: Unbehaun patzt, Rostock verliert: Aachen nutzt Hansas Schwäc
+2026-11-07 23:34:51,334 INFO S1 Medienseite ohne Artikeltext: Schleimer eröffnet, Massimo macht den Deckel drauf: Aachen g
+2026-11-07 23:34:51,336 INFO Feed: https://newsfeed.kicker.de/team/fc-ingolstadt-04
+2026-11-07 23:34:51,546 INFO S1 Medienseite ohne Artikeltext: Starke Vorarbeit: Ugondos schnelle Antwort sichert Ingolstad
+2026-11-07 23:34:51,547 INFO S1 Medienseite ohne Artikeltext: Pfosten und Rettung auf der Linie: MSV verzweifelt in Ingols
+2026-11-07 23:34:51,547 INFO S1 Medienseite ohne Artikeltext: Golz greift vorbei: Ingolstadt feiert Heim-Erlösung gegen RW
+2026-11-07 23:34:51,547 INFO S1 Medienseite ohne Artikeltext: Bittere Rote Karte: Mannheim zerfällt gegen Ingolstadt in Un
+2026-11-07 23:34:51,550 INFO Feed: https://newsfeed.kicker.de/team/fortuna-duesseldorf
+2026-11-07 23:34:51,731 INFO S1 Medienseite ohne Artikeltext: Harter Platzverweis für Müller: Dominante Fortuna verzweifel
+2026-11-07 23:34:51,731 INFO S1 Medienseite ohne Artikeltext: "Weil er dreimal auf den Boden klopft?": Langeneke kann Gelb
+2026-11-07 23:34:51,732 INFO S1 Medienseite ohne Artikeltext: Lord, Aluminium und Unvermögen: Hansa verpasst Sieg gegen di
+2026-11-07 23:34:51,732 INFO S1 Medienseite ohne Artikeltext: Interimscoach Langeneke: Fortuna ist "nicht auf der Intensiv
+2026-11-07 23:34:51,733 INFO S1 Medienseite ohne Artikeltext: Düsseldorf-Coach Ende ratlos: "Kann es selbst noch nicht gla
+2026-11-07 23:34:51,733 INFO S1 Medienseite ohne Artikeltext: Langer Ball ins Glück: Hottmann mit Last-Minute-Siegtor für 
+2026-11-07 23:34:51,734 INFO Feed: https://newsfeed.kicker.de/team/hansa-rostock
+2026-11-07 23:34:51,914 INFO S1 Medienseite ohne Artikeltext: Torwart-Blackout ohne Folgen: Regensburg dreht Spiel gegen R
+2026-11-07 23:34:51,916 INFO S1 Medienseite ohne Artikeltext: Breitenreiter schiebt Frust: "Gefühlt können wir das Tor nic
+2026-11-07 23:34:51,916 INFO S1 Medienseite ohne Artikeltext: Breitenreiter: "Pfiffe helfen nicht, aber Unzufriedenheit is
+2026-11-07 23:34:51,916 INFO S1 Medienseite ohne Artikeltext: Zweimal per Kopf: Rankic und Touglo nicken Meppen zum Sieg
+2026-11-07 23:34:51,917 INFO Feed: https://newsfeed.kicker.de/team/jahn-regensburg
+2026-11-07 23:34:52,121 INFO S1 Medienseite ohne Artikeltext: Brummes frühes Kopfballtor genügt: RWE siegt gegen Regensbur
+2026-11-07 23:34:52,121 INFO S1 Medienseite ohne Artikeltext: Kuriose Szene in Regensburg: Torwart führt Abstoß falsch aus
+2026-11-07 23:34:52,121 INFO S1 Medienseite ohne Artikeltext: Doppelpack binnen acht Minuten: Regensburg verspielt 2:0 in 
+2026-11-07 23:34:52,123 INFO Feed: https://newsfeed.kicker.de/team/msv-duisburg
+2026-11-07 23:34:52,297 INFO S1 Medienseite ohne Artikeltext: Hirsch hadert mit Referee: "Eigentlich eine klare Rote Karte
+2026-11-07 23:34:52,297 INFO S1 Medienseite ohne Artikeltext: Trotz 3:0 nach elf Minuten: Duisburg kassiert Rot und verspi
+2026-11-07 23:34:52,297 INFO S1 Medienseite ohne Artikeltext: Lobinger bedient: "Dass so eine Mannschaft kicken kann, soll
+2026-11-07 23:34:52,298 INFO S1 Medienseite ohne Artikeltext: Duisburg-Fans sauer: Lautes Pfeifkonzert nach 3:3-Remis
+2026-11-07 23:34:52,299 INFO S1 Medienseite ohne Artikeltext: "Regel ist ein Witz": MSV-Coach Hirsch hadert mit seinem Tea
+2026-11-07 23:34:52,299 INFO S1 Medienseite ohne Artikeltext: Emotionaler Jubel: Noß wollte "ein Zeichen setzten"
+2026-11-07 23:34:52,299 INFO S1 Medienseite ohne Artikeltext: Duman kontert Noß: Remis im Topspiel zwischen Duisburg und K
+2026-11-07 23:34:52,300 INFO Feed: https://newsfeed.kicker.de/team/preussen-muenster
+2026-11-07 23:34:52,581 INFO S1 Medienseite ohne Artikeltext: Münster von der Rolle: Großaspach gewinnt nach 0:2-Rückstand
+2026-11-07 23:34:52,584 INFO Feed: https://newsfeed.kicker.de/team/rot-weiss-essen
+2026-11-07 23:34:53,012 INFO S1 Medienseite ohne Artikeltext: Erst Slapstick-Gegentor, dann Comeback: RB wendet Blamage in
+2026-11-07 23:34:53,014 INFO S1 Medienseite ohne Artikeltext: Koschinat: "Wäre eine Riesensensation, eine Runde weiterzuko
+2026-11-07 23:34:53,014 INFO S1 Medienseite ohne Artikeltext: Koschinat: "Haben aus allen Positionen geballert"
+2026-11-07 23:34:53,015 INFO S1 Medienseite ohne Artikeltext: Führung mit dem ersten Schuss: RWE schlägt Aufsteiger Köln
+2026-11-07 23:34:53,015 INFO Feed: https://newsfeed.kicker.de/team/sc-verl
+2026-11-07 23:34:53,211 INFO S1 Medienseite ohne Artikeltext: Unfreiwillige Slaptstick-Vorlage: Wiesbaden setzt sich gegen
+2026-11-07 23:34:53,211 INFO S1 Medienseite ohne Artikeltext: Flanke, Kopfball, Tor: Erfolgsformel der Viktoria geht gegen
+2026-11-07 23:34:53,211 INFO S1 Medienseite ohne Artikeltext: Zor knipst früh doppelt: Peterssons Reflex hält den TSG-Sieg
+2026-11-07 23:34:53,213 INFO Feed: https://newsfeed.kicker.de/team/waldhof-mannheim
+2026-11-07 23:34:53,397 INFO S1 Medienseite ohne Artikeltext: "Mehr Gelbe Karten gehabt als Torchancen in der Saison": Boy
+2026-11-07 23:34:53,398 INFO S1 Medienseite ohne Artikeltext: Rajkovacic hält alles: Mannheim verzweifelt, Würzburg jubelt
+2026-11-07 23:34:53,400 INFO Feed: https://newsfeed.kicker.de/team/sv-wehen-wiesbaden
+2026-11-07 23:34:53,579 INFO S3 keyword miss: Regionalliga Bayern abschaffen? BFV antwortet scharf auf Sei
+2026-11-07 23:34:53,580 INFO S1 Medienseite ohne Artikeltext: Inklusive Traumtor von der Mittellinie: 7:1-Sieg für Wiesbad
+2026-11-07 23:34:53,582 INFO Feed: https://newsfeed.kicker.de/team/tsg-hoffenheim-ii
+2026-11-07 23:34:53,787 INFO S1 Medienseite ohne Artikeltext: Aus kurzer Distanz: Jakob köpft Viktoria Köln an die Tabelle
+2026-11-07 23:34:53,787 INFO S1 Medienseite ohne Artikeltext: Trotz Stergious Eigentor: Van der Leij schießt VfB II zum Si
+2026-11-07 23:34:53,790 INFO Feed: https://newsfeed.kicker.de/team/tsv-havelse
+2026-11-07 23:34:54,106 INFO S2 kein BL-Klub im Titel: Augsburg II zieht gegen 1860 München um - Neue Termine für d
+2026-11-07 23:34:54,108 INFO S3 keyword miss: Bayern bindet Sturmjuwel Codjo-Evora langfristig
+2026-11-07 23:34:54,110 INFO S3 keyword miss: Nach Seitz' Kritik: Wer will in der Regionalliga Bayern eige
+2026-11-07 23:34:54,110 INFO S1 Medienseite ohne Artikeltext: Die große Derby-Reportage: Was bleibt von 1860 gegen Bayern?
+2026-11-07 23:34:54,111 INFO S1 Medienseite ohne Artikeltext: Traumtore der "kleinen" Bayern: Die Derby-Highlights im Vide
+2026-11-07 23:34:54,111 INFO S1 Medienseite ohne Artikeltext: "Richtig geiles Gefühl" für die Bayern, "Scheißtag" für die 
+2026-11-07 23:34:54,111 INFO S1 Medienseite ohne Artikeltext: "Die Böller fliegen": Fans stimmen sich auf Münchner Regiona
+2026-11-07 23:34:54,111 INFO S1 Medienseite ohne Artikeltext: "Darf man als FC Bayern Außenseiter sein?"
+2026-11-07 23:34:54,112 INFO S1 Medienseite ohne Artikeltext: Kompany lacht vor Regionalligaderby: "Dante hat viel mehr Ha
+2026-11-07 23:34:54,114 INFO Feed: https://newsfeed.kicker.de/team/vfb-stuttgart-ii
+2026-11-07 23:34:54,320 INFO S1 Medienseite ohne Artikeltext: Tor mit fadem Beigeschmack: VfB II siegt über Fortuna Köln
+2026-11-07 23:34:54,321 INFO Feed: https://newsfeed.kicker.de/team/fc-viktoria-koeln
+2026-11-07 23:34:54,515 INFO S1 Medienseite ohne Artikeltext: Duman: "Würde gerne mit der Viktoria in der 2. Liga spielen"
+2026-11-07 23:34:54,515 INFO S1 Medienseite ohne Artikeltext: Traumstart für die Viktoria reicht nicht: SGS dreht plötzlic
+2026-11-07 23:34:54,517 INFO Eingelesen: 229 Schlagzeilen nach den Gratis-Filtern
+2026-11-07 23:34:54,873 INFO S5 Sammelartikel: Westschlager ab 14 Uhr im Ticker: RWE empfängt Alemannia Aachen
+2026-11-07 23:34:54,874 INFO S5 Randthema: Preußen Münster gegen MSV Duisburg: Polizei zieht positive Bilanz nach
+2026-11-07 23:34:54,875 INFO S5 Randthema: Bundespolizei bilanziert Einsatz beim Spiel Preußen Münster gegen MSV 
+2026-11-07 23:34:54,875 INFO S5 Randthema: Polizei zieht Bilanz nach Preußen Münster gegen MSV Duisburg
+2026-11-07 23:34:54,875 INFO S5 Randthema: Polizei-News Münster, 07.11.26: Preußen Münster gegen MSV Duisburg - B
+2026-11-07 23:34:54,875 INFO S5 Randthema: Ratingen 04/19 gegen Rot-Weiss Essen: So gibt es Tickets für den Niede
+2026-11-07 23:34:54,876 INFO S5: 168 neue Geschichten, 0 schon berichtet, 0 zu wartenden Geschichten ergänzt, 0 warten
+2026-11-07 23:39:56,730 INFO S6 aussortiert (prio_1): "Auf Sicht in dieser Liga schwer": MSV weist siebenstelligen Gewinn au
+2026-11-07 23:39:56,730 INFO S6 aussortiert (doppelt): 3. Liga: Alemannia Aachen hadert nach RWE-Niederlage - "Wir haben uns 
+2026-11-07 23:39:56,731 INFO S6 aussortiert (doppelt): Ulbricht spät vom Punkt: Waldhof verlängert Kölner Niederlagenserie
+2026-11-07 23:39:56,731 INFO S6 aussortiert (doppelt): Fatkic, Voglsammer und ein überragender Krauß: Rostock schlägt dezimie
+2026-11-07 23:39:56,731 INFO S6 aussortiert (doppelt): video-dritte-liga-rostock-grossaspach-highlights-100
+2026-11-07 23:39:56,731 INFO S6 aussortiert (prio_1): Aufstiegs-Reform: RWE und Co. zeigen klare Kante gegen Aufstockung der
+2026-11-07 23:39:56,731 INFO S6 aussortiert (doppelt): "Sehr effiziente" Zebras beenden Diskussionen um "kleine Krise"
+2026-11-07 23:39:56,731 INFO S6 aussortiert (prio_0): Die 3. Liga am Samstag - MSV Duisburg bleibt oben dran
+2026-11-07 23:39:56,731 INFO S6 aussortiert (doppelt): Breitenreiter nach Hansa-Sieg: "Keiner setzt mehr auf uns" | 3. Liga -
+2026-11-07 23:39:56,732 INFO S6 aussortiert (doppelt): Abwärtsstrudel statt Aufstiegshoffnung bei Hansa: Maul spricht Klartex
+2026-11-07 23:39:56,732 INFO S6 aussortiert (doppelt): 3. Liga: Essen schlägt Aachen im West-Klassiker
+2026-11-07 23:39:56,732 INFO S6 aussortiert (prio_0): 3. Liga: Langer Ausfall und neuer Co-Trainer für den SV Meppen – FCI b
+2026-11-07 23:39:56,732 INFO S6 aussortiert (doppelt): Fußball 3. Liga: Rot-Weiss Essen - Alemannia Aachen
+2026-11-07 23:39:56,732 INFO S6 aussortiert (doppelt): 3. Liga: Westschlager an der Hafenstraße - mit dieser Elf starten RWE 
+2026-11-07 23:39:56,732 INFO S6 aussortiert (doppelt): Absturz in der 3. Liga: Abrechnung mit Fortuna DUSSELdorf!
+2026-11-07 23:39:56,733 INFO S6 aussortiert (doppelt): 3. Liga: Viktoria Köln im Rausch - Wunderlich bremst die Euphorie und 
+2026-11-07 23:39:56,733 INFO S6 aussortiert (prio_0): Handball: 3. Liga, Süd: Die Wölfe Würzburg müssen sich mit dezimiertem
+2026-11-07 23:39:56,733 INFO S6 aussortiert (prio_0): Fortuna verliert trotz 2:0-Führung – Essen untermauert Aufstiegsambiti
+2026-11-07 23:39:56,733 INFO S6 aussortiert (doppelt): Aufstellung Hansa Rostock - SG Sonnenhof Großaspach 3:0 | 13. Spieltag
+2026-11-07 23:39:56,733 INFO S6 aussortiert (prio_0): Essen untermauert Aufstiegsambitionen || Düsseldorf erlebt weiteren Rü
+2026-11-07 23:39:56,734 INFO S6 aussortiert (doppelt): Niederlagen-Serie ausgebaut: Später Elfer: Nachspielzeit-Pleite für Fo
+2026-11-07 23:39:56,734 INFO S6 aussortiert (doppelt): 3. Liga - Wehen Wiesbaden 3 - 0 TSV Havelse
+2026-11-07 23:39:56,734 INFO S6 aussortiert (prio_1): 3. Liga: Weitere Free-TV-Spiele für RWE und Alemannia Aachen
+2026-11-07 23:39:56,734 INFO S6 aussortiert (prio_1): "Faire, nachhaltige Lösung": Statement der Clubs der 3. Liga
+2026-11-07 23:39:56,734 INFO S6 aussortiert (doppelt): 3. Liga: Viktoria Köln baut Tabellenführung aus
+2026-11-07 23:39:56,734 INFO S6 aussortiert (prio_0): 3. Liga: Europapokal-Held und RWE-Fan - Brinkmann erinnert sich an wil
+2026-11-07 23:39:56,734 INFO S6 aussortiert (doppelt): 3. Liga: Trotz Aufholjagd – 1. FC Saarbrücken verpasst Comeback in Köl
+2026-11-07 23:39:56,735 INFO S6 aussortiert (prio_0): Spannendes Topspiel zwischen der HSG Konstanz und den Wölfen Würzburg
+2026-11-07 23:39:56,735 INFO S6 aussortiert (prio_0): Ingolstadt Fortuna Düsseldorf live: 3. Liga heute kostenlos live im WD
+2026-11-07 23:39:56,735 INFO S6 aussortiert (prio_0): LIVE! Wenig Abschlüsse, viele Gelbe Karte in Münster
+2026-11-07 23:39:56,735 INFO S6 aussortiert (prio_0): Rot-Weiss Essen - Alemannia Aachen live: Wo kann die 3. Liga kostenlos
+2026-11-07 23:39:56,735 INFO S6 aussortiert (doppelt): Spektakel von Köln: Viktoria verteidigt im Topspiel gegen Saarbrücken 
+2026-11-07 23:39:56,735 INFO S6 aussortiert (prio_1): Streit um Regionalliga-Reform: MSV, RWE & Co. reagieren auf Bayern-Vor
+2026-11-07 23:39:56,735 INFO S6 aussortiert (doppelt): Der 1. FC Saarbrücken kämpft und verliert bei Tabellenführer Köln
+2026-11-07 23:39:56,735 INFO S6 aussortiert (doppelt): 1. FC Saarbrücken kämpft sich in Köln zurück, zieht aber den Kürzeren
+2026-11-07 23:39:56,736 INFO S6 aussortiert (doppelt): "Noch nicht so weit!": Giannikis sieht Saarbrücken noch nicht als Spit
+2026-11-07 23:39:56,736 INFO S6 aussortiert (doppelt): 1. FC Saarbrücken analysiert Auftritt bei Viktoria Köln
+2026-11-07 23:39:56,736 INFO S6 aussortiert (prio_0): Drei Elfmeter für Havelse: Saarbrücken rutscht beim Letzten aus
+2026-11-07 23:39:56,736 INFO S6 aussortiert (prio_0): 7. Spieltag: Düsseldorf im Klassiker bei Grenzau, Ochsenhausen testet 
+2026-11-07 23:39:56,736 INFO S6 aussortiert (doppelt): TSV Havelse: Ausgangslage und News vor SV Wehen Wiesbaden am Samstag
+2026-11-07 23:39:56,736 INFO S6 aussortiert (doppelt): Pressekonferenz nach TSV Alemannia Aachen | 13. Spieltag | #immeRWEite
+2026-11-07 23:39:56,736 INFO S6 aussortiert (doppelt): Abiamas Traumtor sichert RWE drei Punkte gegen Alemannia Aachen
+2026-11-07 23:39:56,737 INFO S6 aussortiert (doppelt): RWE bleibt im Aufstiegsrennen und schlägt Aachen
+2026-11-07 23:39:56,737 INFO S6 aussortiert (prio_0): RWE - Alemannia Aachen
+2026-11-07 23:39:56,737 INFO S6 aussortiert (doppelt): Aus Fansicht: Wer war der beste Alemanne im Spiel gegen Essen?
+2026-11-07 23:39:56,737 INFO S6 aussortiert (prio_0): RWE siegt dank Abiama-Traumtor – die Stimmen zum Spiel
+2026-11-07 23:39:56,737 INFO S6 aussortiert (prio_0): Essen gegen Aachen heute live: Wer überträgt? WDR und Joyn kostenlos
+2026-11-07 23:39:56,737 INFO S6 aussortiert (prio_0): Honold erwartet viel Intensität: Waldenrath-Straeten reist zu Viktoria
+2026-11-07 23:39:56,737 INFO S6 aussortiert (doppelt): Rot-Weiss Essen - Alemannia Aachen, 07.11.2026 - 3. Liga - Spielberich
+2026-11-07 23:39:56,738 INFO S6 aussortiert (doppelt): Rot-Weiss Essen vs. Alemannia Aachen: Essen rettet frühe Führung über 
+2026-11-07 23:39:56,738 INFO S6 aussortiert (prio_0): Rot-Weiss Essen: Zahlen und Fakten vor dem Spiel gegen Alemannia Aache
+2026-11-07 23:39:56,738 INFO S6 aussortiert (prio_0): Rot-Weiss Essen - Alemannia Aachen im Live-Stream und TV: Essen bekomm
+2026-11-07 23:39:56,738 INFO S6 aussortiert (doppelt): FC Ingolstadt mit Comeback-Sieg gegen Fortuna Düsseldorf
+2026-11-07 23:39:56,738 INFO S6 aussortiert (doppelt): Torwart-Kritik, Wut auf Spieler und Langeneke-Zweifel – Fortuna-Fans t
+2026-11-07 23:39:56,738 INFO S6 aussortiert (prio_0): TSV Havelse gegen FC Ingolstadt 04 Aufstellung - 3. Liga 12. Spieltag 
+2026-11-07 23:39:56,738 INFO S6 aussortiert (doppelt): Aufholjagd gekrönt: Ingolstadt zwingt Düsseldorf spät in die Knie
+2026-11-07 23:39:56,738 INFO S6 aussortiert (prio_0): Ingolstadt gegen Düsseldorf live: Wer überträgt? BR und Joyn kostenlos
+2026-11-07 23:39:56,739 INFO S6 aussortiert (doppelt): FC Ingolstadt 04 vs. Fortuna Düsseldorf - Game Highlights
+2026-11-07 23:39:56,739 INFO S6 aussortiert (prio_0): Mit voller Offensive zu den „Schanzern“?: Die wahrscheinliche Startelf
+2026-11-07 23:39:56,739 INFO S6 aussortiert (prio_0): Spielschema | FC Ingolstadt 04 - Bayern München 0:1 | 11. Spieltag | U
+2026-11-07 23:39:56,739 INFO S6 aussortiert (doppelt): Fortuna Düsseldorf verspielt Zwei-Tore-Führung – Ingolstadt in Ekstase
+2026-11-07 23:39:56,739 INFO S6 aussortiert (doppelt): Rückstand wird immer größer: Fortuna verliert nach Zwei-Tore-Führung i
+2026-11-07 23:39:56,739 INFO S6 aussortiert (prio_0): Vorschau: Blickpunkt Sport live • Fußball 3. Liga: FC Ingolstadt 04 - 
+2026-11-07 23:39:56,739 INFO S6 aussortiert (prio_1): Eigengewächs Davide Sekulovic sitzt beim FC Ingolstadt fest im Sattel
+2026-11-07 23:39:56,740 INFO S6 aussortiert (prio_1): Düsseldorf sorgt für größte Gästekulisse des Jahres in Ingolstadt
+2026-11-07 23:39:56,740 INFO S6 aussortiert (prio_0): Schlagabtausch in Ingolstadt?: Zeit der Experimente vorbei – Ende-Kehr
+2026-11-07 23:39:56,740 INFO S6 aussortiert (prio_0): 13. Spieltag: FC Ingolstadt 04 - Fortuna Düsseldorf - Fortuna Düsseldo
+2026-11-07 23:39:56,740 INFO S6 aussortiert (prio_0): Bayernliga Nord, 18. Spieltag: Stadeln verliert gegen Jahn Regensburg 
+2026-11-07 23:39:56,740 INFO S6 aussortiert (prio_0): FC Ingolstadt 04: Neue Aufgabe gegen die Fortunen am Samstag
+2026-11-07 23:39:56,740 INFO S6 aussortiert (prio_0): FC Ingolstadt 04 - Fortuna Düsseldorf im Live-Stream und TV: Gibt es a
+2026-11-07 23:39:56,740 INFO S6 aussortiert (prio_0): Fortuna Düsseldorf: Zahlen und Fakten vor dem Spiel gegen die Nullvier
+2026-11-07 23:39:56,741 INFO S6 aussortiert (prio_0): Ingolstadt vs. Düsseldorf Tipp, Prognose & Quoten 07.11.2026
+2026-11-07 23:39:56,741 INFO S6 aussortiert (prio_1): Fortuna Düsseldorf: Jens Langeneke lässt Ingolstadt rätseln
+2026-11-07 23:39:56,741 INFO S6 aussortiert (doppelt): "Extrem enttäuschend": Fortuna Düsseldorf vergibt Zwei-Tore-Führung ge
+2026-11-07 23:39:56,741 INFO S6 aussortiert (prio_0): Fortuna Düsseldorf: Florian Kastenmeier schießt auf Instagram nach Wec
+2026-11-07 23:39:56,741 INFO S6 aussortiert (prio_0): Als Ferenc Puskas an der Hafenstraße gegen RWE und Fortuna Düsseldorf 
+2026-11-07 23:39:56,741 INFO S6 aussortiert (doppelt): Last-Minute-Elfmeter! Mannheim schlägt Fortuna Köln
+2026-11-07 23:39:56,741 INFO S6 aussortiert (doppelt): Waldhof Mannheim jubelt spät: Ulbricht schießt Fortuna Köln noch tiefe
+2026-11-07 23:39:56,742 INFO S6 aussortiert (prio_0): SV Waldhof Mannheim vs. SC Fortuna Köln - Game Highlights
+2026-11-07 23:39:56,742 INFO S6 aussortiert (doppelt): Waldhof Mannheim jubelt spät gegen Fortuna Köln
+2026-11-07 23:39:56,742 INFO S6 aussortiert (prio_0): Spielschema | Fortuna Köln - 1. FC Kaiserslautern 2:3 | 11. Spieltag |
+2026-11-07 23:39:56,742 INFO S6 aussortiert (prio_0): SC Fortuna Köln: So ist die Ausgangslage vor SV Waldhof Mannheim am Sa
+2026-11-07 23:39:56,742 INFO S6 aussortiert (prio_0): SV Waldhof Mannheim - SC Fortuna Köln im Live-Stream und TV: Mammutauf
+2026-11-07 23:39:56,742 INFO S6 aussortiert (doppelt): SV Waldhof Mannheim - SC Fortuna Köln im Live-Stream und TV: Wohin geh
+2026-11-07 23:39:56,742 INFO S6 aussortiert (prio_0): POL-HRO: Polizeieinsatz anlässlich der Spielbegegnung zwischen dem F.C
+2026-11-07 23:39:56,743 INFO S6 aussortiert (doppelt): Hansa Rostock bricht den Bann: Elfmeter, Gelb-Rot und späte Erlösung i
+2026-11-07 23:39:56,743 INFO S6 aussortiert (doppelt): Hansa Rostock in der Einzelkritik: Krauß belebt als Joker das Spiel un
+2026-11-07 23:39:56,743 INFO S6 aussortiert (prio_0): Hansa Rostock: Vom Wunder von Bochum bis heute – wenn der FCH zurücksc
+2026-11-07 23:39:56,743 INFO S6 aussortiert (prio_0): F.C. Hansa Rostock vs. SG Sonnenhof Großaspach - Game Highlights
+2026-11-07 23:39:56,743 INFO S6 aussortiert (prio_0): Hansa Rostock unter Druck: Endet die Sieglosserie? | HL-SPORTS - Sport
+2026-11-07 23:39:56,743 INFO S6 aussortiert (doppelt): „Wir haben drei Riesendinger“: Großaspach verliert 0:3
+2026-11-07 23:39:56,743 INFO S6 aussortiert (prio_0): F.C. Hansa Rostock - SG Sonnenhof Großaspach im Live-Stream und TV: Gr
+2026-11-07 23:39:56,744 INFO S6 aussortiert (doppelt): F.C. Hansa Rostock vs. SG Sonnenhof Großaspach: Andreas Voglsammer mac
+2026-11-07 23:39:56,744 INFO S6 aussortiert (prio_0): F.C. Hansa Rostock: Zahlen und Fakten vor dem Spiel gegen SG Sonnenhof
+2026-11-07 23:39:56,744 INFO S6 aussortiert (prio_0): F.C. Hansa Rostock - SG Sonnenhof Großaspach im Live-Stream und TV: Sc
+2026-11-07 23:39:56,744 INFO S6 aussortiert (prio_0): SSV Jahn Regensburg
+2026-11-07 23:39:56,744 INFO S6 aussortiert (prio_0): SC Preußen Münster: So ist die Ausgangslage vor MSV Duisburg am 07.11.
+2026-11-07 23:39:56,744 INFO S6 aussortiert (prio_0): SC Preußen Münster vs. MSV Duisburg - Game Highlights
+2026-11-07 23:39:56,745 INFO S6 aussortiert (prio_0): Der Sport-Tag: Essen rückt MSV Duisburg vorerst auf die Pelle
+2026-11-07 23:39:56,745 INFO S6 aussortiert (prio_0): Der „Brustlöser“: Joshua Bitter ist der MSV-Spieler des Spiels
+2026-11-07 23:39:56,745 INFO S6 aussortiert (prio_0): Preußen Münster vs. Duisburg Tipp, Prognose & Quoten 07.11.2026 – 3. L
+2026-11-07 23:39:56,745 INFO S6 aussortiert (doppelt): Preußen Münster gegen MSV Duisburg: Polizei spricht Warnung aus
+2026-11-07 23:39:56,745 INFO S6 aussortiert (prio_0): #SCPMSV | "Gut verteidigt": Die PK zum Sieg bei Preußen Münster
+2026-11-07 23:39:56,745 INFO S6 aussortiert (prio_1): Duisburg und Essen untermauern Aufstiegsambitionen
+2026-11-07 23:39:56,745 INFO S6 aussortiert (doppelt): #SCPMSV | Die Mixedzone mit Joshua Bitter und Dominik Kother
+2026-11-07 23:39:56,746 INFO S6 aussortiert (prio_0): Preußen Münster - MSV Duisburg, 07.11.2026 - 3. Liga - Spielbericht
+2026-11-07 23:39:56,746 INFO S6 aussortiert (prio_0): MSV Duisburg: Neue Aufgabe gegen SC Preußen Münster am 07.11.2026
+2026-11-07 23:39:56,746 INFO S6 aussortiert (doppelt): Topspiel SC Preußen Münster - MSV Duisburg im Live-Stream und TV: Müns
+2026-11-07 23:39:56,746 INFO S6 aussortiert (prio_0): "Fußball in brutalster Form": Preußen Münster-Kapitän über den "Quersc
+2026-11-07 23:39:56,746 INFO S6 aussortiert (prio_0): Rot-Weiss Essen setzt sich ab
+2026-11-07 23:39:56,746 INFO S6 aussortiert (doppelt): Klub kündigt Konsequenzen an: Fan von Rot-Weiss Essen zeigt Hitlergruß
+2026-11-07 23:39:56,747 INFO S6 aussortiert (prio_0): RWE-Noten: Einser für den Matchwinner – Zentrum gegen Aachen im Nachte
+2026-11-07 23:39:56,747 INFO S6 aussortiert (prio_0): Unglückliche Niederlage für SC Verl gegen Arminia Bielefeld – Kritik a
+2026-11-07 23:39:56,747 INFO S6 aussortiert (prio_0): VfB Stuttgart II - SC Verl im Live-Stream und TV: Die Reserve der Schw
+2026-11-07 23:39:56,747 INFO S6 aussortiert (doppelt): SV Waldhof Mannheim: Zuber über Keulenschläge und wo Prozente fehlen
+2026-11-07 23:39:56,747 INFO S6 aussortiert (prio_1): Wiesbaden setzt Erfolgsserie fort
+2026-11-07 23:39:56,747 INFO S6 aussortiert (doppelt): Ziel 2. Bundesliga: Wiesbaden konkretisiert seine Pläne bis 2030
+2026-11-07 23:39:56,747 INFO S6 aussortiert (prio_0): SV Wehen Wiesbaden vs. TSV Havelse: Janitzeks Treffer als Türöffner! S
+2026-11-07 23:39:56,748 INFO S6 aussortiert (doppelt): SV Wehen Wiesbaden - TSV Havelse im Live-Stream und TV: Gehen die Punk
+2026-11-07 23:39:56,748 INFO S6 aussortiert (prio_0): SV Wehen Wiesbaden - TSV Havelse im Live-Stream und TV: Wohin gehen he
+2026-11-07 23:39:56,748 INFO S6 aussortiert (prio_0): ▶️ Würzburger Kickers vs 1899 Hoffenheim II Livestream, Tipp » Schau d
+2026-11-07 23:39:56,748 INFO S6 aussortiert (prio_0): Viktoria Köln – Saarbrücken Tipp, KI-Prognose & Quoten | 06.11.2026
+2026-11-07 23:39:56,748 INFO S6 aussortiert (prio_0): Würzburger Kickers II
+2026-11-07 23:39:56,748 INFO S6 aussortiert (prio_0): Fußball: Kickers empfangen U 23 von Bundesligist Hoffenheim
+2026-11-07 23:40:00,582 WARNING discarding data: None
+2026-11-07 23:40:00,583 INFO S7 kein Volltext (trafilatura_returned_empty): 1:2-Niederlage von Preußen Münster gegen Duisburg Nebensache
+2026-11-07 23:40:01,389 INFO S7 schreiben (Prio 3, 2 Quellen): Zwei Fernschüsse ins Glück: Effizientes Duisburg gewinnt zäh
+2026-11-07 23:40:12,842 INFO   Kandidat: Duisburg gewinnt in Münster 2:1 und beendet Ergebniskrise
+2026-11-07 23:40:14,973 INFO S7 kein Volltext (too_short_44_words): 2:3 im Auswärtsduell: Fortuna verspielt Führung in Ingolstad
+2026-11-07 23:40:15,672 INFO S7 kein Volltext (too_short_75_words): 3. Liga: Fortuna Düsseldorf verspielt 2:0-Führung - Rostock 
+2026-11-07 23:40:17,958 INFO S7 kein Volltext (seite_zu_alt): Fußball 3. Liga: SV Waldhof gegen Fortuna Köln - Aufstellung
+2026-11-07 23:40:19,030 INFO S7 kein Volltext (seite_zu_alt): Fußball 3. Liga: Vikt. Köln gegen Saarbrücken - Aufstellung 
+2026-11-07 23:40:19,030 INFO S7 schreiben (Prio 3, 1 Quellen): Fortuna Düsseldorf gibt gegen FC Ingolstadt eine 2:0 Führung
+2026-11-07 23:40:30,769 INFO   Kandidat: Fortuna verspielt 2:0 Führung und verliert 2:3 gegen Ingolst
+2026-11-07 23:40:34,330 INFO S7 schreiben (Prio 3, 2 Quellen): SV Waldhof Mannheim gegen Fortuna Köln: Ulbricht schießt Wal
+2026-11-07 23:40:42,306 INFO   Kandidat: Ulbricht erlöst Mannheim: Last-Minute-Elfer zum 2:1 gegen Fo
+2026-11-07 23:40:42,980 WARNING discarding data: None
+2026-11-07 23:40:42,981 INFO S7 kein Volltext (trafilatura_returned_empty): Aufstellung SV Wehen Wiesbaden - TSV Havelse 3:0 | 13. Spiel
+2026-11-07 23:40:43,955 INFO S7 kein Volltext (too_short_8_words): Opitz-Fehler leitet die Pleite des TSV Havelse beim SV Wehen
+2026-11-07 23:40:45,865 INFO S7 schreiben (Prio 3, 1 Quellen): Aufstellung SV Wehen Wiesbaden - TSV Havelse 3:0 | 13. Spiel
+2026-11-07 23:40:55,003 INFO   Kandidat: Wehen Wiesbaden schlägt Havelse mit 3:0
+2026-11-07 23:40:58,380 INFO S7 kein Volltext (low_unique_content_ratio): 1.FC Saarbrücken: Was kommt nach dem 5:3 gegen Viktoria Köln
+2026-11-07 23:40:58,905 INFO S7 kein Volltext (too_short_15_words): Viktoria Köln gewinnt gegen 1. FC Saarbrücken in der 3. Liga
+2026-11-07 23:40:58,906 INFO S7 schreiben (Prio 3, 1 Quellen): Furioser Sieg gegen Saarbrücken: Viktoria Köln mischt weiter
+2026-11-07 23:41:05,737 INFO   Kandidat: Viktoria Köln verteidigt Tabellenführung mit 5:3 gegen Saarb
+2026-11-07 23:41:06,592 INFO S7 Ersatzquellen für "Abiamas Blitzstart reicht im West-Schlager: Essene": 0 passende Treffer
+2026-11-07 23:41:06,592 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Abiamas Blitzstart reicht im West-Schlager: Essener Minimali
+2026-11-07 23:41:10,031 INFO S6.5 schon berichtet (Ulbricht erlöst Mannheim: Last-Minute-Elfer z): SV Waldhof Mannheim entscheidet Spiel gegen Köln spät
+2026-11-07 23:41:10,374 INFO S7 kein Volltext (too_short_75_words): MSV Duisburg: Zebras dürfen wieder jubeln - Distanz-Hammer k
+2026-11-07 23:41:10,654 INFO S7 Ersatzquellen für "MSV Duisburg: Zebras dürfen wieder jubeln - Distan": 0 passende Treffer
+2026-11-07 23:41:10,655 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): MSV Duisburg: Zebras dürfen wieder jubeln - Distanz-Hammer k
+2026-11-07 23:41:11,306 INFO S7 schreiben (Prio 3, 1 Quellen): Erst Pfiffe, dann Jubel: Hansa Rostock siegt Dank „Kleinigke
+2026-11-07 23:41:19,662 INFO   Kandidat: Hansa Rostock schlägt Großaspach 3:0 und beendet die Verunsi
+2026-11-07 23:41:19,663 INFO S7 Abo-Deckel (6 Artikel) erreicht – Rest wartet auf den nächsten Lauf
+2026-11-07 23:41:19,664 INFO S9.5 FinalCheck: 6/6 durch
+2026-11-07 23:41:20,507 INFO Veröffentlicht: Duisburg gewinnt in Münster 2:1 und beendet Ergebniskrise
+2026-11-07 23:41:20,555 INFO Veröffentlicht: Fortuna verspielt 2:0 Führung und verliert 2:3 gegen Ingolst
+2026-11-07 23:41:20,602 INFO Veröffentlicht: Ulbricht erlöst Mannheim: Last-Minute-Elfer zum 2:1 gegen Fo
+2026-11-07 23:41:20,647 INFO Veröffentlicht: Wehen Wiesbaden schlägt Havelse mit 3:0
+2026-11-07 23:41:20,695 INFO Veröffentlicht: Viktoria Köln verteidigt Tabellenführung mit 5:3 gegen Saarb
+2026-11-07 23:41:20,745 INFO Veröffentlicht: Hansa Rostock schlägt Großaspach 3:0 und beendet die Verunsi
+2026-11-07 23:41:20,746 WARNING Sitemap ohne Spielerseiten: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-07 23:41:20,747 INFO 💶 Kosten: dieser Lauf 0.000 $ (Budget 0.000 $) | heute 0.00 $ | Monat 0.00 / 0 $ | konferenz (abo) 3× 0.000 $, schreiben (abo) 6× 0.000 $, dublette (abo) 1× 0.000 $
+2026-11-07 23:41:20,747 INFO 🎫 Abo-Verbrauch: 59,197 Tokens rein (davon Cache gelesen 7,130), 50,285 raus, API-Gegenwert 0.48 $ | konferenz 3×: 11,030/42,099, schreiben 6×: 46,492/8,182, dublette 1×: 1,675/4
+2026-11-07 23:41:20,749 INFO Feeds: 45/45 begonnen, nächster Lauf startet bei Nr. 0
+2026-11-07 23:41:20,749 INFO URL-Cache gespeichert: 726 URLs
+2026-11-07 23:41:20,749 INFO === Fertig. 6 neue Artikel. feed.json: 6 ===
+2026-11-07 23:41:20,749 INFO Stats: {"ts": "20261107_2334", "ingested": 664, "s2_pre_filter": 91, "s3_relevance": 65, "s4_dedup_early": 0, "gesammelt": 229, "geschichten_neu": 168, "s5_archiv_doppelt": 0, "s5_zusammengefuehrt": 0, "s6_aussortiert": 124, "s7_geschrieben": 6, "s7_verworfen": 1, "s5_fulltext_fail": 2, "s8_qa_rejected": 0, "published": 6, "s5_randthema": 6, "kosten": {"lauf_usd": 0.0, "lauf_budget_usd": 0.0, "heute_usd": 0.0, "monat_usd": 0.0, "monatsbudget_usd": 0.0, "aufrufe": {"konferenz (abo)": {"anzahl": 3, "usd": 0.0}, "schreiben (abo)": {"anzahl": 6, "usd": 0.0}, "dublette (abo)": {"anzahl": 1, "usd": 0.0}}, "guthaben_leer": false, "abo": true, "abo_tokens": {"konferenz": {"aufrufe": 3, "ein": 1777, "cache_schreiben": 9253, "cache_lesen": 0, "aus": 42099, "api_wert_usd": 0.2307}, "schreiben": {"aufrufe": 6, "ein": 12, "cache_schreiben": 39350, "cache_lesen": 7130, "aus": 8182, "api_wert_usd": 0.2399}, "dublette": {"aufrufe": 1, "ein": 2, "cache_schreiben": 1673, "cache_lesen": 0, "aus": 4, "api_wert_usd": 0.0067}}}}

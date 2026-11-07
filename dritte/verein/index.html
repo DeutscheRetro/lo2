@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>3.-Liga-Vereine: News, Spielplan, Ergebnisse | Ligaoutsider 3. Liga</title>
+  <link rel="canonical" href="https://3liga.ligaoutsider.de/verein/"/>
+  <meta name="description" content="Alle 20 Vereine der 3. Liga mit aktuellen News, Spielplan und Ergebnissen."/>
+  <meta property="og:type" content="profile"/>
+  <meta property="og:title" content="3.-Liga-Vereine: News, Spielplan, Ergebnisse | Ligaoutsider 3. Liga"/>
+  <meta property="og:description" content="Alle 20 Vereine der 3. Liga mit aktuellen News, Spielplan und Ergebnissen."/>
+  <meta property="og:url" content="https://3liga.ligaoutsider.de/verein/"/>
+  <meta property="og:site_name" content="Ligaoutsider.de"/>
+  <meta property="og:locale" content="de_DE"/>
+  <link rel="stylesheet" href="../style.css"/>
+  <link rel="icon" href="../favicon.png" type="image/png"/>
+  <script>if(localStorage.getItem('theme')==='light')document.documentElement.classList.add('light');</script>
+<script src="/consent.js"></script>
+</head>
+<body>
+
+  <script src="/auth.js"></script>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="../index.html" class="logo">
+        <span class="logo-liga">Liga</span><span class="logo-outsider">outsider</span><span class="logo-de">.de</span>
+      </a>
+      <nav class="liga-zeile" aria-label="Liga wählen"><a href="https://ligaoutsider.de/"><span class="liga-marke">BL</span><span class="liga-lang">Bundesliga</span><span class="liga-kurz">1. Liga</span></a><a href="https://2liga.ligaoutsider.de/"><span class="liga-marke zwei">2.BL</span><span class="liga-lang">2. Bundesliga</span><span class="liga-kurz">2. Liga</span></a><a href="/" class="aktiv" aria-current="page"><span class="liga-marke drei">3.L</span><span class="liga-lang">3. Liga</span><span class="liga-kurz">3. Liga</span></a></nav>
+      <div class="header-right">
+        <button class="theme-toggle" id="theme-toggle" title="Hell/Dunkel wechseln">
+          <span id="theme-icon">☀️</span>
+          <span id="theme-label">Hell</span>
+        </button>
+        <div class="auth-buttons">
+          <a href="#" class="auth-btn" id="login-btn">Anmelden</a>
+          <span id="user-info" style="display:none">
+            <a href="https://ligaoutsider.de/nachrichten.html" id="nachrichten-icon" class="post-icon" title="Nachrichten" aria-label="Nachrichten">✉️<span class="post-zahl" id="nachrichten-zahl" hidden></span></a>
+            <span id="user-name" class="auth-username"></span>
+            <a href="#" class="auth-btn" id="logout-btn">Abmelden</a>
+          </span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <nav class="team-nav" aria-label="Vereine">
+    <ul class="team-list">
+        <li><a href="../verein/saarbruecken.html" class="team-chip" title="1. FC Saarbrücken"><img src="../logos/saarbruecken.png" alt="Saarbrücken" /></a></li>
+        <li><a href="../verein/aachen.html" class="team-chip" title="Alemannia Aachen"><img src="../logos/aachen.png" alt="Aachen" /></a></li>
+        <li><a href="../verein/ingolstadt.html" class="team-chip" title="FC Ingolstadt 04"><img src="../logos/ingolstadt.png" alt="Ingolstadt" /></a></li>
+        <li><a href="../verein/duesseldorf.html" class="team-chip" title="Fortuna Düsseldorf"><img src="../logos/duesseldorf.png" alt="Düsseldorf" /></a></li>
+        <li><a href="../verein/fortunakoeln.html" class="team-chip" title="Fortuna Köln"><img src="../logos/fortunakoeln.png" alt="Fortuna Köln" /></a></li>
+        <li><a href="../verein/rostock.html" class="team-chip" title="Hansa Rostock"><img src="../logos/rostock.png" alt="Rostock" /></a></li>
+        <li><a href="../verein/regensburg.html" class="team-chip" title="Jahn Regensburg"><img src="../logos/regensburg.png" alt="Regensburg" /></a></li>
+        <li><a href="../verein/duisburg.html" class="team-chip" title="MSV Duisburg"><img src="../logos/duisburg.png" alt="Duisburg" /></a></li>
+        <li><a href="../verein/muenster.html" class="team-chip" title="Preußen Münster"><img src="../logos/muenster.png" alt="Münster" /></a></li>
+        <li><a href="../verein/essen.html" class="team-chip" title="Rot-Weiss Essen"><img src="../logos/essen.png" alt="RW Essen" /></a></li>
+        <li><a href="../verein/verl.html" class="team-chip" title="SC Verl"><img src="../logos/verl.png" alt="Verl" /></a></li>
+        <li><a href="../verein/grossaspach.html" class="team-chip" title="SG Sonnenhof Großaspach"><img src="../logos/grossaspach.png" alt="Großaspach" /></a></li>
+        <li><a href="../verein/meppen.html" class="team-chip" title="SV Meppen"><img src="../logos/meppen.png" alt="Meppen" /></a></li>
+        <li><a href="../verein/mannheim.html" class="team-chip" title="SV Waldhof Mannheim"><img src="../logos/mannheim.png" alt="Mannheim" /></a></li>
+        <li><a href="../verein/wiesbaden.html" class="team-chip" title="SV Wehen Wiesbaden"><img src="../logos/wiesbaden.png" alt="Wiesbaden" /></a></li>
+        <li><a href="../verein/hoffenheim2.html" class="team-chip" title="TSG 1899 Hoffenheim II"><img src="../logos/hoffenheim2.png" alt="Hoffenheim II" /></a></li>
+        <li><a href="../verein/havelse.html" class="team-chip" title="TSV Havelse"><img src="../logos/havelse.png" alt="Havelse" /></a></li>
+        <li><a href="../verein/stuttgart2.html" class="team-chip" title="VfB Stuttgart II"><img src="../logos/stuttgart2.png" alt="Stuttgart II" /></a></li>
+        <li><a href="../verein/viktoriakoeln.html" class="team-chip" title="Viktoria Köln"><img src="../logos/viktoriakoeln.png" alt="Viktoria Köln" /></a></li>
+        <li><a href="../verein/wuerzburg.html" class="team-chip" title="Würzburger Kickers"><img src="../logos/wuerzburg.png" alt="Würzburg" /></a></li>
+    </ul>
+  </nav>
+
+  <nav class="section-nav">
+    <div class="section-nav-inner">
+      <a href="../index.html" class="section-nav-link" data-nav="news">News</a>
+      <a href="../verein/" class="section-nav-link" data-nav="vereine">Vereine</a>
+      <a href="../archiv.html" class="section-nav-link" data-nav="archiv">Archiv</a>
+    </div>
+  </nav>
+
+  <div class="sp-wrap">
+
+    <h1>Alle 20 Vereine der 3. Liga</h1><p>News, Spielplan und Ergebnisse zu jedem Verein.</p>
+    <div class="lo-sp-news sp-news"><a href="saarbruecken.html" style="display:flex;align-items:center;gap:12px"><img src="../logos/saarbruecken.png" alt="" width="28" height="28" style="object-fit:contain"><span>1. FC Saarbrücken</span></a><a href="aachen.html" style="display:flex;align-items:center;gap:12px"><img src="../logos/aachen.png" alt="" width="28" height="28" style="object-fit:contain"><span>Alemannia Aachen</span></a><a href="ingolstadt.html" style="display:flex;align-items:center;gap:12px"><img src="../logos/ingolstadt.png" alt="" width="28" height="28" style="object-fit:contain"><span>FC Ingolstadt 04</span></a><a href="duesseldorf.html" style="display:flex;align-items:center;gap:12px"><img src="../logos/duesseldorf.png" alt="" width="28" height="28" style="object-fit:contain"><span>Fortuna Düsseldorf</span></a><a href="fortunakoeln.html" style="display:flex;align-items:center;gap:12px"><img src="../logos/fortunakoeln.png" alt="" width="28" height="28" style="object-fit:contain"><span>Fortuna Köln</span></a><a href="rostock.html" style="display:flex;align-items:center;gap:12px"><img src="../logos/rostock.png" alt="" width="28" height="28" style="object-fit:contain"><span>Hansa Rostock</span></a><a href="regensburg.html" style="display:flex;align-items:center;gap:12px"><img src="../logos/regensburg.png" alt="" width="28" height="28" style="object-fit:contain"><span>Jahn Regensburg</span></a><a href="duisburg.html" style="display:flex;align-items:center;gap:12px"><img src="../logos/duisburg.png" alt="" width="28" height="28" style="object-fit:contain"><span>MSV Duisburg</span></a><a href="muenster.html" style="display:flex;align-items:center;gap:12px"><img src="../logos/muenster.png" alt="" width="28" height="28" style="object-fit:contain"><span>Preußen Münster</span></a><a href="essen.html" style="display:flex;align-items:center;gap:12px"><img src="../logos/essen.png" alt="" width="28" height="28" style="object-fit:contain"><span>Rot-Weiss Essen</span></a><a href="verl.html" style="display:flex;align-items:center;gap:12px"><img src="../logos/verl.png" alt="" width="28" height="28" style="object-fit:contain"><span>SC Verl</span></a><a href="grossaspach.html" style="display:flex;align-items:center;gap:12px"><img src="../logos/grossaspach.png" alt="" width="28" height="28" style="object-fit:contain"><span>SG Sonnenhof Großaspach</span></a><a href="meppen.html" style="display:flex;align-items:center;gap:12px"><img src="../logos/meppen.png" alt="" width="28" height="28" style="object-fit:contain"><span>SV Meppen</span></a><a href="mannheim.html" style="display:flex;align-items:center;gap:12px"><img src="../logos/mannheim.png" alt="" width="28" height="28" style="object-fit:contain"><span>SV Waldhof Mannheim</span></a><a href="wiesbaden.html" style="display:flex;align-items:center;gap:12px"><img src="../logos/wiesbaden.png" alt="" width="28" height="28" style="object-fit:contain"><span>SV Wehen Wiesbaden</span></a><a href="hoffenheim2.html" style="display:flex;align-items:center;gap:12px"><img src="../logos/hoffenheim2.png" alt="" width="28" height="28" style="object-fit:contain"><span>TSG 1899 Hoffenheim II</span></a><a href="havelse.html" style="display:flex;align-items:center;gap:12px"><img src="../logos/havelse.png" alt="" width="28" height="28" style="object-fit:contain"><span>TSV Havelse</span></a><a href="stuttgart2.html" style="display:flex;align-items:center;gap:12px"><img src="../logos/stuttgart2.png" alt="" width="28" height="28" style="object-fit:contain"><span>VfB Stuttgart II</span></a><a href="viktoriakoeln.html" style="display:flex;align-items:center;gap:12px"><img src="../logos/viktoriakoeln.png" alt="" width="28" height="28" style="object-fit:contain"><span>Viktoria Köln</span></a><a href="wuerzburg.html" style="display:flex;align-items:center;gap:12px"><img src="../logos/wuerzburg.png" alt="" width="28" height="28" style="object-fit:contain"><span>Würzburger Kickers</span></a></div>
+
+  </div>
+
+  <script>
+    const SUPABASE_URL  = location.origin + '/sb';
+    const SUPABASE_ANON = 'sb_publishable_FQH-uSDHZkVrVBtYfUYQQQ_atmsR-wF';
+
+  </script>
+  <script src="/vendor/supabase.min.js"></script>
+  <script src="../kommentare.js"></script>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p class="footer-copy">© Ligaoutsider.de, 2026</p>
+      <nav class="footer-nav">
+        <a href="../impressum.html">Impressum</a>
+        <a href="../datenschutz.html">Datenschutzerklärung</a>
+        <a href="../nutzungsbedingungen.html">Nutzungsbedingungen</a>
+      </nav>
+    </div>
+  </footer>
+
+</body>
+</html>
