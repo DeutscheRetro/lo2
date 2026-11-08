@@ -1,1 +1,38 @@
-[]
+[
+ {
+  "zeit": "09.11.2026 00:26",
+  "id": "644395bcc6",
+  "pfad": "artikel/wuerzburg-gegen-hoffenheim-ii-zwei-unbestaendige-teams-brauchen-punkte-644395bcc6.html",
+  "urteil": "ok",
+  "gruende": [],
+  "alt_titel": null,
+  "quelle_gelesen": true
+ },
+ {
+  "zeit": "09.11.2026 00:26",
+  "id": "c8c50d68ef",
+  "pfad": "artikel/meppen-schlaegt-regensburg-2-1-und-bleibt-seit-sechs-spielen-c8c50d68ef.html",
+  "urteil": "verbessert",
+  "gruende": [
+   "Schlussabsatz gestrichen: „späten Aluminiumtreffer“ falsch, der Pfostentreffer fiel in der 45.+2 Minute. Der Rest war ein Satz ohne Inhalt und eine Vermutung zu Regensburg, die nicht in der Quelle steht.",
+   "„gegen Regensburger Angreifer“ gestrichen, das steht so nicht in der Quelle.",
+   "„mehrfach Glück“ wie in der Quelle übernommen. Der Artikel endet jetzt mit Pünts Paraden als weiterem Fakt."
+  ],
+  "alt_titel": "Meppen schlägt Regensburg 2:1 und bleibt seit sechs Spielen ungeschlagen",
+  "quelle_gelesen": true
+ },
+ {
+  "zeit": "09.11.2026 00:26",
+  "id": "e465043963",
+  "pfad": "artikel/verl-verliert-auch-bei-stuttgart-ii-elfmeter-sorgt-fuer-frust-e465043963.html",
+  "urteil": "verbessert",
+  "gruende": [
+   "Die zeitliche Einordnung „Zuvor“ bei Herwerths Gelber Karte gestrichen: Die Quelle nennt keinen Zeitpunkt. Den Satz außerdem aus dem Absatz zur Elfmeterszene herausgenommen.",
+   "„erhöhten den Druck“ in „bemühten sich um mehr Druck“ geändert, wie es in der Quelle steht.",
+   "Laut Quelle: Verl hatte zeitweise mehr Ballbesitz. Das stützt die Aussage zur fehlenden Durchschlagskraft.",
+   "Das Testspiel in Bochum ist laut Quelle nicht öffentlich. Diese Angabe ergänzt."
+  ],
+  "alt_titel": "Verl verliert auch bei Stuttgart II: Elfmeter sorgt für Frust",
+  "quelle_gelesen": true
+ }
+]
