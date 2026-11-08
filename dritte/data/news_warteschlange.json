@@ -25,7 +25,8 @@
   "prio": 3,
   "status": "n",
   "erstmals": "2026-11-07T23:34",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "836eca8952",
@@ -54,7 +55,8 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-07T23:34",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "3f01c87c10",
@@ -82,7 +84,8 @@
   "prio": 3,
   "status": "n",
   "erstmals": "2026-11-07T23:34",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "484e246f51",
@@ -110,7 +113,8 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-07T23:34",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "85de772cb1",
@@ -147,121 +151,7 @@
   "status": "n",
   "erstmals": "2026-11-07T23:34",
   "archiv": [],
-  "versuche": 1
- },
- {
-  "id": "a14f5cd408",
-  "schluessel": "rostock|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Rostock",
-  "klubs": [
-   "Rostock",
-   "Großaspach"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "3. Liga: Hansa Rostock schlägt Sonnenhof Großaspach und atmet auf",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd2k4YmplS0daNzN4eUZ3dVdUSWM1RGZmQW1xUXJIdk8xTEZuZ0RsbzlNZm5HN0s0QlJoRlUxMWEwdDFhaHlLTldrSjFvRzJaakk4ajUtM1ZvTzN2LUkyNFhfMm80VGZWWXlRMm12amI0a1NqWHBxSUJLdzEwYmZtVnluZ3JRaHZLZDZUNE0zMVhYbXFrRWpqbFZ0RmM2czdFTWozZkQtYVprSTQ1V2dDbQ?oc=5",
-    "aid": "dd4267a355",
-    "titel": "3. Liga: Hansa Rostock schlägt Sonnenhof Großaspach und atmet auf",
-    "quelle": "NDR.de",
-    "beschr": " 3. Liga: Hansa Rostock schlägt Sonnenhof Großaspach und atmet auf &nbsp;&nbsp; NDR.de ",
-    "zeit": "2026-11-07T16:53"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-07T23:34",
-  "archiv": []
- },
- {
-  "id": "9a955059c7",
-  "schluessel": "dusseldorf|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Düsseldorf",
-  "klubs": [
-   "Düsseldorf"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "3. Liga: Fortuna Düsseldorf stümpert sich in den ABSTIEGSkampf!",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONnZyREFuZ193Z09wZHpFUW1pZ1pzRS0yNVJJbFZtZFEyQVNUTF9rd1lUVGJ3Z3VpQS1UMzkxQXBBY0tuNVI4WnJ4NGhJaHUyY19Sa0hwVm5MaHZpSm1SX202UE5FdlV0Mk9rS2g5cVc3Z3R2Q0hWWTlydlk5ZDk5Q3JIRnl6TzROWWlEWmtXQTF2ZHhEYTUya29zOGNsNVVhYXhKYUtsSXJ4eDVSdnkyMkNtMTUyQXlMRlk5anJRdw?oc=5",
-    "aid": "bd92878ce5",
-    "titel": "3. Liga: Fortuna Düsseldorf stümpert sich in den ABSTIEGSkampf!",
-    "quelle": "BILD",
-    "beschr": " 3. Liga: Fortuna Düsseldorf stümpert sich in den ABSTIEGSkampf! &nbsp;&nbsp; BILD ",
-    "zeit": "2026-11-07T16:06"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-07T23:34",
-  "archiv": []
- },
- {
-  "id": "6c08ec6802",
-  "schluessel": "wiesbaden|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Wiesbaden",
-  "klubs": [
-   "Wiesbaden"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Hessen: SV Wehen Wiesbaden unter Seitz weiter unaufhaltsam",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYUVGdDVPdUtqOG4xcmF0bjUwVy1mS28tWjhERExaQzdfYm1XaHg0Yk5ILTIxNU5Ydk5lc29mQnBMc19GTHpiQmZoekQ3MU83V183YjFwNTZod3hRTlBJRmRVQlpYN1ZycEI5NU0wU0NuWTJDWXVibzRaaXgzcW9hMlJrYlpRQTFkdE9TdW9lNFhXNmtkRUxKSjJnS3Zqb2doUU9PSU92NjVacjlIZV9fWA?oc=5",
-    "aid": "e7b50e4cde",
-    "titel": "Hessen: SV Wehen Wiesbaden unter Seitz weiter unaufhaltsam",
-    "quelle": "tagesschau.de",
-    "beschr": " Hessen: SV Wehen Wiesbaden unter Seitz weiter unaufhaltsam &nbsp;&nbsp; tagesschau.de ",
-    "zeit": "2026-11-07T16:26"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-07T23:34",
-  "archiv": []
- },
- {
-  "id": "f3a023577c",
-  "schluessel": "rostock|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Rostock",
-  "klubs": [
-   "Rostock",
-   "Großaspach"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "3. Liga: Hansa Rostock im Heimspiel gegen Sonnehof Großaspach unter Druck",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYXVxWWxiX1dWcDRKVjZBMXc0TTV4OWZJLTJHa2twYTBtTG4tNFlSVS14dmlUWDJkZjdfaUV3a2hBNkt2bDhtUWZobk1aYkMtSV9tUUkxNHZNdEdtTkVrdGVlWDZodkdFSDlUbkRSR3hqZTdZRmtCNjlVWlJPaDNIMHZ6VnBucVV6UmlzSHQ5Y3VYN3dtak1PblhJYVZ5TFIxYXJsZzBHOTZxa084aWJjMQ?oc=5",
-    "aid": "ffa1f5deee",
-    "titel": "3. Liga: Hansa Rostock im Heimspiel gegen Sonnehof Großaspach unter Druck",
-    "quelle": "NDR.de",
-    "beschr": " 3. Liga: Hansa Rostock im Heimspiel gegen Sonnehof Großaspach unter Druck &nbsp;&nbsp; NDR.de ",
-    "zeit": "2026-11-05T15:16"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-07T23:34",
-  "archiv": []
+  "versuche": 2
  },
  {
   "id": "7e9564f2cb",
@@ -289,36 +179,8 @@
   "prio": 3,
   "status": "u",
   "erstmals": "2026-11-07T23:34",
-  "archiv": []
- },
- {
-  "id": "c0a862386f",
-  "schluessel": "wurzburg|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Würzburg",
-  "klubs": [
-   "Würzburg",
-   "Hoffenheim II"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Würzburger Kickers vs. Hoffenheim II: TV, Livestream und Anstoßzeit in der 3. Liga",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOa1JnTU9reF9VQmhlVkhVMm55OXo1RXhkSTBZeUZmLWNtNGVhcVpBeEpjSWZSTGN0bUJxbzZsWkczckJteHplYlUwVUpHSmVSZms2QUp6QngyYzhIQ2FtWV9neHlZbDhUVXZpYk9ITTNFWXQ5RnotdEZubDJiT2I3ZGtVUTM0a1VManBkQXFwTDhSUXdXaUV2N0pIVTMtd1UxZFU3UE9ZbkhrZFZQSm85MGNDU2NVQXk3QlAzRUJjcFlCMVNwYVZPNE5FOGdmd2RUSXFDOWw3d0ZMY2RCOTlMWVJtV2ZTY3AwcHlmR0pNbFRPRVBNQm9GX2V6WUFHUQ?oc=5",
-    "aid": "644395bcc6",
-    "titel": "Würzburger Kickers vs. Hoffenheim II: TV, Livestream und Anstoßzeit in der 3. Liga",
-    "quelle": "SPOX.com",
-    "beschr": " Würzburger Kickers vs. Hoffenheim II: TV, Livestream und Anstoßzeit in der 3. Liga &nbsp;&nbsp; SPOX.com ",
-    "zeit": "2026-11-07T19:30"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-07T23:34",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "f41f31714d",
@@ -346,36 +208,8 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-07T23:34",
-  "archiv": []
- },
- {
-  "id": "1be0796747",
-  "schluessel": "wurzburg|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Würzburg",
-  "klubs": [
-   "Würzburg",
-   "Hoffenheim II"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "„Diese Euphorie sollten wir ins Heimspiel mitnehmen“: Würzburger Kickers empfangen Hoffenheim II",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPOTVQS192N0lPd2ducWsteTl1UGtwVmVLSEFGaTByLTZBMFhjV0lRVE9Wekd1dUNMRTU2b09WTEdGSzdPZWxsdVoyV05oWGNuT1FRNDlqVFNiNWYwMHNHeTZJUVllSkFKUmRVbGdxZnAtcEwyREthRnZ2M2pycjVJQWRRV3p0VDE3OTA1Zk83eFNWMndqS0I1ZnNDUjVGMWVJdmh1Y2VCbl9MbVA3bzNJZEFmdFlDZTd4UXd6WHZWMmZ0eFo1V2tUQnBWSnFGT1ZKcUZMZ05JMlI3Y05pSFNLVFg5dndGZXZ6ZVpsUGcxbjVsUQ?oc=5",
-    "aid": "db2f2814cd",
-    "titel": "„Diese Euphorie sollten wir ins Heimspiel mitnehmen“: Würzburger Kickers empfangen Hoffenheim II",
-    "quelle": "Main-Post",
-    "beschr": " „Diese Euphorie sollten wir ins Heimspiel mitnehmen“: Würzburger Kickers empfangen Hoffenheim II &nbsp;&nbsp; Main-Post ",
-    "zeit": "2026-11-06T17:00"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-07T23:34",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "2879d8f25d",
@@ -403,7 +237,8 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-07T23:34",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "502e21a17a",
@@ -431,36 +266,8 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-07T23:34",
-  "archiv": []
- },
- {
-  "id": "9a07f3504b",
-  "schluessel": "mannheim|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Mannheim",
-  "klubs": [
-   "Mannheim",
-   "Fortuna Köln"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "SV Waldhof Mannheim: Neue Aufgabe gegen SC Fortuna Köln am 07.11.2026",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcGFpdG1DU2piQ2plM1E5dkNSUzh4b1FCUFpsZzBhMnFhY01OQ3pOSXBIcy1vYkZ3RDBNcGxwRUFCSmVFRzZsWlhxOXY0X29BVWpTMjdlQjFzcHhuVHBobERHX3RjaE80MWxQQXBJTjBnOFo4UTEtQkttazhWSWNBdUwtTkFUdzNReENzZUVPdHlpVkNlNnhtY3R0LW15TUVBRkZvY1loVkR5WUhKUzVlVmxuQk1SZkc3WGJmSHFEV3VidVBh?oc=5",
-    "aid": "3bf0450251",
-    "titel": "SV Waldhof Mannheim: Neue Aufgabe gegen SC Fortuna Köln am 07.11.2026",
-    "quelle": "News.de",
-    "beschr": " SV Waldhof Mannheim: Neue Aufgabe gegen SC Fortuna Köln am 07.11.2026 &nbsp;&nbsp; News.de ",
-    "zeit": "2026-11-07T09:46"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-07T23:34",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "1d4323ec2c",
@@ -489,35 +296,8 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-07T23:34",
-  "archiv": []
- },
- {
-  "id": "f69765db7c",
-  "schluessel": "ingolstadt|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Ingolstadt",
-  "klubs": [
-   "Ingolstadt"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Viele Vieren und eine Fünf: Verteidiger katastrophal, Torwart wacklig – die Noten zum 2:3 in Ingolstadt",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbzJLOTQxd1ZJNTZGZE9xbUo0bHY3N0k1REo4Ui1ZNW9XanNZOXNlWDBlVDdpbTMtaE94R1B0MXoxRmwzMzJXRi1LeVNFcUc3RjVWSE9RTEc3Slh4Q1YwZHc5YTdlUkJEeTItTGMwR0Y0M3hpMXdyS3c0emVHczdkcVozZGVyb1JmdU5Ka3I1LVZ2QUJ3VHFpdURQcmNsSVpRVlkwbWcxamRaY3hWbUI0SzNpSHc?oc=5",
-    "aid": "889cb78124",
-    "titel": "Viele Vieren und eine Fünf: Verteidiger katastrophal, Torwart wacklig – die Noten zum 2:3 in Ingolstadt",
-    "quelle": "RP Online",
-    "beschr": " Viele Vieren und eine Fünf: Verteidiger katastrophal, Torwart wacklig – die Noten zum 2:3 in Ingolstadt &nbsp;&nbsp; RP Online ",
-    "zeit": "2026-11-07T15:59"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-07T23:34",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "720837fbe5",
@@ -545,64 +325,8 @@
   "prio": 3,
   "status": "n",
   "erstmals": "2026-11-07T23:34",
-  "archiv": []
- },
- {
-  "id": "3a78e10e53",
-  "schluessel": "dusseldorf|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Düsseldorf",
-  "klubs": [
-   "Düsseldorf"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Mit großer Erfahrung: Zurück nach Düsseldorf? Ex-Fortuna-Stürmer ablösefrei und sofort verfügbar",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLTBZWF8zUWNtT3d2S2NUckdka0hXYmF2OEZuekJwa0xzMmx0T1I1UWxJRXkwa1Z5empBM01zUmFBRm10UVNvVEV0ZHZlUnlpYUNhZXhzVmJPUHpxTHVPNmlPbC0zUk14ZzFrWUNPd2JWdEdTU2hZQjVoVHJMV3d4M0F5SEVPbFFUejV4NDFZQXZ2V1ROZWRobGVGMWtORnF3cGxZcld1QkFzdENTRGRTRjRDY3pVYUJRc3lyWVpNc2Y5N0JCMF9wMg?oc=5",
-    "aid": "2730e98c1d",
-    "titel": "Mit großer Erfahrung: Zurück nach Düsseldorf? Ex-Fortuna-Stürmer ablösefrei und sofort verfügbar",
-    "quelle": "RP Online",
-    "beschr": " Mit großer Erfahrung: Zurück nach Düsseldorf? Ex-Fortuna-Stürmer ablösefrei und sofort verfügbar &nbsp;&nbsp; RP Online ",
-    "zeit": "2026-11-07T08:54"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-07T23:34",
-  "archiv": []
- },
- {
-  "id": "4136dd0c83",
-  "schluessel": "mannheim|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Mannheim",
-  "klubs": [
-   "Mannheim",
-   "Fortuna Köln"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Elfmeter in der Nachspielzeit: Waldhof Mannheim schlägt Fortuna Köln spät",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV1pROHBZb1lmdTIzdkxWR1VkUGRXak1rVE44emh5X1ZrYm1uWVZJYzg5MmF6aUgyRzNrYlhSSWh1T2JTVlZUckgzZmg5NmRPODRBV1FuNXZTdnJBR2k0TjMtbkdsdG9NQmVCLWxGXzNDM09uaUlVd1dBbWVYTzcxazFYTzRNeXB6WHNKbkZfeC1MbElKbXVteTNmVmlUTEptY19LRWZWNjU2eUkwallsdGZ2dmpnMmVGVllJWWh0UnV3QlVVLWVJ?oc=5",
-    "aid": "3584682c0e",
-    "titel": "Elfmeter in der Nachspielzeit: Waldhof Mannheim schlägt Fortuna Köln spät",
-    "quelle": "sportschau.de",
-    "beschr": " Elfmeter in der Nachspielzeit: Waldhof Mannheim schlägt Fortuna Köln spät &nbsp;&nbsp; sportschau.de ",
-    "zeit": "2026-11-07T16:23"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-07T23:34",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "ea25cbb846",
@@ -630,7 +354,8 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-07T23:34",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "6ae69cc611",
@@ -658,7 +383,8 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-07T23:34",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "f0bbd0e3a1",
@@ -686,7 +412,8 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-07T23:34",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "586579fada",
@@ -715,7 +442,8 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-07T23:34",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "b68e2a8d12",
@@ -743,7 +471,8 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-07T23:34",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "8ed3317b01",
@@ -773,35 +502,7 @@
   "status": "n",
   "erstmals": "2026-11-07T23:34",
   "archiv": [],
-  "versuche": 1
- },
- {
-  "id": "c473a5ed9a",
-  "schluessel": "munster|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Münster",
-  "klubs": [
-   "Münster"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "1:2-Pleite – ist das bitter: Preußen vergeigt auch gegen Duselburg!",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM1pkcjB6RThCMW40eUhMak1qZ3hBYVRyVWtxU2s2X01Jb1R5RkhDMUdpT1lUUnBhY1BDOFZiNkhTREV2UUNSYkJ0WVpLNmxnMzhVU0FhQThQU0Y1cFVreEFEX3otTElreklDeUFoeVBDX0xndTQ5ZHRJeWRqZDZwM2RKMmJOMW9tWlFsM3BDVmFTU2pTYmZTUUJ6dV95X0QyRmtGandtb2I0YndJcVh2cnotZW5BV0tXN3BWN3MxX2R1QQ?oc=5",
-    "aid": "1cea411272",
-    "titel": "1:2-Pleite – ist das bitter: Preußen vergeigt auch gegen Duselburg!",
-    "quelle": "BILD",
-    "beschr": " 1:2-Pleite – ist das bitter: Preußen vergeigt auch gegen Duselburg! &nbsp;&nbsp; BILD ",
-    "zeit": "2026-11-07T20:11"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-07T23:34",
-  "archiv": []
+  "versuche": 2
  },
  {
   "id": "58988602b9",
@@ -829,7 +530,8 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-07T23:34",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "18ec1e5aeb",
@@ -857,7 +559,8 @@
   "prio": 3,
   "status": "n",
   "erstmals": "2026-11-07T23:34",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "0426351af3",
@@ -886,7 +589,8 @@
   "prio": 3,
   "status": "n",
   "erstmals": "2026-11-07T23:34",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "304dd76ca0",
@@ -914,36 +618,8 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-07T23:34",
-  "archiv": []
- },
- {
-  "id": "8fe0d9cc42",
-  "schluessel": "wurzburg|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Würzburg",
-  "klubs": [
-   "Würzburg",
-   "Hoffenheim II"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Spielstatistik Würzburger K. - Hoffenheim II",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqaFdNbUdwTVY1aVA0Z2dZU3pZSWtvcHVHcmtGamE1QURVRnd4b0d3by12cFg0eTZTa2ZBNkVkanZSVWljNDdWZ2tOTGcza2JYdEl2VnhILXNocm1vOWp5SnpQdFNUaUVibkp6Tw?oc=5",
-    "aid": "837556e7d1",
-    "titel": "Spielstatistik Würzburger K. - Hoffenheim II",
-    "quelle": "NDR.de",
-    "beschr": " Spielstatistik Würzburger K. - Hoffenheim II &nbsp;&nbsp; NDR.de ",
-    "zeit": "2026-11-07T00:23"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-07T23:34",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "ade2617885",
@@ -971,7 +647,8 @@
   "prio": 3,
   "status": "n",
   "erstmals": "2026-11-07T23:34",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "2ede3b1a7d",
@@ -999,63 +676,242 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-07T23:34",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
-  "id": "483d54ae40",
-  "schluessel": "havelse|kader",
+  "id": "a870011fc0",
+  "schluessel": "meppen|sonstiges",
   "person": "",
   "spieler": [],
-  "klub": "Havelse",
+  "klub": "Meppen",
   "klubs": [
-   "Havelse"
-  ],
-  "stufe": "kader",
-  "klasse": "kader",
-  "titel": "SVWW – TSV Havelse: Mannschaftsaufstellung",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJRG11bjRuc1RDQzNrelEtNzNtMC1yUUJPeDVCQWVoRDQ0Y0E3MkU5bVlPMmZ4eEZWT3Y0NXBlWVNPLXdGLXZaTVE0V3V2azZhTkFxVU84YTNVRlp1b20tRnJ4Ym1oMk5sd044cTlGRmpiZ3M?oc=5",
-    "aid": "5eb3d3a055",
-    "titel": "SVWW – TSV Havelse: Mannschaftsaufstellung",
-    "quelle": "Wiesbaden lebt",
-    "beschr": " SVWW – TSV Havelse: Mannschaftsaufstellung &nbsp;&nbsp; Wiesbaden lebt ",
-    "zeit": "2026-11-07T12:24"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-07T23:34",
-  "archiv": []
- },
- {
-  "id": "3bd31e7bc1",
-  "schluessel": "viktoria koln|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Viktoria Köln",
-  "klubs": [
-   "Viktoria Köln",
-   "Saarbrücken"
+   "Meppen",
+   "Regensburg"
   ],
   "stufe": "sonstiges",
   "klasse": "sonstiges",
-  "titel": "\"Wahnsinn, was die Jungs machen!\": 8-Tore-Spektakel beim Top-Spiel Viktoria Köln gegen Saarbrücken",
+  "titel": "Goldenstein ins Glück: Meppen ringt Regensburg nieder",
   "quellen": [
    {
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM3d6UUxmaS15SnZPV1NnMmQzWFpra1p0d2RZOThzVGo0dUo0SW84MFctZU5kRGg5Nm5xM080YUpEbmZ3TVlKLWZUYjIzVHY5Qnd2ZDdYcWs5amFaSXlzZ1FwMExQRDAzODlRcGoyU0M3YzVmZWJnSmE0TnpZQlZlVnRuanR6UGtCU0RPV3c0bWZ1bmlSSXVmQ3EtdmFnZS1CSm9STUxLbUFrTDhlTjREYVJ5ZTUxUQ?oc=5",
-    "aid": "a3a73c098d",
-    "titel": "\"Wahnsinn, was die Jungs machen!\": 8-Tore-Spektakel beim Top-Spiel Viktoria Köln gegen Saarbrücken",
-    "quelle": "WEB.DE",
-    "beschr": " \"Wahnsinn, was die Jungs machen!\": 8-Tore-Spektakel beim Top-Spiel Viktoria Köln gegen Saarbrücken &nbsp;&nbsp; WEB.DE ",
-    "zeit": "2026-11-07T07:15"
+    "url": "https://www.kicker.de/meppen-gegen-regensburg-2026-liga-5233339/spielbericht#omrss",
+    "aid": "f1f0e1361d",
+    "titel": "Goldenstein ins Glück: Meppen ringt Regensburg nieder",
+    "quelle": "kicker 3. Liga News",
+    "beschr": "Der SV Meppen hat den SSV Jahn Regensburg knapp mit 2:1 besiegt und blieb damit auch im sechsten Spiel in Serie ungeschlagen. Den entscheidenden Treffer erzielte der 19-jährige Goldenstein.",
+    "zeit": "2026-11-08T12:45"
    }
   ],
   "archiv_status": "neu",
   "prio": 3,
   "status": "n",
-  "erstmals": "2026-11-07T23:34",
-  "archiv": []
+  "erstmals": "2026-11-08T15:41",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "fdceb15410",
+  "schluessel": "munster|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Münster",
+  "klubs": [
+   "Münster"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Münster in der Sinnkrise - Wörle widerspricht Hirsch",
+  "quellen": [
+   {
+    "url": "https://www.kicker.de/muenster-in-der-sinnkrise-woerle-widerspricht-hirsch-1269651/artikel#omrss",
+    "aid": "028a5e5bef",
+    "titel": "Münster in der Sinnkrise - Wörle widerspricht Hirsch",
+    "quelle": "kicker 3. Liga News",
+    "beschr": "Preußen Münster sucht weiter nach sich selbst - und steckt deshalb im Abstiegskampf fest. Nach der Niederlage gegen den MSV Duisburg wollte Thomas Wörle einen Satz seines Trainerkollegen nicht stehenlassen.",
+    "zeit": "2026-11-08T11:44"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-08T15:41",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "029ac8abb4",
+  "schluessel": "munster|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Münster",
+  "klubs": [
+   "Münster"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Preußen Münster: Abstiegsangst? Koulis wird deutlich: „Müssen schnellstmöglich punkten“",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSG5kOHotWVNmZHJhYkdoeDFOc2dBY0F2Q2p0VUpNcko1RUtLYnQ4QnQxcmlFcjlaR2VRQ0FIWlNsaVFhWmRlWFZyellPMXluMC1TUU5qMUxTdkZLU2dGYUNJckFFOXJ1OWZ1ek1NSHd6c2xocTE0Mm81UWg1YklaNnlHeWQtQmY4UC1EV1g2ZzA3Nm9BV2dEOEhmTFhsOGdGUmREN2NSTTIwUGVUaWw0WFp1SjRkTFp4TlU5bjFBeEM4b1lUcUI0amtjTWQ1dlUzaHdHWGZ2RzJHYkU?oc=5",
+    "aid": "d3787eb296",
+    "titel": "Preußen Münster: Abstiegsangst? Koulis wird deutlich: „Müssen schnellstmöglich punkten“",
+    "quelle": "RevierSport online",
+    "beschr": " Preußen Münster: Abstiegsangst? Koulis wird deutlich: „Müssen schnellstmöglich punkten“ &nbsp;&nbsp; RevierSport online ",
+    "zeit": "2026-11-08T08:07"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-08T15:41",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "b923485d67",
+  "schluessel": "rw essen|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "RW Essen",
+  "klubs": [
+   "RW Essen",
+   "Aachen"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Rot-Weiss Essen: \"Frage nach dem Angstgegner war berechtigt\" - RWE stößt Aachen-Bock um",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSXk1WkJsamY1STMzN0ZLbWFQODlqdnlYM2NWVExmaTlsOVNVWnYtbk4wdzRobkQ1ZFBkTUtYaGVFZnd2QnNvY1M5M3k1bG5WMG8wc09uWTY0cUVVTDVlQ1ByV3RmSDdDZ3BfVS1uSmZab241WHE3OEtUdkFSbXd5VDhSWm0zNlNzVmxjeWxrTDFvOE5uc3duRjNFYld6SjhrYUYzOXVtN2xrS0dQbi1HX3loaGZZYjdyYVFmYjYwbHhBaUJPaXJHU2NzZ0c?oc=5",
+    "aid": "f72eebc11b",
+    "titel": "Rot-Weiss Essen: \"Frage nach dem Angstgegner war berechtigt\" - RWE stößt Aachen-Bock um",
+    "quelle": "RevierSport online",
+    "beschr": " Rot-Weiss Essen: \"Frage nach dem Angstgegner war berechtigt\" - RWE stößt Aachen-Bock um &nbsp;&nbsp; RevierSport online ",
+    "zeit": "2026-11-08T07:07"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-08T15:41",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "7c4565f5cc",
+  "schluessel": "duisburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Duisburg",
+  "klubs": [
+   "Duisburg",
+   "RW Essen"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "MSV-Trainer lobt nach Notfall Fangruppen und erinnert an Pokalfinale gegen RWE",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLUM5QkZFWGhrQnVTcUIwRWlsQTBnOUE0LThtTjhWRi1rOWZQUWdrd2J1MTZWbzJXeGwxTVV3ek4tYmdSckNTZHZwdTlRY0FNOGRyTTZHN1dfaXVRM2x3RC12Q0I3eHFMX0kyQjhfUG11V19IUGtCMDF6bFcweTRVMm9uRm9YQ3lVbS1Rc1loaTRXY21aQnotWlhIZjBGdlBlMnVWMGx1Ui0yaUswOUFZeDgxV3RZeEIzUFFmN2JmOVVaLTF0V2ZKTWdlZTY4ZTEyVUFSQw?oc=5",
+    "aid": "ccaf89562c",
+    "titel": "MSV-Trainer lobt nach Notfall Fangruppen und erinnert an Pokalfinale gegen RWE",
+    "quelle": "NRZ",
+    "beschr": " MSV-Trainer lobt nach Notfall Fangruppen und erinnert an Pokalfinale gegen RWE &nbsp;&nbsp; NRZ ",
+    "zeit": "2026-11-08T15:03"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-08T15:41",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "44a6c85141",
+  "schluessel": "duisburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Duisburg",
+  "klubs": [
+   "Duisburg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "\"Kann großer Schritt sein\" - Duisburg marschiert Richtung Meisterrunde",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNGRQYm9fTUlRMzZZc1k5blFvME14blA1dEVRbE8wSHJ1cC1BeVhEcmRqRjJIRVpfdjBwQmFlMURMaHlncEF4NExkUjJGUlpvZVlIQ183Y3hhTHZxYi1xZWlUckNWRXhGcDlYd3cxYlc5aHFHTzNPWGl2d1N4aGV4QzJnRW0zcWtuaHRSeDkzZHZPYXNiblpkR0xBYV9obGRQWU9wUE1zd25NWURhcVc0WFdmcXBXd3JkbXNBNG84bTJTQl9uYmh1anFNWm8za3Fp?oc=5",
+    "aid": "fe570668a1",
+    "titel": "\"Kann großer Schritt sein\" - Duisburg marschiert Richtung Meisterrunde",
+    "quelle": "RevierSport online",
+    "beschr": " \"Kann großer Schritt sein\" - Duisburg marschiert Richtung Meisterrunde &nbsp;&nbsp; RevierSport online ",
+    "zeit": "2026-11-08T07:37"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-08T15:41",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "ffdd3cb64d",
+  "schluessel": "rw essen|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "RW Essen",
+  "klubs": [
+   "RW Essen"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Rot-Weiss Essen: RWE festigt seinen Platz in der Spitzengruppe - \"Beseelt von dem Erfolg\"",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNm5NWE5uQ0NpTUNIZjg0clRZWG1VeDlyekxfN2VtbFBVN0VtVkxOXzdjOE1fcEttMTdMSVJISVhZTkFOUWFZdnlMRE5Ed2hnUmZ4ZEhfZV9UTjdDUG5iZE5BVjRRRUJIcHM2TW42YWhlbWlLLWo0d1ZrRkpnVlMyNUhXUGN2Rk05dXJKclZQZHRiV0I3clk1bUF3QnRfNkJ5VHZQemNmU3FnZjVvNG1DQTdFd2JSMzlNdFRyMTlmX2hCX0p6?oc=5",
+    "aid": "da2d2fe97b",
+    "titel": "Rot-Weiss Essen: RWE festigt seinen Platz in der Spitzengruppe - \"Beseelt von dem Erfolg\"",
+    "quelle": "RevierSport online",
+    "beschr": " Rot-Weiss Essen: RWE festigt seinen Platz in der Spitzengruppe - \"Beseelt von dem Erfolg\" &nbsp;&nbsp; RevierSport online ",
+    "zeit": "2026-11-08T11:07"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-08T15:41",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "219900fc83",
+  "schluessel": "rw essen|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "RW Essen",
+  "klubs": [
+   "RW Essen"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "„Das ist uns um die Ohren geflogen“: RWE-Kapitän Golz rechnet mit Vorsaison ab",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORFdlY2t2ekRhRmxYR3BqUy1RM2JMQkUxOXhPbmlTVkkwcWRUQXZDWjlMS21POUdjVUExTjFuUlpaOEt6b01jazRyM3c0dGZYLWtuVnljTVhxUC1URXM0S3hzSzFNUGhFTnhLRGx1X2JvUFlFWUJZa3FNaXRkN0xJLUNXTkFoeEpMV05GNHBWVHowNUx4MFJuTWtXelZ5aEFSRFlsbExGVnhVQjdVV19HZGR6UkhvMVJvcE1rMEZfYmE2OC11VzJpQWtNWVdtMVpaWWl5X2pn?oc=5",
+    "aid": "cde7e010af",
+    "titel": "„Das ist uns um die Ohren geflogen“: RWE-Kapitän Golz rechnet mit Vorsaison ab",
+    "quelle": "WAZ | Westdeutsche Allgemeine Zeitung",
+    "beschr": " „Das ist uns um die Ohren geflogen“: RWE-Kapitän Golz rechnet mit Vorsaison ab &nbsp;&nbsp; WAZ | Westdeutsche Allgemeine Zeitung ",
+    "zeit": "2026-11-08T10:00"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-08T15:41",
+  "archiv": [],
+  "versuche": 1
  }
 ]
