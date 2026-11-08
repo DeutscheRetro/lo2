@@ -351,6 +351,11 @@ def archiv_vorbereiten(archiv: list[dict], jetzt: datetime.datetime | None = Non
     return aus
 
 
+def ergebnisse(text: str) -> set[tuple[int, int]]:
+    """Spielstände wie 1:2 im Text, ohne Seite (1:2 == 2:1). Uhrzeiten (18:30) zählen nicht."""
+    return {tuple(sorted((int(a), int(b)))) for a, b in re.findall(r"(?<![\d:.])(\d):(\d)(?![\d:])", text)}
+
+
 def archiv_abgleich(g: dict, archiv: list[dict], jetzt: datetime.datetime | None = None) -> tuple[str, list[dict]]:
     """('doppelt' | 'update' | 'aehnlich' | 'neu', passende Archiv-Einträge, neueste zuerst)."""
     jetzt = jetzt or datetime.datetime.now()
@@ -384,7 +389,9 @@ def archiv_abgleich(g: dict, archiv: list[dict], jetzt: datetime.datetime | None
             aehnlich = fuzz.token_sort_ratio(falten(g["titel"]), falten(e["titel"]))
             if g["klasse"] == "spiel":
                 gemeinsam = len(set(g["klubs"]) & e["klubs"])
-                sicher = gemeinsam >= 2 or (gemeinsam == 1 and aehnlich >= 50)
+                eg, ee = ergebnisse(g["titel"] + " " + g.get("summary", "")), ergebnisse(e["titel"] + " " + e.get("summary", ""))
+                andere_partie = bool(eg and ee and not eg & ee)   # anderer Spielstand = andere Partie desselben Klubs
+                sicher = not andere_partie and (gemeinsam >= 2 or (gemeinsam == 1 and aehnlich >= 50))
             else:
                 hauptperson = bool(g["person"]) and e["person"] == falten(g["person"])
                 endgueltig = g["stufe"] in ("vollzogen", "geplatzt", "entlassung", "trainer_neu")
@@ -395,8 +402,8 @@ def archiv_abgleich(g: dict, archiv: list[dict], jetzt: datetime.datetime | None
                 ohne_person = not g["person"] and g["stufe"] in ("entlassung", "trainer_neu")
                 schwelle = 55 if g["person"] or ohne_person else 85
                 sicher = aehnlich >= schwelle or (endgueltig and (hauptperson or ohne_person))
-            if sicher:
-                return "doppelt", [x for x, _ in treffer][:3]
+            if sicher:   # der passende Eintrag zuerst, sonst nennt das Log den falschen Artikel
+                return "doppelt", ([e] + [x for x, _ in treffer if x is not e])[:3]
         elif STUFEN_REIHE.get(g["stufe"], 0) > STUFEN_REIHE.get(e["stufe"], 0) or g["klasse"] == "verletzung":
             status = "update"
     return status, [x for x, _ in treffer][:3]
