@@ -1,5 +1,105 @@
 [
   {
+    "id": "008a7a4de7",
+    "titel": "Hertha BSC: Wie Stefan Leitl den Umschwung in Berlin geschafft hat",
+    "kategorie": "analyse",
+    "badge": "Analyse",
+    "badge_bg": "#6a1fbf",
+    "badge_fg": "#fff",
+    "datum": "08.11.2026 18:07",
+    "wappen_url": "logos/hertha.png",
+    "vereine": [
+      "Hertha",
+      "Wolfsburg"
+    ],
+    "anriss": "Hertha BSC hat nach dem 2:1 gegen den VfL Wolfsburg zehn Punkte Vorsprung auf Rang drei in der zweiten Liga. Unter Trainer Stefan Leitl gelang den Berlinern der beste Zweitliga-Saisonstart seit 48 Jahren. Dabei hatten die Fans nach dem letzten Spiel der vergangenen Saison noch",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Hertha",
+    "pfad": "artikel/hertha-bsc-wie-stefan-leitl-die-berliner-an-die-spitze-fuehrt-008a7a4de7.html",
+    "bild_tm": "",
+    "umfrage": null
+  },
+  {
+    "id": "6bff53df7c",
+    "titel": "Darmstadt gewinnt nicht öffentlichen Test in Nürnberg mit 4:1",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "08.11.2026 18:06",
+    "wappen_url": "logos/darmstadt.png",
+    "vereine": [
+      "Darmstadt",
+      "Nürnberg"
+    ],
+    "anriss": "Der SV Darmstadt 98 hat ein nicht öffentliches Testspiel beim 1. FC Nürnberg mit 4:1 (4:0) gewonnen. Das teilte der Verein auf seiner Homepage mit. Einen Tag nach der 0:2-Niederlage in der Liga gegen den Club war ein Teil des Kaders in Franken geblieben, um",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Darmstadt",
+    "pfad": "artikel/darmstadt-gewinnt-testspiel-in-nuernberg-mit-4-1-6bff53df7c.html",
+    "bild_tm": "",
+    "umfrage": null
+  },
+  {
+    "id": "b557e7ac2b",
+    "titel": "Heidenheim und Hannover trennen sich 2:2",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "08.11.2026 18:05",
+    "wappen_url": "logos/heidenheim.png",
+    "vereine": [
+      "Hannover",
+      "Heidenheim"
+    ],
+    "anriss": "Der 1. FC Heidenheim und Hannover 96 haben sich am 11. Spieltag der 2. Bundesliga 2:2 getrennt. In der Voith-Arena verpasste der FCH damit erneut einen Sieg. Am Ende war die Partie ausgeglichen. Die Heidenheimer waren zuvor fünf Spiele in Folge sieglos geblieben. Zuletzt hatten",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Heidenheim",
+    "pfad": "artikel/heidenheim-und-hannover-trennen-sich-2-2-b557e7ac2b.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    }
+  },
+  {
+    "id": "bfbc772e4f",
+    "titel": "Magdeburg schlägt St. Pauli 4:1 und steht auf Rang 4",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "08.11.2026 18:05",
+    "wappen_url": "logos/magdeburg.png",
+    "vereine": [
+      "Magdeburg",
+      "St. Pauli"
+    ],
+    "anriss": "Der 1. FC Magdeburg hat am 11. Spieltag der 2. Bundesliga den FC St. Pauli mit 4:1 besiegt. In der Avnet Arena trafen Anselmo Garcia MacNulty, Herbert Bockhorn, Baris Atik und Roko Simic. Den Schlusspunkt setzte Simic. Anstoß war am 8. November um 13:30 Uhr.",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Magdeburg",
+    "pfad": "artikel/magdeburg-schlaegt-st-pauli-4-1-und-springt-auf-rang-4-bfbc772e4f.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    }
+  },
+  {
     "id": "77fa1903a1",
     "titel": "Hannover 96 muss in Heidenheim auf Sahiti, Neubauer und Gindorf verzichten",
     "kategorie": "aufstellung",
@@ -12,7 +112,7 @@
       "Hannover",
       "Heidenheim"
     ],
-    "anriss": "Hannover 96 muss im Auswärtsspiel beim Bundesliga-Absteiger Heidenheim auf drei Spieler verzichten. Trainer Sandro Wagner fehlen Emir Sahiti, Maurice Neubauer und Lars Gindorf. Sahiti, der vom HSV gekommen ist, fällt mit einer Wadenverletzung aus. Er hatte bereits beim Abschlusstraining gefehlt. Neubauer trat die Reise auf",
+    "anriss": "Hannover 96 muss im Auswärtsspiel beim Bundesliga-Absteiger Heidenheim auf drei Spieler verzichten. Trainer Sandro Wagner fehlen Emir Sahiti, Maurice Neubauer und Lars Gindorf. Die Niedersachsen stehen vor der Partie unter Druck. Nach den Ergebnissen von Freitag und Samstag rutschte Hannover auf Platz 15. Gegen Dresden",
     "spielerstatus": [
       {
         "spieler": "Sahiti",
