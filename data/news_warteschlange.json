@@ -26,7 +26,7 @@
   "status": "n",
   "erstmals": "2026-11-08T12:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "ac08c3e52d",
@@ -55,7 +55,7 @@
   "status": "n",
   "erstmals": "2026-11-08T12:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "f465b80fa8",
@@ -101,7 +101,7 @@
     "summary": "Cottbus-Trainer Claus-Dieter Wollitz will nach der 1:2-Heimniederlage gegen Bochum Zugeständnisse wie freie Tage streichen. Im Spiel in Braunschweig am Freitag fehlen Kapitän Axel Borgmann und Neuzugang Julian Guttau."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "67b0037834",
@@ -130,7 +130,7 @@
   "status": "n",
   "erstmals": "2026-11-08T12:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "098cf586f2",
@@ -158,6 +158,214 @@
   "prio": 3,
   "status": "n",
   "erstmals": "2026-11-08T12:01",
+  "archiv": [],
+  "versuche": 2
+ },
+ {
+  "id": "09a008a4f3",
+  "schluessel": "osnabruck|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Osnabrück",
+  "klubs": [
+   "Osnabrück"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "VfL Osnabrück: Zu wenig zielstrebig, ein bisschen Pech und eine Mauer namens Krahl",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTWZvTHE0VzF0anlSdWpfNkIxSU5FamdxTGdLbVBZVUxCTlhrUjZIOWtFRHdLcTZ3UGxUaDhnUnhkODk3MkFYZk14aW5kY1F0b1cwR1NlTGswc2xEV3Q2N2VzUWVjUy03MFhsRFY5Wnl6azdBT29jTUVTTnB6UDJrb3ZhSHNZLTYybGVBczBtZlFFVmVZQUMxVkNUclNFdXRKUk9TVFMxLWF6VEpfcnp6VTBhSUpmOG5MRFlycw?oc=5",
+    "aid": "dab064e6d3",
+    "titel": "VfL Osnabrück: Zu wenig zielstrebig, ein bisschen Pech und eine Mauer namens Krahl",
+    "quelle": "noz.de",
+    "beschr": " VfL Osnabrück: Zu wenig zielstrebig, ein bisschen Pech und eine Mauer namens Krahl &nbsp;&nbsp; noz.de ",
+    "zeit": "2026-11-08T12:03"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-08T15:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "8f15322ac5",
+  "schluessel": "st. pauli|kader",
+  "person": "",
+  "spieler": [],
+  "klub": "St. Pauli",
+  "klubs": [
+   "St. Pauli",
+   "Magdeburg"
+  ],
+  "stufe": "kader",
+  "klasse": "kader",
+  "titel": "Aufstellung ist da! Auf diese Startelf setzt St. Pauli in Magdeburg",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbWtYdkpYcnV4QjIwU1FFLUNxcGlrcHpGdkNvSkwyVDlxRTNKakhQMTZ5M2RkRkVFdmRGZDJRMlZXYXBDekhnVmltQ1lLT3p4TVZyNzhaV2I1TnpGR1pEZTY5OFhWQmRhMkhGLUJqZzhTTTRyMkJtdkxpeFVTTVNIQXVsUHlEejdZRGVfZDFwdjJEX3I5ODROVERXdnhNMXhwNWhPRTFHb1pYVXM?oc=5",
+    "aid": "74928ea377",
+    "titel": "Aufstellung ist da! Auf diese Startelf setzt St. Pauli in Magdeburg",
+    "quelle": "StPauli24",
+    "beschr": " Aufstellung ist da! Auf diese Startelf setzt St. Pauli in Magdeburg &nbsp;&nbsp; StPauli24 ",
+    "zeit": "2026-11-08T12:31"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-08T15:01",
+  "archiv": [
+   {
+    "id": "fc3123210c",
+    "titel": "St. Pauli: Hrgota statt Niang gegen Nürnberg in der Startelf",
+    "datum": "01.11.",
+    "stufe": "kader",
+    "summary": "St. Pauli schickt gegen Nürnberg Branimir Hrgota statt Youssoupha Niang in die Startelf. Ricky-Jade Jones fehlt krank."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "4cf5ac51ea",
+  "schluessel": "frankfurt|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Frankfurt",
+  "klubs": [
+   "Frankfurt"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Hat sich schon vom Club verabschiedet: Joti Chatzialexiou ist auf dem Weg nach Frankfurt",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWmgwS1hSbnBpLW0wYW9vRG5oRDBsbHg3YTlwQkN4aG1waVBvcUVPc1h6THA5TVVHd2NmaGVTekcxUlN1cGJUbUl6bzVOUk1yOFZ4WFVNT2lJOWRYaDdrUUtJTnlEWXA3dlE5NXdBQURtNHlxb1NkV1VUZFd3V0ZMSHBhdndJTUlIcWhqQnlBdFdGOXpRbi1TdHBiWjhhNm5YVXNObkZMTWwwVlkxUGdrcjk5RWt2Tk84anIxTUc1YUdjM2tpTHRyRG5fbjFGeGxJTldj?oc=5",
+    "aid": "d12d6801ad",
+    "titel": "Hat sich schon vom Club verabschiedet: Joti Chatzialexiou ist auf dem Weg nach Frankfurt",
+    "quelle": "NN.de",
+    "beschr": " Hat sich schon vom Club verabschiedet: Joti Chatzialexiou ist auf dem Weg nach Frankfurt &nbsp;&nbsp; NN.de ",
+    "zeit": "2026-11-08T14:15"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "u",
+  "erstmals": "2026-11-08T15:01",
+  "archiv": [
+   {
+    "id": "d3f8559dfc",
+    "titel": "Nürnberg: Chatzialexiou-Wechsel nach Frankfurt könnte früher kommen",
+    "datum": "07.11.",
+    "stufe": "sonstiges",
+    "summary": "Nürnbergs Sportvorstand Joti Chatzialexiou könnte früher als am 1. Februar 2027 zu Eintracht Frankfurt wechseln. Nachfolger Dieter Frey steht bereits fest, eine Entscheidung könnte in der Länderspielpause fallen."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "67c3247123",
+  "schluessel": "cottbus|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Cottbus",
+  "klubs": [
+   "Cottbus",
+   "Braunschweig"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Energie Cottbus gegen Braunschweig: FCE findet neue, alte Stärke und sucht Balance",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSklGN3VHdWw0VG94SS0wcG92RDIwRlhTaTV6VUVVMDZMSzVUM0JJNTY5cnNSZTM2cndtOXR4UDgyMlExVG5TRUJJS1UzWjNDcElxTm5EUWZ2MlNIeHp1UHVOWmNlbThyeXU2U3pxMHNpdnRwazd5ZHZpUDdDNHdaVjFGYU9Fczl2RHpGUXJZejhFLWZGZEFnQUt1M2pzV1U2QnZtb0t3TVE1ZUgwVHh2S1lWeXBjODdJWktNSkVsX2p3MmZ6S1Jtdjc4Vk4wcFBOcXc?oc=5",
+    "aid": "e2b0f710ca",
+    "titel": "Energie Cottbus gegen Braunschweig: FCE findet neue, alte Stärke und sucht Balance",
+    "quelle": "Lausitzer Rundschau",
+    "beschr": " Energie Cottbus gegen Braunschweig: FCE findet neue, alte Stärke und sucht Balance &nbsp;&nbsp; Lausitzer Rundschau ",
+    "zeit": "2026-11-08T12:00"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-08T15:01",
+  "archiv": [
+   {
+    "id": "3bcb08987d",
+    "titel": "Wollitz greift durch: Cottbus muss in Braunschweig ohne Borgmann und Guttau auskommen",
+    "datum": "04.11.",
+    "stufe": "sonstiges",
+    "summary": "Cottbus-Trainer Claus-Dieter Wollitz will nach der 1:2-Heimniederlage gegen Bochum Zugeständnisse wie freie Tage streichen. Im Spiel in Braunschweig am Freitag fehlen Kapitän Axel Borgmann und Neuzugang Julian Guttau."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "1e56c03b42",
+  "schluessel": "hertha|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Hertha BSC: Hertha hat ALLES: Dominanz, Mentalität – und jetzt auch Glück",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOb2JQeE9lejdMRF9NZXlXQ0VhanFrd01HVG9Lcm11dVRTZElWNnhZTmJBdTBfTVpkc0d0MTBOWjlQZG9TNkVkaWxkb09KWGJBbWpwZVZEeW9EWElMREVLXzAzdzhxWldxcG9vX1hHdGdPcjQ0b2JUbXBIZFRiRFB1Tm4wWVVxNEJqYmRGUTdsSzhxRzdNSWZIbWNFUVduN3R4U1JOeV9JdVk4TVI5VW5DUEdmU0NKalJqd2NQQ3Jfbkk0c0laQ2NZYklQZG1ldWZMREh1QTVWTmpVT1ZV?oc=5",
+    "aid": "64245d10ab",
+    "titel": "Hertha BSC: Hertha hat ALLES: Dominanz, Mentalität – und jetzt auch Glück",
+    "quelle": "BZ Berlin",
+    "beschr": " Hertha BSC: Hertha hat ALLES: Dominanz, Mentalität – und jetzt auch Glück &nbsp;&nbsp; BZ Berlin ",
+    "zeit": "2026-11-08T12:45"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-08T15:01",
+  "archiv": [
+   {
+    "id": "1084b0bf21",
+    "titel": "DFB-Pokal: Hertha BSC trifft im Achtelfinale auf Bayern München",
+    "datum": "02.11.",
+    "stufe": "sonstiges",
+    "summary": "Hertha BSC spielt im DFB-Pokal-Achtelfinale beim FC Bayern München. Die Partien sollen am 1. und 2. Dezember stattfinden."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "b6b6302ebb",
+  "schluessel": "osnabruck|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Osnabrück",
+  "klubs": [
+   "Osnabrück"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Langemeyer: Ein Punkt für den VfL Osnabrück wäre gerecht gewesen",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ2dVUmR0bzZxMmFiR2RrNEZjVHk0SGVEd1hsMF81QWs5dENkSElPS1pwVXlWRWtZbkVjZ3RRVlQ5amNXeWZIaGlSb01sZXlLZlptMlJvT3BYaERyWXo2ejhNXzZMcHQwNlhJdFJCanZmQWNrUm9lWlRVaTlGdkNKRlZ4VlVNeW9jaXRib3FyYkh3YXhYaUZ6UVBidmJHYVdQcUthZ2tHM3pKMVlyMm5SNTRULUZzdHpBUVpLdk5B?oc=5",
+    "aid": "85116cac5a",
+    "titel": "Langemeyer: Ein Punkt für den VfL Osnabrück wäre gerecht gewesen",
+    "quelle": "noz.de",
+    "beschr": " Langemeyer: Ein Punkt für den VfL Osnabrück wäre gerecht gewesen &nbsp;&nbsp; noz.de ",
+    "zeit": "2026-11-08T15:00"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-08T15:01",
   "archiv": [],
   "versuche": 1
  }

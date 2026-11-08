@@ -1,5 +1,45 @@
 [
   {
+    "id": "77fa1903a1",
+    "titel": "Hannover 96 muss in Heidenheim auf Sahiti, Neubauer und Gindorf verzichten",
+    "kategorie": "aufstellung",
+    "badge": "Aufstellung",
+    "badge_bg": "#2e7d32",
+    "badge_fg": "#fff",
+    "datum": "08.11.2026 15:04",
+    "wappen_url": "logos/hannover.png",
+    "vereine": [
+      "Hannover",
+      "Heidenheim"
+    ],
+    "anriss": "Hannover 96 muss im Auswärtsspiel beim Bundesliga-Absteiger Heidenheim auf drei Spieler verzichten. Trainer Sandro Wagner fehlen Emir Sahiti, Maurice Neubauer und Lars Gindorf. Sahiti, der vom HSV gekommen ist, fällt mit einer Wadenverletzung aus. Er hatte bereits beim Abschlusstraining gefehlt. Neubauer trat die Reise auf",
+    "spielerstatus": [
+      {
+        "spieler": "Sahiti",
+        "klub": "Hannover",
+        "status": "faellt_aus",
+        "grund": "Wadenverletzung"
+      },
+      {
+        "spieler": "Neubauer",
+        "klub": "Hannover",
+        "status": "faellt_aus",
+        "grund": "Aufbau nach Grippe"
+      },
+      {
+        "spieler": "Gindorf",
+        "klub": "Hannover",
+        "status": "faellt_aus",
+        "grund": "Viruserkrankung"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Hannover",
+    "pfad": "artikel/hannover-96-muss-in-heidenheim-auf-sahiti-neubauer-und-gindorf-77fa1903a1.html",
+    "bild_tm": "",
+    "umfrage": null
+  },
+  {
     "id": "77f21a9e24",
     "titel": "Kiel vor Trainerwechsel: Tim Walter steht vor dem Aus",
     "kategorie": "news",
