@@ -1,174 +1,5 @@
 [
  {
-  "id": "22ec5d341c",
-  "schluessel": "osnabruck|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Osnabrück",
-  "klubs": [
-   "Osnabrück"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "''Hat gutes Gefühl vor dem Spiel'' - Stimmen zu Osnabrück gegen FCK",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV1FaZERxNTB4YW94S2d6Ui1BUDlWSUpHektncnQ3MFJoekRmT1BDMFpxTXVsdUlvU1ZjQU1VVy16aXFId2dHN0ZFZkIwOTlCbWw2QmhETWtuOTl3MXpPbWJTbUtyVUlHSlVrOGNwWWFublBNeExiWXB0ekd4UVBQN09CNDVhaUU4MkVGMW9XSkJEVGJuMWI3amxMVEdoMnVmVjY1WE5oNy1JYjlmZmhxZVFmRTdNYkU?oc=5",
-    "aid": "63f4000a0e",
-    "titel": "''Hat gutes Gefühl vor dem Spiel'' - Stimmen zu Osnabrück gegen FCK",
-    "quelle": "Sky.de",
-    "beschr": " ''Hat gutes Gefühl vor dem Spiel'' - Stimmen zu Osnabrück gegen FCK &nbsp;&nbsp; Sky.de ",
-    "zeit": "2026-11-07T16:50"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-07T21:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "7a58ee8dd8",
-  "schluessel": "nurnberg|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Nürnberg",
-  "klubs": [
-   "Nürnberg"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Kohfeldt trotz Platz 17: \"Werden nichts mit dem Abstieg zu tun haben\" | Nach Pleite in Nürnberg | Video",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdGlTeEMxSmt6SU5Sdk53d2ZpUUpYMkR1cnB6OXNtTlZHWGR6c3dsX19ibF9fZUJGTjN1bmFhY2wxakZ4ZEppd0lXZHpmanZmSXdVWnBQM0xwM1dMcWRkZ1d2Q3I0T0M0ME9DRTNzZk8xOE51RDdDNG52WTZRcDRaUFVwc1FZeFZZbV9MQU56c2wyVmRUZDNEdVY3dXVKcko1cTBZRg?oc=5",
-    "aid": "ff2f11b872",
-    "titel": "Kohfeldt trotz Platz 17: \"Werden nichts mit dem Abstieg zu tun haben\" | Nach Pleite in Nürnberg | Video",
-    "quelle": "Kicker",
-    "beschr": " Kohfeldt trotz Platz 17: \"Werden nichts mit dem Abstieg zu tun haben\" | Nach Pleite in Nürnberg | Video &nbsp;&nbsp; Kicker ",
-    "zeit": "2026-11-07T17:01"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-07T21:01",
-  "archiv": [
-   {
-    "id": "12b3d6a07a",
-    "titel": "Nürnberg schlägt Darmstadt dank Scobel und Bøving mit 2:0",
-    "datum": "07.11.",
-    "stufe": "spielbericht",
-    "summary": "Der 1. FC Nürnberg gewinnt am 11. Spieltag mit 2:0 gegen Darmstadt 98. Piet Scobel und William Bøving treffen nach der Pause."
-   },
-   {
-    "id": "b4e9126002",
-    "titel": "Klose nach Sieg bei St. Pauli: „Normalerweise verliert man solche Spiele“",
-    "datum": "06.11.",
-    "stufe": "spielbericht",
-    "summary": "Nürnbergs Trainer Miroslav Klose ordnet den 3:1-Sieg bei St. Pauli ein und lobt die Gemeinschaft im Team. Über einen Aufstieg als Ziel will er als Tabellenzweiter nicht sprechen."
-   },
-   {
-    "id": "f9d7235522",
-    "titel": "St. Pauli verliert trotz 4,13 Expected Goals 1:3 gegen Nürnberg",
-    "datum": "02.11.",
-    "stufe": "spielbericht",
-    "summary": "St. Pauli verliert das Spitzenspiel gegen Nürnberg 1:3, obwohl die Expected Goals 4,13 zu 0,92 lauten. Trainer Marcel Rapp sieht sein Team auf dem richtigen Weg, am Sonntag geht es nach Magdeburg."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "d8945aa6e5",
-  "schluessel": "dresden|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Dresden",
-  "klubs": [
-   "Dresden",
-   "Hertha"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Testspiele: Dynamo Dresden siegt - Lok muss sich Hertha geschlagen geben",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOd3NMNGlrYVVLcV8xNkVTTmJfaWZmSjFnQnVScUU4aTc4YzBwaVVzR3VkQ2hMWlpjR0NjZHZfaDRfRjJUOGZJSjdaa2hNQmkyeTdlSmVlNmhxOVdsR2dYdmVqYWFFaTVPRHNFWlYzNi00dHd6c1RrZkpBYThyazBIS09CY0tYOUVSVDBXbVkxR1Q4VFZRSjhZV1k3QS1XZ3RsZXBuYjVjUzl1RlZvcWg2VVUwblc2NV9GRG0zTVk2cmpud2NKckZ2LVk5VUtPVVI0U1pBWXo1X1EtMkJHMTFtUHZKa00?oc=5",
-    "aid": "e1951eeea6",
-    "titel": "Testspiele: Dynamo Dresden siegt - Lok muss sich Hertha geschlagen geben",
-    "quelle": "MDR.de",
-    "beschr": " Testspiele: Dynamo Dresden siegt - Lok muss sich Hertha geschlagen geben &nbsp;&nbsp; MDR.de ",
-    "zeit": "2026-11-07T18:27"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-07T21:01",
-  "archiv": [
-   {
-    "id": "4c95231583",
-    "titel": "Dresden schlägt Fürth 3:0 und verlässt das Tabellenende",
-    "datum": "06.11.",
-    "stufe": "spielbericht",
-    "summary": "Dynamo Dresden gewinnt gegen Greuther Fürth 3:0 und verlässt als vorläufig Vierzehnter das Tabellenende. Fürths Hendry Blank fälscht zwei Gegentore ab und sieht Gelb-Rot."
-   },
-   {
-    "id": "84170c115b",
-    "titel": "Hannover dreht Kellerduell gegen Dresden und springt auf Rang zwölf",
-    "datum": "01.11.",
-    "stufe": "spielbericht",
-    "summary": "Hannover 96 gewinnt das Kellerduell gegen Dynamo Dresden mit 2:1 und klettert auf Rang zwölf. Einen Tag nach der Trennung von Sport-Geschäftsführer Jonas Boldt spricht Trainer Sandro Wagner über den Klub-Umbruch."
-   },
-   {
-    "id": "e17c699427",
-    "titel": "Dresden verspielt Führung in Hannover und ist Schlusslicht",
-    "datum": "01.11.",
-    "stufe": "spielbericht",
-    "summary": "Dynamo Dresden verliert bei Hannover 96 trotz Führung mit 1:2 und ist Schlusslicht der 2. Liga. Trainer Thomas Stamm setzt auf das direkte Duell mit Fürth am Freitag."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "1a063dc734",
-  "schluessel": "hertha|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hertha",
-  "klubs": [
-   "Hertha"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Dorfclub gegen Hauptstadt im DFB-Pokal: Hertha BSC tritt gegen SSV Jeddeloh II an - Panorama - SZ.de",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR0JvekFEMHJZU2gtMEhTaDcwZXh2dFhXMFRiWE9aczRwQ2NlWVV5dWhDU3hnQWFxZUpTQjRveUpjM01Nb1ZIczlMVlgyMTRZNUpnelZyb29SYkNyQjJOOC0zcGszNFljRnRDVTQ5TlJSdldSdEVnbUZnZ1BOYlJ2bklpWWRLV1ZITWNXSEpGR1RsMTFDaWZoQnJaT2ZFRnVPQ1RTQnpTb01HQ3UtOHAxeVNzclNWdlVzZzJFR09HYmx5VDgxSjBn?oc=5",
-    "aid": "ff65bc00c1",
-    "titel": "Dorfclub gegen Hauptstadt im DFB-Pokal: Hertha BSC tritt gegen SSV Jeddeloh II an - Panorama - SZ.de",
-    "quelle": "SZ.de",
-    "beschr": " Dorfclub gegen Hauptstadt im DFB-Pokal: Hertha BSC tritt gegen SSV Jeddeloh II an - Panorama - SZ.de &nbsp;&nbsp; SZ.de ",
-    "zeit": "2026-11-07T17:55"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-07T21:01",
-  "archiv": [
-   {
-    "id": "1084b0bf21",
-    "titel": "DFB-Pokal: Hertha BSC trifft im Achtelfinale auf Bayern München",
-    "datum": "02.11.",
-    "stufe": "sonstiges",
-    "summary": "Hertha BSC spielt im DFB-Pokal-Achtelfinale beim FC Bayern München. Die Partien sollen am 1. und 2. Dezember stattfinden."
-   }
-  ],
-  "versuche": 2
- },
- {
   "id": "ead0595403",
   "schluessel": "hertha|sonstiges",
   "person": "",
@@ -196,7 +27,7 @@
   "status": "n",
   "erstmals": "2026-11-08T06:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "f7dfaa18fa",
@@ -225,7 +56,7 @@
   "status": "n",
   "erstmals": "2026-11-08T06:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "b010980d89",
@@ -399,7 +230,7 @@
     "summary": "Der VfL Osnabrück verliert beim VfL Wolfsburg 0:2. Fabian Reese erzielt ein Tor und bereitet das zweite von Muhammed Damar vor."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "584a3338b0",
@@ -428,7 +259,7 @@
   "status": "n",
   "erstmals": "2026-11-08T06:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "7b667f334e",
@@ -472,7 +303,7 @@
     "summary": "Hertha BSC gewinnt beim 1. FC Kaiserslautern 3:0 und bleibt nach zehn Spielen ungeschlagen Tabellenführer. Grønning trifft doppelt, Adewumi einmal, Pedersen bereitet zwei Tore vor."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "196278a014",
@@ -509,7 +340,7 @@
     "summary": "Der VfL Osnabrück verliert beim VfL Wolfsburg 0:2. Fabian Reese erzielt ein Tor und bereitet das zweite von Muhammed Damar vor."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "e25eccef92",
@@ -539,7 +370,7 @@
   "status": "n",
   "erstmals": "2026-11-08T06:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "9fa6cba312",
@@ -568,7 +399,7 @@
   "status": "n",
   "erstmals": "2026-11-08T06:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "726b14783f",
@@ -606,7 +437,7 @@
     "summary": "Cottbus-Trainer Claus-Dieter Wollitz will nach der 1:2-Heimniederlage gegen Bochum Zugeständnisse wie freie Tage streichen. Im Spiel in Braunschweig am Freitag fehlen Kapitän Axel Borgmann und Neuzugang Julian Guttau."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "ce0100ece1",
@@ -644,7 +475,7 @@
     "summary": "Hertha BSC spielt im DFB-Pokal-Achtelfinale am 1. Dezember um 20:45 Uhr gegen den FC Bayern München. RTL überträgt die Partie live."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "2605724347",
@@ -673,7 +504,7 @@
   "status": "n",
   "erstmals": "2026-11-08T06:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "477a1f231b",
@@ -702,7 +533,7 @@
   "status": "n",
   "erstmals": "2026-11-08T06:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "90bb1705a6",
@@ -731,6 +562,36 @@
   "prio": 3,
   "status": "n",
   "erstmals": "2026-11-08T06:01",
+  "archiv": [],
+  "versuche": 2
+ },
+ {
+  "id": "c329be12b1",
+  "schluessel": "bochum|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Bochum",
+  "klubs": [
+   "Bochum",
+   "Karlsruhe"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Heute live! So will der VfL Bochum gegen den Karlsruher SC punkten",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVXFnSzhPSGFpbmtEUnJYekxzV1FYRHR0bllvSGFTTzFmM1luTUI5WUtzV2dkVFZpb01IT2pwV0lxd201dktBZmJrUzA4VWVPcHNwLVgzZTQ2bWNoYXZTWTdQRjc5THd1amFYMy1TdFlxZVlVQ1VyZHRRZzZ3aFhFemoxTERmWkg4anpoaWxsdXdndmJyeFVBejJpMlVYcFhrdHNuTVI2eDV6M3FUd0l4ZUFn?oc=5",
+    "aid": "742ae0748d",
+    "titel": "Heute live! So will der VfL Bochum gegen den Karlsruher SC punkten",
+    "quelle": "WAZ",
+    "beschr": " Heute live! So will der VfL Bochum gegen den Karlsruher SC punkten &nbsp;&nbsp; WAZ ",
+    "zeit": "2026-11-08T06:00"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-08T09:01",
   "archiv": [],
   "versuche": 1
  }

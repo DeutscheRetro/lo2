@@ -115,3 +115,62 @@
 {"ts": "2026-11-08T06:05:54.612388", "id": "caf90dd539", "title": "PK nach #OSNFCK", "stage": "stage7", "reason": "zu_wenig_quelltext"}
 {"ts": "2026-11-08T06:05:56.434418", "id": "bf07d81532", "title": "Osnabrück Trainer Schultz: \"Genug Chancen, um auf die Anzeigetafel zu kommen\"", "stage": "stage7", "reason": "zu_wenig_quelltext"}
 {"ts": "2026-11-08T06:05:57.966409", "id": "393a5a4bcf", "title": "Lars Bünning bei Dynamo Dresden gesichtet: Trainer Thomas Stamm \"erkennt Fortsch", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-08T09:01:34.950804", "id": "be6c3c624b", "title": "\"Klarer Elfmeter\": Strobl wütet nach Topspiel-Niederlage", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-08T09:01:34.960047", "id": "2d7a5e7018", "title": "Überragender Gruda - Leipzig nimmt Augsburg auseinander", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-08T09:01:35.966751", "id": "f52d146114", "title": "FC Bayern, News und Gerüchte - \"Wir schauen uns den Jungen genauer an\": Max Eber", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-08T09:01:36.936276", "id": "4fc0371a38", "title": "1. FC Heidenheim - Hannover 96 im Live-Stream und TV: Schwere Aufgabe heute, 08.", "stage": "stage2", "reason": "batch_title_dup_100pct"}
+{"ts": "2026-11-08T09:01:37.301055", "id": "52bca2152f", "title": "FCK: U19 setzt sich bei Fortuna Köln durch", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-08T09:01:37.602029", "id": "e5c02b7ea1", "title": "1.FC Magdeburg", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-08T09:01:38.391837", "id": "440a713823", "title": "Noten für Arminia: Hinten verteidigt das Kollektiv, vorne sticht Young", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-08T09:01:38.682646", "id": "e768d9a96c", "title": "Dynamo Dresden diesmal zwar effizient, aber defensiv weiter zu anfällig", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-08T09:01:39.009651", "id": "da8875a702", "title": "Fiete Flemming", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-08T09:01:39.605620", "id": "ab3cfe2e98", "title": "FC St. Pauli", "stage": "stage2", "reason": "batch_title_dup_90pct"}
+{"ts": "2026-11-08T09:01:39.923046", "id": "5c96a5824a", "title": "„Unfassbar stolz“: U23 von Hannover 96 ringt Weiche Flensburg nieder und kletter", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-08T09:01:40.399861", "id": "9564379123", "title": "Bayern-Spiel, Frauenfußball-Center, Lerch-Vertrag: Jetzt werden beim VfL Wolfsbu", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-08T09:01:41.046368", "id": "672e3c5e9c", "title": "VfL Bochum - Karlsruher SC im Live-Stream und TV: Die Bochumer wollen heute gege", "stage": "stage2", "reason": "batch_title_dup_100pct"}
+{"ts": "2026-11-08T09:01:41.728264", "id": "8dbd6a4af9", "title": "Daniel Schlager", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-08T09:01:42.401013", "id": "99d4f0db3e", "title": "VfL Osnabrück - Kader im Detail 66/67 (Galerie) | Seite 5", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-08T09:01:44.345643", "id": "b4d2bbb162", "title": "Hausordnung geändert! Das unternimmt Dynamo jetzt gegen Influencer und Vlogger i", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-08T09:01:44.345925", "id": "9ecd596777", "title": "Spielschema | Dynamo Dresden - 1. FC Nürnberg 0:3 | 11. Spieltag | U-19-DFB-Nach", "stage": "stage5", "reason": "nicht_fuer_uns"}
+{"ts": "2026-11-08T09:01:44.346338", "id": "fd2afb9e15", "title": "Dynamo-Torschütze Wagner erzwingt das Glück gegen seinen Ex-Club: \"Hoffe, Jungs ", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-08T09:01:44.346530", "id": "4517de3a01", "title": "Torflaute beendet: Bobzien als Matchwinner für Dynamo", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-08T09:01:44.346796", "id": "c0c6c18d7c", "title": "Spielschema | Carl Zeiss Jena - Energie Cottbus 2:4 | 11. Spieltag | U-19-DFB-Na", "stage": "stage5", "reason": "nicht_fuer_uns"}
+{"ts": "2026-11-08T09:01:44.347232", "id": "0056abda67", "title": "Spielschema | FC St. Pauli - Berliner AK 07 3:1 | 11. Spieltag | U-19-DFB-Nachwu", "stage": "stage5", "reason": "nicht_fuer_uns"}
+{"ts": "2026-11-08T09:01:44.347486", "id": "df5bb29dae", "title": "Spielschema | VfL Wolfsburg - Hannover 96 1:1 | 11. Spieltag | U-19-DFB-Nachwuch", "stage": "stage5", "reason": "nicht_fuer_uns"}
+{"ts": "2026-11-08T09:01:44.348359", "id": "4baf230d4c", "title": "2. Bundesliga: Hertha gewinnt gegen Wolfsburg", "stage": "stage5", "reason": "archiv_doppelt"}
+{"ts": "2026-11-08T09:01:44.349368", "id": "e6badc07ee", "title": "SV Darmstadt 98 Jugend", "stage": "stage5", "reason": "nicht_fuer_uns"}
+{"ts": "2026-11-08T09:03:08.421708", "id": "674b1d7271", "title": "Netzreaktionen zum 9. Bundesliga-Spieltag: „Vielleicht reicht es zur Entlastung ", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-08T09:03:08.422043", "id": "8de4ce212a", "title": "2. Fußball-Bundesliga - Darmstadt-Frust im Abstiegskampf: „Beschissene Situation", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-08T09:03:08.422300", "id": "1c2fd86b14", "title": "1. FC Heidenheim - Hannover 96 im Live-Stream und TV: Schwere Aufgabe heute, 08.", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-08T09:03:08.422494", "id": "596a874bb4", "title": "Magdeburg vs. St. Pauli heute live sehen: Wer zeigt / überträgt das Spiel im TV ", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-08T09:03:08.422691", "id": "14b124e684", "title": "VfL Bochum - Karlsruher SC im Live-Stream und TV: Die Bochumer wollen heute gege", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-08T09:03:08.422880", "id": "023d82f1a9", "title": "KSC-Fans können planen: Das sind die nächsten Spieltage bis Januar 2027", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-08T09:03:08.423104", "id": "a63ffbb96b", "title": "2. Bundesliga: Kaum Höhepunkte: Braunschweig und Cottbus bleiben torlos", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-08T09:03:08.423429", "id": "63a1083699", "title": "Dynamo-Noten gegen Fürth: Drei Matchwinner beenden ihre Durststrecken!", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-08T09:03:08.423707", "id": "18ee2feabe", "title": "Magdeburg vs. St. Pauli Tipp, Quoten, News & Prognose | 08.11.2026", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-08T09:03:08.423909", "id": "1e15f5c34c", "title": "Bochum vs. KSC Tipp, Quoten, News & Prognose | 08.11.2026", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-08T09:03:08.424092", "id": "594167a15f", "title": "Hertha zittert und bleibt ungeschlagen - Spießrutenlauf für Reese", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-08T09:03:08.424320", "id": "521a2251de", "title": "Wechsel-Beben beim KSC: Das sind alle Transfers der Saison 2026/2027", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-08T09:03:08.424553", "id": "d83005cd67", "title": "Joker Tazemeta sticht, Krahl hält alles fest: FCK erkämpft drei Punkte in Osnabr", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-08T09:03:08.424768", "id": "c3bf23cd7b", "title": "Kann der FC St. Pauli die FCM-Festung Avnet Arena stürmen?", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-08T09:03:08.424989", "id": "e7e6613af9", "title": "1. FC Magdeburg - FC St. Pauli im Live-Stream und TV: Wohin gehen heute die Punk", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-08T09:03:08.425234", "id": "da22c2044e", "title": "K-Block gegen Darmstadt nun doch geöffnet", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-08T09:03:08.425448", "id": "be56c65b98", "title": "Befreiungsschlag mit drei Toren! Dynamo gegen das Kleeblatt vom Glück geküsst", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-08T09:03:08.425660", "id": "51658c519f", "title": "Eintracht Braunschweig", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-08T09:03:08.425864", "id": "4451240df5", "title": "Warum fehlten Cottbus-Fans in Braunschweig? Flugzeugabsturz auf der A2 sorgte fü", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-08T09:03:08.426082", "id": "aee05830d7", "title": "Fußball: FC Verden und St. Pauli II treffen im Test jeweils fünfmal", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-08T09:03:08.426441", "id": "17e910b8ed", "title": "„Ich glaube, ganz Berlin hat uns gehört“ – Hertha feiert groß nach Topspielsieg", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-08T09:03:08.426664", "id": "1be62d8206", "title": "Hertha schlägt Wolfsburg: Zeefuik hat Reese in der Tasche, Kolbe wie Kaiser Fran", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-08T09:03:08.426922", "id": "824c3de6c7", "title": "Hertha schlägt Wolfsburg: Und sie singen immer noch", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-08T09:03:08.427178", "id": "73895fc03e", "title": "HIGHLIGHTS | Hertha BSC – VfL Wolfsburg | 11. Spieltag", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-08T09:03:08.427354", "id": "e02d2d9d85", "title": "Fußball News heute am 8.11.2026: Strobl wütet nach Hertha-Niederlage", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-08T09:03:08.427532", "id": "147dbcb9e8", "title": "Wolfsburger Elfer-Ärger: „Fatal in diesem Moment“", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-08T09:03:08.427692", "id": "679f822fbd", "title": "Polizei-News Kiel, 07.11.26: Fußballspiel zwischen Holstein Kiel und dem DSC Arm", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-08T09:03:08.427843", "id": "5943e99f09", "title": "11. Spieltag: VfL Bochum - Karlsruher SC - VfL Bochum - Foro | Página 1", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-08T09:03:08.427988", "id": "cd943b0060", "title": "KSC-Talente überraschen mit Millionen-Plus: Jungstars sorgen für Marktwert-Boom", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-08T09:03:35.274975", "id": "224cb930c2", "title": "KSC vor Bochum-Duell: Diese Schwäche des VfL könnte den Badenern den Auswärtssie", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-08T09:03:42.774893", "id": "4608e0bad0", "title": "Darmstadt-Frust im Abstiegskampf: «Beschissene Situation»", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-08T09:03:51.794983", "id": "e1951eeea6", "title": "Testspiele: Dynamo Dresden siegt - Lok muss sich Hertha geschlagen geben", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-08T09:03:53.137866", "id": "ff65bc00c1", "title": "Dorfclub gegen Hauptstadt im DFB-Pokal: Hertha BSC tritt gegen SSV Jeddeloh II a", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-08T09:03:53.561718", "id": "ff2f11b872", "title": "Kohfeldt trotz Platz 17: \"Werden nichts mit dem Abstieg zu tun haben\" | Nach Ple", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-08T09:03:54.079976", "id": "63f4000a0e", "title": "''Hat gutes Gefühl vor dem Spiel'' - Stimmen zu Osnabrück gegen FCK", "stage": "stage7", "reason": "zu_wenig_quelltext"}
