@@ -1,5 +1,39 @@
 [
   {
+    "id": "c14db73d2c",
+    "titel": "St. Pauli ohne Oppie: Rapp hat mehrere Alternativen",
+    "kategorie": "aufstellung",
+    "badge": "Aufstellung",
+    "badge_bg": "#2e7d32",
+    "badge_fg": "#fff",
+    "datum": "09.11.2026 09:03",
+    "wappen_url": "logos/stpauli.png",
+    "vereine": [
+      "Magdeburg",
+      "St. Pauli"
+    ],
+    "anriss": "St. Paulis Linksverteidiger Louis Oppie fehlt nach seiner Roten Karte beim 1:4 gegen den 1. FC Magdeburg mindestens zwei Wochen. Trainer Marcel Rapp muss deshalb nach der Länderspielpause umbauen. Der 24-Jährige sah in der 82. Minute Rot, nachdem er im Zweikampf mit Emmanuel Iyoha zu",
+    "spielerstatus": [
+      {
+        "spieler": "Oppie",
+        "klub": "St. Pauli",
+        "status": "faellt_aus",
+        "grund": "Rote Karte gegen Magdeburg, Sperre"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "St. Pauli",
+    "pfad": "artikel/st-pauli-ohne-oppie-rapp-hat-mehrere-alternativen-c14db73d2c.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "reaktion",
+      "frage": "",
+      "antworten": [
+        "💚 Gute Besserung"
+      ]
+    }
+  },
+  {
     "id": "cfdff13ffe",
     "titel": "Hannover 96 trennt sich von Sportdirektor Ralf Becker",
     "kategorie": "news",

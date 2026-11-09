@@ -1,0 +1,199 @@
+2026-11-09 09:01:24,114 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 1 passende Treffer
+2026-11-09 09:01:24,115 INFO S7 Ersatzquelle liefert Text (120 Wörter, 1 Quellen): Kimmich nach Rückkehr: Hier am absolut richtigen Ort
+2026-11-09 09:01:24,115 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 0 passende Treffer
+2026-11-09 09:01:24,115 INFO FinalCheck SKIP: borussia mönchengladbach/{'max muster'} stage=geruecht bereits in Archiv
+2026-11-09 09:01:24,115 INFO FinalCheck SKIP: borussia mönchengladbach/set() stage=geruecht bereits in Archiv
+2026-11-09 09:01:31,699 INFO 💶 Budget: dieser Lauf 0.051 $ | heute 0.00 $ | Monat 0.00 / 8 $
+2026-11-09 09:01:31,707 INFO URL-Cache geladen: 6802 bekannte URLs (letzte 30 Tage)
+2026-11-09 09:01:31,707 INFO === LO Generator startet – max. 50 Artikel ===
+2026-11-09 09:01:31,707 INFO Feed: https://newsfeed.kicker.de/news/2-bundesliga
+2026-11-09 09:01:31,868 INFO S1 Medienseite ohne Artikeltext: Ohrenbetäubender Jubel: Fürth-Fans bejubeln Namensänderung
+2026-11-09 09:01:31,868 INFO Feed: https://www.sport.de/rss/news/
+2026-11-09 09:01:32,162 INFO Feed: https://www.11freunde.de/feed
+2026-11-09 09:01:33,171 INFO Feed: https://news.google.com/rss/search?q=%222.+Bundesliga%22&hl=de&gl=DE&ceid=DE:de
+2026-11-09 09:01:33,860 INFO S2 kein BL-Klub im Titel: Ein Tor, aber keine Punkte für Schalke 04 gegen Hoffenheim
+2026-11-09 09:01:33,866 INFO S2 blacklist: Bei Hertha-Spiel gegen VfL Wolfsburg: Ex-Spieler wieder im O
+2026-11-09 09:01:33,870 WARNING Spielerliste nicht verfügbar: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-09 09:01:33,870 INFO BL-Spielerliste geladen: 0 Namen
+2026-11-09 09:01:33,870 INFO S3 keyword miss: KI sagt 2. Bundesliga-Tabelle 26/27 voraus, Prognose nach de
+2026-11-09 09:01:33,870 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Verletzung+Ausfall+gesperrt&hl=de&gl=DE&ceid=DE:de
+2026-11-09 09:01:34,158 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Transfer+Wechsel+verpflichtet&hl=de&gl=DE&ceid=DE:de
+2026-11-09 09:01:34,432 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Ger%C3%BCcht+Interesse+Angebot&hl=de&gl=DE&ceid=DE:de
+2026-11-09 09:01:34,735 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Vertrag+verl%C3%A4ngert+abl%C3%B6sefrei&hl=de&gl=DE&ceid=DE:de
+2026-11-09 09:01:34,980 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Trainer+Entlassung&hl=de&gl=DE&ceid=DE:de
+2026-11-09 09:01:35,316 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Heidenheim%22+OR+Heidenheim+FCH+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-09 09:01:35,593 INFO S2 blacklist: Nach "Beben" um Trainer Frank Schmidt: Heidenheim hadert mit
+2026-11-09 09:01:35,594 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Kaiserslautern%22+OR+%22FCK%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-09 09:01:35,996 INFO S3 keyword miss: Keeper Julian Krahl über seine Entwicklung beim FCK
+2026-11-09 09:01:36,000 INFO S3 keyword miss: Nächstes Spiel zu Null: Defensivstärke als Identität: FCK-Ke
+2026-11-09 09:01:36,001 INFO S3 keyword miss: Dieter Pulter
+2026-11-09 09:01:36,001 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Magdeburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-09 09:01:36,394 INFO S3 keyword miss: FCM-Sportdirektor Jaekel schwärmt von Abwehr-Juwel: "Der wei
+2026-11-09 09:01:36,396 INFO S2 blacklist: Magdeburgski trenar Sander: „Změrom stać je kročel dozady“
+2026-11-09 09:01:36,397 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+N%C3%BCrnberg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-09 09:01:36,680 INFO Feed: https://news.google.com/rss/search?q=%22Arminia+Bielefeld%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-09 09:01:36,956 INFO S2 kein BL-Klub im Titel: BVB kassiert erstes Gegentor, Schalke zu stark für den MSV
+2026-11-09 09:01:36,956 INFO Feed: https://news.google.com/rss/search?q=%22Dynamo+Dresden%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-09 09:01:37,253 INFO Feed: https://news.google.com/rss/search?q=%22Eintracht+Braunschweig%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-09 09:01:37,520 INFO S3 keyword miss: Konkurrenz für die Wählscheibe: 50 Jahre Tastentelefon
+2026-11-09 09:01:37,522 INFO S3 keyword miss: Akiapōlāʻau - der Vogel mit dem Frankenstein-Schnabel
+2026-11-09 09:01:37,524 INFO S3 keyword miss: Aus für Blüten - Kritik an Reform bei medizinischem Cannabis
+2026-11-09 09:01:37,526 INFO S3 keyword miss: Antonelli als Baby-Senna: Mercedes komplettiert WM-Comeback
+2026-11-09 09:01:37,526 INFO Feed: https://news.google.com/rss/search?q=%22Energie+Cottbus%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-09 09:01:37,808 INFO Feed: https://news.google.com/rss/search?q=%22FC+St.+Pauli%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-09 09:01:38,175 INFO Feed: https://news.google.com/rss/search?q=%22Hannover+96%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-09 09:01:38,530 INFO Feed: https://news.google.com/rss/search?q=%22Hertha+BSC%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-09 09:01:38,990 INFO S2 blacklist: 1. Frauen unterliegen im Spitzenspiel gegen Viktoria Berlin
+2026-11-09 09:01:38,994 INFO Feed: https://news.google.com/rss/search?q=%22Holstein+Kiel%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-09 09:01:39,317 INFO Feed: https://news.google.com/rss/search?q=%22Karlsruher+SC%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-09 09:01:39,623 INFO S3 keyword miss: "Fühlt sich wie Zeitlupe an" - Horn über "geiles" Spiel und 
+2026-11-09 09:01:39,629 INFO Feed: https://news.google.com/rss/search?q=%22Greuther+F%C3%BCrth%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-09 09:01:39,938 INFO Feed: https://news.google.com/rss/search?q=%22Darmstadt+98%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-09 09:01:40,217 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Bochum%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-09 09:01:40,594 INFO S3 keyword miss: "Trainer-raus"-Rufe nach guter Leistung - "Ich verstehe das 
+2026-11-09 09:01:40,596 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Osnabr%C3%BCck%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-09 09:01:40,855 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Wolfsburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-09 09:01:41,185 INFO S2 blacklist: Spielereignisse | ATS Buntentor - VfL Wolfsburg II 1:3 | 10.
+2026-11-09 09:01:41,190 INFO Feed: https://newsfeed.kicker.de/team/1-fc-heidenheim
+2026-11-09 09:01:41,244 INFO Feed: https://newsfeed.kicker.de/team/1-fc-nuernberg
+2026-11-09 09:01:41,294 INFO Feed: https://newsfeed.kicker.de/team/arminia-bielefeld
+2026-11-09 09:01:41,451 INFO Feed: https://newsfeed.kicker.de/team/dynamo-dresden
+2026-11-09 09:01:41,506 INFO Feed: https://newsfeed.kicker.de/team/eintracht-braunschweig
+2026-11-09 09:01:41,656 INFO Feed: https://newsfeed.kicker.de/team/fc-st-pauli
+2026-11-09 09:01:41,709 INFO Feed: https://newsfeed.kicker.de/team/hannover-96
+2026-11-09 09:01:41,855 INFO Feed: https://newsfeed.kicker.de/team/hertha-bsc
+2026-11-09 09:01:42,001 INFO Feed: https://newsfeed.kicker.de/team/holstein-kiel
+2026-11-09 09:01:42,158 INFO Feed: https://newsfeed.kicker.de/team/vfl-bochum
+2026-11-09 09:01:42,307 INFO Feed: https://newsfeed.kicker.de/team/vfl-osnabrueck
+2026-11-09 09:01:42,459 INFO Eingelesen: 52 Schlagzeilen nach den Gratis-Filtern
+2026-11-09 09:01:42,502 INFO S5 schon berichtet (Wolfsburg hadert nach 1:2 bei Hertha mit verw): Strittige Szene in der Nachspielzeit: VfL Wolfsburg wettert 
+2026-11-09 09:01:42,503 INFO S5 Sammelartikel: Nürnberg - Darmstadt Zusammenfassung | 11. Spieltag der 2. Bundesliga
+2026-11-09 09:01:42,503 INFO S5 schon berichtet (Hofmann trifft doppelt: Bochum schlägt Karlsr): "Tut brutal weh"- KSC verliert trotz Traumtoren in Bochum
+2026-11-09 09:01:42,504 INFO S5 schon berichtet (Tazemeta trifft nach Einwechslung: Lautern si): 11. Spieltag: VfL-FCK | Joker Tazemeta sticht: Lautern erarb
+2026-11-09 09:01:42,504 INFO S5 schon berichtet (Magdeburg schlägt St. Pauli 4:1 und springt a): 2. Fußball-Bundesliga: Magdeburg sorgt für erste Auswärtsnie
+2026-11-09 09:01:42,505 INFO S5 Sammelartikel: video-zweite-bundesliga-holstein-kiel-arminia-bielefeld-zusammenfassun
+2026-11-09 09:01:42,505 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: Überraschendes Urteil: Am Sonntag zerstören Dynamo-Fans einen Zug, am 
+2026-11-09 09:01:42,505 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: Viel Druck für den Dynamo-Coach, Trainer-Kollege wird hellhörig: "Hast
+2026-11-09 09:01:42,506 INFO S5 schon berichtet (Heidenheim und Hannover trennen sich 2:2): 2. Fußball-Bundesliga: Viel Spektakel bei Heidenheimer Remis
+2026-11-09 09:01:42,508 INFO S5: 42 neue Geschichten, 5 schon berichtet, 0 zu wartenden Geschichten ergänzt, 15 warten
+2026-11-09 09:03:04,678 INFO S6 aussortiert (doppelt): „Bild“: Hannover entlässt auch Becker – War auf Wagners Wunsch mit in 
+2026-11-09 09:03:04,678 INFO S6 aussortiert (doppelt): (k+) Nach Namensentscheid: Fürth ist bereit für ein neues Kapitel
+2026-11-09 09:03:04,678 INFO S6 aussortiert (doppelt): Civeja trifft von der Mittellinie, aber Hofmann hat das letzte Wort: B
+2026-11-09 09:03:04,678 INFO S6 aussortiert (doppelt): Mutig gepresst, schlecht verteidigt: KSC verschenkt erneut sicheren Pu
+2026-11-09 09:03:04,679 INFO S6 aussortiert (doppelt): 2. Fußball-Bundesliga - Magdeburg-Trainer Sander: „Stillstand ist Rück
+2026-11-09 09:03:04,679 INFO S6 aussortiert (doppelt): 1. FC Nürnberg - SV Darmstadt 98: Highlights der 2. Liga im Video
+2026-11-09 09:03:04,679 INFO S6 aussortiert (prio_0): KSC-Fans können planen: Das sind die nächsten Spieltage bis Januar 202
+2026-11-09 09:03:04,679 INFO S6 aussortiert (doppelt): Zukowskis Sonntagsschuss leitet ein: Heimstarke Magdeburger schlagen S
+2026-11-09 09:03:04,680 INFO S6 aussortiert (prio_0): "Beschissene Situation": Darmstadt 98 versinkt im Tabellenkeller der 2
+2026-11-09 09:03:04,680 INFO S6 aussortiert (prio_0): Wechsel-Beben beim KSC: Das sind alle Transfers der Saison 2026/2027
+2026-11-09 09:03:04,680 INFO S6 aussortiert (doppelt): Magdeburg-Trainer Sander: «Stillstand ist Rückschritt»
+2026-11-09 09:03:04,680 INFO S6 aussortiert (prio_0): 1. FC Magdeburg gegen Energie Cottbus: Statistik & Vergleich
+2026-11-09 09:03:04,680 INFO S6 aussortiert (prio_0): TSG Hoffenheim gegen 1. FC Nürnberg Direkter Vergleich - DFB-Pokal 2. 
+2026-11-09 09:03:04,681 INFO S6 aussortiert (prio_1): 96-Chaoten abgeduscht: Feuerwehrmann wird zum Derby-Held der Eintracht
+2026-11-09 09:03:04,681 INFO S6 aussortiert (prio_0): Energie Cottbus gegen Hertha BSC: Statistik & direkter Vergleich
+2026-11-09 09:03:04,681 INFO S6 aussortiert (doppelt): Kurios: Hannover 96 feuert Sportdirektor Ralf Becker, der sitzt wenige
+2026-11-09 09:03:04,681 INFO S6 aussortiert (prio_1): Hannover 96: Ehefrau sauer? Sandro Wagner droht Ärger daheim
+2026-11-09 09:03:04,682 INFO S6 aussortiert (doppelt): Hannover 96: Aus für Sportdirektor Ralf Becker
+2026-11-09 09:03:04,682 INFO S6 aussortiert (doppelt): Hertha BSC: Sorgen um Mads Pedersen
+2026-11-09 09:03:04,682 INFO S6 aussortiert (doppelt): Eskalation am Samstagabend: Hertha feiert bei Reese-Rückkehr großes Fu
+2026-11-09 09:03:04,682 INFO S6 aussortiert (doppelt): Reese kaltgestellt, Tor gemacht: Herthas Vorzeigekämpfer jetzt auch Kn
+2026-11-09 09:03:04,683 INFO S6 aussortiert (prio_1): Nerven von KSC-Fans am Limit: „Was Senft zusammen wechselt, geht auf k
+2026-11-09 09:03:04,683 INFO S6 aussortiert (prio_0): KSC vor Bochum-Duell: Diese Schwäche des VfL könnte den Badenern den A
+2026-11-09 09:03:04,683 INFO S6 aussortiert (prio_1): KSC-Talente überraschen mit Millionen-Plus: Jungstars sorgen für Markt
+2026-11-09 09:03:04,683 INFO S6 aussortiert (doppelt): VfL Bochum: Erste Heimsieg musste mit Spektakel gelingen, Zoller froh 
+2026-11-09 09:03:04,683 INFO S6 aussortiert (prio_1): Fürths Fußballer legen „Greuther“ ab: Tradition kehrt zum Kleeblatt zu
+2026-11-09 09:03:04,684 INFO S6 aussortiert (doppelt): Die ersten Bilder nach der großen Abstimmung: Die Fans feiern ihre "Sp
+2026-11-09 09:03:04,684 INFO S6 aussortiert (prio_0): Zweitligist Greuther Fürth beschließt Namensänderung
+2026-11-09 09:03:04,684 INFO S6 aussortiert (prio_1): Gedenkveranstaltung zur Reichspogromnacht in Bochum
+2026-11-09 09:03:04,684 INFO S6 aussortiert (prio_1): Bochums Derbyheld Luis Pick: 19-Jähriger trifft regelmäßig - das zeich
+2026-11-09 09:03:04,684 INFO S6 aussortiert (prio_0): Abpfiff
+2026-11-09 09:03:04,685 INFO S6 aussortiert (prio_0): VfL Wolfsburg vs 1. FC Union Berlin - Club Freundschaftsspiele
+2026-11-09 09:03:04,685 INFO S6 aussortiert (doppelt): Hertha BSC - VfL Wolfsburg, 07.11.2026: Aufstellungen & Startelf
+2026-11-09 09:03:10,499 INFO S7 schreiben (Prio 3, 1 Quellen): Oppie fehlt St. Pauli: Rapp muss jetzt umbauen
+2026-11-09 09:03:19,055 INFO   Kandidat: St. Pauli ohne Oppie: Rapp hat mehrere Alternativen
+2026-11-09 09:03:26,552 INFO S6.5 schon berichtet (Kiel vor Trainerwechsel: Tim Walter steht vor): Holstein Kiel: Mitch Kniat soll übernehmen
+2026-11-09 09:03:28,104 INFO S7 kein Volltext (too_short_45_words): Zähes Kellerduell: Braunschweig und Cottbus liefern sich Nul
+2026-11-09 09:03:28,358 INFO S7 Ersatzquellen für "Zähes Kellerduell: Braunschweig und Cottbus liefer": 0 passende Treffer
+2026-11-09 09:03:28,358 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Zähes Kellerduell: Braunschweig und Cottbus liefern sich Nul
+2026-11-09 09:03:29,160 INFO S7 kein Volltext (too_short_42_words): Fürth ohne Chance: Dresden feiert wichtigen Befreiungsschlag
+2026-11-09 09:03:29,429 INFO S7 Ersatzquellen für "Fürth ohne Chance: Dresden feiert wichtigen Befrei": 0 passende Treffer
+2026-11-09 09:03:29,429 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Fürth ohne Chance: Dresden feiert wichtigen Befreiungsschlag
+2026-11-09 09:03:31,545 INFO S7 kein Volltext (seite_zu_alt): 1. FC Magdeburg: Zwei Spiele Sperre für Bockhorn
+2026-11-09 09:03:31,783 INFO S7 Ersatzquellen für "1. FC Magdeburg: Zwei Spiele Sperre für Bockhorn": 0 passende Treffer
+2026-11-09 09:03:31,784 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): 1. FC Magdeburg: Zwei Spiele Sperre für Bockhorn
+2026-11-09 09:03:33,154 WARNING discarding data: None
+2026-11-09 09:03:33,156 INFO S7 kein Volltext (trafilatura_returned_empty): Walter in Kiel vor dem Aus – wird Ex-Arminia-Coach Kniat der
+2026-11-09 09:03:33,407 INFO S7 Ersatzquellen für "Walter in Kiel vor dem Aus – wird Ex-Arminia-Coach": 0 passende Treffer
+2026-11-09 09:03:33,407 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Walter in Kiel vor dem Aus – wird Ex-Arminia-Coach Kniat der
+2026-11-09 09:03:33,854 INFO S7 Ersatzquellen für "(k+) Fünf Gründe für fünf Punkte: Darum wird Wolfs": 1 passende Treffer
+2026-11-09 09:03:34,260 ERROR lxml parsing failed: Document is empty
+2026-11-09 09:03:34,261 ERROR lxml parser bytestring Document is empty
+2026-11-09 09:03:34,261 ERROR lxml parsing failed: Document is empty
+2026-11-09 09:03:34,261 ERROR lxml parser bytestring Document is empty
+2026-11-09 09:03:34,261 ERROR empty HTML tree: None
+2026-11-09 09:03:34,261 WARNING discarding data: None
+2026-11-09 09:03:34,262 INFO S7 kein Volltext (trafilatura_returned_empty): (k+) Fünf Gründe für fünf Punkte: Darum wird Wolfsburg seine
+2026-11-09 09:03:34,262 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): (k+) Fünf Gründe für fünf Punkte: Darum wird Wolfsburg seine
+2026-11-09 09:03:37,409 INFO S6.5 schon berichtet (Hannover 96 trennt sich von Sportdirektor Ral): Nächster Hannover-Boss muss gehen
+2026-11-09 09:03:37,743 WARNING discarding data: None
+2026-11-09 09:03:37,743 INFO S7 kein Volltext (trafilatura_returned_empty): Kommentar: Warum Hertha BSC weiter wachsam bleiben sollte
+2026-11-09 09:03:37,974 INFO S7 Ersatzquellen für "Kommentar: Warum Hertha BSC weiter wachsam bleiben": 0 passende Treffer
+2026-11-09 09:03:37,974 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Kommentar: Warum Hertha BSC weiter wachsam bleiben sollte
+2026-11-09 09:03:40,672 INFO S6.5 schon berichtet (Hannover 96 trennt sich von Sportdirektor Ral): Nächstes Personal-Beben in Hannover steht bevor
+2026-11-09 09:03:41,322 INFO S7 kein Volltext (too_short_38_words): Bei Hertha BSC kalkuliert man mit einem großen Risiko und wi
+2026-11-09 09:03:41,551 INFO S7 Ersatzquellen für "Bei Hertha BSC kalkuliert man mit einem großen Ris": 0 passende Treffer
+2026-11-09 09:03:41,551 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Bei Hertha BSC kalkuliert man mit einem großen Risiko und wi
+2026-11-09 09:03:44,726 INFO S7 kein Volltext (too_short_68_words): „Nicht mein Ziel, Joker zu sein“: Arminias Young trifft ents
+2026-11-09 09:03:44,973 INFO S7 Ersatzquellen für "„Nicht mein Ziel, Joker zu sein“: Arminias Young t": 1 passende Treffer
+2026-11-09 09:03:46,181 WARNING discarding data: None
+2026-11-09 09:03:46,183 INFO S7 kein Volltext (trafilatura_returned_empty): „Nicht mein Ziel, Joker zu sein“: Arminias Young trifft ents
+2026-11-09 09:03:46,183 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): „Nicht mein Ziel, Joker zu sein“: Arminias Young trifft ents
+2026-11-09 09:03:46,659 WARNING discarding data: None
+2026-11-09 09:03:46,660 INFO S7 kein Volltext (trafilatura_returned_empty): „Nicht mein Ziel, Joker zu sein“: Arminias Young trifft ents
+2026-11-09 09:03:46,696 INFO S7 Ersatzquellen für "„Nicht mein Ziel, Joker zu sein“: Arminias Young t": 0 passende Treffer
+2026-11-09 09:03:46,696 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): „Nicht mein Ziel, Joker zu sein“: Arminias Young trifft ents
+2026-11-09 09:03:47,147 INFO S7 kein Volltext (too_short_15_words): ''Wir können eine breite Brust habe'' – Stimmen zu Magdeburg
+2026-11-09 09:03:47,380 INFO S7 Ersatzquellen für "''Wir können eine breite Brust habe'' – Stimmen zu": 0 passende Treffer
+2026-11-09 09:03:47,380 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): ''Wir können eine breite Brust habe'' – Stimmen zu Magdeburg
+2026-11-09 09:03:47,614 INFO S7 kein Volltext (too_short_15_words): ''Ich will nicht im Mittelpunkt sei'' – Stimmen zu Heidenhei
+2026-11-09 09:03:47,850 INFO S7 Ersatzquellen für "''Ich will nicht im Mittelpunkt sei'' – Stimmen zu": 0 passende Treffer
+2026-11-09 09:03:47,850 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): ''Ich will nicht im Mittelpunkt sei'' – Stimmen zu Heidenhei
+2026-11-09 09:03:48,098 INFO S7 kein Volltext (too_short_15_words): Hannover 96 trennt sich mit sofortiger Wirkung von Sportdire
+2026-11-09 09:03:48,338 INFO S7 Ersatzquellen für "Hannover 96 trennt sich mit sofortiger Wirkung von": 0 passende Treffer
+2026-11-09 09:03:48,338 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Hannover 96 trennt sich mit sofortiger Wirkung von Sportdire
+2026-11-09 09:03:49,611 INFO S7 kein Volltext (too_short_37_words): Ambitionierte Hannoveraner: Hannovers Trainer Wagner - "Dann
+2026-11-09 09:03:49,845 INFO S7 Ersatzquellen für "Ambitionierte Hannoveraner: Hannovers Trainer Wagn": 0 passende Treffer
+2026-11-09 09:03:49,845 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Ambitionierte Hannoveraner: Hannovers Trainer Wagner - "Dann
+2026-11-09 09:03:51,194 INFO S7 kein Volltext (too_short_35_words): Erster Heimsieg: Bochums Trainer Rösler - "Das Spiel ging hi
+2026-11-09 09:03:51,413 INFO S7 Ersatzquellen für "Erster Heimsieg: Bochums Trainer Rösler - "Das Spi": 0 passende Treffer
+2026-11-09 09:03:51,413 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Erster Heimsieg: Bochums Trainer Rösler - "Das Spiel ging hi
+2026-11-09 09:03:51,656 WARNING discarding data: None
+2026-11-09 09:03:51,657 INFO S7 kein Volltext (trafilatura_returned_empty): Zeefuik im Fokus: Warum er für Hertha BSC so wichtig ist
+2026-11-09 09:03:51,925 INFO S7 Ersatzquellen für "Zeefuik im Fokus: Warum er für Hertha BSC so wicht": 0 passende Treffer
+2026-11-09 09:03:51,926 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Zeefuik im Fokus: Warum er für Hertha BSC so wichtig ist
+2026-11-09 09:03:52,542 INFO S7 kein Volltext (too_short_60_words): Nächste Entlassung in Hannover
+2026-11-09 09:03:52,766 INFO S7 Ersatzquellen für "Nächste Entlassung in Hannover": 0 passende Treffer
+2026-11-09 09:03:52,766 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Nächste Entlassung in Hannover
+2026-11-09 09:03:53,357 INFO S7 kein Volltext (too_short_36_words): FC St. Pauli: Rapp-Aussage sorgt für Stirnrunzeln, Magdeburg
+2026-11-09 09:03:53,636 INFO S7 Ersatzquellen für "FC St. Pauli: Rapp-Aussage sorgt für Stirnrunzeln,": 0 passende Treffer
+2026-11-09 09:03:53,636 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): FC St. Pauli: Rapp-Aussage sorgt für Stirnrunzeln, Magdeburg
+2026-11-09 09:03:54,031 INFO S7 Ersatzquellen für "Hattrick Zicai und zwei Elfmeter: Wolfsburg zerleg": 0 passende Treffer
+2026-11-09 09:03:54,031 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Hattrick Zicai und zwei Elfmeter: Wolfsburg zerlegt Feyenoor
+2026-11-09 09:03:55,228 INFO S7 kein Volltext (too_short_56_words): Eine defensiv tüchtige Arminia erarbeitet sich ihr Glück
+2026-11-09 09:03:55,447 INFO S7 Ersatzquellen für "Eine defensiv tüchtige Arminia erarbeitet sich ihr": 1 passende Treffer
+2026-11-09 09:03:56,522 WARNING discarding data: None
+2026-11-09 09:03:56,523 INFO S7 kein Volltext (trafilatura_returned_empty): Eine defensiv tüchtige Arminia erarbeitet sich ihr Glück
+2026-11-09 09:03:56,523 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Eine defensiv tüchtige Arminia erarbeitet sich ihr Glück
+2026-11-09 09:03:56,809 WARNING discarding data: None
+2026-11-09 09:03:56,809 INFO S7 kein Volltext (trafilatura_returned_empty): "Unfassbar eng": Florian Kohfeldt setzt trotz Job-Krise bei 
+2026-11-09 09:03:57,057 INFO S7 Ersatzquellen für ""Unfassbar eng": Florian Kohfeldt setzt trotz Job-": 0 passende Treffer
+2026-11-09 09:03:57,057 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): "Unfassbar eng": Florian Kohfeldt setzt trotz Job-Krise bei 
+2026-11-09 09:03:57,059 INFO S9.5 FinalCheck: 1/1 durch
+2026-11-09 09:03:58,137 INFO Veröffentlicht: St. Pauli ohne Oppie: Rapp hat mehrere Alternativen
+2026-11-09 09:03:58,140 WARNING Sitemap ohne Spielerseiten: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-09 09:03:58,143 INFO 💶 Kosten: dieser Lauf 0.000 $ (Budget 0.051 $) | heute 0.00 $ | Monat 0.00 / 8 $ | konferenz (abo) 1× 0.000 $, dublette (abo) 4× 0.000 $, schreiben (abo) 1× 0.000 $
+2026-11-09 09:03:58,143 INFO 🎫 Abo-Verbrauch: 15,878 Tokens rein (davon Cache gelesen 0), 12,378 raus, API-Gegenwert 0.12 $ | konferenz 1×: 3,694/10,777, dublette 4×: 4,489/194, schreiben 1×: 7,695/1,407
+2026-11-09 09:03:58,151 INFO Feeds: 38/38 begonnen, nächster Lauf startet bei Nr. 0
+2026-11-09 09:03:58,151 INFO URL-Cache gespeichert: 6875 URLs
+2026-11-09 09:03:58,151 INFO === Fertig. 1 neue Artikel. feed.json: 83 ===
+2026-11-09 09:03:58,151 INFO Stats: {"ts": "20261109_0901", "ingested": 72, "s2_pre_filter": 9, "s3_relevance": 11, "s4_dedup_early": 0, "gesammelt": 52, "geschichten_neu": 42, "s5_archiv_doppelt": 5, "s5_zusammengefuehrt": 0, "s6_aussortiert": 33, "s7_geschrieben": 1, "s7_verworfen": 3, "s5_fulltext_fail": 20, "s8_qa_rejected": 0, "published": 1, "s5_randthema": 2, "s5_ohne_bezug": 2, "kosten": {"lauf_usd": 0.0, "lauf_budget_usd": 0.0506, "heute_usd": 0.0, "monat_usd": 0.0, "monatsbudget_usd": 8.0, "aufrufe": {"konferenz (abo)": {"anzahl": 1, "usd": 0.0}, "dublette (abo)": {"anzahl": 4, "usd": 0.0}, "schreiben (abo)": {"anzahl": 1, "usd": 0.0}}, "guthaben_leer": false, "abo": true, "abo_tokens": {"konferenz": {"aufrufe": 1, "ein": 3694, "cache_schreiben": 0, "cache_lesen": 0, "aus": 10777, "api_wert_usd": 0.0576}, "dublette": {"aufrufe": 4, "ein": 8, "cache_schreiben": 4481, "cache_lesen": 0, "aus": 194, "api_wert_usd": 0.0199}, "schreiben": {"aufrufe": 1, "ein": 2, "cache_schreiben": 7693, "cache_lesen": 0, "aus": 1407, "api_wert_usd": 0.0448}}}}

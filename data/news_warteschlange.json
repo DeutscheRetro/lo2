@@ -1,138 +1,5 @@
 [
  {
-  "id": "4477ce433f",
-  "schluessel": "hannover|trainer",
-  "person": "",
-  "spieler": [],
-  "klub": "Hannover",
-  "klubs": [
-   "Hannover"
-  ],
-  "stufe": "entlassung",
-  "klasse": "trainer",
-  "titel": "Nächste Entlassung in Hannover",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMWU3bVNGVEQzRlhvSVotUno2b3FVNEM4U2VFZll4UWN3UEN1WlBqX2w0OXR4R3BnVkZ4bm5yRmU4NHJLRE5Pc1dnRW9xOGRjSEhRRVMzV0NYUXViT2JvU2FFamh5dTFzZ0FqVHJ6amFWbjUtOEdWYl9CWVZnQmxueXZwVDNtYWhQYXVyeEFSOA?oc=5",
-    "aid": "fb784cbce8",
-    "titel": "Nächste Entlassung in Hannover",
-    "quelle": "FussballTransfers.com",
-    "beschr": " Nächste Entlassung in Hannover &nbsp;&nbsp; FussballTransfers.com ",
-    "zeit": "2026-11-08T19:27"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-08T21:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "b19f267f16",
-  "schluessel": "st. pauli|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "St. Pauli",
-  "klubs": [
-   "St. Pauli",
-   "Magdeburg"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "FC St. Pauli: Rapp-Aussage sorgt für Stirnrunzeln, Magdeburg-Coach widerspricht",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRUVHbHhVT3p5bnlRaDhXRXE0Z2lsak01dEhKTk8yaHJNSS1UdHJBTnRVSTBtR2NwVXNnWWVmby1hQTAzbDJ1VVZKMVcwYnQwT3FNaWQwWW5qM0NSMUdKT1phTVMtcm9jV0VwQTJxV3ZwWExXR0lFVG9RckFJS3JIQmV2TlBwU1F6RDZ0MTFLZnc1Q3l6cmlGMFI1YnNCaFBMWDNjWWVOTkRBMzNXenpkeUlTX0V2bEFEOEZLbmlydVpaNXdNVFZsS0VJYk5GWjZNOFB6Zmp0NA?oc=5",
-    "aid": "6293477106",
-    "titel": "FC St. Pauli: Rapp-Aussage sorgt für Stirnrunzeln, Magdeburg-Coach widerspricht",
-    "quelle": "Hamburger Abendblatt",
-    "beschr": " FC St. Pauli: Rapp-Aussage sorgt für Stirnrunzeln, Magdeburg-Coach widerspricht &nbsp;&nbsp; Hamburger Abendblatt ",
-    "zeit": "2026-11-08T18:47"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "u",
-  "erstmals": "2026-11-08T21:01",
-  "archiv": [
-   {
-    "id": "2d5f25514d",
-    "titel": "St. Pauli: Kaars vor Wiedersehen mit Magdeburg unter Druck",
-    "datum": "07.11.",
-    "stufe": "sonstiges",
-    "summary": "St. Pauli-Stürmer Martijn Kaars hat nach nur zwei Toren in elf Einsätzen einen schweren Stand. Vor dem Spiel in Magdeburg lässt Trainer Marcel Rapp offen, ob er in der Startelf steht."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "f63690e718",
-  "schluessel": "bielefeld|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Bielefeld",
-  "klubs": [
-   "Bielefeld"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Eine defensiv tüchtige Arminia erarbeitet sich ihr Glück",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYTZFZTF6S1lubjRXQ3Y4OVVXUWpwRGRnWDNNeDVZN3Z4VDVubS1EenhPaURSZzBKVThnX0d6WE5IR0p6cFQyYno1SzhNT2lYWjlPRE1kbkRVVzhVN1poSFU5UzVhY0Q4ZHF3eHVoZ09ONnB3WEdPQUJGcGpiTVFsWnRrSWZtSmY5ekpYWDEya3d5OTJ2SG9pWUxYcEt3Z3V3c1JObXVuYWotekVtRXRLbXZyd3FualJpQU9zS0pxWlBDbXVzdkE?oc=5",
-    "aid": "ea7e22217d",
-    "titel": "Eine defensiv tüchtige Arminia erarbeitet sich ihr Glück",
-    "quelle": "Neue Westfälische",
-    "beschr": " Eine defensiv tüchtige Arminia erarbeitet sich ihr Glück &nbsp;&nbsp; Neue Westfälische ",
-    "zeit": "2026-11-08T18:00"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-08T21:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "0f728f77e7",
-  "schluessel": "bielefeld|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Bielefeld",
-  "klubs": [
-   "Bielefeld"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Walter in Kiel vor dem Aus – wird Ex-Arminia-Coach Kniat der Nachfolger?",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU0RGc1lORG9jRzF3MVlCWlRTOTNRME0tcmdTYl9keERWLVp4elllajFyZzl1WFI0bmdJLThhR0xJWkc0M3NOMmdGckVRb09CUFdUYXBDT0h2QklXcG5zOFhJaTV0cVU4dUtyeXp6M180c1hSaTIxMnR6a0VfcXFhc2pBSkhWN0xzdmd3YUhBMi1Rdk05TGxtUkRQdVFXajZEWFlOTEpoVE9RbHlSNlFNeVBOOWgxRkpkZHdYODNWa0FnRVE?oc=5",
-    "aid": "9205a04d37",
-    "titel": "Walter in Kiel vor dem Aus – wird Ex-Arminia-Coach Kniat der Nachfolger?",
-    "quelle": "Mindener Tageblatt",
-    "beschr": " Walter in Kiel vor dem Aus – wird Ex-Arminia-Coach Kniat der Nachfolger? &nbsp;&nbsp; Mindener Tageblatt ",
-    "zeit": "2026-11-08T16:30"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 3,
-  "status": "u",
-  "erstmals": "2026-11-08T21:01",
-  "archiv": [
-   {
-    "id": "77f21a9e24",
-    "titel": "Kiel vor Trainerwechsel: Tim Walter steht vor dem Aus",
-    "datum": "08.11.",
-    "stufe": "sonstiges",
-    "summary": "Holstein Kiel steht nach der 1:2-Niederlage gegen Bielefeld und Platz 18 vor der Trennung von Trainer Tim Walter. Geschäftsführer Olaf Rebbe kündigte für Sonntag eine längere Sitzung an."
-   }
-  ],
-  "versuche": 2
- },
- {
   "id": "0cac1ec9d9",
   "schluessel": "braunschweig|sonstiges",
   "person": "",
@@ -168,7 +35,7 @@
     "summary": "Cottbus-Trainer Claus-Dieter Wollitz will nach der 1:2-Heimniederlage gegen Bochum Zugeständnisse wie freie Tage streichen. Im Spiel in Braunschweig am Freitag fehlen Kapitän Axel Borgmann und Neuzugang Julian Guttau."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "de2066ebed",
@@ -198,7 +65,7 @@
   "status": "n",
   "erstmals": "2026-11-09T06:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "d4c71580fa",
@@ -235,7 +102,7 @@
     "summary": "Moderatorin Laura Wontorra stärkt Hannovers Trainer Sandro Wagner, der nach vier Pflichtspielen noch sieglos ist, im Podcast „TOMorrow“ den Rücken. Sie traut ihm eine große Trainerkarriere zu."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "0c06e57488",
@@ -264,7 +131,7 @@
   "status": "n",
   "erstmals": "2026-11-09T06:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "eb3abd1a58",
@@ -301,7 +168,7 @@
     "summary": "Magdeburg kann mit einem Sieg gegen St. Pauli mit 20 Punkten die beste Zwischenbilanz nach elf Spieltagen erreichen. Torjäger Mateusz Zukowski soll nach seiner Schulterprellung zurückkehren."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "1c80c1c1b2",
@@ -331,7 +198,7 @@
   "status": "n",
   "erstmals": "2026-11-09T06:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "fc505a7507",
@@ -360,7 +227,7 @@
   "status": "n",
   "erstmals": "2026-11-09T06:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "6eec85a468",
@@ -404,7 +271,7 @@
     "summary": "Hannover 96 hat Sport-Geschäftsführer Jonas Boldt nach nur fünf Monaten mit sofortiger Wirkung abberufen. Der Klub steht nach neun Spieltagen mit acht Punkten auf Platz 16."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "4e34c010c6",
@@ -449,7 +316,7 @@
     "summary": "Heidenheims Trainer Frank Schmidt hat sich nach der 1:2-Niederlage in Karlsruhe vor Stürmer Alessandro Vogt gestellt, der im Netz angefeindet worden sein soll. Vogt erzielte gegen den KSC sein erstes Pflichtspieltor für den FCH."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "ea01c32178",
@@ -500,7 +367,7 @@
     "summary": "Wolfsburgs Fabian Reese und Muhammed Damar freuen sich auf das Spiel bei Tabellenführer Hertha BSC am Samstag. Beide haben eine Vergangenheit in Berlin und kommen nach dem 2:0 gegen Osnabrück mit Rückenwind."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "2741296ced",
@@ -549,6 +416,210 @@
     "datum": "05.11.",
     "stufe": "sonstiges",
     "summary": "Darmstadt setzt unter Trainer Florian Kohfeldt nach dem 0:4 in Karlsruhe auf Stabilität statt Ballbesitz. Stürmer Milan Smit und Marco Richter zeigten beim 1:1 gegen Magdeburg aufsteigende Form."
+   }
+  ],
+  "versuche": 2
+ },
+ {
+  "id": "4d46853e33",
+  "schluessel": "wolfsburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Wolfsburg",
+  "klubs": [
+   "Wolfsburg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "(k+) Fünf Gründe für fünf Punkte: Darum wird Wolfsburg seiner Rolle (noch) nicht gerecht",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOUVlWmwzcHhFVHN6RGxHU1F3Q010NkZ0R0c4R1dZaFl1ajh3cHM1aThaNjRnTDY2eG9yM3cwQk9YdDRZbmk4T2xXMVo0OGt4NkcteFNnbnFIWkV4Mzl5Ml9tSG9helhiaDlWdk9mbG1tSm5WX3c1U2ZwcDdoMWxKcU1CNnJGdzMzeXdZeW1RTUpNY0h0YXNFVjFGeVMydWt5MDQybm1iWm01TmZmSndUSDdBM0QxeDY4aWpqNjcwQQ?oc=5",
+    "aid": "3f75270e1f",
+    "titel": "(k+) Fünf Gründe für fünf Punkte: Darum wird Wolfsburg seiner Rolle (noch) nicht gerecht",
+    "quelle": "Kicker",
+    "beschr": " (k+) Fünf Gründe für fünf Punkte: Darum wird Wolfsburg seiner Rolle (noch) nicht gerecht &nbsp;&nbsp; Kicker ",
+    "zeit": "2026-11-09T08:42"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-09T09:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "7d9bada3a1",
+  "schluessel": "bielefeld|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Bielefeld",
+  "klubs": [
+   "Bielefeld"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "„Nicht mein Ziel, Joker zu sein“: Arminias Young trifft entscheidend – und hadert",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVXdlZzdUQkdSWlk0WGZLNHVSUUdvN1VTNEdFeTJYVmNKT1pUOHlzQkVkM0xVU2VuYTUxRFVzNlFpWlVrSU9pUERNUm9VSlJnaTlBM0R4anYzSTlhb2NQOS0wUVl5TzJabzlzbVVocmhFUEh0V0dQdFhGNHVsbTcwVGE2QUhXcEpUZHhHVlNXT0hDLXZGOVhyMFp1alNGUWtma2ZLY2dxUXhXWVBzbGx0dFpWYUpaWkF5Z2tTZDFPN3ZkUmhqYkNMYm9fdw?oc=5",
+    "aid": "f8fae252db",
+    "titel": "„Nicht mein Ziel, Joker zu sein“: Arminias Young trifft entscheidend – und hadert",
+    "quelle": "Mindener Tageblatt",
+    "beschr": " „Nicht mein Ziel, Joker zu sein“: Arminias Young trifft entscheidend – und hadert &nbsp;&nbsp; Mindener Tageblatt ",
+    "zeit": "2026-11-09T05:00"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-09T09:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "6d66d4e5c0",
+  "schluessel": "hertha|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Bei Hertha BSC kalkuliert man mit einem großen Risiko und wird belohnt",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZTdkX1BycnR5Vmx6ODFMM1N1eWJ2bmhtM043cTh2aWVQVEYxT2Y4VmVRYVFmTklVblJFc0RSaWVQTDZPSVFLSlB4Vmo1VlZMTG5SbGI4R1BwSE5RUlVBaUxoVjE0RTZMWlJUNGhidU1najdJaUc0YWpGbVBOTWJUUFRfWVVrRGt5ZkdVQUdnVDVkSW5ZVnlwLThOVlpkUjBZenJDLWlVTnFvVk9IVDhTUTJxM0JnUnhTRFdnRGFFZ3dqdHVHQmEwWGw1UWY?oc=5",
+    "aid": "bcf0967f1e",
+    "titel": "Bei Hertha BSC kalkuliert man mit einem großen Risiko und wird belohnt",
+    "quelle": "Berliner Morgenpost",
+    "beschr": " Bei Hertha BSC kalkuliert man mit einem großen Risiko und wird belohnt &nbsp;&nbsp; Berliner Morgenpost ",
+    "zeit": "2026-11-09T06:00"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-09T09:01",
+  "archiv": [
+   {
+    "id": "008a7a4de7",
+    "titel": "Hertha BSC: Wie Stefan Leitl die Berliner an die Spitze führt",
+    "datum": "08.11.",
+    "stufe": "sonstiges",
+    "summary": "Hertha BSC führt die zweite Liga nach dem 2:1 gegen Wolfsburg mit zehn Punkten Vorsprung auf Rang drei an. Trainer Stefan Leitl setzt auf hohes Pressing, einen klaren Plan und eine funktionierende Gruppe."
+   },
+   {
+    "id": "c636d3e74a",
+    "titel": "Hertha im Pokal-Achtelfinale gegen Bayern live bei RTL",
+    "datum": "04.11.",
+    "stufe": "sonstiges",
+    "summary": "Hertha BSC spielt im DFB-Pokal-Achtelfinale am 1. Dezember um 20:45 Uhr gegen den FC Bayern München. RTL überträgt die Partie live."
+   },
+   {
+    "id": "f57eea9f29",
+    "titel": "Reese und Damar freuen sich auf Wiedersehen mit Hertha",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Wolfsburgs Fabian Reese und Muhammed Damar freuen sich auf das Spiel bei Tabellenführer Hertha BSC am Samstag. Beide haben eine Vergangenheit in Berlin und kommen nach dem 2:0 gegen Osnabrück mit Rückenwind."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "3140316227",
+  "schluessel": "hertha|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Kommentar: Warum Hertha BSC weiter wachsam bleiben sollte",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcU9NQmxJbU9GbDF4YzVHZGphdFVsZ1I5ZzFkQ0ljdmJNNGhuZXJEVjFuNDN3V3J6dFJUU0RPdTdQdC1Ec3pvc1hkTFBERHI5aVBJUDltazRqb1k4dHVwcXJYRTVWWmY0QURlRFNONG9YUmNJYmE4bzJIY0ZfQXBJbi1wdGpyWmhQNlF5cF9DVDNNR1UyUHUtdw?oc=5",
+    "aid": "5a7b8e1e1d",
+    "titel": "Kommentar: Warum Hertha BSC weiter wachsam bleiben sollte",
+    "quelle": "fussballdaten.de",
+    "beschr": " Kommentar: Warum Hertha BSC weiter wachsam bleiben sollte &nbsp;&nbsp; fussballdaten.de ",
+    "zeit": "2026-11-09T08:08"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-09T09:01",
+  "archiv": [
+   {
+    "id": "008a7a4de7",
+    "titel": "Hertha BSC: Wie Stefan Leitl die Berliner an die Spitze führt",
+    "datum": "08.11.",
+    "stufe": "sonstiges",
+    "summary": "Hertha BSC führt die zweite Liga nach dem 2:1 gegen Wolfsburg mit zehn Punkten Vorsprung auf Rang drei an. Trainer Stefan Leitl setzt auf hohes Pressing, einen klaren Plan und eine funktionierende Gruppe."
+   },
+   {
+    "id": "c636d3e74a",
+    "titel": "Hertha im Pokal-Achtelfinale gegen Bayern live bei RTL",
+    "datum": "04.11.",
+    "stufe": "sonstiges",
+    "summary": "Hertha BSC spielt im DFB-Pokal-Achtelfinale am 1. Dezember um 20:45 Uhr gegen den FC Bayern München. RTL überträgt die Partie live."
+   },
+   {
+    "id": "f57eea9f29",
+    "titel": "Reese und Damar freuen sich auf Wiedersehen mit Hertha",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Wolfsburgs Fabian Reese und Muhammed Damar freuen sich auf das Spiel bei Tabellenführer Hertha BSC am Samstag. Beide haben eine Vergangenheit in Berlin und kommen nach dem 2:0 gegen Osnabrück mit Rückenwind."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "bea9cfb7e7",
+  "schluessel": "wolfsburg|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Wolfsburg",
+  "klubs": [
+   "Wolfsburg"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "Hattrick Zicai und zwei Elfmeter: Wolfsburg zerlegt Feyenoord mit 7:0",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeHhjNDd0ZHhrN1ZodXNLeTVJMlIwT0I4Z3A4OVNkZmJDTGY5aWdOMmY5bVNaTFNPdGJCSHpnN3pxcGR5QVdiWnVTWG96SDNnQnJHSWh3bGhIVDZITnUtRVhmbm16dDhhNzlIN2tkZWxfTjM3ck1SeU1mV2ZGekozQndsRDZ1dXdsYzdKSGJHVjUtaVdpcnV0dmVWZw?oc=5",
+    "aid": "8cce1a9137",
+    "titel": "Hattrick Zicai und zwei Elfmeter: Wolfsburg zerlegt Feyenoord mit 7:0",
+    "quelle": "Kicker",
+    "beschr": " Hattrick Zicai und zwei Elfmeter: Wolfsburg zerlegt Feyenoord mit 7:0 &nbsp;&nbsp; Kicker ",
+    "zeit": "2026-11-08T18:34"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-09T09:01",
+  "archiv": [
+   {
+    "id": "85e4606aac",
+    "titel": "Wolfsburg hadert nach 1:2 bei Hertha mit verweigertem Elfmeter",
+    "datum": "08.11.",
+    "stufe": "spielbericht",
+    "summary": "Wolfsburg verliert im Spitzenspiel bei Tabellenführer Hertha BSC mit 1:2. Trainer Tobias Strobl und Sportdirektor Pirmin Schwegler kritisieren den nicht gegebenen Elfmeter in der Nachspielzeit."
+   },
+   {
+    "id": "7ba2dce612",
+    "titel": "Osnabrück verliert in Wolfsburg 0:2, Reese entscheidet das Duell",
+    "datum": "01.11.",
+    "stufe": "spielbericht",
+    "summary": "Der VfL Osnabrück verliert beim VfL Wolfsburg 0:2. Fabian Reese erzielt ein Tor und bereitet das zweite von Muhammed Damar vor."
    }
   ],
   "versuche": 1

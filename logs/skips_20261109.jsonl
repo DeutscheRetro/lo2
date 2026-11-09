@@ -114,3 +114,74 @@
 {"ts": "2026-11-09T06:05:38.347242", "id": "57d35b0bff", "title": "Hier ist Hannover 96 unter Standard: Dieselben Fehler kosten Punkte", "stage": "stage7", "reason": "zu_wenig_quelltext"}
 {"ts": "2026-11-09T06:05:41.908695", "id": "e10483f83c", "title": "\"Beschissene Situation\": Darmstadt 98 versinkt im Tabellenkeller", "stage": "stage6.5", "reason": "schon_berichtet"}
 {"ts": "2026-11-09T06:05:47.495268", "id": "e515337d73", "title": "Hertha BSC: Hertha unstoppbar – und jetzt kommt auch noch Glück dazu", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-09T09:01:31.868339", "id": "fb6f88e54c", "title": "Ohrenbetäubender Jubel: Fürth-Fans bejubeln Namensänderung", "stage": "stage1", "reason": "medienseite"}
+{"ts": "2026-11-09T09:01:33.860511", "id": "8d8ae4a071", "title": "Ein Tor, aber keine Punkte für Schalke 04 gegen Hoffenheim", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-09T09:01:33.866374", "id": "971e31f188", "title": "Bei Hertha-Spiel gegen VfL Wolfsburg: Ex-Spieler wieder im Olympiastadion", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-09T09:01:33.870223", "id": "74ad98f53c", "title": "KI sagt 2. Bundesliga-Tabelle 26/27 voraus, Prognose nach dem 11. Spieltag", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-09T09:01:35.594091", "id": "6ee7087657", "title": "Nach \"Beben\" um Trainer Frank Schmidt: Heidenheim hadert mit Remis gegen Hannove", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-09T09:01:35.996356", "id": "6abf45d55e", "title": "Keeper Julian Krahl über seine Entwicklung beim FCK", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-09T09:01:36.000141", "id": "a58e96f7dd", "title": "Nächstes Spiel zu Null: Defensivstärke als Identität: FCK-Keeper Julian Krahl is", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-09T09:01:36.001570", "id": "45145a8c13", "title": "Dieter Pulter", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-09T09:01:36.394267", "id": "36fdd29184", "title": "FCM-Sportdirektor Jaekel schwärmt von Abwehr-Juwel: \"Der weiß gar nicht, wie gut", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-09T09:01:36.396750", "id": "265833df0e", "title": "Magdeburgski trenar Sander: „Změrom stać je kročel dozady“", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-09T09:01:36.679985", "id": "a395a14e09", "title": "\"Beschissene Situation\": Darmstadt 98 versinkt im Tabellenkeller der 2. Liga", "stage": "stage2", "reason": "batch_title_dup_100pct"}
+{"ts": "2026-11-09T09:01:36.956635", "id": "7ed4dd9134", "title": "BVB kassiert erstes Gegentor, Schalke zu stark für den MSV", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-09T09:01:37.520337", "id": "d4c0cb99ca", "title": "Konkurrenz für die Wählscheibe: 50 Jahre Tastentelefon", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-09T09:01:37.522510", "id": "3300958399", "title": "Akiapōlāʻau - der Vogel mit dem Frankenstein-Schnabel", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-09T09:01:37.524430", "id": "5c493676c9", "title": "Aus für Blüten - Kritik an Reform bei medizinischem Cannabis", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-09T09:01:37.526243", "id": "fe4f448aff", "title": "Antonelli als Baby-Senna: Mercedes komplettiert WM-Comeback", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-09T09:01:38.175509", "id": "f146816ac7", "title": "2. Fußball-Bundesliga: Magdeburg-Trainer Sander: „Stillstand ist Rückschritt“", "stage": "stage2", "reason": "batch_title_dup_89pct"}
+{"ts": "2026-11-09T09:01:38.990382", "id": "f706057479", "title": "1. Frauen unterliegen im Spitzenspiel gegen Viktoria Berlin", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-09T09:01:39.623547", "id": "cfc43bc9d6", "title": "\"Fühlt sich wie Zeitlupe an\" - Horn über \"geiles\" Spiel und 50-Meter-Gegentor", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-09T09:01:40.594536", "id": "4ae36622c0", "title": "\"Trainer-raus\"-Rufe nach guter Leistung - \"Ich verstehe das 0,0\"", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-09T09:01:41.185917", "id": "6710cc81f2", "title": "Spielereignisse | ATS Buntentor - VfL Wolfsburg II 1:3 | 10. Spieltag | Frauen-R", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-09T09:01:42.502859", "id": "c898d1de6c", "title": "Strittige Szene in der Nachspielzeit: VfL Wolfsburg wettert nach Pleite bei Hert", "stage": "stage5", "reason": "archiv_doppelt"}
+{"ts": "2026-11-09T09:01:42.503058", "id": "842085d48a", "title": "Erst Adewumi, dann Zeefuik: Hertha siegt auch im Topspiel gegen Wolfsburg und bl", "stage": "stage5", "reason": "archiv_doppelt"}
+{"ts": "2026-11-09T09:01:42.503499", "id": "a6f326f6cd", "title": "Nürnberg - Darmstadt Zusammenfassung | 11. Spieltag der 2. Bundesliga", "stage": "stage5", "reason": "sammelartikel"}
+{"ts": "2026-11-09T09:01:42.503898", "id": "6251079835", "title": "\"Tut brutal weh\"- KSC verliert trotz Traumtoren in Bochum", "stage": "stage5", "reason": "archiv_doppelt"}
+{"ts": "2026-11-09T09:01:42.504332", "id": "d274eada9e", "title": "11. Spieltag: VfL-FCK | Joker Tazemeta sticht: Lautern erarbeitet sich 1:0-Sieg ", "stage": "stage5", "reason": "archiv_doppelt"}
+{"ts": "2026-11-09T09:01:42.504791", "id": "5ac3d6efde", "title": "2. Fußball-Bundesliga: Magdeburg sorgt für erste Auswärtsniederlage von St. Paul", "stage": "stage5", "reason": "archiv_doppelt"}
+{"ts": "2026-11-09T09:01:42.505484", "id": "90bef9dc05", "title": "video-zweite-bundesliga-holstein-kiel-arminia-bielefeld-zusammenfassung-100", "stage": "stage5", "reason": "sammelartikel"}
+{"ts": "2026-11-09T09:01:42.505708", "id": "3f1d4e7ac3", "title": "Überraschendes Urteil: Am Sonntag zerstören Dynamo-Fans einen Zug, am Dienstag h", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-09T09:01:42.505948", "id": "3543ff0af8", "title": "Viel Druck für den Dynamo-Coach, Trainer-Kollege wird hellhörig: \"Hast du die Üb", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-09T09:01:42.506930", "id": "5b68e74479", "title": "2. Fußball-Bundesliga: Viel Spektakel bei Heidenheimer Remis gegen Hannover", "stage": "stage5", "reason": "archiv_doppelt"}
+{"ts": "2026-11-09T09:03:04.678137", "id": "d97117ebab", "title": "„Bild“: Hannover entlässt auch Becker – War auf Wagners Wunsch mit in Heidenheim", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-09T09:03:04.678449", "id": "85fec314b0", "title": "(k+) Nach Namensentscheid: Fürth ist bereit für ein neues Kapitel", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-09T09:03:04.678708", "id": "5e62467ca8", "title": "Civeja trifft von der Mittellinie, aber Hofmann hat das letzte Wort: Bochum schl", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-09T09:03:04.678957", "id": "a5a8834460", "title": "Mutig gepresst, schlecht verteidigt: KSC verschenkt erneut sicheren Punkt gegen ", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-09T09:03:04.679185", "id": "a8fba0bc1a", "title": "2. Fußball-Bundesliga - Magdeburg-Trainer Sander: „Stillstand ist Rückschritt“ -", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-09T09:03:04.679407", "id": "b270ed004a", "title": "1. FC Nürnberg - SV Darmstadt 98: Highlights der 2. Liga im Video", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-09T09:03:04.679622", "id": "e73824fc9f", "title": "KSC-Fans können planen: Das sind die nächsten Spieltage bis Januar 2027", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-09T09:03:04.679889", "id": "e1f2b3fd59", "title": "Zukowskis Sonntagsschuss leitet ein: Heimstarke Magdeburger schlagen St. Pauli d", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-09T09:03:04.680160", "id": "084101bcd6", "title": "\"Beschissene Situation\": Darmstadt 98 versinkt im Tabellenkeller der 2. Liga", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-09T09:03:04.680386", "id": "a628746d6f", "title": "Wechsel-Beben beim KSC: Das sind alle Transfers der Saison 2026/2027", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-09T09:03:04.680596", "id": "effb23f1f7", "title": "Magdeburg-Trainer Sander: «Stillstand ist Rückschritt»", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-09T09:03:04.680848", "id": "8787a8c774", "title": "1. FC Magdeburg gegen Energie Cottbus: Statistik & Vergleich", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-09T09:03:04.681062", "id": "2c4cd4a64e", "title": "TSG Hoffenheim gegen 1. FC Nürnberg Direkter Vergleich - DFB-Pokal 2. Runde 2024", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-09T09:03:04.681275", "id": "b6af7f3fb7", "title": "96-Chaoten abgeduscht: Feuerwehrmann wird zum Derby-Held der Eintracht-Fans", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-09T09:03:04.681481", "id": "348da9e2ab", "title": "Energie Cottbus gegen Hertha BSC: Statistik & direkter Vergleich", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-09T09:03:04.681702", "id": "289b556a4e", "title": "Kurios: Hannover 96 feuert Sportdirektor Ralf Becker, der sitzt wenige Tage spät", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-09T09:03:04.681957", "id": "e07c7169e0", "title": "Hannover 96: Ehefrau sauer? Sandro Wagner droht Ärger daheim", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-09T09:03:04.682165", "id": "ea7adfed71", "title": "Hannover 96: Aus für Sportdirektor Ralf Becker", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-09T09:03:04.682377", "id": "d6aa143372", "title": "Hertha BSC: Sorgen um Mads Pedersen", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-09T09:03:04.682595", "id": "f1b11721e0", "title": "Eskalation am Samstagabend: Hertha feiert bei Reese-Rückkehr großes Fußballfest", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-09T09:03:04.682863", "id": "238b83511e", "title": "Reese kaltgestellt, Tor gemacht: Herthas Vorzeigekämpfer jetzt auch Knipser", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-09T09:03:04.683106", "id": "654d145468", "title": "Nerven von KSC-Fans am Limit: „Was Senft zusammen wechselt, geht auf keine Kuhha", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-09T09:03:04.683301", "id": "3e15c357b6", "title": "KSC vor Bochum-Duell: Diese Schwäche des VfL könnte den Badenern den Auswärtssie", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-09T09:03:04.683508", "id": "a96d6c0442", "title": "KSC-Talente überraschen mit Millionen-Plus: Jungstars sorgen für Marktwert-Boom", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-09T09:03:04.683704", "id": "be083cd790", "title": "VfL Bochum: Erste Heimsieg musste mit Spektakel gelingen, Zoller froh über \"Just", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-09T09:03:04.683930", "id": "0ced9f20c1", "title": "Fürths Fußballer legen „Greuther“ ab: Tradition kehrt zum Kleeblatt zurück", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-09T09:03:04.684129", "id": "808e06c59d", "title": "Die ersten Bilder nach der großen Abstimmung: Die Fans feiern ihre \"SpVgg Fürth\"", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-09T09:03:04.684324", "id": "5a8601e8a5", "title": "Zweitligist Greuther Fürth beschließt Namensänderung", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-09T09:03:04.684538", "id": "9a77f83757", "title": "Gedenkveranstaltung zur Reichspogromnacht in Bochum", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-09T09:03:04.684733", "id": "93db731fbc", "title": "Bochums Derbyheld Luis Pick: 19-Jähriger trifft regelmäßig - das zeichnet das Vf", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-09T09:03:04.684957", "id": "147103b3c5", "title": "Abpfiff", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-09T09:03:04.685149", "id": "9ff1b5f313", "title": "VfL Wolfsburg vs 1. FC Union Berlin - Club Freundschaftsspiele", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-09T09:03:04.685342", "id": "5ee09fab03", "title": "Hertha BSC - VfL Wolfsburg, 07.11.2026: Aufstellungen & Startelf", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-09T09:03:26.552564", "id": "e9ee415cd7", "title": "Holstein Kiel: Mitch Kniat soll übernehmen", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-09T09:03:33.407599", "id": "9205a04d37", "title": "Walter in Kiel vor dem Aus – wird Ex-Arminia-Coach Kniat der Nachfolger?", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-09T09:03:37.410030", "id": "d2c05f8e1f", "title": "Nächster Hannover-Boss muss gehen", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-09T09:03:40.672179", "id": "0d8b43ed26", "title": "Nächstes Personal-Beben in Hannover steht bevor", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-09T09:03:52.766391", "id": "fb784cbce8", "title": "Nächste Entlassung in Hannover", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-09T09:03:53.636352", "id": "6293477106", "title": "FC St. Pauli: Rapp-Aussage sorgt für Stirnrunzeln, Magdeburg-Coach widerspricht", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-09T09:03:56.523705", "id": "ea7e22217d", "title": "Eine defensiv tüchtige Arminia erarbeitet sich ihr Glück", "stage": "stage7", "reason": "zu_wenig_quelltext"}
