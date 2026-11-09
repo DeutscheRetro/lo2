@@ -1887,5 +1887,53 @@
     },
     "published_at": "2026-11-09T09:03:58.134245",
     "source": "MOPO"
+  },
+  {
+    "id": "1bee329154",
+    "generated_title": "Magdeburg bangt um Müsel: Oberschenkelverletzung nach St.-Pauli-Spiel",
+    "original_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcWtsdjJFQUNGbXY3eVZlSk1sSHdOa0N0YVRLbFZyRlNBUHh0VTJ1REtKY2U2eGtEZXkxUV9RRU5sbXNWd1I4WTZDUHlxc1NYZVNpS1FNeXRlT2FOOERDUWI5Z0tGc09UZ0pqTzIzNDJRZGpHcUlHM2lybkNLbnNYTHdyUHZuU1FWc3I4dlV0UXR0RDBMZXc?oc=5",
+    "fingerprint": {
+      "event_type": "verletzung",
+      "main_club": "Magdeburg",
+      "event_stage": "verletzung",
+      "main_teams": [
+        "Magdeburg",
+        "St. Pauli"
+      ],
+      "main_players": [
+        "Torben Müsel",
+        "Falko Michel",
+        "Moritz-Broni Kwarteng"
+      ],
+      "summary": "Magdeburgs Torben Müsel hat sich beim 4:1 gegen St. Pauli am Oberschenkel verletzt, Trainer Petrik Sander befürchtet Schwereres. Auch Falko Michel und Moritz-Broni Kwarteng fehlen im Mittelfeld.",
+      "one_sentence_summary": "Magdeburgs Torben Müsel hat sich beim 4:1 gegen St.",
+      "schluessel": "torben musel|verletzung"
+    },
+    "published_at": "2026-11-09T12:05:09.862252",
+    "source": "Magdeburg Blau-Weiß"
+  },
+  {
+    "id": "76bea3c33a",
+    "generated_title": "St. Pauli: Klein erstmals für Australien nominiert, Startelf im Blick",
+    "original_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVjhXaTBJaGRyeGlnSFhiTUtvX3NTa042em9OS1daYUx6RTVKWjcxa3BqMFF0OGFvREZuQWJnNmh3N3V2QjRtQV9WMEVQYWQxUW9hbXNjWlNKazB3LTE4QjViVVdvcXhmRXJTUmFGTno4NmJnYlZXMEJTVUNrdWJoREFkN0gzZEJIdS14OWI2UkcxVTFsZVF5Z2F3aENUMFVGUlVpcllESjNJdm5XY21oYS02aFJRcjhBcmZFWEFEQXY?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "St. Pauli",
+      "event_stage": "sonstiges",
+      "main_teams": [
+        "Magdeburg",
+        "St. Pauli"
+      ],
+      "main_players": [
+        "Sam Klein",
+        "Marcel Rapp",
+        "Mathias Rasmussen"
+      ],
+      "summary": "St. Paulis Sam Klein wurde erstmals für Australiens A-Nationalteam nominiert und reist zum Testspiel gegen Katar. Trainer Marcel Rapp erwägt nach der 1:4-Niederlage in Magdeburg einen Startelfeinsatz des Joker-Spielers.",
+      "one_sentence_summary": "St.",
+      "schluessel": "sam klein|sonstiges"
+    },
+    "published_at": "2026-11-09T12:05:09.901426",
+    "source": "MOPO"
   }
 ]

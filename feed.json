@@ -1,5 +1,66 @@
 [
   {
+    "id": "76bea3c33a",
+    "titel": "St. Pauli: Klein erstmals für Australien nominiert, Startelf im Blick",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "09.11.2026 12:04",
+    "wappen_url": "logos/stpauli.png",
+    "vereine": [
+      "Magdeburg",
+      "St. Pauli"
+    ],
+    "anriss": "St. Paulis Offensivspieler Sam Klein ist erstmals für die australische A-Nationalmannschaft nominiert worden. Der 22-Jährige reist zusammen mit Connor Metcalfe zu einem Testspiel gegen Katar. Einen Tag nach der Nominierung kam Klein beim 1:4 gegen den 1. FC Magdeburg erneut als Joker zum Einsatz. „Wenn",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "St. Pauli",
+    "pfad": "artikel/st-pauli-klein-erstmals-fuer-australien-nominiert-startelf-im-blick-76bea3c33a.html",
+    "bild_tm": "",
+    "umfrage": null
+  },
+  {
+    "id": "1bee329154",
+    "titel": "Magdeburg bangt um Müsel: Oberschenkelverletzung gegen St. Pauli",
+    "kategorie": "verletzung",
+    "badge": "Verletzung",
+    "badge_bg": "#e53935",
+    "badge_fg": "#fff",
+    "datum": "09.11.2026 12:03",
+    "wappen_url": "logos/magdeburg.png",
+    "vereine": [
+      "Magdeburg",
+      "St. Pauli"
+    ],
+    "anriss": "Torben Müsel hat sich beim 4:1-Heimsieg des 1. FC Magdeburg gegen den FC St. Pauli in der Nachspielzeit am Oberschenkel verletzt. Plötzlich saß der Mittelfeldspieler auf dem Rasen der Avent Arena und hielt sich den Oberschenkel. Dem Stammspieler droht eine Pause. „So wie es aussieht,",
+    "spielerstatus": [
+      {
+        "spieler": "Müsel",
+        "klub": "Magdeburg",
+        "status": "fraglich",
+        "grund": "Oberschenkelverletzung, Diagnose steht aus"
+      },
+      {
+        "spieler": "Michel",
+        "klub": "Magdeburg",
+        "status": "fraglich",
+        "grund": "muskuläre Probleme"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Magdeburg",
+    "pfad": "artikel/magdeburg-bangt-um-muesel-oberschenkelverletzung-nach-st-pauli-spiel-1bee329154.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "reaktion",
+      "frage": "",
+      "antworten": [
+        "💚 Gute Besserung"
+      ]
+    }
+  },
+  {
     "id": "c14db73d2c",
     "titel": "St. Pauli ohne Oppie: Rapp hat mehrere Alternativen",
     "kategorie": "aufstellung",
@@ -25,13 +86,7 @@
     "hauptklub": "St. Pauli",
     "pfad": "artikel/st-pauli-ohne-oppie-rapp-hat-mehrere-alternativen-c14db73d2c.html",
     "bild_tm": "",
-    "umfrage": {
-      "typ": "reaktion",
-      "frage": "",
-      "antworten": [
-        "💚 Gute Besserung"
-      ]
-    }
+    "umfrage": null
   },
   {
     "id": "cfdff13ffe",
@@ -46,7 +101,7 @@
       "Hannover",
       "Heidenheim"
     ],
-    "anriss": "Hannover 96 trennt sich von Sportdirektor Ralf Becker. Nach der Entlassung von Geschäftsführer Jonas Boldt ist er der nächste sportlich Verantwortliche, der den Klub verlassen muss. Die Trennung soll nach Informationen der Sport Bild in den nächsten Stunden offiziell verkündet werden. Becker erfuhr laut Bericht",
+    "anriss": "Hannover 96 trennt sich von Sportdirektor Ralf Becker. Nach der Entlassung von Geschäftsführer Jonas Boldt ist er der nächste sportlich Verantwortliche, der den Klub verlassen muss. Die Trennung soll in den nächsten Stunden offiziell verkündet werden. Becker erfuhr laut Bericht noch vor dem Spiel in",
     "spielerstatus": [],
     "formation": "",
     "hauptklub": "Hannover",
@@ -56,7 +111,7 @@
   },
   {
     "id": "a53f453ba2",
-    "titel": "Hertha: Zeefuik trifft, Sorgen um Pedersen",
+    "titel": "Hertha: Zeefuik trifft gegen Wolfsburg, Sorgen um Pedersen",
     "kategorie": "news",
     "badge": "News",
     "badge_bg": "#e8c000",
@@ -67,7 +122,7 @@
       "Hertha",
       "Wolfsburg"
     ],
-    "anriss": "Herthas Außenverteidiger Deyo Zeefuik hat beim 2:1 gegen den VfL Wolfsburg das 2:0 erzielt und Trainer Stefan Leitl vor eine angenehme Frage gestellt. Gleichzeitig sorgt sich der Tabellenführer um Mads Pedersen, der an Muskelproblemen im Oberschenkel laboriert. Zeefuik spielte gegen Wolfsburg auf der rechten Seite",
+    "anriss": "Herthas Außenverteidiger Deyo Zeefuik hat beim 2:1 gegen den VfL Wolfsburg das 2:0 erzielt. Für Trainer Stefan Leitl wird die Auswahl auf den Außenpositionen damit noch schwieriger. Gleichzeitig sorgt sich der Tabellenführer um Mads Pedersen, der an Muskelproblemen im Oberschenkel laboriert. Zeefuik spielte gegen Wolfsburg",
     "spielerstatus": [
       {
         "spieler": "Pedersen",
@@ -101,7 +156,7 @@
       "Bochum",
       "Karlsruhe"
     ],
-    "anriss": "Der VfL Bochum hat seinen ersten Heimsieg der Saison eingefahren. Die Mannschaft von Trainer Uwe Rösler gewann gegen den Karlsruher SC mit 3:2 (1:1). Doppeltorschütze Philipp Hofmann entschied die Partie in der Nachspielzeit (90.+2). Bochum ging früh durch Christian Rasmussen (6.) in Führung, Kevin Wiethaup",
+    "anriss": "Der VfL Bochum hat seinen ersten Heimsieg der Saison eingefahren. Die Mannschaft von Trainer Uwe Rösler gewann gegen den Karlsruher SC mit 3:2 (1:1). Doppeltorschütze Philipp Hofmann entschied die Partie in der Nachspielzeit (90.+2). Bochum ging früh durch Christian Rasmussen (6.) in Führung. Kevin Wiethaup",
     "spielerstatus": [],
     "formation": "",
     "hauptklub": "Bochum",
