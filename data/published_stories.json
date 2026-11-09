@@ -1816,5 +1816,52 @@
     },
     "published_at": "2026-11-08T21:05:16.273504",
     "source": "SPOX.com"
+  },
+  {
+    "id": "a53f453ba2",
+    "generated_title": "Hertha: Zeefuik trifft, Sorgen um Pedersen",
+    "original_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRFlHVUN5TnJvVm1vUzBFX2w4bUdCOXhwV3NRUmF0cEN0NWJaTHpHVzVpU1JfUDhLM21aSVBiYWc5eDlCWVZ0R0FnaVBwdWxjWjU4eWJ3UHhXRi1OeVJKR2hKVWhIc1Z3Vlg0UExXdHpJa2Nyd2ZtUmxpU0FRejY3LVpyV1FOSUZHOV9ka013LWtNQUhqUVh1ME9xUWhWbDJEVmNlb25XYmo5TjVPUzZTcA?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Hertha",
+      "event_stage": "fraglich",
+      "main_teams": [
+        "Hertha",
+        "Wolfsburg"
+      ],
+      "main_players": [
+        "Deyo Zeefuik",
+        "Mads Pedersen",
+        "Stefan Leitl"
+      ],
+      "summary": "Deyo Zeefuik traf beim 2:1 der Hertha gegen Wolfsburg zum 2:0 und verschärft die Konkurrenz auf den Außenverteidigerpositionen. Mads Pedersen wird wegen Oberschenkelproblemen untersucht, sein Einsatz in Cottbus ist offen.",
+      "one_sentence_summary": "Deyo Zeefuik traf beim 2:1 der Hertha gegen Wolfsburg zum 2:0 und verschärft die Konkurrenz auf den Außenverteidigerpositionen.",
+      "schluessel": "deyo zeefuik|verletzung"
+    },
+    "published_at": "2026-11-09T06:05:48.317930",
+    "source": "Berliner Kurier"
+  },
+  {
+    "id": "cfdff13ffe",
+    "generated_title": "Hannover 96 trennt sich von Sportdirektor Ralf Becker",
+    "original_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdG91SUNzYUM4dGtzc0pLOGwwV1ZVaTI1Rk8wc0dBM2NqeEhrQmUxeGNBQnBiTWFaMXpDNkEtZXUybFRRODM2all4Q2gyMXdWdjVYRTlfRUVraXVZX2ItTDh2QW9BUC14V3BBWDloOWstc21oQjFnX2tPS1ZmWk9BRldteFNBUm9uMG8wYnZ4cFpCWnlGeFBPQWZDcVI5Mk9mR2hpNExrMU11Z1UzZnBnckM4ajFtS1N1NllxaDlMUFdVVW8?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Hannover",
+      "event_stage": "entlassung",
+      "main_teams": [
+        "Hannover",
+        "Heidenheim"
+      ],
+      "main_players": [
+        "Ralf Becker",
+        "Sandro Wagner"
+      ],
+      "summary": "Hannover 96 hat Sportdirektor Ralf Becker freigestellt, nachdem zuvor Geschäftsführer Jonas Boldt gehen musste. Hauptgesellschafter Martin Kind sucht einen neuen Sportchef, der zeitnah präsentiert werden soll.",
+      "one_sentence_summary": "Hannover 96 hat Sportdirektor Ralf Becker freigestellt, nachdem zuvor Geschäftsführer Jonas Boldt gehen musste.",
+      "schluessel": "ralf becker|trainer"
+    },
+    "published_at": "2026-11-09T06:05:48.368939",
+    "source": "Sport Bild"
   }
 ]

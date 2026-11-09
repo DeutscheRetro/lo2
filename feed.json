@@ -1,5 +1,60 @@
 [
   {
+    "id": "cfdff13ffe",
+    "titel": "Hannover 96 trennt sich von Sportdirektor Ralf Becker",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "09.11.2026 06:05",
+    "wappen_url": "logos/hannover.png",
+    "vereine": [
+      "Hannover",
+      "Heidenheim"
+    ],
+    "anriss": "Hannover 96 trennt sich von Sportdirektor Ralf Becker. Nach der Entlassung von Geschäftsführer Jonas Boldt ist er der nächste sportlich Verantwortliche, der den Klub verlassen muss. Die Trennung soll nach Informationen der Sport Bild in den nächsten Stunden offiziell verkündet werden. Becker erfuhr laut Bericht",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Hannover",
+    "pfad": "artikel/hannover-96-trennt-sich-von-sportdirektor-ralf-becker-cfdff13ffe.html",
+    "bild_tm": "",
+    "umfrage": null
+  },
+  {
+    "id": "a53f453ba2",
+    "titel": "Hertha: Zeefuik trifft, Sorgen um Pedersen",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "09.11.2026 06:04",
+    "wappen_url": "logos/hertha.png",
+    "vereine": [
+      "Hertha",
+      "Wolfsburg"
+    ],
+    "anriss": "Herthas Außenverteidiger Deyo Zeefuik hat beim 2:1 gegen den VfL Wolfsburg das 2:0 erzielt und Trainer Stefan Leitl vor eine angenehme Frage gestellt. Gleichzeitig sorgt sich der Tabellenführer um Mads Pedersen, der an Muskelproblemen im Oberschenkel laboriert. Zeefuik spielte gegen Wolfsburg auf der rechten Seite",
+    "spielerstatus": [
+      {
+        "spieler": "Pedersen",
+        "klub": "Hertha",
+        "status": "fraglich",
+        "grund": "Oberschenkelproblem, Untersuchung steht aus"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Hertha",
+    "pfad": "artikel/hertha-zeefuik-trifft-sorgen-um-pedersen-a53f453ba2.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "reaktion",
+      "frage": "",
+      "antworten": [
+        "💚 Gute Besserung"
+      ]
+    }
+  },
+  {
     "id": "7a8fa55fea",
     "titel": "Hofmann trifft doppelt: Bochum schlägt Karlsruhe trotz Civejas Traumtor 3:2",
     "kategorie": "news",
