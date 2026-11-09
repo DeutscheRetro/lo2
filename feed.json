@@ -1,5 +1,92 @@
 [
   {
+    "id": "fdf1491864",
+    "titel": "Darmstadt hält an Trainer Florian Kohfeldt fest",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "09.11.2026 18:05",
+    "wappen_url": "logos/darmstadt.png",
+    "vereine": [
+      "Darmstadt"
+    ],
+    "anriss": "Der SV Darmstadt 98 setzt trotz der sportlichen Krise weiter auf Trainer Florian Kohfeldt. Der Zweitligist teilte am Montag mit, dass der 44-Jährige im Amt bleibt. Die Lilien verbringen die Länderspielpause auf Platz 17. Zuvor hatte die 0:2-Niederlage in Nürnberg die Kritik verschärft. Darmstadt wartet",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Darmstadt",
+    "pfad": "artikel/darmstadt-haelt-an-trainer-florian-kohfeldt-fest-fdf1491864.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "recht",
+      "frage": "Hat Fernie recht mit seinem Vertrauen in Kohfeldts Arbeit?",
+      "antworten": [
+        "Ja",
+        "Nein"
+      ]
+    }
+  },
+  {
+    "id": "b8eb277b0c",
+    "titel": "Herthas Soufian Gouram: Vertrag läuft aus, mehrere Klubs interessiert",
+    "kategorie": "transfer",
+    "badge": "Transfer",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "09.11.2026 18:05",
+    "wappen_url": "logos/hertha.png",
+    "vereine": [
+      "Hertha"
+    ],
+    "anriss": "Hertha BSCs Eigengewächs Soufian Gouram weckt Begehrlichkeiten. Der Vertrag des 20-Jährigen läuft am Saisonende aus. Ab dem 1. Januar 2027 könnte er sich offiziell mit einem neuen Verein einigen. Laut Bild hat er mehrere Optionen im In- und Ausland. Neben Zweitliga-Konkurrent VfL Wolfsburg sollen aus",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Hertha",
+    "pfad": "artikel/herthas-soufian-gouram-vertrag-laeuft-aus-mehrere-klubs-interessiert-b8eb277b0c.html",
+    "bild_tm": "",
+    "umfrage": null
+  },
+  {
+    "id": "6081a8209d",
+    "titel": "Kyereh kehrt nach fast vier Jahren in Ghanas Nationalelf zurück",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "09.11.2026 18:05",
+    "wappen_url": "logos/osnabrueck.png",
+    "vereine": [
+      "Osnabrück"
+    ],
+    "anriss": "Osnabrücks Offensivspieler Daniel Kofi Kyereh ist für die Nationalmannschaft Ghanas nominiert worden. Der 30-Jährige bestreitet in der Länderspielpause zwei Gruppenspiele der Afrika-Cup-Qualifikation gegen Somalia. Es ist seine erste Berufung nach fast vierjähriger Pause. Zuletzt trug Kyereh am 2. Dezember 2022 das Trikot seines Geburtslandes. Bei",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Osnabrück",
+    "pfad": "artikel/kyereh-kehrt-nach-fast-vier-jahren-in-ghanas-nationalelf-zurueck-6081a8209d.html",
+    "bild_tm": "",
+    "umfrage": null
+  },
+  {
+    "id": "bee1821a57",
+    "titel": "Kiel trennt sich von Trainer Tim Walter",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "09.11.2026 18:04",
+    "wappen_url": "logos/kiel.png",
+    "vereine": [
+      "Kiel"
+    ],
+    "anriss": "Holstein Kiel hat sich von Trainer Tim Walter getrennt. Wie die „Kieler Nachrichten“ berichten, wurde dem 51-Jährigen die Entscheidung am Montag gegen 17 Uhr mitgeteilt. Die Störche stehen nach elf Spieltagen am Tabellenende der 2. Bundesliga. Zuletzt verloren die Kieler bei der SpVgg Greuther Fürth",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Kiel",
+    "pfad": "artikel/kiel-trennt-sich-von-trainer-tim-walter-bee1821a57.html",
+    "bild_tm": "",
+    "umfrage": null
+  },
+  {
     "id": "21226d5f23",
     "titel": "Wolfsburgs Saël Kumbedi erstmals in Frankreichs A-Nationalmannschaft",
     "kategorie": "news",
@@ -31,7 +118,7 @@
     "vereine": [
       "Nürnberg"
     ],
-    "anriss": "Piet Scobel hat sich beim 1. FC Nürnberg vom Oberliga-Stürmer zum Stammspieler in der 2. Bundesliga entwickelt. Beim 2:0 gegen den SV Darmstadt 98 am Samstag erzielte der 21-Jährige sein sechstes Saisontor. Mit dem Heimsieg festigte der Club den zweiten Tabellenplatz. Die Mannschaft von Trainer",
+    "anriss": "Piet Scobel hat sich beim 1. FC Nürnberg vom Oberliga-Stürmer zum Stammspieler in der 2. Bundesliga entwickelt. Beim 2:0 gegen den SV Darmstadt 98 am Samstag erzielte der 21-Jährige sein sechstes Saisontor. Die Mannschaft von Trainer Miroslav Klose tat sich lange schwer, zur Pause stand",
     "spielerstatus": [],
     "formation": "",
     "hauptklub": "Nürnberg",
@@ -51,7 +138,7 @@
     "vereine": [
       "Heidenheim"
     ],
-    "anriss": "Heidenheims Flügelstürmer Sirlord Conteh hat nach knapp siebeneinhalb Monaten Verletzungspause sein Comeback gegeben. Im Heimspiel gegen Hannover 96 wurde er in der 75. Minute eingewechselt. Vom Trainer gab es eine herzliche Umarmung, von den Fans tosenden Applaus. „Das war schon sehr emotional. Ich habe mich",
+    "anriss": "Sirlord Conteh hat nach knapp siebeneinhalb Monaten Pause sein Comeback für den 1. FC Heidenheim gegeben. Im Heimspiel gegen Hannover 96 wurde der Flügelstürmer in der 75. Minute eingewechselt. Vom Trainer gab es eine herzliche Umarmung, von den Fans tosenden Applaus. Hinter dem 30-Jährigen liegt",
     "spielerstatus": [],
     "formation": "",
     "hauptklub": "Heidenheim",
