@@ -208,5 +208,75 @@
     },
     "published_at": "2026-11-09T00:25:42.383703",
     "source": "WDR"
+  },
+  {
+    "id": "0ecaa6239d",
+    "generated_title": "Regensburg verliert in Meppen 1:2 und bleibt im Tabellenkeller",
+    "original_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcjUwY1pqMXR4MUFDTGxhQXFyOHlKR2E3RHZuLXg3alhDSmNvMFZTT19fTEhpSm1XdlFCSXZXVzVWbVpUa2dDZ2ZTeWdBaEdDT0Nyek5sTVBNYjkzSE10ckltX2dZMF9hMmJ5enpCcHhfT3UxTlJVQXlfR3RlVlhfUHZCNkFYeWlQM2Z1ek91a09GUHBadkhHTlVjZmVnUQ?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Regensburg",
+      "event_stage": "spielbericht",
+      "main_teams": [
+        "Meppen",
+        "Regensburg"
+      ],
+      "main_players": [
+        "Sascha Hildmann",
+        "Malte Karbstein"
+      ],
+      "summary": "Regensburg verliert beim SV Meppen 1:2 und steht mit 13 Punkten aus 13 Spielen auf Platz 16. Gegen Blau-Weiß Linz folgt ein Test, im nächsten Ligaspiel fehlen Bauer und Wurm.",
+      "one_sentence_summary": "Regensburg verliert beim SV Meppen 1:2 und steht mit 13 Punkten aus 13 Spielen auf Platz 16.",
+      "schluessel": "sascha hildmann|spiel"
+    },
+    "published_at": "2026-11-09T19:13:03.331228",
+    "source": "Onetz"
+  },
+  {
+    "id": "5d20f7b064",
+    "generated_title": "VfB Stuttgart II gewinnt gegen Verl dank van der Leijs Elfmeter",
+    "original_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcUVCMnBCRU1WdS1Wei1iOF9pMjAxY0g2cTI5RVFJZHhLb3lhVExDcGxfLXRJdEFHbW9VVnlsWDhuUjQxclRIUnQxaXpvWHAxOUZsclM3TXBJeGdabXFsMmlmVmtNN09VcFRkTS1vSFU0eHp6VG0tTlJiZnllLXNJSzJ2TGp1MEpQRVV2a0JJLW5CWW9uSnhaU1M3XzJsQlAzMFRiUWNrYWZ3QQ?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Stuttgart II",
+      "event_stage": "spielbericht",
+      "main_teams": [
+        "Stuttgart II",
+        "Verl"
+      ],
+      "main_players": [
+        "Tim van der Leij",
+        "Nico Willig",
+        "Dan-Axel Zagadou"
+      ],
+      "summary": "Stuttgart II besiegt den SC Verl 1:0, van der Leij trifft per Elfmeter zum 500. Drittliga-Tor des VfB. Zagadou feiert nach Verletzungspause ein Kurzcomeback, Rölke fehlte wegen einer Fußentzündung.",
+      "one_sentence_summary": "Stuttgart II besiegt den SC Verl 1:0, van der Leij trifft per Elfmeter zum 500.",
+      "schluessel": "tim van der leij|spiel"
+    },
+    "published_at": "2026-11-09T19:13:03.388240",
+    "source": "Wochenblatt Reporter"
+  },
+  {
+    "id": "41a2914706",
+    "generated_title": "Fortuna Düsseldorf: Lord fällt wochenlang mit Rippenverletzung aus",
+    "original_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX1hiR2JjaHRpQ1E0NmhfLXAza1pFdEpBSURFQ1hYUjRwNGdKV3FEaTUxQjVSYW5zYjdLTW1peXd5aFlvcEVIczh6UEdSY3BXcVJpWkNlMnhfOWNrcG5lS1hld2o1SmlvSFJkcmRwS3VTdFhkUnJRWmVQdE9BR21HbmV0TE5IdnF4X3BIclpDMkFOMC1seXBhUndLQVJoN3huNXdUblB6X1dPQzFmemV0cmRsLWYzMGZraXJWY1VnSGRvSTg?oc=5",
+    "fingerprint": {
+      "event_type": "verletzung",
+      "main_club": "Düsseldorf",
+      "event_stage": "verletzung",
+      "main_teams": [
+        "Düsseldorf"
+      ],
+      "main_players": [
+        "Louis Lord",
+        "Lasse Rieß",
+        "Jens Langeneke"
+      ],
+      "summary": "Düsseldorfs Torhüter Louis Lord fällt nach einer Rippen-Thorax-Verletzung wochenlang aus. Lasse Rieß muss ihn vertreten, Trainer Jens Langeneke setzt auf ihn.",
+      "one_sentence_summary": "Düsseldorfs Torhüter Louis Lord fällt nach einer Rippen-Thorax-Verletzung wochenlang aus.",
+      "schluessel": "louis lord|verletzung"
+    },
+    "published_at": "2026-11-09T19:13:03.445954",
+    "source": "BILD"
   }
 ]

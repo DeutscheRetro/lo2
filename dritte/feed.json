@@ -1,5 +1,109 @@
 [
   {
+    "id": "5d20f7b064",
+    "titel": "VfB Stuttgart II gewinnt gegen Verl dank van der Leijs Elfmeter",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "09.11.2026 19:11",
+    "wappen_url": "logos/stuttgart2.png",
+    "vereine": [
+      "Stuttgart II",
+      "Verl"
+    ],
+    "anriss": "Die U21 des VfB Stuttgart hat ihr Heimspiel in der 3. Liga gegen den SC Verl mit 1:0 gewonnen. Tim van der Leij erzielte in der 66. Minute den entscheidenden Treffer per Elfmeter. Es war zugleich das 500. Tor des VfB in der Drittliga-Historie. Nach",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Stuttgart II",
+    "pfad": "artikel/vfb-stuttgart-ii-gewinnt-gegen-verl-dank-van-der-leijs-elfmeter-5d20f7b064.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    }
+  },
+  {
+    "id": "41a2914706",
+    "titel": "Fortuna Düsseldorf: Lord fällt wochenlang mit Rippenverletzung aus",
+    "kategorie": "verletzung",
+    "badge": "Verletzung",
+    "badge_bg": "#e53935",
+    "badge_fg": "#fff",
+    "datum": "09.11.2026 19:11",
+    "wappen_url": "logos/duesseldorf.png",
+    "vereine": [
+      "Düsseldorf"
+    ],
+    "anriss": "Fortuna Düsseldorf muss wochenlang auf Torhüter Louis Lord verzichten. Der Leihspieler von Mainz 05 zog sich beim 2:3 in Ingolstadt eine Rippen-Thorax-Verletzung zu und musste nach einer halben Stunde ausgewechselt werden. Düsseldorf führte zu diesem Zeitpunkt 2:0. Eine CT-Untersuchung brachte Klarheit: Immerhin ist keine Rippe",
+    "spielerstatus": [
+      {
+        "spieler": "Lord",
+        "klub": "Düsseldorf",
+        "status": "faellt_aus",
+        "grund": "Rippen-Thorax-Verletzung, wochenlange Pause"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Düsseldorf",
+    "pfad": "artikel/fortuna-duesseldorf-lord-faellt-wochenlang-mit-rippenverletzung-aus-41a2914706.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "reaktion",
+      "frage": "",
+      "antworten": [
+        "💚 Gute Besserung"
+      ]
+    }
+  },
+  {
+    "id": "0ecaa6239d",
+    "titel": "Regensburg verliert in Meppen 1:2 und bleibt im Tabellenkeller",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "09.11.2026 19:10",
+    "wappen_url": "logos/regensburg.png",
+    "vereine": [
+      "Meppen",
+      "Regensburg"
+    ],
+    "anriss": "Der SSV Jahn Regensburg hat beim SV Meppen mit 1:2 verloren und geht mit 13 Punkten aus 13 Spielen als Tabellen-16. in die Länderspielpause. Die Oberpfälzer verpassten es damit, sich aus dem Tabellenkeller zu lösen. Die Gastgeber gingen schon nach vier Minuten in Führung. Eine",
+    "spielerstatus": [
+      {
+        "spieler": "Bauer",
+        "klub": "Regensburg",
+        "status": "faellt_aus",
+        "grund": "Gelb-Rot in Meppen"
+      },
+      {
+        "spieler": "Wurm",
+        "klub": "Regensburg",
+        "status": "faellt_aus",
+        "grund": "fünfte Gelbe Karte"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Regensburg",
+    "pfad": "artikel/regensburg-verliert-in-meppen-1-2-und-bleibt-im-tabellenkeller-0ecaa6239d.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    }
+  },
+  {
     "id": "e465043963",
     "titel": "Verl verliert auch bei Stuttgart II: Elfmeter sorgt für Frust",
     "kategorie": "analyse",
