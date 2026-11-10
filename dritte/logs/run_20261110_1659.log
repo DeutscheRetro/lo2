@@ -1,0 +1,139 @@
+2026-11-10 16:59:20,368 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 1 passende Treffer
+2026-11-10 16:59:20,368 INFO S7 Ersatzquelle liefert Text (120 Wörter, 1 Quellen): Kimmich nach Rückkehr: Hier am absolut richtigen Ort
+2026-11-10 16:59:20,368 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 0 passende Treffer
+2026-11-10 16:59:20,368 INFO FinalCheck SKIP: borussia mönchengladbach/{'max muster'} stage=geruecht bereits in Archiv
+2026-11-10 16:59:20,368 INFO FinalCheck SKIP: borussia mönchengladbach/set() stage=geruecht bereits in Archiv
+2026-11-10 16:59:37,889 INFO 💶 Budget: dieser Lauf 0.000 $ | heute 0.00 $ | Monat 0.00 / 0 $
+2026-11-10 16:59:37,891 INFO URL-Cache geladen: 1356 bekannte URLs (letzte 30 Tage)
+2026-11-10 16:59:37,891 INFO === LO Generator startet – max. 50 Artikel ===
+2026-11-10 16:59:37,891 INFO Feed: https://newsfeed.kicker.de/news/3-liga
+2026-11-10 16:59:38,137 INFO Feed: https://www.sport.de/rss/news/
+2026-11-10 16:59:38,554 INFO Feed: https://www.11freunde.de/feed
+2026-11-10 16:59:39,420 WARNING Spielerliste nicht verfügbar: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-10 16:59:39,420 INFO BL-Spielerliste geladen: 0 Namen
+2026-11-10 16:59:39,420 INFO S3 keyword miss: Die große Umfrage zum Fußballjahr: Fallon d’Floor 2026
+2026-11-10 16:59:39,420 INFO S2 kein BL-Klub im Titel: 2. Bundesliga: Hertha schlägt VfL bei Reese-Rückkehr, Walter
+2026-11-10 16:59:39,422 INFO S3 keyword miss: „Ballers in God“: Felix Nmecha äußert sich zu umstrittenem T
+2026-11-10 16:59:39,423 INFO S3 keyword miss: „Kinder an die Macht“ – die 11FREUNDE-Kurvenschau
+2026-11-10 16:59:39,424 INFO Feed: https://news.google.com/rss/search?q=%223.+Liga%22&hl=de&gl=DE&ceid=DE:de
+2026-11-10 16:59:39,942 INFO S3 keyword miss: Abstiegskampf statt Aufstiegsträume: Fortuna-Sorgen werden g
+2026-11-10 16:59:39,946 INFO S3 keyword miss: 3. Liga: Das Männer-Zahlenspiel #11 der Woche
+2026-11-10 16:59:39,947 INFO S3 keyword miss: Spieltagsterminierung 19. & 20. Spieltag
+2026-11-10 16:59:39,947 INFO S2 blacklist: 3. Liga: Das Frauen-Zahlenspiel #8 der Woche
+2026-11-10 16:59:39,950 INFO S3 keyword miss: 2. Liga: Offiziell! Neuer Kiel-Trainer ist da und bringt zwe
+2026-11-10 16:59:39,952 INFO S3 keyword miss: Bayern kämpft um seine eigene Regionalliga
+2026-11-10 16:59:39,954 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Verletzung+Ausfall+gesperrt&hl=de&gl=DE&ceid=DE:de
+2026-11-10 16:59:40,259 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Transfer+Wechsel+verpflichtet&hl=de&gl=DE&ceid=DE:de
+2026-11-10 16:59:40,593 INFO S3 keyword miss: Wechsel-Beben beim KSC: Das sind alle Transfers der Saison 2
+2026-11-10 16:59:40,594 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Ger%C3%BCcht+Interesse+Angebot&hl=de&gl=DE&ceid=DE:de
+2026-11-10 16:59:40,953 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Vertrag+verl%C3%A4ngert+abl%C3%B6sefrei&hl=de&gl=DE&ceid=DE:de
+2026-11-10 16:59:41,330 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Trainer+Entlassung&hl=de&gl=DE&ceid=DE:de
+2026-11-10 16:59:41,686 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Saarbr%C3%BCcken%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 16:59:42,047 INFO S3 keyword miss: Einfach unschlagbar: FCS lässt sich vom Erzrivalen SVE nicht
+2026-11-10 16:59:42,049 INFO S3 keyword miss: Patrick Franziska: Bester Deutscher der Tischtennis-Weltrang
+2026-11-10 16:59:42,050 INFO S3 keyword miss: Grand Slam of Darts | Finale Live Stream | Jetzt Anmelden | 
+2026-11-10 16:59:42,052 INFO S3 keyword miss: Entscheidung fällt zeitnah: Fortuna hat Lord-Ersatz im Visie
+2026-11-10 16:59:42,053 INFO S2 kein BL-Klub im Titel: SV Elversberg zieht Bilanz bei Mitgliederversammlung
+2026-11-10 16:59:42,053 INFO S2 kein BL-Klub im Titel: SV Elversberg: Gelenkzentrum wird Business-Partner
+2026-11-10 16:59:42,054 INFO Feed: https://news.google.com/rss/search?q=%22Alemannia+Aachen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 16:59:42,307 INFO Feed: https://news.google.com/rss/search?q=%22FC+Ingolstadt%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 16:59:42,630 INFO Feed: https://news.google.com/rss/search?q=%22Fortuna+D%C3%BCsseldorf%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 16:59:42,995 INFO S3 keyword miss: „Aufstiegsträume früh vorbei“ – Fortuna-Fans haken Zweitliga
+2026-11-10 16:59:42,999 INFO S3 keyword miss: U21-Europameister verfügbar: Lord fällt länger aus – diese v
+2026-11-10 16:59:43,001 INFO S3 keyword miss: Drei Spiele, kein Sieg: Trainereffekt verpufft? Mannschaft h
+2026-11-10 16:59:43,003 INFO S3 keyword miss: Lord-Diagnose steht fest: Ausfallzeit kürzer als befürchtet 
+2026-11-10 16:59:43,005 INFO S3 keyword miss: „Natürlich hätte ich Lust“ – Sobottka aktuell in Sonderrolle
+2026-11-10 16:59:43,006 INFO S3 keyword miss: Auf dem Weg in den Abstiegskampf: Das ist der Kader von Fort
+2026-11-10 16:59:43,008 INFO S3 keyword miss: „Werden nicht zusammenbrechen“ – Langeneke will Fortuna-Fans
+2026-11-10 16:59:43,010 INFO S3 keyword miss: Welche Kandidaten für den Fortuna-Aufsichtsrat auffallen
+2026-11-10 16:59:43,010 INFO Feed: https://news.google.com/rss/search?q=%22Fortuna+K%C3%B6ln%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 16:59:43,305 INFO S3 keyword miss: Fortuna setzt in der Krise weiter auf Mink
+2026-11-10 16:59:43,306 INFO S3 keyword miss: Verls Verwaltungsrat stärkt Shala
+2026-11-10 16:59:43,307 INFO Feed: https://news.google.com/rss/search?q=%22Hansa+Rostock%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 16:59:43,641 INFO S2 blacklist: Nach Hakenkreuz-Skandal: Großaufgebot der Polizei durchsucht
+2026-11-10 16:59:43,648 INFO S3 keyword miss: Frammersbacher schießt Bayern zum Sieg
+2026-11-10 16:59:43,648 INFO Feed: https://news.google.com/rss/search?q=%22Jahn+Regensburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 16:59:43,977 INFO S3 keyword miss: VfB Eichstätt
+2026-11-10 16:59:43,978 INFO Feed: https://news.google.com/rss/search?q=%22MSV+Duisburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 16:59:44,461 INFO S3 keyword miss: Kalte Jahreszeit: Vereine rufen zu Kleiderspenden für Obdach
+2026-11-10 16:59:44,462 INFO S3 keyword miss: Er hat keinen Führerschein: Mann (22) setzt sich immer wiede
+2026-11-10 16:59:44,463 INFO Feed: https://news.google.com/rss/search?q=%22Preu%C3%9Fen+M%C3%BCnster%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 16:59:44,783 INFO S2 blacklist: SC Wiedenbrück siegt 5:1 in Lotte: Ein erster Schritt – und 
+2026-11-10 16:59:44,785 INFO S3 keyword miss: Hammergruppe für Freckenhorst, gute Chancen für Warendorf
+2026-11-10 16:59:44,785 INFO S2 kein BL-Klub im Titel: News, Sport: Holstein Kiel entlässt Cheftrainer Walter
+2026-11-10 16:59:44,786 INFO Feed: https://news.google.com/rss/search?q=%22Rot-Weiss+Essen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 16:59:45,159 INFO S2 kein BL-Klub im Titel: FC Erzgebirge Aue
+2026-11-10 16:59:45,159 INFO S2 blacklist: Rot-Weiss Essen: RWE-Sportdirektor Flüthmann: Seine Rolle be
+2026-11-10 16:59:45,160 INFO S2 blacklist: Zwei Spiele, zwei Siegtore: Wie Abiama bei RWE plötzlich zum
+2026-11-10 16:59:45,162 INFO S3 keyword miss: Nächste Blamage! Essens ehemaliger Nummer eins droht der his
+2026-11-10 16:59:45,162 INFO Feed: https://news.google.com/rss/search?q=%22SC+Verl%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 16:59:45,538 INFO S2 kein BL-Klub im Titel: Nach Aus von Ex-HSV-Coach: Kiel hat „Gesamtpaket“ als Walter
+2026-11-10 16:59:45,539 INFO S2 kein BL-Klub im Titel: Sport - Mitch Kniat neuer Cheftrainer von Holstein Kiel
+2026-11-10 16:59:45,539 INFO Feed: https://news.google.com/rss/search?q=%22Sonnenhof+Gro%C3%9Faspach%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 16:59:45,812 INFO S3 keyword miss: Artikel Druckansicht
+2026-11-10 16:59:45,813 INFO Feed: https://news.google.com/rss/search?q=%22SV+Meppen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 16:59:46,140 INFO S3 keyword miss: Gerd Bohnsack
+2026-11-10 16:59:46,142 INFO S3 keyword miss: „Hoffe, dass wir da eine Lösung hinbekommen“: DFB setzt bei 
+2026-11-10 16:59:46,143 INFO S2 blacklist: HSV-Blog: Traditionsduell läuft im Free-TV
+2026-11-10 16:59:46,145 INFO S3 keyword miss: Tabellenletzter: Wie die SG TSG Burg Gretesch/OSC mit neuer 
+2026-11-10 16:59:46,146 INFO S3 keyword miss: 15. Martinslauf des SV Groß Hesepe begeistert mit großen Sta
+2026-11-10 16:59:46,148 INFO S3 keyword miss: Neue Ausstattung sorgt für große Freude bei der F3
+2026-11-10 16:59:46,148 INFO Feed: https://news.google.com/rss/search?q=%22Waldhof+Mannheim%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 16:59:46,454 INFO S3 keyword miss: Gewinnspiel: Zu jung für die Kiste mit Guido Fischer
+2026-11-10 16:59:46,455 INFO S3 keyword miss: Gewinnspiel: Winterabend mit Katja Friedenberg und Thilo Zir
+2026-11-10 16:59:46,459 INFO Feed: https://news.google.com/rss/search?q=%22Wehen+Wiesbaden%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 16:59:46,791 INFO S3 keyword miss: Matheus Camilo vs Jai Herbert | Highlights | Jetzt Anmelden 
+2026-11-10 16:59:46,792 INFO Feed: https://news.google.com/rss/search?q=%22Hoffenheim+II%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 16:59:47,085 INFO S3 keyword miss: Winterszeit auf Schloss Eyrichshof, Prichsenstadt leuchtet u
+2026-11-10 16:59:47,085 INFO Feed: https://news.google.com/rss/search?q=%22TSV+Havelse%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 16:59:47,435 INFO Feed: https://news.google.com/rss/search?q=%22VfB+Stuttgart+II%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 16:59:47,739 INFO Feed: https://news.google.com/rss/search?q=%22Viktoria+K%C3%B6ln%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 16:59:48,014 INFO Feed: https://news.google.com/rss/search?q=%22W%C3%BCrzburger+Kickers%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 16:59:48,369 INFO S3 keyword miss: Trainer verwechselt: Rentschler macht aus Marvin Gnaase den 
+2026-11-10 16:59:48,370 INFO S3 keyword miss: Rolf Vitzthum
+2026-11-10 16:59:48,370 INFO S2 blacklist: SC Obersprockhövel - Beliebtheitsrangliste - Vereine
+2026-11-10 16:59:48,372 INFO S3 keyword miss: Premier League: Medien: Carrick droht Rauswurf bei Mancheste
+2026-11-10 16:59:48,374 INFO S3 keyword miss: Gelchsheim: Von der Jagd zur Verantwortung: Wie die Jäger in
+2026-11-10 16:59:48,375 INFO S3 keyword miss: Fußballprofis setzen auf Braunschweiger Friseur - obwohl er 
+2026-11-10 16:59:48,377 INFO S3 keyword miss: »Muss das erstmal sacken lassen«: Nach dem Lohrer 0:7 in Sch
+2026-11-10 16:59:48,379 INFO S3 keyword miss: Autofahrerin in Passau mit unsicherer Fahrweise gestoppt
+2026-11-10 16:59:48,379 INFO Feed: https://newsfeed.kicker.de/team/1-fc-saarbruecken
+2026-11-10 16:59:48,664 INFO Feed: https://newsfeed.kicker.de/team/alemannia-aachen
+2026-11-10 16:59:49,018 INFO Feed: https://newsfeed.kicker.de/team/fc-ingolstadt-04
+2026-11-10 16:59:49,390 INFO Feed: https://newsfeed.kicker.de/team/fortuna-duesseldorf
+2026-11-10 16:59:49,543 INFO Feed: https://newsfeed.kicker.de/team/hansa-rostock
+2026-11-10 16:59:49,595 INFO Feed: https://newsfeed.kicker.de/team/jahn-regensburg
+2026-11-10 16:59:49,912 INFO Feed: https://newsfeed.kicker.de/team/msv-duisburg
+2026-11-10 16:59:50,199 INFO Feed: https://newsfeed.kicker.de/team/preussen-muenster
+2026-11-10 16:59:50,354 INFO Feed: https://newsfeed.kicker.de/team/rot-weiss-essen
+2026-11-10 16:59:50,637 INFO Feed: https://newsfeed.kicker.de/team/sc-verl
+2026-11-10 16:59:50,699 INFO Feed: https://newsfeed.kicker.de/team/waldhof-mannheim
+2026-11-10 16:59:50,959 INFO Feed: https://newsfeed.kicker.de/team/sv-wehen-wiesbaden
+2026-11-10 16:59:51,266 INFO Feed: https://newsfeed.kicker.de/team/tsg-hoffenheim-ii
+2026-11-10 16:59:51,626 INFO Feed: https://newsfeed.kicker.de/team/tsv-havelse
+2026-11-10 16:59:51,916 INFO Feed: https://newsfeed.kicker.de/team/vfb-stuttgart-ii
+2026-11-10 16:59:52,257 INFO Feed: https://newsfeed.kicker.de/team/fc-viktoria-koeln
+2026-11-10 16:59:52,546 INFO Eingelesen: 70 Schlagzeilen nach den Gratis-Filtern
+2026-11-10 16:59:52,585 INFO S5 Randthema: 3. Liga: MSV Duisburg holt sich für das 125. Vereinsjubiläum prominent
+2026-11-10 16:59:52,586 INFO S5 Randthema: Weihnachtsmarkt Saarbrücken 2026: Fliegender Weihnachtsmann, Riesenrad
+2026-11-10 16:59:52,587 INFO S5: 66 neue Geschichten, 0 schon berichtet, 0 zu wartenden Geschichten ergänzt, 3 warten
+2026-11-10 17:01:46,917 INFO S6 aussortiert (prio_0): Wie bekommt Viktoria Köln das Stadion zweitligatauglich?
+2026-11-10 17:01:46,918 INFO S6 aussortiert (prio_1): Vom Kompromiss zum Fixpunkt: Bitters Schlüsselrolle in der MSV-Defensi
+2026-11-10 17:01:46,918 INFO S6 aussortiert (prio_1): Hansa Rostock: Durchsuchungen nach Hakenkreuz-Fahne bei Testspiel in W
+2026-11-10 17:01:46,918 INFO S6 aussortiert (prio_1): 3. Liga: Mario Basler hofft auf RWE-Aufstieg – und einen Absturz von V
+2026-11-10 17:01:47,195 INFO S7 Ersatzquellen für "Lehrstunde im Topspiel: Saarbrückens "Gesamtkonstr": 0 passende Treffer
+2026-11-10 17:01:47,196 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Lehrstunde im Topspiel: Saarbrückens "Gesamtkonstrukt" ist n
+2026-11-10 17:01:48,562 INFO S7 kein Volltext (too_short_58_words): Sportschau 3. Liga - Matchwinner Abiama besorgt RWE den Sieg
+2026-11-10 17:01:48,856 INFO S7 Ersatzquellen für "Sportschau 3. Liga - Matchwinner Abiama besorgt RW": 0 passende Treffer
+2026-11-10 17:01:48,856 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Sportschau 3. Liga - Matchwinner Abiama besorgt RWE den Sieg
+2026-11-10 17:01:49,261 INFO S7 kein Volltext (too_short_75_words): RWE: Glück für Hofmann - "Gefährdung der Gesundheit des Gege
+2026-11-10 17:01:49,516 INFO S7 Ersatzquellen für "RWE: Glück für Hofmann - "Gefährdung der Gesundhei": 0 passende Treffer
+2026-11-10 17:01:49,516 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): RWE: Glück für Hofmann - "Gefährdung der Gesundheit des Gege
+2026-11-10 17:01:49,518 INFO S9.5 FinalCheck: 0/0 durch
+2026-11-10 17:01:49,519 WARNING Sitemap ohne Spielerseiten: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-10 17:01:49,520 INFO 💶 Kosten: dieser Lauf 0.000 $ (Budget 0.000 $) | heute 0.00 $ | Monat 0.00 / 0 $ | konferenz (abo) 1× 0.000 $
+2026-11-10 17:01:49,520 INFO 🎫 Abo-Verbrauch: 3,910 Tokens rein (davon Cache gelesen 0), 13,102 raus, API-Gegenwert 0.07 $ | konferenz 1×: 3,910/13,102
+2026-11-10 17:01:49,522 INFO Feeds: 45/45 begonnen, nächster Lauf startet bei Nr. 0
+2026-11-10 17:01:49,522 INFO URL-Cache gespeichert: 1506 URLs
+2026-11-10 17:01:49,522 INFO === Fertig. 0 neue Artikel. feed.json: 13 ===
+2026-11-10 17:01:49,522 INFO Stats: {"ts": "20261110_1659", "ingested": 150, "s2_pre_filter": 19, "s3_relevance": 46, "s4_dedup_early": 0, "gesammelt": 70, "geschichten_neu": 66, "s5_archiv_doppelt": 0, "s5_zusammengefuehrt": 0, "s6_aussortiert": 4, "s7_geschrieben": 0, "s7_verworfen": 0, "s5_fulltext_fail": 3, "s8_qa_rejected": 0, "published": 0, "s5_randthema": 2, "kosten": {"lauf_usd": 0.0, "lauf_budget_usd": 0.0, "heute_usd": 0.0, "monat_usd": 0.0, "monatsbudget_usd": 0.0, "aufrufe": {"konferenz (abo)": {"anzahl": 1, "usd": 0.0}}, "guthaben_leer": false, "abo": true, "abo_tokens": {"konferenz": {"aufrufe": 1, "ein": 3910, "cache_schreiben": 0, "cache_lesen": 0, "aus": 13102, "api_wert_usd": 0.0694}}}}
