@@ -1,5 +1,150 @@
 [
   {
+    "id": "2c09e37948",
+    "titel": "Preußen Münster: Schwache Offensive, wacklige Defensive, lange Ausfallliste",
+    "kategorie": "analyse",
+    "badge": "Analyse",
+    "badge_bg": "#6a1fbf",
+    "badge_fg": "#fff",
+    "datum": "10.11.2026 21:46",
+    "wappen_url": "logos/muenster.png",
+    "vereine": [
+      "Münster"
+    ],
+    "anriss": "Preußen Münster steckt in der 3. Liga fest. Nach 13 Spielen steht der SCP auf Rang 14, im Kalenderjahr 2026 gelangen aus 30 Punktspielen nur fünf Siege. Gestartet war der Klub als 12. der 2. Bundesliga. Das größte Manko ist die Defensive: 25 Gegentore in",
+    "spielerstatus": [],
+    "formation": "3-4-3",
+    "hauptklub": "Münster",
+    "pfad": "artikel/preussen-muenster-schwache-offensive-wacklige-defensive-lange-2c09e37948.html",
+    "bild_tm": "",
+    "umfrage": null
+  },
+  {
+    "id": "d175e1d822",
+    "titel": "Verl hält trotz Abstiegsplatz an Trainer Orest Shala fest",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "10.11.2026 21:46",
+    "wappen_url": "logos/verl.png",
+    "vereine": [
+      "Verl"
+    ],
+    "anriss": "Der SC Verl hält trotz der sportlichen Talfahrt an Trainer Orest Shala fest. Nach sechs sieglosen Spielen und vier Niederlagen in Folge ist der Klub auf einen Abstiegsplatz der 3. Liga abgerutscht. Eine Freistellung des erst im Sommer verpflichteten 34-Jährigen schloss André Theilmeier, Sprecher des",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Verl",
+    "pfad": "artikel/verl-haelt-trotz-abstiegsplatz-an-trainer-orest-shala-fest-d175e1d822.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "recht",
+      "frage": "Hat Theilmeier recht mit dem Festhalten an Trainer Shala?",
+      "antworten": [
+        "Ja",
+        "Nein"
+      ]
+    }
+  },
+  {
+    "id": "e4e7f72659",
+    "titel": "Münster im Westfalenpokal: Wörle setzt gegen Schüren auf wenig Rotation",
+    "kategorie": "aufstellung",
+    "badge": "Aufstellung",
+    "badge_bg": "#2e7d32",
+    "badge_fg": "#fff",
+    "datum": "10.11.2026 21:45",
+    "wappen_url": "logos/muenster.png",
+    "vereine": [
+      "Duisburg",
+      "Münster"
+    ],
+    "anriss": "Preußen Münster trifft am Mittwoch um 19:30 Uhr im Viertelfinale des Westfalenpokals auf den Westfalenligisten BSV Schüren. Trainer Thomas Wörle will nach dem 1:2 gegen Duisburg mit einem guten Gefühl in die Länderspielpause gehen und verzichtet auf große Rotationen. Gespielt wird im Preußenstadion, weil Schüren",
+    "spielerstatus": [],
+    "formation": "3-4-3",
+    "hauptklub": "Münster",
+    "pfad": "artikel/muenster-im-westfalenpokal-woerle-setzt-gegen-schueren-auf-wenig-e4e7f72659.html",
+    "bild_tm": "",
+    "umfrage": null
+  },
+  {
+    "id": "cb0451fabc",
+    "titel": "Gerezgiher verzichtet auf Länderspielreise und bleibt in Düsseldorf",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "10.11.2026 21:45",
+    "wappen_url": "logos/duesseldorf.png",
+    "vereine": [
+      "Düsseldorf",
+      "Ingolstadt"
+    ],
+    "anriss": "Fortunas Flügelspieler Filimon Gerezgiher hat seine Reise zur eritreischen Nationalmannschaft abgesagt. Der 26-Jährige bleibt während der Länderspielpause in Düsseldorf und fehlt bei den beiden Qualifikationsspielen für den Afrika-Cup. Sportdirektor Patrick Fabian erklärte: „Bevor ihn irgendjemand nominieren konnte, hat er selber schon gesagt, dass er hierbleiben",
+    "spielerstatus": [
+      {
+        "spieler": "Slimani",
+        "klub": "Düsseldorf",
+        "status": "fraglich",
+        "grund": "Fußverletzung, Derby-Einsatz offen"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Düsseldorf",
+    "pfad": "artikel/gerezgiher-verzichtet-auf-laenderspielreise-und-bleibt-in-duesseldorf-cb0451fabc.html",
+    "bild_tm": "",
+    "umfrage": null
+  },
+  {
+    "id": "8c626a1a97",
+    "titel": "Hansa unter Breitenreiter: Mehr Angriffe, aber deutlich weniger Tore",
+    "kategorie": "analyse",
+    "badge": "Analyse",
+    "badge_bg": "#6a1fbf",
+    "badge_fg": "#fff",
+    "datum": "10.11.2026 21:45",
+    "wappen_url": "logos/rostock.png",
+    "vereine": [
+      "Großaspach",
+      "Rostock"
+    ],
+    "anriss": "Hansa Rostock spielt unter Trainer André Breitenreiter mehr Angriffe, trifft aber seltener. Auch nach dem 3:0 gegen Großaspach steht die Kogge auf Platz 10 und hat zehn Punkte Rückstand auf einen direkten Aufstiegsrang. Breitenreiter übernahm vor sieben Wochen als Cheftrainer. Nach sechs Liga-Spielen stehen sieben",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Rostock",
+    "pfad": "artikel/hansa-unter-breitenreiter-mehr-angriffe-aber-deutlich-weniger-tore-8c626a1a97.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "recht",
+      "frage": "Hat Breitenreiter recht: Braucht Hansa jetzt eine „Wagenburg-Mentalität“?",
+      "antworten": [
+        "Ja",
+        "Nein"
+      ]
+    }
+  },
+  {
+    "id": "9003b29769",
+    "titel": "Düsseldorf plant im Pokal gegen Duisburg mit U19-Talent Arden",
+    "kategorie": "aufstellung",
+    "badge": "Aufstellung",
+    "badge_bg": "#2e7d32",
+    "badge_fg": "#fff",
+    "datum": "10.11.2026 21:45",
+    "wappen_url": "logos/duesseldorf.png",
+    "vereine": [
+      "Duisburg",
+      "Düsseldorf"
+    ],
+    "anriss": "Fortuna Düsseldorf will Mittelfeldtalent Elias Arden im Viertelfinale des Niederrheinpokals gegen Duisburg einsetzen, obwohl der 17-Jährige bei der U19-Nationalmannschaft weilt. Die Partie steigt kommenden Mittwoch um 20 Uhr. Auch Anas Slimani droht auszufallen. Arden ist erstmals für die U19-Auswahl nominiert und befindet sich mit dem",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Düsseldorf",
+    "pfad": "artikel/duesseldorf-plant-im-pokal-gegen-duisburg-mit-u19-talent-arden-9003b29769.html",
+    "bild_tm": "",
+    "umfrage": null
+  },
+  {
     "id": "e345ce2574",
     "titel": "Würzburg verliert gegen Hoffenheim II: Zor trifft früh nach der Pause",
     "kategorie": "news",
