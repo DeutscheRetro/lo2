@@ -1,5 +1,68 @@
 [
   {
+    "id": "e832738c2d",
+    "titel": "Dähne fällt nach Fingerbruch mehrere Wochen aus, Feller vor Rückkehr",
+    "kategorie": "verletzung",
+    "badge": "Verletzung",
+    "badge_bg": "#e53935",
+    "badge_fg": "#fff",
+    "datum": "10.11.2026 12:04",
+    "wappen_url": "logos/heidenheim.png",
+    "vereine": [
+      "Hannover",
+      "Heidenheim"
+    ],
+    "anriss": "Heidenheims Torhüter Thomas Dähne fällt mehrere Wochen aus. Der 32-Jährige hat sich beim Heimspiel gegen Hannover 96 eine Grundgliedfraktur am rechten Kleinfinger zugezogen und wird noch in dieser Woche operiert. Nach einer Parade war der kleine Finger der rechten Hand Dähnes um 90 Grad abgestanden.",
+    "spielerstatus": [
+      {
+        "spieler": "Dähne",
+        "klub": "Heidenheim",
+        "status": "faellt_aus",
+        "grund": "Fingerbruch, Operation, mehrere Wochen Pause"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Heidenheim",
+    "pfad": "artikel/daehne-faellt-nach-fingerbruch-mehrere-wochen-aus-feller-vor-rueckkehr-e832738c2d.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "reaktion",
+      "frage": "",
+      "antworten": [
+        "💚 Gute Besserung"
+      ]
+    }
+  },
+  {
+    "id": "5b69f6c8eb",
+    "titel": "Basler lobt Hertha und Leitl: „Die Hertha hat es jetzt selbst in der Hand“",
+    "kategorie": "analyse",
+    "badge": "Analyse",
+    "badge_bg": "#6a1fbf",
+    "badge_fg": "#fff",
+    "datum": "10.11.2026 12:04",
+    "wappen_url": "logos/hertha.png",
+    "vereine": [
+      "Cottbus",
+      "Hannover",
+      "Hertha"
+    ],
+    "anriss": "Mario Basler sieht Tabellenführer Hertha BSC auf einem guten Weg Richtung Aufstieg. In seinem Podcast „Basler ballert“ lobte der frühere Nationalspieler vor allem Trainer Stefan Leitl. „Die Hertha hat es jetzt selbst in der Hand“, sagte Basler, der von 1993 bis 1995 selbst für die",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Hertha",
+    "pfad": "artikel/basler-lobt-hertha-und-leitl-die-haben-es-jetzt-selbst-in-der-hand-5b69f6c8eb.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "recht",
+      "frage": "Hat Basler recht: Hat Hertha den Aufstieg selbst in der Hand?",
+      "antworten": [
+        "Ja",
+        "Nein"
+      ]
+    }
+  },
+  {
     "id": "507face3c7",
     "titel": "St. Pauli verzichtet in der Länderspielpause auf ein Testspiel",
     "kategorie": "news",
@@ -13,7 +76,7 @@
       "Magdeburg",
       "St. Pauli"
     ],
-    "anriss": "Der FC St. Pauli bestreitet in der Länderspielpause kein Testspiel. Trainer Marcel Rapp erklärte, dass sich der Klub nach dem 1:4 in Magdeburg bewusst dagegen entschieden hat. Das nächste Pflichtspiel ist das Heimspiel gegen den VfL Bochum am 21. November. Als Grund nannte Rapp die",
+    "anriss": "Der FC St. Pauli bestreitet in der Länderspielpause kein Testspiel. Nach dem 1:4 in Magdeburg setzt der Klub in den knapp zwei Wochen bis zum Heimspiel gegen den VfL Bochum am 21. November auf Training und Gespräche. Trainer Marcel Rapp nannte „verschiedene Gründe“ für den",
     "spielerstatus": [],
     "formation": "",
     "hauptklub": "St. Pauli",
@@ -23,7 +86,7 @@
   },
   {
     "id": "d374ff468f",
-    "titel": "Cottbus ohne Sieg, aber ohne Krise: Ruhe trotz sechs Spielen ohne Dreier",
+    "titel": "Energie Cottbus seit sechs Spielen sieglos, aber ohne Krise",
     "kategorie": "analyse",
     "badge": "Analyse",
     "badge_bg": "#6a1fbf",
@@ -34,7 +97,7 @@
       "Cottbus",
       "Magdeburg"
     ],
-    "anriss": "Energie Cottbus wartet seit sechs Spielen auf einen Sieg. Der Zweitliga-Aufsteiger holte seit Mitte September keinen Dreier mehr, von einer Krise ist in der Lausitz aber kaum etwas zu spüren. Nach elf Spielen steht Cottbus bei elf Punkten und belegt Rang zwölf, damit auf einem",
+    "anriss": "Energie Cottbus wartet seit Mitte September auf den dritten Saisonsieg. Seit sechs Spielen ist der Zweitliga-Aufsteiger ohne Dreier, von einer Krise ist in der Lausitz aber kaum etwas zu spüren. Nach elf Spielen steht Cottbus bei elf Punkten und belegt Rang zwölf, einen Nicht-Abstiegsplatz. Präsident",
     "spielerstatus": [],
     "formation": "",
     "hauptklub": "Cottbus",

@@ -2150,5 +2150,52 @@
     },
     "published_at": "2026-11-10T09:03:35.088450",
     "source": "TAG24"
+  },
+  {
+    "id": "e832738c2d",
+    "generated_title": "Dähne fällt nach Fingerbruch mehrere Wochen aus, Feller vor Rückkehr",
+    "original_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQWlrWGpPSWlhdWJDYnJreXdBRENURHZGQ19zYkZUSm13VWpqa2JFTlF0NW5ZN3hRYnp4eE8wakJwckhqMm5MY0ZYU0N6WkdUbng0a21SWkh5ek1HUUFBLV9tN01CSnpqNzQ1Uk85Um1KRFhLcHZWeWpIQjNhaDFMSURPcC0ydURKZ3czZUNxMzVBcFl5eWZ5enZFeEZrYnJJcGQtT3Z2N3E4aDI2M3JtVk1xU2hjX0xlMFBNT1AyY05pOVA2aGpXNVNRSVUxZ2J6MWNYRF9n?oc=5",
+    "fingerprint": {
+      "event_type": "verletzung",
+      "main_club": "Heidenheim",
+      "event_stage": "verletzung",
+      "main_teams": [
+        "Hannover",
+        "Heidenheim"
+      ],
+      "main_players": [
+        "Thomas Dähne",
+        "Frank Feller"
+      ],
+      "summary": "Heidenheims Torhüter Thomas Dähne hat sich eine Grundgliedfraktur am rechten Kleinfinger zugezogen und fällt mehrere Wochen aus. Frank Feller dürfte aller Voraussicht nach ins Tor zurückkehren.",
+      "one_sentence_summary": "Heidenheims Torhüter Thomas Dähne hat sich eine Grundgliedfraktur am rechten Kleinfinger zugezogen und fällt mehrere Wochen aus.",
+      "schluessel": "thomas dahne|verletzung"
+    },
+    "published_at": "2026-11-10T12:05:42.639432",
+    "source": "Heidenheimer Zeitung"
+  },
+  {
+    "id": "5b69f6c8eb",
+    "generated_title": "Basler lobt Hertha und Leitl: „Die haben es jetzt selbst in der Hand“",
+    "original_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONll5SlhBOUZVV1czMWVQc2Y3RVNHa2JEVFVKWVMzRUF3OUh5SGdRTUNHS2pYVEppVE05SGZtSVoxTWlsb3pPTkhTdmZCNDZaTXFPOFYwN1QzcFJYLWdKYi1iajI0VndJMEtIYlV3MEsxWU51Mk9zQl9PUEdwa0ZRcnRwNTFHbTdPcENKSzVRNWxSdk1JN3NoMUJhQkdjd0FBV195bWZfcHpxQUpDOTBQWlhJeXA5RWpHc2s5NkZNYw?oc=5",
+    "fingerprint": {
+      "event_type": "analyse",
+      "main_club": "Hertha",
+      "event_stage": "sonstiges",
+      "main_teams": [
+        "Cottbus",
+        "Hannover",
+        "Hertha"
+      ],
+      "main_players": [
+        "Stefan Leitl",
+        "Mario Basler"
+      ],
+      "summary": "Mario Basler lobt in seinem Podcast Herthas Trainer Stefan Leitl und sieht den Tabellenführer im Aufstiegsrennen in der eigenen Hand. Hertha hat nach elf Spieltagen 31 Punkte und spielt am 22. November in Cottbus.",
+      "one_sentence_summary": "Mario Basler lobt in seinem Podcast Herthas Trainer Stefan Leitl und sieht den Tabellenführer im Aufstiegsrennen in der eigenen Hand.",
+      "schluessel": "stefan leitl|sonstiges"
+    },
+    "published_at": "2026-11-10T12:05:42.693097",
+    "source": "Berliner Zeitung"
   }
 ]
