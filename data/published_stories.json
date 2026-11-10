@@ -2083,5 +2083,72 @@
     },
     "published_at": "2026-11-09T18:06:24.906593",
     "source": "VfL Osnabrück"
+  },
+  {
+    "id": "f0aba761aa",
+    "generated_title": "Dynamo gegen Fürth: Polizei ermittelt nach Pyrotechnik und Belästigung",
+    "original_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdHZGVzhJN1d6ZXBNbzhjMVEtMnFabXpZYndsSXRnRzQyb050MzZBcE5LTi1raTBtekFRZmRINzlvNTQxbzBPZEtRS0RyaGJWNElQc0JqTmV0V3hkLXduTTNjNnppOG1lQWpPNFJaU3ZjV0EwaGtsa3lMZkNKbWdheWJFWjdPd1pLRlVnd1Uya1lGUERaWWEzckg2RmRQMktPLTZiN0txQVh4NF8ya0xKa1hSZ0ItQ3F5Mnc?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Dresden",
+      "event_stage": "sonstiges",
+      "main_teams": [
+        "Dresden",
+        "Fürth"
+      ],
+      "main_players": [],
+      "summary": "Nach dem Heimspiel von Dynamo Dresden gegen Fürth ermittelt die Polizei wegen sexueller Belästigung einer 16-Jährigen. Zwei Menschen wurden durch Pyrotechnik verletzt, dazu gibt es Anzeigen.",
+      "one_sentence_summary": "Nach dem Heimspiel von Dynamo Dresden gegen Fürth ermittelt die Polizei wegen sexueller Belästigung einer 16-Jährigen.",
+      "schluessel": "furth|sonstiges"
+    },
+    "published_at": "2026-11-10T09:03:35.011229",
+    "source": "t-online – Dresden"
+  },
+  {
+    "id": "507face3c7",
+    "generated_title": "St. Pauli verzichtet in der Länderspielpause auf ein Testspiel",
+    "original_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSHlZcDBTYllDNS1iclp3bFVuYWx6T1Nnd2VVZjVrTVMxbk9nRzA4US1EbU5JNnI4WDhZeWx2VmpaQU1mQVFhbnAxdVdOM3RVMHYzOHl0aWpZV3ZIcmF3RjNjb01BQmd3UkpNMVl0MGZEYjdPTENWOGJXYUdDeS1ueFZPRDdGTUdjSVVwNjJvMFpkNjhCYTR1eGlFdVdWYlBTZHVLNko1Y3RGci1iV0xhRE5FS0ItV3Y1X1Ywd1ZSenJ4bWd5TXc?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "St. Pauli",
+      "event_stage": "sonstiges",
+      "main_teams": [
+        "Bochum",
+        "Magdeburg",
+        "St. Pauli"
+      ],
+      "main_players": [
+        "Marcel Rapp",
+        "David Nemeth"
+      ],
+      "summary": "St. Pauli verzichtet in der Länderspielpause auf ein Testspiel, weil kein passender Gegner an einem Freitag gefunden wurde. Trainer Marcel Rapp kündigt intensives Training und Konkurrenzkampf vor dem Heimspiel gegen Bochum an.",
+      "one_sentence_summary": "St.",
+      "schluessel": "marcel rapp|sonstiges"
+    },
+    "published_at": "2026-11-10T09:03:35.049931",
+    "source": "MOPO"
+  },
+  {
+    "id": "d374ff468f",
+    "generated_title": "Cottbus ohne Sieg, aber ohne Krise: Ruhe trotz sechs Spielen ohne Dreier",
+    "original_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMHZXdkRGcFVmdENybjFOWlZYV3FGTTFIMHljM2VRcjNEX1RUUFRJcVpYdkdVWFZIS2phR0UxQ0ptZ2J3YWx4YVZEeFFubjU2aTNQWkNwRDRDSzZrU0p1YVY3VDkyVk5HWGtHMVYxcXFLWC1OT1MzRnpxSFAyYk9WUHBwT2NRRlAxQ0ZXQ1gzUG1KSktVbk4yS2JSVHJHRzU1b2xLMi1qSV9WaVJRWnhhbmY3UUZ5LThTSDdGdHhZOUg2Ul9QUFJyUC0yT1FyUQ?oc=5",
+    "fingerprint": {
+      "event_type": "analyse",
+      "main_club": "Cottbus",
+      "event_stage": "sonstiges",
+      "main_teams": [
+        "Cottbus",
+        "Magdeburg"
+      ],
+      "main_players": [
+        "Pele Wollitz",
+        "Leonardo Bittencourt"
+      ],
+      "summary": "Energie Cottbus ist seit sechs Spielen ohne Sieg, steht aber mit elf Punkten aus elf Spielen auf Rang zwölf. Umfeld und Verantwortliche bleiben ruhig, die Rest-Hinrunde bringt drei Derbys und zwei Heimspiele gegen Konkurrenten.",
+      "one_sentence_summary": "Energie Cottbus ist seit sechs Spielen ohne Sieg, steht aber mit elf Punkten aus elf Spielen auf Rang zwölf.",
+      "schluessel": "pele wollitz|sonstiges"
+    },
+    "published_at": "2026-11-10T09:03:35.088450",
+    "source": "TAG24"
   }
 ]

@@ -1,203 +1,5 @@
 [
  {
-  "id": "d017191336",
-  "schluessel": "hannover|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hannover",
-  "klubs": [
-   "Hannover"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Wagners Kniffe in Hannover: Viel Training, aber wenig Ertrag",
-  "quellen": [
-   {
-    "url": "https://www.kicker.de/wagners-kniffe-in-hannover-viel-training-aber-wenig-ertrag-1269836/artikel#omrss",
-    "aid": "af114194a2",
-    "titel": "Wagners Kniffe in Hannover: Viel Training, aber wenig Ertrag",
-    "quelle": "kicker 2. Bundesliga News",
-    "beschr": "2:2 in Heidenheim: Bei Hannover 96 zeigt die Formkurve wieder deutlich nach oben - doch ausgerechnet das Verteidigen von Standards bleibt trotz intensivem Training ein Problem der Niedersachsen.",
-    "zeit": "2026-11-09T19:46"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-09T21:01",
-  "archiv": [
-   {
-    "id": "f24f0b5c26",
-    "titel": "Heidenheim will Schmidt-Abschied gegen Hannover vergolden",
-    "datum": "06.11.",
-    "stufe": "sonstiges",
-    "summary": "Heidenheim empfängt am Sonntag Hannover 96 und ist zu Hause noch ungeschlagen. Es ist das erste Spiel nach der Ankündigung, dass Trainer Frank Schmidt im Sommer aufhört."
-   },
-   {
-    "id": "46380a1986",
-    "titel": "Wontorra stärkt Hannovers Trainer Wagner den Rücken",
-    "datum": "01.11.",
-    "stufe": "sonstiges",
-    "summary": "Moderatorin Laura Wontorra stärkt Hannovers Trainer Sandro Wagner, der nach vier Pflichtspielen noch sieglos ist, im Podcast „TOMorrow“ den Rücken. Sie traut ihm eine große Trainerkarriere zu."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "4a565fa6dd",
-  "schluessel": "heidenheim|verletzung",
-  "person": "",
-  "spieler": [],
-  "klub": "Heidenheim",
-  "klubs": [
-   "Heidenheim"
-  ],
-  "stufe": "ausfall",
-  "klasse": "verletzung",
-  "titel": "OP nötig: Dähne fehlt Heidenheim mit Fingerfraktur mehrere Wochen",
-  "quellen": [
-   {
-    "url": "https://www.kicker.de/op-noetig-daehne-fehlt-heidenheim-mit-fingerfraktur-mehrere-wochen-1270250/artikel#omrss",
-    "aid": "cede19f782",
-    "titel": "OP nötig: Dähne fehlt Heidenheim mit Fingerfraktur mehrere Wochen",
-    "quelle": "kicker 2. Bundesliga News",
-    "beschr": "Das Spiel gegen Hannover 96 hatte Thomas Dähne für den 1. FC Heidenheim noch zu Ende gespielt, danach folgte eine schlechte Nachricht. Frank Schmidt muss länger auf seinen Stammkeeper verzichten.",
-    "zeit": "2026-11-09T18:44"
-   }
-  ],
-  "archiv_status": "update",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-09T21:01",
-  "archiv": [
-   {
-    "id": "4dc0cf942c",
-    "titel": "Conteh feiert nach siebeneinhalb Monaten Comeback in Heidenheim",
-    "datum": "09.11.",
-    "stufe": "rueckkehr",
-    "summary": "Sirlord Conteh hat nach knapp siebeneinhalb Monaten Pause sein Comeback für Heidenheim gegeben. Im Heimspiel gegen Hannover 96 wurde er in der 75. Minute eingewechselt."
-   },
-   {
-    "id": "e8d2176e39",
-    "titel": "Hannover 96: Chakroun mit Schulterblessur, Einsatz in Heidenheim offen",
-    "datum": "02.11.",
-    "stufe": "fraglich",
-    "summary": "Hannovers Husseyn Chakroun zog sich beim 2:1 gegen Dresden eine Blessur im rechten Schultereckgelenk zu. Ein Einsatz am Sonntag in Heidenheim ist nicht ausgeschlossen."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "ba80982c22",
-  "schluessel": "magdeburg|verletzung",
-  "person": "",
-  "spieler": [],
-  "klub": "Magdeburg",
-  "klubs": [
-   "Magdeburg"
-  ],
-  "stufe": "ausfall",
-  "klasse": "verletzung",
-  "titel": "FCM verliert formstarke Stammkraft durch eine Gelbsperre",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV0l0SDduX0tzZDQ2Q1drdmR6MUhTb3o1UXhtYlBCRXVpdDNDRGNDbGNrOVdaOUFyU1U1ME1fdjBTTzJJdjhPbm1YdktpZkNkOElpREQ5VWM1Um5Db2NmM2Q2R0psR0RaQ0JEMWNxRURhUFhnVnVBR204anJCZTRuNFk3YVdJdzBLeTBaWEZSUV8xdUVwdUp2NUxBejZJOHItUzVEeHR5NVhxYTVjUHFv?oc=5",
-    "aid": "78519c99ca",
-    "titel": "FCM verliert formstarke Stammkraft durch eine Gelbsperre",
-    "quelle": "Magdeburg Blau-Weiß",
-    "beschr": " FCM verliert formstarke Stammkraft durch eine Gelbsperre &nbsp;&nbsp; Magdeburg Blau-Weiß ",
-    "zeit": "2026-11-09T16:50"
-   }
-  ],
-  "archiv_status": "update",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-09T21:01",
-  "archiv": [
-   {
-    "id": "1bee329154",
-    "titel": "Magdeburg bangt um Müsel: Oberschenkelverletzung nach St.-Pauli-Spiel",
-    "datum": "09.11.",
-    "stufe": "verletzung",
-    "summary": "Magdeburgs Torben Müsel hat sich beim 4:1 gegen St. Pauli am Oberschenkel verletzt, Trainer Petrik Sander befürchtet Schwereres. Auch Falko Michel und Moritz-Broni Kwarteng fehlen im Mittelfeld."
-   },
-   {
-    "id": "7806aee3d0",
-    "titel": "Magdeburg peilt gegen St. Pauli Rekord an, Zukowski soll zurückkehren",
-    "datum": "02.11.",
-    "stufe": "rueckkehr",
-    "summary": "Magdeburg kann mit einem Sieg gegen St. Pauli mit 20 Punkten die beste Zwischenbilanz nach elf Spieltagen erreichen. Torjäger Mateusz Zukowski soll nach seiner Schulterprellung zurückkehren."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "d854c0fd0b",
-  "schluessel": "hertha|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hertha",
-  "klubs": [
-   "Hertha"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Hertha? „Der Traum von 100 Punkten lebt“",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdjlJRlJPTXZCcHBySzc4eXQwR1RZS1ExSnJvOVBJUi1LM0ljOFhmZERVUmxzN2V4RGtUSXBnV0FYY2ZieUtmNElId0VMS0s1OUF3OUlQOU1YaXJ0NER5RWF3M01Lb2dqWmxsRmMtY2UxTHY3aWpIRW00dGpzc3FCQUJhTlJ1SlFzYzVBTlRyc2hSODJySjREVmEtQlU0bWNzMEoyUnlhLXI4bjhCaFkxTGFR?oc=5",
-    "aid": "101012995e",
-    "titel": "Hertha? „Der Traum von 100 Punkten lebt“",
-    "quelle": "SPORT1",
-    "beschr": " Hertha? „Der Traum von 100 Punkten lebt“ &nbsp;&nbsp; SPORT1 ",
-    "zeit": "2026-11-09T19:50"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-09T21:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "910a5439aa",
-  "schluessel": "st. pauli|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "St. Pauli",
-  "klubs": [
-   "St. Pauli"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "FC St. Pauli: Diese Maßnahmen treffen die Spieler und Trainer Rapp jetzt",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZTFLaXpLNFRjYXlYcHdycVBkNmwwSXNnMC1QcXBLVGtDcGEyRnYyNFRQNl9wNzJyME5MRWpfOEtxb2xzZGRDSjl4cGVRT3pzcV9jTEhsc19GTVlwNUVmWVlveWV2ZWpUUVN2TUNQSlZFX19YSERZNndOZWJ0LXZFYjNldkFZWlpYa3RUYTJEcEhTNWNXdTB3WmJQbDRZSGVmbVRid2JJMkw5X2JxQVozdTRWWDBkc0dWZHV1Rlc0U0daWGxrdmhBM0J2ZXd1anM?oc=5",
-    "aid": "766f852799",
-    "titel": "FC St. Pauli: Diese Maßnahmen treffen die Spieler und Trainer Rapp jetzt",
-    "quelle": "Hamburger Abendblatt",
-    "beschr": " FC St. Pauli: Diese Maßnahmen treffen die Spieler und Trainer Rapp jetzt &nbsp;&nbsp; Hamburger Abendblatt ",
-    "zeit": "2026-11-09T18:00"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-09T21:01",
-  "archiv": [
-   {
-    "id": "0f621c17e7",
-    "titel": "FCM gegen St. Pauli: Wiedersehen mit Kaars und Mathisen",
-    "datum": "05.11.",
-    "stufe": "sonstiges",
-    "summary": "Magdeburg trifft im Heimspiel auf St. Pauli und damit auf die Ex-Spieler Martijn Kaars und Marcus Mathisen, die in Hamburg beide kaum spielen. Mateusz Zukowski ist für den FCM weiterhin fraglich."
-   }
-  ],
-  "versuche": 2
- },
- {
   "id": "2245fbdb9f",
   "schluessel": "darmstadt|sonstiges",
   "person": "",
@@ -225,7 +27,7 @@
   "status": "n",
   "erstmals": "2026-11-10T06:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "70d2c5a9ca",
@@ -276,7 +78,7 @@
     "summary": "Hannover 96 hat Sport-Geschäftsführer Jonas Boldt nach nur fünf Monaten mit sofortiger Wirkung abberufen. Der Klub steht nach neun Spieltagen mit acht Punkten auf Platz 16."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "49e4bcbc3e",
@@ -313,7 +115,7 @@
     "summary": "Nürnbergs Aufsichtsratschef Peter Meier bestätigt Gespräche über eine frühere Freigabe von Joti Chatzialexiou zu Eintracht Frankfurt. Ein Termin steht noch nicht fest, der Wechsel dürfte aber deutlich vor Februar erfolgen."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "7307f785d0",
@@ -350,7 +152,7 @@
     "summary": "Holstein Kiel steht nach der 1:2-Niederlage gegen Bielefeld und Platz 18 vor der Trennung von Trainer Tim Walter. Geschäftsführer Olaf Rebbe kündigte für Sonntag eine längere Sitzung an."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "471927eeff",
@@ -401,7 +203,7 @@
     "summary": "Der Karlsruher SC besiegt Heidenheim 2:1 und verlässt die Abstiegsplätze. Kapitän Marvin Wanitzek entscheidet die Partie in der 80. Minute mit einem Freistoß und erklärt seinen Trick."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "9e8cf46691",
@@ -429,6 +231,152 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-10T06:01",
+  "archiv": [],
+  "versuche": 2
+ },
+ {
+  "id": "eb7b64a209",
+  "schluessel": "hertha|verletzung",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha"
+  ],
+  "stufe": "fraglich",
+  "klasse": "verletzung",
+  "titel": "Sorgen um das Knie: Hertha BSC gibt Entwarnung bei diesem Spieler",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYTBqUThqMndtVy1IdnBwZnJBZGxZdWdaejlXekVmS2RBWXZrdWRPQU5ZUzlQSjI3eXotS25pSzlMa3p4Y1pmVjJXdGdFN2dHVHJjOTZUNUxHLUhqN24wcDlsNXIyc2Q5N3NUYTVaQV9FeU8tY2VxeERCa0szaDB5RmQyN0dmOFBkSi11STk3RTVJQQ?oc=5",
+    "aid": "8e2d09e582",
+    "titel": "Sorgen um das Knie: Hertha BSC gibt Entwarnung bei diesem Spieler",
+    "quelle": "fussballdaten.de",
+    "beschr": " Sorgen um das Knie: Hertha BSC gibt Entwarnung bei diesem Spieler &nbsp;&nbsp; fussballdaten.de ",
+    "zeit": "2026-11-10T06:00"
+   }
+  ],
+  "archiv_status": "update",
+  "prio": 3,
+  "status": "u",
+  "erstmals": "2026-11-10T09:01",
+  "archiv": [
+   {
+    "id": "a53f453ba2",
+    "titel": "Hertha: Zeefuik trifft, Sorgen um Pedersen",
+    "datum": "09.11.",
+    "stufe": "fraglich",
+    "summary": "Deyo Zeefuik traf beim 2:1 der Hertha gegen Wolfsburg zum 2:0 und verschärft die Konkurrenz auf den Außenverteidigerpositionen. Mads Pedersen wird wegen Oberschenkelproblemen untersucht, sein Einsatz in Cottbus ist offen."
+   },
+   {
+    "id": "7e1135c173",
+    "titel": "Leitl vor Reese-Rückkehr: „Es geht um den VfL Wolfsburg“",
+    "datum": "05.11.",
+    "stufe": "rueckkehr",
+    "summary": "Herthas Trainer Stefan Leitl will die Rückkehr von Fabian Reese vor dem Spitzenspiel gegen Wolfsburg nüchtern betrachten. Der ungeschlagene Tabellenführer trifft am Samstagabend im Olympiastadion auf den Drittplatzierten."
+   },
+   {
+    "id": "f32559af08",
+    "titel": "Hertha vor Wolfsburg: Nilsson und Dardai zurück im Training",
+    "datum": "03.11.",
+    "stufe": "rueckkehr",
+    "summary": "Herthas Stürmer Gustaf Nilsson und Innenverteidiger Marton Dardai sind nach Verletzungen ins Mannschaftstraining zurückgekehrt. Am Samstagabend wartet im Olympiastadion das Topspiel gegen Wolfsburg."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "360753febb",
+  "schluessel": "st. pauli|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "St. Pauli",
+  "klubs": [
+   "St. Pauli"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Vorne schwach und hinten anfällig: St. Paulis Blick muss nach unten gehen",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdTdrQ2VhNEpaOFE3VkY4dlVzcDFkWGVhX3ZFZVYwYVVieUo1a09YNGRJTzR3ZnJtOWstdXdqU2tnUmlMM3hfeXdkM0haZTFOdDRpdGxxTEZTdmRJZjkwYks2TW9aN2FjaUZkR0NrRHIwWENabDlDc2UtdEh0WWg1RkpnZi12d2EzdGc3MVBrb2xmbjBNbU5MU2lRS2owVUpzazRHZC1UbGlneTV2NTdn?oc=5",
+    "aid": "640a167f4e",
+    "titel": "Vorne schwach und hinten anfällig: St. Paulis Blick muss nach unten gehen",
+    "quelle": "https://www.kicker.ch/",
+    "beschr": " Vorne schwach und hinten anfällig: St. Paulis Blick muss nach unten gehen &nbsp;&nbsp; https://www.kicker.ch/ ",
+    "zeit": "2026-11-09T13:35"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-10T09:01",
+  "archiv": [
+   {
+    "id": "0f621c17e7",
+    "titel": "FCM gegen St. Pauli: Wiedersehen mit Kaars und Mathisen",
+    "datum": "05.11.",
+    "stufe": "sonstiges",
+    "summary": "Magdeburg trifft im Heimspiel auf St. Pauli und damit auf die Ex-Spieler Martijn Kaars und Marcus Mathisen, die in Hamburg beide kaum spielen. Mateusz Zukowski ist für den FCM weiterhin fraglich."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "2e3cdaad93",
+  "schluessel": "bielefeld|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Bielefeld",
+  "klubs": [
+   "Bielefeld"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "„Nicht mein Ziel, Joker zu sein“: Arminia Bielefelds Young trifft entscheidend – und hadert",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRl9mT1dqTWViRzBkNGFzSzlZMXlrUmtiZmVBV1lkSFdyaERjYk9UNklMUE03RXA5VkJLR1NPMHItX2d3WmJPdjFfc3FiRDVHbm9LRV9JTE9FZXRwZzJfNjJmMXVqT25sZVJLamtwTDVLaDA1NVBTU0xxZXRDd1dEUUE1a0gzWE9RanJGaVNzamZCYm1YcmwxYWVJdlVKaU5vYWV0MnNJblJMdHR5M3VOdnZJZDhLSmltVVc1c1d2VUZFaC1wTGIybkVZU01KLU1oa1lSY3NKejJiamh4aERHRTlFb2V2bUdfd2c?oc=5",
+    "aid": "2306cd7354",
+    "titel": "„Nicht mein Ziel, Joker zu sein“: Arminia Bielefelds Young trifft entscheidend – und hadert",
+    "quelle": "Neue Westfälische",
+    "beschr": " „Nicht mein Ziel, Joker zu sein“: Arminia Bielefelds Young trifft entscheidend – und hadert &nbsp;&nbsp; Neue Westfälische ",
+    "zeit": "2026-11-09T20:28"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-10T09:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "67876a55cb",
+  "schluessel": "hertha|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Überraschende Wandlung: Hertha BSC gelingt, worauf Fans schon seit Jahren warten",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUGp3SjFSSmxLYS1OQTYtQUlZRG9Pdmc3UUpuTjJaY051OUZ3R2ZmOVVHZjc3QXZrby1MN3lFWnNDVThQbjhIRVFPelVNZlBoOU1vN1VWcUp5bzl0bndCWUlVU01RWVJwZHpfNlZuNTY2WXhRM0JOSEJVOGtBa3BEZm9XOGJubzNzbVUwQ1F4MnAtWVdXT0s1WTBYcnRHSENjdFgxbDR3UU14My1nQ0RtN0pTbFRVRWFXQjUwSnp5ZnU5QURXX2dtam1vcktzMG5PVm1UWmtvQQ?oc=5",
+    "aid": "eb3f74aac3",
+    "titel": "Überraschende Wandlung: Hertha BSC gelingt, worauf Fans schon seit Jahren warten",
+    "quelle": "Berliner Morgenpost",
+    "beschr": " Überraschende Wandlung: Hertha BSC gelingt, worauf Fans schon seit Jahren warten &nbsp;&nbsp; Berliner Morgenpost ",
+    "zeit": "2026-11-10T06:00"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-10T09:01",
   "archiv": [],
   "versuche": 1
  }
