@@ -2197,5 +2197,51 @@
     },
     "published_at": "2026-11-10T12:05:42.693097",
     "source": "Berliner Zeitung"
+  },
+  {
+    "id": "51d4372563",
+    "generated_title": "Kiel verpflichtet Mitch Kniat als Nachfolger von Tim Walter",
+    "original_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMFhGNTdSZFhjSFhvRkpqN0JxTDEtMGQ5dl94R08wd2FFbkVQN0diTDVyMkN4X1pmaTdhenhsNUlFT29PM1JXcGZSbWYzWlN3djdhcGc5U2JqSTFnSmxmYTFXZnV4enlIUUN0ZTFRUGVMdXJiWXktZU0xREoxUEpvU1JjbVpWQjY1?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Kiel",
+      "event_stage": "trainer_neu",
+      "main_teams": [
+        "Kiel",
+        "Wolfsburg"
+      ],
+      "main_players": [
+        "Mitch Kniat",
+        "Tim Walter",
+        "Dirk Bremser"
+      ],
+      "summary": "Holstein Kiel verpflichtet Mitch Kniat bis 2028 als Nachfolger des freigestellten Tim Walter. Kniat debütiert am 21. November bei Wolfsburg, Co-Trainer Dirk Bremser wechselt dorthin.",
+      "one_sentence_summary": "Holstein Kiel verpflichtet Mitch Kniat bis 2028 als Nachfolger des freigestellten Tim Walter.",
+      "schluessel": "mitch kniat|trainer"
+    },
+    "published_at": "2026-11-10T18:04:42.309239",
+    "source": "tixio - Nachrichten"
+  },
+  {
+    "id": "133c96c002",
+    "generated_title": "Braunschweig verliert Test beim SC Paderborn mit 1:4",
+    "original_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT0ZBeG5ueWg2cmFHTC14WkJGeTRHLUppRmRUTHh3VEdFSWV3WEJVZV94SzVobTRMVnJkZDN1TlJScjBkcVpXR0dpV2J5Y3JmSVhnekJWNzM2X3J0aWFqWUFtODU1d0xVQVZTTmRZbFVqYkR6QmpPWGd6LTFBUlZ4UUZVLUp0cmtWT3Axc0hEYWdxZUgyc1pvMjBNdE1xMHd1Sl9qNkt1S1ctaUJKNWpCOEVORXdlMzA4bm9oRGVjcFlPdw?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Braunschweig",
+      "event_stage": "spielbericht",
+      "main_teams": [
+        "Braunschweig"
+      ],
+      "main_players": [
+        "Lukas Frenkert",
+        "Lars Kornetka"
+      ],
+      "summary": "Eintracht Braunschweig hat ein Testspiel beim SC Paderborn mit 1:4 verloren. Lukas Frenkert traf nach der Pause erst ins eigene, dann ins richtige Tor.",
+      "one_sentence_summary": "Eintracht Braunschweig hat ein Testspiel beim SC Paderborn mit 1:4 verloren.",
+      "schluessel": "lukas frenkert|spiel"
+    },
+    "published_at": "2026-11-10T18:04:42.370114",
+    "source": "News38"
   }
 ]

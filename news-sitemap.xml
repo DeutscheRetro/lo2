@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://2liga.ligaoutsider.de/artikel/braunschweig-verliert-test-beim-sc-paderborn-mit-1-4-133c96c002.html</loc>
+    <news:news>
+      <news:publication><news:name>Ligaoutsider</news:name><news:language>de</news:language></news:publication>
+      <news:publication_date>2026-11-10T18:04:00+01:00</news:publication_date>
+      <news:title>Braunschweig verliert Test beim SC Paderborn mit 1:4</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://2liga.ligaoutsider.de/artikel/kiel-verpflichtet-mitch-kniat-als-nachfolger-von-tim-walter-51d4372563.html</loc>
+    <news:news>
+      <news:publication><news:name>Ligaoutsider</news:name><news:language>de</news:language></news:publication>
+      <news:publication_date>2026-11-10T18:03:00+01:00</news:publication_date>
+      <news:title>Kiel verpflichtet Mitch Kniat als Nachfolger von Tim Walter</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://2liga.ligaoutsider.de/artikel/daehne-faellt-nach-fingerbruch-mehrere-wochen-aus-feller-vor-rueckkehr-e832738c2d.html</loc>
     <news:news>
       <news:publication><news:name>Ligaoutsider</news:name><news:language>de</news:language></news:publication>
@@ -174,14 +190,6 @@
       <news:publication><news:name>Ligaoutsider</news:name><news:language>de</news:language></news:publication>
       <news:publication_date>2026-11-08T18:05:00+01:00</news:publication_date>
       <news:title>Magdeburg schlägt St. Pauli 4:1 und steht auf Rang 4</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://2liga.ligaoutsider.de/artikel/hannover-96-muss-in-heidenheim-auf-sahiti-neubauer-und-gindorf-77fa1903a1.html</loc>
-    <news:news>
-      <news:publication><news:name>Ligaoutsider</news:name><news:language>de</news:language></news:publication>
-      <news:publication_date>2026-11-08T15:04:00+01:00</news:publication_date>
-      <news:title>Hannover 96 muss in Heidenheim auf Sahiti, Neubauer und Gindorf verzichten</news:title>
     </news:news>
   </url>
 </urlset>
