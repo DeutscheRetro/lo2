@@ -1,0 +1,157 @@
+2026-11-10 03:29:17,606 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 1 passende Treffer
+2026-11-10 03:29:17,606 INFO S7 Ersatzquelle liefert Text (120 Wörter, 1 Quellen): Kimmich nach Rückkehr: Hier am absolut richtigen Ort
+2026-11-10 03:29:17,607 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 0 passende Treffer
+2026-11-10 03:29:17,607 INFO FinalCheck SKIP: borussia mönchengladbach/{'max muster'} stage=geruecht bereits in Archiv
+2026-11-10 03:29:17,607 INFO FinalCheck SKIP: borussia mönchengladbach/set() stage=geruecht bereits in Archiv
+2026-11-10 03:29:23,542 INFO 💶 Budget: dieser Lauf 0.000 $ | heute 0.00 $ | Monat 0.00 / 0 $
+2026-11-10 03:29:23,543 INFO URL-Cache geladen: 1347 bekannte URLs (letzte 30 Tage)
+2026-11-10 03:29:23,543 INFO === LO Generator startet – max. 50 Artikel ===
+2026-11-10 03:29:23,543 INFO Feed: https://newsfeed.kicker.de/news/3-liga
+2026-11-10 03:29:23,956 INFO Feed: https://www.sport.de/rss/news/
+2026-11-10 03:29:24,367 INFO Feed: https://www.11freunde.de/feed
+2026-11-10 03:29:25,615 INFO Feed: https://news.google.com/rss/search?q=%223.+Liga%22&hl=de&gl=DE&ceid=DE:de
+2026-11-10 03:29:26,465 WARNING Spielerliste nicht verfügbar: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-10 03:29:26,465 INFO BL-Spielerliste geladen: 0 Namen
+2026-11-10 03:29:26,465 INFO S3 keyword miss: RL-Reform: BFV stellt 22/5-Modell bei DFB-Bundestag zur Wahl
+2026-11-10 03:29:26,465 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Verletzung+Ausfall+gesperrt&hl=de&gl=DE&ceid=DE:de
+2026-11-10 03:29:26,811 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Transfer+Wechsel+verpflichtet&hl=de&gl=DE&ceid=DE:de
+2026-11-10 03:29:27,131 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Ger%C3%BCcht+Interesse+Angebot&hl=de&gl=DE&ceid=DE:de
+2026-11-10 03:29:27,461 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Vertrag+verl%C3%A4ngert+abl%C3%B6sefrei&hl=de&gl=DE&ceid=DE:de
+2026-11-10 03:29:27,763 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Trainer+Entlassung&hl=de&gl=DE&ceid=DE:de
+2026-11-10 03:29:28,157 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Saarbr%C3%BCcken%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 03:29:28,463 INFO Feed: https://news.google.com/rss/search?q=%22Alemannia+Aachen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 03:29:28,782 INFO Feed: https://news.google.com/rss/search?q=%22FC+Ingolstadt%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 03:29:29,187 INFO Feed: https://news.google.com/rss/search?q=%22Fortuna+D%C3%BCsseldorf%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 03:29:29,532 INFO Feed: https://news.google.com/rss/search?q=%22Fortuna+K%C3%B6ln%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 03:29:29,881 INFO Feed: https://news.google.com/rss/search?q=%22Hansa+Rostock%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 03:29:30,238 INFO Feed: https://news.google.com/rss/search?q=%22Jahn+Regensburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 03:29:30,590 INFO Feed: https://news.google.com/rss/search?q=%22MSV+Duisburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 03:29:31,012 INFO S3 keyword miss: NRW-Liga (- 11/12)
+2026-11-10 03:29:31,012 INFO Feed: https://news.google.com/rss/search?q=%22Preu%C3%9Fen+M%C3%BCnster%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 03:29:31,306 INFO Feed: https://news.google.com/rss/search?q=%22Rot-Weiss+Essen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 03:29:31,621 INFO Feed: https://news.google.com/rss/search?q=%22SC+Verl%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 03:29:31,923 INFO Feed: https://news.google.com/rss/search?q=%22Sonnenhof+Gro%C3%9Faspach%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 03:29:32,234 INFO Feed: https://news.google.com/rss/search?q=%22SV+Meppen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 03:29:32,541 INFO Feed: https://news.google.com/rss/search?q=%22Waldhof+Mannheim%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 03:29:32,863 INFO Feed: https://news.google.com/rss/search?q=%22Wehen+Wiesbaden%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 03:29:33,168 INFO S3 keyword miss: Volltreffer: Seitz macht Wehen zur Mannschaft der Stunde
+2026-11-10 03:29:33,169 INFO Feed: https://news.google.com/rss/search?q=%22Hoffenheim+II%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 03:29:33,459 INFO Feed: https://news.google.com/rss/search?q=%22TSV+Havelse%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 03:29:33,742 INFO Feed: https://news.google.com/rss/search?q=%22VfB+Stuttgart+II%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 03:29:34,064 INFO S2 blacklist: FC Heidenheim: Frauen mit Heimspiel gegen Herrenberg
+2026-11-10 03:29:34,064 INFO Feed: https://news.google.com/rss/search?q=%22Viktoria+K%C3%B6ln%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 03:29:34,391 INFO Feed: https://news.google.com/rss/search?q=%22W%C3%BCrzburger+Kickers%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-10 03:29:34,695 INFO S3 keyword miss: Frank Gollwitzer
+2026-11-10 03:29:34,695 INFO S2 kein BL-Klub im Titel: 2. Fußball-Bundesliga: Walter-Aus bei Holstein Kiel offiziel
+2026-11-10 03:29:34,696 INFO S3 keyword miss: Gewaltverbrechen in Polen: Todesschütze von Krakau ist tot -
+2026-11-10 03:29:34,697 INFO Feed: https://newsfeed.kicker.de/team/1-fc-saarbruecken
+2026-11-10 03:29:35,106 INFO Feed: https://newsfeed.kicker.de/team/alemannia-aachen
+2026-11-10 03:29:35,450 INFO Feed: https://newsfeed.kicker.de/team/fc-ingolstadt-04
+2026-11-10 03:29:35,632 INFO Feed: https://newsfeed.kicker.de/team/fortuna-duesseldorf
+2026-11-10 03:29:35,818 INFO Feed: https://newsfeed.kicker.de/team/hansa-rostock
+2026-11-10 03:29:36,013 INFO Feed: https://newsfeed.kicker.de/team/jahn-regensburg
+2026-11-10 03:29:36,198 INFO Feed: https://newsfeed.kicker.de/team/msv-duisburg
+2026-11-10 03:29:36,390 INFO Feed: https://newsfeed.kicker.de/team/preussen-muenster
+2026-11-10 03:29:36,665 INFO Feed: https://newsfeed.kicker.de/team/rot-weiss-essen
+2026-11-10 03:29:36,891 INFO Feed: https://newsfeed.kicker.de/team/sc-verl
+2026-11-10 03:29:37,082 INFO Feed: https://newsfeed.kicker.de/team/waldhof-mannheim
+2026-11-10 03:29:37,354 INFO Feed: https://newsfeed.kicker.de/team/sv-wehen-wiesbaden
+2026-11-10 03:29:37,622 INFO Feed: https://newsfeed.kicker.de/team/tsg-hoffenheim-ii
+2026-11-10 03:29:37,823 INFO Feed: https://newsfeed.kicker.de/team/tsv-havelse
+2026-11-10 03:29:38,024 INFO Feed: https://newsfeed.kicker.de/team/vfb-stuttgart-ii
+2026-11-10 03:29:38,292 INFO Feed: https://newsfeed.kicker.de/team/fc-viktoria-koeln
+2026-11-10 03:29:38,547 INFO Eingelesen: 1 Schlagzeilen nach den Gratis-Filtern
+2026-11-10 03:29:38,549 INFO S5: 1 neue Geschichten, 0 schon berichtet, 0 zu wartenden Geschichten ergänzt, 23 warten
+2026-11-10 03:29:45,889 INFO S6 aussortiert (doppelt): Mit Video: Nach 2:0-Führung: Passive Düsseldorfer verlieren in Ingolst
+2026-11-10 03:29:46,158 INFO S7 Ersatzquellen für "Lehrstunde im Topspiel: Saarbrückens "Gesamtkonstr": 0 passende Treffer
+2026-11-10 03:29:46,158 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Lehrstunde im Topspiel: Saarbrückens "Gesamtkonstrukt" ist n
+2026-11-10 03:29:47,400 INFO S7 kein Volltext (too_short_45_words): Unsere Profis: Joker Krauß führt Rostock zum Sieg, Ba ist wi
+2026-11-10 03:29:47,676 INFO S7 Ersatzquellen für "Unsere Profis: Joker Krauß führt Rostock zum Sieg,": 0 passende Treffer
+2026-11-10 03:29:47,677 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Unsere Profis: Joker Krauß führt Rostock zum Sieg, Ba ist wi
+2026-11-10 03:29:47,983 INFO S7 Ersatzquellen für "Rippen- und Thorax-Verletzung: Düsseldorf wochenla": 0 passende Treffer
+2026-11-10 03:29:47,983 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Rippen- und Thorax-Verletzung: Düsseldorf wochenlang ohne St
+2026-11-10 03:29:49,029 INFO S7 kein Volltext (seite_zu_alt): 3. Liga - Viktoria Köln 5 - 3 Saarbrücken
+2026-11-10 03:29:49,361 INFO S7 Ersatzquellen für "3. Liga - Viktoria Köln 5 - 3 Saarbrücken": 4 passende Treffer
+2026-11-10 03:29:50,167 INFO S7 kein Volltext (too_short_15_words): Hansa Rostock verliert erstmals: Viktoria Köln feiert 4:0-Ka
+2026-11-10 03:29:51,094 INFO S7 kein Volltext (seite_zu_alt): 3. Liga - Viktoria Köln 5 - 3 Saarbrücken
+2026-11-10 03:29:51,853 INFO S7 kein Volltext (seite_zu_alt): 3. Liga - Viktoria Köln 5 - 3 Saarbrücken
+2026-11-10 03:29:52,363 ERROR lxml parsing failed: Document is empty
+2026-11-10 03:29:52,364 ERROR lxml parser bytestring Document is empty
+2026-11-10 03:29:52,364 ERROR lxml parsing failed: Document is empty
+2026-11-10 03:29:52,364 ERROR lxml parser bytestring Document is empty
+2026-11-10 03:29:52,364 ERROR empty HTML tree: None
+2026-11-10 03:29:52,364 WARNING discarding data: None
+2026-11-10 03:29:52,365 INFO S7 kein Volltext (trafilatura_returned_empty): 3. Liga
+2026-11-10 03:29:52,365 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): 3. Liga - Viktoria Köln 5 - 3 Saarbrücken
+2026-11-10 03:29:53,215 INFO S7 kein Volltext (too_short_33_words): MSV holte dank der klassischen Hirsch-Tugenden die Punkte in
+2026-11-10 03:29:53,514 INFO S7 Ersatzquellen für "MSV holte dank der klassischen Hirsch-Tugenden die": 0 passende Treffer
+2026-11-10 03:29:53,514 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): MSV holte dank der klassischen Hirsch-Tugenden die Punkte in
+2026-11-10 03:29:54,161 INFO S7 Ersatzquellen für "Bonga verpasst den Ausgleich: Zor schießt Hoffenhe": 1 passende Treffer
+2026-11-10 03:29:54,773 ERROR lxml parsing failed: Document is empty
+2026-11-10 03:29:54,773 ERROR lxml parser bytestring Document is empty
+2026-11-10 03:29:54,773 ERROR lxml parsing failed: Document is empty
+2026-11-10 03:29:54,773 ERROR lxml parser bytestring Document is empty
+2026-11-10 03:29:54,773 ERROR empty HTML tree: None
+2026-11-10 03:29:54,773 WARNING discarding data: None
+2026-11-10 03:29:54,774 INFO S7 kein Volltext (trafilatura_returned_empty): Bonga verpasst den Ausgleich: Zor schießt Hoffenheim II zum 
+2026-11-10 03:29:54,774 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Bonga verpasst den Ausgleich: Zor schießt Hoffenheim II zum 
+2026-11-10 03:29:56,049 INFO S7 kein Volltext (too_short_23_words): BR24Sport - SV Meppen - SSV Jahn Regensburg · Highlights | 3
+2026-11-10 03:29:56,356 INFO S7 Ersatzquellen für "BR24Sport - SV Meppen - SSV Jahn Regensburg · High": 0 passende Treffer
+2026-11-10 03:29:56,357 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): BR24Sport - SV Meppen - SSV Jahn Regensburg · Highlights | 3
+2026-11-10 03:29:56,993 INFO S7 Ersatzquellen für "Abiamas Blitzstart reicht im West-Schlager: Essene": 0 passende Treffer
+2026-11-10 03:29:56,993 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Abiamas Blitzstart reicht im West-Schlager: Essener Minimali
+2026-11-10 03:29:58,182 INFO S7 kein Volltext (too_short_58_words): Sportschau 3. Liga - Matchwinner Abiama besorgt RWE den Sieg
+2026-11-10 03:29:58,467 INFO S7 Ersatzquellen für "Sportschau 3. Liga - Matchwinner Abiama besorgt RW": 0 passende Treffer
+2026-11-10 03:29:58,467 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Sportschau 3. Liga - Matchwinner Abiama besorgt RWE den Sieg
+2026-11-10 03:29:59,058 INFO S7 kein Volltext (too_short_75_words): 3. Liga: Acht-Tore-Spektakel - Viktoria Köln baut Tabellenfü
+2026-11-10 03:29:59,331 INFO S7 Ersatzquellen für "3. Liga: Acht-Tore-Spektakel - Viktoria Köln baut ": 0 passende Treffer
+2026-11-10 03:29:59,331 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): 3. Liga: Acht-Tore-Spektakel - Viktoria Köln baut Tabellenfü
+2026-11-10 03:29:59,726 INFO S7 kein Volltext (too_short_75_words): RWE: Glück für Hofmann - "Gefährdung der Gesundheit des Gege
+2026-11-10 03:30:00,075 INFO S7 Ersatzquellen für "RWE: Glück für Hofmann - "Gefährdung der Gesundhei": 0 passende Treffer
+2026-11-10 03:30:00,075 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): RWE: Glück für Hofmann - "Gefährdung der Gesundheit des Gege
+2026-11-10 03:30:01,228 INFO S7 kein Volltext (too_short_8_words): Hansa Rostocks Jantunen und Bohnert wieder bei Nationalmanns
+2026-11-10 03:30:01,513 INFO S7 Ersatzquellen für "Hansa Rostocks Jantunen und Bohnert wieder bei Nat": 0 passende Treffer
+2026-11-10 03:30:01,513 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Hansa Rostocks Jantunen und Bohnert wieder bei Nationalmanns
+2026-11-10 03:30:02,112 WARNING discarding data: None
+2026-11-10 03:30:02,113 INFO S7 kein Volltext (trafilatura_returned_empty): Alemannias gute Leistung wird am Ende deutlich getrübt
+2026-11-10 03:30:02,391 INFO S7 Ersatzquellen für "Alemannias gute Leistung wird am Ende deutlich get": 0 passende Treffer
+2026-11-10 03:30:02,391 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Alemannias gute Leistung wird am Ende deutlich getrübt
+2026-11-10 03:30:03,098 WARNING discarding data: None
+2026-11-10 03:30:03,099 INFO S7 kein Volltext (trafilatura_returned_empty): Serie gerissen, doch die Entwicklung der Alemannia geht weit
+2026-11-10 03:30:03,387 INFO S7 Ersatzquellen für "Serie gerissen, doch die Entwicklung der Alemannia": 0 passende Treffer
+2026-11-10 03:30:03,387 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Serie gerissen, doch die Entwicklung der Alemannia geht weit
+2026-11-10 03:30:03,774 INFO S7 kein Volltext (too_short_75_words): RWE-Talk: Liga im Blick und die mega RWE-Defensive - so geht
+2026-11-10 03:30:04,110 INFO S7 Ersatzquellen für "RWE-Talk: Liga im Blick und die mega RWE-Defensive": 0 passende Treffer
+2026-11-10 03:30:04,110 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): RWE-Talk: Liga im Blick und die mega RWE-Defensive - so geht
+2026-11-10 03:30:04,469 INFO S7 kein Volltext (too_short_75_words): MSV Duisburg: Kother blickt auf Pokal-Derby in Düsseldorf: „
+2026-11-10 03:30:04,764 INFO S7 Ersatzquellen für "MSV Duisburg: Kother blickt auf Pokal-Derby in Düs": 0 passende Treffer
+2026-11-10 03:30:04,765 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): MSV Duisburg: Kother blickt auf Pokal-Derby in Düsseldorf: „
+2026-11-10 03:30:05,489 INFO S7 kein Volltext (too_short_52_words): Rot-Weiss Essen: Aachen-Torwart Manuel Riemann irritiert mit
+2026-11-10 03:30:05,793 INFO S7 Ersatzquellen für "Rot-Weiss Essen: Aachen-Torwart Manuel Riemann irr": 0 passende Treffer
+2026-11-10 03:30:05,793 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Rot-Weiss Essen: Aachen-Torwart Manuel Riemann irritiert mit
+2026-11-10 03:30:07,431 INFO S7 kein Volltext (too_short_51_words): SC Verls Trainer Shala sauer über umstrittenen Elfmeter für 
+2026-11-10 03:30:07,739 INFO S7 Ersatzquellen für "SC Verls Trainer Shala sauer über umstrittenen Elf": 0 passende Treffer
+2026-11-10 03:30:07,739 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): SC Verls Trainer Shala sauer über umstrittenen Elfmeter für 
+2026-11-10 03:30:08,661 INFO S7 kein Volltext (seite_zu_alt): Hannover 96 vs TSV Havelse - Club Freundschaftsspiele
+2026-11-10 03:30:08,933 INFO S7 Ersatzquellen für "Hannover 96 vs TSV Havelse - Club Freundschaftsspi": 0 passende Treffer
+2026-11-10 03:30:08,933 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Hannover 96 vs TSV Havelse - Club Freundschaftsspiele
+2026-11-10 03:30:09,939 INFO S7 kein Volltext (too_short_36_words): SV-Meppen-Coach über Siegtorschütze Jonas Goldenstein: „War 
+2026-11-10 03:30:10,235 INFO S7 Ersatzquellen für "SV-Meppen-Coach über Siegtorschütze Jonas Goldenst": 0 passende Treffer
+2026-11-10 03:30:10,235 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): SV-Meppen-Coach über Siegtorschütze Jonas Goldenstein: „War 
+2026-11-10 03:30:11,923 INFO S7 kein Volltext (low_unique_content_ratio): TSG 1899 Hoffenheim II: Was kommt nach dem 0:1 gegen FC Würz
+2026-11-10 03:30:12,250 INFO S7 Ersatzquellen für "TSG 1899 Hoffenheim II: Was kommt nach dem 0:1 geg": 0 passende Treffer
+2026-11-10 03:30:12,250 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): TSG 1899 Hoffenheim II: Was kommt nach dem 0:1 gegen FC Würz
+2026-11-10 03:30:12,636 INFO S7 kein Volltext (too_short_75_words): Kommentar: RWE wie der FC Arsenal? Koschinat und Co. trotzen
+2026-11-10 03:30:12,947 INFO S7 Ersatzquellen für "Kommentar: RWE wie der FC Arsenal? Koschinat und C": 0 passende Treffer
+2026-11-10 03:30:12,947 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Kommentar: RWE wie der FC Arsenal? Koschinat und Co. trotzen
+2026-11-10 03:30:14,890 INFO S7 kein Volltext (seite_zu_alt): Vor dem Duell mit seinem Ex-Klub: So sieht Mersad Selimbegov
+2026-11-10 03:30:15,156 INFO S7 Ersatzquellen für "Vor dem Duell mit seinem Ex-Klub: So sieht Mersad ": 0 passende Treffer
+2026-11-10 03:30:15,156 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Vor dem Duell mit seinem Ex-Klub: So sieht Mersad Selimbegov
+2026-11-10 03:30:15,157 INFO S9.5 FinalCheck: 0/0 durch
+2026-11-10 03:30:15,158 WARNING Sitemap ohne Spielerseiten: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-10 03:30:15,159 INFO 💶 Kosten: dieser Lauf 0.000 $ (Budget 0.000 $) | heute 0.00 $ | Monat 0.00 / 0 $ | konferenz (abo) 1× 0.000 $
+2026-11-10 03:30:15,159 INFO 🎫 Abo-Verbrauch: 1,673 Tokens rein (davon Cache gelesen 0), 733 raus, API-Gegenwert 0.01 $ | konferenz 1×: 1,673/733
+2026-11-10 03:30:15,161 INFO Feeds: 45/45 begonnen, nächster Lauf startet bei Nr. 0
+2026-11-10 03:30:15,161 INFO URL-Cache gespeichert: 1356 URLs
+2026-11-10 03:30:15,161 INFO === Fertig. 0 neue Artikel. feed.json: 13 ===
+2026-11-10 03:30:15,161 INFO Stats: {"ts": "20261110_0329", "ingested": 9, "s2_pre_filter": 3, "s3_relevance": 5, "s4_dedup_early": 0, "gesammelt": 1, "geschichten_neu": 1, "s5_archiv_doppelt": 0, "s5_zusammengefuehrt": 0, "s6_aussortiert": 1, "s7_geschrieben": 0, "s7_verworfen": 0, "s5_fulltext_fail": 23, "s8_qa_rejected": 0, "published": 0, "kosten": {"lauf_usd": 0.0, "lauf_budget_usd": 0.0, "heute_usd": 0.0, "monat_usd": 0.0, "monatsbudget_usd": 0.0, "aufrufe": {"konferenz (abo)": {"anzahl": 1, "usd": 0.0}}, "guthaben_leer": false, "abo": true, "abo_tokens": {"konferenz": {"aufrufe": 1, "ein": 1673, "cache_schreiben": 0, "cache_lesen": 0, "aus": 733, "api_wert_usd": 0.0053}}}}
