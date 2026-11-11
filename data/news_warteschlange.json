@@ -1,122 +1,5 @@
 [
  {
-  "id": "05207ce2a1",
-  "schluessel": "hannover|transfer",
-  "person": "",
-  "spieler": [],
-  "klub": "Hannover",
-  "klubs": [
-   "Hannover"
-  ],
-  "stufe": "geruecht",
-  "klasse": "transfer",
-  "titel": "Sportchef-Suche bei Hannover 96: Lederer Top-Kandidat? Kind bindet Wagner „vollkommen“ ein",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQWMweDVPQ3pFSzZhVlNrRURINHRoOUs2UmtJV1hWeEh5ZzcwOVBJR1Roa1hCZ1VtS1BTenJ1NVE1ZXlUUmFZcFdRT1Z3RlpDdXlzTkhaUkltLU9BcXQwNVJwNmEtYjJIOC1YUUh0TEdZRDh5OFhVVDVad0Q5UXZ1UVNTdzlGeVhKeTI5TC1fZUJSaUE1b3VBTXBOSW81dFNJOE5Zc0lkaE82V1lNenhZLVlVUXVyeVRZQnViSkROdWZwTEczS3I5VkZ1TmtURVFOVmZR?oc=5",
-    "aid": "adc98dbbac",
-    "titel": "Sportchef-Suche bei Hannover 96: Lederer Top-Kandidat? Kind bindet Wagner „vollkommen“ ein",
-    "quelle": "Transfermarkt",
-    "beschr": " Sportchef-Suche bei Hannover 96: Lederer Top-Kandidat? Kind bindet Wagner „vollkommen“ ein &nbsp;&nbsp; Transfermarkt ",
-    "zeit": "2026-11-10T21:02"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "u",
-  "erstmals": "2026-11-11T09:01",
-  "archiv": [
-   {
-    "id": "c4b2de1f98",
-    "titel": "Hannover 96 prüft offenbar Marko Marin als Sportchef",
-    "datum": "06.11.",
-    "stufe": "geruecht",
-    "summary": "Hannover 96 sucht nach dem Aus von Jonas Boldt einen neuen starken Mann für den Sport. Laut Sky und RTL ist Marko Marin von Roter Stern Belgrad ein Kandidat, aber kein Topfavorit."
-   },
-   {
-    "id": "e1e975ae4a",
-    "titel": "Hannover 96 sucht Sportchef: Drei Kandidaten nach Boldt-Aus",
-    "datum": "03.11.",
-    "stufe": "geruecht",
-    "summary": "Hannover 96 hat nach dem Aus von Jonas Boldt laut Aufsichtsratschef Martin Kind drei Kandidaten für den Sportchef-Posten. Ein neuer Mann soll Mitte oder Ende November kommen, Sportdirektor Ralf Becker steht offenbar vor dem Aus."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "44748dafd7",
-  "schluessel": "wolfsburg|verletzung",
-  "person": "",
-  "spieler": [],
-  "klub": "Wolfsburg",
-  "klubs": [
-   "Wolfsburg"
-  ],
-  "stufe": "ausfall",
-  "klasse": "verletzung",
-  "titel": "Wolfsburg-Verteidiger Cleiton für zwei Spiele gesperrt",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb0FCd20xRUFTRVBQYTlMcW1NemVIVDdmaThBWkFkdWotamVOZ1pmWFNOMzRNdDVEOHc0eTV0aFJLZDRuZ05PUlpMQ19KLWUtZ3czQkNxRktYY2NTTmx3TDkzbXFfT3pRVzhVVW1Ed1hJSHNpbUFnd1Zhc2JVbEtRVFFzazM0bU9OYmRiTUZmRjh2R1o2Yzk4TdIBngFBVV95cUxOZEtfNkJNZjlFWlJ4aDFfRWVva2NVTzExMWhDaXBodDJlNzl6UWJBUWF3bjNFOVJCdlBpd1ZSQzFQWVlaTC1SUUt4S2dDYkUxUVlSMUh6bzN0OEo1SEhncVd6UE8xY1AtWFNMRU1EdHV2YzRpZTJVcl82VEtWU24wbHNra1pxOHo5R1dXbE5MeHNqSTA3bHNfcVBrNzZmQQ?oc=5",
-    "aid": "56df5ff476",
-    "titel": "Wolfsburg-Verteidiger Cleiton für zwei Spiele gesperrt",
-    "quelle": "Tribuna.com",
-    "beschr": " Wolfsburg-Verteidiger Cleiton für zwei Spiele gesperrt &nbsp;&nbsp; Tribuna.com ",
-    "zeit": "2026-11-10T12:25"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-11T09:01",
-  "archiv": [
-   {
-    "id": "7e1135c173",
-    "titel": "Leitl vor Reese-Rückkehr: „Es geht um den VfL Wolfsburg“",
-    "datum": "05.11.",
-    "stufe": "rueckkehr",
-    "summary": "Herthas Trainer Stefan Leitl will die Rückkehr von Fabian Reese vor dem Spitzenspiel gegen Wolfsburg nüchtern betrachten. Der ungeschlagene Tabellenführer trifft am Samstagabend im Olympiastadion auf den Drittplatzierten."
-   },
-   {
-    "id": "f32559af08",
-    "titel": "Hertha vor Wolfsburg: Nilsson und Dardai zurück im Training",
-    "datum": "03.11.",
-    "stufe": "rueckkehr",
-    "summary": "Herthas Stürmer Gustaf Nilsson und Innenverteidiger Marton Dardai sind nach Verletzungen ins Mannschaftstraining zurückgekehrt. Am Samstagabend wartet im Olympiastadion das Topspiel gegen Wolfsburg."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "c9bad1a46b",
-  "schluessel": "furth|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Fürth",
-  "klubs": [
-   "Fürth"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Warum sich Präsident Heißmann nach dem Ja zur SpVgg Fürth noch mehr Teilhabe wünscht",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcy1lZVM3OHlHRTdjdXFzMFRDRkJsZXVndHJMdHpneGFPVTI5SWx6SUNScTEyM1NmbmlnQzFHeGtaaGNVc3UwdWhIUHlnS1hGRC1NUlEwbmVjV3ZnVEpKNU5RMlE5Q2pvb0NpMm5HakhrN0ZOQnM0RjR5QlZGZ1dkSnRBNll2ZUN6MzNkemxnOEV2R3VNaXBYRldCbFhfODQtLUlWV2c2VDZlbUpScjV2V2s5dS0tM1ZQdFFYVGo2ZzhTQ214REZ2blplQUVyUDA5QjBJZzNYYm5Udw?oc=5",
-    "aid": "cf2b646fd4",
-    "titel": "Warum sich Präsident Heißmann nach dem Ja zur SpVgg Fürth noch mehr Teilhabe wünscht",
-    "quelle": "NN.de",
-    "beschr": " Warum sich Präsident Heißmann nach dem Ja zur SpVgg Fürth noch mehr Teilhabe wünscht &nbsp;&nbsp; NN.de ",
-    "zeit": "2026-11-11T08:00"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-11T09:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
   "id": "cf888f253a",
   "schluessel": "nurnberg|sonstiges",
   "person": "",
@@ -144,7 +27,7 @@
   "status": "n",
   "erstmals": "2026-11-11T12:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "f04d9c6e15",
@@ -188,7 +71,7 @@
     "summary": "Hannover 96 hat nach dem Aus von Jonas Boldt laut Aufsichtsratschef Martin Kind drei Kandidaten für den Sportchef-Posten. Ein neuer Mann soll Mitte oder Ende November kommen, Sportdirektor Ralf Becker steht offenbar vor dem Aus."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "d8aed46520",
@@ -232,6 +115,174 @@
     "summary": "Wolfsburgs Rechtsverteidiger Saël Kumbedi wurde von Frankreichs Nationaltrainer Zinédine Zidane erstmals für die A-Nationalmannschaft nachnominiert. Er ersetzt den verletzten Pierre Kalulu für die Nations-League-Spiele gegen Italien und die Türkei."
    }
   ],
+  "versuche": 2
+ },
+ {
+  "id": "2c154c2fc3",
+  "schluessel": "bochum|transfer",
+  "person": "",
+  "spieler": [],
+  "klub": "Bochum",
+  "klubs": [
+   "Bochum"
+  ],
+  "stufe": "geruecht",
+  "klasse": "transfer",
+  "titel": "Wer könnte gehen? Bochum braucht Transfererträge",
+  "quellen": [
+   {
+    "url": "https://www.kicker.de/wer-koennte-gehen-bochum-braucht-transferertraege-1270637/artikel#omrss",
+    "aid": "012bb6fe74",
+    "titel": "Wer könnte gehen? Bochum braucht Transfererträge",
+    "quelle": "kicker 2. Bundesliga News",
+    "beschr": "Der Verkauf eines Spielers, der wirtschaftlich unumgänglich ist, hat beim VfL Bochum gewissermaßen Tradition. Schon vor Jahrzehnten mussten wichtige Akteure transferiert werden. Jupp Tenhagen dient als prominentes Beispiel.",
+    "zeit": "2026-11-11T13:57"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-11T15:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "571d4932ec",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Sportdirektor-Suche: Schaut Hannover nach Southampton?",
+  "quellen": [
+   {
+    "url": "https://www.kicker.de/sportdirektor-suche-schaut-hannover-nach-southampton-1270648/artikel#omrss",
+    "aid": "650293950e",
+    "titel": "Sportdirektor-Suche: Schaut Hannover nach Southampton?",
+    "quelle": "kicker 2. Bundesliga News",
+    "beschr": "Laut \"Bild\" soll Southamptons Tim Lederer zu den drei Kandidaten zählen, die Martin Kind für die vakante Rolle des Sportdirektors in Hannover in Betracht zieht. Eine Verpflichtung könnte sich laut kicker-Informationen jedoch schwierig gestalten.",
+    "zeit": "2026-11-11T12:07"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-11T15:01",
+  "archiv": [
+   {
+    "id": "afa3db9641",
+    "titel": "Hannover 96 trennt sich nach fünf Monaten von Sportchef Boldt",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Hannover 96 hat Sport-Geschäftsführer Jonas Boldt nach nur fünf Monaten mit sofortiger Wirkung abberufen. Der Klub steht nach neun Spieltagen mit acht Punkten auf Platz 16."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "468895d0fa",
+  "schluessel": "koln|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Köln",
+  "klubs": [
+   "Köln"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Entscheidung gefallen: Offensivstar soll Köln im Winter verlassen",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWE9pbUpzb3pXdXRMVWFmV3pELTMwM0RDaHJ6bnRPaGFmNnM4SklrcXFnTVdaTG83SGIyUVZmNVQ2MVZTYi1xZnhvcmliLUstRlRpWnE4UHZYaVNuVG1la2RYd1lBa3FQTmViZDlkc0hlT29HWUZYNm0xSGhiLVFST1hiYVI1a0t3Ui1TZnlRelNKYjg0dFRJaFJRc19rZw?oc=5",
+    "aid": "c73254c984",
+    "titel": "Entscheidung gefallen: Offensivstar soll Köln im Winter verlassen",
+    "quelle": "fussballdaten.de",
+    "beschr": " Entscheidung gefallen: Offensivstar soll Köln im Winter verlassen &nbsp;&nbsp; fussballdaten.de ",
+    "zeit": "2026-11-11T07:49"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-11T15:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "44dd85be9a",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Trainer und Fans nähern sich an: Das findet Sandro Wagner an Hannover 96 „cool“ – und das (noch) nicht",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMVpMR0k5d1BsbjhRbWUzbGJDR1pWUHNLUERjejBHVGRjV1ZoVVBMbldPS0doQkJsSjJZU0N2Y0FGRlNVcFhpZHZGdEhoY05nbVBNS1JKWS1hRnJNc1BGVjBGUUxvVEFNUDZyaG9GRlhTRENaM0xsR1FMR2owRGVOM3NaUkVxQjU0N3lMdElFdkdZcUpzVTU0MlN1OVFLbC1BdS1pUFZKMlBTR2tnMjB5a0RmcUpJR3lsNHJkQWlVMDZGS2RZXy1tRlBJVF9LLTI2bzV3R1pZVUoxUk5u?oc=5",
+    "aid": "b18991dfc9",
+    "titel": "Trainer und Fans nähern sich an: Das findet Sandro Wagner an Hannover 96 „cool“ – und das (noch) nicht",
+    "quelle": "Neue Presse",
+    "beschr": " Trainer und Fans nähern sich an: Das findet Sandro Wagner an Hannover 96 „cool“ – und das (noch) nicht &nbsp;&nbsp; Neue Presse ",
+    "zeit": "2026-11-11T13:05"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-11T15:01",
+  "archiv": [
+   {
+    "id": "46380a1986",
+    "titel": "Wontorra stärkt Hannovers Trainer Wagner den Rücken",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Moderatorin Laura Wontorra stärkt Hannovers Trainer Sandro Wagner, der nach vier Pflichtspielen noch sieglos ist, im Podcast „TOMorrow“ den Rücken. Sie traut ihm eine große Trainerkarriere zu."
+   },
+   {
+    "id": "afa3db9641",
+    "titel": "Hannover 96 trennt sich nach fünf Monaten von Sportchef Boldt",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Hannover 96 hat Sport-Geschäftsführer Jonas Boldt nach nur fünf Monaten mit sofortiger Wirkung abberufen. Der Klub steht nach neun Spieltagen mit acht Punkten auf Platz 16."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "166a6929ea",
+  "schluessel": "wolfsburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Wolfsburg",
+  "klubs": [
+   "Wolfsburg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "VfL Wolfsburg und Japan-Nationalspieler Kento Shiogai: Wird es Liebe auf den zweiten Blick?",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZi16dUt4V3dTTmlwSzJMSTNKbldndDVfU0o1bEpFVUlWYkR1emkwSDYtMC1VMVVHY054MU5Vak52UHB6dDZmV1NPNUpPVEtNVWFUYUVRR2RrOVY3bC1kdXdTdk9uXzYwS1B2ZzI2dnlZYUI0cUtteVZ0WkhtNEg4ZWMxWWJVMmZoNVYtQkIxNGVwa3g5SEF6OWFfS3pvSnNFcUFGeDFxeENzSERLeEVsTGNPNHRtOFFHOXR0c1dNZ3QyVm9PYnBzbUxJbjB3SVFtVWpLWFpYWEh3U2xmUjlqUHdKT2hOdEpjV3A3WVByOW50VElM0gGQAkFVX3lxTFBTc1MwRGxSM3BmYlBkVDNCcVprR2NtLUZjaEVxY294cFlyRG0yMnY4U1plTkJhYy1VaUJ4RGx5TGtHU2txUmZmNjZDdzhja1BJZnZxNHpLTW85SkZLZjZESkxUVkhaZFg4MVp6TktMUDhRbWpYTDJaY3RCbWdNc082UGg5Tk1WM1dYU1ExbDBrSDk4OC0tQVhGM3FoSnhYRkRUaDlKUUYyR3RHZzEycERfV3dkeWNDRmVTRExaQ3FiYm9neUtOTHNHTEMwdkR6ZDRIeDRUNWQ1N3hPV2lGWmZwYjZTWGtHTU1yOUdJN0NWUGYyUlVGOEJ1ZDFfYzBfczItemNJeFlYdXFLVWxiQmNr?oc=5",
+    "aid": "3166028a92",
+    "titel": "VfL Wolfsburg und Japan-Nationalspieler Kento Shiogai: Wird es Liebe auf den zweiten Blick?",
+    "quelle": "WAZ-ONLINE.de",
+    "beschr": " VfL Wolfsburg und Japan-Nationalspieler Kento Shiogai: Wird es Liebe auf den zweiten Blick? &nbsp;&nbsp; WAZ-ONLINE.de ",
+    "zeit": "2026-11-11T13:43"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-11T15:01",
+  "archiv": [],
   "versuche": 1
  }
 ]
