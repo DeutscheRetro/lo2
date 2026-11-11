@@ -1,123 +1,5 @@
 [
  {
-  "id": "cf888f253a",
-  "schluessel": "nurnberg|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Nürnberg",
-  "klubs": [
-   "Nürnberg",
-   "Darmstadt"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Justvan erklärt, warum der FCN dominant spielen muss",
-  "quellen": [
-   {
-    "url": "https://www.kicker.de/justvan-erklaert-warum-der-fcn-dominant-spielen-muss-1269918/artikel#omrss",
-    "aid": "0335e8d05c",
-    "titel": "Justvan erklärt, warum der FCN dominant spielen muss",
-    "quelle": "kicker 2. Bundesliga News",
-    "beschr": "Der 1. FC Nürnberg gewinnt munter weiter und hält sich hartnäckig in der Spitzengruppe der 2. Liga. Gegen Darmstadt zeigte der Club aber auch Schwächen, die offenlegten, was der nächste Schritt sein muss.",
-    "zeit": "2026-11-11T10:02"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-11T12:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "f04d9c6e15",
-  "schluessel": "hannover|transfer",
-  "person": "",
-  "spieler": [],
-  "klub": "Hannover",
-  "klubs": [
-   "Hannover"
-  ],
-  "stufe": "geruecht",
-  "klasse": "transfer",
-  "titel": "Wer wird der neue Mann für Hannover 96? Kandidaten aus der 3. Liga, aus der Schweiz und England",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOd2dFUzB4V09OQjdWTk0zVWNzRzE3cUlNU2g4WGYyaTNJemFOamVsQU1JTHZxeUk2N2tnN2pValFHOFFZcmdVZUlvSFJVV0lvbFhWUHBYV1R5d3ZaNnVfMnVlUFdVc3BkQ3pZdUNLem0tWXpfU01EelJKc3pjM3hvNzFaTUZsVE9IcWQ1ZTFzZjhtckJOVXdhQUxwbHdWSFFDVUZQc05PTzJ2QjBWTlRSQTdJQ3owb1J0azdYSS1LNlFCaG9tLXBsQ2ItMHNVOEdGbmdSTE5vU1JTb2UxSm5ITGlSX1JOY21hMzdWMjJSeFNKYUNLdW5yUkZ6RkVmdG14Ymc?oc=5",
-    "aid": "765f9b8520",
-    "titel": "Wer wird der neue Mann für Hannover 96? Kandidaten aus der 3. Liga, aus der Schweiz und England",
-    "quelle": "Neue Presse",
-    "beschr": " Wer wird der neue Mann für Hannover 96? Kandidaten aus der 3. Liga, aus der Schweiz und England &nbsp;&nbsp; Neue Presse ",
-    "zeit": "2026-11-11T10:37"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "u",
-  "erstmals": "2026-11-11T12:01",
-  "archiv": [
-   {
-    "id": "c4b2de1f98",
-    "titel": "Hannover 96 prüft offenbar Marko Marin als Sportchef",
-    "datum": "06.11.",
-    "stufe": "geruecht",
-    "summary": "Hannover 96 sucht nach dem Aus von Jonas Boldt einen neuen starken Mann für den Sport. Laut Sky und RTL ist Marko Marin von Roter Stern Belgrad ein Kandidat, aber kein Topfavorit."
-   },
-   {
-    "id": "e1e975ae4a",
-    "titel": "Hannover 96 sucht Sportchef: Drei Kandidaten nach Boldt-Aus",
-    "datum": "03.11.",
-    "stufe": "geruecht",
-    "summary": "Hannover 96 hat nach dem Aus von Jonas Boldt laut Aufsichtsratschef Martin Kind drei Kandidaten für den Sportchef-Posten. Ein neuer Mann soll Mitte oder Ende November kommen, Sportdirektor Ralf Becker steht offenbar vor dem Aus."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "d8aed46520",
-  "schluessel": "wolfsburg|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Wolfsburg",
-  "klubs": [
-   "Wolfsburg"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Wolfsburg spaziert ins Achtelfinale des Europa Cup",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTk5rSERJQU9ReXkzU01LS0dRM0RmVXR5TUE1dW5CelNuZTlWMUd0ZnBKczV3TVJ4d3FPUzd4OERqQlpnX3AzcVUyQTVieU5DTndBYXRzMlcxdG9yWWsxY1lCc0xYVzdOQU9oMjQtNzgtN0tzVG1QVU9tdTNOMmY3TE1nWEFKR2c4SEg4aFlnNTIwalRCaDFjc2dKWnR4UQ?oc=5",
-    "aid": "64547bc750",
-    "titel": "Wolfsburg spaziert ins Achtelfinale des Europa Cup",
-    "quelle": "WEB.DE",
-    "beschr": " Wolfsburg spaziert ins Achtelfinale des Europa Cup &nbsp;&nbsp; WEB.DE ",
-    "zeit": "2026-11-11T11:33"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-11T12:01",
-  "archiv": [
-   {
-    "id": "1868a7668d",
-    "titel": "Damar über Elversberg-Anfrage: „Habe mich für Wolfsburg entschieden“",
-    "datum": "11.11.",
-    "stufe": "sonstiges",
-    "summary": "Wolfsburgs Muhammed Damar hat verraten, dass er eine Anfrage der SV Elversberg abgelehnt hat. Der Mittelfeldspieler kommt für die Wölfe nach 13 Einsätzen auf vier Tore und zwei Vorlagen."
-   },
-   {
-    "id": "21226d5f23",
-    "titel": "Wolfsburgs Saël Kumbedi erstmals in Frankreichs A-Nationalmannschaft",
-    "datum": "09.11.",
-    "stufe": "sonstiges",
-    "summary": "Wolfsburgs Rechtsverteidiger Saël Kumbedi wurde von Frankreichs Nationaltrainer Zinédine Zidane erstmals für die A-Nationalmannschaft nachnominiert. Er ersetzt den verletzten Pierre Kalulu für die Nations-League-Spiele gegen Italien und die Türkei."
-   }
-  ],
-  "versuche": 2
- },
- {
   "id": "2c154c2fc3",
   "schluessel": "bochum|transfer",
   "person": "",
@@ -144,7 +26,7 @@
   "status": "n",
   "erstmals": "2026-11-11T15:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "571d4932ec",
@@ -181,7 +63,7 @@
     "summary": "Hannover 96 hat Sport-Geschäftsführer Jonas Boldt nach nur fünf Monaten mit sofortiger Wirkung abberufen. Der Klub steht nach neun Spieltagen mit acht Punkten auf Platz 16."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "468895d0fa",
@@ -210,7 +92,7 @@
   "status": "n",
   "erstmals": "2026-11-11T15:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "44dd85be9a",
@@ -254,7 +136,7 @@
     "summary": "Hannover 96 hat Sport-Geschäftsführer Jonas Boldt nach nur fünf Monaten mit sofortiger Wirkung abberufen. Der Klub steht nach neun Spieltagen mit acht Punkten auf Platz 16."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "166a6929ea",
@@ -283,6 +165,241 @@
   "status": "n",
   "erstmals": "2026-11-11T15:01",
   "archiv": [],
+  "versuche": 2
+ },
+ {
+  "id": "8c180ade2e",
+  "schluessel": "nurnberg|transfer",
+  "person": "",
+  "spieler": [],
+  "klub": "Nürnberg",
+  "klubs": [
+   "Nürnberg"
+  ],
+  "stufe": "geruecht",
+  "klasse": "transfer",
+  "titel": "Interesse nicht nur aus Augsburg: Reichert lässt sich nicht in die Karten schauen",
+  "quellen": [
+   {
+    "url": "https://www.kicker.de/interesse-nicht-nur-aus-augsburg-reichert-laesst-sich-nicht-in-die-karten-schauen-1270754/artikel#omrss",
+    "aid": "701052bad1",
+    "titel": "Interesse nicht nur aus Augsburg: Reichert lässt sich nicht in die Karten schauen",
+    "quelle": "kicker 2. Bundesliga News",
+    "beschr": "Den auslaufenden Vertrag von Jan Reichert hätte der 1. FC Nürnberg gern schon vor vielen Monaten verlängert. Der 25-jährige Kapitän verspürt aber keine Eile - ausgerechnet jetzt, wo die Gerüchteküche zu brodeln beginnt.",
+    "zeit": "2026-11-11T17:29"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-11T18:01",
+  "archiv": [
+   {
+    "id": "0e20d2bb72",
+    "titel": "Nürnberg: Chatzialexiou-Wechsel nach Frankfurt rückt näher",
+    "datum": "07.11.",
+    "stufe": "einigung",
+    "summary": "Nürnbergs Aufsichtsratschef Peter Meier bestätigt Gespräche über eine frühere Freigabe von Joti Chatzialexiou zu Eintracht Frankfurt. Ein Termin steht noch nicht fest, der Wechsel dürfte aber deutlich vor Februar erfolgen."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "16cb51a964",
+  "schluessel": "magdeburg|transfer",
+  "person": "",
+  "spieler": [],
+  "klub": "Magdeburg",
+  "klubs": [
+   "Magdeburg"
+  ],
+  "stufe": "geruecht",
+  "klasse": "transfer",
+  "titel": "Erstmals im A-Nationalteam: Luka Hyryläinen überzeugt beim 1. FC Magdeburg und weckt Interesse",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNE14TlI4VDctbUJRQmJtd0NHanVEMm54TXVpU2hia0FVZ0dTYlFCczYyWUFHSi1JZlJKN0dnNVVQMmtzS0pKSGcwMHJ2NUtkVnFUQVFneEtySzRDQld6a0gtdjRBQ1ZGYzIydENhZ3B4OU53RWdJMy1uQ01OVkxiYmh6UUkwaHd4d0FSQ1lZdEp0WkZJUEthdkhjbmNxaGthWFYyVE14ZjczaVdnOG9fYU1DUEd0dU5ETFJSZ2FlMHNBeFdVaXNJdNIBzgFBVV95cUxOZmYwS2ZWb3h6UC1oRGNfQUs3SWhuQzFwRWw5ZndlSzFoYUVkY0ZfVEV6ajcwVUFFT0dobWg0cVV2XzQ4czM4RTdjalZrYkFSN19JTjJmRGlmZXViSVZSdWpsbnNoXzFlTUZqRVlqWDhpb1BpQktrUV8zRnJnNTduc1NSME9xajhRUWZTeGpzUlQ2Q19Wc3hibUJXb2dNQ3dKVTVELS1ucFh2RmFXRGM2c01FcnNfbzJoenZWMURKcUpheXgzWEt0ZEJSTlQtdw?oc=5",
+    "aid": "f732f929a2",
+    "titel": "Erstmals im A-Nationalteam: Luka Hyryläinen überzeugt beim 1. FC Magdeburg und weckt Interesse",
+    "quelle": "Tribuna.com",
+    "beschr": " Erstmals im A-Nationalteam: Luka Hyryläinen überzeugt beim 1. FC Magdeburg und weckt Interesse &nbsp;&nbsp; Tribuna.com ",
+    "zeit": "2026-11-11T13:33"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "u",
+  "erstmals": "2026-11-11T18:01",
+  "archiv": [
+   {
+    "id": "03783c0c1f",
+    "titel": "Magdeburg lehnt Hyryläinen-Abgang ab: „Luka ist unser Spieler“",
+    "datum": "11.11.",
+    "stufe": "geruecht",
+    "summary": "Magdeburgs Sportchef Peer Jaekel erteilt Gerüchten um einen Hoffenheimer Rückkauf von Luka Hyryläinen eine Absage. Der Finne hat beim FCM noch einen Vertrag bis 2028."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "d8e77e0890",
+  "schluessel": "dresden|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Dresden",
+  "klubs": [
+   "Dresden"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "\"Haben Qualität für das Mittelfeld\": Ralf Minge bewertet die Arbeit von Thomas Stamm bei Dynamo Dresden",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdnFfTjkxVE1vVEZVLXpEU1VQYldhNUwxY2Vsd1lkVkdacGdhRFFXWFhsYkxTRVpRYlJ1am1qWGpQU3VFQ0RmX1lob3dFZmJpekQzYksxWUl5TFkxM1ZZOU0zM1hEcldPSkZzdF93bF9VbmZFQUhNczc3LTZ3MHZmeU4waE9VWi1pWWRDYlFPWEc4WElEa29NY0xacjBoT0Y5dHg5MzFBZ3lHUVV5ZF9vSWJFTnI1amZpRUk3M1JGYW9rVjZ0TEJkeF9SVE15QdIBzgFBVV95cUxOdnFfTjkxVE1vVEZVLXpEU1VQYldhNUwxY2Vsd1lkVkdacGdhRFFXWFhsYkxTRVpRYlJ1am1qWGpQU3VFQ0RmX1lob3dFZmJpekQzYksxWUl5TFkxM1ZZOU0zM1hEcldPSkZzdF93bF9VbmZFQUhNczc3LTZ3MHZmeU4waE9VWi1pWWRDYlFPWEc4WElEa29NY0xacjBoT0Y5dHg5MzFBZ3lHUVV5ZF9vSWJFTnI1amZpRUk3M1JGYW9rVjZ0TEJkeF9SVE15QQ?oc=5",
+    "aid": "5b9e6f8b1e",
+    "titel": "\"Haben Qualität für das Mittelfeld\": Ralf Minge bewertet die Arbeit von Thomas Stamm bei Dynamo Dresden",
+    "quelle": "Tribuna.com",
+    "beschr": " \"Haben Qualität für das Mittelfeld\": Ralf Minge bewertet die Arbeit von Thomas Stamm bei Dynamo Dresden &nbsp;&nbsp; Tribuna.com ",
+    "zeit": "2026-11-11T13:25"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-11T18:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "5a4b22c3ba",
+  "schluessel": "hannover|verletzung",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover"
+  ],
+  "stufe": "rueckkehr",
+  "klasse": "verletzung",
+  "titel": "Witziges Torgeheimnis: Lars Gindorf vor Comeback für Hannover 96 gegen Havelse",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSzEtQ01VOHdZRXhfUUhUb2k2X19iQ1JDX3N4R3I1LWFMZkxHTFdXRV9YNDhUbTUzVFVCQmpWei1WSVZDUnlsdElIbU5aSjNGWTZKbjVVQy16ODRtUG40VVExdEtrWF9iNEppQUpiRlUzbnBid28wLW9NV1lHWWJuWERWNnZXdGJoUHRGeTZlYUlzaV95cGhvQnlIdzJoTFcyemRCY2c2TlpGUmI3MUxRVGJPRWZMTDhmWktQTjJyb2kyRVp2QWk2ZnBMSjVIUnM3YTZDRXJEQzA0WnR1WWVRYXAtdC1IUQ?oc=5",
+    "aid": "899b65e956",
+    "titel": "Witziges Torgeheimnis: Lars Gindorf vor Comeback für Hannover 96 gegen Havelse",
+    "quelle": "Neue Presse",
+    "beschr": " Witziges Torgeheimnis: Lars Gindorf vor Comeback für Hannover 96 gegen Havelse &nbsp;&nbsp; Neue Presse ",
+    "zeit": "2026-11-11T16:03"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-11T18:01",
+  "archiv": [
+   {
+    "id": "e8d2176e39",
+    "titel": "Hannover 96: Chakroun mit Schulterblessur, Einsatz in Heidenheim offen",
+    "datum": "02.11.",
+    "stufe": "fraglich",
+    "summary": "Hannovers Husseyn Chakroun zog sich beim 2:1 gegen Dresden eine Blessur im rechten Schultereckgelenk zu. Ein Einsatz am Sonntag in Heidenheim ist nicht ausgeschlossen."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "f8a424c82e",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Favorit aus England: Hannover 96 will Tim Lederer als neuen Sportgeschäftsführer verpflichten",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVTdlZ0poUDRpUHZva0hhOVRuX05qQUtyWGFYaUQycUFxRlRTbURlMlJRNnRmUHR3V0ZjN3kyTS1lWGdDbjVTcTk1WEZabnlhTDh3d3NjeWRUN19QdmhvdUdYSF9yNzB5dFhWTmtZOW42cDhCMkhjUElYLVVoWE1tNHF0dmw4RUljSk9kM055UlZhWW5ZeEltbXlaVDR3WEdLcnVndWVSREE5ZTNzcl93TW5RXzIyUHphbEFnVHJIVFNaNnNHTllSNNIBzgFBVV95cUxNZ3BXWFdfTTlHbFBockhXY0l6WEY0dkJtdEdOanU1NVo1SWFVOXRuT2dOM0dqdUdNdk91T0Rzd1FQWl9HLVNSakM1X3JFS3hTWTdKalMyR3lMV1VLMlBGMnk2N3h3NEdwVWlRdnE0RExab3hCNG1vSW9JVjA3U0ZmcUNSRDU1QmtxRDNVTGN6QVdUR050VWp3bUd6bklKeXBWYTl2QXhQVS11elgxYkU1N0UtVGpfZnQzTG8yUWJMME1NTVhIUEVXMXJQSDFmUQ?oc=5",
+    "aid": "2f93150b3c",
+    "titel": "Favorit aus England: Hannover 96 will Tim Lederer als neuen Sportgeschäftsführer verpflichten",
+    "quelle": "Tribuna.com",
+    "beschr": " Favorit aus England: Hannover 96 will Tim Lederer als neuen Sportgeschäftsführer verpflichten &nbsp;&nbsp; Tribuna.com ",
+    "zeit": "2026-11-11T12:00"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-11T18:01",
+  "archiv": [
+   {
+    "id": "f24f0b5c26",
+    "titel": "Heidenheim will Schmidt-Abschied gegen Hannover vergolden",
+    "datum": "06.11.",
+    "stufe": "sonstiges",
+    "summary": "Heidenheim empfängt am Sonntag Hannover 96 und ist zu Hause noch ungeschlagen. Es ist das erste Spiel nach der Ankündigung, dass Trainer Frank Schmidt im Sommer aufhört."
+   },
+   {
+    "id": "afa3db9641",
+    "titel": "Hannover 96 trennt sich nach fünf Monaten von Sportchef Boldt",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Hannover 96 hat Sport-Geschäftsführer Jonas Boldt nach nur fünf Monaten mit sofortiger Wirkung abberufen. Der Klub steht nach neun Spieltagen mit acht Punkten auf Platz 16."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "f4293986c3",
+  "schluessel": "hertha|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Hertha BSC: So kämpft Hertha-Trainer Leitl gegen den Schlendrian",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZkdpUHJ3VXg0LV9xdFBnekFnT0Z2TXN4VmxtS1B3dV9aRzlpVWZlU0ZydVRXRWtETXowXzA3dXV1QXl1WlVxZEcxSUNNWDJxcTVrb24xUmNETG92U0dpeWlOc04wYmh1cWFOeXdwRndLcmtDM2lOaDRLRkh0RjNuRWFQQ1dLTXd2Z1dvWTR5X19MRlVYQzJtYVJRYWNVT1BzMWpOanNnMEhDdVhwQTlIZV9ONnhzUkNqb055UFVnTFNOWWNHWHNoS0ZGZVNzNkJLdENheQ?oc=5",
+    "aid": "7324e9d522",
+    "titel": "Hertha BSC: So kämpft Hertha-Trainer Leitl gegen den Schlendrian",
+    "quelle": "BZ Berlin",
+    "beschr": " Hertha BSC: So kämpft Hertha-Trainer Leitl gegen den Schlendrian &nbsp;&nbsp; BZ Berlin ",
+    "zeit": "2026-11-11T14:16"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-11T18:01",
+  "archiv": [
+   {
+    "id": "b9598870dd",
+    "titel": "Thorsteinsson über Neustart bei Hertha: „Glauben an die eigene Leistung“",
+    "datum": "10.11.",
+    "stufe": "sonstiges",
+    "summary": "Herthas Jón Dagur Thorsteinsson erzählt, wie ihm die Leihe zu Brann Bergen wieder Selbstvertrauen gab. Sein Doppelpack in Dresden war sein bisher stärkster Abend im Hertha-Trikot."
+   },
+   {
+    "id": "5b69f6c8eb",
+    "titel": "Basler lobt Hertha und Leitl: „Die haben es jetzt selbst in der Hand“",
+    "datum": "10.11.",
+    "stufe": "sonstiges",
+    "summary": "Mario Basler lobt in seinem Podcast Herthas Trainer Stefan Leitl und sieht den Tabellenführer im Aufstiegsrennen in der eigenen Hand. Hertha hat nach elf Spieltagen 31 Punkte und spielt am 22. November in Cottbus."
+   },
+   {
+    "id": "008a7a4de7",
+    "titel": "Hertha BSC: Wie Stefan Leitl die Berliner an die Spitze führt",
+    "datum": "08.11.",
+    "stufe": "sonstiges",
+    "summary": "Hertha BSC führt die zweite Liga nach dem 2:1 gegen Wolfsburg mit zehn Punkten Vorsprung auf Rang drei an. Trainer Stefan Leitl setzt auf hohes Pressing, einen klaren Plan und eine funktionierende Gruppe."
+   }
+  ],
   "versuche": 1
  }
 ]
