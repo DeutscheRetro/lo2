@@ -1,7 +1,56 @@
 [
   {
+    "id": "03783c0c1f",
+    "titel": "Magdeburg lehnt Hyryläinen-Abgang ab: „Luka ist unser Spieler“",
+    "kategorie": "transfer",
+    "badge": "Transfer",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "11.11.2026 12:03",
+    "wappen_url": "logos/magdeburg.png",
+    "vereine": [
+      "Magdeburg"
+    ],
+    "anriss": "Der 1. FC Magdeburg plant weiter mit Mittelfeldspieler Luka Hyryläinen. Sportchef Peer Jaekel reagierte auf Gerüchte, wonach Ex-Klub Hoffenheim eine Rückkauf-Option besitzt und ziehen könnte, mit einer klaren Absage. „Also Luka ist unser Spieler. Ich habe noch keine Verlautbarung gehört, dass er sich verändern möchte“,",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Magdeburg",
+    "pfad": "artikel/magdeburg-lehnt-hyrylaeinen-abgang-ab-luka-ist-unser-spieler-03783c0c1f.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "deal",
+      "frage": "Wäre ein Rückkauf Hyryläinens durch Hoffenheim ein guter Deal?",
+      "antworten": [
+        "👍 Guter Deal",
+        "👎 Fehler"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "2ebdba6be0",
+    "titel": "Holstein Kiel holt Videoanalyst Philipp Pelka von Werder Bremen zurück",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "11.11.2026 12:03",
+    "wappen_url": "logos/kiel.png",
+    "vereine": [
+      "Kiel"
+    ],
+    "anriss": "Holstein Kiel verstärkt sein Funktionsteam mit Philipp Pelka. Der 37-Jährige kommt von Werder Bremen und arbeitet ab sofort als Videoanalyst beim Zweitligisten. Für Pelka ist es eine Rückkehr. Zwischen 2018 und 2022 war er bereits als Spielanalyst in Kiel tätig. Nun übernimmt er die gleiche",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Kiel",
+    "pfad": "artikel/holstein-kiel-holt-videoanalyst-philipp-pelka-von-werder-bremen-2ebdba6be0.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
     "id": "7cb0555180",
-    "titel": "Darmstadt: Nürnberger, Papela und Sickinger trainieren wieder",
+    "titel": "Darmstadt: Nürnberger, Papela, Sickinger und Marseiler zurück im Training",
     "kategorie": "verletzung",
     "badge": "Verletzung",
     "badge_bg": "#e53935",
@@ -13,7 +62,7 @@
       "Heidenheim",
       "Nürnberg"
     ],
-    "anriss": "Der SV Darmstadt 98 bekommt personelle Unterstützung zurück. Fabian Nürnberger, Merveille Papela, Luca Marseiler und Carlo Sickinger absolvierten am Dienstag gemeinsam eine Einheit auf dem Trainingsplatz, wie der Verein mit Fotos mitteilte. Trainer Florian Kohfeldt rechnet vor allem mit Nürnberger als wichtigem Rückkehrer. Papela wäre",
+    "anriss": "Der SV Darmstadt 98 bekommt personelle Unterstützung zurück. Fabian Nürnberger, Merveille Papela, Luca Marseiler und Carlo Sickinger absolvierten am Dienstag gemeinsam eine Einheit auf dem Trainingsplatz, wie der Verein mit Fotos mitteilte. Trainer Florian Kohfeldt sieht vor allem in Nürnberger einen wichtigen Rückkehrer. Papela wäre",
     "spielerstatus": [
       {
         "spieler": "Sickinger",
@@ -105,7 +154,7 @@
   },
   {
     "id": "b9598870dd",
-    "titel": "Thorsteinsson über Neustart bei Hertha: „Glauben an die eigene Leistung“",
+    "titel": "Thorsteinsson: Leihe nach Bergen brachte das Selbstvertrauen zurück",
     "kategorie": "interview",
     "badge": "Interview",
     "badge_bg": "#1976d2",
@@ -115,7 +164,7 @@
     "vereine": [
       "Hertha"
     ],
-    "anriss": "Herthas Offensivspieler Jón Dagur Thorsteinsson hat über regelmäßige Spielpraxis und eine Leihe zum SK Brann Bergen zurück zu mehr Selbstvertrauen gefunden. Der 23-jährige Isländer sprach über seine Entwicklung, das Verhältnis zu Trainer Stefan Leitl und besondere Momente der laufenden Saison. Im Sommer war Thorsteinsson nach",
+    "anriss": "Herthas Offensivspieler Jón Dagur Thorsteinsson hat nach eigener Darstellung durch regelmäßige Spielpraxis und eine Leihe zum SK Brann Bergen wieder zu Selbstvertrauen gefunden. Der 23-jährige Isländer sprach über seine Entwicklung, das Verhältnis zu Trainer Stefan Leitl und besondere Momente der laufenden Saison. Im Sommer war",
     "spielerstatus": [],
     "formation": "",
     "hauptklub": "Hertha",
