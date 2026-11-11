@@ -1,0 +1,190 @@
+2026-11-11 01:22:45,509 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 1 passende Treffer
+2026-11-11 01:22:45,509 INFO S7 Ersatzquelle liefert Text (120 Wörter, 1 Quellen): Kimmich nach Rückkehr: Hier am absolut richtigen Ort
+2026-11-11 01:22:45,510 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 0 passende Treffer
+2026-11-11 01:22:45,510 INFO FinalCheck SKIP: borussia mönchengladbach/{'max muster'} stage=geruecht bereits in Archiv
+2026-11-11 01:22:45,510 INFO FinalCheck SKIP: borussia mönchengladbach/set() stage=geruecht bereits in Archiv
+2026-11-11 01:22:54,034 INFO 💶 Budget: dieser Lauf 0.000 $ | heute 0.00 $ | Monat 0.00 / 0 $
+2026-11-11 01:22:54,037 INFO URL-Cache geladen: 1580 bekannte URLs (letzte 30 Tage)
+2026-11-11 01:22:54,037 INFO === LO Generator startet – max. 50 Artikel ===
+2026-11-11 01:22:54,037 INFO Feed: https://newsfeed.kicker.de/news/3-liga
+2026-11-11 01:22:54,316 INFO Feed: https://www.sport.de/rss/news/
+2026-11-11 01:22:54,611 INFO Feed: https://www.11freunde.de/feed
+2026-11-11 01:22:55,613 INFO Feed: https://news.google.com/rss/search?q=%223.+Liga%22&hl=de&gl=DE&ceid=DE:de
+2026-11-11 01:22:56,172 WARNING Spielerliste nicht verfügbar: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-11 01:22:56,172 INFO BL-Spielerliste geladen: 0 Namen
+2026-11-11 01:22:56,172 INFO S3 keyword miss: HCE ist ungeschlagener Spitzenreiter: HC Erlangen-Damen gewi
+2026-11-11 01:22:56,173 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Verletzung+Ausfall+gesperrt&hl=de&gl=DE&ceid=DE:de
+2026-11-11 01:22:56,472 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Transfer+Wechsel+verpflichtet&hl=de&gl=DE&ceid=DE:de
+2026-11-11 01:22:56,827 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Ger%C3%BCcht+Interesse+Angebot&hl=de&gl=DE&ceid=DE:de
+2026-11-11 01:22:57,249 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Vertrag+verl%C3%A4ngert+abl%C3%B6sefrei&hl=de&gl=DE&ceid=DE:de
+2026-11-11 01:22:57,548 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Trainer+Entlassung&hl=de&gl=DE&ceid=DE:de
+2026-11-11 01:22:57,913 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Saarbr%C3%BCcken%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-11 01:22:58,280 INFO S3 keyword miss: Goldschmuck gestohlen: 5000 Euro Schaden bei Edelsteinbörse
+2026-11-11 01:22:58,283 INFO S3 keyword miss: Winterdienst im Saarland: 11.500 Tonnen Salz eingelagert
+2026-11-11 01:22:58,283 INFO Feed: https://news.google.com/rss/search?q=%22Alemannia+Aachen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-11 01:22:58,557 INFO S3 keyword miss: „Unfassbar starke Teamleistung“: Deutz erobert in Unterzahl 
+2026-11-11 01:22:58,559 INFO S3 keyword miss: Regionalliga West
+2026-11-11 01:22:58,561 INFO S3 keyword miss: „Das hat für mich schon die ein oder andere schlaflose Nacht
+2026-11-11 01:22:58,563 INFO S3 keyword miss: Feuerwehr rettet mehrere Menschen bei Brand in Burtscheid
+2026-11-11 01:22:58,564 INFO S2 blacklist: Entführung mit dem „Kokaintaxi“: Strategie der Verteidigung 
+2026-11-11 01:22:58,564 INFO Feed: https://news.google.com/rss/search?q=%22FC+Ingolstadt%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-11 01:22:58,870 INFO Feed: https://news.google.com/rss/search?q=%22Fortuna+D%C3%BCsseldorf%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-11 01:22:59,277 INFO Feed: https://news.google.com/rss/search?q=%22Fortuna+K%C3%B6ln%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-11 01:22:59,621 INFO S3 keyword miss: Verls Verwaltungsrat stärkt Shala
+2026-11-11 01:22:59,622 INFO Feed: https://news.google.com/rss/search?q=%22Hansa+Rostock%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-11 01:23:00,067 INFO Feed: https://news.google.com/rss/search?q=%22Jahn+Regensburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-11 01:23:00,358 INFO Feed: https://news.google.com/rss/search?q=%22MSV+Duisburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-11 01:23:00,654 INFO S3 keyword miss: Felix Welte
+2026-11-11 01:23:00,654 INFO Feed: https://news.google.com/rss/search?q=%22Preu%C3%9Fen+M%C3%BCnster%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-11 01:23:01,046 INFO S3 keyword miss: Daniel Somuah
+2026-11-11 01:23:01,048 INFO S3 keyword miss: Malik Durmus
+2026-11-11 01:23:01,049 INFO Feed: https://news.google.com/rss/search?q=%22Rot-Weiss+Essen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-11 01:23:01,302 INFO Feed: https://news.google.com/rss/search?q=%22SC+Verl%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-11 01:23:01,605 INFO S3 keyword miss: Verls Verwaltungsrat stärkt Shala
+2026-11-11 01:23:01,606 INFO Feed: https://news.google.com/rss/search?q=%22Sonnenhof+Gro%C3%9Faspach%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-11 01:23:02,016 INFO Feed: https://news.google.com/rss/search?q=%22SV+Meppen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-11 01:23:02,408 INFO Feed: https://news.google.com/rss/search?q=%22Waldhof+Mannheim%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-11 01:23:02,694 INFO S3 keyword miss: 1.FC Lok Stendal
+2026-11-11 01:23:02,696 INFO S3 keyword miss: Klaus Schlappner
+2026-11-11 01:23:02,698 INFO S3 keyword miss: Kontrolle endet mit Festnahme: Mann muss in Haft
+2026-11-11 01:23:02,698 INFO Feed: https://news.google.com/rss/search?q=%22Wehen+Wiesbaden%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-11 01:23:02,982 INFO S3 keyword miss: Japan U23 - Venezuela U23 Live Stream | Jetzt Anmelden | DAZ
+2026-11-11 01:23:02,982 INFO Feed: https://news.google.com/rss/search?q=%22Hoffenheim+II%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-11 01:23:03,285 INFO Feed: https://news.google.com/rss/search?q=%22TSV+Havelse%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-11 01:23:03,608 INFO Feed: https://news.google.com/rss/search?q=%22VfB+Stuttgart+II%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-11 01:23:03,879 INFO Feed: https://news.google.com/rss/search?q=%22Viktoria+K%C3%B6ln%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-11 01:23:04,198 INFO S3 keyword miss: Tim Kukelka
+2026-11-11 01:23:04,199 INFO Feed: https://news.google.com/rss/search?q=%22W%C3%BCrzburger+Kickers%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-11 01:23:04,521 INFO S3 keyword miss: Schlager-Star Bernhard Brink wandert aus: Das ist seine neue
+2026-11-11 01:23:04,522 INFO S2 blacklist: Haushalt: Bayern will im kommenden Jahr 85 Milliarden Euro a
+2026-11-11 01:23:04,526 INFO S3 keyword miss: Winterzauber 2026: Bad Mergentheim überrascht mit größerer E
+2026-11-11 01:23:04,527 INFO Feed: https://newsfeed.kicker.de/team/1-fc-saarbruecken
+2026-11-11 01:23:04,766 INFO Feed: https://newsfeed.kicker.de/team/alemannia-aachen
+2026-11-11 01:23:04,920 INFO Feed: https://newsfeed.kicker.de/team/fc-ingolstadt-04
+2026-11-11 01:23:05,075 INFO Feed: https://newsfeed.kicker.de/team/fortuna-duesseldorf
+2026-11-11 01:23:05,228 INFO Feed: https://newsfeed.kicker.de/team/hansa-rostock
+2026-11-11 01:23:05,380 INFO Feed: https://newsfeed.kicker.de/team/jahn-regensburg
+2026-11-11 01:23:05,536 INFO Feed: https://newsfeed.kicker.de/team/msv-duisburg
+2026-11-11 01:23:05,691 INFO Feed: https://newsfeed.kicker.de/team/preussen-muenster
+2026-11-11 01:23:05,860 INFO Feed: https://newsfeed.kicker.de/team/rot-weiss-essen
+2026-11-11 01:23:06,111 INFO Feed: https://newsfeed.kicker.de/team/sc-verl
+2026-11-11 01:23:06,277 INFO Feed: https://newsfeed.kicker.de/team/waldhof-mannheim
+2026-11-11 01:23:06,520 INFO Feed: https://newsfeed.kicker.de/team/sv-wehen-wiesbaden
+2026-11-11 01:23:06,576 INFO Feed: https://newsfeed.kicker.de/team/tsg-hoffenheim-ii
+2026-11-11 01:23:06,936 INFO Feed: https://newsfeed.kicker.de/team/tsv-havelse
+2026-11-11 01:23:07,243 INFO Feed: https://newsfeed.kicker.de/team/vfb-stuttgart-ii
+2026-11-11 01:23:07,580 INFO Feed: https://newsfeed.kicker.de/team/fc-viktoria-koeln
+2026-11-11 01:23:07,908 INFO Eingelesen: 12 Schlagzeilen nach den Gratis-Filtern
+2026-11-11 01:23:07,915 INFO S5: 12 neue Geschichten, 0 schon berichtet, 0 zu wartenden Geschichten ergänzt, 22 warten
+2026-11-11 01:24:13,355 INFO S6 aussortiert (prio_0): „Hoffe auf einen Einbruch“: Mario Basler: Viktoria Köln darf bloß nich
+2026-11-11 01:24:13,355 INFO S6 aussortiert (prio_0): TTBL: Düsseldorf schlägt Grenzau und ist Spitzenreiter
+2026-11-11 01:24:13,355 INFO S6 aussortiert (prio_0): SC Fortuna Köln gegen SV Meppen
+2026-11-11 01:24:13,356 INFO S6 aussortiert (prio_0): BVB kassiert bei Fortuna Köln erstes Gegentor
+2026-11-11 01:24:13,356 INFO S6 aussortiert (prio_0): SSV Jahn Regensburg - SG Sonnenhof Großaspach
+2026-11-11 01:24:13,356 INFO S6 aussortiert (prio_0): Jahnstudio vom 10. November 2026
+2026-11-11 01:24:13,356 INFO S6 aussortiert (prio_0): Dingolfinger verlässt Kiel: Ex-Jahn-Coach Michael Wimmer verzichtete o
+2026-11-11 01:24:13,357 INFO S6 aussortiert (prio_0): Deutsche U21 testet in Essen gegen Belgien
+2026-11-11 01:24:13,357 INFO S6 aussortiert (prio_0): Lotte Dijkhuizen | SV Meppen II | ... | 2026/27 | Spielerprofil
+2026-11-11 01:24:13,357 INFO S6 aussortiert (doppelt): Sieg gegen Havelse: SV Wehen Wiesbaden unter Seitz weiter unaufhaltsam
+2026-11-11 01:24:13,357 INFO S6 aussortiert (prio_0): Würzburg: Würzburg belegt Platz 2 der lebenswertesten Städte Deutschla
+2026-11-11 01:24:14,182 INFO S7 kein Volltext (too_short_8_words): Trainerwechsel bei Hansa Rostock – wer nach sechs Spielen pr
+2026-11-11 01:24:14,442 INFO S7 Ersatzquellen für "Trainerwechsel bei Hansa Rostock – wer nach sechs ": 0 passende Treffer
+2026-11-11 01:24:14,442 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Trainerwechsel bei Hansa Rostock – wer nach sechs Spielen pr
+2026-11-11 01:24:15,215 INFO S7 kein Volltext (too_short_61_words): MSV Duisburg: Sieg in Münster und ein satter Millionengewinn
+2026-11-11 01:24:15,481 INFO S7 Ersatzquellen für "MSV Duisburg: Sieg in Münster und ein satter Milli": 0 passende Treffer
+2026-11-11 01:24:15,481 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): MSV Duisburg: Sieg in Münster und ein satter Millionengewinn
+2026-11-11 01:24:16,043 INFO S7 kein Volltext (too_short_30_words): Dennis Borkowski schießt beim MSV Duisburg den Verletzungspe
+2026-11-11 01:24:16,327 INFO S7 Ersatzquellen für "Dennis Borkowski schießt beim MSV Duisburg den Ver": 0 passende Treffer
+2026-11-11 01:24:16,327 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Dennis Borkowski schießt beim MSV Duisburg den Verletzungspe
+2026-11-11 01:24:16,797 ERROR lxml parsing failed: Document is empty
+2026-11-11 01:24:16,797 ERROR lxml parser bytestring Document is empty
+2026-11-11 01:24:16,797 ERROR lxml parsing failed: Document is empty
+2026-11-11 01:24:16,797 ERROR lxml parser bytestring Document is empty
+2026-11-11 01:24:16,797 ERROR empty HTML tree: None
+2026-11-11 01:24:16,798 WARNING discarding data: None
+2026-11-11 01:24:16,799 INFO S7 kein Volltext (trafilatura_returned_empty): FC Ingolstadt 04
+2026-11-11 01:24:17,045 INFO S7 Ersatzquellen für "FC Ingolstadt 04": 3 passende Treffer
+2026-11-11 01:24:17,544 ERROR lxml parsing failed: Document is empty
+2026-11-11 01:24:17,544 ERROR lxml parser bytestring Document is empty
+2026-11-11 01:24:17,545 ERROR lxml parsing failed: Document is empty
+2026-11-11 01:24:17,545 ERROR lxml parser bytestring Document is empty
+2026-11-11 01:24:17,545 ERROR empty HTML tree: None
+2026-11-11 01:24:17,545 WARNING discarding data: None
+2026-11-11 01:24:17,546 INFO S7 kein Volltext (trafilatura_returned_empty): Elfmeterstatistik Spieler FC Ingolstadt 04 | 6. Spieltag | U
+2026-11-11 01:24:18,253 INFO S7 kein Volltext (seite_zu_alt): FC Ingolstadt 04 vs FC Wacker Innsbruck - Club Freundschafts
+2026-11-11 01:24:18,503 ERROR lxml parsing failed: Document is empty
+2026-11-11 01:24:18,504 ERROR lxml parser bytestring Document is empty
+2026-11-11 01:24:18,504 ERROR lxml parsing failed: Document is empty
+2026-11-11 01:24:18,504 ERROR lxml parser bytestring Document is empty
+2026-11-11 01:24:18,504 ERROR empty HTML tree: None
+2026-11-11 01:24:18,504 WARNING discarding data: None
+2026-11-11 01:24:18,506 INFO S7 kein Volltext (trafilatura_returned_empty): Mit Video: Nach 2:0-Führung: Passive Düsseldorfer verlieren 
+2026-11-11 01:24:18,506 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): FC Ingolstadt 04
+2026-11-11 01:24:19,015 INFO S7 kein Volltext (too_short_75_words): 3. Liga: Vor Rot-Weiss Essen, Münster und Rostock: SC Verl h
+2026-11-11 01:24:19,323 INFO S7 Ersatzquellen für "3. Liga: Vor Rot-Weiss Essen, Münster und Rostock:": 0 passende Treffer
+2026-11-11 01:24:19,323 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): 3. Liga: Vor Rot-Weiss Essen, Münster und Rostock: SC Verl h
+2026-11-11 01:24:19,778 INFO S7 kein Volltext (too_short_15_words): Schalke-Leihgabe Peter Remmert dreht Spiel mit historischem 
+2026-11-11 01:24:20,038 INFO S7 Ersatzquellen für "Schalke-Leihgabe Peter Remmert dreht Spiel mit his": 0 passende Treffer
+2026-11-11 01:24:20,038 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Schalke-Leihgabe Peter Remmert dreht Spiel mit historischem 
+2026-11-11 01:24:20,512 INFO S7 Ersatzquellen für "Mit Video: Goldenstein ins Glück: Meppen ringt Reg": 0 passende Treffer
+2026-11-11 01:24:20,512 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Mit Video: Goldenstein ins Glück: Meppen ringt Regensburg ni
+2026-11-11 01:24:21,005 INFO S7 Ersatzquellen für "Mit Video: Ulbricht spät vom Punkt: Waldhof verlän": 0 passende Treffer
+2026-11-11 01:24:21,005 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Mit Video: Ulbricht spät vom Punkt: Waldhof verlängert Kölne
+2026-11-11 01:24:23,248 WARNING discarding data: None
+2026-11-11 01:24:23,250 INFO S7 kein Volltext (trafilatura_returned_empty): Zukunft der Regionalligen: Drittligist SC Verl votiert für d
+2026-11-11 01:24:23,513 INFO S7 Ersatzquellen für "Zukunft der Regionalligen: Drittligist SC Verl vot": 0 passende Treffer
+2026-11-11 01:24:23,513 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Zukunft der Regionalligen: Drittligist SC Verl votiert für d
+2026-11-11 01:24:23,760 INFO S7 kein Volltext (too_short_75_words): 3. Liga: So steht es um Preußen Münster - Gewinn trotz Absti
+2026-11-11 01:24:24,066 INFO S7 Ersatzquellen für "3. Liga: So steht es um Preußen Münster - Gewinn t": 0 passende Treffer
+2026-11-11 01:24:24,066 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): 3. Liga: So steht es um Preußen Münster - Gewinn trotz Absti
+2026-11-11 01:24:25,317 INFO S7 kein Volltext (too_short_18_words): Viktoria Köln dank gutem Scouting auf einem Höhenflug
+2026-11-11 01:24:25,586 INFO S7 Ersatzquellen für "Viktoria Köln dank gutem Scouting auf einem Höhenf": 0 passende Treffer
+2026-11-11 01:24:25,586 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Viktoria Köln dank gutem Scouting auf einem Höhenflug
+2026-11-11 01:24:26,581 INFO S7 kein Volltext (too_short_63_words): Traumdebüt in 3. Liga: Jonas Goldenstein - der Meppen-Held a
+2026-11-11 01:24:26,859 INFO S7 Ersatzquellen für "Traumdebüt in 3. Liga: Jonas Goldenstein - der Mep": 0 passende Treffer
+2026-11-11 01:24:26,859 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Traumdebüt in 3. Liga: Jonas Goldenstein - der Meppen-Held a
+2026-11-11 01:24:27,492 INFO S7 kein Volltext (too_short_52_words): Rot-Weiss Essen: RWE-Zwischenzeugnis: Zwei Volltreffer, ein 
+2026-11-11 01:24:27,738 INFO S7 Ersatzquellen für "Rot-Weiss Essen: RWE-Zwischenzeugnis: Zwei Volltre": 0 passende Treffer
+2026-11-11 01:24:27,738 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Rot-Weiss Essen: RWE-Zwischenzeugnis: Zwei Volltreffer, ein 
+2026-11-11 01:24:28,260 INFO S7 Ersatzquellen für "Vertragsloser Menzel als Trainingsgast in Düsseldo": 0 passende Treffer
+2026-11-11 01:24:28,260 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Vertragsloser Menzel als Trainingsgast in Düsseldorf
+2026-11-11 01:24:29,400 INFO S7 kein Volltext (too_short_18_words): Fortuna Düsseldorf schlittert in Abstiegskampf
+2026-11-11 01:24:29,733 INFO S7 Ersatzquellen für "Fortuna Düsseldorf schlittert in Abstiegskampf": 0 passende Treffer
+2026-11-11 01:24:29,733 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Fortuna Düsseldorf schlittert in Abstiegskampf
+2026-11-11 01:24:30,202 INFO S7 Ersatzquellen für "Düsseldorfer Chancenwucher: Fortuna und Meppen tre": 0 passende Treffer
+2026-11-11 01:24:30,202 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Düsseldorfer Chancenwucher: Fortuna und Meppen trennen sich 
+2026-11-11 01:24:30,618 INFO S7 kein Volltext (too_short_8_words): Hansa Rostock: Bester Saisonstart seit sechs Jahren – Aufsti
+2026-11-11 01:24:30,881 INFO S7 Ersatzquellen für "Hansa Rostock: Bester Saisonstart seit sechs Jahre": 0 passende Treffer
+2026-11-11 01:24:30,881 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Hansa Rostock: Bester Saisonstart seit sechs Jahren – Aufsti
+2026-11-11 01:24:31,449 INFO S7 Ersatzquellen für "Fortuna Köln hält an Mink fest": 0 passende Treffer
+2026-11-11 01:24:31,449 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Fortuna Köln hält an Mink fest
+2026-11-11 01:24:32,592 INFO S7 kein Volltext (too_short_18_words): Viktoria Köln dank gutem Scouting auf einem Höhenflug
+2026-11-11 01:24:32,629 INFO S7 Ersatzquellen für "Viktoria Köln dank gutem Scouting auf einem Höhenf": 1 passende Treffer
+2026-11-11 01:24:33,098 INFO S7 kein Volltext (too_short_18_words): Viktoria Köln dank gutem Scouting auf einem Höhenflug
+2026-11-11 01:24:33,099 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Viktoria Köln dank gutem Scouting auf einem Höhenflug
+2026-11-11 01:24:34,116 INFO S7 kein Volltext (too_short_38_words): Zwischen Jubel und Hiobsbotschaft: Goldenstein erlöst den SV
+2026-11-11 01:24:34,367 INFO S7 Ersatzquellen für "Zwischen Jubel und Hiobsbotschaft: Goldenstein erl": 0 passende Treffer
+2026-11-11 01:24:34,367 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Zwischen Jubel und Hiobsbotschaft: Goldenstein erlöst den SV
+2026-11-11 01:24:36,730 INFO S7 schreiben (Prio 2, 1 Quellen): Fortuna Düsseldorf: Elias Egouli in der doppelten Kopf-Krise
+2026-11-11 01:24:44,628 INFO   Kandidat: Fortuna Düsseldorf: Egouli nach Gelb-Rot außer Form
+2026-11-11 01:24:45,138 ERROR lxml parsing failed: Document is empty
+2026-11-11 01:24:45,139 ERROR lxml parser bytestring Document is empty
+2026-11-11 01:24:45,139 ERROR lxml parsing failed: Document is empty
+2026-11-11 01:24:45,139 ERROR lxml parser bytestring Document is empty
+2026-11-11 01:24:45,139 ERROR empty HTML tree: None
+2026-11-11 01:24:45,139 WARNING discarding data: None
+2026-11-11 01:24:45,140 INFO S7 kein Volltext (trafilatura_returned_empty): Lehrstunde im Topspiel: Saarbrückens "Gesamtkonstrukt" ist n
+2026-11-11 01:24:45,410 INFO S7 Ersatzquellen für "Lehrstunde im Topspiel: Saarbrückens "Gesamtkonstr": 0 passende Treffer
+2026-11-11 01:24:45,410 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Lehrstunde im Topspiel: Saarbrückens "Gesamtkonstrukt" ist n
+2026-11-11 01:24:46,990 INFO S7 schreiben (Prio 2, 1 Quellen): 3. Liga: Viktoria Köln - vom Abstiegskandidat zum Spitzenrei
+2026-11-11 01:24:58,726 INFO   Kandidat: Viktoria Köln: Vom Abstiegskandidaten zum Spitzenreiter der 
+2026-11-11 01:24:58,728 INFO S9.5 FinalCheck: 2/2 durch
+2026-11-11 01:24:59,815 INFO Veröffentlicht: Fortuna Düsseldorf: Egouli nach Gelb-Rot außer Form
+2026-11-11 01:24:59,876 INFO Veröffentlicht: Viktoria Köln: Vom Abstiegskandidaten zum Spitzenreiter der 
+2026-11-11 01:24:59,878 WARNING Sitemap ohne Spielerseiten: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-11 01:24:59,880 INFO 💶 Kosten: dieser Lauf 0.000 $ (Budget 0.000 $) | heute 0.00 $ | Monat 0.00 / 0 $ | konferenz (abo) 1× 0.000 $, dublette (abo) 1× 0.000 $, schreiben (abo) 2× 0.000 $
+2026-11-11 01:24:59,880 INFO 🎫 Abo-Verbrauch: 17,568 Tokens rein (davon Cache gelesen 1,426), 12,678 raus, API-Gegenwert 0.14 $ | konferenz 1×: 2,019/9,806, dublette 1×: 1,100/3, schreiben 2×: 14,449/2,869
+2026-11-11 01:24:59,883 INFO Feeds: 45/45 begonnen, nächster Lauf startet bei Nr. 0
+2026-11-11 01:24:59,883 INFO URL-Cache gespeichert: 1613 URLs
+2026-11-11 01:24:59,883 INFO === Fertig. 2 neue Artikel. feed.json: 21 ===
+2026-11-11 01:24:59,883 INFO Stats: {"ts": "20261111_0122", "ingested": 33, "s2_pre_filter": 2, "s3_relevance": 19, "s4_dedup_early": 0, "gesammelt": 12, "geschichten_neu": 12, "s5_archiv_doppelt": 0, "s5_zusammengefuehrt": 0, "s6_aussortiert": 11, "s7_geschrieben": 2, "s7_verworfen": 0, "s5_fulltext_fail": 21, "s8_qa_rejected": 0, "published": 2, "kosten": {"lauf_usd": 0.0, "lauf_budget_usd": 0.0, "heute_usd": 0.0, "monat_usd": 0.0, "monatsbudget_usd": 0.0, "aufrufe": {"konferenz (abo)": {"anzahl": 1, "usd": 0.0}, "dublette (abo)": {"anzahl": 1, "usd": 0.0}, "schreiben (abo)": {"anzahl": 2, "usd": 0.0}}, "guthaben_leer": false, "abo": true, "abo_tokens": {"konferenz": {"aufrufe": 1, "ein": 2019, "cache_schreiben": 0, "cache_lesen": 0, "aus": 9806, "api_wert_usd": 0.051}, "dublette": {"aufrufe": 1, "ein": 2, "cache_schreiben": 1098, "cache_lesen": 0, "aus": 3, "api_wert_usd": 0.0044}, "schreiben": {"aufrufe": 2, "ein": 4, "cache_schreiben": 13019, "cache_lesen": 1426, "aus": 2869, "api_wert_usd": 0.0809}}}}

@@ -440,5 +440,52 @@
     },
     "published_at": "2026-11-10T21:46:34.741543",
     "source": "n-tv.de"
+  },
+  {
+    "id": "ce458dfa26",
+    "generated_title": "Fortuna Düsseldorf: Egouli nach Gelb-Rot außer Form",
+    "original_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYkVKQl9NNnFjQ2hrOUVoSm40T1J2WFBJSFVYM3FibllWSzlXUHN3SlFjN0xpUHVPbTRtS2VPMzZzYXF5b2xVWmdYTm9xZGRLblE4OG15ZVliVV93UEZSbDhCdHRSUXBvSW10YUdRME9la2VrWV9FZ0lSRERHWlk1aUhaZ3A4dktVNmdUOFlhaXdyblNOaXVYN2NQRkJGN2lMWEROQWlxekxUTUVXWUtvSmhoMnpjMEduOHYtNA?oc=5",
+    "fingerprint": {
+      "event_type": "analyse",
+      "main_club": "Düsseldorf",
+      "event_stage": "sonstiges",
+      "main_teams": [
+        "Aachen",
+        "Düsseldorf"
+      ],
+      "main_players": [
+        "Elias Egouli"
+      ],
+      "summary": "Düsseldorfs Verteidiger Elias Egouli ist seit seinem Platzverweis in Aachen außer Form. Fortuna holte seither sechs Punkte aus sieben Spielen und kassierte elf Gegentore.",
+      "one_sentence_summary": "Düsseldorfs Verteidiger Elias Egouli ist seit seinem Platzverweis in Aachen außer Form.",
+      "schluessel": "elias egouli|sonstiges"
+    },
+    "published_at": "2026-11-11T01:24:59.814531",
+    "source": "BILD"
+  },
+  {
+    "id": "c4aef24e52",
+    "generated_title": "Viktoria Köln: Vom Abstiegskandidaten zum Spitzenreiter der 3. Liga",
+    "original_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTkYxSklORUdoRDlyMjZ5bUtRaEtoVkVoekxFS0I3dlRkcTRpZTNKMUM4UHBjQnA3RVI3Z2c2bWZJbnQybWhqZVFfTWotVFk2bWxNZUxyeGJ5d1dIanBNVXllM0NQd01xc3c4YnktTGpfZkdwLWs1SWxEaVhla000TFFTd05xaTdnOHdQYmVYS3dfUHFaejhMcUg3ZXNhVkhRQnBDUWVFSXU?oc=5",
+    "fingerprint": {
+      "event_type": "analyse",
+      "main_club": "Viktoria Köln",
+      "event_stage": "sonstiges",
+      "main_teams": [
+        "Duisburg",
+        "RW Essen",
+        "Viktoria Köln"
+      ],
+      "main_players": [
+        "Franz Wunderlich",
+        "Valentin Schäfer",
+        "Marian Wilhelm"
+      ],
+      "summary": "Viktoria Köln führt nach 13 Spieltagen die 3. Liga an, nach dem 5:3 gegen Saarbrücken. Der Klub setzt seit dem Tod von Mäzen Wernze auf Ausbildung und eigenes Personal.",
+      "one_sentence_summary": "Viktoria Köln führt nach 13 Spieltagen die 3.",
+      "schluessel": "franz wunderlich|sonstiges"
+    },
+    "published_at": "2026-11-11T01:24:59.875374",
+    "source": "sportschau.de"
   }
 ]

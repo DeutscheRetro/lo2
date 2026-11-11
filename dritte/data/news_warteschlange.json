@@ -1,33 +1,5 @@
 [
  {
-  "id": "f022ef762d",
-  "schluessel": "viktoria koln|transfer",
-  "person": "",
-  "spieler": [],
-  "klub": "Viktoria Köln",
-  "klubs": [
-   "Viktoria Köln"
-  ],
-  "stufe": "geruecht",
-  "klasse": "transfer",
-  "titel": "3. Liga: Viktoria Köln - vom Abstiegskandidat zum Spitzenreiter",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTkYxSklORUdoRDlyMjZ5bUtRaEtoVkVoekxFS0I3dlRkcTRpZTNKMUM4UHBjQnA3RVI3Z2c2bWZJbnQybWhqZVFfTWotVFk2bWxNZUxyeGJ5d1dIanBNVXllM0NQd01xc3c4YnktTGpfZkdwLWs1SWxEaVhla000TFFTd05xaTdnOHdQYmVYS3dfUHFaejhMcUg3ZXNhVkhRQnBDUWVFSXU?oc=5",
-    "aid": "c4aef24e52",
-    "titel": "3. Liga: Viktoria Köln - vom Abstiegskandidat zum Spitzenreiter",
-    "quelle": "sportschau.de",
-    "beschr": " 3. Liga: Viktoria Köln - vom Abstiegskandidat zum Spitzenreiter &nbsp;&nbsp; sportschau.de ",
-    "zeit": "2026-11-09T15:09"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-10T16:59",
-  "archiv": []
- },
- {
   "id": "d6c0c2d52c",
   "schluessel": "meppen|sonstiges",
   "person": "",
@@ -54,7 +26,7 @@
   "status": "n",
   "erstmals": "2026-11-10T16:59",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "6a6b92585b",
@@ -83,7 +55,7 @@
   "status": "n",
   "erstmals": "2026-11-10T16:59",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "697c26fca4",
@@ -115,7 +87,7 @@
   "status": "n",
   "erstmals": "2026-11-10T16:59",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "4fbd2c958d",
@@ -144,7 +116,7 @@
   "status": "n",
   "erstmals": "2026-11-10T16:59",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "86a68369bd",
@@ -174,7 +146,7 @@
   "status": "n",
   "erstmals": "2026-11-10T16:59",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "63734721ab",
@@ -204,7 +176,7 @@
   "status": "n",
   "erstmals": "2026-11-10T16:59",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "55c011d4a2",
@@ -233,35 +205,7 @@
   "status": "n",
   "erstmals": "2026-11-10T16:59",
   "archiv": [],
-  "versuche": 1
- },
- {
-  "id": "9b3cf3feca",
-  "schluessel": "dusseldorf|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Düsseldorf",
-  "klubs": [
-   "Düsseldorf"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Fortuna Düsseldorf: Elias Egouli in der doppelten Kopf-Krise",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYkVKQl9NNnFjQ2hrOUVoSm40T1J2WFBJSFVYM3FibllWSzlXUHN3SlFjN0xpUHVPbTRtS2VPMzZzYXF5b2xVWmdYTm9xZGRLblE4OG15ZVliVV93UEZSbDhCdHRSUXBvSW10YUdRME9la2VrWV9FZ0lSRERHWlk1aUhaZ3A4dktVNmdUOFlhaXdyblNOaXVYN2NQRkJGN2lMWEROQWlxekxUTUVXWUtvSmhoMnpjMEduOHYtNA?oc=5",
-    "aid": "ce458dfa26",
-    "titel": "Fortuna Düsseldorf: Elias Egouli in der doppelten Kopf-Krise",
-    "quelle": "BILD",
-    "beschr": " Fortuna Düsseldorf: Elias Egouli in der doppelten Kopf-Krise &nbsp;&nbsp; BILD ",
-    "zeit": "2026-11-10T05:00"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-10T16:59",
-  "archiv": []
+  "versuche": 2
  },
  {
   "id": "5d8848f8b6",
@@ -290,7 +234,7 @@
   "status": "n",
   "erstmals": "2026-11-10T16:59",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "03d37fe2ff",
@@ -318,7 +262,8 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-10T16:59",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "030f4a0c28",
@@ -347,7 +292,7 @@
   "status": "n",
   "erstmals": "2026-11-10T16:59",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "10ffc540cd",
@@ -375,7 +320,8 @@
   "prio": 2,
   "status": "u",
   "erstmals": "2026-11-10T16:59",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "08e82b9320",
@@ -404,7 +350,7 @@
   "status": "n",
   "erstmals": "2026-11-10T16:59",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "df9f5d3631",
@@ -433,7 +379,7 @@
   "status": "n",
   "erstmals": "2026-11-10T16:59",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "4b3bd90f64",
@@ -461,7 +407,8 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-10T16:59",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "da17b2c63c",
@@ -490,7 +437,7 @@
   "status": "n",
   "erstmals": "2026-11-10T16:59",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "aab4fac6a6",
@@ -518,7 +465,8 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-10T16:59",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "49ca2df2d8",
@@ -547,7 +495,7 @@
   "status": "n",
   "erstmals": "2026-11-10T21:42",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "4b82f4477e",
@@ -576,7 +524,7 @@
   "status": "n",
   "erstmals": "2026-11-10T21:42",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "2a07f6b194",
@@ -614,7 +562,7 @@
     "summary": "Der MSV Duisburg gewinnt beim SC Preußen Münster 2:1 und beendet seine Ergebniskrise. Die Tore erzielten Joshua Bitter und Dominik Kother, für Münster traf Antonio Tikvic."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "3b39958db5",
@@ -642,6 +590,35 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-10T21:42",
+  "archiv": [],
+  "versuche": 2
+ },
+ {
+  "id": "984c9887a1",
+  "schluessel": "ingolstadt|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Ingolstadt",
+  "klubs": [
+   "Ingolstadt"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "FC Ingolstadt 04",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON0o2c3V5VzNKSG82SHhRZmFlLWc3TkpHYkx6T3Bvam5yQlpRR25KY01IRVV4UkEwR2thRVpRUjc5eFpMMEppMEVPRmRhRkw2ZVd0bGQ4RkxsU1N3a01vZDJGWjQxaGV1elp0R0hjLTBland4b09wUXYtQzNSNmNzY1FYaUd4SjhNZXlpRDNwdW9TNENJ?oc=5",
+    "aid": "252fdab563",
+    "titel": "FC Ingolstadt 04",
+    "quelle": "Transfermarkt",
+    "beschr": " FC Ingolstadt 04 &nbsp;&nbsp; Transfermarkt ",
+    "zeit": "2026-11-10T12:26"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-11T01:23",
   "archiv": [],
   "versuche": 1
  }
