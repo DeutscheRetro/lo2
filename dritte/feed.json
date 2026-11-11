@@ -18,7 +18,8 @@
     "hauptklub": "Düsseldorf",
     "pfad": "artikel/fortuna-duesseldorf-egouli-nach-gelb-rot-ausser-form-ce458dfa26.html",
     "bild_tm": "",
-    "umfrage": null
+    "umfrage": null,
+    "n11": false
   },
   {
     "id": "c4aef24e52",
@@ -40,7 +41,8 @@
     "hauptklub": "Viktoria Köln",
     "pfad": "artikel/viktoria-koeln-vom-abstiegskandidaten-zum-spitzenreiter-der-3-liga-c4aef24e52.html",
     "bild_tm": "",
-    "umfrage": null
+    "umfrage": null,
+    "n11": false
   },
   {
     "id": "2c09e37948",
@@ -60,7 +62,8 @@
     "hauptklub": "Münster",
     "pfad": "artikel/preussen-muenster-schwache-offensive-wacklige-defensive-lange-2c09e37948.html",
     "bild_tm": "",
-    "umfrage": null
+    "umfrage": null,
+    "n11": false
   },
   {
     "id": "d175e1d822",
@@ -87,7 +90,8 @@
         "Ja",
         "Nein"
       ]
-    }
+    },
+    "n11": false
   },
   {
     "id": "e4e7f72659",
@@ -108,7 +112,8 @@
     "hauptklub": "Münster",
     "pfad": "artikel/muenster-im-westfalenpokal-woerle-setzt-gegen-schueren-auf-wenig-e4e7f72659.html",
     "bild_tm": "",
-    "umfrage": null
+    "umfrage": null,
+    "n11": false
   },
   {
     "id": "cb0451fabc",
@@ -136,7 +141,8 @@
     "hauptklub": "Düsseldorf",
     "pfad": "artikel/gerezgiher-verzichtet-auf-laenderspielreise-und-bleibt-in-duesseldorf-cb0451fabc.html",
     "bild_tm": "",
-    "umfrage": null
+    "umfrage": null,
+    "n11": false
   },
   {
     "id": "8c626a1a97",
@@ -164,7 +170,8 @@
         "Ja",
         "Nein"
       ]
-    }
+    },
+    "n11": false
   },
   {
     "id": "9003b29769",
@@ -185,7 +192,8 @@
     "hauptklub": "Düsseldorf",
     "pfad": "artikel/duesseldorf-plant-im-pokal-gegen-duisburg-mit-u19-talent-arden-9003b29769.html",
     "bild_tm": "",
-    "umfrage": null
+    "umfrage": null,
+    "n11": false
   },
   {
     "id": "e345ce2574",
@@ -214,7 +222,8 @@
         "😐 Geht so",
         "😴 Schlafmittel"
       ]
-    }
+    },
+    "n11": false
   },
   {
     "id": "5d20f7b064",
@@ -243,7 +252,8 @@
         "😐 Geht so",
         "😴 Schlafmittel"
       ]
-    }
+    },
+    "n11": false
   },
   {
     "id": "41a2914706",
@@ -276,7 +286,8 @@
       "antworten": [
         "💚 Gute Besserung"
       ]
-    }
+    },
+    "n11": false
   },
   {
     "id": "0ecaa6239d",
@@ -318,7 +329,8 @@
         "😐 Geht so",
         "😴 Schlafmittel"
       ]
-    }
+    },
+    "n11": false
   },
   {
     "id": "e465043963",
@@ -347,7 +359,8 @@
         "😐 Geht so",
         "😴 Schlafmittel"
       ]
-    }
+    },
+    "n11": false
   },
   {
     "id": "c8c50d68ef",
@@ -376,7 +389,8 @@
         "😐 Geht so",
         "😴 Schlafmittel"
       ]
-    }
+    },
+    "n11": false
   },
   {
     "id": "644395bcc6",
@@ -398,7 +412,8 @@
     "hauptklub": "Würzburg",
     "pfad": "artikel/wuerzburg-gegen-hoffenheim-ii-zwei-unbestaendige-teams-brauchen-punkte-644395bcc6.html",
     "bild_tm": "",
-    "umfrage": null
+    "umfrage": null,
+    "n11": false
   },
   {
     "id": "2a82b58c4a",
@@ -427,7 +442,8 @@
         "😐 Geht so",
         "😴 Schlafmittel"
       ]
-    }
+    },
+    "n11": false
   },
   {
     "id": "67702106bd",
@@ -456,7 +472,8 @@
         "😐 Geht so",
         "😴 Schlafmittel"
       ]
-    }
+    },
+    "n11": false
   },
   {
     "id": "82bcbfd210",
@@ -485,7 +502,8 @@
         "😐 Geht so",
         "😴 Schlafmittel"
       ]
-    }
+    },
+    "n11": false
   },
   {
     "id": "edf5dc42d5",
@@ -514,7 +532,8 @@
         "😐 Geht so",
         "😴 Schlafmittel"
       ]
-    }
+    },
+    "n11": false
   },
   {
     "id": "b812049755",
@@ -543,7 +562,8 @@
         "😐 Geht so",
         "😴 Schlafmittel"
       ]
-    }
+    },
+    "n11": false
   },
   {
     "id": "82c1481e7b",
@@ -572,6 +592,7 @@
         "😐 Geht so",
         "😴 Schlafmittel"
       ]
-    }
+    },
+    "n11": false
   }
 ]
