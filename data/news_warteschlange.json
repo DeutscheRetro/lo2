@@ -1,129 +1,5 @@
 [
  {
-  "id": "83157d2aa3",
-  "schluessel": "magdeburg|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Magdeburg",
-  "klubs": [
-   "Magdeburg"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Stabil, effizient, hungrig: Magdeburg mausert sich zum Spitzenteam",
-  "quellen": [
-   {
-    "url": "https://www.kicker.de/stabil-effizient-hungrig-magdeburg-mausert-sich-zum-spitzenteam-1270374/artikel#omrss",
-    "aid": "ed6d3a68ba",
-    "titel": "Stabil, effizient, hungrig: Magdeburg mausert sich zum Spitzenteam",
-    "quelle": "kicker 2. Bundesliga News",
-    "beschr": "Nach dem 1:6 zum Auftakt gegen Braunschweig musste man sich große Sorgen um Magdeburg machen. Inzwischen ist die Lage beim FCM eine ganze andere: Nach dem 4:1 über St. Pauli hat das Team von Petrik Sander weiter Tuchfühlung zu den Aufstiegsrängen.",
-    "zeit": "2026-11-10T19:35"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-10T21:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "e3b2b363c9",
-  "schluessel": "heidenheim|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Heidenheim",
-  "klubs": [
-   "Heidenheim"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "\"Kenne das alles ohne ihn nicht\": Mainkas besondere Worte für Schmidt",
-  "quellen": [
-   {
-    "url": "https://www.kicker.de/kenne-das-alles-ohne-ihn-nicht-mainkas-besondere-worte-fuer-schmidt-1270279/artikel#omrss",
-    "aid": "72070088b4",
-    "titel": "\"Kenne das alles ohne ihn nicht\": Mainkas besondere Worte für Schmidt",
-    "quelle": "kicker 2. Bundesliga News",
-    "beschr": "Seit Juli 2018 ist Patrick Mainka beim 1. FC Heidenheim. Sein Trainer seit mittlerweile schon über acht Jahren ist durchgehend Frank Schmidt. Wenn dieser den FCH am Saisonende nach über 20 Jahren verlässt, ist es nicht nur für Kapitän Mainka eine große Zäsur.",
-    "zeit": "2026-11-10T19:28"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "u",
-  "erstmals": "2026-11-10T21:01",
-  "archiv": [
-   {
-    "id": "922b910d1b",
-    "titel": "Heidenheims Schmidt stellt sich schützend vor Vogt: Klare Worte gegen Hass im Netz",
-    "datum": "02.11.",
-    "stufe": "sonstiges",
-    "summary": "Heidenheims Trainer Frank Schmidt hat sich nach der 1:2-Niederlage in Karlsruhe vor Stürmer Alessandro Vogt gestellt, der im Netz angefeindet worden sein soll. Vogt erzielte gegen den KSC sein erstes Pflichtspieltor für den FCH."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "707616b51d",
-  "schluessel": "wolfsburg|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Wolfsburg",
-  "klubs": [
-   "Wolfsburg"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Hecking holt Bremser aus Kiel zurück nach Wolfsburg – Partner auf sieben Stationen",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbUVCMVhrYUU4ODBrNEJiSkRvajhfbWJ0MWVtRVVjbjV4NlhDZzVVUW9BSTRiZWUzaE5oXzJ5YjQ0Y05yNG9kTnI5YUpEYXhiYUo5MUozMm5XSk9MdExTczBZS3V2U2x3YnNhaVBOUVpQWmF2bDdMX1JiNnE1NHF5UF9UcE5NYzVTa3VHVnBhNjdidjZIbmgwN1lsR1l3NVlBaUR3am5neWs3WGZ2QXMwUUVLOEloaGx6SGJOT1BocDM0aFFW?oc=5",
-    "aid": "e847c54281",
-    "titel": "Hecking holt Bremser aus Kiel zurück nach Wolfsburg – Partner auf sieben Stationen",
-    "quelle": "Transfermarkt",
-    "beschr": " Hecking holt Bremser aus Kiel zurück nach Wolfsburg – Partner auf sieben Stationen &nbsp;&nbsp; Transfermarkt ",
-    "zeit": "2026-11-10T19:05"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-10T21:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "731c8831b5",
-  "schluessel": "st. pauli|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "St. Pauli",
-  "klubs": [
-   "St. Pauli"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Nach Irvine-Wechsel: Bekommt St. Pauli einen neuen Nationalspieler Australiens?",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSjFvb1JXYWJENlpoQTJYUGxrRHZEeUNOT2JpMTdJa05mU2YwWlZCT1JOWW9LOFcwSUFNY0JfbXJhQXpyX1pkTFdqZVpROE1HeVluTUgyUmpwYmlHTFZzVnJnbG9na0VzWXZtZjJtSEJVQjBkaVJ1eTVJdlVNb20tb2lwZjhoSHVxQlNWYmZjbmtCaHFjYWVFUmhDcU0wLThiYWtkTmtSSTllMUhRdC1uUDJJZmlORFEwOVJ5UWZLbjRQRFFCb09yMW1fOFNYWDFqbWljd1ZyeDY?oc=5",
-    "aid": "5551662465",
-    "titel": "Nach Irvine-Wechsel: Bekommt St. Pauli einen neuen Nationalspieler Australiens?",
-    "quelle": "Hamburger Abendblatt",
-    "beschr": " Nach Irvine-Wechsel: Bekommt St. Pauli einen neuen Nationalspieler Australiens? &nbsp;&nbsp; Hamburger Abendblatt ",
-    "zeit": "2026-11-10T19:00"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-10T21:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
   "id": "db4bf4662d",
   "schluessel": "hertha|spiel",
   "person": "",
@@ -172,7 +48,7 @@
     "summary": "Hertha BSC gewinnt beim 1. FC Kaiserslautern 3:0 und bleibt nach zehn Spielen ungeschlagen Tabellenführer. Grønning trifft doppelt, Adewumi einmal, Pedersen bereitet zwei Tore vor."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "4dffa07007",
@@ -209,7 +85,7 @@
     "summary": "Nürnbergs neuer Sportvorstand Dieter Frey will Technischen Direktor Michael Bischof und Scouting-Chef Christopher Schindler vorerst behalten. Die Nachfolge im Nachwuchsbereich wird zunächst intern aufgefangen."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "e9aa9cecf5",
@@ -237,6 +113,123 @@
   "prio": 3,
   "status": "n",
   "erstmals": "2026-11-11T06:01",
+  "archiv": [],
+  "versuche": 2
+ },
+ {
+  "id": "05207ce2a1",
+  "schluessel": "hannover|transfer",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover"
+  ],
+  "stufe": "geruecht",
+  "klasse": "transfer",
+  "titel": "Sportchef-Suche bei Hannover 96: Lederer Top-Kandidat? Kind bindet Wagner „vollkommen“ ein",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQWMweDVPQ3pFSzZhVlNrRURINHRoOUs2UmtJV1hWeEh5ZzcwOVBJR1Roa1hCZ1VtS1BTenJ1NVE1ZXlUUmFZcFdRT1Z3RlpDdXlzTkhaUkltLU9BcXQwNVJwNmEtYjJIOC1YUUh0TEdZRDh5OFhVVDVad0Q5UXZ1UVNTdzlGeVhKeTI5TC1fZUJSaUE1b3VBTXBOSW81dFNJOE5Zc0lkaE82V1lNenhZLVlVUXVyeVRZQnViSkROdWZwTEczS3I5VkZ1TmtURVFOVmZR?oc=5",
+    "aid": "adc98dbbac",
+    "titel": "Sportchef-Suche bei Hannover 96: Lederer Top-Kandidat? Kind bindet Wagner „vollkommen“ ein",
+    "quelle": "Transfermarkt",
+    "beschr": " Sportchef-Suche bei Hannover 96: Lederer Top-Kandidat? Kind bindet Wagner „vollkommen“ ein &nbsp;&nbsp; Transfermarkt ",
+    "zeit": "2026-11-10T21:02"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "u",
+  "erstmals": "2026-11-11T09:01",
+  "archiv": [
+   {
+    "id": "c4b2de1f98",
+    "titel": "Hannover 96 prüft offenbar Marko Marin als Sportchef",
+    "datum": "06.11.",
+    "stufe": "geruecht",
+    "summary": "Hannover 96 sucht nach dem Aus von Jonas Boldt einen neuen starken Mann für den Sport. Laut Sky und RTL ist Marko Marin von Roter Stern Belgrad ein Kandidat, aber kein Topfavorit."
+   },
+   {
+    "id": "e1e975ae4a",
+    "titel": "Hannover 96 sucht Sportchef: Drei Kandidaten nach Boldt-Aus",
+    "datum": "03.11.",
+    "stufe": "geruecht",
+    "summary": "Hannover 96 hat nach dem Aus von Jonas Boldt laut Aufsichtsratschef Martin Kind drei Kandidaten für den Sportchef-Posten. Ein neuer Mann soll Mitte oder Ende November kommen, Sportdirektor Ralf Becker steht offenbar vor dem Aus."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "44748dafd7",
+  "schluessel": "wolfsburg|verletzung",
+  "person": "",
+  "spieler": [],
+  "klub": "Wolfsburg",
+  "klubs": [
+   "Wolfsburg"
+  ],
+  "stufe": "ausfall",
+  "klasse": "verletzung",
+  "titel": "Wolfsburg-Verteidiger Cleiton für zwei Spiele gesperrt",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb0FCd20xRUFTRVBQYTlMcW1NemVIVDdmaThBWkFkdWotamVOZ1pmWFNOMzRNdDVEOHc0eTV0aFJLZDRuZ05PUlpMQ19KLWUtZ3czQkNxRktYY2NTTmx3TDkzbXFfT3pRVzhVVW1Ed1hJSHNpbUFnd1Zhc2JVbEtRVFFzazM0bU9OYmRiTUZmRjh2R1o2Yzk4TdIBngFBVV95cUxOZEtfNkJNZjlFWlJ4aDFfRWVva2NVTzExMWhDaXBodDJlNzl6UWJBUWF3bjNFOVJCdlBpd1ZSQzFQWVlaTC1SUUt4S2dDYkUxUVlSMUh6bzN0OEo1SEhncVd6UE8xY1AtWFNMRU1EdHV2YzRpZTJVcl82VEtWU24wbHNra1pxOHo5R1dXbE5MeHNqSTA3bHNfcVBrNzZmQQ?oc=5",
+    "aid": "56df5ff476",
+    "titel": "Wolfsburg-Verteidiger Cleiton für zwei Spiele gesperrt",
+    "quelle": "Tribuna.com",
+    "beschr": " Wolfsburg-Verteidiger Cleiton für zwei Spiele gesperrt &nbsp;&nbsp; Tribuna.com ",
+    "zeit": "2026-11-10T12:25"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-11T09:01",
+  "archiv": [
+   {
+    "id": "7e1135c173",
+    "titel": "Leitl vor Reese-Rückkehr: „Es geht um den VfL Wolfsburg“",
+    "datum": "05.11.",
+    "stufe": "rueckkehr",
+    "summary": "Herthas Trainer Stefan Leitl will die Rückkehr von Fabian Reese vor dem Spitzenspiel gegen Wolfsburg nüchtern betrachten. Der ungeschlagene Tabellenführer trifft am Samstagabend im Olympiastadion auf den Drittplatzierten."
+   },
+   {
+    "id": "f32559af08",
+    "titel": "Hertha vor Wolfsburg: Nilsson und Dardai zurück im Training",
+    "datum": "03.11.",
+    "stufe": "rueckkehr",
+    "summary": "Herthas Stürmer Gustaf Nilsson und Innenverteidiger Marton Dardai sind nach Verletzungen ins Mannschaftstraining zurückgekehrt. Am Samstagabend wartet im Olympiastadion das Topspiel gegen Wolfsburg."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "c9bad1a46b",
+  "schluessel": "furth|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Fürth",
+  "klubs": [
+   "Fürth"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Warum sich Präsident Heißmann nach dem Ja zur SpVgg Fürth noch mehr Teilhabe wünscht",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcy1lZVM3OHlHRTdjdXFzMFRDRkJsZXVndHJMdHpneGFPVTI5SWx6SUNScTEyM1NmbmlnQzFHeGtaaGNVc3UwdWhIUHlnS1hGRC1NUlEwbmVjV3ZnVEpKNU5RMlE5Q2pvb0NpMm5HakhrN0ZOQnM0RjR5QlZGZ1dkSnRBNll2ZUN6MzNkemxnOEV2R3VNaXBYRldCbFhfODQtLUlWV2c2VDZlbUpScjV2V2s5dS0tM1ZQdFFYVGo2ZzhTQ214REZ2blplQUVyUDA5QjBJZzNYYm5Udw?oc=5",
+    "aid": "cf2b646fd4",
+    "titel": "Warum sich Präsident Heißmann nach dem Ja zur SpVgg Fürth noch mehr Teilhabe wünscht",
+    "quelle": "NN.de",
+    "beschr": " Warum sich Präsident Heißmann nach dem Ja zur SpVgg Fürth noch mehr Teilhabe wünscht &nbsp;&nbsp; NN.de ",
+    "zeit": "2026-11-11T08:00"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-11T09:01",
   "archiv": [],
   "versuche": 1
  }
