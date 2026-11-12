@@ -1,0 +1,136 @@
+2026-11-12 02:45:45,848 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 1 passende Treffer
+2026-11-12 02:45:45,848 INFO S7 Ersatzquelle liefert Text (120 Wörter, 1 Quellen): Kimmich nach Rückkehr: Hier am absolut richtigen Ort
+2026-11-12 02:45:45,849 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 0 passende Treffer
+2026-11-12 02:45:45,849 INFO FinalCheck SKIP: borussia mönchengladbach/{'max muster'} stage=geruecht bereits in Archiv
+2026-11-12 02:45:45,849 INFO FinalCheck SKIP: borussia mönchengladbach/set() stage=geruecht bereits in Archiv
+2026-11-12 02:45:52,564 INFO 💶 Budget: dieser Lauf 0.000 $ | heute 0.00 $ | Monat 0.00 / 0 $
+2026-11-12 02:45:52,565 INFO URL-Cache geladen: 1820 bekannte URLs (letzte 30 Tage)
+2026-11-12 02:45:52,565 INFO === LO Generator startet – max. 50 Artikel ===
+2026-11-12 02:45:52,566 INFO Feed: https://newsfeed.kicker.de/news/3-liga
+2026-11-12 02:45:53,029 INFO Feed: https://www.sport.de/rss/news/
+2026-11-12 02:45:53,706 INFO Feed: https://www.11freunde.de/feed
+2026-11-12 02:45:55,041 INFO Feed: https://news.google.com/rss/search?q=%223.+Liga%22&hl=de&gl=DE&ceid=DE:de
+2026-11-12 02:45:55,673 WARNING Spielerliste nicht verfügbar: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-12 02:45:55,673 INFO BL-Spielerliste geladen: 0 Namen
+2026-11-12 02:45:55,673 INFO S3 keyword miss: Fußballerinnen des SV Henstedt-Ulzburg kämpfen gegen die Erg
+2026-11-12 02:45:55,675 INFO S3 keyword miss: Mit dem FC Memmingen peilt ein weiterer Konkurrent der SpVgg
+2026-11-12 02:45:55,676 INFO S2 kein BL-Klub im Titel: Ost-Ost-Ost-Fußball! Energie Cottbus: Wollitz greift durch, 
+2026-11-12 02:45:55,676 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Verletzung+Ausfall+gesperrt&hl=de&gl=DE&ceid=DE:de
+2026-11-12 02:45:56,082 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Transfer+Wechsel+verpflichtet&hl=de&gl=DE&ceid=DE:de
+2026-11-12 02:45:56,445 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Ger%C3%BCcht+Interesse+Angebot&hl=de&gl=DE&ceid=DE:de
+2026-11-12 02:45:56,801 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Vertrag+verl%C3%A4ngert+abl%C3%B6sefrei&hl=de&gl=DE&ceid=DE:de
+2026-11-12 02:45:57,248 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Trainer+Entlassung&hl=de&gl=DE&ceid=DE:de
+2026-11-12 02:45:57,586 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Saarbr%C3%BCcken%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 02:45:58,038 INFO S3 keyword miss: Paul Jaeckel: Bilanz gegen Gegenspieler, Trainer & Vereine
+2026-11-12 02:45:58,038 INFO S2 blacklist: Spielereignisse | FC Wegberg-Beeck - Alemannia Aachen 0:5 | 
+2026-11-12 02:45:58,040 INFO S3 keyword miss: Fußball-Bundesliga: Allofs-Brüder erkennen sich in Kölns El-
+2026-11-12 02:45:58,042 INFO S3 keyword miss: Fußball: Kane sieht Olise als Kandidaten für den Ballon d'Or
+2026-11-12 02:45:58,042 INFO Feed: https://news.google.com/rss/search?q=%22Alemannia+Aachen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 02:45:58,394 INFO S3 keyword miss: Alexander Ems
+2026-11-12 02:45:58,395 INFO S3 keyword miss: Daniel Hofmann
+2026-11-12 02:45:58,396 INFO Feed: https://news.google.com/rss/search?q=%22FC+Ingolstadt%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 02:45:58,682 INFO S3 keyword miss: Viermal Latte, ein wichtiger Heimsieg und ein besonderes Jub
+2026-11-12 02:45:58,684 INFO S3 keyword miss: Sechzig, Bayern & Co.: »Wollen uns so teuer wie möglich verk
+2026-11-12 02:45:58,684 INFO Feed: https://news.google.com/rss/search?q=%22Fortuna+D%C3%BCsseldorf%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 02:45:58,990 INFO Feed: https://news.google.com/rss/search?q=%22Fortuna+K%C3%B6ln%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 02:45:59,358 INFO Feed: https://news.google.com/rss/search?q=%22Hansa+Rostock%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 02:45:59,637 INFO Feed: https://news.google.com/rss/search?q=%22Jahn+Regensburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 02:45:59,891 INFO S3 keyword miss: Markus Bähr
+2026-11-12 02:45:59,893 INFO S3 keyword miss: Heizen mit Holz – Wärmepumpe und Holzheizung kombinieren (on
+2026-11-12 02:45:59,893 INFO Feed: https://news.google.com/rss/search?q=%22MSV+Duisburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 02:46:00,249 INFO S3 keyword miss: Stefan Kleineheismann: Bilanz als Trainer & Spieler – Gegner
+2026-11-12 02:46:00,250 INFO S3 keyword miss: Wer schoss das 1.000. Tor für Deutschland?
+2026-11-12 02:46:00,251 INFO Feed: https://news.google.com/rss/search?q=%22Preu%C3%9Fen+M%C3%BCnster%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 02:46:00,684 INFO Feed: https://news.google.com/rss/search?q=%22Rot-Weiss+Essen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 02:46:01,005 INFO Feed: https://news.google.com/rss/search?q=%22SC+Verl%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 02:46:01,307 INFO Feed: https://news.google.com/rss/search?q=%22Sonnenhof+Gro%C3%9Faspach%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 02:46:01,677 INFO Feed: https://news.google.com/rss/search?q=%22SV+Meppen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 02:46:02,024 INFO S3 keyword miss: Neun Spieler fehlen im Testspiel: Arminia-Trainer Kirch gibt
+2026-11-12 02:46:02,026 INFO S3 keyword miss: Mats Facklam jagt Rekord: Die Könige der Regionalliga Nord
+2026-11-12 02:46:02,027 INFO S3 keyword miss: Neun Spieler fehlen im Testspiel: Arminia-Trainer Kirch gibt
+2026-11-12 02:46:02,028 INFO Feed: https://news.google.com/rss/search?q=%22Waldhof+Mannheim%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 02:46:02,309 INFO S3 keyword miss: Casterfeldstraße, Mallaustraße, B38a: Hier müssen Autofahrer
+2026-11-12 02:46:02,310 INFO Feed: https://news.google.com/rss/search?q=%22Wehen+Wiesbaden%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 02:46:02,673 INFO Feed: https://news.google.com/rss/search?q=%22Hoffenheim+II%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 02:46:02,939 INFO Feed: https://news.google.com/rss/search?q=%22TSV+Havelse%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 02:46:03,184 INFO Feed: https://news.google.com/rss/search?q=%22VfB+Stuttgart+II%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 02:46:03,501 INFO Feed: https://news.google.com/rss/search?q=%22Viktoria+K%C3%B6ln%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 02:46:03,836 INFO S3 keyword miss: Jeremias Lorch: Bilanz gegen Gegenspieler, Trainer & Vereine
+2026-11-12 02:46:03,836 INFO S2 kein BL-Klub im Titel: 1. FC Köln: 918 Minuten bis zum El-Mala-Jakpot
+2026-11-12 02:46:03,836 INFO Feed: https://news.google.com/rss/search?q=%22W%C3%BCrzburger+Kickers%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 02:46:04,110 INFO S3 keyword miss: Photovoltaik und E-Auto – eine lohnende Kombination (online)
+2026-11-12 02:46:04,110 INFO Feed: https://newsfeed.kicker.de/team/1-fc-saarbruecken
+2026-11-12 02:46:04,462 INFO Feed: https://newsfeed.kicker.de/team/alemannia-aachen
+2026-11-12 02:46:04,773 INFO Feed: https://newsfeed.kicker.de/team/fc-ingolstadt-04
+2026-11-12 02:46:05,015 INFO Feed: https://newsfeed.kicker.de/team/fortuna-duesseldorf
+2026-11-12 02:46:05,247 INFO Feed: https://newsfeed.kicker.de/team/hansa-rostock
+2026-11-12 02:46:05,488 INFO Feed: https://newsfeed.kicker.de/team/jahn-regensburg
+2026-11-12 02:46:05,552 INFO Feed: https://newsfeed.kicker.de/team/msv-duisburg
+2026-11-12 02:46:05,834 INFO Feed: https://newsfeed.kicker.de/team/preussen-muenster
+2026-11-12 02:46:06,075 INFO Feed: https://newsfeed.kicker.de/team/rot-weiss-essen
+2026-11-12 02:46:06,402 INFO Feed: https://newsfeed.kicker.de/team/sc-verl
+2026-11-12 02:46:06,805 INFO Feed: https://newsfeed.kicker.de/team/waldhof-mannheim
+2026-11-12 02:46:07,137 INFO Feed: https://newsfeed.kicker.de/team/sv-wehen-wiesbaden
+2026-11-12 02:46:07,368 INFO Feed: https://newsfeed.kicker.de/team/tsg-hoffenheim-ii
+2026-11-12 02:46:07,833 INFO Feed: https://newsfeed.kicker.de/team/tsv-havelse
+2026-11-12 02:46:08,224 INFO Feed: https://newsfeed.kicker.de/team/vfb-stuttgart-ii
+2026-11-12 02:46:08,479 INFO Feed: https://newsfeed.kicker.de/team/fc-viktoria-koeln
+2026-11-12 02:46:08,710 INFO Eingelesen: 9 Schlagzeilen nach den Gratis-Filtern
+2026-11-12 02:46:08,715 INFO S5: 9 neue Geschichten, 0 schon berichtet, 0 zu wartenden Geschichten ergänzt, 12 warten
+2026-11-12 02:47:15,660 INFO S6 aussortiert (prio_1): Havelse-Spiel in 3. Liga verlegt – Schon wieder Spielplan-Ärger für Vf
+2026-11-12 02:47:15,660 INFO S6 aussortiert (prio_0): Hasenhüttl kommt! FC Ingolstadt testet gegen Tiroler Ex-Verein von Spo
+2026-11-12 02:47:15,660 INFO S6 aussortiert (prio_0): Vorstand von Fortuna Düsseldorf unter Druck
+2026-11-12 02:47:15,661 INFO S6 aussortiert (prio_0): Hansa Inside: Die Neuzugänge im Check
+2026-11-12 02:47:15,661 INFO S6 aussortiert (prio_0): Neue Krebstherapie in Rostock: Für wen sie infrage kommt und wie es Pa
+2026-11-12 02:47:15,661 INFO S6 aussortiert (prio_0): Westfalenpokal: BSV Schüren (H)
+2026-11-12 02:47:15,661 INFO S6 aussortiert (prio_0): Veranstaltungen in Mannheim am Wochenende: Theater, Musik und Sport
+2026-11-12 02:47:15,661 INFO S6 aussortiert (prio_0): Kostenlos aufs Eis: Mannheim lädt Familien zu Beratung und Eislaufen e
+2026-11-12 02:47:21,568 WARNING discarding data: None
+2026-11-12 02:47:21,570 INFO S7 kein Volltext (trafilatura_returned_empty): Preußen Münster nach 3:0 gegen Schüren im Halbfinale des Wes
+2026-11-12 02:47:21,839 INFO S7 Ersatzquellen für "Preußen Münster nach 3:0 gegen Schüren im Halbfina": 0 passende Treffer
+2026-11-12 02:47:21,839 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Preußen Münster nach 3:0 gegen Schüren im Halbfinale des Wes
+2026-11-12 02:47:22,121 INFO S7 Ersatzquellen für "Stammkraft Fahrner fehlt dem 1. FC Saarbrücken woc": 0 passende Treffer
+2026-11-12 02:47:22,122 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Stammkraft Fahrner fehlt dem 1. FC Saarbrücken wochenlang
+2026-11-12 02:47:23,401 INFO S7 kein Volltext (too_short_21_words): BSV Schüren gegen Preußen Münster: Nach dem letzten Duell en
+2026-11-12 02:47:23,649 INFO S7 Ersatzquellen für "BSV Schüren gegen Preußen Münster: Nach dem letzte": 0 passende Treffer
+2026-11-12 02:47:23,650 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): BSV Schüren gegen Preußen Münster: Nach dem letzten Duell en
+2026-11-12 02:47:24,454 WARNING discarding data: None
+2026-11-12 02:47:24,455 INFO S7 kein Volltext (trafilatura_returned_empty): Deutlicher Sieg im Testspiel
+2026-11-12 02:47:24,718 INFO S7 Ersatzquellen für "Deutlicher Sieg im Testspiel": 0 passende Treffer
+2026-11-12 02:47:24,718 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Deutlicher Sieg im Testspiel
+2026-11-12 02:47:24,950 INFO S7 Ersatzquellen für "Elegant und eklig: Schleimer als Sinnbild des Wies": 0 passende Treffer
+2026-11-12 02:47:24,950 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Elegant und eklig: Schleimer als Sinnbild des Wiesbadener Au
+2026-11-12 02:47:26,283 WARNING discarding data: None
+2026-11-12 02:47:26,284 INFO S7 kein Volltext (trafilatura_returned_empty): Vorstand von Fortuna Düsseldorf unter Druck
+2026-11-12 02:47:26,517 INFO S7 Ersatzquellen für "Vorstand von Fortuna Düsseldorf unter Druck": 1 passende Treffer
+2026-11-12 02:47:28,014 INFO S7 kein Volltext (too_short_4_words): Vorstand von Fortuna Düsseldorf unter Druck
+2026-11-12 02:47:28,014 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Vorstand von Fortuna Düsseldorf unter Druck
+2026-11-12 02:47:29,171 INFO S7 kein Volltext (too_short_27_words): Der BSV Schüren fordert Drittligist Preußen Münster: Westfal
+2026-11-12 02:47:29,436 INFO S7 Ersatzquellen für "Der BSV Schüren fordert Drittligist Preußen Münste": 0 passende Treffer
+2026-11-12 02:47:29,436 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Der BSV Schüren fordert Drittligist Preußen Münster: Westfal
+2026-11-12 02:47:31,402 INFO S7 kein Volltext (too_short_73_words): Ex-Profis und 64 Siege: Dieser Kreisligist fordert Waldhof M
+2026-11-12 02:47:31,649 INFO S7 Ersatzquellen für "Ex-Profis und 64 Siege: Dieser Kreisligist fordert": 0 passende Treffer
+2026-11-12 02:47:31,649 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Ex-Profis und 64 Siege: Dieser Kreisligist fordert Waldhof M
+2026-11-12 02:47:33,150 INFO S7 kein Volltext (too_short_47_words): Hansa Inside: Wer Hansa wirklich besser macht - und wer bish
+2026-11-12 02:47:33,440 INFO S7 Ersatzquellen für "Hansa Inside: Wer Hansa wirklich besser macht - un": 0 passende Treffer
+2026-11-12 02:47:33,440 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Hansa Inside: Wer Hansa wirklich besser macht - und wer bish
+2026-11-12 02:47:34,067 INFO S7 kein Volltext (too_short_75_words): 3. Liga: Viktoria Köln wartet auf Dudu-Kohle – Wunderlich ko
+2026-11-12 02:47:34,329 INFO S7 Ersatzquellen für "3. Liga: Viktoria Köln wartet auf Dudu-Kohle – Wun": 0 passende Treffer
+2026-11-12 02:47:34,329 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): 3. Liga: Viktoria Köln wartet auf Dudu-Kohle – Wunderlich ko
+2026-11-12 02:47:36,021 INFO S7 kein Volltext (too_short_40_words): Warum die Länderspielpause für den SV Meppen zur Unzeit komm
+2026-11-12 02:47:36,293 INFO S7 Ersatzquellen für "Warum die Länderspielpause für den SV Meppen zur U": 0 passende Treffer
+2026-11-12 02:47:36,293 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Warum die Länderspielpause für den SV Meppen zur Unzeit komm
+2026-11-12 02:47:37,230 INFO S7 kein Volltext (too_short_52_words): Rot-Weiss Essen: Telalovic knipst stark, aber einer war noch
+2026-11-12 02:47:37,464 INFO S7 Ersatzquellen für "Rot-Weiss Essen: Telalovic knipst stark, aber eine": 0 passende Treffer
+2026-11-12 02:47:37,465 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Rot-Weiss Essen: Telalovic knipst stark, aber einer war noch
+2026-11-12 02:47:38,940 INFO S7 kein Volltext (fetch_failed_SSLError): SV Wehen Wiesbaden: Joker-Tore bringen den Drittligisten auf
+2026-11-12 02:47:39,244 INFO S7 Ersatzquellen für "SV Wehen Wiesbaden: Joker-Tore bringen den Drittli": 0 passende Treffer
+2026-11-12 02:47:39,244 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): SV Wehen Wiesbaden: Joker-Tore bringen den Drittligisten auf
+2026-11-12 02:47:39,245 INFO S9.5 FinalCheck: 0/0 durch
+2026-11-12 02:47:39,247 WARNING Sitemap ohne Spielerseiten: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-12 02:47:39,248 INFO 💶 Kosten: dieser Lauf 0.000 $ (Budget 0.000 $) | heute 0.00 $ | Monat 0.00 / 0 $ | konferenz (abo) 1× 0.000 $
+2026-11-12 02:47:39,248 INFO 🎫 Abo-Verbrauch: 1,764 Tokens rein (davon Cache gelesen 0), 9,338 raus, API-Gegenwert 0.05 $ | konferenz 1×: 1,764/9,338
+2026-11-12 02:47:39,250 INFO Feeds: 45/45 begonnen, nächster Lauf startet bei Nr. 0
+2026-11-12 02:47:39,250 INFO URL-Cache gespeichert: 1855 URLs
+2026-11-12 02:47:39,251 INFO === Fertig. 0 neue Artikel. feed.json: 24 ===
+2026-11-12 02:47:39,251 INFO Stats: {"ts": "20261112_0245", "ingested": 35, "s2_pre_filter": 5, "s3_relevance": 19, "s4_dedup_early": 0, "gesammelt": 9, "geschichten_neu": 9, "s5_archiv_doppelt": 0, "s5_zusammengefuehrt": 0, "s6_aussortiert": 8, "s7_geschrieben": 0, "s7_verworfen": 0, "s5_fulltext_fail": 13, "s8_qa_rejected": 0, "published": 0, "kosten": {"lauf_usd": 0.0, "lauf_budget_usd": 0.0, "heute_usd": 0.0, "monat_usd": 0.0, "monatsbudget_usd": 0.0, "aufrufe": {"konferenz (abo)": {"anzahl": 1, "usd": 0.0}}, "guthaben_leer": false, "abo": true, "abo_tokens": {"konferenz": {"aufrufe": 1, "ein": 1764, "cache_schreiben": 0, "cache_lesen": 0, "aus": 9338, "api_wert_usd": 0.0485}}}}
