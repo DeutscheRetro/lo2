@@ -1,240 +1,5 @@
 [
  {
-  "id": "8c180ade2e",
-  "schluessel": "nurnberg|transfer",
-  "person": "",
-  "spieler": [],
-  "klub": "Nürnberg",
-  "klubs": [
-   "Nürnberg"
-  ],
-  "stufe": "geruecht",
-  "klasse": "transfer",
-  "titel": "Interesse nicht nur aus Augsburg: Reichert lässt sich nicht in die Karten schauen",
-  "quellen": [
-   {
-    "url": "https://www.kicker.de/interesse-nicht-nur-aus-augsburg-reichert-laesst-sich-nicht-in-die-karten-schauen-1270754/artikel#omrss",
-    "aid": "701052bad1",
-    "titel": "Interesse nicht nur aus Augsburg: Reichert lässt sich nicht in die Karten schauen",
-    "quelle": "kicker 2. Bundesliga News",
-    "beschr": "Den auslaufenden Vertrag von Jan Reichert hätte der 1. FC Nürnberg gern schon vor vielen Monaten verlängert. Der 25-jährige Kapitän verspürt aber keine Eile - ausgerechnet jetzt, wo die Gerüchteküche zu brodeln beginnt.",
-    "zeit": "2026-11-11T17:29"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-11T18:01",
-  "archiv": [
-   {
-    "id": "0e20d2bb72",
-    "titel": "Nürnberg: Chatzialexiou-Wechsel nach Frankfurt rückt näher",
-    "datum": "07.11.",
-    "stufe": "einigung",
-    "summary": "Nürnbergs Aufsichtsratschef Peter Meier bestätigt Gespräche über eine frühere Freigabe von Joti Chatzialexiou zu Eintracht Frankfurt. Ein Termin steht noch nicht fest, der Wechsel dürfte aber deutlich vor Februar erfolgen."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "16cb51a964",
-  "schluessel": "magdeburg|transfer",
-  "person": "",
-  "spieler": [],
-  "klub": "Magdeburg",
-  "klubs": [
-   "Magdeburg"
-  ],
-  "stufe": "geruecht",
-  "klasse": "transfer",
-  "titel": "Erstmals im A-Nationalteam: Luka Hyryläinen überzeugt beim 1. FC Magdeburg und weckt Interesse",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNE14TlI4VDctbUJRQmJtd0NHanVEMm54TXVpU2hia0FVZ0dTYlFCczYyWUFHSi1JZlJKN0dnNVVQMmtzS0pKSGcwMHJ2NUtkVnFUQVFneEtySzRDQld6a0gtdjRBQ1ZGYzIydENhZ3B4OU53RWdJMy1uQ01OVkxiYmh6UUkwaHd4d0FSQ1lZdEp0WkZJUEthdkhjbmNxaGthWFYyVE14ZjczaVdnOG9fYU1DUEd0dU5ETFJSZ2FlMHNBeFdVaXNJdNIBzgFBVV95cUxOZmYwS2ZWb3h6UC1oRGNfQUs3SWhuQzFwRWw5ZndlSzFoYUVkY0ZfVEV6ajcwVUFFT0dobWg0cVV2XzQ4czM4RTdjalZrYkFSN19JTjJmRGlmZXViSVZSdWpsbnNoXzFlTUZqRVlqWDhpb1BpQktrUV8zRnJnNTduc1NSME9xajhRUWZTeGpzUlQ2Q19Wc3hibUJXb2dNQ3dKVTVELS1ucFh2RmFXRGM2c01FcnNfbzJoenZWMURKcUpheXgzWEt0ZEJSTlQtdw?oc=5",
-    "aid": "f732f929a2",
-    "titel": "Erstmals im A-Nationalteam: Luka Hyryläinen überzeugt beim 1. FC Magdeburg und weckt Interesse",
-    "quelle": "Tribuna.com",
-    "beschr": " Erstmals im A-Nationalteam: Luka Hyryläinen überzeugt beim 1. FC Magdeburg und weckt Interesse &nbsp;&nbsp; Tribuna.com ",
-    "zeit": "2026-11-11T13:33"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "u",
-  "erstmals": "2026-11-11T18:01",
-  "archiv": [
-   {
-    "id": "03783c0c1f",
-    "titel": "Magdeburg lehnt Hyryläinen-Abgang ab: „Luka ist unser Spieler“",
-    "datum": "11.11.",
-    "stufe": "geruecht",
-    "summary": "Magdeburgs Sportchef Peer Jaekel erteilt Gerüchten um einen Hoffenheimer Rückkauf von Luka Hyryläinen eine Absage. Der Finne hat beim FCM noch einen Vertrag bis 2028."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "d8e77e0890",
-  "schluessel": "dresden|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Dresden",
-  "klubs": [
-   "Dresden"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "\"Haben Qualität für das Mittelfeld\": Ralf Minge bewertet die Arbeit von Thomas Stamm bei Dynamo Dresden",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdnFfTjkxVE1vVEZVLXpEU1VQYldhNUwxY2Vsd1lkVkdacGdhRFFXWFhsYkxTRVpRYlJ1am1qWGpQU3VFQ0RmX1lob3dFZmJpekQzYksxWUl5TFkxM1ZZOU0zM1hEcldPSkZzdF93bF9VbmZFQUhNczc3LTZ3MHZmeU4waE9VWi1pWWRDYlFPWEc4WElEa29NY0xacjBoT0Y5dHg5MzFBZ3lHUVV5ZF9vSWJFTnI1amZpRUk3M1JGYW9rVjZ0TEJkeF9SVE15QdIBzgFBVV95cUxOdnFfTjkxVE1vVEZVLXpEU1VQYldhNUwxY2Vsd1lkVkdacGdhRFFXWFhsYkxTRVpRYlJ1am1qWGpQU3VFQ0RmX1lob3dFZmJpekQzYksxWUl5TFkxM1ZZOU0zM1hEcldPSkZzdF93bF9VbmZFQUhNczc3LTZ3MHZmeU4waE9VWi1pWWRDYlFPWEc4WElEa29NY0xacjBoT0Y5dHg5MzFBZ3lHUVV5ZF9vSWJFTnI1amZpRUk3M1JGYW9rVjZ0TEJkeF9SVE15QQ?oc=5",
-    "aid": "5b9e6f8b1e",
-    "titel": "\"Haben Qualität für das Mittelfeld\": Ralf Minge bewertet die Arbeit von Thomas Stamm bei Dynamo Dresden",
-    "quelle": "Tribuna.com",
-    "beschr": " \"Haben Qualität für das Mittelfeld\": Ralf Minge bewertet die Arbeit von Thomas Stamm bei Dynamo Dresden &nbsp;&nbsp; Tribuna.com ",
-    "zeit": "2026-11-11T13:25"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-11T18:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "5a4b22c3ba",
-  "schluessel": "hannover|verletzung",
-  "person": "",
-  "spieler": [],
-  "klub": "Hannover",
-  "klubs": [
-   "Hannover"
-  ],
-  "stufe": "rueckkehr",
-  "klasse": "verletzung",
-  "titel": "Witziges Torgeheimnis: Lars Gindorf vor Comeback für Hannover 96 gegen Havelse",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSzEtQ01VOHdZRXhfUUhUb2k2X19iQ1JDX3N4R3I1LWFMZkxHTFdXRV9YNDhUbTUzVFVCQmpWei1WSVZDUnlsdElIbU5aSjNGWTZKbjVVQy16ODRtUG40VVExdEtrWF9iNEppQUpiRlUzbnBid28wLW9NV1lHWWJuWERWNnZXdGJoUHRGeTZlYUlzaV95cGhvQnlIdzJoTFcyemRCY2c2TlpGUmI3MUxRVGJPRWZMTDhmWktQTjJyb2kyRVp2QWk2ZnBMSjVIUnM3YTZDRXJEQzA0WnR1WWVRYXAtdC1IUQ?oc=5",
-    "aid": "899b65e956",
-    "titel": "Witziges Torgeheimnis: Lars Gindorf vor Comeback für Hannover 96 gegen Havelse",
-    "quelle": "Neue Presse",
-    "beschr": " Witziges Torgeheimnis: Lars Gindorf vor Comeback für Hannover 96 gegen Havelse &nbsp;&nbsp; Neue Presse ",
-    "zeit": "2026-11-11T16:03"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-11T18:01",
-  "archiv": [
-   {
-    "id": "e8d2176e39",
-    "titel": "Hannover 96: Chakroun mit Schulterblessur, Einsatz in Heidenheim offen",
-    "datum": "02.11.",
-    "stufe": "fraglich",
-    "summary": "Hannovers Husseyn Chakroun zog sich beim 2:1 gegen Dresden eine Blessur im rechten Schultereckgelenk zu. Ein Einsatz am Sonntag in Heidenheim ist nicht ausgeschlossen."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "f8a424c82e",
-  "schluessel": "hannover|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hannover",
-  "klubs": [
-   "Hannover"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Favorit aus England: Hannover 96 will Tim Lederer als neuen Sportgeschäftsführer verpflichten",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVTdlZ0poUDRpUHZva0hhOVRuX05qQUtyWGFYaUQycUFxRlRTbURlMlJRNnRmUHR3V0ZjN3kyTS1lWGdDbjVTcTk1WEZabnlhTDh3d3NjeWRUN19QdmhvdUdYSF9yNzB5dFhWTmtZOW42cDhCMkhjUElYLVVoWE1tNHF0dmw4RUljSk9kM055UlZhWW5ZeEltbXlaVDR3WEdLcnVndWVSREE5ZTNzcl93TW5RXzIyUHphbEFnVHJIVFNaNnNHTllSNNIBzgFBVV95cUxNZ3BXWFdfTTlHbFBockhXY0l6WEY0dkJtdEdOanU1NVo1SWFVOXRuT2dOM0dqdUdNdk91T0Rzd1FQWl9HLVNSakM1X3JFS3hTWTdKalMyR3lMV1VLMlBGMnk2N3h3NEdwVWlRdnE0RExab3hCNG1vSW9JVjA3U0ZmcUNSRDU1QmtxRDNVTGN6QVdUR050VWp3bUd6bklKeXBWYTl2QXhQVS11elgxYkU1N0UtVGpfZnQzTG8yUWJMME1NTVhIUEVXMXJQSDFmUQ?oc=5",
-    "aid": "2f93150b3c",
-    "titel": "Favorit aus England: Hannover 96 will Tim Lederer als neuen Sportgeschäftsführer verpflichten",
-    "quelle": "Tribuna.com",
-    "beschr": " Favorit aus England: Hannover 96 will Tim Lederer als neuen Sportgeschäftsführer verpflichten &nbsp;&nbsp; Tribuna.com ",
-    "zeit": "2026-11-11T12:00"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-11T18:01",
-  "archiv": [
-   {
-    "id": "f24f0b5c26",
-    "titel": "Heidenheim will Schmidt-Abschied gegen Hannover vergolden",
-    "datum": "06.11.",
-    "stufe": "sonstiges",
-    "summary": "Heidenheim empfängt am Sonntag Hannover 96 und ist zu Hause noch ungeschlagen. Es ist das erste Spiel nach der Ankündigung, dass Trainer Frank Schmidt im Sommer aufhört."
-   },
-   {
-    "id": "afa3db9641",
-    "titel": "Hannover 96 trennt sich nach fünf Monaten von Sportchef Boldt",
-    "datum": "01.11.",
-    "stufe": "sonstiges",
-    "summary": "Hannover 96 hat Sport-Geschäftsführer Jonas Boldt nach nur fünf Monaten mit sofortiger Wirkung abberufen. Der Klub steht nach neun Spieltagen mit acht Punkten auf Platz 16."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "f4293986c3",
-  "schluessel": "hertha|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hertha",
-  "klubs": [
-   "Hertha"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Hertha BSC: So kämpft Hertha-Trainer Leitl gegen den Schlendrian",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZkdpUHJ3VXg0LV9xdFBnekFnT0Z2TXN4VmxtS1B3dV9aRzlpVWZlU0ZydVRXRWtETXowXzA3dXV1QXl1WlVxZEcxSUNNWDJxcTVrb24xUmNETG92U0dpeWlOc04wYmh1cWFOeXdwRndLcmtDM2lOaDRLRkh0RjNuRWFQQ1dLTXd2Z1dvWTR5X19MRlVYQzJtYVJRYWNVT1BzMWpOanNnMEhDdVhwQTlIZV9ONnhzUkNqb055UFVnTFNOWWNHWHNoS0ZGZVNzNkJLdENheQ?oc=5",
-    "aid": "7324e9d522",
-    "titel": "Hertha BSC: So kämpft Hertha-Trainer Leitl gegen den Schlendrian",
-    "quelle": "BZ Berlin",
-    "beschr": " Hertha BSC: So kämpft Hertha-Trainer Leitl gegen den Schlendrian &nbsp;&nbsp; BZ Berlin ",
-    "zeit": "2026-11-11T14:16"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-11T18:01",
-  "archiv": [
-   {
-    "id": "b9598870dd",
-    "titel": "Thorsteinsson über Neustart bei Hertha: „Glauben an die eigene Leistung“",
-    "datum": "10.11.",
-    "stufe": "sonstiges",
-    "summary": "Herthas Jón Dagur Thorsteinsson erzählt, wie ihm die Leihe zu Brann Bergen wieder Selbstvertrauen gab. Sein Doppelpack in Dresden war sein bisher stärkster Abend im Hertha-Trikot."
-   },
-   {
-    "id": "5b69f6c8eb",
-    "titel": "Basler lobt Hertha und Leitl: „Die haben es jetzt selbst in der Hand“",
-    "datum": "10.11.",
-    "stufe": "sonstiges",
-    "summary": "Mario Basler lobt in seinem Podcast Herthas Trainer Stefan Leitl und sieht den Tabellenführer im Aufstiegsrennen in der eigenen Hand. Hertha hat nach elf Spieltagen 31 Punkte und spielt am 22. November in Cottbus."
-   },
-   {
-    "id": "008a7a4de7",
-    "titel": "Hertha BSC: Wie Stefan Leitl die Berliner an die Spitze führt",
-    "datum": "08.11.",
-    "stufe": "sonstiges",
-    "summary": "Hertha BSC führt die zweite Liga nach dem 2:1 gegen Wolfsburg mit zehn Punkten Vorsprung auf Rang drei an. Trainer Stefan Leitl setzt auf hohes Pressing, einen klaren Plan und eine funktionierende Gruppe."
-   }
-  ],
-  "versuche": 2
- },
- {
   "id": "b91bf08918",
   "schluessel": "frankfurt|sonstiges",
   "person": "",
@@ -262,7 +27,7 @@
   "status": "n",
   "erstmals": "2026-11-11T21:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "f4ecea008e",
@@ -291,7 +56,7 @@
   "status": "n",
   "erstmals": "2026-11-11T21:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "54df5d57f8",
@@ -329,7 +94,7 @@
     "summary": "Der 1. FC Nürnberg macht Dieter Frey zum Sportvorstand und Nachfolger des zu Eintracht Frankfurt wechselnden Joti Chatzialexiou. Frey war seit 2024 Sportlicher Leiter und stieg Anfang 2026 zum Direktor auf."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "29d0ae63b6",
@@ -357,6 +122,174 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-11T21:01",
+  "archiv": [],
+  "versuche": 2
+ },
+ {
+  "id": "098ba10f25",
+  "schluessel": "frankfurt|kader",
+  "person": "",
+  "spieler": [],
+  "klub": "Frankfurt",
+  "klubs": [
+   "Frankfurt"
+  ],
+  "stufe": "kader",
+  "klasse": "kader",
+  "titel": "SGE-Personalkarussell: Zwei Abgänge im Winter möglich",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ2xrdWRFQ2dmelluWWg2SFUtVGNFcmMwWWdMeEFOQ1lEMEFmWEJaVTRMY2YyR3YyOTZsMlZMbkExdHNjY0hEZEhJVGVYSnI1cVkzdFoyV1JQeXEtaDhMSjBFUnFWbThvblRZekxYWnNEejdiN25PcWtWVVlfSzA4TFVMSFM5Q25kYktBVEtQVQ?oc=5",
+    "aid": "2c729e8989",
+    "titel": "SGE-Personalkarussell: Zwei Abgänge im Winter möglich",
+    "quelle": "fussballdaten.de",
+    "beschr": " SGE-Personalkarussell: Zwei Abgänge im Winter möglich &nbsp;&nbsp; fussballdaten.de ",
+    "zeit": "2026-11-11T22:42"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-12T06:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "64f5433146",
+  "schluessel": "heidenheim|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Heidenheim",
+  "klubs": [
+   "Heidenheim"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Zäsur beim 1. FC Heidenheim: Patrick Mainka spricht über den Abschied von Trainer Frank Schmidt",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYUN1b0szZHZIZnJkcEE4SzB2cHRrTHlxSVNPdU5KNVJ4M2E3dEVCX3F4bFp1SDlyN1J1Uk5DRjdkbkJ6TFhQOU5seVdnT09zNUVXREtSSkFOWFY2VjEwc2pXME5sTy0yS0F3OTBzYWxwa2ZSRFd0TWhwUFNZS0ZaOHdRMkhCamxmcE1jcXB3QnZFSExHdFA4RXAxRXpHc1JDdmQ3RjJPbktCUzhoMFY4MmVkeU1SRm94YlR3M1RfaWlCb21FVHhSS9IBzgFBVV95cUxQZ1V4RktWVDZIbTJLS1hzMEhyVXdEUEM4Ry1vSVFaU1dfdUh5WDNLRktwTllOWUluWjI4WnpibE13cGdOS0xMRHZ4d1hQbm5TNER1M3Fyc0FzX29fcDlRZ0tPdm5CQ2tIUE9UYzRVaFY2ZkJneHEyWHRqZkpJYndpVHdDMEROcXItV0RjQW1WRWo0SkZLQ3VSOUZmV3prTWdMNkZjcGs0X3VrdTJwQ2NZcnJYNUdoTXNrWlFXRzh6Q1hyalVFZjhldkFpVTQ3QQ?oc=5",
+    "aid": "0727c99099",
+    "titel": "Zäsur beim 1. FC Heidenheim: Patrick Mainka spricht über den Abschied von Trainer Frank Schmidt",
+    "quelle": "Tribuna.com",
+    "beschr": " Zäsur beim 1. FC Heidenheim: Patrick Mainka spricht über den Abschied von Trainer Frank Schmidt &nbsp;&nbsp; Tribuna.com ",
+    "zeit": "2026-11-11T15:03"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "u",
+  "erstmals": "2026-11-12T06:01",
+  "archiv": [
+   {
+    "id": "1355b3f768",
+    "titel": "Heidenheim: Sanwald kämpfte bis zum Schluss um Schmidt",
+    "datum": "07.11.",
+    "stufe": "sonstiges",
+    "summary": "Frank Schmidt hört im Sommer als Trainer des 1. FC Heidenheim auf, obwohl Vorstandschef Holger Sanwald bis zuletzt um ihn kämpfte. Die Suche nach einem Nachfolger beginnt nach dem Heimspiel gegen Hannover 96."
+   },
+   {
+    "id": "f24f0b5c26",
+    "titel": "Heidenheim will Schmidt-Abschied gegen Hannover vergolden",
+    "datum": "06.11.",
+    "stufe": "sonstiges",
+    "summary": "Heidenheim empfängt am Sonntag Hannover 96 und ist zu Hause noch ungeschlagen. Es ist das erste Spiel nach der Ankündigung, dass Trainer Frank Schmidt im Sommer aufhört."
+   },
+   {
+    "id": "922b910d1b",
+    "titel": "Heidenheims Schmidt stellt sich schützend vor Vogt: Klare Worte gegen Hass im Netz",
+    "datum": "02.11.",
+    "stufe": "sonstiges",
+    "summary": "Heidenheims Trainer Frank Schmidt hat sich nach der 1:2-Niederlage in Karlsruhe vor Stürmer Alessandro Vogt gestellt, der im Netz angefeindet worden sein soll. Vogt erzielte gegen den KSC sein erstes Pflichtspieltor für den FCH."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "3c87493157",
+  "schluessel": "magdeburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Magdeburg",
+  "klubs": [
+   "Magdeburg",
+   "St. Pauli"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Rekordstart und Aufstiegsrennen: 1. FC Magdeburg setzt nach Kantersieg gegen St. Pauli Ausrufezeichen",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV1liVXlrZTd2NXl1QktLOXQ2a2tLd25UYXVqa09XbXJDVGQ1SWNsakdNaGhrdHloUXJnU2Vqd3ZtOWxtWklGekRQNHpBdzNvVmNwQzZkejRDel9ubUh3SmNBVm1XNkhLcmlaUzNfa0xxV1BiRFJtSU5xd0FtSDdUTkMwdEtYbF9lMm1wTl9fVWRiSnlhUE1jcDU0R0JGSnBqQlRQQ2ROSHlybUZmUjVMM2Nlemp6c2VYMUdXWEVReTc5YTVJMnAwSdIBzgFBVV95cUxQdjlLclZRQ2FBV3h2cENySDNQRkQ3NFFEYm5yNlhXMUREQkpYQ1N1UElLRXlvVGN4UndXUWdNMFVYSjlCcTc5Nm84aXFCX2V1dzFJTWlrUmdUZjVETENVa1BzQ1NQd0FQM1N1Rk55Rk5PNXZZenRkMmNmZDFIeVBDZ1pvTi02NW9fQkNZN2RMSkhvMGdJdTR4TGc0SHJmVVBMOVFvN0JUdlAzQTd4RzEwSzFXNUhxeDNGSWc4SGF4aGJmeTZrbXZRWTNvN3BIdw?oc=5",
+    "aid": "124c5273b0",
+    "titel": "Rekordstart und Aufstiegsrennen: 1. FC Magdeburg setzt nach Kantersieg gegen St. Pauli Ausrufezeichen",
+    "quelle": "Tribuna.com",
+    "beschr": " Rekordstart und Aufstiegsrennen: 1. FC Magdeburg setzt nach Kantersieg gegen St. Pauli Ausrufezeichen &nbsp;&nbsp; Tribuna.com ",
+    "zeit": "2026-11-11T14:55"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-12T06:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "b5d15014f0",
+  "schluessel": "kiel|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Kiel",
+  "klubs": [
+   "Kiel"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Mitch Kniat stellt sich am Mittwoch erstmals im Holstein-Stadion vor",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWEF5VDNISTBOVjQyaWVlYVlwY3dmSlVpaU41OC1tcDJ0bHViXzlnV3pxcnFFUTRTZnRYMElyaUVHdG1sVEF4ekdWY1JXN202UjVCLS1TcGpxcFh5X0czdmw4NkJoQ21YTlp3Ml9oeUJOVmNBVFdXUFptaTI1aUl1dlU0ZUtWaGgyWFlGeHBqWlFfeVZXYkJjdWMxTzZCeFZxY2M0bGxIeDVHeDJQeVBYc3I0NG1aVF9JaWtyOHZB?oc=5",
+    "aid": "5a2f2cd005",
+    "titel": "Mitch Kniat stellt sich am Mittwoch erstmals im Holstein-Stadion vor",
+    "quelle": "Sky.de",
+    "beschr": " Mitch Kniat stellt sich am Mittwoch erstmals im Holstein-Stadion vor &nbsp;&nbsp; Sky.de ",
+    "zeit": "2026-11-11T22:50"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-12T06:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "d67e383dfc",
+  "schluessel": "werder|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Werder",
+  "klubs": [
+   "Werder"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Wechsel im Analyseteam: Benjamin Fischer folgt auf Philipp Pelka",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNTnVKY3pINTQ1NmFDZ3ppNFJiZW5BZVVmTVUwX2ZOMnVLdmFzbTNFRUpkRjdINmN1NTJmT1hCejJLUnREVFJmNkc5YmZGQXhTOHQ3Sm1Dd3NDOXhMOW95YjFMT2VtNDRUanI0WC0wZDJ0V0x6M1VFejF3?oc=5",
+    "aid": "21863e409b",
+    "titel": "Wechsel im Analyseteam: Benjamin Fischer folgt auf Philipp Pelka",
+    "quelle": "Werder Bremen",
+    "beschr": " Wechsel im Analyseteam: Benjamin Fischer folgt auf Philipp Pelka &nbsp;&nbsp; Werder Bremen ",
+    "zeit": "2026-11-11T09:00"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "u",
+  "erstmals": "2026-11-12T06:01",
   "archiv": [],
   "versuche": 1
  }

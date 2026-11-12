@@ -1,5 +1,35 @@
 [
   {
+    "id": "dd5fe05f53",
+    "titel": "Karlsruhe verliert in Bochum 2:3 und bleibt ohne Auswärtssieg",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "12.11.2026 06:03",
+    "wappen_url": "logos/karlsruhe.png",
+    "vereine": [
+      "Bochum",
+      "Karlsruhe"
+    ],
+    "anriss": "Der Karlsruher SC wartet weiter auf den ersten Auswärtssieg dieser Saison. Beim VfL Bochum verlor der KSC mit 2:3, Philipp Hofmann traf in der Nachspielzeit zum Endstand. Für die Karlsruher war es im fünften Auswärtsspiel der Saison die nächste Enttäuschung. Bochum ging früh in Führung,",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Karlsruhe",
+    "pfad": "artikel/karlsruhe-verliert-in-bochum-2-3-und-bleibt-ohne-auswaertssieg-dd5fe05f53.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    },
+    "n11": false
+  },
+  {
     "id": "0fa323c42f",
     "titel": "Hannover 96: Steidten sagt ab und bleibt in Köln",
     "kategorie": "transfer",
