@@ -1,5 +1,178 @@
 [
   {
+    "id": "f5f390fa91",
+    "titel": "Jahn-Keeper Hannes Hermann überraschend zur deutschen U21 nachnominiert",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "12.11.2026 22:23",
+    "wappen_url": "logos/regensburg.png",
+    "vereine": [
+      "Regensburg"
+    ],
+    "anriss": "Torhüter Hannes Hermann vom SSV Jahn Regensburg ist überraschend zur deutschen U21-Nationalmannschaft gereist. Der 21-Jährige wurde nachnominiert und fehlt deshalb beim Test der Regensburger am Freitag um 14 Uhr gegen Blau-Weiß Linz. Hintergrund ist der Ausfall von Mio Backhaus vom SC Freiburg. Der 22-Jährige sei",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Regensburg",
+    "pfad": "artikel/jahn-keeper-hannes-hermann-ueberraschend-zur-deutschen-u21-f5f390fa91.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "0f82484d68",
+    "titel": "Hansa Rostock tritt im Pokal-Achtelfinale beim Penzliner SV an",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "12.11.2026 22:23",
+    "wappen_url": "logos/rostock.png",
+    "vereine": [
+      "Großaspach",
+      "Rostock"
+    ],
+    "anriss": "Hansa Rostock spielt am Samstag, 14. November 2026, um 13 Uhr im Achtelfinale des Mecklenburg-Vorpommern-Pokals beim Sechstligisten Penzliner SV. Es geht um den Einzug ins Viertelfinale. Die Partie ist die Gelegenheit, Spielern Einsatzzeit zu geben und offensive Abläufe zu verbessern. Zuletzt gewann Rostock in der",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Rostock",
+    "pfad": "artikel/hansa-rostock-tritt-im-pokal-achtelfinale-beim-penzliner-sv-an-0f82484d68.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "61abf42c73",
+    "titel": "Viktoria Köln gastiert im Mittelrheinpokal beim Siegburger SV",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "12.11.2026 22:22",
+    "wappen_url": "logos/viktoriakoeln.png",
+    "vereine": [
+      "Viktoria Köln"
+    ],
+    "anriss": "Drittligist Viktoria Köln trifft im Achtelfinale des Mittelrheinpokals auf den Siegburger SV. Die Partie wird am Donnerstagabend um 19 Uhr im Aggerstadion in Troisdorf angepfiffen. Ursprünglich war das Spiel für den 18. November im Walter-Mundorf-Stadion angesetzt. Wegen polizeilicher und organisatorischer Anforderungen sowie des laufenden Ligaspielbetriebs",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Viktoria Köln",
+    "pfad": "artikel/viktoria-koeln-gastiert-im-mittelrheinpokal-beim-siegburger-sv-61abf42c73.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "e2c5414fee",
+    "titel": "Saarbrücken: Kamara fällt wohl bis Saisonende aus, Voet fraglich",
+    "kategorie": "verletzung",
+    "badge": "Verletzung",
+    "badge_bg": "#e53935",
+    "badge_fg": "#fff",
+    "datum": "12.11.2026 22:22",
+    "wappen_url": "logos/saarbruecken.png",
+    "vereine": [
+      "Saarbrücken"
+    ],
+    "anriss": "Der 1. FC Saarbrücken muss nach der 3:5-Niederlage bei Tabellenführer Viktoria Köln mehrere Ausfälle verkraften. Abdoulaye Kamara hat sich laut Verein einen Knorpelschaden im Knie zugezogen und wird dem Drittligisten wahrscheinlich für den Rest der Saison fehlen. Das meldete der FCS am Donnerstag. Der 22-jährige",
+    "spielerstatus": [
+      {
+        "spieler": "Kamara",
+        "klub": "Saarbrücken",
+        "status": "faellt_aus",
+        "grund": "Knorpelschaden im Knie"
+      },
+      {
+        "spieler": "Vasiliadis",
+        "klub": "Saarbrücken",
+        "status": "faellt_aus",
+        "grund": "Hirnhautentzündung"
+      },
+      {
+        "spieler": "Multhaup",
+        "klub": "Saarbrücken",
+        "status": "faellt_aus",
+        "grund": "Bandscheibenvorfall"
+      },
+      {
+        "spieler": "Voet",
+        "klub": "Saarbrücken",
+        "status": "fraglich",
+        "grund": "Probleme am Sprunggelenk"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Saarbrücken",
+    "pfad": "artikel/saarbruecken-kamara-faellt-wohl-bis-saisonende-aus-voet-fraglich-e2c5414fee.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "reaktion",
+      "frage": "",
+      "antworten": [
+        "💚 Gute Besserung"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "ba9ef0585e",
+    "titel": "Großaspach verpflichtet Bundesliga-Routinier Levin Öztunali",
+    "kategorie": "transfer",
+    "badge": "Transfer",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "12.11.2026 22:22",
+    "wappen_url": "logos/grossaspach.png",
+    "vereine": [
+      "Großaspach"
+    ],
+    "anriss": "Die SG Sonnenhof Großaspach hat im Abstiegskampf der 3. Liga den vereinslosen Levin Öztunali verpflichtet. Der Aufsteiger gab die Verpflichtung des 30 Jahre alten Mittelfeldspielers am Donnerstag bekannt. Öztunali wird mit der Rückennummer 30 auflaufen. Der Offensivspieler war nach seinem Abschied vom Hamburger SV seit",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Großaspach",
+    "pfad": "artikel/grossaspach-verpflichtet-bundesliga-routinier-levin-oeztunali-ba9ef0585e.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "deal",
+      "frage": "Ist Öztunali ein guter Deal für Großaspach?",
+      "antworten": [
+        "👍 Guter Deal",
+        "👎 Fehler"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "32ccffc4b7",
+    "titel": "Münster zieht ins Halbfinale ein, Scherder feiert Comeback",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "12.11.2026 22:22",
+    "wappen_url": "logos/muenster.png",
+    "vereine": [
+      "Münster"
+    ],
+    "anriss": "Preußen Münster hat das Halbfinale des Westfalenpokals erreicht. Der Drittligist besiegte den drei Klassen tiefer spielenden Westfalenligisten BSV Schüren am Mittwochabend im Viertelfinale mit 3:0. Für den emotionalen Höhepunkt sorgte Simon Scherder, der nach 385 Tagen Verletzungspause erstmals wieder in einem Pflichtspiel auf dem Platz",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Münster",
+    "pfad": "artikel/muenster-zieht-ins-halbfinale-ein-scherder-feiert-comeback-32ccffc4b7.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    },
+    "n11": false
+  },
+  {
     "id": "3394bea063",
     "titel": "Großaspach trennt sich im Test vom Landesligisten Schorndorf 1:1",
     "kategorie": "news",
