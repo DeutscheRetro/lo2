@@ -109,3 +109,97 @@
 {"ts": "2026-11-12T09:02:57.824110", "id": "2a62d484ce", "title": "65 Millionen Euro für Bayerns Abwehrboss? Diese Klausel sorgt für Gesprächsstoff", "stage": "stage7", "reason": "zu_wenig_quelltext"}
 {"ts": "2026-11-12T09:02:59.007185", "id": "fbc26d5cde", "title": "St. Paulis Jansson meldet sich zurück: „Darauf bin ich stolz“", "stage": "stage7", "reason": "zu_wenig_quelltext"}
 {"ts": "2026-11-12T09:03:00.412745", "id": "d42004a234", "title": "PK-TV: Der 1. FC Nürnberg vor dem Heimspiel gegen Wolfsburg", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-12T12:01:36.311287", "id": "055c53b8f4", "title": "Nmecha und Ballers in God: Worum es geht und was missverstanden wird", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-12T12:01:36.313389", "id": "b0f496c2d8", "title": "Zum Tag der schlechten Wortspiele: Guten Takahara und bis Dundee!", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-12T12:01:36.988340", "id": "169f52d9b6", "title": "\"Es klingt wie ein Märchen\": Ballzauberer in Klopperliga verzückte nicht nur Wat", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-12T12:01:36.988742", "id": "73e6be8a4c", "title": "Fürths Fahrplan für die Umbenennung", "stage": "stage2", "reason": "batch_title_dup_100pct"}
+{"ts": "2026-11-12T12:01:36.990267", "id": "04f5c15992", "title": "Kampf gegen den Abstieg: Mainz 05 und das Abenteuer Bundesliga", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-12T12:01:36.990888", "id": "3b1454983c", "title": "Festung Volkspark: Diese Bestmarke erreichte der HSV zuletzt im Abstiegsjahr", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-12T12:01:36.992184", "id": "f9276e2daa", "title": "FC Bayern hält interne Karl-Aussprache", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-12T12:01:36.994172", "id": "d50627c8fc", "title": "Faustball: TV Hallerstein legt Traumstart in der 2. Bundesliga hin", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-12T12:01:39.496830", "id": "bceee8693b", "title": "Heiko Drieß im Interview: \"Der Verein gehört jedem Mitglied und Fan gleichermaße", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-12T12:01:39.497680", "id": "59d08ab98e", "title": "RB Leipzig vs. Eintracht Frankfurt heute live sehen: Wer zeigt / überträgt das S", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-12T12:01:39.499812", "id": "abaa843e9b", "title": "Hitler-Tagebücher, Schindlers Liste, Liebesbrief vom Bundespräsidenten - all das", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-12T12:01:40.039289", "id": "43a5cb18f8", "title": "Die Frauen des FCM, von Olvenstedt und von Besiegdas wollen schöne Cup-Geschicht", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-12T12:01:40.042063", "id": "64ce76c6ef", "title": "Haldensleber SC gegen VfB Merseburg : Hier gibt's das Fußball-Duell im Stream!", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-12T12:01:40.044240", "id": "6ba91a8bd1", "title": "St.-Pauli-Blog: Diese Personen haben Rony Jansson während seiner Leidenszeit geh", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-12T12:01:40.377443", "id": "24ec6111a6", "title": "DFB-Team: Nathaniel Brown – der Aufsteiger des Jahres", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-12T12:01:40.379572", "id": "ee676d4ccb", "title": "Nach Aigner-Kür: Merz nimmt an CSU-Vorstandssitzung teil", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-12T12:01:40.794664", "id": "fa3d4016e6", "title": "Verbandsliga-​Derby in Lud­wigs­ha­fen: Wolf warnt vor star­kem FVD", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-12T12:01:41.156582", "id": "33fd57ba76", "title": "Fußball: Dieser Zweitligist plant einen Millionen-Bau", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-12T12:01:41.157097", "id": "ddcd76ef1b", "title": "Dynamo Dresden: Soviel Geld gibt der Verein für die Mannschaft aus", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-12T12:01:41.528430", "id": "f148d65e5b", "title": "Trumps Abgesandte mit heikler Botschaft bei Putin", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-12T12:01:41.842595", "id": "b302c7d1bf", "title": "Rassismus in Brandenburg: Ein Schimpfwort führt Michael Neudeck ans Ende der Wel", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-12T12:01:42.176643", "id": "ffe6be9dfe", "title": "Schwere Prüfung in Hamburg: U15 reist zum FC St. Pauli", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-12T12:01:42.178399", "id": "f9b71507bc", "title": "Lage am Millerntor – 12. November 2026", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-12T12:01:43.701704", "id": "af286e1b31", "title": "Bericht: Eintracht Frankfurt heiß auf Zweitliga-Juwel", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-12T12:01:43.703261", "id": "db176d1173", "title": "Mathias Fetsch", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-12T12:01:43.703786", "id": "6acb31c3d4", "title": "Thomas Doll - Bilanz gegen ... | Seite 4", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-12T12:01:44.021291", "id": "81cc218c66", "title": "Regionalliga Bayern: Der 19. Spieltag", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-12T12:01:44.021853", "id": "0a8a178a41", "title": "U23-Hinrundenabschluss in Eichstätt, U19 und U17 testen", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-12T12:01:44.344553", "id": "2af116cc1d", "title": "Eintracht Frankfurt News-Ticker: Klopp wollte keinen weiteren Ebnoutalib-Leak", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-12T12:01:44.345235", "id": "712456d81e", "title": "SC Freiburg II empfängt Astoria Walldorf im Dreisamstadion", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-12T12:01:44.681069", "id": "cd74bf4ff5", "title": "Beim BVB hatte er keine Zukunft: Felix Passlack ist plötzlich Kapitän und steht ", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-12T12:01:44.683225", "id": "140cf7261a", "title": "RWO: Sportchef - \"Für den Profifußball würde ich meinen Hauptjob aufgeben\"", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-12T12:01:44.685431", "id": "1510ffa759", "title": "Rot-Weiß Oberhausen: Kesim, Aufstieg, Wintertransfers: So plant RWO-Sportchef Li", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-12T12:01:45.048932", "id": "9cf13f3c2b", "title": "Comeback nach 1.441 Tagen: Der Deutschland-Profi, der nie aufgibt", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-12T12:01:46.775741", "id": "8e88ca021f", "title": "Gegen den HSV: Pantelic und das Meisterwerk der Provokation", "stage": "stage1", "reason": "medienseite"}
+{"ts": "2026-11-12T12:01:47.405773", "id": "a4b996bf24", "title": "Wenn dieser Gegensatz nicht wäre, würde Dynamo um den Aufstieg mitspielen!", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-12T12:01:47.406237", "id": "ffe46fda26", "title": "41 Tage vor Heiligabend: Fans organisieren Weihnachtsmarkt am Eintracht-Stadion", "stage": "stage5", "reason": "randthema"}
+{"ts": "2026-11-12T12:01:47.407196", "id": "8cb9facd65", "title": "St. Pauli-Mitgliederversammlung am Samstag: Dieser Rekord wird sicher gebrochen", "stage": "stage5", "reason": "randthema"}
+{"ts": "2026-11-12T12:03:22.262381", "id": "7933f82d97", "title": "Fürths Fahrplan für die Umbenennung", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-12T12:03:22.262719", "id": "0701b966fc", "title": "Zweitligist Dresden denkt über Millionenprojekt nach", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-12T12:03:22.262935", "id": "1f79aef871", "title": "Tom Steineck | SV Darmstadt 98", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-12T12:03:22.263151", "id": "d6c114d3a6", "title": "Der Gewinner des Trainerwechsels: Darum hat Franz Roggow bei Hannover 96 doppelt", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-12T12:03:22.263355", "id": "a7725e4a66", "title": "FCH-Trainer Frank Schmidt stellte sich an der Robert-Bosch-Schule in Giengen den", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-12T12:03:22.263599", "id": "f357cbf382", "title": "Landespokal exklusiv! Hallescher FC bei Fortuna Magdeburg im Livestream", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-12T12:03:22.263811", "id": "be5c8cd763", "title": "Kümmersbrucker Nene Brown über Wirtz, die WM und was er dem 1. FC Nürnberg wünsc", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-12T12:03:22.264009", "id": "220cc58bc4", "title": "Testspiel gegen Arminia Bielefeld live verfolgen", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-12T12:03:22.264222", "id": "46fca29e02", "title": "Arminia Bielefeld testet gegen den SV Meppen", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-12T12:03:22.264423", "id": "d74565a141", "title": "Arminia-Profis besuchen i-Dötze", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-12T12:03:22.264700", "id": "6510b5367c", "title": "Warum Dynamo Dresdens Ahmet Muhamedbegovic kein Heimweh plagt", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-12T12:03:22.264931", "id": "1c37510c59", "title": "Greg Seamon lässt Heimat und Enkel zurück – für Dresden Monarchs und Titel", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-12T12:03:22.265113", "id": "2293e3c877", "title": "Dynamo Dresden macht Miese, aber meldet Rekordzahlen!", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-12T12:03:22.265266", "id": "d51f7a6624", "title": "Erst der Eintracht-Abschied, jetzt der Hammer! Ex-Löwe jubelt über großen Traum", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-12T12:03:22.265412", "id": "3c0c512e6f", "title": "1. FC Heidenheim - Eintracht Braunschweig", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-12T12:03:22.265624", "id": "e7817fe979", "title": "Stellwerksausfall: Keine S-Bahnen zum Flughafen Hannover", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-12T12:03:22.265803", "id": "d8937c480a", "title": "Landespokal Brandenburg: Novum im Viertelfinale - ohne Cottbus, Krieschow, Hohen", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-12T12:03:22.266005", "id": "dd1129ae32", "title": "Der St. Pauli Song Contest präsentiert die Top 25", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-12T12:03:22.266186", "id": "254fe55821", "title": "Song-Contest des FC St. Pauli: Top 25 steht – mit großen Überraschungen", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-12T12:03:22.266383", "id": "f12d89943b", "title": "13.500 Fans stimmten ab: Top 25 bei St. Paulis Song Contest steht", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-12T12:03:22.266641", "id": "139d4deb49", "title": "Hertha BSC startet Ticketverkauf für Darmstadt-Heimspiel", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-12T12:03:22.266828", "id": "0babec0d72", "title": "Virtual Bundesliga Showdown-Finale in Berlin", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-12T12:03:22.267006", "id": "36910e3c5d", "title": "Holstein Kiel gegen Odense Prognose: Eine herausfordernde Reise", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-12T12:03:22.267194", "id": "ece0cd4ae9", "title": "Karlsruher SC rüstet auf: Hybridrasen soll neue Trainingsstandards setzen", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-12T12:03:22.267379", "id": "35eccd57a9", "title": "Warum sich Präsident Heißmann nach dem Ja zur SpVgg Fürth noch mehr Teilhabe wün", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-12T12:03:22.267589", "id": "333bd62b2e", "title": "Fürths OB drängt auf Entscheidung: Neun Jahre nach Gerichtsurteil", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-12T12:03:22.267767", "id": "337a818493", "title": "VfL Wolfsburg gegen Union Berlin Prognose: Die Gäste sind entschlossen, ihren Ab", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-12T12:03:22.267944", "id": "06991a8261", "title": "Bröndby IF gegen VfL Wolfsburg im Datenvergleich | Viertelfinale | UEFA Women's ", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-12T12:03:22.268046", "id": "aebc202ce6", "title": "Spielinfo | Bröndby IF - VfL Wolfsburg : | Viertelfinale | UEFA Women's Europa C", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-12T12:03:22.268210", "id": "ba25e0f62e", "title": "Nach zehn Jahren wieder gegen Cottbus: Nur der Gästeblock ist bislang ausverkauf", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-12T12:03:22.268455", "id": "f2eea69bc3", "title": "Flughafen Nürnberg verlängert Partnerschaft mit 1. FC Nürnberg", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-12T12:03:22.268693", "id": "f60d6dca1c", "title": "Der SV Meppen reist ohne sechs Profis zum Testspiel gegen den Zweitligisten Armi", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-12T12:03:22.268909", "id": "27d0df1b54", "title": "Dynamo Dresden macht Miese, aber meldet Rekordzahlen!", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-12T12:03:22.269126", "id": "a7f9bdc936", "title": "Rekord! 23 Kandidaturen für St. Pauli-Aufsichtsrat – aber drei bekannte Namen fe", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-12T12:03:22.269345", "id": "099a63cbfb", "title": "Peter Neururer: „Hertha steigt auf“ – wohl kein Derby gegen Union", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-12T12:03:22.269590", "id": "f1a81d74b4", "title": "Karlsruher Tiefbauamt prüft Gräben zwischen Rüppurr und Durlach: So können Bürge", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-12T12:03:22.269803", "id": "9fa393a62e", "title": "Wechsel-Beben beim KSC: Das sind alle Transfers der Saison 2026/2027", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-12T12:03:22.270008", "id": "be3d83f6dc", "title": "Susanne Siegert spricht in Karlsruhe über die Zukunft des Erinnerns", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-12T12:03:22.270215", "id": "1354bfdde4", "title": "KSC-Talente überraschen mit Millionen-Plus: Jungstars sorgen für Marktwert-Boom", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-12T12:03:22.270424", "id": "eb51d46ddf", "title": "„Positives Erlebnis“: Warum das Testspiel gegen Würzburg fürs Kleeblatt sehr wic", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-12T12:03:22.270660", "id": "da77d85fc5", "title": "Bundesweiter Wettbewerb: Kassel und Darmstadt erfolgreich beim Abpflastern", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-12T12:03:22.270864", "id": "d0798875df", "title": "Neue Jahreszeiten-Vitrine im Landesmuseum Darmstadt", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-12T12:03:22.271071", "id": "ca81f39ff1", "title": "Raubüberfälle: Landgericht Darmstadt verkündet Urteile gegen fünf Angeklagte", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-12T12:03:22.271277", "id": "220ae7766d", "title": "Bochum: Drei Männer wegen mutmaßlicher Raub- und Diebstahlserie vor Gericht", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-12T12:03:22.271484", "id": "64b72be634", "title": "„Halt’s Maul“ und ein Kuss: Weltmeister Kramer über Ex-Union-Keeper Luthe", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-12T12:03:22.271725", "id": "81ad805086", "title": "Svenja Huth: Führungsarbeit, Kinderwunsch und Tierschutz beim VfL Wolfsburg", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-12T12:03:22.271934", "id": "e0ef34ef0f", "title": "Hier läuft VfL Wolfsburg vs. FC Bayern kostenlos im Stream", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-12T12:03:22.272139", "id": "bfe3efeab6", "title": "Spielinfo | VfL Wolfsburg - Bröndby IF : | Viertelfinale | UEFA Women's Europa C", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-12T12:03:22.272340", "id": "3cc7b0b323", "title": "Bundesliga » Eintracht Frankfurt gegen VfL Wolfsburg » Spielstatistik", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-12T12:03:24.701122", "id": "0727c99099", "title": "Zäsur beim 1. FC Heidenheim: Patrick Mainka spricht über den Abschied von Traine", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-12T12:03:25.518962", "id": "124c5273b0", "title": "Rekordstart und Aufstiegsrennen: 1. FC Magdeburg setzt nach Kantersieg gegen St.", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-12T12:03:52.654076", "id": "6859254340", "title": "Eintracht hat Zweitliga-Juwel im Visier: Wird dieses Mittelfeldtalent der nächst", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-12T12:03:54.490974", "id": "5a2f2cd005", "title": "Mitch Kniat stellt sich am Mittwoch erstmals im Holstein-Stadion vor", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-12T12:03:55.264353", "id": "2c729e8989", "title": "SGE-Personalkarussell: Zwei Abgänge im Winter möglich", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-12T12:04:05.476623", "id": "829cc16931", "title": "Freche Ansage vor Revierderby! BVB-Boss Kellermann stichelt gegen Wolfsburg", "stage": "S7", "reason": "nicht_relevant"}
+{"ts": "2026-11-12T12:04:06.622885", "id": "21863e409b", "title": "Wechsel im Analyseteam: Benjamin Fischer folgt auf Philipp Pelka", "stage": "stage7", "reason": "zu_wenig_quelltext"}
