@@ -1,0 +1,137 @@
+2026-11-12 15:01:24,830 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 1 passende Treffer
+2026-11-12 15:01:24,831 INFO S7 Ersatzquelle liefert Text (120 Wörter, 1 Quellen): Kimmich nach Rückkehr: Hier am absolut richtigen Ort
+2026-11-12 15:01:24,831 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 0 passende Treffer
+2026-11-12 15:01:24,831 INFO FinalCheck SKIP: borussia mönchengladbach/{'max muster'} stage=geruecht bereits in Archiv
+2026-11-12 15:01:24,831 INFO FinalCheck SKIP: borussia mönchengladbach/set() stage=geruecht bereits in Archiv
+2026-11-12 15:01:32,645 INFO 💶 Budget: dieser Lauf 0.058 $ | heute 0.00 $ | Monat 0.01 / 8 $
+2026-11-12 15:01:32,654 INFO URL-Cache geladen: 8535 bekannte URLs (letzte 30 Tage)
+2026-11-12 15:01:32,654 INFO === LO Generator startet – max. 50 Artikel ===
+2026-11-12 15:01:32,654 INFO Feed: https://newsfeed.kicker.de/news/2-bundesliga
+2026-11-12 15:01:32,910 WARNING Spielerliste nicht verfügbar: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-12 15:01:32,910 INFO BL-Spielerliste geladen: 0 Namen
+2026-11-12 15:01:32,910 INFO S3 keyword miss: Hose gerissen: RB verliert Testspiel gegen Boleslav
+2026-11-12 15:01:32,910 INFO S1 Medienseite ohne Artikeltext: "Das ist ein Novum": Lauterns Rekordjäger und das gute Omen 
+2026-11-12 15:01:32,910 INFO Feed: https://www.sport.de/rss/news/
+2026-11-12 15:01:33,237 INFO Feed: https://www.11freunde.de/feed
+2026-11-12 15:01:34,342 INFO S2 kein BL-Klub im Titel: Alle Fastnachtstrikots des FSV Mainz 05: Griezmann, Helau!
+2026-11-12 15:01:34,344 INFO S3 keyword miss: Michael Carrick, Louis van Gaal und Co.: Alle Trainer von Ma
+2026-11-12 15:01:34,345 INFO Feed: https://news.google.com/rss/search?q=%222.+Bundesliga%22&hl=de&gl=DE&ceid=DE:de
+2026-11-12 15:01:34,960 INFO S2 blacklist: Spielereignisse | Arminia Bielefeld - SV Meppen 2:1 | KW46 |
+2026-11-12 15:01:34,962 INFO S3 keyword miss: "Ballers in God" nutzte Klopp-Aussagen - ohne Zustimmung
+2026-11-12 15:01:34,963 INFO S2 kein BL-Klub im Titel: Gladbach: Drei heiße Streichkandidaten für den Winter
+2026-11-12 15:01:34,965 INFO S3 keyword miss: Das Ruhrgebiet könnte brennen: Nächste Saison die beste 2. B
+2026-11-12 15:01:34,967 INFO S2 kein BL-Klub im Titel: Eintracht Frankfurt: Wildert die SGE in der zweiten Liga?
+2026-11-12 15:01:34,967 INFO S2 kein BL-Klub im Titel: Hendriks-Schock beim VfB Stuttgart
+2026-11-12 15:01:34,971 INFO S3 keyword miss: Schock sitzt noch immer tief: Hessing Kangaroos müssen gegen
+2026-11-12 15:01:34,972 INFO S2 kein BL-Klub im Titel: Klopp ist ein Fan von ihm: FC Bayern hat ihn auf der Transfe
+2026-11-12 15:01:34,976 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Verletzung+Ausfall+gesperrt&hl=de&gl=DE&ceid=DE:de
+2026-11-12 15:01:35,332 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Transfer+Wechsel+verpflichtet&hl=de&gl=DE&ceid=DE:de
+2026-11-12 15:01:35,644 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Ger%C3%BCcht+Interesse+Angebot&hl=de&gl=DE&ceid=DE:de
+2026-11-12 15:01:36,052 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Vertrag+verl%C3%A4ngert+abl%C3%B6sefrei&hl=de&gl=DE&ceid=DE:de
+2026-11-12 15:01:36,360 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Trainer+Entlassung&hl=de&gl=DE&ceid=DE:de
+2026-11-12 15:01:36,795 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Heidenheim%22+OR+Heidenheim+FCH+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 15:01:37,048 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Kaiserslautern%22+OR+%22FCK%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 15:01:37,337 INFO S3 keyword miss: Kult-Fan und Mannheimer Original: Mio Meier-Forster ist tot
+2026-11-12 15:01:37,338 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Magdeburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 15:01:37,743 INFO S3 keyword miss: SV Dessau 05 gegen 1. FC Lok Stendal: Fußball-Stream im Land
+2026-11-12 15:01:37,745 INFO S3 keyword miss: FCN: Das macht Klose für den Aufstieg jetzt anders
+2026-11-12 15:01:37,745 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+N%C3%BCrnberg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 15:01:38,036 INFO S3 keyword miss: „Aufstieg wäre verdient“: DFB-Star Brown hofft auf ein baldi
+2026-11-12 15:01:38,037 INFO Feed: https://news.google.com/rss/search?q=%22Arminia+Bielefeld%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 15:01:38,407 INFO S3 keyword miss: Handwerker beweist feines Füßchen
+2026-11-12 15:01:38,409 INFO S3 keyword miss: „Sehr enge Verbindung“: Mitch Kniat über seine Co-Trainer Da
+2026-11-12 15:01:38,410 INFO S2 blacklist: Oberliga-Experten-Tipp mit Nick Rensing (Westfalia Kinderhau
+2026-11-12 15:01:38,410 INFO Feed: https://news.google.com/rss/search?q=%22Dynamo+Dresden%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 15:01:38,675 INFO Feed: https://news.google.com/rss/search?q=%22Eintracht+Braunschweig%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 15:01:38,999 INFO S3 keyword miss: Ulrich Maslo
+2026-11-12 15:01:39,001 INFO S3 keyword miss: Julius Biada
+2026-11-12 15:01:39,003 INFO S3 keyword miss: NFL-Events in Deutschland: Wette auf die Zukunft
+2026-11-12 15:01:39,005 INFO S3 keyword miss: Zverev gegen Lieblingsgegner Shelton bei ATP Finals
+2026-11-12 15:01:39,007 INFO S3 keyword miss: Überschuldung nimmt zu – mehr als 7,3 Millionen Betroffene
+2026-11-12 15:01:39,009 INFO S3 keyword miss: Thunberg auf dem Klimagipfel: „Der Planet wird getötet“
+2026-11-12 15:01:39,009 INFO Feed: https://news.google.com/rss/search?q=%22Energie+Cottbus%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 15:01:39,298 INFO S2 blacklist: Handball Regionalliga: LHC Cottbus gegen Greifswald unter be
+2026-11-12 15:01:39,302 INFO S3 keyword miss: Neuer Film zeigt Nutzen von LEADER für Brandenburg
+2026-11-12 15:01:39,304 INFO S3 keyword miss: 56-Jähriger nach Sturz mit Fahrrad in Herzberg verstorben
+2026-11-12 15:01:39,305 INFO Feed: https://news.google.com/rss/search?q=%22FC+St.+Pauli%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 15:01:39,634 INFO S3 keyword miss: Fußball: Noch 25 Songs im Rennen um neue St.-Pauli-Hymne
+2026-11-12 15:01:39,635 INFO S3 keyword miss: Noah Harms
+2026-11-12 15:01:39,639 INFO S3 keyword miss: Tom Rothe: Bilanz gegen Gegenspieler, Trainer & Vereine
+2026-11-12 15:01:39,641 INFO S3 keyword miss: St.-Pauli-Blog: Halbfinale steht fest - Diese Hits stehen fü
+2026-11-12 15:01:39,641 INFO Feed: https://news.google.com/rss/search?q=%22Hannover+96%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 15:01:39,962 INFO S2 blacklist: Fußball-Oberliga: 1.FC Germania Egestorf/Langreder trifft un
+2026-11-12 15:01:39,962 INFO Feed: https://news.google.com/rss/search?q=%22Hertha+BSC%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 15:01:40,277 INFO Feed: https://news.google.com/rss/search?q=%22Holstein+Kiel%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 15:01:40,590 INFO Feed: https://news.google.com/rss/search?q=%22Karlsruher+SC%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 15:01:40,930 INFO Feed: https://news.google.com/rss/search?q=%22Greuther+F%C3%BCrth%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 15:01:41,272 INFO S3 keyword miss: Nach nur zwei Tagen: Blanks U-21-Intermezzo ist schon wieder
+2026-11-12 15:01:41,273 INFO Feed: https://news.google.com/rss/search?q=%22Darmstadt+98%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 15:01:41,609 INFO S2 kein BL-Klub im Titel: Vorsichtiger Optimismus bei Elversberg: Offenbar keine schwe
+2026-11-12 15:01:41,609 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Bochum%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 15:01:41,880 INFO S2 blacklist: Regionalliga West LIVE: Paderborn II führt zur Pause gegen B
+2026-11-12 15:01:41,881 INFO S2 blacklist: Regionalliga West LIVE: Bochum II verkürzt gegen SC Paderbor
+2026-11-12 15:01:41,882 INFO S2 blacklist: Regionalliga West LIVE: Paderborn II mit Blitzstart gegen Bo
+2026-11-12 15:01:41,882 INFO S2 blacklist: Regionalliga West LIVE: Paderborn II empfängt Bochum II - de
+2026-11-12 15:01:41,883 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Osnabr%C3%BCck%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 15:01:42,217 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Wolfsburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-12 15:01:42,503 INFO S2 Liveticker übersprungen: Liveticker: Wolfsburg vs. Bayern - Google Pixel Frauen-Bunde
+2026-11-12 15:01:42,504 INFO S2 blacklist: Len Behnke - Vom Hobbygamer zum E-Sports-Profi
+2026-11-12 15:01:42,504 INFO S2 blacklist: VfL Wolfsburg UEFA U19
+2026-11-12 15:01:42,506 INFO Feed: https://newsfeed.kicker.de/team/1-fc-heidenheim
+2026-11-12 15:01:42,557 INFO Feed: https://newsfeed.kicker.de/team/1-fc-nuernberg
+2026-11-12 15:01:42,607 INFO Feed: https://newsfeed.kicker.de/team/arminia-bielefeld
+2026-11-12 15:01:42,763 INFO Feed: https://newsfeed.kicker.de/team/dynamo-dresden
+2026-11-12 15:01:42,814 INFO Feed: https://newsfeed.kicker.de/team/eintracht-braunschweig
+2026-11-12 15:01:42,962 INFO Feed: https://newsfeed.kicker.de/team/fc-st-pauli
+2026-11-12 15:01:43,012 INFO Feed: https://newsfeed.kicker.de/team/hannover-96
+2026-11-12 15:01:43,157 INFO Feed: https://newsfeed.kicker.de/team/hertha-bsc
+2026-11-12 15:01:43,208 INFO Feed: https://newsfeed.kicker.de/team/holstein-kiel
+2026-11-12 15:01:43,351 INFO Feed: https://newsfeed.kicker.de/team/vfl-bochum
+2026-11-12 15:01:43,636 INFO Feed: https://newsfeed.kicker.de/team/vfl-osnabrueck
+2026-11-12 15:01:43,923 INFO Eingelesen: 37 Schlagzeilen nach den Gratis-Filtern
+2026-11-12 15:01:43,960 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: Scholz, Unruh, SVT und Kieler Floorballer als SH-Sportler des Jahres n
+2026-11-12 15:01:43,960 INFO S5 Sammelartikel: Zweimal pro Woche frische KSC-News: So verpasst du keine Wendung beim 
+2026-11-12 15:01:43,961 INFO S5: 35 neue Geschichten, 0 schon berichtet, 0 zu wartenden Geschichten ergänzt, 5 warten
+2026-11-12 15:01:48,215 INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-11-12 15:01:48,230 INFO S6 aussortiert (prio_1): Hertha-Fans träumen von Mega-Marke
+2026-11-12 15:01:48,230 INFO S6 aussortiert (prio_0): 2. Bundesliga: Hertha dreht Rückstand – Osnabrück schlägt Bochum
+2026-11-12 15:01:48,230 INFO S6 aussortiert (prio_1): Kurz nach Nachnominierung: Fürth-Verteidiger Blank schon wieder von U2
+2026-11-12 15:01:48,231 INFO S6 aussortiert (doppelt): Fußball heute DFB Pokal 2026/2027 - Achtelfinale: 1.FC Kaiserslautern 
+2026-11-12 15:01:48,231 INFO S6 aussortiert (prio_0): Die meisten sind aktuell vereinslos: Was machen die Ex-FCM-Trainer heu
+2026-11-12 15:01:48,231 INFO S6 aussortiert (prio_0): VfL Osnabrück LIVE: 2:0 Führung zur Pause gegen Magdeburg
+2026-11-12 15:01:48,231 INFO S6 aussortiert (prio_1): Flughafen Nürnberg und 1. FC Nürnberg verlängern Kooperationsvertrag
+2026-11-12 15:01:48,232 INFO S6 aussortiert (prio_1): Dynamo Dresden: Heiko Scholz lehnt Ehrenmitgliedschaft ab
+2026-11-12 15:01:48,232 INFO S6 aussortiert (prio_0): Dresden Titans: Wie Neuzugang Pavle Pisic von seinem Vater und seinem 
+2026-11-12 15:01:48,232 INFO S6 aussortiert (prio_1): Dynamo Dresden macht Miese, aber meldet Rekordzahlen!
+2026-11-12 15:01:48,232 INFO S6 aussortiert (prio_1): Energie-Cottbus-Blog: Aue-Test mit Bruder-Duo
+2026-11-12 15:01:48,232 INFO S6 aussortiert (prio_0): 1. FC Heidenheim - Eintracht Braunschweig | Weitere Spiele: Fußball Li
+2026-11-12 15:01:48,233 INFO S6 aussortiert (prio_1): Energie Cottbus: Freier Ticketverkauf für Osnabrück & Kiel startet
+2026-11-12 15:01:48,233 INFO S6 aussortiert (prio_0): Bläserklassen spielen in Frankfurt (Oder) und Potsdam
+2026-11-12 15:01:48,233 INFO S6 aussortiert (prio_0): St. Pauli Song Contest: Diese Hymnen sind im Halbfinale dabei
+2026-11-12 15:01:48,233 INFO S6 aussortiert (prio_1): „Ganz besonders“: Das bringt St. Paulis Jansson ins Schwärmen
+2026-11-12 15:01:48,234 INFO S6 aussortiert (prio_0): Spielschema | Hannover 96 - TSV Havelse 6:1 | KW46 | Fußball-Vereine F
+2026-11-12 15:01:48,234 INFO S6 aussortiert (prio_1): Hannovers Sportfahrplan: Das sind die Termine für das zweite November-
+2026-11-12 15:01:48,234 INFO S6 aussortiert (prio_1): Kult-Coach Neururer sicher: Hertha BSC steigt auf, aber ...
+2026-11-12 15:01:48,234 INFO S6 aussortiert (doppelt): Fußball heute DFB Pokal 2026/2027 - Achtelfinale: FC Bayern München ge
+2026-11-12 15:01:48,234 INFO S6 aussortiert (prio_0): Großer Polizeieinsatz in Karlsruher Oststadt: Mann in psychischem Ausn
+2026-11-12 15:01:48,235 INFO S6 aussortiert (prio_0): Karlsruher Stadtrat Mathias Tröndle feiert seinen 70. Geburtstag
+2026-11-12 15:01:48,235 INFO S6 aussortiert (prio_0): Testspiel gegen Würzburg
+2026-11-12 15:01:48,235 INFO S6 aussortiert (prio_0): Einkommen in Bochum steigt
+2026-11-12 15:01:48,235 INFO S6 aussortiert (prio_0): Hallensport-Highlights: Großes Wiedersehen im Derby des VC Osnabrück g
+2026-11-12 15:01:48,236 INFO S6 aussortiert (prio_0): VfL Wolfsburg steigt ab – Paderborn feiert Aufstieg
+2026-11-12 15:01:49,170 INFO S7 kein Volltext (low_unique_content_ratio): Nach Kreuzbandriss: Luca Marseiler arbeitet an seiner Rückke
+2026-11-12 15:01:49,428 INFO S7 Ersatzquellen für "Nach Kreuzbandriss: Luca Marseiler arbeitet an sei": 0 passende Treffer
+2026-11-12 15:01:49,428 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Nach Kreuzbandriss: Luca Marseiler arbeitet an seiner Rückke
+2026-11-12 15:01:50,837 INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-11-12 15:01:50,839 INFO S7 schreiben (Prio 2, 1 Quellen): Hertha BSC: Torjäger Adewumi! Darum ist er Herthas heißeste 
+2026-11-12 15:02:05,379 INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-11-12 15:02:05,384 INFO   Kandidat: Hertha: Adewumi trifft alle 126 Minuten und überzeugt als Le
+2026-11-12 15:02:05,385 INFO S7 Budget dieses Laufs reicht für keinen weiteren Artikel – 12 Geschichten warten auf den nächsten Lauf
+2026-11-12 15:02:05,387 INFO S9.5 FinalCheck: 1/1 durch
+2026-11-12 15:02:06,451 INFO Veröffentlicht: Hertha: Adewumi trifft alle 126 Minuten und überzeugt als Le
+2026-11-12 15:02:06,455 WARNING Sitemap ohne Spielerseiten: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-12 15:02:06,458 INFO 💶 Kosten: dieser Lauf 0.053 $ (Budget 0.058 $) | heute 0.05 $ | Monat 0.06 / 8 $ | konferenz 1× 0.004 $, dublette 1× 0.002 $, schreiben 1× 0.047 $
+2026-11-12 15:02:06,470 INFO Feeds: 38/38 begonnen, nächster Lauf startet bei Nr. 0
+2026-11-12 15:02:06,470 INFO URL-Cache gespeichert: 8618 URLs
+2026-11-12 15:02:06,470 INFO === Fertig. 1 neue Artikel. feed.json: 110 ===
+2026-11-12 15:02:06,470 INFO Stats: {"ts": "20261112_1501", "ingested": 81, "s2_pre_filter": 16, "s3_relevance": 24, "s4_dedup_early": 0, "gesammelt": 37, "geschichten_neu": 35, "s5_archiv_doppelt": 0, "s5_zusammengefuehrt": 0, "s6_aussortiert": 26, "s7_geschrieben": 1, "s7_verworfen": 0, "s5_fulltext_fail": 1, "s8_qa_rejected": 0, "published": 1, "s5_ohne_bezug": 1, "s5_randthema": 1, "kosten": {"lauf_usd": 0.0535, "lauf_budget_usd": 0.0579, "heute_usd": 0.0535, "monat_usd": 0.0601, "monatsbudget_usd": 8.0, "aufrufe": {"konferenz": {"anzahl": 1, "usd": 0.0043}, "dublette": {"anzahl": 1, "usd": 0.0022}, "schreiben": {"anzahl": 1, "usd": 0.047}}, "guthaben_leer": false, "abo": false, "abo_tokens": {}}}
