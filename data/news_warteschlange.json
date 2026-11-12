@@ -58,50 +58,6 @@
   "versuche": 1
  },
  {
-  "id": "f4d4434412",
-  "schluessel": "darmstadt|verletzung",
-  "person": "",
-  "spieler": [],
-  "klub": "Darmstadt",
-  "klubs": [
-   "Darmstadt"
-  ],
-  "stufe": "rueckkehr",
-  "klasse": "verletzung",
-  "titel": "Nach Kreuzbandriss: Luca Marseiler arbeitet an seiner Rückkehr bei Darmstadt 98",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQR3c5Ty1iUldLVjh6YlljbFhBckdCZFZuWWg4QTlsTlJUdmRlUmNSb0s0MGpPWW1VWF9tbHo4WFZRc1BXeTZoQjF2Y1kxaTd6TlQ4UGpQVjRvQnprc0Z4bVBqYWswMzM1RXpZNG1rWGUxMWFUSFJRdENDRGxWNTRfSUZNbk5tZ193NTI5X2YzWlpqcVdnc0ZDZlcwc3NTcXNaYXZueWhXT1VEQ1BVTFoxdWw3cTFjN0RqVUdjV1F5SXhVVGE3V3JSc0dyWmFkNG9F?oc=5",
-    "aid": "17247e8c11",
-    "titel": "Nach Kreuzbandriss: Luca Marseiler arbeitet an seiner Rückkehr bei Darmstadt 98",
-    "quelle": "Echo Online",
-    "beschr": " Nach Kreuzbandriss: Luca Marseiler arbeitet an seiner Rückkehr bei Darmstadt 98 &nbsp;&nbsp; Echo Online ",
-    "zeit": "2026-11-11T22:37"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 3,
-  "status": "u",
-  "erstmals": "2026-11-12T09:01",
-  "archiv": [
-   {
-    "id": "7cb0555180",
-    "titel": "Darmstadt: Nürnberger, Papela und Sickinger trainieren wieder",
-    "datum": "11.11.",
-    "stufe": "rueckkehr",
-    "summary": "Darmstadts Fabian Nürnberger, Merveille Papela, Luca Marseiler und Carlo Sickinger sind zurück auf dem Trainingsplatz. Gleichzeitig ist der Einsatz von Marcel Schuhen, Patric Pfeiffer und Hojae Lee gegen Heidenheim fraglich."
-   },
-   {
-    "id": "956ebe3028",
-    "titel": "Darmstadt monatelang ohne Verkooijen: Syndesmoseband gerissen",
-    "datum": "02.11.",
-    "stufe": "verletzung",
-    "summary": "Darmstadts Offensivspieler Nicolas Verkooijen fällt nach einem Syndesmosebandriss im Pokalspiel in Elversberg mehrere Monate aus. Der 19-Jährige wird am Mittwoch operiert."
-   }
-  ],
-  "versuche": 2
- },
- {
   "id": "3998bb1987",
   "schluessel": "nurnberg|vertrag",
   "person": "",
@@ -480,5 +436,795 @@
   "status": "n",
   "erstmals": "2026-11-12T15:01",
   "archiv": []
+ },
+ {
+  "id": "dee6cc132a",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Hannovers Sportdirektor-Frage: Schlechte Chancen bei Lederer und Graf",
+  "quellen": [
+   {
+    "url": "https://www.kicker.de/hannovers-sportdirektor-frage-schlechte-chancen-bei-lederer-und-graf-1271035/artikel#omrss",
+    "aid": "d04d56e74f",
+    "titel": "Hannovers Sportdirektor-Frage: Schlechte Chancen bei Lederer und Graf",
+    "quelle": "kicker 2. Bundesliga News",
+    "beschr": "Hannover 96 feiert ein Schützenfest gegen Havelse - und Lars Gindorf meldet sich nach langer Pause mit einer Vorlage zurück. Hinter den Kulissen läuft die Suche nach einem neuen Sportdirektor weiter.",
+    "zeit": "2026-11-12T16:16"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-12T18:01",
+  "archiv": [
+   {
+    "id": "f24f0b5c26",
+    "titel": "Heidenheim will Schmidt-Abschied gegen Hannover vergolden",
+    "datum": "06.11.",
+    "stufe": "sonstiges",
+    "summary": "Heidenheim empfängt am Sonntag Hannover 96 und ist zu Hause noch ungeschlagen. Es ist das erste Spiel nach der Ankündigung, dass Trainer Frank Schmidt im Sommer aufhört."
+   },
+   {
+    "id": "46380a1986",
+    "titel": "Wontorra stärkt Hannovers Trainer Wagner den Rücken",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Moderatorin Laura Wontorra stärkt Hannovers Trainer Sandro Wagner, der nach vier Pflichtspielen noch sieglos ist, im Podcast „TOMorrow“ den Rücken. Sie traut ihm eine große Trainerkarriere zu."
+   },
+   {
+    "id": "afa3db9641",
+    "titel": "Hannover 96 trennt sich nach fünf Monaten von Sportchef Boldt",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Hannover 96 hat Sport-Geschäftsführer Jonas Boldt nach nur fünf Monaten mit sofortiger Wirkung abberufen. Der Klub steht nach neun Spieltagen mit acht Punkten auf Platz 16."
+   }
+  ]
+ },
+ {
+  "id": "b71e14471d",
+  "schluessel": "furth|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Fürth",
+  "klubs": [
+   "Fürth",
+   "Bayern"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "Kleeblatt gewinnt Testspiel gegen Drittligist Würzburg 3:1, der Trainer ist trotzdem sauer",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNmNiSGplR0pTckh2QXQ4Ukw4bmZOQUdjdmRJT1lXcDY4X1FEWGxTTmUyLVlpaTBvdVowMkNZWjBleExQN1ZnTnhPU3k1WjZmYU5jbDZCSXFJelRYX0F6RlpiVUd4dW1DUGREN2pXS1Ayc0lwZE1XRDRIS3ZsWnBDQ1RfWGdUc1ZRMU0wQUJVaDNBdlR3VTcxNDk0WGRuOEpTSms4Y0dSTjNkODlkb0hCQzI5d0puazN2Znlzc1p2MUhXRldBblR5eV9yTnFHbFItd2UyVEhPOHZ1QmpOMDFv?oc=5",
+    "aid": "70eb8b6b7a",
+    "titel": "Kleeblatt gewinnt Testspiel gegen Drittligist Würzburg 3:1, der Trainer ist trotzdem sauer",
+    "quelle": "NN.de",
+    "beschr": " Kleeblatt gewinnt Testspiel gegen Drittligist Würzburg 3:1, der Trainer ist trotzdem sauer &nbsp;&nbsp; NN.de ",
+    "zeit": "2026-11-12T16:10"
+   },
+   {
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ2o5U2pnYmhuNS1vWFBVV0YxcGhOZXVIa0xGN2xGMnA5cUlMdUprUFhFeXN5SkJDSVdrQnBOUGtqRWVXTGhaVjluczFVNFJLVGVTUnpBUmdIYjNPems0M2RmeWpOX2Z6TVh5NVJ5T0RRbnU0NWhpMFh6UXhibDhMTW1UcXhzdWlJWU92N0EtbTZqMWpLeHFjZWxxOGpMbTAtOERueFJ1NHRfYkJBMEJxcjVMWS0xYVFMUmVQeEgyTF9KWGM1d19qSkhrbmppcXhPOWNjMlJwaTBkblRVYkpXNFRpN1NMSnQ0TlE?oc=5",
+    "aid": "11799169d6",
+    "titel": "2. Liga gegen 3. Liga - Greuther Fürth gewinnt Testspiel gegen Würzburg - Bayern - SZ.de",
+    "quelle": "SZ.de",
+    "beschr": " 2. Liga gegen 3. Liga - Greuther Fürth gewinnt Testspiel gegen Würzburg - Bayern - SZ.de &nbsp;&nbsp; SZ.de ",
+    "zeit": "2026-11-12T17:07"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-12T18:01",
+  "archiv": [
+   {
+    "id": "4c95231583",
+    "titel": "Dresden schlägt Fürth 3:0 und verlässt das Tabellenende",
+    "datum": "06.11.",
+    "stufe": "spielbericht",
+    "summary": "Dynamo Dresden gewinnt gegen Greuther Fürth 3:0 und verlässt als vorläufig Vierzehnter das Tabellenende. Fürths Hendry Blank fälscht zwei Gegentore ab und sieht Gelb-Rot."
+   },
+   {
+    "id": "17f7b2ba54",
+    "titel": "Keller trifft spät: Fürth schlägt Kiel mit 1:0",
+    "datum": "01.11.",
+    "stufe": "spielbericht",
+    "summary": "Die SpVgg Greuther Fürth schlägt Holstein Kiel am 10. Spieltag mit 1:0. Aaron Keller trifft in der 87. Minute nach Vorarbeit von Dennis Srbeny."
+   }
+  ]
+ },
+ {
+  "id": "8e94a1e20f",
+  "schluessel": "cottbus|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Cottbus",
+  "klubs": [
+   "Cottbus"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "Energie Cottbus Testspiel: Youngster Phil Heidrich sorgt für Sieg gegen Erzgebirge Aue",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObE1xdVNYREhFYWVGUW9oZUJhV04wUnV6bDVYSkt2ajhIN2VOX0hrMmFRcnFQemNzaVRCcnZWMDMxd0J3bDRIWm1QUzM5ZUFjUmhPbFFBTU5HOVJzZjYyMUtmY1B2a0EwR2N2SDdHQ1VyWEZ5Vlk0c2hDNkVaYllUTkhBOHRwZ2ZkZ0VOQTNxU3pIdklSN3N1bFM3ZTltWkl3NzhkOVNBaUVmSi1JaDdFVEVVS1RIU3RndFBraVBZMjJIQ19PSDZfSklTUFJZS1NNWXRBOGtKaFM?oc=5",
+    "aid": "f167281fb0",
+    "titel": "Energie Cottbus Testspiel: Youngster Phil Heidrich sorgt für Sieg gegen Erzgebirge Aue",
+    "quelle": "Lausitzer Rundschau",
+    "beschr": " Energie Cottbus Testspiel: Youngster Phil Heidrich sorgt für Sieg gegen Erzgebirge Aue &nbsp;&nbsp; Lausitzer Rundschau ",
+    "zeit": "2026-11-12T15:57"
+   },
+   {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV0ZfTWxQMDRqaEUwZHU0Y19HVDlDcmJ0ckF6UkQ3UUtXdzlZSmFHSkVlVWwyMmxGNWhRRXZuQzBZeE1hc2tEbmdWQWRxdHBfSl9MNVRjVDh5LUtiMVF2dmpBdThQRUJmVUhnbk9lYkExMmQ0UC1WZGszdUl4UzJKMEdqaG5SUUFIUnFXQkpqdDMzcVFKeVhZeEVSNHh3M1F6UzgwNWJFdzFrUUsyQ2hzWA?oc=5",
+    "aid": "46ea64c78b",
+    "titel": "Fußball-Testspiel: Testspiel mit \"Bruderduell\": Energie Cottbus gewinnt gegen Aue",
+    "quelle": "sportschau.de",
+    "beschr": " Fußball-Testspiel: Testspiel mit \"Bruderduell\": Energie Cottbus gewinnt gegen Aue &nbsp;&nbsp; sportschau.de ",
+    "zeit": "2026-11-12T16:39"
+   },
+   {
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdzZqWEZWNlY1Yno0d1dqR1N3anlEU2I5Sk9tSEFuYWV1U0JqVkV0U3pTMHg5cy13RFBVR1RiY1c4ZUFsWVVCWG1FejVrMnV0RTFlbTA1LWhiUHREYUpLTTJveDJlR1dJRkNpT2JVcHkxVnI0VEhRcFV0dVZvWUp3RVNGU09zeER1NkhBbkhDTVNEYW9LOU5FdWVvd254cTdMZWtPRXRJMWJfUS0xSTdsUWF5MTBLdWg3VmRiZXdFcnBheGxzbUJJU1ptR0RYekdYOWVmekREcmVEZWdWVEh4WnR6NA?oc=5",
+    "aid": "41f589180b",
+    "titel": "Heidrich-Doppelpack: Energie Cottbus gewinnt Test gegen Aue mit 2:1",
+    "quelle": "NIEDERLAUSITZ aktuell",
+    "beschr": " Heidrich-Doppelpack: Energie Cottbus gewinnt Test gegen Aue mit 2:1 &nbsp;&nbsp; NIEDERLAUSITZ aktuell ",
+    "zeit": "2026-11-12T15:39"
+   },
+   {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVFlPTEFzVUpvWHFnS0ptcDdiYWdFQUd4RWFFOGlwRDdJMUp4Sndvc0daTE1XSnh2dVdYNHBGam5oemNNTWhuck04SVd0dXVrd2oxTTlxb3VhQnJ5eGtMV2Via2NtVzNGZWVhcEpoSUt5R2libWtLcWxJT3Y1Tk85dWY4b1MtLTY4RXlkakozTnk3LUdWLTd6cTZ5NEZkWFV0dlY2STlGQjVxU21pVWxjS0dmMUFudw?oc=5",
+    "aid": "174011d6b7",
+    "titel": "Heidrich trifft doppelt im \"Bruderduell\": Energie Cottbus gewinnt gegen Aue",
+    "quelle": "rbb24.de",
+    "beschr": " Heidrich trifft doppelt im \"Bruderduell\": Energie Cottbus gewinnt gegen Aue &nbsp;&nbsp; rbb24.de ",
+    "zeit": "2026-11-12T16:30"
+   },
+   {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT0FTSG16RlVyQllJU18wVFFabGpEczJGb0FjcEUzc3BqNngyd2ZlVFZpUDdDLWM4RmVIUHh6VDJvUWlCVmlZQVpPU2NSdWZkaXd4bjhHOUtJNGt2V1NKN1pKX2FwYjZkRVpGS2ZuWG9hZk9HQURPS3EtTU1mOG52WVVrdGhncmJsVHg2SzVqcVByMUJ0VFI4RFpMX2RZalczNkNSak5yclBXRUE0V29faGtXWldnZHN3UWVXUHNUV0FnUDZIVzFVRG8wNmg?oc=5",
+    "aid": "7e10d59d7a",
+    "titel": "Erzgebirge Aue: So lief das Testspiel beim FC Energie Cottbus",
+    "quelle": "Freie Presse",
+    "beschr": " Erzgebirge Aue: So lief das Testspiel beim FC Energie Cottbus &nbsp;&nbsp; Freie Presse ",
+    "zeit": "2026-11-12T16:13"
+   },
+   {
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMUdFX0hiMmxNX21CQ2ZSaWc0b3Y2MHlOWFVnNEduYUZ6YTdydzFPVWc2LUM0Mk1rNkZmWHN5V0sxN0RVNlpYc29KTXdZdjZLVjg2aFEwOHRyR3BYZ0RrSFluMzBseHhIQ3pQVUlxNjQyN0Jia25ZSFpMWE9qTFFyeUR2ZHJ0VUdRR295WlB4UV95U0JlNlJDX01QTWZtX0VwMzdDMXo0TERuNklKNUdvUXJjNm45MVh3Ujh2Wkh0NV9PVnJLZERXcFg0c2ZOZzM5?oc=5",
+    "aid": "68f84c0011",
+    "titel": "Heidrich ebnet Cottbus Weg zum Sieg im Bruderduell gegen Aue",
+    "quelle": "WELT",
+    "beschr": " Heidrich ebnet Cottbus Weg zum Sieg im Bruderduell gegen Aue &nbsp;&nbsp; WELT ",
+    "zeit": "2026-11-12T15:54"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-12T18:01",
+  "archiv": [
+   {
+    "id": "d374ff468f",
+    "titel": "Cottbus ohne Sieg, aber ohne Krise: Ruhe trotz sechs Spielen ohne Dreier",
+    "datum": "10.11.",
+    "stufe": "spielbericht",
+    "summary": "Energie Cottbus ist seit sechs Spielen ohne Sieg, steht aber mit elf Punkten aus elf Spielen auf Rang zwölf. Umfeld und Verantwortliche bleiben ruhig, die Rest-Hinrunde bringt drei Derbys und zwei Heimspiele gegen Konkurrenten."
+   },
+   {
+    "id": "326a90cf49",
+    "titel": "Cottbus holt 0:0 in Braunschweig: Kinsombi trifft den Pfosten",
+    "datum": "06.11.",
+    "stufe": "spielbericht",
+    "summary": "Energie Cottbus und Eintracht Braunschweig trennen sich am 11. Spieltag 0:0. Kinsombi traf in der 14. Minute den Pfosten, beide Teams haben nun 11 Punkte."
+   },
+   {
+    "id": "df8456704e",
+    "titel": "Cottbus: Wollitz kündigt nach 1:2 gegen Bochum Konsequenzen an",
+    "datum": "01.11.",
+    "stufe": "spielbericht",
+    "summary": "Nach dem 1:2 gegen Bochum kündigt Cottbus-Trainer Wollitz Änderungen in der Startelf an und nimmt die Niederlage auf seine Kappe. Er kritisiert die Defensive und die Einstellung einiger Profis."
+   }
+  ]
+ },
+ {
+  "id": "6f24611c10",
+  "schluessel": "bochum|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Bochum",
+  "klubs": [
+   "Bochum"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "VfL Bochum: Warum Christian Rasmussen plötzlich aufblüht",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYmxqZUJVdllIWjNiZnVZX3ZrQ1RZX3ZzWUg2b3ZmRWFMd1c4MUZveklTMnlEWU1DWWlqeHIzWHlsc3ZrRVVWMDVtRGEtS1NKdk5sbFJqQlM4cWZpQnVmLXF4ek51UXZYYkhTNXB5UTZVTzE0Q1ItRXZuQ2Z1elBKRVZXeWl3blZxT1BLTF9zVk85NGk2aUZtV0R3M2RfZFE?oc=5",
+    "aid": "6e8bcc3add",
+    "titel": "VfL Bochum: Warum Christian Rasmussen plötzlich aufblüht",
+    "quelle": "sportschau.de",
+    "beschr": " VfL Bochum: Warum Christian Rasmussen plötzlich aufblüht &nbsp;&nbsp; sportschau.de ",
+    "zeit": "2026-11-12T15:55"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-12T18:01",
+  "archiv": []
+ },
+ {
+  "id": "4da821ff77",
+  "schluessel": "bielefeld|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Bielefeld",
+  "klubs": [
+   "Bielefeld"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Arminia Bielefeld schlägt SV Meppen – Anschlusstreffer kommt zu spät",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbVZQdVdWREFmSl9WekNrbTdfbXA4WjRmMmFoYlh3Z0JYNGs1NEZWbTFRdlRJWVhBT1prbHFwT01yclFwUGRtX01aajJ2ekJsZWl0eHdnZTNWSEYwSUJ2cF81aG0tZ0dyYkpBM0NINXVpWmRzM1dicDB4RHJ4RV84bnJJU1ZfSU5YbEQ0VG03NEhOZTlRTGpSejlKdUFmMTlKVzhodg?oc=5",
+    "aid": "70171a8b51",
+    "titel": "Arminia Bielefeld schlägt SV Meppen – Anschlusstreffer kommt zu spät",
+    "quelle": "FuPa ⚽️",
+    "beschr": " Arminia Bielefeld schlägt SV Meppen – Anschlusstreffer kommt zu spät &nbsp;&nbsp; FuPa ⚽️ ",
+    "zeit": "2026-11-12T15:22"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-12T18:01",
+  "archiv": []
+ },
+ {
+  "id": "528ace1d76",
+  "schluessel": "osnabruck|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Osnabrück",
+  "klubs": [
+   "Osnabrück",
+   "Magdeburg"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "Riesselmann trifft doppelt: VfL Osnabrück gewinnt Testspiel gegen 1. FC Magdeburg mit 3:0",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOU1HSjZaX29FQktRWnNCTUxpS3FKTUV3OEZORXV4Rk11dC1HTUNSSjE0UVdjd1RxcXNRYTJQWDhnZ1g2T3Bzb0t0bjdOa1hwVXNmV295UDc1SEdNd0JJWTdaUHlQMUhMeDhMczhwNU5fWkhaYVBkR2Y0QkhWTFhTQThta0lONmFRUC1pVkNYZWVtMGtVbVk5NzZVRC1ibnhEakVRRTN6OXJqeXdUbjltZEFueU84NVJv?oc=5",
+    "aid": "012bc71c47",
+    "titel": "Riesselmann trifft doppelt: VfL Osnabrück gewinnt Testspiel gegen 1. FC Magdeburg mit 3:0",
+    "quelle": "noz.de",
+    "beschr": " Riesselmann trifft doppelt: VfL Osnabrück gewinnt Testspiel gegen 1. FC Magdeburg mit 3:0 &nbsp;&nbsp; noz.de ",
+    "zeit": "2026-11-12T15:30"
+   },
+   {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbFAxSGl6d0pFdUtnOENTOG5fSG4tdEJ5R1N6a2wxUUE1RlFrbEUwTzI3dnZQQ2tmR2dLWnZzLVBONXVndWp0VE01cVFHVXNQWUVoQTMybGRveXl1WTNMc3NjelRWcjBtY1VGbWRWWVFlTG45dXIzU1AzR2dzcm93OTFVY1A4SnJ4ZWlXTDlyVjh2eGNlc0RIS1BKVzBlMktoaGZB?oc=5",
+    "aid": "fb69016d38",
+    "titel": "VfL Osnabrück gewinnt kurzfristigen Test gegen Magdeburg deutlich mit 3:0",
+    "quelle": "Hasepost",
+    "beschr": " VfL Osnabrück gewinnt kurzfristigen Test gegen Magdeburg deutlich mit 3:0 &nbsp;&nbsp; Hasepost ",
+    "zeit": "2026-11-12T16:30"
+   },
+   {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYTRzNmhVcjhlM2E0bXFIbFZTY2pzLXFzUHFjZ0U2anZ3QnBaT2ZpRjR4d2R5UlRiTjVtay1rVGpwNWc5THFuTTNIN2UwMmFuSnYxcWdodGtTT1I3eE1EeTV1X04wMUJlSXhyMmxiV0JyMldqUVNmTFdFWnpYbWZzMUlkLUk0UlJhWkowX3ExVzVNX2trUnoxZng5NXNENmNlNEtBV3lqNTg1UQ?oc=5",
+    "aid": "857be811fa",
+    "titel": "FCM verliert Testspiel gegen VfL Osnabrück deutlich",
+    "quelle": "Magdeburg Blau-Weiß",
+    "beschr": " FCM verliert Testspiel gegen VfL Osnabrück deutlich &nbsp;&nbsp; Magdeburg Blau-Weiß ",
+    "zeit": "2026-11-12T15:36"
+   },
+   {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa2FxQUpSclR1WTBWN0JGdC1MLTE2RlBzR3ZKRjR3ZDVSVGtJZmtfbmdmaGF3T1hPX01kaGNMeUVDVG4xbDZCM2hqNDl2MW1CZ05OM251MktxRkYtT25CcWhiLUNaVjhVRE0zUXdOR3pRc19jOURiQ0xLMUhheGJyTFZJNUVXWmljT1BZcnY0X2M2cE0tNm5NZQ?oc=5",
+    "aid": "01be016c5e",
+    "titel": "VfL Osnabrück LIVE: 3:0 Sieg gegen 1. FC Magdeburg - der Ticker",
+    "quelle": "FuPa ⚽️",
+    "beschr": " VfL Osnabrück LIVE: 3:0 Sieg gegen 1. FC Magdeburg - der Ticker &nbsp;&nbsp; FuPa ⚽️ ",
+    "zeit": "2026-11-12T15:26"
+   },
+   {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTUlxNU1qUVdJemw3VVZqenlyNEF1U1ZQZGZlenY5Nm12LVhCX1RvYkVFbHBsTkJoX2EyX09OczZ2U2x4aW9MR3NLdTFTQU5VdDRvRmZrcHdJMldCYnlMaXl0R3dWclNtMWVxSmxnT3BfRjJWZXV1Sm1aRGpnbXFsajBVeVl3cmZ1YU5pV2tIdDRBQQ?oc=5",
+    "aid": "e27c94cd0d",
+    "titel": "VfL Osnabrück schlägt 1. FC Magdeburg deutlich mit 3:0",
+    "quelle": "FuPa ⚽️",
+    "beschr": " VfL Osnabrück schlägt 1. FC Magdeburg deutlich mit 3:0 &nbsp;&nbsp; FuPa ⚽️ ",
+    "zeit": "2026-11-12T15:26"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-12T18:01",
+  "archiv": [
+   {
+    "id": "41dddc17ce",
+    "titel": "Tazemeta trifft nach Einwechslung: Lautern siegt in Osnabrück",
+    "datum": "07.11.",
+    "stufe": "spielbericht",
+    "summary": "Kaiserslautern gewinnt am 11. Spieltag mit 1:0 beim VfL Osnabrück. Der eingewechselte Thierry Tazemeta erzielt in der 55. Minute das einzige Tor."
+   },
+   {
+    "id": "7ba2dce612",
+    "titel": "Osnabrück verliert in Wolfsburg 0:2, Reese entscheidet das Duell",
+    "datum": "01.11.",
+    "stufe": "spielbericht",
+    "summary": "Der VfL Osnabrück verliert beim VfL Wolfsburg 0:2. Fabian Reese erzielt ein Tor und bereitet das zweite von Muhammed Damar vor."
+   }
+  ]
+ },
+ {
+  "id": "57214015d0",
+  "schluessel": "magdeburg|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Magdeburg",
+  "klubs": [
+   "Magdeburg"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "1. FC Magdeburg verliert Test gegen Zweitliga-Kontrahenten deutlich",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVHdTTnFaNUljenBmbEFOQWFwS2V3dV9ZYzJPTDB4dzBVWjlYUTFPekRsUWpzQmt6WjF2NHV3YzRhdlBJZWVHZWQ2UGRkcVQzOFpUSndlRUhmZ1JFMnF2aEhPSDVKNE9pWnBZeThDUXJyUDBfdnYySTBBcGQwY1dHa2lZVzVld2dqWE1ELWMzdklfMFBISFgxdi1JYWJ0Q3ctZ2c?oc=5",
+    "aid": "96fe01bae7",
+    "titel": "1. FC Magdeburg verliert Test gegen Zweitliga-Kontrahenten deutlich",
+    "quelle": "FuPa ⚽️",
+    "beschr": " 1. FC Magdeburg verliert Test gegen Zweitliga-Kontrahenten deutlich &nbsp;&nbsp; FuPa ⚽️ ",
+    "zeit": "2026-11-12T15:14"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-12T18:01",
+  "archiv": [
+   {
+    "id": "bfbc772e4f",
+    "titel": "Magdeburg schlägt St. Pauli 4:1 und springt auf Rang 4",
+    "datum": "08.11.",
+    "stufe": "spielbericht",
+    "summary": "Der 1. FC Magdeburg schlägt den FC St. Pauli am 11. Spieltag mit 4:1. Garcia MacNulty, Bockhorn, Atik und Simic treffen, der FCM ist mit 20 Punkten Vierter."
+   },
+   {
+    "id": "9db96cdceb",
+    "titel": "Darmstadt holt gegen Magdeburg nur ein 1:1 trotz Hackentor von Smit",
+    "datum": "01.11.",
+    "stufe": "spielbericht",
+    "summary": "Darmstadt 98 trennt sich am 10. Spieltag vom 1. FC Magdeburg 1:1. Müller traf für die Gäste, Smit glich per Hacke nach Vorlage von Richter aus."
+   }
+  ]
+ },
+ {
+  "id": "8c1161ce65",
+  "schluessel": "magdeburg|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Magdeburg",
+  "klubs": [
+   "Magdeburg"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "1. FC Magdeburg: Trainer Sander kritisiert Auftritt nach 0:3-Pleite",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV3BhY3BURlhPTDRMTVdtb1N4ZTJPLUdlelVWeTNJY1hJWWNoMUJKSkJMMWNyRWpfbVJOc3UxQ3F0V29Kc2o3bFNlZ1lOUTdOYWplMjFFM0pUR1dOSDdDYlpDNnFaZC0zVFluVUxsaW9NZXAwX1FjRmdzNHlVSzRDQXpKU0tmSzE4VHVqYXVLOHBtVGNhUjY5WlQwYlhLODN1dzBzb09TZ21qTkktUGpiRlQ4aldMQVk3VVp2TmF3UUVIY2M?oc=5",
+    "aid": "70a0243d17",
+    "titel": "1. FC Magdeburg: Trainer Sander kritisiert Auftritt nach 0:3-Pleite",
+    "quelle": "BILD",
+    "beschr": " 1. FC Magdeburg: Trainer Sander kritisiert Auftritt nach 0:3-Pleite &nbsp;&nbsp; BILD ",
+    "zeit": "2026-11-12T15:52"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-12T18:01",
+  "archiv": [
+   {
+    "id": "bfbc772e4f",
+    "titel": "Magdeburg schlägt St. Pauli 4:1 und springt auf Rang 4",
+    "datum": "08.11.",
+    "stufe": "spielbericht",
+    "summary": "Der 1. FC Magdeburg schlägt den FC St. Pauli am 11. Spieltag mit 4:1. Garcia MacNulty, Bockhorn, Atik und Simic treffen, der FCM ist mit 20 Punkten Vierter."
+   },
+   {
+    "id": "9db96cdceb",
+    "titel": "Darmstadt holt gegen Magdeburg nur ein 1:1 trotz Hackentor von Smit",
+    "datum": "01.11.",
+    "stufe": "spielbericht",
+    "summary": "Darmstadt 98 trennt sich am 10. Spieltag vom 1. FC Magdeburg 1:1. Müller traf für die Gäste, Smit glich per Hacke nach Vorlage von Richter aus."
+   }
+  ]
+ },
+ {
+  "id": "a5d314f80a",
+  "schluessel": "nurnberg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Nürnberg",
+  "klubs": [
+   "Nürnberg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "FCN: Unangenehmes Restprogramm: Für Nürnberg wird's daheim jetzt eklig",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcTUySnNlWGdwNkM4SllvNzdtcE1YVUs4OEdDams1bHA0MjZ0QWM1QTVoR3JVZmpfZjZhcUx0U001Yzh6SjIwTlAxcE5XX3VjalI0REUzakRiMDZHWVFCbmZtdlR4V2VKZldkeDZDT3JrZVR6cGNmSVJKR3d4cjNBdjdPN2wtQUV6Y0JrOVNjeHI1N0ZlZWxlNDFVQUs3eTVnV3Uwd2tmVkpQcWV0SjY5ZzVmQmtpS0NYcWtmNTJRazhiWGRPdWt3bw?oc=5",
+    "aid": "158aba06bc",
+    "titel": "FCN: Unangenehmes Restprogramm: Für Nürnberg wird's daheim jetzt eklig",
+    "quelle": "BILD",
+    "beschr": " FCN: Unangenehmes Restprogramm: Für Nürnberg wird's daheim jetzt eklig &nbsp;&nbsp; BILD ",
+    "zeit": "2026-11-12T16:11"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-12T18:01",
+  "archiv": []
+ },
+ {
+  "id": "2b7332f32f",
+  "schluessel": "nurnberg|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Nürnberg",
+  "klubs": [
+   "Nürnberg"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "Trotz 2:0-Führung: 1. FC Nürnberg scheidet im DFB-Pokal aus",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xbGVaV3duOUx1Y3h6UlcyQmdWVXZpSlU1QmhQNUUxei02SWhJVG1MS2FrVHN5WVU2ekx3NnpUbGxqTHJUcXM4N25uOGJ5MjNpajA2VDRNYVFja2NPYVhnWGs5clltR05IS1VMZ2lrTDNzNnE5RWZ0dXdpVUc?oc=5",
+    "aid": "b909b5216d",
+    "titel": "Trotz 2:0-Führung: 1. FC Nürnberg scheidet im DFB-Pokal aus",
+    "quelle": "Franken Fernsehen",
+    "beschr": " Trotz 2:0-Führung: 1. FC Nürnberg scheidet im DFB-Pokal aus &nbsp;&nbsp; Franken Fernsehen ",
+    "zeit": "2026-11-12T16:18"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-12T18:01",
+  "archiv": [
+   {
+    "id": "6bff53df7c",
+    "titel": "Darmstadt gewinnt Testspiel in Nürnberg mit 4:1",
+    "datum": "08.11.",
+    "stufe": "spielbericht",
+    "summary": "Darmstadt 98 gewinnt ein nicht öffentliches Testspiel beim 1. FC Nürnberg mit 4:1, Lakenmacher trifft doppelt. Weitere Testspiele in der Länderspielpause sind nicht geplant."
+   },
+   {
+    "id": "12b3d6a07a",
+    "titel": "Nürnberg schlägt Darmstadt dank Scobel und Bøving mit 2:0",
+    "datum": "07.11.",
+    "stufe": "spielbericht",
+    "summary": "Der 1. FC Nürnberg gewinnt am 11. Spieltag mit 2:0 gegen Darmstadt 98. Piet Scobel und William Bøving treffen nach der Pause."
+   },
+   {
+    "id": "b4e9126002",
+    "titel": "Klose nach Sieg bei St. Pauli: „Normalerweise verliert man solche Spiele“",
+    "datum": "06.11.",
+    "stufe": "spielbericht",
+    "summary": "Nürnbergs Trainer Miroslav Klose ordnet den 3:1-Sieg bei St. Pauli ein und lobt die Gemeinschaft im Team. Über einen Aufstieg als Ziel will er als Tabellenzweiter nicht sprechen."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "ae66292e9b",
+  "schluessel": "cottbus|kader",
+  "person": "",
+  "spieler": [],
+  "klub": "Cottbus",
+  "klubs": [
+   "Cottbus"
+  ],
+  "stufe": "kader",
+  "klasse": "kader",
+  "titel": "Energie Cottbus 2. Liga: Viele Stammspieler fehlen - Wollitz erklärt Personalsituation",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObzdnRi1WSFhWbUZGUE9JVU90WmNvUjdzNGYwMVNhMFRhX2czc3FDTFQ1VVZQSGJTZncyZlVfV3p3a2VXaUQ4X1RLVEJoenU5VVZnS2lpTVlrclZyajBFa0N3UlJ2QWJjZjJFcUt5dXNEMEFvYVRGaWhVSjZNRExXb0N0YjhkU2hsZ0RIbVR4ZTkxeHFiNXFIQ3NHZW1QMjhnVU55ODFGaV84WnZEMFRveWRPZGpJQTdvVzN0dTdtQjhKQmtzazA2U09SRElWVDgtM2t3NQ?oc=5",
+    "aid": "e3e1f41a66",
+    "titel": "Energie Cottbus 2. Liga: Viele Stammspieler fehlen - Wollitz erklärt Personalsituation",
+    "quelle": "Lausitzer Rundschau",
+    "beschr": " Energie Cottbus 2. Liga: Viele Stammspieler fehlen - Wollitz erklärt Personalsituation &nbsp;&nbsp; Lausitzer Rundschau ",
+    "zeit": "2026-11-12T17:12"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-12T18:01",
+  "archiv": []
+ },
+ {
+  "id": "0181b85cdd",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Hannover 96: Sandro Wagner bleibt gegen Drittligist Havelse sitzen",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcHpfekZieW84dHoxUERjYjBWZFpobTNaRGhNbDBuV3dLVHZuaEZ6Y3FmY3ZSZEgtWnpaWWs0UVdmNFdwWTROYTUtVmVPdVh1VlZnZ3JJVmxJeWx2R0x2cUdCNFo3WWxFOGlNTW9fQUN3bUhpcnRENEItMFZQbVpUSWpCYjh5ZWxLbFBTbGdoRl9lcUMyMmVmbzR6QUdaRHFPVURMeTg3WElyaHBNYkFlbjRnOWFlVllYTXRxNndDMWFlTVE?oc=5",
+    "aid": "40182b0568",
+    "titel": "Hannover 96: Sandro Wagner bleibt gegen Drittligist Havelse sitzen",
+    "quelle": "BILD",
+    "beschr": " Hannover 96: Sandro Wagner bleibt gegen Drittligist Havelse sitzen &nbsp;&nbsp; BILD ",
+    "zeit": "2026-11-12T15:00"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-12T18:01",
+  "archiv": [
+   {
+    "id": "1e14aee0b2",
+    "titel": "Mattuschka rügt Hannover 96: Außendarstellung „unfassbar schlecht“",
+    "datum": "06.11.",
+    "stufe": "sonstiges",
+    "summary": "Sky-Experte Torsten Mattuschka kritisiert die Außendarstellung von Hannover 96 nach der Boldt-Entlassung als „unfassbar schlecht“. Drei Kandidaten sind laut Sky für die Nachfolge im Rennen, darunter Marko Marin."
+   },
+   {
+    "id": "f24f0b5c26",
+    "titel": "Heidenheim will Schmidt-Abschied gegen Hannover vergolden",
+    "datum": "06.11.",
+    "stufe": "sonstiges",
+    "summary": "Heidenheim empfängt am Sonntag Hannover 96 und ist zu Hause noch ungeschlagen. Es ist das erste Spiel nach der Ankündigung, dass Trainer Frank Schmidt im Sommer aufhört."
+   },
+   {
+    "id": "46380a1986",
+    "titel": "Wontorra stärkt Hannovers Trainer Wagner den Rücken",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Moderatorin Laura Wontorra stärkt Hannovers Trainer Sandro Wagner, der nach vier Pflichtspielen noch sieglos ist, im Podcast „TOMorrow“ den Rücken. Sie traut ihm eine große Trainerkarriere zu."
+   }
+  ]
+ },
+ {
+  "id": "7795885eeb",
+  "schluessel": "hertha|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "MV am Samstag: Wie selbstkritisch bleibt Hertha im Erfolg?",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZEgwbVNGQ1h5aUlBM2p5SGxma1EyVTNpYVZOMXRtaDR6SlVra0dyenlrcWZ1TDRZcmVGTU1PZXMxYXBjTDJYRHViY3FQaGE5UXpsR24wR2podGt0MHpQcWpXc3dwVW5lVk1GTWZwbkQyNWtsRGFJaTZDN2E1ZTlTNGJ0V2lya0Z6b3FLX05HRGxEbXNWYU9OUno0RXViZS15UGZHeE5IY2p2MEt1RDQ1UHM3cDV1dERrN3ZSUWdCZWM3UlBBMllpSQ?oc=5",
+    "aid": "93b4c5709b",
+    "titel": "MV am Samstag: Wie selbstkritisch bleibt Hertha im Erfolg?",
+    "quelle": "rbb24.de",
+    "beschr": " MV am Samstag: Wie selbstkritisch bleibt Hertha im Erfolg? &nbsp;&nbsp; rbb24.de ",
+    "zeit": "2026-11-12T16:03"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-12T18:01",
+  "archiv": [
+   {
+    "id": "b9598870dd",
+    "titel": "Thorsteinsson über Neustart bei Hertha: „Glauben an die eigene Leistung“",
+    "datum": "10.11.",
+    "stufe": "sonstiges",
+    "summary": "Herthas Jón Dagur Thorsteinsson erzählt, wie ihm die Leihe zu Brann Bergen wieder Selbstvertrauen gab. Sein Doppelpack in Dresden war sein bisher stärkster Abend im Hertha-Trikot."
+   },
+   {
+    "id": "5b69f6c8eb",
+    "titel": "Basler lobt Hertha und Leitl: „Die haben es jetzt selbst in der Hand“",
+    "datum": "10.11.",
+    "stufe": "sonstiges",
+    "summary": "Mario Basler lobt in seinem Podcast Herthas Trainer Stefan Leitl und sieht den Tabellenführer im Aufstiegsrennen in der eigenen Hand. Hertha hat nach elf Spieltagen 31 Punkte und spielt am 22. November in Cottbus."
+   },
+   {
+    "id": "008a7a4de7",
+    "titel": "Hertha BSC: Wie Stefan Leitl die Berliner an die Spitze führt",
+    "datum": "08.11.",
+    "stufe": "sonstiges",
+    "summary": "Hertha BSC führt die zweite Liga nach dem 2:1 gegen Wolfsburg mit zehn Punkten Vorsprung auf Rang drei an. Trainer Stefan Leitl setzt auf hohes Pressing, einen klaren Plan und eine funktionierende Gruppe."
+   }
+  ]
+ },
+ {
+  "id": "5241f97562",
+  "schluessel": "hertha|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "Jeder Hertha-Sieg vor Weihnachten erhöht die Chance, dass Gechter bleibt",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdnllUjA1ZC13U0VpWHhmU1NrVmkyejAyd0FabkVmVnNUQjhLUUZYR1FNOEFEX1U0X3JDN01MT3dnM0hWTFNhazEyaXg4VTQ5ZlN4aUQ3bGJ2VEdIVU1TeDNndlE4NG5CR0tGejJudlRCRWQ2XzJCMl9JVjlKUWNRX3FhaktOd3hsbHFpOU4tbDM4UHZqclZTR1g0bXJXdHh3bEhoTEI0LUlJZE92TTVKdEhISzFvTkl5dXFLOA?oc=5",
+    "aid": "d9424c2c32",
+    "titel": "Jeder Hertha-Sieg vor Weihnachten erhöht die Chance, dass Gechter bleibt",
+    "quelle": "Berliner Kurier",
+    "beschr": " Jeder Hertha-Sieg vor Weihnachten erhöht die Chance, dass Gechter bleibt &nbsp;&nbsp; Berliner Kurier ",
+    "zeit": "2026-11-12T15:56"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-12T18:01",
+  "archiv": [
+   {
+    "id": "85e4606aac",
+    "titel": "Wolfsburg hadert nach 1:2 bei Hertha mit verweigertem Elfmeter",
+    "datum": "08.11.",
+    "stufe": "spielbericht",
+    "summary": "Wolfsburg verliert im Spitzenspiel bei Tabellenführer Hertha BSC mit 1:2. Trainer Tobias Strobl und Sportdirektor Pirmin Schwegler kritisieren den nicht gegebenen Elfmeter in der Nachspielzeit."
+   },
+   {
+    "id": "b2e2c3e675",
+    "titel": "Hengen nach 0:3 gegen Hertha: „Sind in einem Prozess“",
+    "datum": "02.11.",
+    "stufe": "spielbericht",
+    "summary": "Kaiserslauterns Geschäftsführer Thomas Hengen wertet das 0:3 gegen Hertha BSC als Dämpfer, nicht als Rückschlag. Er lobt Rückkehrer Ivan Prtajin und nennt das Auswärtsspiel in Osnabrück einen Prüfstein."
+   },
+   {
+    "id": "0c7fc3ed29",
+    "titel": "Hertha siegt in Kaiserslautern 3:0 und bleibt Spitzenreiter",
+    "datum": "01.11.",
+    "stufe": "spielbericht",
+    "summary": "Hertha BSC gewinnt beim 1. FC Kaiserslautern 3:0 und bleibt nach zehn Spielen ungeschlagen Tabellenführer. Grønning trifft doppelt, Adewumi einmal, Pedersen bereitet zwei Tore vor."
+   }
+  ]
+ },
+ {
+  "id": "9058c4eaff",
+  "schluessel": "hamburger|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Hamburger",
+  "klubs": [
+   "Kiel",
+   "Hamburger"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "Hamburg & Schleswig-Holstein: Holstein Kiel schlägt Odense bei Kniat-Debüt mit 4:0",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaXRHS2ZMQzc0NEFsU1EwUVM5NlNEZkdvNjRtOEJwXzhEOFhOVlhxbllYUlY1SjJFZ2tabnhVaFFEemhjOXZkenBBWmEtc01jQ2w0dmZTQjVXTVdBVEhmVFlaV1lCbHFQYl85NVdjcExPbzJPb2ZQR2FIYjNTdXZ4ZElDQWlyenNqel91V1BYYnBHVEs4cGtTY0d5dWxvVnp3SEFmRjBIN1BkcTVTVnd4QTJNY3JYbVpnbUxhXzRNT1FCT2tXaWlTeWJ3YnE?oc=5",
+    "aid": "291c94de54",
+    "titel": "Hamburg & Schleswig-Holstein: Holstein Kiel schlägt Odense bei Kniat-Debüt mit 4:0",
+    "quelle": "n-tv.de",
+    "beschr": " Hamburg & Schleswig-Holstein: Holstein Kiel schlägt Odense bei Kniat-Debüt mit 4:0 &nbsp;&nbsp; n-tv.de ",
+    "zeit": "2026-11-12T16:31"
+   },
+   {
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVEZYX1gtTDFTUUJQMnlWYWVfbVZ6RzNrbTNpbFVCQWgtR3VlR1lPUVRxRU93dXZBYjNRNGRMaDNXZHk4NEFkNXpiOGx4Zy1neVRtdTBGaEVsTlRLdG1vQldSVjZUdzF2N0JaeFhzQVBZZ1prZWEzdTdHaFFlUUFWcWtVM1B0TG1NbFVjSldVWHF4TGZxQmo2RGR3WGdvRWtjcTNYbGlIb2RZajBGelZRdHZjTzB6OFlvM1FfSHU3Q1hfSXdLS3lvellwdWdNWDlnUHNONFZ6RHXSAfQBQVVfeXFMTk1Cajd2Q3E0VzEtbHdGTDFhT3dYdXlhZ2ZRMWVOWVZNVHljU0FodTRRNENaeEZVZGtUNHRza2V6TGNYWV9iV0ZHdUIxczVRQ1R6OEpaeGZTVHAyQ19INzJnaWkwekF5NThoWHFqR2stZDBkZ1ByUV8zSm0tZVpGaHdGSm8xNzJPdGZJLWI5NTJVYWVHekNfYnF3b3R3c1ZYakl4YjNNaGEyN1l1RUxtUjl1eDA4SGlKRmw3a0lTOWM5U2Y3T0tkeVgwZzJzRzdKNHN3Q09pR0RTdHZ0UktKSGlsXzBQNUxVdXlPcWRnRV9MbXdpaw?oc=5",
+    "aid": "76069591cc",
+    "titel": "Holstein Kiel schlägt Odense BK bei Premiere von Mitch Kniat mit 4:0",
+    "quelle": "Kieler Nachrichten",
+    "beschr": " Holstein Kiel schlägt Odense BK bei Premiere von Mitch Kniat mit 4:0 &nbsp;&nbsp; Kieler Nachrichten ",
+    "zeit": "2026-11-12T16:43"
+   },
+   {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdF91UjBSVkdiNTlrRXdXV2NxWHhseTM4S0YwTHhRVjAxQUdJcWd4VkdSS1VJX1BTUG5naUFuUENNUWwxU0xzeWVOMjUxWDYwVEdsLWtwRVBBU09yMVpVa3k0NVZSWFMxRG85N1N6aG1vOUJjLTN3NWFFei04Vm5Nd3NPSnhEVWc1VTd6NzNwMA?oc=5",
+    "aid": "22e1c73946",
+    "titel": "Testspiel: Holstein Kiel schlägt Odense BK mit 4:0",
+    "quelle": "SAT.1 Regional",
+    "beschr": " Testspiel: Holstein Kiel schlägt Odense BK mit 4:0 &nbsp;&nbsp; SAT.1 Regional ",
+    "zeit": "2026-11-12T17:23"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-12T18:01",
+  "archiv": []
+ },
+ {
+  "id": "8e33c35ae3",
+  "schluessel": "kiel|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Kiel",
+  "klubs": [
+   "Kiel"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "„Gehe zufrieden ins Bett“: Holstein Kiel bei Kniat-Debüt gegen Odense BK im Torrausch",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLW9YaXFLVHJEakNUbmE0VkRoVWJ0RjQ5eGl1LUtoc0FvbFF2WmgzVkd5WTZLMkIxVHgwMlEyVy1WS1JPY0NRcGFIOHBDMkJ0bUx4TkVRX1RjOFk3M3dZbUpLR0JtdlpvclJQVUFOUkpYZDVpeG1ON2gxdDJfMjNQV0lDVk1zZkpOVTR6MW5nNTB1a3ZUdzVOZG5VWFU3aEdHUWZhWkREV29XUy1JNFBUN2lSdXdlVnlCTEhDZw?oc=5",
+    "aid": "3e6f1cf6dc",
+    "titel": "„Gehe zufrieden ins Bett“: Holstein Kiel bei Kniat-Debüt gegen Odense BK im Torrausch",
+    "quelle": "shz.de",
+    "beschr": " „Gehe zufrieden ins Bett“: Holstein Kiel bei Kniat-Debüt gegen Odense BK im Torrausch &nbsp;&nbsp; shz.de ",
+    "zeit": "2026-11-12T17:29"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-12T18:01",
+  "archiv": []
+ },
+ {
+  "id": "06b21b8b59",
+  "schluessel": "bochum|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Bochum",
+  "klubs": [
+   "Bochum"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "VfL Bochum: Trainerwechsel beim Testspiel? Rösler will nur „stiller Zuschauer“ sein",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMkpYUXppUG1WUHRocGRpQ095Zlg3SFVNdVZERjhqaVFGWHd1YVlSSDBvcGlSWG9WcnpxaHJEYW5hTXhyRmtxSkEyRnFDRXhFVXM1SVFadHYtRFY3d2FTUkE1R0txc2J6ZjEwOGl0bm5GandxT2wtX242V3Vid2pGcVV1d0R2ZG9hVFY2WG9xUDdxX241TVBFeE5zQXVlQVkxRXFxdGQ2dF82WEJ4SjZ5aS1ZWk1FXzZ3Y0RPWVRWYzlDVWJKUGhwbHVkRy1NQ3BmN0RibQ?oc=5",
+    "aid": "450ad306f6",
+    "titel": "VfL Bochum: Trainerwechsel beim Testspiel? Rösler will nur „stiller Zuschauer“ sein",
+    "quelle": "WAZ",
+    "beschr": " VfL Bochum: Trainerwechsel beim Testspiel? Rösler will nur „stiller Zuschauer“ sein &nbsp;&nbsp; WAZ ",
+    "zeit": "2026-11-12T16:13"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-12T18:01",
+  "archiv": [
+   {
+    "id": "dd5fe05f53",
+    "titel": "Karlsruhe verliert in Bochum 2:3 und bleibt ohne Auswärtssieg",
+    "datum": "12.11.",
+    "stufe": "spielbericht",
+    "summary": "Der KSC verliert beim VfL Bochum 2:3, Philipp Hofmann trifft in der Nachspielzeit. Karlsruhe bleibt auswärts sieglos und hat 24 Gegentore nach elf Spielen."
+   },
+   {
+    "id": "7a8fa55fea",
+    "titel": "Hofmann trifft doppelt: Bochum schlägt Karlsruhe trotz Civejas Traumtor 3:2",
+    "datum": "08.11.",
+    "stufe": "spielbericht",
+    "summary": "Der VfL Bochum schlägt den Karlsruher SC 3:2 und feiert den ersten Heimsieg der Saison. Philipp Hofmann trifft doppelt, Tim Civeja erzielt für den KSC ein Tor aus 51,6 Metern."
+   },
+   {
+    "id": "df8456704e",
+    "titel": "Cottbus: Wollitz kündigt nach 1:2 gegen Bochum Konsequenzen an",
+    "datum": "01.11.",
+    "stufe": "spielbericht",
+    "summary": "Nach dem 1:2 gegen Bochum kündigt Cottbus-Trainer Wollitz Änderungen in der Startelf an und nimmt die Niederlage auf seine Kappe. Er kritisiert die Defensive und die Einstellung einiger Profis."
+   }
+  ]
  }
 ]
