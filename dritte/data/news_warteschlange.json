@@ -1,34 +1,5 @@
 [
  {
-  "id": "d79d1eb89c",
-  "schluessel": "aachen|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Aachen",
-  "klubs": [
-   "Aachen"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Deutlicher Sieg im Testspiel",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMU1LVG1JU3BxUlpPWXpIYllobDR4TU8wTFlXVVBMV2RzdThpSjM0MVJSY1ZTS0dOdUMyVjBORFQxSjdVRUxuZDZzVi1CRWIzbGRlMkJBcXFjOG54dlpocXplXzJ4Z3RSNlFTdldseVJ3V3lwSWpweVVEYjU5S0xDQlFnemFOYzZLZnBaSnpHUTBhYUJyWmRwS2phelZmb2FPRkR0dWNTVQ?oc=5",
-    "aid": "895396e655",
-    "titel": "Deutlicher Sieg im Testspiel",
-    "quelle": "Aachener Zeitung",
-    "beschr": " Deutlicher Sieg im Testspiel &nbsp;&nbsp; Aachener Zeitung ",
-    "zeit": "2026-11-12T02:08"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-12T02:46",
-  "archiv": [],
-  "versuche": 2
- },
- {
   "id": "aa5c9633f0",
   "schluessel": "saarbrucken|sonstiges",
   "person": "",
@@ -55,7 +26,7 @@
   "status": "n",
   "erstmals": "2026-11-12T17:29",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "4846561995",
@@ -84,7 +55,7 @@
   "status": "n",
   "erstmals": "2026-11-12T17:29",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "33314662ee",
@@ -113,7 +84,7 @@
   "status": "u",
   "erstmals": "2026-11-12T17:29",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "b47b24a162",
@@ -150,7 +121,7 @@
     "summary": "Die Würzburger Kickers (Platz 15) empfangen Hoffenheim II (Platz 9) in der 3. Liga. Beide Teams kommen formschwach in die Partie und brauchen Punkte."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "e38c2367f6",
@@ -179,36 +150,7 @@
   "status": "u",
   "erstmals": "2026-11-12T17:29",
   "archiv": [],
-  "versuche": 1
- },
- {
-  "id": "4879cb1d3c",
-  "schluessel": "rw essen|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "RW Essen",
-  "klubs": [
-   "RW Essen",
-   "Düsseldorf"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "RWE Sonntagabend in Düsseldorf: Parallelspiel auf Schalke sorgt für Brisanz",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTDUzekZWT3BwemJXT2pKSHB5QmNObjBfYTBRS2NsM3ZGSlREUkN2S2s1dUlBaEVwMG45dHVGWnR6Y3k4dlpWVnRxSGNPN3BRdVZ2VHFUSkp4aW9UNkFQREhBZjdsam41bERTamU1S3pxRGQ3bGhwXzRIZTQ3UGxxSVRWNDR1YTByWXI0YnNjSVcyR3pSeDhkNVdPLWowLXo5TFhwMmxIYmVBOUVxSDhiYnJHd0psZm5UWm43VV9kMnozVjRUNjB1ZjI1bWxWekNXQXNta2ln?oc=5",
-    "aid": "f33134b16b",
-    "titel": "RWE Sonntagabend in Düsseldorf: Parallelspiel auf Schalke sorgt für Brisanz",
-    "quelle": "WAZ",
-    "beschr": " RWE Sonntagabend in Düsseldorf: Parallelspiel auf Schalke sorgt für Brisanz &nbsp;&nbsp; WAZ ",
-    "zeit": "2026-11-12T15:11"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-12T17:29",
-  "archiv": []
+  "versuche": 2
  },
  {
   "id": "24ebb0f1b4",
@@ -237,113 +179,7 @@
   "status": "n",
   "erstmals": "2026-11-12T17:29",
   "archiv": [],
-  "versuche": 1
- },
- {
-  "id": "361a98d969",
-  "schluessel": "dusseldorf|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Düsseldorf",
-  "klubs": [
-   "Düsseldorf"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Fortuna Düsseldorf: Langeneke-Liebling verzichtet auf Länderspiele",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcmFJeDZSX2ZJV3pmUE0xSjd4aXVwR1NxVmdDQjAtNTV0TmdVMVpwTGdTcDI1VlZ6MENRWEstZTlkc214ZnQ4QTF5MUtibTZ3UFJzMjBhR0ZfeHBWV1cwSmVtT2FfOFdwLTJhU01xTkZpai1XQnc0N1Jfd1N6Q2FtODBwZ0s3YW8ySExSNzVPSnNDTUtZdHFCaDNsVEc1MGdrZnMwMEYzQVczSXdIcHlJcUpTYkY4cWxJS1lQeWVHQmJfTDFIZFE?oc=5",
-    "aid": "ea0fc3d8a9",
-    "titel": "Fortuna Düsseldorf: Langeneke-Liebling verzichtet auf Länderspiele",
-    "quelle": "BILD",
-    "beschr": " Fortuna Düsseldorf: Langeneke-Liebling verzichtet auf Länderspiele &nbsp;&nbsp; BILD ",
-    "zeit": "2026-11-12T09:45"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-12T17:29",
-  "archiv": [
-   {
-    "id": "7daafcd4b8",
-    "titel": "Düsseldorfs Routiniers enttäuschen: Fabian fordert in der Länderspielpause Analyse",
-    "datum": "11.11.",
-    "stufe": "sonstiges",
-    "summary": "Düsseldorfs routinierte Neuzugänge enttäuschen bisher, nur Zimmermann und Oberdorf überzeugen. Sportdirektor Patrick Fabian kündigt in der Länderspielpause eine ehrliche Analyse an."
-   },
-   {
-    "id": "ce458dfa26",
-    "titel": "Fortuna Düsseldorf: Egouli nach Gelb-Rot außer Form",
-    "datum": "11.11.",
-    "stufe": "sonstiges",
-    "summary": "Düsseldorfs Verteidiger Elias Egouli ist seit seinem Platzverweis in Aachen außer Form. Fortuna holte seither sechs Punkte aus sieben Spielen und kassierte elf Gegentore."
-   },
-   {
-    "id": "cb0451fabc",
-    "titel": "Gerezgiher verzichtet auf Länderspielreise und bleibt in Düsseldorf",
-    "datum": "10.11.",
-    "stufe": "sonstiges",
-    "summary": "Düsseldorfs Flügelspieler Filimon Gerezgiher sagt die Länderspielreise mit Eritrea ab und bleibt in Düsseldorf. Anas Slimani ist für das Derby gegen Duisburg fraglich, Jordi Paulina lief mit Krücken."
-   }
-  ]
- },
- {
-  "id": "f5129759b1",
-  "schluessel": "fortuna koln|transfer",
-  "person": "",
-  "spieler": [],
-  "klub": "Fortuna Köln",
-  "klubs": [
-   "Fortuna Köln"
-  ],
-  "stufe": "geruecht",
-  "klasse": "transfer",
-  "titel": "Fortuna Köln: Weiter mit Matthias Mink und Gedanken an Wintertransfers",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSGNDR0xSVkFYcWVIQ0ZGSkVtY0NTQml0bkdqcWtWMHdwWGp5OGVDOEtHV2wwMFNpdk1qbVJMWVV0YnJuNkFpc1dWclRXbHVvbl8xOTRFQnQyS2doTU5HcS1QMzI5MEZ5R1ZBLUlFTWw5OWlBeXNleUJacW5GQ1NwTGwzaVUzSGJnMDBwUzZ0cVJNeUZnQ2laQUhjS3lmbUhpS3c?oc=5",
-    "aid": "d463577a23",
-    "titel": "Fortuna Köln: Weiter mit Matthias Mink und Gedanken an Wintertransfers",
-    "quelle": "Wetten.com",
-    "beschr": " Fortuna Köln: Weiter mit Matthias Mink und Gedanken an Wintertransfers &nbsp;&nbsp; Wetten.com ",
-    "zeit": "2026-11-12T15:00"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-12T17:29",
-  "archiv": []
- },
- {
-  "id": "e0bdbf71a1",
-  "schluessel": "rostock|trainer",
-  "person": "",
-  "spieler": [],
-  "klub": "Rostock",
-  "klubs": [
-   "Rostock"
-  ],
-  "stufe": "trainer_neu",
-  "klasse": "trainer",
-  "titel": "Neuer Trainer, weniger Punkte: Hansa Rostocks Breitenreiter-Effekt verpufft",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU0J2SEN6WElwVHVzNW1Ha1dDc3JSVGZWM2xyNVFzc0hfUW9HOWliUmVtNDNkUUNlemlYSEJ2czBWNjczc0VHOW85NHdiTFhQRF95c0Z5UFppbGxWRXlCQWlvUzFBLV80TF83V2tsaTZESHQxUXRBN01iMFRLaHNIdlZLT2U2MERtaG4yMDhXN2p6ZHVRVnNNOTIxSXJaNmNZb1JDRlBCLW4xV2szejJlUlViR2V2eEZucGYtd05RQQ?oc=5",
-    "aid": "c74bc2b3d5",
-    "titel": "Neuer Trainer, weniger Punkte: Hansa Rostocks Breitenreiter-Effekt verpufft",
-    "quelle": "Berliner Zeitung",
-    "beschr": " Neuer Trainer, weniger Punkte: Hansa Rostocks Breitenreiter-Effekt verpufft &nbsp;&nbsp; Berliner Zeitung ",
-    "zeit": "2026-11-12T12:00"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-12T17:29",
-  "archiv": []
+  "versuche": 2
  },
  {
   "id": "f91e0b19bc",
@@ -371,35 +207,8 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-12T17:29",
-  "archiv": []
- },
- {
-  "id": "162acd86a1",
-  "schluessel": "regensburg|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Regensburg",
-  "klubs": [
-   "Regensburg"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Freunde unter sich: Der Jahn testet gegen Blau-Weiß Linz – Heimspiel für Michael Köllner",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdXUxbHZoM0NYS2ZUZi04bGU5VVlULWRhaUllSTR1MlhUVWI2RE51QUsyNDdwU0gtT3g2c2dJb1pjZU9lVkpFZVJ3RFZqMTJMVEhZT3dkT3NnYm9yZnJlSThFNGtYcHlGLTA5WTdhMThwczRXV2xvV3dfYm5oc2FFNlhaU3plY056dGo3M25NU1ptZ1NqeUtubmcyeVhuVzY3Ujg0UUFCNks2VzR0WldMTjNmNUNlWHZkWnZHcVZmUElhUGUyaWpJOGVJODFrUkduM1UyMllwYm9ERGpNTFlKaUY1VmNlYUU?oc=5",
-    "aid": "bf820d4361",
-    "titel": "Freunde unter sich: Der Jahn testet gegen Blau-Weiß Linz – Heimspiel für Michael Köllner",
-    "quelle": "Heimatsport",
-    "beschr": " Freunde unter sich: Der Jahn testet gegen Blau-Weiß Linz – Heimspiel für Michael Köllner &nbsp;&nbsp; Heimatsport ",
-    "zeit": "2026-11-12T09:20"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-12T17:29",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "b0d78a0808",
@@ -435,7 +244,8 @@
     "stufe": "fraglich",
     "summary": "Düsseldorf will Elias Arden nach dem U19-Länderspiel am Dienstag rechtzeitig für das Niederrheinpokal-Viertelfinale gegen Duisburg zurückholen, aber nur als Joker. Anas Slimani fehlt wegen eines angeknacksten Zehs weiter."
    }
-  ]
+  ],
+  "versuche": 1
  },
  {
   "id": "0bcad49c2c",
@@ -465,91 +275,8 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-12T17:29",
-  "archiv": []
- },
- {
-  "id": "e83a308734",
-  "schluessel": "rw essen|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "RW Essen",
-  "klubs": [
-   "RW Essen"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "RWE wartet auf viel Geld von Estrela Amadora: So geht die Fifa jetzt vor",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQczd3UlhBU1hEZEloMVB6UjE3dU9QZ25FMVdkejVjNmZuTGMycEoybzRDWmp0dllPdG1rRURjS2VDSm5Wb0FOUlFuWmtZNzBQN0lHWElsZjlJajF2MkIwUVJYcGFHcUJtLVFXdkxqbUlsU29SYXExb1VOLXFETzl2cUpieFp5ZUNlTmg3NnlINmpuaWxjVUpxZlFRMEI4RlNyWVRUaE5fOVJSV2RQMDVVZER4dEMwZkZVQW9lbHdfUWpSX2J1RlppNUp6WnpKaHc?oc=5",
-    "aid": "e10e347332",
-    "titel": "RWE wartet auf viel Geld von Estrela Amadora: So geht die Fifa jetzt vor",
-    "quelle": "WAZ",
-    "beschr": " RWE wartet auf viel Geld von Estrela Amadora: So geht die Fifa jetzt vor &nbsp;&nbsp; WAZ ",
-    "zeit": "2026-11-12T11:00"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "u",
-  "erstmals": "2026-11-12T17:29",
-  "archiv": []
- },
- {
-  "id": "a215f2c808",
-  "schluessel": "rw essen|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "RW Essen",
-  "klubs": [
-   "RW Essen"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "„Jeder ist heiß“: Ex-Essener trifft im Pokal auf RWE – und traut sich Kampfansage",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdy1FV0VHbUROeGhBZzdzZnRWcjJhckF3bWlkS1BEMUY2dm80eDNhWno4bUpSV1VLNUxab1Y5LWRUajFGTDFCbWRfcGxSbGdGaWhTalhXcEp5Q3RMUHhSMFppZmdtdU9PSXE0cGpRZEwxbFZVclotaENZMFFTQ0p3NWw2ZlBHcFVTZWtyZFYyRXJXbG0xSlhhS3NWZDhjdUhQVzZneS1XaE1kVEMxZkV3cWlOYXBnMk9TYkNwU0JMZjR1VEE5bUE4Q2xHc1ZFd3dXZEhfeWRFWQ?oc=5",
-    "aid": "85d183c730",
-    "titel": "„Jeder ist heiß“: Ex-Essener trifft im Pokal auf RWE – und traut sich Kampfansage",
-    "quelle": "WAZ",
-    "beschr": " „Jeder ist heiß“: Ex-Essener trifft im Pokal auf RWE – und traut sich Kampfansage &nbsp;&nbsp; WAZ ",
-    "zeit": "2026-11-12T07:54"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-12T17:29",
-  "archiv": []
- },
- {
-  "id": "da307d078c",
-  "schluessel": "meppen|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Meppen",
-  "klubs": [
-   "Meppen"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Arminia Bielefeld schlägt SV Meppen – Anschlusstreffer kommt zu spät",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbVZQdVdWREFmSl9WekNrbTdfbXA4WjRmMmFoYlh3Z0JYNGs1NEZWbTFRdlRJWVhBT1prbHFwT01yclFwUGRtX01aajJ2ekJsZWl0eHdnZTNWSEYwSUJ2cF81aG0tZ0dyYkpBM0NINXVpWmRzM1dicDB4RHJ4RV84bnJJU1ZfSU5YbEQ0VG03NEhOZTlRTGpSejlKdUFmMTlKVzhodg?oc=5",
-    "aid": "70171a8b51",
-    "titel": "Arminia Bielefeld schlägt SV Meppen – Anschlusstreffer kommt zu spät",
-    "quelle": "FuPa ⚽️",
-    "beschr": " Arminia Bielefeld schlägt SV Meppen – Anschlusstreffer kommt zu spät &nbsp;&nbsp; FuPa ⚽️ ",
-    "zeit": "2026-11-12T15:22"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-12T17:29",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "97979dff5d",
@@ -592,35 +319,8 @@
     "stufe": "spielbericht",
     "summary": "Der SV Meppen hat Jahn Regensburg mit 2:1 geschlagen und ist seit sechs Spielen ungeschlagen. Die Tore erzielten Thorben Deters und Jonas Goldenstein."
    }
-  ]
- },
- {
-  "id": "b7c0cd1788",
-  "schluessel": "mannheim|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Mannheim",
-  "klubs": [
-   "Mannheim"
   ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "SV Waldhof Mannheim gegen SpVgg Neckarsteinach: Alle Infos zum Spiel",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQk91ZDFSazVQZGRLbE44SU94b3cwTkpSbFNLZzBMNEdxTFZCNWR5TlFETnVaRlMzOGNtVHI4OW5vMmpEeF8wWnJyd1ktenFlZ2Q0TDFvTHRUSVNMMDFxR2hhWF8tZEh2TVhZbGRlanpfZkRuTEEzOGJFN2ttVl9nVjNZWjcyV0F3Mnpyc0RrdTFpRzZBWFlMRzQ1SlpZQ3laSEJEeXRoWWxOTXVZcVNXRi1qV0ZwazRIbG0zdkw1ZnRYZHdfMXN6T0xZSWZHSFhNUW9FZTllYWtRbnR4Z0REUUhYd3hmQmZ1?oc=5",
-    "aid": "ea36108080",
-    "titel": "SV Waldhof Mannheim gegen SpVgg Neckarsteinach: Alle Infos zum Spiel",
-    "quelle": "Mannheimer Morgen",
-    "beschr": " SV Waldhof Mannheim gegen SpVgg Neckarsteinach: Alle Infos zum Spiel &nbsp;&nbsp; Mannheimer Morgen ",
-    "zeit": "2026-11-12T13:53"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-12T17:29",
-  "archiv": []
+  "versuche": 1
  },
  {
   "id": "ba2981f561",
@@ -656,35 +356,8 @@
     "stufe": "spielbericht",
     "summary": "Würzburg unterliegt Hoffenheim II zu Hause 0:1, Yasin Zor trifft in der 47. Minute. Die Kickers bleiben mit 14 Punkten auf Rang 15."
    }
-  ]
- },
- {
-  "id": "368bc7577b",
-  "schluessel": "aachen|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Aachen",
-  "klubs": [
-   "Aachen"
   ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Standesgemäß: Alemannia gewinnt deutlich beim Mittelrheinliga-Primus",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM21jMUlSX3I1aUY4ZWN5SVM3bG1XODYtc0pBcWpSOXlXTzdpanFRRXJtNHlWX29wM1BLRmpkdHRMTlE2WnhELXFlVXhLa0hoMFF3ejNTRVVpT2JtaFJlT0k5bVhqQ3NOQWlyVnNWWTRaTWJGN2dsQmg4ekgxNGZCNUhVbjNrcHRxU3Bnc2RtM2RidGJiX01ER0ptd2pFVWZjUUptLWN3?oc=5",
-    "aid": "159548e953",
-    "titel": "Standesgemäß: Alemannia gewinnt deutlich beim Mittelrheinliga-Primus",
-    "quelle": "FuPa ⚽️",
-    "beschr": " Standesgemäß: Alemannia gewinnt deutlich beim Mittelrheinliga-Primus &nbsp;&nbsp; FuPa ⚽️ ",
-    "zeit": "2026-11-12T07:58"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-12T22:18",
-  "archiv": []
+  "versuche": 1
  },
  {
   "id": "e4b05832b7",
@@ -713,7 +386,7 @@
   "status": "n",
   "erstmals": "2026-11-12T22:18",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "ad12fe00ed",
@@ -742,35 +415,7 @@
   "status": "n",
   "erstmals": "2026-11-12T22:18",
   "archiv": [],
-  "versuche": 1
- },
- {
-  "id": "e8c0c22745",
-  "schluessel": "rw essen|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "RW Essen",
-  "klubs": [
-   "RW Essen"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Estrela Amadora: Müller-Hummels-Klub reagiert auf Klage von Rot-Weiss Essen!",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM2NmNWgtaFMxUWlmQllQQ0pyTWtOWW9zcHQyZUVlb2g4MlNWQ3dlSktWRFIyeUc4cUN1MXozNHZNTlg2NDlxZVgwUDJXWkZJUGJUV00yTnN4TWljVXdUQ1l2aTgzcnlGU056YlcyZExWSzllek9vd201dl9SZGt0N0FPa2NOOXlGd25ZQUpkaGUyWG1ESUl0S04walR5LVdDSTFtNmExRV9uNU5MUFp3NGVzWEJCU1g1NHdyU3ZkTTgwM0pPeXVPR3U2NzhNRFNo?oc=5",
-    "aid": "4b6927cef6",
-    "titel": "Estrela Amadora: Müller-Hummels-Klub reagiert auf Klage von Rot-Weiss Essen!",
-    "quelle": "BILD",
-    "beschr": " Estrela Amadora: Müller-Hummels-Klub reagiert auf Klage von Rot-Weiss Essen! &nbsp;&nbsp; BILD ",
-    "zeit": "2026-11-12T17:35"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "u",
-  "erstmals": "2026-11-12T22:18",
-  "archiv": []
+  "versuche": 2
  },
  {
   "id": "01c9ff5641",
@@ -813,7 +458,8 @@
     "stufe": "spielbericht",
     "summary": "Der SV Meppen hat Jahn Regensburg mit 2:1 geschlagen und ist seit sechs Spielen ungeschlagen. Die Tore erzielten Thorben Deters und Jonas Goldenstein."
    }
-  ]
+  ],
+  "versuche": 1
  },
  {
   "id": "a9a392b64d",
@@ -841,6 +487,44 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-12T22:18",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "27e39a73f8",
+  "schluessel": "ingolstadt|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Ingolstadt",
+  "klubs": [
+   "Ingolstadt"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "Spielschema | FC Ingolstadt 04 - Wacker Innsbruck 3:1 | KW46 | Fußball-Vereine Freundschaftsspiele 2026/27",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLWNiNDk2cExKOVZ2S1VNc0gxdFhoOWVvdDdSYXZNUFdaYWpFUGo5a2hkRmNGdjhlTzdvYVROdmRrYkN0YS1YUTJvV0dpVHlpU25GOWFsbkJScHZvZ2hCRkZ5UWpEVlU1TnZvQ1p3aFdUY3NRb1pTQ3p6dW94QkE3MWRSc0ZjUm04TW5WU05XeE0wYjNTbXo4anpTX1V4VGc?oc=5",
+    "aid": "645ce65d05",
+    "titel": "Spielschema | FC Ingolstadt 04 - Wacker Innsbruck 3:1 | KW46 | Fußball-Vereine Freundschaftsspiele 2026/27",
+    "quelle": "kicker",
+    "beschr": " Spielschema | FC Ingolstadt 04 - Wacker Innsbruck 3:1 | KW46 | Fußball-Vereine Freundschaftsspiele 2026/27 &nbsp;&nbsp; kicker ",
+    "zeit": "2026-11-12T17:00"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-13T01:51",
+  "archiv": [
+   {
+    "id": "edf5dc42d5",
+    "titel": "Fortuna verspielt 2:0 Führung und verliert 2:3 gegen Ingolstadt",
+    "datum": "07.11.",
+    "stufe": "spielbericht",
+    "summary": "Fortuna Düsseldorf verliert gegen den FC Ingolstadt nach 2:0 Führung mit 2:3. Torhüter Louis Lord musste mit einer Rippenverletzung raus."
+   }
+  ],
+  "versuche": 1
  }
 ]
