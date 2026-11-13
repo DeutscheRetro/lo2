@@ -1,0 +1,223 @@
+2026-11-13 18:01:30,873 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 1 passende Treffer
+2026-11-13 18:01:30,873 INFO S7 Ersatzquelle liefert Text (120 Wörter, 1 Quellen): Kimmich nach Rückkehr: Hier am absolut richtigen Ort
+2026-11-13 18:01:30,874 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 0 passende Treffer
+2026-11-13 18:01:30,874 INFO FinalCheck SKIP: borussia mönchengladbach/{'max muster'} stage=geruecht bereits in Archiv
+2026-11-13 18:01:30,874 INFO FinalCheck SKIP: borussia mönchengladbach/set() stage=geruecht bereits in Archiv
+2026-11-13 18:01:39,825 INFO 💶 Budget: dieser Lauf 0.092 $ | heute 0.00 $ | Monat 0.12 / 8 $
+2026-11-13 18:01:39,836 INFO URL-Cache geladen: 9081 bekannte URLs (letzte 30 Tage)
+2026-11-13 18:01:39,836 INFO === LO Generator startet – max. 50 Artikel ===
+2026-11-13 18:01:39,836 INFO Feed: https://newsfeed.kicker.de/news/2-bundesliga
+2026-11-13 18:01:40,266 INFO Feed: https://www.sport.de/rss/news/
+2026-11-13 18:01:41,002 INFO Feed: https://www.11freunde.de/feed
+2026-11-13 18:01:42,585 WARNING Spielerliste nicht verfügbar: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-13 18:01:42,585 INFO BL-Spielerliste geladen: 0 Namen
+2026-11-13 18:01:42,586 INFO S3 keyword miss: DFB-Elf: Wie schlägt sich Deutschland in Serbien?
+2026-11-13 18:01:42,586 INFO S2 blacklist: Das wird am Wochenende wichtig
+2026-11-13 18:01:42,587 INFO Feed: https://news.google.com/rss/search?q=%222.+Bundesliga%22&hl=de&gl=DE&ceid=DE:de
+2026-11-13 18:01:43,383 INFO S3 keyword miss: 50+1 soll "Grundvoraussetzung" in der Bundesliga werden
+2026-11-13 18:01:43,386 INFO S3 keyword miss: Das blau-weiße Wunder von Berlin beschämt alle Experten
+2026-11-13 18:01:43,388 INFO S3 keyword miss: 2. Bundesliga 26/27: Alle Infos zum Spielplan und zu den Tei
+2026-11-13 18:01:43,389 INFO S2 blacklist: Frauen wollen vierten Sieg in Folge
+2026-11-13 18:01:43,390 INFO S2 blacklist: 2. Liga 26/27: Live-Übertragung im Fernsehen oder Stream – l
+2026-11-13 18:01:43,395 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Verletzung+Ausfall+gesperrt&hl=de&gl=DE&ceid=DE:de
+2026-11-13 18:01:43,768 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Transfer+Wechsel+verpflichtet&hl=de&gl=DE&ceid=DE:de
+2026-11-13 18:01:44,096 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Ger%C3%BCcht+Interesse+Angebot&hl=de&gl=DE&ceid=DE:de
+2026-11-13 18:01:44,430 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Vertrag+verl%C3%A4ngert+abl%C3%B6sefrei&hl=de&gl=DE&ceid=DE:de
+2026-11-13 18:01:44,750 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Trainer+Entlassung&hl=de&gl=DE&ceid=DE:de
+2026-11-13 18:01:45,153 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Heidenheim%22+OR+Heidenheim+FCH+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-13 18:01:45,481 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Kaiserslautern%22+OR+%22FCK%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-13 18:01:45,803 INFO S3 keyword miss: FCK ge­winnt Test in Straß­burg
+2026-11-13 18:01:45,806 INFO S3 keyword miss: VfR beim Letzten: Meien fehlt und warum die Länderspielpause
+2026-11-13 18:01:45,808 INFO S3 keyword miss: FCK feiert Testspiel-Coup in Straßburg – Kanaté glänzt mit D
+2026-11-13 18:01:45,810 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Magdeburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-13 18:01:46,238 INFO S3 keyword miss: Paul Jaeckel: Marktwert 2026/27
+2026-11-13 18:01:46,240 INFO S3 keyword miss: Fast eine Saison verloren! Jetzt ist dieser FCM-Profi zurück
+2026-11-13 18:01:46,240 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+N%C3%BCrnberg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-13 18:01:46,594 INFO S3 keyword miss: Mike Frantz: Bilanz gegen Gegenspieler, Trainer & Vereine
+2026-11-13 18:01:46,596 INFO S3 keyword miss: Fußball in Frankreich: Valérien Ismaël soll Le Havre vor Abs
+2026-11-13 18:01:46,597 INFO S3 keyword miss: SG Barockstadt verpflichtet erfahrenen Defensivspieler Pius 
+2026-11-13 18:01:46,600 INFO S3 keyword miss: Der Löwen-Tag: Alles Gute zum 80. Geburtstag, Schorsch Metzg
+2026-11-13 18:01:46,600 INFO Feed: https://news.google.com/rss/search?q=%22Arminia+Bielefeld%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-13 18:01:46,993 INFO S3 keyword miss: Theesen-Rückkehrer ist in der Fremde gereift
+2026-11-13 18:01:46,994 INFO Feed: https://news.google.com/rss/search?q=%22Dynamo+Dresden%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-13 18:01:47,379 INFO S2 blacklist: Dynamo Dresden 2. Liga: Gonther spricht über Transfer-Pläne 
+2026-11-13 18:01:47,382 INFO Feed: https://news.google.com/rss/search?q=%22Eintracht+Braunschweig%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-13 18:01:47,708 INFO S2 blacklist: Oberliga Niedersachsen
+2026-11-13 18:01:47,709 INFO S2 blacklist: RB-Coach bekennt: „Würde mir viele Frauen-Fußball-Spiele nic
+2026-11-13 18:01:47,709 INFO S2 blacklist: Eishockey-Frauen scheitern im WM-Viertelfinale an Finnland
+2026-11-13 18:01:47,709 INFO S2 blacklist: Fast 900 fehlerhafte Zeugnisse – und jetzt?
+2026-11-13 18:01:47,711 INFO S3 keyword miss: Seesen: Ratten befallen Polizeikommissariat
+2026-11-13 18:01:47,712 INFO Feed: https://news.google.com/rss/search?q=%22Energie+Cottbus%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-13 18:01:48,109 INFO S3 keyword miss: Landespokal Viertelfinale: Viktoria Potsdam ahnt „hartes Stü
+2026-11-13 18:01:48,110 INFO S2 blacklist: Nations League: Warum Deutschland heute vor leeren Rängen sp
+2026-11-13 18:01:48,113 INFO S3 keyword miss: NL-Eventtipps für das Wochenende in der Lausitz
+2026-11-13 18:01:48,113 INFO S2 blacklist: U19-Junioren des Halleschen FC lassen aufhorchen: Wem geling
+2026-11-13 18:01:48,115 INFO S3 keyword miss: Babelsbergs Jagd auf den Landespokal führt über den Brandenb
+2026-11-13 18:01:48,117 INFO Feed: https://news.google.com/rss/search?q=%22FC+St.+Pauli%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-13 18:01:48,446 INFO S2 blacklist: Warum die Profi-Pläne für St. Paulis Frauen plötzlich umstri
+2026-11-13 18:01:48,447 INFO S2 blacklist: (+) St. Pauli vor brisanter Versammlung: Hier droht Streit
+2026-11-13 18:01:48,450 INFO S3 keyword miss: Marcus Mathisen: Bilanz gegen Gegenspieler, Trainer & Verein
+2026-11-13 18:01:48,454 INFO S3 keyword miss: Top 25 des Song Contest: Woran Künstler und Fans Kritik üben
+2026-11-13 18:01:48,454 INFO Feed: https://news.google.com/rss/search?q=%22Hannover+96%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-13 18:01:48,820 INFO S3 keyword miss: Schnappen die Krähen zu? Drei Teams kämpfen in der Landeslig
+2026-11-13 18:01:48,820 INFO Feed: https://news.google.com/rss/search?q=%22Hertha+BSC%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-13 18:01:49,174 INFO S2 kein BL-Klub im Titel: Dortmunds Winter-Pläne: Neuer Innenverteidiger beim BVB in A
+2026-11-13 18:01:49,176 INFO Feed: https://news.google.com/rss/search?q=%22Holstein+Kiel%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-13 18:01:49,527 INFO S3 keyword miss: Kontrollen an Bahnhöfen und in Zügen - so geht die Bundespol
+2026-11-13 18:01:49,531 INFO S3 keyword miss: Kontrollen an Bahnhöfen und in Zügen - so geht die Bundespol
+2026-11-13 18:01:49,534 INFO Feed: https://news.google.com/rss/search?q=%22Karlsruher+SC%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-13 18:01:49,939 INFO S3 keyword miss: Brajan Gruda: So erlebte Marc Heidenmann seine Anfänge
+2026-11-13 18:01:49,941 INFO S3 keyword miss: Normannia empfängt die Zweitliga-Reserve – Dautaj fehlt läng
+2026-11-13 18:01:49,945 INFO S3 keyword miss: Mit viel Energie zum SC Sand II: KSV Hessen im letzten Auswä
+2026-11-13 18:01:49,946 INFO Feed: https://news.google.com/rss/search?q=%22Greuther+F%C3%BCrth%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-13 18:01:50,309 INFO S2 blacklist: Quartett um Nationalspieler Perera fehlt: SCE vor Regionalli
+2026-11-13 18:01:50,311 INFO S3 keyword miss: Mario Vuskovic: Comeback nach vierjähriger Doping-Sperre
+2026-11-13 18:01:50,314 INFO S2 kein BL-Klub im Titel: Überraschung beim DFB: HSV-Torhüter für Nationalmannschaft n
+2026-11-13 18:01:50,315 INFO S2 blacklist: Der TSV Aubstadt will zum Vorrunden-Ende raus aus dem Tabell
+2026-11-13 18:01:50,315 INFO Feed: https://news.google.com/rss/search?q=%22Darmstadt+98%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-13 18:01:50,642 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Bochum%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-13 18:01:51,005 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Osnabr%C3%BCck%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-13 18:01:51,354 INFO S2 kein BL-Klub im Titel: Transfers: Blitz-Abgänge beim 1. FC Köln & Werder Bremen?
+2026-11-13 18:01:51,356 INFO S3 keyword miss: Ethikkommission stimmt zu: Zweikampf um DOSB-Chefposten
+2026-11-13 18:01:51,358 INFO S3 keyword miss: Bier und Bratwurst im Stadion: Warum Fans beim SV Meppen bun
+2026-11-13 18:01:51,360 INFO S3 keyword miss: Schwerer Verkehrsunfall in Rieste: Auto stößt mit Kleinbus z
+2026-11-13 18:01:51,362 INFO S3 keyword miss: Verstärkung schon in diesem Winter? Schalke hat es auf diese
+2026-11-13 18:01:51,364 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Wolfsburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-13 18:01:51,786 INFO S2 blacklist: Vor dem Knaller der VfL-Frauen gegen München: Trainer Stepha
+2026-11-13 18:01:51,791 INFO S3 keyword miss: Deutscher Rekord mit 15 Jahren: VfL-Talent krönt starke Sais
+2026-11-13 18:01:51,794 INFO S3 keyword miss: Alle 105 Sekunden fällt ein Heimtor: Der MTV Vorsfelde klopf
+2026-11-13 18:01:51,796 INFO S2 kein BL-Klub im Titel: Trotz Rekordumsatz: Warum der 1. FC Köln bei den TV-Geldern 
+2026-11-13 18:01:51,799 INFO Feed: https://newsfeed.kicker.de/team/1-fc-heidenheim
+2026-11-13 18:01:51,898 INFO Feed: https://newsfeed.kicker.de/team/1-fc-nuernberg
+2026-11-13 18:01:52,116 INFO Feed: https://newsfeed.kicker.de/team/arminia-bielefeld
+2026-11-13 18:01:52,347 INFO Feed: https://newsfeed.kicker.de/team/dynamo-dresden
+2026-11-13 18:01:52,625 INFO Feed: https://newsfeed.kicker.de/team/eintracht-braunschweig
+2026-11-13 18:01:52,847 INFO Feed: https://newsfeed.kicker.de/team/fc-st-pauli
+2026-11-13 18:01:52,944 INFO Feed: https://newsfeed.kicker.de/team/hannover-96
+2026-11-13 18:01:53,165 INFO Feed: https://newsfeed.kicker.de/team/hertha-bsc
+2026-11-13 18:01:53,383 INFO Feed: https://newsfeed.kicker.de/team/holstein-kiel
+2026-11-13 18:01:53,610 INFO Feed: https://newsfeed.kicker.de/team/vfl-bochum
+2026-11-13 18:01:54,045 INFO Feed: https://newsfeed.kicker.de/team/vfl-osnabrueck
+2026-11-13 18:01:54,325 INFO Eingelesen: 56 Schlagzeilen nach den Gratis-Filtern
+2026-11-13 18:01:54,378 INFO S5 Sammelartikel: Nicht erstligareif ? : Die Union-Baustellen im Überblick
+2026-11-13 18:01:54,379 INFO S5 Sammelartikel: Der Nachrichtenüberblick im Landkreis Heidenheim am Freitag, 13. Novem
+2026-11-13 18:01:54,379 INFO S5 Sammelartikel: Bielefeld kompakt: Unfälle auf rutschigem OWD, alte Bekleidungsfabrik 
+2026-11-13 18:01:54,380 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: Vor Dynamo-Mitgliederversammlung: Unruhe trotz Rekordzahlen - Verein s
+2026-11-13 18:01:54,380 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: "Gelungener Test": Stamms Lehren aus Dynamos Prag-Testkick
+2026-11-13 18:01:54,380 INFO S5 Randthema: Energie Cottbus gegen Hertha BSC: 5x2 Tickets für das ausverkaufte Spi
+2026-11-13 18:01:54,381 INFO S5 Fan-Wahl/Nachwuchs: Miersdorf/Zeuthen: Eintracht-Nachwuchs vor vollem Fußballwochenende
+2026-11-13 18:01:54,382 INFO S5 Randthema: Auf Hertha BSC wartet eine ungewöhnliche Mitgliederversammlung
+2026-11-13 18:01:54,382 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: Kiel, Lübeck, Neumünster: Bundespolizei kontrolliert verstärkt in Bahn
+2026-11-13 18:01:54,383 INFO S5 schon berichtet (Fürth schlägt Würzburg im Testspiel 3:1, Kell): Greuther Fürth gewinnt Testspiel gegen Würzburg
+2026-11-13 18:01:54,383 INFO S5 Randthema: Darmstadt-Wissen: Testen Sie Ihr Wissen im Echo-Quiz der Woche am 6. N
+2026-11-13 18:01:54,384 INFO S5: 42 neue Geschichten, 1 schon berichtet, 2 zu wartenden Geschichten ergänzt, 10 warten
+2026-11-13 18:03:02,786 INFO S6 aussortiert (prio_1): Mit 46 hält er Hühner und spielt noch: Die Liebe führte Ex-Bundesliga-
+2026-11-13 18:03:02,786 INFO S6 aussortiert (prio_0): Testspiel: Dynamo Dresden tankt Selbstvertrauen gegen Dukla Prag
+2026-11-13 18:03:02,786 INFO S6 aussortiert (prio_0): Osnabrücker Daniel-Kofi Kyereh feiert emotionales Comeback für Ghana
+2026-11-13 18:03:02,787 INFO S6 aussortiert (prio_0): Aus XXL wird 90 Minuten: Dynamo Dresden nutzt Prags Fehler im Test
+2026-11-13 18:03:02,787 INFO S6 aussortiert (prio_1): Signierter FCK-Fisch wird versteigert
+2026-11-13 18:03:02,787 INFO S6 aussortiert (doppelt): Stadtfisch mit FCK-Autogrammen: Kaiserslautern versteigert Unikat für 
+2026-11-13 18:03:02,787 INFO S6 aussortiert (doppelt): Schwere Verletzung im Training: Jonas Föhrenbach wird dem 1. FC Heiden
+2026-11-13 18:03:02,787 INFO S6 aussortiert (prio_0): Manchester | Mauricio Pochettino neuer Trainer von Manchester United
+2026-11-13 18:03:02,788 INFO S6 aussortiert (prio_0): Das Wichtigste aus OWL: Frau in Bielefeld in Auto gezerrt & Schwänzen 
+2026-11-13 18:03:02,788 INFO S6 aussortiert (doppelt): Dynamo Dresden: Alles im Griff! B-Elf besiegt Dukla Prag mit 2:0
+2026-11-13 18:03:02,788 INFO S6 aussortiert (doppelt): Dynamo Dresden Wins Friendly Against Prague
+2026-11-13 18:03:02,788 INFO S6 aussortiert (doppelt): Dynamo-Dresden-Blog: SGD macht's im zweiten Durchgang besser
+2026-11-13 18:03:02,788 INFO S6 aussortiert (prio_0): Eintracht Braunschweig nimmt Abschied von Gerd Saborowski, Meisterspie
+2026-11-13 18:03:02,788 INFO S6 aussortiert (prio_1): „Fahne pur“ soll in die Hertha-Satzung
+2026-11-13 18:03:02,789 INFO S6 aussortiert (prio_0): Verkehrte Welt in Cottbus: Heidrich entscheidet Bruder-Duell
+2026-11-13 18:03:02,789 INFO S6 aussortiert (prio_0): Kommentar zur Managersuche bei Hannover 96: Mehr zahlen oder anders sc
+2026-11-13 18:03:02,789 INFO S6 aussortiert (prio_1): Jubelstimmung bei Hertha: Wird das 100-Punkte-Lied im Saal gesungen?
+2026-11-13 18:03:02,789 INFO S6 aussortiert (prio_0): Autobahn-Baustellen in Schleswig-Holstein, heute, 13. November 2026
+2026-11-13 18:03:02,789 INFO S6 aussortiert (prio_0): Kiel: LKA Schleswig-Holstein stellt Ermittlungsgruppe gegen Cybertradi
+2026-11-13 18:03:02,789 INFO S6 aussortiert (prio_0): Karlsruher Saatgutbibliothek muss doch nicht schließen: Umzug ins BUZO
+2026-11-13 18:03:02,790 INFO S6 aussortiert (prio_0): Zoll Karlsruhe deckt Schwarzarbeit im Nagelstudio auf: 12.600 Euro Str
+2026-11-13 18:03:02,790 INFO S6 aussortiert (prio_0): Klopp setzt auf Münchner Talente: Diese DFB-Stars haben ihre Wurzeln i
+2026-11-13 18:03:02,790 INFO S6 aussortiert (prio_0): SC Verl probiert vieles aus – und verliert beim VfL Bochum nicht nur d
+2026-11-13 18:03:02,790 INFO S6 aussortiert (doppelt): VfL Bochum 1848 - SC Verl (4-1), Club Friendly Games 2026, Internation
+2026-11-13 18:03:02,790 INFO S6 aussortiert (doppelt): SC Verl bangt nach 1:4-Niederlage beim VfL Bochum um Mika Clausen
+2026-11-13 18:03:02,790 INFO S6 aussortiert (prio_0): "Wochenende fürs Klima" in Bochum
+2026-11-13 18:03:02,791 INFO S6 aussortiert (doppelt): Spielschema | VfL Bochum - SC Verl 4:1 | KW46 | Fußball-Vereine Freund
+2026-11-13 18:03:02,791 INFO S6 aussortiert (prio_0): Vier A-Nationalspieler zeitgleich, Mbangula zurück in Deutschland
+2026-11-13 18:03:02,791 INFO S6 aussortiert (prio_0): Polizei Osnabrück: Bramsche: Polizei fahndet öffentlich nach zwei mutm
+2026-11-13 18:03:02,791 INFO S6 aussortiert (doppelt): "Jede Serie geht irgendwann zu Ende": So will Lerch die Bayern stoppen
+2026-11-13 18:03:02,791 INFO S6 aussortiert (prio_0): Zeitreise durch 22 Jahre und 1200 DEL-Spiele der Grizzlys Wolfsburg
+2026-11-13 18:03:04,250 INFO S7 kein Volltext (too_short_67_words): Schienbeinbruch: Heidenheims Föhrenbach fällt lange aus
+2026-11-13 18:03:04,556 INFO S7 Ersatzquellen für "Schock in Heidenheim: Föhrenbach fällt nach Schien": 0 passende Treffer
+2026-11-13 18:03:04,556 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Schock in Heidenheim: Föhrenbach fällt nach Schienbeinbruch 
+2026-11-13 18:03:05,248 INFO S7 kein Volltext (too_short_15_words): Hertha BSC: Ex-Hertha-Star Brooks fällt wieder aus
+2026-11-13 18:03:08,543 INFO S7 schreiben (Prio 3, 1 Quellen): Hertha BSC: Ex-Hertha-Star Brooks fällt wieder aus
+2026-11-13 18:03:11,767 INFO S7 verworfen (nicht_relevant): Hertha BSC: Ex-Hertha-Star Brooks fällt wieder aus
+2026-11-13 18:03:14,483 INFO S7 schreiben (Prio 3, 1 Quellen): Bleibt Lerch über 2027 hinaus? Wolfsburg will noch in diesem
+2026-11-13 18:03:17,765 INFO S7 verworfen (nicht_relevant): Bleibt Lerch über 2027 hinaus? Wolfsburg will noch in diesem
+2026-11-13 18:03:18,906 INFO S7 kein Volltext (too_short_8_words): Keine Atempause für 96: Diese Manager sollen Hannover stark 
+2026-11-13 18:03:19,227 INFO S7 Ersatzquellen für "Keine Atempause für 96: Diese Manager sollen Hanno": 0 passende Treffer
+2026-11-13 18:03:19,228 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Keine Atempause für 96: Diese Manager sollen Hannover stark 
+2026-11-13 18:03:20,415 INFO S7 kein Volltext (too_short_72_words): Schock für den 1. FC Heidenheim: Jonas Föhrenbach fällt lang
+2026-11-13 18:03:20,712 INFO S7 Ersatzquellen für "Schock für den 1. FC Heidenheim: Jonas Föhrenbach ": 0 passende Treffer
+2026-11-13 18:03:20,712 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Schock für den 1. FC Heidenheim: Jonas Föhrenbach fällt lang
+2026-11-13 18:03:22,126 INFO S7 schreiben (Prio 2, 1 Quellen): Treu verrät: Welche Fähigkeit er bei St. Pauli besonders ver
+2026-11-13 18:03:25,408 INFO S7 verworfen (nicht_relevant): Treu verrät: Welche Fähigkeit er bei St. Pauli besonders ver
+2026-11-13 18:03:26,394 INFO S7 schreiben (Prio 2, 1 Quellen): Neue Chance nach Drama-Wochen für St. Paulis Ando
+2026-11-13 18:03:38,232 INFO   Kandidat: St. Pauli: Oppie-Sperre öffnet Tomoya Ando den Weg zurück
+2026-11-13 18:03:41,012 INFO S7 schreiben (Prio 2, 1 Quellen): VfL Wolfsburg: Saël Kumbedi debütiert für Frankreich
+2026-11-13 18:03:47,667 INFO   Kandidat: Wolfsburgs Kumbedi debütiert für Frankreich und beerbt Treze
+2026-11-13 18:03:47,945 INFO S7 Ersatzquellen für "Edeltechniker mit Option Grätsche: Roggow will zwe": 0 passende Treffer
+2026-11-13 18:03:47,945 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Edeltechniker mit Option Grätsche: Roggow will zweite Chance
+2026-11-13 18:03:52,893 INFO S7 schreiben (Prio 2, 1 Quellen): Joker ohne Wirkung: Pleite für St. Pauli-Profi beim National
+2026-11-13 18:03:59,328 INFO   Kandidat: Ceesay bleibt bei Gambias Niederlage gegen Elfenbeinküste oh
+2026-11-13 18:04:00,404 INFO S7 schreiben (Prio 2, 1 Quellen): Lerch vor Bayern-Duell: "Jede Serie geht einmal zu Ende"
+2026-11-13 18:04:03,759 INFO S7 verworfen (nicht_relevant): Lerch vor Bayern-Duell: "Jede Serie geht einmal zu Ende"
+2026-11-13 18:04:04,782 INFO S7 kein Volltext (too_short_8_words): Hattrick für Hannover: Das hat 96-Trainer Sandro Wagner mit 
+2026-11-13 18:04:05,085 INFO S7 Ersatzquellen für "Hattrick für Hannover: Das hat 96-Trainer Sandro W": 0 passende Treffer
+2026-11-13 18:04:05,085 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Hattrick für Hannover: Das hat 96-Trainer Sandro Wagner mit 
+2026-11-13 18:04:06,236 INFO S7 kein Volltext (too_short_31_words): „Müssen die Wahrheit vertragen“: Warum Fürths Trainer schlec
+2026-11-13 18:04:06,496 INFO S7 Ersatzquellen für "„Müssen die Wahrheit vertragen“: Warum Fürths Trai": 0 passende Treffer
+2026-11-13 18:04:06,496 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): „Müssen die Wahrheit vertragen“: Warum Fürths Trainer schlec
+2026-11-13 18:04:07,664 INFO S7 kein Volltext (too_short_38_words): VfL Osnabrück: Hat das Warten auf die „zweite Reihe“ jetzt e
+2026-11-13 18:04:07,952 INFO S7 Ersatzquellen für "VfL Osnabrück: Hat das Warten auf die „zweite Reih": 0 passende Treffer
+2026-11-13 18:04:07,952 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): VfL Osnabrück: Hat das Warten auf die „zweite Reihe“ jetzt e
+2026-11-13 18:04:08,523 INFO S7 kein Volltext (too_short_75_words): VfL Bochum: Ouro-Tagba überragt mit Hattrick, Verl bangt vor
+2026-11-13 18:04:08,797 INFO S7 Ersatzquellen für "VfL Bochum: Ouro-Tagba überragt mit Hattrick, Verl": 0 passende Treffer
+2026-11-13 18:04:08,797 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): VfL Bochum: Ouro-Tagba überragt mit Hattrick, Verl bangt vor
+2026-11-13 18:04:09,430 INFO S7 kein Volltext (too_short_8_words): Hannover 96 sucht Sportdirektor: Manager-Entscheidung eine F
+2026-11-13 18:04:09,709 INFO S7 Ersatzquellen für "Hannover 96 sucht Sportdirektor: Manager-Entscheid": 0 passende Treffer
+2026-11-13 18:04:09,710 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Hannover 96 sucht Sportdirektor: Manager-Entscheidung eine F
+2026-11-13 18:04:10,815 INFO S7 kein Volltext (too_short_47_words): Hannover 96: Nächster Rückschlag bei der Suche nach einem Sp
+2026-11-13 18:04:11,097 INFO S7 Ersatzquellen für "Hannover 96: Nächster Rückschlag bei der Suche nac": 0 passende Treffer
+2026-11-13 18:04:11,097 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Hannover 96: Nächster Rückschlag bei der Suche nach einem Sp
+2026-11-13 18:04:11,402 INFO S7 Ersatzquellen für "Auf dem Sprung: Die Frage, die sich bei Shiogai au": 0 passende Treffer
+2026-11-13 18:04:11,402 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Auf dem Sprung: Die Frage, die sich bei Shiogai aufdrängt
+2026-11-13 18:04:11,874 WARNING discarding data: None
+2026-11-13 18:04:11,875 INFO S7 kein Volltext (trafilatura_returned_empty): VfL Wolfsburg nimmt Verhandlungen über Verpflichtung von Tal
+2026-11-13 18:04:12,532 INFO S7 Ersatzquellen für "VfL Wolfsburg nimmt Verhandlungen über Verpflichtu": 0 passende Treffer
+2026-11-13 18:04:12,532 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): VfL Wolfsburg nimmt Verhandlungen über Verpflichtung von Tal
+2026-11-13 18:04:13,171 ERROR lxml parsing failed: Document is empty
+2026-11-13 18:04:13,171 ERROR lxml parser bytestring Document is empty
+2026-11-13 18:04:13,171 ERROR lxml parsing failed: Document is empty
+2026-11-13 18:04:13,171 ERROR lxml parser bytestring Document is empty
+2026-11-13 18:04:13,172 ERROR empty HTML tree: None
+2026-11-13 18:04:13,172 WARNING discarding data: None
+2026-11-13 18:04:13,173 INFO S7 kein Volltext (trafilatura_returned_empty): Bayerns Upamecano reist von Nationalteam ab – Kumbedi gibt F
+2026-11-13 18:04:13,694 INFO S7 Ersatzquellen für "Bayerns Upamecano reist von Nationalteam ab – Kumb": 1 passende Treffer
+2026-11-13 18:04:14,219 ERROR lxml parsing failed: Document is empty
+2026-11-13 18:04:14,219 ERROR lxml parser bytestring Document is empty
+2026-11-13 18:04:14,219 ERROR lxml parsing failed: Document is empty
+2026-11-13 18:04:14,219 ERROR lxml parser bytestring Document is empty
+2026-11-13 18:04:14,219 ERROR empty HTML tree: None
+2026-11-13 18:04:14,219 WARNING discarding data: None
+2026-11-13 18:04:14,220 INFO S7 kein Volltext (trafilatura_returned_empty): Bayerns Upamecano reist von Nationalteam ab – Kumbedi gibt F
+2026-11-13 18:04:14,221 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Bayerns Upamecano reist von Nationalteam ab – Kumbedi gibt F
+2026-11-13 18:04:17,164 INFO S7 schreiben (Prio 2, 1 Quellen): „Reden wir im Februar drüber“: Publikumsliebling lässt seine
+2026-11-13 18:04:20,644 INFO S7 verworfen (nicht_relevant): „Reden wir im Februar drüber“: Publikumsliebling lässt seine
+2026-11-13 18:04:20,649 INFO S9.5 FinalCheck: 3/3 durch
+2026-11-13 18:04:21,721 INFO Veröffentlicht: St. Pauli: Oppie-Sperre öffnet Tomoya Ando den Weg zurück
+2026-11-13 18:04:21,790 INFO Veröffentlicht: Wolfsburgs Kumbedi debütiert für Frankreich und beerbt Treze
+2026-11-13 18:04:21,860 INFO Veröffentlicht: Ceesay bleibt bei Gambias Niederlage gegen Elfenbeinküste oh
+2026-11-13 18:04:21,864 WARNING Sitemap ohne Spielerseiten: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-13 18:04:21,867 INFO 💶 Kosten: dieser Lauf 0.000 $ (Budget 0.092 $) | heute 0.00 $ | Monat 0.12 / 8 $ | konferenz (abo) 1× 0.000 $, dublette (abo) 6× 0.000 $, schreiben (abo) 8× 0.000 $
+2026-11-13 18:04:21,867 INFO 🎫 Abo-Verbrauch: 63,986 Tokens rein (davon Cache gelesen 9,758), 14,697 raus, API-Gegenwert 0.31 $ | konferenz 1×: 4,190/9,467, dublette 6×: 7,078/21, schreiben 8×: 52,718/5,209
+2026-11-13 18:04:21,877 INFO Feeds: 38/38 begonnen, nächster Lauf startet bei Nr. 0
+2026-11-13 18:04:21,877 INFO URL-Cache gespeichert: 9193 URLs
+2026-11-13 18:04:21,878 INFO === Fertig. 3 neue Artikel. feed.json: 124 ===
+2026-11-13 18:04:21,878 INFO Stats: {"ts": "20261113_1801", "ingested": 112, "s2_pre_filter": 22, "s3_relevance": 33, "s4_dedup_early": 0, "gesammelt": 56, "geschichten_neu": 42, "s5_archiv_doppelt": 1, "s5_zusammengefuehrt": 2, "s6_aussortiert": 31, "s7_geschrieben": 8, "s7_verworfen": 5, "s5_fulltext_fail": 13, "s8_qa_rejected": 0, "published": 3, "s5_randthema": 7, "s5_ohne_bezug": 3, "kosten": {"lauf_usd": 0.0, "lauf_budget_usd": 0.0916, "heute_usd": 0.0, "monat_usd": 0.1202, "monatsbudget_usd": 8.0, "aufrufe": {"konferenz (abo)": {"anzahl": 1, "usd": 0.0}, "dublette (abo)": {"anzahl": 6, "usd": 0.0}, "schreiben (abo)": {"anzahl": 8, "usd": 0.0}}, "guthaben_leer": false, "abo": true, "abo_tokens": {"konferenz": {"aufrufe": 1, "ein": 10, "cache_schreiben": 4180, "cache_lesen": 0, "aus": 9467, "api_wert_usd": 0.0557}, "dublette": {"aufrufe": 6, "ein": 12, "cache_schreiben": 7066, "cache_lesen": 0, "aus": 21, "api_wert_usd": 0.0285}, "schreiben": {"aufrufe": 8, "ein": 16, "cache_schreiben": 42944, "cache_lesen": 9758, "aus": 5209, "api_wert_usd": 0.225}}}}

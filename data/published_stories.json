@@ -2731,5 +2731,70 @@
     },
     "published_at": "2026-11-13T09:03:41.826386",
     "source": "ka-news"
+  },
+  {
+    "id": "9082408cf9",
+    "generated_title": "St. Pauli: Oppie-Sperre öffnet Tomoya Ando den Weg zurück",
+    "original_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSDJCZG5lemdhTzhqVHRTaVpMRDdJWkNJbWxyNXJ5dkJjV0pvRWxqSlhrdE5TNjh5SlVkeS1fOGlDMXRaQXFtWVlZdFJDV1VIMGhnc29HUnJmSFRSd3d2VFpJbWxKVXA1QmFLLXc3QlZ2NmJPeTZLdHZJY3VtdnJtZmY0WndqcXlqdHRaMmNpN3pSTVJfWF9JZ2F2Wm9YUDZIQ000Y0NHZ21BM3pyRUE?oc=5",
+    "fingerprint": {
+      "event_type": "aufstellung",
+      "main_club": "St. Pauli",
+      "event_stage": "kader",
+      "main_teams": [
+        "St. Pauli"
+      ],
+      "main_players": [
+        "Tomoya Ando",
+        "Louis Oppie",
+        "Marcel Rapp"
+      ],
+      "summary": "Louis Oppie fehlt St. Pauli nach seiner Roten Karte in Magdeburg gegen Bochum und in Dresden. Tomoya Ando könnte nach fünf Spielen ohne Einsatz in die Startelf zurückkehren.",
+      "one_sentence_summary": "Louis Oppie fehlt St.",
+      "schluessel": "tomoya ando|kader"
+    },
+    "published_at": "2026-11-13T18:04:21.717056",
+    "source": "MOPO"
+  },
+  {
+    "id": "50d28cfdd6",
+    "generated_title": "Wolfsburgs Kumbedi debütiert für Frankreich und beerbt Trezeguet",
+    "original_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTXJuSmFIOU1pTDBxYjJ5ckg3M21EbVE5blRheHhJWGdwRGlpclhoMDJiTTJsS19nazFuMlpETy1FSzg4WVdobm80NGxEUFhSaWF4a3I0WVpZSG5rN0trV3oydTNzaEQyblhDU1ZIdUhIb2ZtcFAzZEpCODdFOXlJR19XRWJBb21ORWYyWEFIS0kzeTZYaVlLaE53RGJkbWo5S01CSHNnMGtZS0Rw?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Wolfsburg",
+      "event_stage": "sonstiges",
+      "main_teams": [
+        "Wolfsburg"
+      ],
+      "main_players": [
+        "Saël Kumbedi"
+      ],
+      "summary": "Wolfsburgs Saël Kumbedi hat beim 1:3 in Italien sein Debüt für Frankreichs A-Nationalmannschaft gegeben. Er ist der erste aktive Zweitliga-Spieler seit fast 20 Jahren im Kader der Equipe Tricolore.",
+      "one_sentence_summary": "Wolfsburgs Saël Kumbedi hat beim 1:3 in Italien sein Debüt für Frankreichs A-Nationalmannschaft gegeben.",
+      "schluessel": "sael kumbedi|sonstiges"
+    },
+    "published_at": "2026-11-13T18:04:21.785551",
+    "source": "Bundesliga | official website"
+  },
+  {
+    "id": "90828e1e6f",
+    "generated_title": "Ceesay bleibt bei Gambias Niederlage gegen Elfenbeinküste ohne Wirkung",
+    "original_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVENRY1ZabXhnclJyRmJ0cGNubHB3SjNkVlY0R295bnVBY3laQnFFT0VKUmM4dFRRdUhrby1mQTQyUU5iSUdwbjJubnZUelZkVEJoaEV1TkhoOWVvVTJrN1ZNNXBaMU9OT05TZUU4Q0p0R2FLVWozVmhhT3dia3h2NllYUFl4cUdQTFFBNVRmWE93SzN0VTE0dlZZRW85RzJHbWFPZ2JZdGQ?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "St. Pauli",
+      "event_stage": "sonstiges",
+      "main_teams": [
+        "St. Pauli"
+      ],
+      "main_players": [
+        "Abdoulie Ceesay"
+      ],
+      "summary": "St. Paulis Stürmer Abdoulie Ceesay unterliegt mit Gambia in der Afrika-Cup-Qualifikation der Elfenbeinküste. Er wird in der 63. Minute eingewechselt, Gambia bleibt Zweiter in Gruppe C.",
+      "one_sentence_summary": "St.",
+      "schluessel": "abdoulie ceesay|sonstiges"
+    },
+    "published_at": "2026-11-13T18:04:21.855886",
+    "source": "StPauli24"
   }
 ]
