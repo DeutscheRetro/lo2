@@ -1,293 +1,5 @@
 [
  {
-  "id": "f91e0b19bc",
-  "schluessel": "rostock|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Rostock",
-  "klubs": [
-   "Rostock"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Hansa Rostock: Die Länderspielpause kommt Hansa sehr gelegen",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLWhtVkdUYWNmdjhkLXJBV1VEdzB6eTRiUmVHdTBlRktCMW5OalNUa2JlYWdaVzBHQ3AwSW96MUZrOXdvMFJwc211Qko1Vk9sSFRpbzA2bWlWR2lrcUlQaE5fTXVzNlVQcnRhb0pfVGtLcnNzMDlkUGNpb0VsTVJQbmJJM2VJTHc2d1VXS1pJaWdZXzQzR0d2QXhSSFc0S3ZaSzVGZkxyVW90RFhRaDM2RDVyYmExT3FaVzBickJ0T0ZVZHNfdjFMNG1RUDRIN0taODhZ0gHvAUFVX3lxTE9WOW9DTTUwOHBVWm1KTVM3SWlrNjlSZDhFRmpuMlRKOHotTk0wS1lrLXFCMWJublRLN0ZnN2MxcnFGVEpzRXNxWVhzd2VVbVBmMmo0ODl5a01LX25yVG5vNmR3S1NxdUxudmRjWTQ2T05oUkZ5MklNODVrYjhoSlpoYlNueTd3ZGRKYjdNeU9HNk1LSm9LRFZJN3dEQUFHS0VhUzd4NjJ2NVpUYnE2QUhOOHE0SGVxNURjaFBMd1dRV1F3NFY2QUxBRGN6VGdvY0x4YVhpb2RHcXdRYXpwVXpNbmlsckxwODYwSUFpNnBj?oc=5",
-    "aid": "48b2558d4f",
-    "titel": "Hansa Rostock: Die Länderspielpause kommt Hansa sehr gelegen",
-    "quelle": "Ostsee Zeitung",
-    "beschr": " Hansa Rostock: Die Länderspielpause kommt Hansa sehr gelegen &nbsp;&nbsp; Ostsee Zeitung ",
-    "zeit": "2026-11-12T17:03"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-12T17:29",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "b0d78a0808",
-  "schluessel": "duisburg|verletzung",
-  "person": "",
-  "spieler": [],
-  "klub": "Duisburg",
-  "klubs": [
-   "Duisburg"
-  ],
-  "stufe": "rueckkehr",
-  "klasse": "verletzung",
-  "titel": "MSV Duisburg: Rückfall, Rückkehrer, Derby-Fieber – so läuft die Länderspielpause bei den Zebras",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTE4wVG1pbEFxOE9MdzhVZ1A5X0sxRWxwMVpSZ3gyWEZhY2p4ODA0MXY4SDk2ZVlMcUlnT1NRQ3FXSmpseElxb2ZfN1IxZTdUTk5MVjhmUGVyaWJaU25fRmVhM3BQWFl3UFV3WmpURnJGcmhvSGM4bkpObkVIXzdxVTRESkhBUmNBdWJFS3BLR2NsS09mb2dDV0JHWVNiZ25ScEcwQkxodlo0SzVLcHU2UHBRYXVRRXF4eThXUVBaWlpOOGNwRGRFUDhDcEhaNzNwOVcxUnY1SQ?oc=5",
-    "aid": "da12c07676",
-    "titel": "MSV Duisburg: Rückfall, Rückkehrer, Derby-Fieber – so läuft die Länderspielpause bei den Zebras",
-    "quelle": "RevierSport online",
-    "beschr": " MSV Duisburg: Rückfall, Rückkehrer, Derby-Fieber – so läuft die Länderspielpause bei den Zebras &nbsp;&nbsp; RevierSport online ",
-    "zeit": "2026-11-12T13:43"
-   }
-  ],
-  "archiv_status": "update",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-12T17:29",
-  "archiv": [
-   {
-    "id": "9003b29769",
-    "titel": "Düsseldorf plant im Pokal gegen Duisburg mit U19-Talent Arden",
-    "datum": "10.11.",
-    "stufe": "fraglich",
-    "summary": "Düsseldorf will Elias Arden nach dem U19-Länderspiel am Dienstag rechtzeitig für das Niederrheinpokal-Viertelfinale gegen Duisburg zurückholen, aber nur als Joker. Anas Slimani fehlt wegen eines angeknacksten Zehs weiter."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "0bcad49c2c",
-  "schluessel": "rw essen|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "RW Essen",
-  "klubs": [
-   "RW Essen",
-   "Aachen",
-   "Duisburg"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "In Essen und gegen Aachen: Das wird ein heißer Dezember für den MSV Duisburg",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96TmM5dTRkTjJkZjhBUkZWaXJuMW1vbm93dHFUZEpQdm4xUkR4eE9pZ2xQRlBXM2k2dGVSQXd4UkNSUEhJbHRqUTAwN096Vmc1NWFFWVIzbVJEbWpJRjcxTURtRER5blRoYTJHUg?oc=5",
-    "aid": "bcc11b18a2",
-    "titel": "In Essen und gegen Aachen: Das wird ein heißer Dezember für den MSV Duisburg",
-    "quelle": "NRZ",
-    "beschr": " In Essen und gegen Aachen: Das wird ein heißer Dezember für den MSV Duisburg &nbsp;&nbsp; NRZ ",
-    "zeit": "2026-11-12T16:21"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-12T17:29",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "97979dff5d",
-  "schluessel": "meppen|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Meppen",
-  "klubs": [
-   "Meppen"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Der SV Meppen reist ohne sechs Profis zum Testspiel gegen den Zweitligisten Arminia Bielefeld",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVXpzelVnWkVBZmRKWFMtc1VaRllZM0hQc3gtOUVZQXJyV3RQOGo0SF82bU1OSFpuenhyYUhtYkRfc1BGMFp5S1I4SlcyVTVjNzc4Wm5ZMWFYeG5fQVpNVlFSZ21IRGtxQS1qbm5lV3hlazV1cm5nYVRRN0VhMnhuM3dQc3VBX2JUR2RlTGMtUlRxR1lMWHZybHV6cUYyY0oxa0FaTXRoT2hPTmxyT0E?oc=5",
-    "aid": "f60d6dca1c",
-    "titel": "Der SV Meppen reist ohne sechs Profis zum Testspiel gegen den Zweitligisten Arminia Bielefeld",
-    "quelle": "noz.de",
-    "beschr": " Der SV Meppen reist ohne sechs Profis zum Testspiel gegen den Zweitligisten Arminia Bielefeld &nbsp;&nbsp; noz.de ",
-    "zeit": "2026-11-12T06:31"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-12T17:29",
-  "archiv": [
-   {
-    "id": "0ecaa6239d",
-    "titel": "Regensburg verliert in Meppen 1:2 und bleibt im Tabellenkeller",
-    "datum": "09.11.",
-    "stufe": "spielbericht",
-    "summary": "Regensburg verliert beim SV Meppen 1:2 und steht mit 13 Punkten aus 13 Spielen auf Platz 16. Gegen Blau-Weiß Linz folgt ein Test, im nächsten Ligaspiel fehlen Bauer und Wurm."
-   },
-   {
-    "id": "c8c50d68ef",
-    "titel": "Meppen schlägt Regensburg 2:1 und bleibt seit sechs Spielen ungeschlagen",
-    "datum": "08.11.",
-    "stufe": "spielbericht",
-    "summary": "Der SV Meppen hat Jahn Regensburg mit 2:1 geschlagen und ist seit sechs Spielen ungeschlagen. Die Tore erzielten Thorben Deters und Jonas Goldenstein."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "ba2981f561",
-  "schluessel": "wurzburg|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Würzburg",
-  "klubs": [
-   "Würzburg"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Fußball: Testspiel: Die Würzburger Kickers unterliegen in Fürth mit 1:3 und gewinnen Erkenntnisse",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWUJQTEkxcGRDakhONVh2RG82a2d5dDZwaHBOVEg5a3dLODVGMDZhc0tZdmxQajNDeFJIb0FHMURCYXNjUXA3STM1TzdQSy12R3czYmJ6YnptZHdvcEtSMnE3OHhtaVRiZ2wxSTVzbHZKN04zdWFZU2NaUzRfRmRaQVg3dWxLZ2VETUlQWTVTOTY3aTBLQV8wQmFlYktEWkctN0JxeVhzbmRDUkQ5YVNzRHFvSnFNdWk1UWo2SHI2akdIQVhLTmxGOFhxNGF1WHNic1RGMzlKLXNUZ3pIRUM4ZEpR?oc=5",
-    "aid": "ead73f6786",
-    "titel": "Fußball: Testspiel: Die Würzburger Kickers unterliegen in Fürth mit 1:3 und gewinnen Erkenntnisse",
-    "quelle": "Main-Post",
-    "beschr": " Fußball: Testspiel: Die Würzburger Kickers unterliegen in Fürth mit 1:3 und gewinnen Erkenntnisse &nbsp;&nbsp; Main-Post ",
-    "zeit": "2026-11-12T16:49"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-12T17:29",
-  "archiv": [
-   {
-    "id": "e345ce2574",
-    "titel": "Würzburg verliert gegen Hoffenheim II: Zor trifft früh nach der Pause",
-    "datum": "10.11.",
-    "stufe": "spielbericht",
-    "summary": "Würzburg unterliegt Hoffenheim II zu Hause 0:1, Yasin Zor trifft in der 47. Minute. Die Kickers bleiben mit 14 Punkten auf Rang 15."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "01c9ff5641",
-  "schluessel": "meppen|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Meppen",
-  "klubs": [
-   "Meppen"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Testspiel: DSC Arminia vs. SV Meppen (2:1)",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTHVBRlNfR3JuXzZwVk84M1Q2NW9aUWE1bWQyaFBwbzdkN2dTc1htTW82OGs5bEYzclZSM21FZTdiNHFoeXZiMkRGOXZ6Um9xR0NqR2lsc2ZrZWloOFZxYkxvaGtOdkgzc0tvWFh4cGx4dVZVUHNQWmZtVWd3VVpIZVo2LXFkRU5yQ1lOb3JJcW9TR3JjWGNlUG00SmJqVnpMcmxwUGtGYVp5TmxDZkE?oc=5",
-    "aid": "b0051938b5",
-    "titel": "Testspiel: DSC Arminia vs. SV Meppen (2:1)",
-    "quelle": "Westfalen-Blatt",
-    "beschr": " Testspiel: DSC Arminia vs. SV Meppen (2:1) &nbsp;&nbsp; Westfalen-Blatt ",
-    "zeit": "2026-11-12T17:34"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-12T22:18",
-  "archiv": [
-   {
-    "id": "0ecaa6239d",
-    "titel": "Regensburg verliert in Meppen 1:2 und bleibt im Tabellenkeller",
-    "datum": "09.11.",
-    "stufe": "spielbericht",
-    "summary": "Regensburg verliert beim SV Meppen 1:2 und steht mit 13 Punkten aus 13 Spielen auf Platz 16. Gegen Blau-Weiß Linz folgt ein Test, im nächsten Ligaspiel fehlen Bauer und Wurm."
-   },
-   {
-    "id": "c8c50d68ef",
-    "titel": "Meppen schlägt Regensburg 2:1 und bleibt seit sechs Spielen ungeschlagen",
-    "datum": "08.11.",
-    "stufe": "spielbericht",
-    "summary": "Der SV Meppen hat Jahn Regensburg mit 2:1 geschlagen und ist seit sechs Spielen ungeschlagen. Die Tore erzielten Thorben Deters und Jonas Goldenstein."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "a9a392b64d",
-  "schluessel": "wurzburg|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Würzburg",
-  "klubs": [
-   "Würzburg"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "FC Würzburger Kickers - Spielbericht | SpVgg Greuther Fürth",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaTZZZzNsX1BobVd4OEItOTRKMmlFWjItdmVFQUg2bEhJMzhabE44ZV9paWYyb2d4YkVDWVM5cTlFNm9DZnZPSzJlVXRhSXBMXzF4QVNaRERCRGR1SmJWenZMakhpMnBWdmRMN01pbzNFOGw1VEV3Y2Y3QnZhVlhwZnpkV1VzQQ?oc=5",
-    "aid": "5e60e2d669",
-    "titel": "FC Würzburger Kickers - Spielbericht | SpVgg Greuther Fürth",
-    "quelle": "SpVgg Greuther Fürth",
-    "beschr": " FC Würzburger Kickers - Spielbericht | SpVgg Greuther Fürth &nbsp;&nbsp; SpVgg Greuther Fürth ",
-    "zeit": "2026-11-12T05:00"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-12T22:18",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "27e39a73f8",
-  "schluessel": "ingolstadt|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Ingolstadt",
-  "klubs": [
-   "Ingolstadt"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Spielschema | FC Ingolstadt 04 - Wacker Innsbruck 3:1 | KW46 | Fußball-Vereine Freundschaftsspiele 2026/27",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLWNiNDk2cExKOVZ2S1VNc0gxdFhoOWVvdDdSYXZNUFdaYWpFUGo5a2hkRmNGdjhlTzdvYVROdmRrYkN0YS1YUTJvV0dpVHlpU25GOWFsbkJScHZvZ2hCRkZ5UWpEVlU1TnZvQ1p3aFdUY3NRb1pTQ3p6dW94QkE3MWRSc0ZjUm04TW5WU05XeE0wYjNTbXo4anpTX1V4VGc?oc=5",
-    "aid": "645ce65d05",
-    "titel": "Spielschema | FC Ingolstadt 04 - Wacker Innsbruck 3:1 | KW46 | Fußball-Vereine Freundschaftsspiele 2026/27",
-    "quelle": "kicker",
-    "beschr": " Spielschema | FC Ingolstadt 04 - Wacker Innsbruck 3:1 | KW46 | Fußball-Vereine Freundschaftsspiele 2026/27 &nbsp;&nbsp; kicker ",
-    "zeit": "2026-11-12T17:00"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-13T01:51",
-  "archiv": [
-   {
-    "id": "edf5dc42d5",
-    "titel": "Fortuna verspielt 2:0 Führung und verliert 2:3 gegen Ingolstadt",
-    "datum": "07.11.",
-    "stufe": "spielbericht",
-    "summary": "Fortuna Düsseldorf verliert gegen den FC Ingolstadt nach 2:0 Führung mit 2:3. Torhüter Louis Lord musste mit einer Rippenverletzung raus."
-   }
-  ],
-  "versuche": 2
- },
- {
   "id": "c17551006b",
   "schluessel": "aachen|sonstiges",
   "person": "",
@@ -314,7 +26,7 @@
   "status": "n",
   "erstmals": "2026-11-13T16:50",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "811282862e",
@@ -352,7 +64,7 @@
     "summary": "Hansa Rostock spielt am 14. November im Landespokal-Achtelfinale beim Sechstligisten Penzliner SV. Der Einsatz von Luca Unbehaun ist fraglich, Benno Dietze und Emil Holten fehlen wohl."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "3362ed40e2",
@@ -381,7 +93,7 @@
   "status": "n",
   "erstmals": "2026-11-13T16:50",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "b7e9901128",
@@ -410,7 +122,7 @@
   "status": "n",
   "erstmals": "2026-11-13T16:50",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "5048187954",
@@ -447,7 +159,7 @@
     "summary": "Preußen Münster steht nach 13 Spielen der 3. Liga auf Rang 14 und hat 25 Gegentore kassiert. Offensive, Torhüterposition und eine lange Verletztenliste belasten das Team von Trainer Thomas Wörle."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "71a1f20299",
@@ -476,7 +188,7 @@
   "status": "n",
   "erstmals": "2026-11-13T16:50",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "c1198adeb5",
@@ -505,6 +217,144 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-13T16:50",
+  "archiv": [],
+  "versuche": 2
+ },
+ {
+  "id": "1cd511c924",
+  "schluessel": "munster|verletzung",
+  "person": "",
+  "spieler": [],
+  "klub": "Münster",
+  "klubs": [
+   "Münster"
+  ],
+  "stufe": "rueckkehr",
+  "klasse": "verletzung",
+  "titel": "Klublegende, Pechvogel - Helfer in der Not? Wie Münster mit Scherder nach Rückkehr plant",
+  "quellen": [
+   {
+    "url": "https://www.kicker.de/klublegende-pechvogel-helfer-in-der-not-wie-muenster-mit-scherder-nach-rueckkehr-plant-1271195/artikel#omrss",
+    "aid": "4efe5aae47",
+    "titel": "Klublegende, Pechvogel - Helfer in der Not? Wie Münster mit Scherder nach Rückkehr plant",
+    "quelle": "kicker 3. Liga News",
+    "beschr": "Zwei Kreuzbandrisse stoppten Simon Scherder zuletzt. Nun kehrte der Routinier jedoch zurück und könnte in der derzeit kniffligen Lage von Preußen Münster eine wichtige Rolle einnehmen.",
+    "zeit": "2026-11-13T17:00"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "u",
+  "erstmals": "2026-11-13T21:45",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "91e7f957f5",
+  "schluessel": "rw essen|transfer",
+  "person": "",
+  "spieler": [],
+  "klub": "RW Essen",
+  "klubs": [
+   "RW Essen"
+  ],
+  "stufe": "geruecht",
+  "klasse": "transfer",
+  "titel": "Rot-Weiss Essen: RWE-Kader wird immer dünner - Zwei Wackelkandidaten gegen Ratingen",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQW8zOWh6WUNIYWxVcUhjZ2h6cU43MW9FNTk5ZEhmNTBOeTViN2xCaHBnVnU4bEhCajVTaWVUM1JITkVrODJkVS1IdGJpNVBQcERRTmx4WUVsWHRxUHlocXVyWi05amxsRzBmdV9mNFQzdnUtOU9LWFRjMFYwX3dBT2pzaDJpY1U1dTN3dFMtclRVYnlYQ3Zfa3JrX2F4aFhBSzMwY0hnWlRzVUI2Yy11V0xmRXlDR1g2Ukd6T01DMS0yYnNuUkIyVnB0ckU4cUQ3cEk3WXpMbk1hd1d3SmNv?oc=5",
+    "aid": "b7f59143c5",
+    "titel": "Rot-Weiss Essen: RWE-Kader wird immer dünner - Zwei Wackelkandidaten gegen Ratingen",
+    "quelle": "RevierSport online",
+    "beschr": " Rot-Weiss Essen: RWE-Kader wird immer dünner - Zwei Wackelkandidaten gegen Ratingen &nbsp;&nbsp; RevierSport online ",
+    "zeit": "2026-11-13T18:01"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "u",
+  "erstmals": "2026-11-13T21:45",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "0f738989ab",
+  "schluessel": "regensburg|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Regensburg",
+  "klubs": [
+   "Regensburg"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "Auswärtstest in Regensburg endet mit Niederlage",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZkxueV9aMG5FcVFHSUtGelY0SXlqVnA4aW4tWkZXdnVESXBzYTNEckhmNE5fUVVVclcyS2lxc09fX29ZYVJNbWRiZHJxM0FuTlZFMXYtQ0E3ZlpYUUdaV3VtaDQyQ3BmUFBrV2otT1BBV1JyVW8weThuenRfOWEyR1NNZWtnb0k?oc=5",
+    "aid": "4fc46bc552",
+    "titel": "Auswärtstest in Regensburg endet mit Niederlage",
+    "quelle": "FC Blau-Weiß Linz",
+    "beschr": " Auswärtstest in Regensburg endet mit Niederlage &nbsp;&nbsp; FC Blau-Weiß Linz ",
+    "zeit": "2026-11-13T17:01"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-13T21:45",
+  "archiv": [
+   {
+    "id": "274e8d4885",
+    "titel": "Jahn Regensburg schlägt Blau-Weiß Linz im Test 2:0",
+    "datum": "13.11.",
+    "stufe": "spielbericht",
+    "summary": "Jahn Regensburg gewinnt das Testspiel gegen Blau-Weiß Linz 2:0 durch Tore von Marco Wörner und Jakob Seibold. Robin Ziegele verletzte sich kurz vor der Pause."
+   },
+   {
+    "id": "0ecaa6239d",
+    "titel": "Regensburg verliert in Meppen 1:2 und bleibt im Tabellenkeller",
+    "datum": "09.11.",
+    "stufe": "spielbericht",
+    "summary": "Regensburg verliert beim SV Meppen 1:2 und steht mit 13 Punkten aus 13 Spielen auf Platz 16. Gegen Blau-Weiß Linz folgt ein Test, im nächsten Ligaspiel fehlen Bauer und Wurm."
+   },
+   {
+    "id": "c8c50d68ef",
+    "titel": "Meppen schlägt Regensburg 2:1 und bleibt seit sechs Spielen ungeschlagen",
+    "datum": "08.11.",
+    "stufe": "spielbericht",
+    "summary": "Der SV Meppen hat Jahn Regensburg mit 2:1 geschlagen und ist seit sechs Spielen ungeschlagen. Die Tore erzielten Thorben Deters und Jonas Goldenstein."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "aa31bc2757",
+  "schluessel": "regensburg|verletzung",
+  "person": "",
+  "spieler": [],
+  "klub": "Regensburg",
+  "klubs": [
+   "Regensburg"
+  ],
+  "stufe": "fraglich",
+  "klasse": "verletzung",
+  "titel": "Jahn-Freude im Duell der Freunde: Keeper Schmitt mit weißer Weste– Sorgen um Boujellab",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTDViaHFkV1U0eFlJZnpqN1NsQnREWUZ5VTVuaWxac05UN0NvRGhuZ191eFpsRnhCcjVzSmFLemdMdHoxa1cydEFKcUpEUFhhbWpHQlNWeTAzc2FiS1ozRzFpMG9mM09hUVAtZ1ZPRDUwaUh5NUwyZndaMHQzZFQyR2I3dmVDT0gzY1J4elpORXd4QV9NOUR0dGFscGF1amFsSFJZMVlTaUUwQkJ6Qm9iNUtHY0E1QXFfMlI3OGtCTTlFclhCOGJMemlNRm8tNUF3LUpwczNKQko0QXlOWHA2U2c4Tl9IQQ?oc=5",
+    "aid": "43b48901f1",
+    "titel": "Jahn-Freude im Duell der Freunde: Keeper Schmitt mit weißer Weste– Sorgen um Boujellab",
+    "quelle": "Mittelbayerische Zeitung",
+    "beschr": " Jahn-Freude im Duell der Freunde: Keeper Schmitt mit weißer Weste– Sorgen um Boujellab &nbsp;&nbsp; Mittelbayerische Zeitung ",
+    "zeit": "2026-11-13T17:51"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "u",
+  "erstmals": "2026-11-13T21:45",
   "archiv": [],
   "versuche": 1
  }
