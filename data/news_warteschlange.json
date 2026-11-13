@@ -146,42 +146,6 @@
   "versuche": 1
  },
  {
-  "id": "09ab5b51af",
-  "schluessel": "heidenheim|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Heidenheim",
-  "klubs": [
-   "Heidenheim"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "1. FC Heidenheim: Frank Schmidt im Exklusiv-Interview: \"Als Trainer sitzt du im Hamsterrad\"",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ0RlSlU0b3J4QU91RklDeHhtQmFnOXJfSWVuck5vakRRSlFDbkdKR1dQMWIzam5wVzl6N2RmU1JuQjNHbENnUjlTdm5Cd1ZzaktFUi1HUWZVb0Fmd21oVFJmRnlrVlc2SVN6UWNOZkR3N0tDcXBZbjBtdE1HT2QxMWd5QzZaZENCTUhaclFqSEpGRHNOa2NaZGhnZmgtVEpXTlctVklRemtOX3NnQ2RYa183cEV1NG4wSDZwVjJTbGZBbUZX?oc=5",
-    "aid": "ce7a6a7db1",
-    "titel": "1. FC Heidenheim: Frank Schmidt im Exklusiv-Interview: \"Als Trainer sitzt du im Hamsterrad\"",
-    "quelle": "Joyn",
-    "beschr": " 1. FC Heidenheim: Frank Schmidt im Exklusiv-Interview: \"Als Trainer sitzt du im Hamsterrad\" &nbsp;&nbsp; Joyn ",
-    "zeit": "2026-11-12T12:17"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-12T15:01",
-  "archiv": [
-   {
-    "id": "922b910d1b",
-    "titel": "Heidenheims Schmidt stellt sich schützend vor Vogt: Klare Worte gegen Hass im Netz",
-    "datum": "02.11.",
-    "stufe": "sonstiges",
-    "summary": "Heidenheims Trainer Frank Schmidt hat sich nach der 1:2-Niederlage in Karlsruhe vor Stürmer Alessandro Vogt gestellt, der im Netz angefeindet worden sein soll. Vogt erzielte gegen den KSC sein erstes Pflichtspieltor für den FCH."
-   }
-  ]
- },
- {
   "id": "3762d456d2",
   "schluessel": "magdeburg|spiel",
   "person": "",
@@ -222,57 +186,8 @@
     "stufe": "spielbericht",
     "summary": "Darmstadt 98 trennt sich am 10. Spieltag vom 1. FC Magdeburg 1:1. Müller traf für die Gäste, Smit glich per Hacke nach Vorlage von Richter aus."
    }
-  ]
- },
- {
-  "id": "77cef59c45",
-  "schluessel": "cottbus|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Cottbus",
-  "klubs": [
-   "Cottbus"
   ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "LIVE ab 14:00 Uhr: Energie Cottbus testet gegen Erzgebirge Aue",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUkh3bTFFWHBwa2lzSXF1cjdJMWF2UVFXSWs5aEdDSm9MZC1iZ00zTHdnQk94UGoyN3dzeGF3NWJ5TzVDMGxvSENicUJrVzNaRUlGZ3l6MmZTY2E2Rmo0djN2Tk94dDlkV20zdFY3NVQ4dmx6cGl5Skt3cDBGNG9KZm9EZ3JwQnpCa2xyTDhtdHQ4M2wtWGtULU1R?oc=5",
-    "aid": "5ca0816606",
-    "titel": "LIVE ab 14:00 Uhr: Energie Cottbus testet gegen Erzgebirge Aue",
-    "quelle": "FuPa ⚽️",
-    "beschr": " LIVE ab 14:00 Uhr: Energie Cottbus testet gegen Erzgebirge Aue &nbsp;&nbsp; FuPa ⚽️ ",
-    "zeit": "2026-11-12T13:05"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-12T15:01",
-  "archiv": [
-   {
-    "id": "d374ff468f",
-    "titel": "Cottbus ohne Sieg, aber ohne Krise: Ruhe trotz sechs Spielen ohne Dreier",
-    "datum": "10.11.",
-    "stufe": "spielbericht",
-    "summary": "Energie Cottbus ist seit sechs Spielen ohne Sieg, steht aber mit elf Punkten aus elf Spielen auf Rang zwölf. Umfeld und Verantwortliche bleiben ruhig, die Rest-Hinrunde bringt drei Derbys und zwei Heimspiele gegen Konkurrenten."
-   },
-   {
-    "id": "326a90cf49",
-    "titel": "Cottbus holt 0:0 in Braunschweig: Kinsombi trifft den Pfosten",
-    "datum": "06.11.",
-    "stufe": "spielbericht",
-    "summary": "Energie Cottbus und Eintracht Braunschweig trennen sich am 11. Spieltag 0:0. Kinsombi traf in der 14. Minute den Pfosten, beide Teams haben nun 11 Punkte."
-   },
-   {
-    "id": "df8456704e",
-    "titel": "Cottbus: Wollitz kündigt nach 1:2 gegen Bochum Konsequenzen an",
-    "datum": "01.11.",
-    "stufe": "spielbericht",
-    "summary": "Nach dem 1:2 gegen Bochum kündigt Cottbus-Trainer Wollitz Änderungen in der Startelf an und nimmt die Niederlage auf seine Kappe. Er kritisiert die Defensive und die Einstellung einiger Profis."
-   }
-  ]
+  "versuche": 1
  },
  {
   "id": "68d850a245",
@@ -300,7 +215,8 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-12T15:01",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "c7a91af2cf",
@@ -371,7 +287,8 @@
     "stufe": "spielbericht",
     "summary": "Darmstadt 98 trennt sich am 10. Spieltag vom 1. FC Magdeburg 1:1. Müller traf für die Gäste, Smit glich per Hacke nach Vorlage von Richter aus."
    }
-  ]
+  ],
+  "versuche": 1
  },
  {
   "id": "5fccf06093",
@@ -407,7 +324,8 @@
     "stufe": "fraglich",
     "summary": "Hannovers Husseyn Chakroun zog sich beim 2:1 gegen Dresden eine Blessur im rechten Schultereckgelenk zu. Ein Einsatz am Sonntag in Heidenheim ist nicht ausgeschlossen."
    }
-  ]
+  ],
+  "versuche": 1
  },
  {
   "id": "f6ee70f0e6",
@@ -486,35 +404,7 @@
     "summary": "Hannover 96 hat Sport-Geschäftsführer Jonas Boldt nach nur fünf Monaten mit sofortiger Wirkung abberufen. Der Klub steht nach neun Spieltagen mit acht Punkten auf Platz 16."
    }
   ],
-  "versuche": 1
- },
- {
-  "id": "4da821ff77",
-  "schluessel": "bielefeld|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Bielefeld",
-  "klubs": [
-   "Bielefeld"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Arminia Bielefeld schlägt SV Meppen – Anschlusstreffer kommt zu spät",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbVZQdVdWREFmSl9WekNrbTdfbXA4WjRmMmFoYlh3Z0JYNGs1NEZWbTFRdlRJWVhBT1prbHFwT01yclFwUGRtX01aajJ2ekJsZWl0eHdnZTNWSEYwSUJ2cF81aG0tZ0dyYkpBM0NINXVpWmRzM1dicDB4RHJ4RV84bnJJU1ZfSU5YbEQ0VG03NEhOZTlRTGpSejlKdUFmMTlKVzhodg?oc=5",
-    "aid": "70171a8b51",
-    "titel": "Arminia Bielefeld schlägt SV Meppen – Anschlusstreffer kommt zu spät",
-    "quelle": "FuPa ⚽️",
-    "beschr": " Arminia Bielefeld schlägt SV Meppen – Anschlusstreffer kommt zu spät &nbsp;&nbsp; FuPa ⚽️ ",
-    "zeit": "2026-11-12T15:22"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-12T18:01",
-  "archiv": []
+  "versuche": 2
  },
  {
   "id": "57214015d0",
@@ -557,101 +447,8 @@
     "stufe": "spielbericht",
     "summary": "Darmstadt 98 trennt sich am 10. Spieltag vom 1. FC Magdeburg 1:1. Müller traf für die Gäste, Smit glich per Hacke nach Vorlage von Richter aus."
    }
-  ]
- },
- {
-  "id": "8c1161ce65",
-  "schluessel": "magdeburg|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Magdeburg",
-  "klubs": [
-   "Magdeburg"
   ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "1. FC Magdeburg: Trainer Sander kritisiert Auftritt nach 0:3-Pleite",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV3BhY3BURlhPTDRMTVdtb1N4ZTJPLUdlelVWeTNJY1hJWWNoMUJKSkJMMWNyRWpfbVJOc3UxQ3F0V29Kc2o3bFNlZ1lOUTdOYWplMjFFM0pUR1dOSDdDYlpDNnFaZC0zVFluVUxsaW9NZXAwX1FjRmdzNHlVSzRDQXpKU0tmSzE4VHVqYXVLOHBtVGNhUjY5WlQwYlhLODN1dzBzb09TZ21qTkktUGpiRlQ4aldMQVk3VVp2TmF3UUVIY2M?oc=5",
-    "aid": "70a0243d17",
-    "titel": "1. FC Magdeburg: Trainer Sander kritisiert Auftritt nach 0:3-Pleite",
-    "quelle": "BILD",
-    "beschr": " 1. FC Magdeburg: Trainer Sander kritisiert Auftritt nach 0:3-Pleite &nbsp;&nbsp; BILD ",
-    "zeit": "2026-11-12T15:52"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-12T18:01",
-  "archiv": [
-   {
-    "id": "bfbc772e4f",
-    "titel": "Magdeburg schlägt St. Pauli 4:1 und springt auf Rang 4",
-    "datum": "08.11.",
-    "stufe": "spielbericht",
-    "summary": "Der 1. FC Magdeburg schlägt den FC St. Pauli am 11. Spieltag mit 4:1. Garcia MacNulty, Bockhorn, Atik und Simic treffen, der FCM ist mit 20 Punkten Vierter."
-   },
-   {
-    "id": "9db96cdceb",
-    "titel": "Darmstadt holt gegen Magdeburg nur ein 1:1 trotz Hackentor von Smit",
-    "datum": "01.11.",
-    "stufe": "spielbericht",
-    "summary": "Darmstadt 98 trennt sich am 10. Spieltag vom 1. FC Magdeburg 1:1. Müller traf für die Gäste, Smit glich per Hacke nach Vorlage von Richter aus."
-   }
-  ]
- },
- {
-  "id": "2b7332f32f",
-  "schluessel": "nurnberg|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Nürnberg",
-  "klubs": [
-   "Nürnberg"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Trotz 2:0-Führung: 1. FC Nürnberg scheidet im DFB-Pokal aus",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xbGVaV3duOUx1Y3h6UlcyQmdWVXZpSlU1QmhQNUUxei02SWhJVG1MS2FrVHN5WVU2ekx3NnpUbGxqTHJUcXM4N25uOGJ5MjNpajA2VDRNYVFja2NPYVhnWGs5clltR05IS1VMZ2lrTDNzNnE5RWZ0dXdpVUc?oc=5",
-    "aid": "b909b5216d",
-    "titel": "Trotz 2:0-Führung: 1. FC Nürnberg scheidet im DFB-Pokal aus",
-    "quelle": "Franken Fernsehen",
-    "beschr": " Trotz 2:0-Führung: 1. FC Nürnberg scheidet im DFB-Pokal aus &nbsp;&nbsp; Franken Fernsehen ",
-    "zeit": "2026-11-12T16:18"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-12T18:01",
-  "archiv": [
-   {
-    "id": "6bff53df7c",
-    "titel": "Darmstadt gewinnt Testspiel in Nürnberg mit 4:1",
-    "datum": "08.11.",
-    "stufe": "spielbericht",
-    "summary": "Darmstadt 98 gewinnt ein nicht öffentliches Testspiel beim 1. FC Nürnberg mit 4:1, Lakenmacher trifft doppelt. Weitere Testspiele in der Länderspielpause sind nicht geplant."
-   },
-   {
-    "id": "12b3d6a07a",
-    "titel": "Nürnberg schlägt Darmstadt dank Scobel und Bøving mit 2:0",
-    "datum": "07.11.",
-    "stufe": "spielbericht",
-    "summary": "Der 1. FC Nürnberg gewinnt am 11. Spieltag mit 2:0 gegen Darmstadt 98. Piet Scobel und William Bøving treffen nach der Pause."
-   },
-   {
-    "id": "b4e9126002",
-    "titel": "Klose nach Sieg bei St. Pauli: „Normalerweise verliert man solche Spiele“",
-    "datum": "06.11.",
-    "stufe": "spielbericht",
-    "summary": "Nürnbergs Trainer Miroslav Klose ordnet den 3:1-Sieg bei St. Pauli ein und lobt die Gemeinschaft im Team. Über einen Aufstieg als Ziel will er als Tabellenzweiter nicht sprechen."
-   }
-  ],
-  "versuche": 2
+  "versuche": 1
  },
  {
   "id": "ae66292e9b",
@@ -680,57 +477,7 @@
   "status": "n",
   "erstmals": "2026-11-12T18:01",
   "archiv": [],
-  "versuche": 1
- },
- {
-  "id": "0181b85cdd",
-  "schluessel": "hannover|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hannover",
-  "klubs": [
-   "Hannover"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Hannover 96: Sandro Wagner bleibt gegen Drittligist Havelse sitzen",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcHpfekZieW84dHoxUERjYjBWZFpobTNaRGhNbDBuV3dLVHZuaEZ6Y3FmY3ZSZEgtWnpaWWs0UVdmNFdwWTROYTUtVmVPdVh1VlZnZ3JJVmxJeWx2R0x2cUdCNFo3WWxFOGlNTW9fQUN3bUhpcnRENEItMFZQbVpUSWpCYjh5ZWxLbFBTbGdoRl9lcUMyMmVmbzR6QUdaRHFPVURMeTg3WElyaHBNYkFlbjRnOWFlVllYTXRxNndDMWFlTVE?oc=5",
-    "aid": "40182b0568",
-    "titel": "Hannover 96: Sandro Wagner bleibt gegen Drittligist Havelse sitzen",
-    "quelle": "BILD",
-    "beschr": " Hannover 96: Sandro Wagner bleibt gegen Drittligist Havelse sitzen &nbsp;&nbsp; BILD ",
-    "zeit": "2026-11-12T15:00"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-12T18:01",
-  "archiv": [
-   {
-    "id": "1e14aee0b2",
-    "titel": "Mattuschka rügt Hannover 96: Außendarstellung „unfassbar schlecht“",
-    "datum": "06.11.",
-    "stufe": "sonstiges",
-    "summary": "Sky-Experte Torsten Mattuschka kritisiert die Außendarstellung von Hannover 96 nach der Boldt-Entlassung als „unfassbar schlecht“. Drei Kandidaten sind laut Sky für die Nachfolge im Rennen, darunter Marko Marin."
-   },
-   {
-    "id": "f24f0b5c26",
-    "titel": "Heidenheim will Schmidt-Abschied gegen Hannover vergolden",
-    "datum": "06.11.",
-    "stufe": "sonstiges",
-    "summary": "Heidenheim empfängt am Sonntag Hannover 96 und ist zu Hause noch ungeschlagen. Es ist das erste Spiel nach der Ankündigung, dass Trainer Frank Schmidt im Sommer aufhört."
-   },
-   {
-    "id": "46380a1986",
-    "titel": "Wontorra stärkt Hannovers Trainer Wagner den Rücken",
-    "datum": "01.11.",
-    "stufe": "sonstiges",
-    "summary": "Moderatorin Laura Wontorra stärkt Hannovers Trainer Sandro Wagner, der nach vier Pflichtspielen noch sieglos ist, im Podcast „TOMorrow“ den Rücken. Sie traut ihm eine große Trainerkarriere zu."
-   }
-  ]
+  "versuche": 2
  },
  {
   "id": "5241f97562",
@@ -781,7 +528,7 @@
     "summary": "Hertha BSC gewinnt beim 1. FC Kaiserslautern 3:0 und bleibt nach zehn Spielen ungeschlagen Tabellenführer. Grønning trifft doppelt, Adewumi einmal, Pedersen bereitet zwei Tore vor."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "8e33c35ae3",
@@ -810,335 +557,7 @@
   "status": "n",
   "erstmals": "2026-11-12T18:01",
   "archiv": [],
-  "versuche": 1
- },
- {
-  "id": "e04f3dff71",
-  "schluessel": "frankfurt|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Frankfurt",
-  "klubs": [
-   "Frankfurt"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Eintracht trauert um Meisterstürmer Saborowski",
-  "quellen": [
-   {
-    "url": "https://www.kicker.de/eintracht-trauert-um-meisterstuermer-saborowski-1271074/artikel#omrss",
-    "aid": "251e207edd",
-    "titel": "Eintracht trauert um Meisterstürmer Saborowski",
-    "quelle": "kicker 2. Bundesliga News",
-    "beschr": "Eintracht Braunschweig trauert um Gerd Saborowski. Wie die Niedersachsen mitteilten, verstarb der ehemalige Stürmer bereits im September. Von seinem Tod erfuhr der Klub aber erst jetzt.",
-    "zeit": "2026-11-12T18:37"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-12T21:01",
-  "archiv": []
- },
- {
-  "id": "05c97e5e18",
-  "schluessel": "wolfsburg|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Wolfsburg",
-  "klubs": [
-   "Wolfsburg",
-   "Union"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "\"Das fand ich schon cool\": Sorgt Strobl für die große Arnold-Überraschung?",
-  "quellen": [
-   {
-    "url": "https://www.kicker.de/das-fand-ich-schon-cool-sorgt-strobl-fuer-die-grosse-arnold-ueberraschung-1271064/artikel#omrss",
-    "aid": "54d4a6cd51",
-    "titel": "\"Das fand ich schon cool\": Sorgt Strobl für die große Arnold-Überraschung?",
-    "quelle": "kicker 2. Bundesliga News",
-    "beschr": "Der VfL Wolfsburg gewann sein Testspiel gegen den erschreckend schwachen Erstligisten Union Berlin mit 2:0. Überraschung: Kapitän Maximilian Arnold agierte als linker Innenverteidiger - kann er das auch in der 2. Liga?",
-    "zeit": "2026-11-12T18:30"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-12T21:01",
-  "archiv": []
- },
- {
-  "id": "fe4f4785ea",
-  "schluessel": "kiel|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Kiel",
-  "klubs": [
-   "Kiel"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "2. Bundesliga: Holstein Kiel holt Mitch Kniat als Walter-Nachfolger",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWXpvNXVzaUtubmhtZUNNX0ZRcWZ5QUhyU2g1aFdacTdWLWVPMjA2M1NxVVREOTN3Nm9OY1BLNlZ5RWpMaVpXLVdWMVhKVVBITHRvR3E0QmNIeDludGZEbzZPSWg0cEY1V1NEYTBXRzVFR1FTQ21MbnQ1bTlRQnBYY29TZ1ZEN1loUmRWY1JQMzdYZw?oc=5",
-    "aid": "99efd67af4",
-    "titel": "2. Bundesliga: Holstein Kiel holt Mitch Kniat als Walter-Nachfolger",
-    "quelle": "DIE ZEIT",
-    "beschr": " 2. Bundesliga: Holstein Kiel holt Mitch Kniat als Walter-Nachfolger &nbsp;&nbsp; DIE ZEIT ",
-    "zeit": "2026-11-10T12:58"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-12T21:01",
-  "archiv": []
- },
- {
-  "id": "4e48b29c81",
-  "schluessel": "bayern|verletzung",
-  "person": "",
-  "spieler": [],
-  "klub": "Bayern",
-  "klubs": [
-   "Bayern"
-  ],
-  "stufe": "rueckkehr",
-  "klasse": "verletzung",
-  "titel": "Amateure: Dieser Bayern-Schreck feierte sein Comeback in der Kreisliga A",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU1BaU0lrZXZBdTNnM3B1SzFQdDh0ZXFBdDNVdHpxRnJBcTlZSllhRDhGSDJrUHpxS0pKdERQU29QS0FSX3VnQlBiZXpKQnc3Tk14dlZPSzhRaGw3dWFrNkNkaTlzWmxQdWZKWWw3NHJlajQtck5YdmNGenA4OUF2OEJTT0hveXBSWnNlc1djNEZYNlJCNlBTX2lBazA5OFRlUmN4M1J2R0pnSnFVRWExT2EzcWhxWDlEajZtQlZKQkNXd1o3?oc=5",
-    "aid": "760be136df",
-    "titel": "Amateure: Dieser Bayern-Schreck feierte sein Comeback in der Kreisliga A",
-    "quelle": "RevierSport online",
-    "beschr": " Amateure: Dieser Bayern-Schreck feierte sein Comeback in der Kreisliga A &nbsp;&nbsp; RevierSport online ",
-    "zeit": "2026-11-12T19:56"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-12T21:01",
-  "archiv": []
- },
- {
-  "id": "cfbfec12bc",
-  "schluessel": "st. pauli|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "St. Pauli",
-  "klubs": [
-   "St. Pauli",
-   "Magdeburg"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "AfD, Schulstreik, „Bullenhass“: Das steckt hinter den St. Pauli-Bannern in Magdeburg",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcU1WYWh0bERKbkxWZ21qRURNbVF6VXFYSlBkWjYxN280clh0ald5dGtWLWtxRnljTldZUmJlVGFqZUJldlZvZHV6ZEZWZThxaXpoY3QtbWI5QndkcmlxdVZQdTU4ZWRKcThfUU1LdkxkeDZYcUlyNmJQQk9oNE9wdUc4MXppSXRvQVBYMXB5S2lBS0diejdHeTAwdHRWQ0d6cXQzNzlRdWZfNEoxbXVxbzJlb0Mzajd0Y3dadjB1U2NkZw?oc=5",
-    "aid": "98b2eee9f3",
-    "titel": "AfD, Schulstreik, „Bullenhass“: Das steckt hinter den St. Pauli-Bannern in Magdeburg",
-    "quelle": "MOPO",
-    "beschr": " AfD, Schulstreik, „Bullenhass“: Das steckt hinter den St. Pauli-Bannern in Magdeburg &nbsp;&nbsp; MOPO ",
-    "zeit": "2026-11-12T20:18"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-12T21:01",
-  "archiv": []
- },
- {
-  "id": "458a9892ed",
-  "schluessel": "magdeburg|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Magdeburg",
-  "klubs": [
-   "Magdeburg"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Wen HFC-Trainer Schröder im Landespokalspiel in Magdeburg auf jeden Fall aufstellen wird",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNakNINWxKMF9fb0N3enhnbTZCcGpPblVNOXpPS192Nnhid2xZXzE1cU9teVBwVUpUeC0zdE5pcF84YVkzemRTay1aNTVjMFlDR1VZVndBdmE3MzdKLUxBS3RmaG9ob2pWalh1ajBsRjZSV0pBQzFoby1iX3kweFNxUEFJem1oY2w1Nzk5VHZOSi14R3hZbnJlczFEVmtDSFlWYXBvWkhMS0NJV0s3VXNJVVp1WmVJSXdmZjBOa1dmbnRXaU03S0tjenNmZkQ2cFk?oc=5",
-    "aid": "57e14ad766",
-    "titel": "Wen HFC-Trainer Schröder im Landespokalspiel in Magdeburg auf jeden Fall aufstellen wird",
-    "quelle": "Mitteldeutsche Zeitung",
-    "beschr": " Wen HFC-Trainer Schröder im Landespokalspiel in Magdeburg auf jeden Fall aufstellen wird &nbsp;&nbsp; Mitteldeutsche Zeitung ",
-    "zeit": "2026-11-12T18:00"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-12T21:01",
-  "archiv": []
- },
- {
-  "id": "e14992e7e7",
-  "schluessel": "dresden|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Dresden",
-  "klubs": [
-   "Dresden"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Mächtig Ärger bei Dynamo Dresden: „Alles, aber keine Sportgemeinschaft“",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeWIyN0ZwLW4tQUdSNW1mVEptNVZWeEtaa1pMTDJlci1Pc2plWm1pRk94TmxoTFRuSFhPa1Y3Vmx6T3dMcGtwSHBPd08xdklabzV5Tnd2RjUzVXNQdzJLVFhZOVh1WmdFaUN0Rkx5QWlBdXRJQnNLVXE1M2s3VjduSkVxd1RXRE1MVzQtS0I3ZHJSRzEybG9rUzF0NHNpUllrY0JrMWQyR244Q2t2Y09BVkFUZW1iOG5NNlBxWWhNX0tsYXZHSzFicFVDMmtFM1dp0gHsAUFVX3lxTFBnWWlaUFpDQkN1VkNnb2tmWWZqX3pOa21FUnpGbTlnVk5ha0ZWM3RjZVExUlVuQnNfekUtbUdFZFd5STBPeV82RkZBNlVHMmcyQVk5QWZFMkpFNk5md0NEU0dxakNtZnVlaUFmdnV1V2F0OENLMGZvZjRMUWhaMkVqVVJtU21OUTBma1VWamsydFdaMXk1QmlyXzR6eU5ma0tnSkV5alJ2N2piN1hJRXdJTVdoXy1PYVhUZENRSm42NGEyaHU0LVRTbmwzaUR1VVFLRzlYcV9pM3VSN3BYakxFb0JHZEZFRG1FcmFp?oc=5",
-    "aid": "8a1dee98df",
-    "titel": "Mächtig Ärger bei Dynamo Dresden: „Alles, aber keine Sportgemeinschaft“",
-    "quelle": "DNN - Dresdner Neueste Nachrichten",
-    "beschr": " Mächtig Ärger bei Dynamo Dresden: „Alles, aber keine Sportgemeinschaft“ &nbsp;&nbsp; DNN - Dresdner Neueste Nachrichten ",
-    "zeit": "2026-11-12T18:03"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-12T21:01",
-  "archiv": [
-   {
-    "id": "fc46321225",
-    "titel": "Dynamo vor Doppelbelastung: Pokal in Stuttgart, drei Tage später Bielefeld",
-    "datum": "06.11.",
-    "stufe": "sonstiges",
-    "summary": "Dynamo Dresden spielt am 1. Dezember im Pokal-Achtelfinale in Stuttgart und drei Tage später in Bielefeld. Trainer Thomas Stamm will sich über die Ansetzungen nicht beschweren."
-   },
-   {
-    "id": "cb0b737b08",
-    "titel": "Dynamo sucht in Hannover den ersten Auswärtssieg seit April",
-    "datum": "01.11.",
-    "stufe": "sonstiges",
-    "summary": "Dynamo Dresden will bei Hannover 96 den ersten Auswärtssieg seit 204 Tagen holen. Seit dem 2:0 in Nürnberg im April blieb das Team von Trainer Thomas Stamm auswärts acht Ligaspiele ohne Sieg."
-   }
-  ]
- },
- {
-  "id": "5e219000c8",
-  "schluessel": "dresden|transfer",
-  "person": "",
-  "spieler": [],
-  "klub": "Dresden",
-  "klubs": [
-   "Dresden"
-  ],
-  "stufe": "geruecht",
-  "klasse": "transfer",
-  "titel": "Dynamo Dresden: Drei Kandidaten sind bei der Mitgliederversammlung besonders brisant",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQU94S2NGaWJOQlJTNzVhZm1pMWxKTmF5dTdtSTFLWExaV040cy1DdC0zSWF4OVhGa1pLaG5JNFlCbnEzb3hsT0pmR2Fad1BEempTdl9UMUlDVmpPLXlFdFV5VjFVeFhNRTR1LVpvbU1sQnJ2a1ExZTBVamNlMXZOSHowc1ZIWjJOWk9jbjBtSURFYzI5eWU1QnVnbVd1ek1JVmluZDVCaDlka3kyVnBVT3dNZUZReUJsQkh0R3NIaERnMV9ZOHBaV0dVLWxiWGktZXVnVmJReE0zSmV5UGVldzZGWkx0N0FoZnU4VUdB0gGKAkFVX3lxTFBqSXFXenFVM1g4aWY1bkdUZll2Q3Uwdnk3bldvSFltakxCSzFfaHpCVi1IZVVPeUlHN2dHalRWak43N2dMbVlDUHJPTlRTSjlSY0I3NzBTaXozWTh4STJhTF8wVlhBSTlaMk5Ra2RJWjBrdDF3cFItM1BmbXZYUExhVWs5QTZCc1R0TlJrVnpfc3pHekh2eUQ1aGtaV0tVTm9Yb1pCUFpaMUdkNk1XZkgwTUpremZUUnQ5aVNhNDVBUGxYYTdQekhDSUhrTndSRUgyN0hTRWs3blFkMVJZclNkQUZIRVRqTjF4TUJ3ME9PMUpFb3NjQjJRdlhIbEQydWtTYzMzN0JJbmV3?oc=5",
-    "aid": "97b2da4885",
-    "titel": "Dynamo Dresden: Drei Kandidaten sind bei der Mitgliederversammlung besonders brisant",
-    "quelle": "Sächsische Zeitung",
-    "beschr": " Dynamo Dresden: Drei Kandidaten sind bei der Mitgliederversammlung besonders brisant &nbsp;&nbsp; Sächsische Zeitung ",
-    "zeit": "2026-11-12T19:09"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-12T21:01",
-  "archiv": []
- },
- {
-  "id": "6475456a29",
-  "schluessel": "braunschweig|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Braunschweig",
-  "klubs": [
-   "Braunschweig",
-   "Frankfurt"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Die MHB Mobility GmbH ist neuer Löwenpartner von Eintracht Braunschweig",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNazBhejJoSlBCNE50YmFKQjdmNmFXUDBvLWNOemZENlAwZDRUck5PdHJQbGx2V0J3eGk0Smp3eEFWU0d6S2dRV2lpQTFSTktzUG42UTQwOGJnVTlqaWRyVTJvSm5jVEJ6aWpjTGVmekFfNXNVZFdMdjFNaHlXclpPVWx0dmRzWmJYX1RCeTFBZmsxUHJNUVdvOGZRM2ZfZk5qQng2bVc0T2NHYjBxeTdpeG9HQW5MVDRNQ19BTUpEZ3FZTExfUDU1UVhmMEt0VXVYcXJieVBNZlItNl9Oc3lNb1d4R1Y?oc=5",
-    "aid": "dc785353c1",
-    "titel": "Die MHB Mobility GmbH ist neuer Löwenpartner von Eintracht Braunschweig",
-    "quelle": "lifePR",
-    "beschr": " Die MHB Mobility GmbH ist neuer Löwenpartner von Eintracht Braunschweig &nbsp;&nbsp; lifePR ",
-    "zeit": "2026-11-12T14:33"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-12T21:01",
-  "archiv": [
-   {
-    "id": "65e86f4d4a",
-    "titel": "Braunschweig reist ins Wintertrainingslager: Kornetka setzte Belek durch",
-    "datum": "05.11.",
-    "stufe": "sonstiges",
-    "summary": "Eintracht Braunschweig reist vom 4. bis 11. Januar 2027 nach Belek, es ist das erste reguläre Wintertrainingslager seit vier Jahren. Trainer Lars Kornetka hatte sich ausdrücklich dafür eingesetzt."
-   }
-  ]
- },
- {
-  "id": "29cbd862d0",
-  "schluessel": "cottbus|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Cottbus",
-  "klubs": [
-   "Cottbus"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Heidrich trifft doppelt im \"Bruderduell\": Energie Cottbus gewinnt gegen Aue",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWFE5aHZSNExWZWVBY1d2TjNQdlpjX0FtSWdjS0pFYTIwSWVlWVRlR1ZhbHoxNXJzMC1RdEJWRnl2aWNiRnZtYXhMUkRfWk8yWGQ0ZDZmTjcxaXZCWjNnWF9ueW0yR1VsaURZX3RubDJqYi10MXA4NnQxQWgyNm5MdmIzSF8zRnpjYi1QQTJIbFU4d2VUV2xybVBRQnZsZlJCNjRQclEtSzlMa2UzYldxNXIwNDVHY2NTblB1VktqbExXWE90WVJITTZjU0JFc2h4T2JiLU1kcGltRzh1SGdvbzJocGM?oc=5",
-    "aid": "e719d60d1a",
-    "titel": "Heidrich trifft doppelt im \"Bruderduell\": Energie Cottbus gewinnt gegen Aue",
-    "quelle": "sportschau.de",
-    "beschr": " Heidrich trifft doppelt im \"Bruderduell\": Energie Cottbus gewinnt gegen Aue &nbsp;&nbsp; sportschau.de ",
-    "zeit": "2026-11-12T18:39"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-12T21:01",
-  "archiv": [
-   {
-    "id": "d374ff468f",
-    "titel": "Cottbus ohne Sieg, aber ohne Krise: Ruhe trotz sechs Spielen ohne Dreier",
-    "datum": "10.11.",
-    "stufe": "spielbericht",
-    "summary": "Energie Cottbus ist seit sechs Spielen ohne Sieg, steht aber mit elf Punkten aus elf Spielen auf Rang zwölf. Umfeld und Verantwortliche bleiben ruhig, die Rest-Hinrunde bringt drei Derbys und zwei Heimspiele gegen Konkurrenten."
-   },
-   {
-    "id": "326a90cf49",
-    "titel": "Cottbus holt 0:0 in Braunschweig: Kinsombi trifft den Pfosten",
-    "datum": "06.11.",
-    "stufe": "spielbericht",
-    "summary": "Energie Cottbus und Eintracht Braunschweig trennen sich am 11. Spieltag 0:0. Kinsombi traf in der 14. Minute den Pfosten, beide Teams haben nun 11 Punkte."
-   },
-   {
-    "id": "df8456704e",
-    "titel": "Cottbus: Wollitz kündigt nach 1:2 gegen Bochum Konsequenzen an",
-    "datum": "01.11.",
-    "stufe": "spielbericht",
-    "summary": "Nach dem 1:2 gegen Bochum kündigt Cottbus-Trainer Wollitz Änderungen in der Startelf an und nimmt die Niederlage auf seine Kappe. Er kritisiert die Defensive und die Einstellung einiger Profis."
-   }
-  ]
+  "versuche": 2
  },
  {
   "id": "ec4d2497dc",
@@ -1163,8 +582,8 @@
    }
   ],
   "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
+  "prio": 2,
+  "status": "u",
   "erstmals": "2026-11-12T21:01",
   "archiv": [
    {
@@ -1181,508 +600,8 @@
     "stufe": "sonstiges",
     "summary": "Magdeburg trifft im Heimspiel auf St. Pauli und damit auf die Ex-Spieler Martijn Kaars und Marcus Mathisen, die in Hamburg beide kaum spielen. Mateusz Zukowski ist für den FCM weiterhin fraglich."
    }
-  ]
- },
- {
-  "id": "c4b54cf7b9",
-  "schluessel": "st. pauli|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "St. Pauli",
-  "klubs": [
-   "St. Pauli"
   ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Zum letzten Heimspiel des Jahres: Wichtige Infos für St. Pauli-Fans",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTkFkTDJRRXBFak5HN2VEcXo2X0hMNWpoaGFlT3lUUXpqcHFzQTZLQTNUYXVtMElBUElxU25WSzRkdjRDSW55TmY5RXFEalpScmRqZTlLeWlpbmp3Y0dSRkQ4Q3AxMklYSTJ2UHZYYjlCQmZUVlpRVjY4Y25TbWdOQnIzTmdjZENGaXRxSmdQcjlxdzgtR0JIcEE3dER4ZkxZQXIzN2k1ZkpFNE9X?oc=5",
-    "aid": "24054231d7",
-    "titel": "Zum letzten Heimspiel des Jahres: Wichtige Infos für St. Pauli-Fans",
-    "quelle": "StPauli24",
-    "beschr": " Zum letzten Heimspiel des Jahres: Wichtige Infos für St. Pauli-Fans &nbsp;&nbsp; StPauli24 ",
-    "zeit": "2026-11-12T20:34"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-12T21:01",
-  "archiv": [
-   {
-    "id": "0f621c17e7",
-    "titel": "FCM gegen St. Pauli: Wiedersehen mit Kaars und Mathisen",
-    "datum": "05.11.",
-    "stufe": "sonstiges",
-    "summary": "Magdeburg trifft im Heimspiel auf St. Pauli und damit auf die Ex-Spieler Martijn Kaars und Marcus Mathisen, die in Hamburg beide kaum spielen. Mateusz Zukowski ist für den FCM weiterhin fraglich."
-   }
-  ]
- },
- {
-  "id": "5804ce8236",
-  "schluessel": "st. pauli|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "St. Pauli",
-  "klubs": [
-   "St. Pauli"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "„Nicht mehr so viel Freude“: Inhaberin schließt Lokal auf St. Pauli",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbVFuUDhydFhvZWNWQTBhZG9YT05ROGgtVDNPVWEwRWVzUjlTZ1FmLUpZVXN2TXlkTWFwd0xpNjZwcTRqamFKMXQ1X2lYVUpQWkgwTnNzOEpFVXlNaUNSRzBuYWdUbnp5Ny01VUQtYmp5YzRpeEo5N3JyUUxadzR0UGZYMFFySHVtZG9URmI5V2JiTk9kZXdTV3RxSmxHcWc4SFE?oc=5",
-    "aid": "0bd3fdbf14",
-    "titel": "„Nicht mehr so viel Freude“: Inhaberin schließt Lokal auf St. Pauli",
-    "quelle": "MOPO",
-    "beschr": " „Nicht mehr so viel Freude“: Inhaberin schließt Lokal auf St. Pauli &nbsp;&nbsp; MOPO ",
-    "zeit": "2026-11-12T17:09"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-12T21:01",
-  "archiv": []
- },
- {
-  "id": "e2ecba44e3",
-  "schluessel": "wolfsburg|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Wolfsburg",
-  "klubs": [
-   "Union",
-   "Wolfsburg"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Aufstellung | VfL Wolfsburg - 1. FC Union Berlin 2:0 | KW46 | Fußball-Vereine Freundschaftsspiele 2026/27",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdHJZbFU0Rk9XTUM2cHE0cnNMQkQ2THl6bHBneGFYT1h2cTRkYW14ODVMRTFJTkRUVFBGY0F2NzhIM0NzZnp2R05uaVpyWFdmYXBkZU5kbWhjSnoxR210T2dBYUFKQ1NTTkNwaVN5UzExVnBlQjFUNG5ianJoUm05WkIyRUJuU3h6dEtPWmY3eDZFMzhfcDI0TXVHSVA?oc=5",
-    "aid": "0bdc87b02c",
-    "titel": "Aufstellung | VfL Wolfsburg - 1. FC Union Berlin 2:0 | KW46 | Fußball-Vereine Freundschaftsspiele 2026/27",
-    "quelle": "Kicker",
-    "beschr": " Aufstellung | VfL Wolfsburg - 1. FC Union Berlin 2:0 | KW46 | Fußball-Vereine Freundschaftsspiele 2026/27 &nbsp;&nbsp; Kicker ",
-    "zeit": "2026-11-12T18:08"
-   },
-   {
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBldkFwVld6Q2poM3RFWDV5bHctb2dJcEdaVGtGZ1o1T0NLbi1KSGFoY05sQkRzVmRZUkd3b0hDUndlMFhtbl9taHhzZWZ3eFZVVzlpSC1hWGZNY1RzV0cwNmdTSnlIcGZjMVhoa0RmdXFGRFdid0tZR2RqbHJ5UQ?oc=5",
-    "aid": "55d13996b3",
-    "titel": "Union verliert Testspiel in Wolfsburg",
-    "quelle": "SAT.1 Regional",
-    "beschr": " Union verliert Testspiel in Wolfsburg &nbsp;&nbsp; SAT.1 Regional ",
-    "zeit": "2026-11-12T16:48"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-12T21:01",
-  "archiv": [
-   {
-    "id": "85e4606aac",
-    "titel": "Wolfsburg hadert nach 1:2 bei Hertha mit verweigertem Elfmeter",
-    "datum": "08.11.",
-    "stufe": "spielbericht",
-    "summary": "Wolfsburg verliert im Spitzenspiel bei Tabellenführer Hertha BSC mit 1:2. Trainer Tobias Strobl und Sportdirektor Pirmin Schwegler kritisieren den nicht gegebenen Elfmeter in der Nachspielzeit."
-   },
-   {
-    "id": "7ba2dce612",
-    "titel": "Osnabrück verliert in Wolfsburg 0:2, Reese entscheidet das Duell",
-    "datum": "01.11.",
-    "stufe": "spielbericht",
-    "summary": "Der VfL Osnabrück verliert beim VfL Wolfsburg 0:2. Fabian Reese erzielt ein Tor und bereitet das zweite von Muhammed Damar vor."
-   }
-  ]
- },
- {
-  "id": "f43591b2b6",
-  "schluessel": "kiel|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Kiel",
-  "klubs": [
-   "Kiel"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Holstein Kiel schlägt Odense bei Kniat-Debüt mit 4:0",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd0pRNTh1ZFJQSzJjN1Zqb0Z5RWFJYkR3Um9CdVU3OTZPWE5UbmswMFk0ZDNWMWNjRWQ4TTVJeFR5M2RkdmQ0eU1CWTg2d3FoU3BiQklUZ3hyZm90bXJ0ejRjTk9GM3lpaFEtSnZ3bjQzQ0YydVpHLWNmYlByVTlyRU9zTlRscWFXTXFPQ0p0UVdONEY4Q3BnMERhdW1UWm1najlSMGJ3RXRHMjB5?oc=5",
-    "aid": "0efc3c3046",
-    "titel": "Holstein Kiel schlägt Odense bei Kniat-Debüt mit 4:0",
-    "quelle": "T-Online",
-    "beschr": " Holstein Kiel schlägt Odense bei Kniat-Debüt mit 4:0 &nbsp;&nbsp; T-Online ",
-    "zeit": "2026-11-12T16:31"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-12T21:01",
-  "archiv": [
-   {
-    "id": "b7ac7e3a7a",
-    "titel": "Bielefeld dreht spät auf: 2:1 bei Holstein Kiel",
-    "datum": "07.11.",
-    "stufe": "spielbericht",
-    "summary": "Bielefeld gewinnt am 11. Spieltag 2:1 bei Holstein Kiel. Ein Eigentor von Sekine und der Treffer von Young entscheiden die Partie, Grodowski verschießt einen Elfmeter."
-   }
-  ]
- },
- {
-  "id": "7478cce3f3",
-  "schluessel": "kiel|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Kiel",
-  "klubs": [
-   "Kiel"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Aufstellung | Holstein Kiel - Odense BK 4:0 | KW46 | Fußball-Vereine Freundschaftsspiele 2026/27",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWkV1NmJsVUozTjg5UG5INkE1bXlnMHUxVFRNVnlXWTZkWjhJR25rZF85bkRZbkdSYmZfSlFHY3pWeS03aGxhbGwwQlg1azY2Y29OdnVmQV9tZ3UyZkQwTUFiV1pGSUhJUEpCNVhRTjZtbjlzVVhzU2ZmWkhTT1VPaDZYN3V2LVdEOG1RMEFJQzFob0FHOEs4?oc=5",
-    "aid": "622e117fa0",
-    "titel": "Aufstellung | Holstein Kiel - Odense BK 4:0 | KW46 | Fußball-Vereine Freundschaftsspiele 2026/27",
-    "quelle": "Kicker",
-    "beschr": " Aufstellung | Holstein Kiel - Odense BK 4:0 | KW46 | Fußball-Vereine Freundschaftsspiele 2026/27 &nbsp;&nbsp; Kicker ",
-    "zeit": "2026-11-12T17:36"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-12T21:01",
-  "archiv": [
-   {
-    "id": "b7ac7e3a7a",
-    "titel": "Bielefeld dreht spät auf: 2:1 bei Holstein Kiel",
-    "datum": "07.11.",
-    "stufe": "spielbericht",
-    "summary": "Bielefeld gewinnt am 11. Spieltag 2:1 bei Holstein Kiel. Ein Eigentor von Sekine und der Treffer von Young entscheiden die Partie, Grodowski verschießt einen Elfmeter."
-   }
-  ]
- },
- {
-  "id": "c10ee69ffc",
-  "schluessel": "kiel|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Kiel",
-  "klubs": [
-   "Kiel"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Obdachlosigkeit: 30.000 Menschen in Schleswig-Holstein betroffen",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOWRId01MSlNid3ZyRUxWOUs1ODVWaEpjM2o0YjFwOHRDbHZ6d1c2R09RTTR3ekg0T1AwMTlBY2lwVmpSWWFrTkZrNDFYVUc1Q19yYW9NejFfcTU4d1llYzFGWkpOaVdjX0QwMlhGcDZuWGliM3h4c2ZZREpGVG05Zko0MWY2UlkxSjAydlFZQjRVSTh1cS1ndF9LVURDRE41?oc=5",
-    "aid": "6ffe8907c6",
-    "titel": "Obdachlosigkeit: 30.000 Menschen in Schleswig-Holstein betroffen",
-    "quelle": "SAT.1 Regional",
-    "beschr": " Obdachlosigkeit: 30.000 Menschen in Schleswig-Holstein betroffen &nbsp;&nbsp; SAT.1 Regional ",
-    "zeit": "2026-11-12T17:53"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-12T21:01",
-  "archiv": []
- },
- {
-  "id": "06a35514f3",
-  "schluessel": "karlsruhe|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Karlsruhe",
-  "klubs": [
-   "Karlsruhe"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Normannia empfängt Karlsruher SC II",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNnJ5Ym9jU1FfUHhBY0M3ZEtoWkd3ZUxiTWFEa3FTaGJ0MFktcHB2Vnpzblo0bWdiZmx5eHVDQnhpN3doc1hMRWsya1puRkRTNUJ2VUFyNTd0UThVMXhwSzY4V3E2MkM0VGctU0tNMmFxZUFNa2VCYkNZU1NXLUQ5dlZTZw?oc=5",
-    "aid": "4a36627bc1",
-    "titel": "Normannia empfängt Karlsruher SC II",
-    "quelle": "Regio TV",
-    "beschr": " Normannia empfängt Karlsruher SC II &nbsp;&nbsp; Regio TV ",
-    "zeit": "2026-11-12T17:08"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-12T21:01",
-  "archiv": []
- },
- {
-  "id": "d5d8f8dd8f",
-  "schluessel": "furth|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Fürth",
-  "klubs": [
-   "Fürth"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Greuther Fürth gewinnt Testspiel gegen Würzburg",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT3hQVHNLQUVLcloxQlNGcko1TGhRMHphdzA1V2VfZ0dTcVhtMlNfVWl4dXJ4dzd0U2FQeDVrWEdPTG9kQ0RUbFo0Ukpxd1ljc2hldFhiYVJjRWRUcDVhWFRBT2RyU0F6Z0Z5SmN6ck1LcXNDUDJzbHlCS0VDTHYxa3NXeEJ1bGtEUWJXcVhrQ0tObXJ1VzRkckV1dzk0X3YtRVNYUWN6YVk3Uk9GR1hjeU04SGtlOWRPTVBYQmFQVWdWUQ?oc=5",
-    "aid": "ade4be1406",
-    "titel": "Greuther Fürth gewinnt Testspiel gegen Würzburg",
-    "quelle": "WELT",
-    "beschr": " Greuther Fürth gewinnt Testspiel gegen Würzburg &nbsp;&nbsp; WELT ",
-    "zeit": "2026-11-12T17:13"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-12T21:01",
-  "archiv": [
-   {
-    "id": "4c95231583",
-    "titel": "Dresden schlägt Fürth 3:0 und verlässt das Tabellenende",
-    "datum": "06.11.",
-    "stufe": "spielbericht",
-    "summary": "Dynamo Dresden gewinnt gegen Greuther Fürth 3:0 und verlässt als vorläufig Vierzehnter das Tabellenende. Fürths Hendry Blank fälscht zwei Gegentore ab und sieht Gelb-Rot."
-   },
-   {
-    "id": "17f7b2ba54",
-    "titel": "Keller trifft spät: Fürth schlägt Kiel mit 1:0",
-    "datum": "01.11.",
-    "stufe": "spielbericht",
-    "summary": "Die SpVgg Greuther Fürth schlägt Holstein Kiel am 10. Spieltag mit 1:0. Aaron Keller trifft in der 87. Minute nach Vorarbeit von Dennis Srbeny."
-   }
-  ]
- },
- {
-  "id": "edff0fe5ed",
-  "schluessel": "darmstadt|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Darmstadt",
-  "klubs": [
-   "Darmstadt"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Johannesgemeinde Darmstadt verabschiedet Pfarrer Gerhard Schnitzspahn",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORkFzZGh2ZDJHYWZYMzcxZDNoX3RlR2tfdGltVXo3Q01TUzdkaVNFSVREWU9SVWRkamR6Y1RseW9FODE5ZnI3eUwyb3Z1RmRRaE9sdkwzOHlNT3h2SG9Xa2ZZUEw4NnoyUUtTb0NXejNOQ085NUVycy12RWhycHdmRl9RSV82ZzRKY2Q0QkE3cXJiS2FidkwxZnpYdVRFUXBicUszclZ4bUYyRkk?oc=5",
-    "aid": "f51ef624ef",
-    "titel": "Johannesgemeinde Darmstadt verabschiedet Pfarrer Gerhard Schnitzspahn",
-    "quelle": "Echo Online",
-    "beschr": " Johannesgemeinde Darmstadt verabschiedet Pfarrer Gerhard Schnitzspahn &nbsp;&nbsp; Echo Online ",
-    "zeit": "2026-11-12T15:37"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-12T21:01",
-  "archiv": [
-   {
-    "id": "182900733e",
-    "titel": "Darmstadt: Fernie vermeidet Bekenntnis zu Kohfeldt",
-    "datum": "07.11.",
-    "stufe": "sonstiges",
-    "summary": "Nach der 0:2-Niederlage in Nürnberg vermeidet Darmstadts Geschäftsführer Paul Fernie ein Bekenntnis zu Trainer Florian Kohfeldt. Der Klub steckt tief im Tabellenkeller der 2. Bundesliga."
-   }
-  ]
- },
- {
-  "id": "1638c396bc",
-  "schluessel": "darmstadt|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Darmstadt",
-  "klubs": [
-   "Darmstadt"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Fußball heute DFB Pokal 2026/2027 - Achtelfinale: Borussia Mönchengladbach gegen SV Darmstadt 98 am 1.12.2026",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYmxIWXAxYmtXVk5WRU0tQzJuZktDa01sZjUteWN5WTFiYnFyakQtQzVwSlFPS1BnVUJaLXktQ0RhcVp6S3VuNGt0S182ODA4ZDVJTmE5YzlkcjQ2RTROb0hJbFpJM1BGYlhoV09kUVlmRlduWDRlVmpld0RTXzJ6UlROaVJ2bXBHeGVtVl9Ub1NtOTd2Z0d6Q1ZPU3pnZHJPME9lcVlGMEg?oc=5",
-    "aid": "aa686bce85",
-    "titel": "Fußball heute DFB Pokal 2026/2027 - Achtelfinale: Borussia Mönchengladbach gegen SV Darmstadt 98 am 1.12.2026",
-    "quelle": "www.fussballnationalmannschaft.net",
-    "beschr": " Fußball heute DFB Pokal 2026/2027 - Achtelfinale: Borussia Mönchengladbach gegen SV Darmstadt 98 am 1.12.2026 &nbsp;&nbsp; www.fussballnationalmannschaft.net ",
-    "zeit": "2026-11-12T18:28"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-12T21:01",
-  "archiv": []
- },
- {
-  "id": "e647487d89",
-  "schluessel": "bochum|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Bochum",
-  "klubs": [
-   "Bochum"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Keine städtischen Seniorenheime mehr in Bochum",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaWJaMk9yQUt4RzRQUHI0QzdoN3FkUDZCWlJGY3lESk00NjhYUVFJdW52Y1luUk1kNUd6VDYwRTdNcEZ2Rld0QnNPX01SR1UzVEI2Vm4zZ3d2WER6WHBPRUxkYzhLc0o5QXNIanBaS00wTWVpZ0kyYXNRcE5xMTdIUGhaNWxaU0pXVGU3QkNtZzBqSGFD?oc=5",
-    "aid": "499d33da3b",
-    "titel": "Keine städtischen Seniorenheime mehr in Bochum",
-    "quelle": "Radio Bochum",
-    "beschr": " Keine städtischen Seniorenheime mehr in Bochum &nbsp;&nbsp; Radio Bochum ",
-    "zeit": "2026-11-12T16:01"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-12T21:01",
-  "archiv": []
- },
- {
-  "id": "2d4c2ecf5d",
-  "schluessel": "bochum|verletzung",
-  "person": "",
-  "spieler": [],
-  "klub": "Bochum",
-  "klubs": [
-   "Bochum"
-  ],
-  "stufe": "ausfall",
-  "klasse": "verletzung",
-  "titel": "VfL Bochum II: Passiv, schläfrig – Butscher-Ärger über Anfangsphase und verpasste Chance",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaktJbVlrS0I0SkM4UDdOYmdfWjN6c2NqbzA1czRPT0ZmcXpVYjg2Rnh4c2xwRklYdUpwa2Z5VXRBUVFPU3JGaFd0dU5PNkVfX2d6c0R3em5tWFNnS2FsOXBDU0NpS1RmNHpubkF6Nkt1MUlReTd4aXdjaU9KS09fY19CNldiOHZReXZ4Wks0clFnX1Z3LTU1MndydEFwdGFhTVdQTjI0WVlvSmVXRFJFRWdYbXNfYlFSWHBmV2JwVmlTcm1aMndscUxpVlBTcVliWWhIZVJDNzdJSDd3ckp5Zg?oc=5",
-    "aid": "70eb6d260d",
-    "titel": "VfL Bochum II: Passiv, schläfrig – Butscher-Ärger über Anfangsphase und verpasste Chance",
-    "quelle": "RevierSport online",
-    "beschr": " VfL Bochum II: Passiv, schläfrig – Butscher-Ärger über Anfangsphase und verpasste Chance &nbsp;&nbsp; RevierSport online ",
-    "zeit": "2026-11-12T18:01"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-12T21:01",
-  "archiv": [
-   {
-    "id": "6c42a192ac",
-    "titel": "KSC: Franke und Jung fehlen zum Start der Bochum-Vorbereitung",
-    "datum": "03.11.",
-    "stufe": "verletzung",
-    "summary": "Der KSC hat die Vorbereitung auf das Auswärtsspiel in Bochum am 8. November begonnen. Marcel Franke (Infekt) und Sebastian Jung (Muskelfaserriss) fehlten im Training."
-   }
-  ]
- },
- {
-  "id": "c9fe90d9bf",
-  "schluessel": "bochum|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Bochum",
-  "klubs": [
-   "Bochum"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Fußball heute DFB Pokal 2026/2027 - Achtelfinale: VfL Bochum gegen FC Augsburg am 2.12.2026",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU3NqZnhXRFJhNXRFRFEwRjY1VTNZdE5NVjJ4bWluVU5iazVKbUZJVEFTRzlrMnFDZjlTNUVUQmFpanNRWDM0eGVfelBqdHY5MFBjbjFoSGpCLW96SFZlM3NGdTlhTjV4ZG4zeUlNTzdON3YzX2sxd0JnOHFtcVhOQXVLRXk4dFRnaVE?oc=5",
-    "aid": "1a1e05ed62",
-    "titel": "Fußball heute DFB Pokal 2026/2027 - Achtelfinale: VfL Bochum gegen FC Augsburg am 2.12.2026",
-    "quelle": "www.fussballnationalmannschaft.net",
-    "beschr": " Fußball heute DFB Pokal 2026/2027 - Achtelfinale: VfL Bochum gegen FC Augsburg am 2.12.2026 &nbsp;&nbsp; www.fussballnationalmannschaft.net ",
-    "zeit": "2026-11-12T11:13"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-12T21:01",
-  "archiv": []
- },
- {
-  "id": "b32ed80741",
-  "schluessel": "bochum|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Bochum",
-  "klubs": [
-   "Bochum",
-   "Wolfsburg"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "VfL Bochum - VfL Wolfsburg, 23.10.2026: Tabelle zum Spieltag",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaUtZMksyWF82ZmFZS2otbG94aHhZVU13eVhTVEZkZldiS1BsTnJkT2p5UE4tUE1PR3E2bDBBM1pxYlpTRVNEYmctLUdkTUJHcHFuanE1V0JNLTg5d3NBMkc0Vy1RZEpEY0l2X2g3N0JPRFFLdE00NDA5bzJ0OHdsd2RWRV9CZ2FveWgzeTEzNkI5UnN1UFBubWNGOFZDN1RyX2Fsb0NkWHZMVUMwNVNIY2gzSWc?oc=5",
-    "aid": "ba65f51da5",
-    "titel": "VfL Bochum - VfL Wolfsburg, 23.10.2026: Tabelle zum Spieltag",
-    "quelle": "weltfussball.de",
-    "beschr": " VfL Bochum - VfL Wolfsburg, 23.10.2026: Tabelle zum Spieltag &nbsp;&nbsp; weltfussball.de ",
-    "zeit": "2026-11-12T14:33"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-12T21:01",
-  "archiv": []
- },
- {
-  "id": "b35f03fba9",
-  "schluessel": "wolfsburg|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Wolfsburg",
-  "klubs": [
-   "Wolfsburg",
-   "Union"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Der VfL Wolfsburg gegen Union Berlin - die Bilder",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa2YwdjByOTFkS2hQTWpkTmE5eEFwRF9RcklBQ2xIdkxoWWVuSVVNT3A3RHdFSElKVkpYVklMMGpCVjJBcGV3ODVfblNlWUNGRmd5b1FnaVFlaUVuX2ZiTEd3cGItUTIzdGc3MGlQX29YZkZ2Yk5selFWcS04ejR4dVVTaW1WcnE3RE96WDlkMk1mcFg5Mlc5U2lwbHZ0TmEyVUtrU2RLQzctSFlsSVR5S0NtX25KbWhUamx5Zw?oc=5",
-    "aid": "138485e863",
-    "titel": "Der VfL Wolfsburg gegen Union Berlin - die Bilder",
-    "quelle": "WAZ-ONLINE.de",
-    "beschr": " Der VfL Wolfsburg gegen Union Berlin - die Bilder &nbsp;&nbsp; WAZ-ONLINE.de ",
-    "zeit": "2026-11-12T19:12"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-12T21:01",
-  "archiv": []
+  "versuche": 1
  },
  {
   "id": "06827d8130",
@@ -1708,8 +627,8 @@
    }
   ],
   "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
+  "prio": 2,
+  "status": "n",
   "erstmals": "2026-11-12T21:01",
   "archiv": [
    {
@@ -1719,6 +638,66 @@
     "stufe": "sonstiges",
     "summary": "Wolfsburgs Rechtsverteidiger Saël Kumbedi wurde von Frankreichs Nationaltrainer Zinédine Zidane erstmals für die A-Nationalmannschaft nachnominiert. Er ersetzt den verletzten Pierre Kalulu für die Nations-League-Spiele gegen Italien und die Türkei."
    }
-  ]
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "22948368b7",
+  "schluessel": "bayern|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Bayern",
+  "klubs": [
+   "Bayern",
+   "Wolfsburg"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "Vor dem Bayern-Kracher: Der wichtigste Sieg des VfL Wolfsburg steht schon fest",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSjVKRC1hOVRsNklsWjlLbzQ5cHdjdE5kbDRLWW85ZzBtZUR1Q0ZJX045NGVJbV9xbE1ESGUxMHU1ckg0ZWx2bXZGeEJ0RGh4WHhWaDd3c2NLOUt0N3NoZlRDRjJ3OERZS2Zybi1fd0t5N2hJeGFsdGl4eEVDY2NnUDZvYlJ5ejNkMXEyRGVnb2JNU1JlN3BwaUNrVnUyQ1llQmdha3BqSXJYZm16ck1oLXo0NnRxb2Y0S1dhcjZmRHItUVRVZFpfZXFQUjZQVVhaeW04dmZMRzMtbFVSVW1jQklubG7SAYACQVVfeXFMUG5UV2N2LVZ0VzZwTWdWYjVERmxvdUcxMThBNE0zRm1aQXZTU3VpWUs2TGJLalNPdWZUajluMlFfbTdUdXZ5OUdRU2VGTWVxZHZEQXVta3RoSnFxclV0VkN3RzQtRlZCQXRjVEdpTDM1Rlg5WVNLOGJrY2cyX1NqYkE3MTdzeF9DZXlnQzB6X3d3WXlsNjRZOFFCNllIQm8tZUNqMmZQV1BNajJCNC1pMXhvV0RxMFdrdEJ1QzliX1VYSDcycGpYQnk2c2pKYVZTTWxNNERTQ0JXRTFZbjFBRUIyaC1MbWxTSi1Mb0RVQ2J0NmJRaXVKOEswZU1wZGVWMQ?oc=5",
+    "aid": "f54732d534",
+    "titel": "Vor dem Bayern-Kracher: Der wichtigste Sieg des VfL Wolfsburg steht schon fest",
+    "quelle": "WAZ-ONLINE.de",
+    "beschr": " Vor dem Bayern-Kracher: Der wichtigste Sieg des VfL Wolfsburg steht schon fest &nbsp;&nbsp; WAZ-ONLINE.de ",
+    "zeit": "2026-11-12T14:11"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-13T06:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "491f97e8fc",
+  "schluessel": "wolfsburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Wolfsburg",
+  "klubs": [
+   "Wolfsburg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "(k+) Damnjanovic im Interview: \"Jeder Trainer wusste, dass Wolfsburg mein Lieblingsgegner ist\"",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVVA4M2JMaUFDcXpUY0ZqR0FPNUxZWC1jalpTbHFHcXhxU3RDX2xQQjd6eVJWQTFLdHNiYkU1QzJZUkRfM1JGdDI4QlJsZkJXTnVuSk1rZEJVUTZacXpZQmtsM3Y3bThhWkV3NFVVM1pobzZVOGJGbUxjNk1BSFg3Q3dubUdVS0g0QUpDT2dJeUtWMVJhaVFTblozNEE4bldtRzZRR1I5amw0UGNGMEZaZHk5NDlfa09qNzZiTGdxY1A?oc=5",
+    "aid": "0d246a14f6",
+    "titel": "(k+) Damnjanovic im Interview: \"Jeder Trainer wusste, dass Wolfsburg mein Lieblingsgegner ist\"",
+    "quelle": "Kicker",
+    "beschr": " (k+) Damnjanovic im Interview: \"Jeder Trainer wusste, dass Wolfsburg mein Lieblingsgegner ist\" &nbsp;&nbsp; Kicker ",
+    "zeit": "2026-11-12T21:32"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-13T06:01",
+  "archiv": [],
+  "versuche": 1
  }
 ]
