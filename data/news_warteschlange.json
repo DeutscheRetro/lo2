@@ -1,34 +1,5 @@
 [
  {
-  "id": "c7a91af2cf",
-  "schluessel": "bayern|vertrag",
-  "person": "",
-  "spieler": [],
-  "klub": "Bayern",
-  "klubs": [
-   "Bayern"
-  ],
-  "stufe": "vertrag",
-  "klasse": "vertrag",
-  "titel": "Paris soll Interesse haben: Hat Upamecano eine Ausstiegsklausel im Vertrag?",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FSmxGSHhjZkxZaktFTWJ6NTlpdmg2dURKN3NpQnpBbGFINy1oYXZQWEpJZjd6RDlYSzN0Z21DdE1vTlZUMVdiZUk3VWRqeU04VTlvSGNR?oc=5",
-    "aid": "d6722300c5",
-    "titel": "Paris soll Interesse haben: Hat Upamecano eine Ausstiegsklausel im Vertrag?",
-    "quelle": "Abendzeitung München",
-    "beschr": " Paris soll Interesse haben: Hat Upamecano eine Ausstiegsklausel im Vertrag? &nbsp;&nbsp; Abendzeitung München ",
-    "zeit": "2026-11-11T17:52"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-12T15:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
   "id": "4901cc1070",
   "schluessel": "hannover|sonstiges",
   "person": "",
@@ -77,7 +48,7 @@
     "summary": "Sky-Experte Torsten Mattuschka kritisiert die Außendarstellung von Hannover 96 nach der Boldt-Entlassung als „unfassbar schlecht“. Drei Kandidaten sind laut Sky für die Nachfolge im Rennen, darunter Marko Marin."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "12995d1255",
@@ -106,6 +77,342 @@
   "status": "u",
   "erstmals": "2026-11-13T12:01",
   "archiv": [],
+  "versuche": 2
+ },
+ {
+  "id": "7329aa5869",
+  "schluessel": "heidenheim|verletzung",
+  "person": "",
+  "spieler": [],
+  "klub": "Heidenheim",
+  "klubs": [
+   "Heidenheim"
+  ],
+  "stufe": "ausfall",
+  "klasse": "verletzung",
+  "titel": "Schock in Heidenheim: Föhrenbach fällt nach Schienbeinbruch lange aus",
+  "quellen": [
+   {
+    "url": "https://www.kicker.de/schock-in-heidenheim-foehrenbach-faellt-nach-schienbeinbruch-lange-aus-1271287/artikel#omrss",
+    "aid": "12e914cd9d",
+    "titel": "Schock in Heidenheim: Föhrenbach fällt nach Schienbeinbruch lange aus",
+    "quelle": "kicker 2. Bundesliga News",
+    "beschr": "Der 1. FC Heidenheim muss lange Zeit auf eine tragende Säule in der Defensive verzichten: Jonas Föhrenbach fällt wegen eines Schienbeinbruches monatelang aus.",
+    "zeit": "2026-11-13T13:53"
+   }
+  ],
+  "archiv_status": "update",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-13T15:02",
+  "archiv": [
+   {
+    "id": "e832738c2d",
+    "titel": "Dähne fällt nach Fingerbruch mehrere Wochen aus, Feller vor Rückkehr",
+    "datum": "10.11.",
+    "stufe": "verletzung",
+    "summary": "Heidenheims Torhüter Thomas Dähne hat sich eine Grundgliedfraktur am rechten Kleinfinger zugezogen und fällt mehrere Wochen aus. Frank Feller dürfte aller Voraussicht nach ins Tor zurückkehren."
+   },
+   {
+    "id": "4dc0cf942c",
+    "titel": "Conteh feiert nach siebeneinhalb Monaten Comeback in Heidenheim",
+    "datum": "09.11.",
+    "stufe": "rueckkehr",
+    "summary": "Sirlord Conteh hat nach knapp siebeneinhalb Monaten Pause sein Comeback für Heidenheim gegeben. Im Heimspiel gegen Hannover 96 wurde er in der 75. Minute eingewechselt."
+   },
+   {
+    "id": "e8d2176e39",
+    "titel": "Hannover 96: Chakroun mit Schulterblessur, Einsatz in Heidenheim offen",
+    "datum": "02.11.",
+    "stufe": "fraglich",
+    "summary": "Hannovers Husseyn Chakroun zog sich beim 2:1 gegen Dresden eine Blessur im rechten Schultereckgelenk zu. Ein Einsatz am Sonntag in Heidenheim ist nicht ausgeschlossen."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "750e1ddf55",
+  "schluessel": "wolfsburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Wolfsburg",
+  "klubs": [
+   "Wolfsburg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Auf dem Sprung: Die Frage, die sich bei Shiogai aufdrängt",
+  "quellen": [
+   {
+    "url": "https://www.kicker.de/auf-dem-sprung-die-frage-die-sich-bei-shiogai-aufdraengt-1270683/artikel#omrss",
+    "aid": "89e7683dc7",
+    "titel": "Auf dem Sprung: Die Frage, die sich bei Shiogai aufdrängt",
+    "quelle": "kicker 2. Bundesliga News",
+    "beschr": "Startelf oder weiter Joker? Kento Shiogai erhöht beim VfL Wolfsburg den Druck, steht auf dem Sprung in die Anfangsformation. Wer muss um seinen Platz zittern? Torjäger Robert Glatzel? Oder ein Mittelfeldspieler? Der Japaner hat nach schwierigen Monaten jedenfalls mächtig zugelegt.",
+    "zeit": "2026-11-13T12:35"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-13T15:02",
+  "archiv": [
+   {
+    "id": "f57eea9f29",
+    "titel": "Reese und Damar freuen sich auf Wiedersehen mit Hertha",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Wolfsburgs Fabian Reese und Muhammed Damar freuen sich auf das Spiel bei Tabellenführer Hertha BSC am Samstag. Beide haben eine Vergangenheit in Berlin und kommen nach dem 2:0 gegen Osnabrück mit Rückenwind."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "14e6d4d169",
+  "schluessel": "osnabruck|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Osnabrück",
+  "klubs": [
+   "Osnabrück"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "VfL Osnabrück: Hat das Warten auf die „zweite Reihe“ jetzt ein Ende?",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUXo5SkxlY0xob2l2aER5Q0kwWHA2Ymswd3JMLVotYzU0N1NtM29aVGdoWmQ5WmpqbTFJNmZtZlFzNWJQaFJtaVhid0dUUWVFcy1Yd2lOWUxMQm9IdmJjNHJZb0RfUlloQ3BNeGM0VUtmdWlmNGdsaVUxOWNQeEdTd1RaeU1DN3V5eTRfS3dCTXo4a2ZmRjFucWthckVoNzFoTlBac2xWSVpmTEFLTDVrZDFhbVM0QQ?oc=5",
+    "aid": "cf1e868ceb",
+    "titel": "VfL Osnabrück: Hat das Warten auf die „zweite Reihe“ jetzt ein Ende?",
+    "quelle": "noz.de",
+    "beschr": " VfL Osnabrück: Hat das Warten auf die „zweite Reihe“ jetzt ein Ende? &nbsp;&nbsp; noz.de ",
+    "zeit": "2026-11-13T14:10"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-13T15:02",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "e536e1a321",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Hannover 96 sucht Sportdirektor: Manager-Entscheidung eine Frage des Geldes",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTnRIZXVfUDM5MVo3eVk0RlFFT2hJSzdQYlVUT3hyRVhlOGItZDdJX3JqRkIwT29LeXhDUHlCNDdqYVlValFhMUZJMlNHQXpwWVNjcWVpSTNjUkVseFdjX29ZWXZ2enRjaS0wUEtiSmFVcnI1VXNBOU84UW9RSFlSd1RrNUs4dDJPMmJVRFdQMTNkWUNPSzlFajFLZGk2Z09yZE5QYmsycGNZcklKeTNGNFBUMC1ITmdYWkUzR0xLYy1zVUtpdTJROS1SWHdycmdaTXRyZ3R6b2pMcS1KUFl2Tg?oc=5",
+    "aid": "176b76e83f",
+    "titel": "Hannover 96 sucht Sportdirektor: Manager-Entscheidung eine Frage des Geldes",
+    "quelle": "Neue Presse",
+    "beschr": " Hannover 96 sucht Sportdirektor: Manager-Entscheidung eine Frage des Geldes &nbsp;&nbsp; Neue Presse ",
+    "zeit": "2026-11-13T14:06"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "u",
+  "erstmals": "2026-11-13T15:02",
+  "archiv": [
+   {
+    "id": "1e14aee0b2",
+    "titel": "Mattuschka rügt Hannover 96: Außendarstellung „unfassbar schlecht“",
+    "datum": "06.11.",
+    "stufe": "sonstiges",
+    "summary": "Sky-Experte Torsten Mattuschka kritisiert die Außendarstellung von Hannover 96 nach der Boldt-Entlassung als „unfassbar schlecht“. Drei Kandidaten sind laut Sky für die Nachfolge im Rennen, darunter Marko Marin."
+   },
+   {
+    "id": "afa3db9641",
+    "titel": "Hannover 96 trennt sich nach fünf Monaten von Sportchef Boldt",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Hannover 96 hat Sport-Geschäftsführer Jonas Boldt nach nur fünf Monaten mit sofortiger Wirkung abberufen. Der Klub steht nach neun Spieltagen mit acht Punkten auf Platz 16."
+   },
+   {
+    "id": "cb0b737b08",
+    "titel": "Dynamo sucht in Hannover den ersten Auswärtssieg seit April",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Dynamo Dresden will bei Hannover 96 den ersten Auswärtssieg seit 204 Tagen holen. Seit dem 2:0 in Nürnberg im April blieb das Team von Trainer Thomas Stamm auswärts acht Ligaspiele ohne Sieg."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "7aad34f17b",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Hannover 96: Nächster Rückschlag bei der Suche nach einem Sportdirektor",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZTVmcEhLbmRzdnVMektEVkhNNFBMNzlvVWRWZkJ2T1pTWVhGS3oxZXp1ZFJRbE11UmlwbE13SDhKdldFMGVrQmM4RGp3WFVfQ1dySXJQVVIxYzJHQklobkVIZDdUMzlfOEVjSEVhZFJaTnZCT25wTWxLUDdia0I1dV9ZSlZZUkJtenp1QlhSR2ZWWGxma1VnV2ViRDhDLV9SOXRyalJHc0ZTaFlGNGkweG5Ldm5EcVk3bGxqOExGaG1NYXBHSkxiam5HSEU?oc=5",
+    "aid": "cf956900fa",
+    "titel": "Hannover 96: Nächster Rückschlag bei der Suche nach einem Sportdirektor",
+    "quelle": "BILD",
+    "beschr": " Hannover 96: Nächster Rückschlag bei der Suche nach einem Sportdirektor &nbsp;&nbsp; BILD ",
+    "zeit": "2026-11-13T12:44"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "u",
+  "erstmals": "2026-11-13T15:02",
+  "archiv": [
+   {
+    "id": "98f969f271",
+    "titel": "Hannover 96: Franz Roggow überzeugt als Sechser und lobt Wagners Ansatz",
+    "datum": "13.11.",
+    "stufe": "sonstiges",
+    "summary": "Hannovers Sechser Franz Roggow spielte zuletzt gegen Dresden und in Heidenheim eine wichtige Rolle und lobt Sandro Wagners Ansatz. Nach der Länderspielpause kommt Fürth am 21. November nach Hannover."
+   },
+   {
+    "id": "1e14aee0b2",
+    "titel": "Mattuschka rügt Hannover 96: Außendarstellung „unfassbar schlecht“",
+    "datum": "06.11.",
+    "stufe": "sonstiges",
+    "summary": "Sky-Experte Torsten Mattuschka kritisiert die Außendarstellung von Hannover 96 nach der Boldt-Entlassung als „unfassbar schlecht“. Drei Kandidaten sind laut Sky für die Nachfolge im Rennen, darunter Marko Marin."
+   },
+   {
+    "id": "46380a1986",
+    "titel": "Wontorra stärkt Hannovers Trainer Wagner den Rücken",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Moderatorin Laura Wontorra stärkt Hannovers Trainer Sandro Wagner, der nach vier Pflichtspielen noch sieglos ist, im Podcast „TOMorrow“ den Rücken. Sie traut ihm eine große Trainerkarriere zu."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "63fd226a99",
+  "schluessel": "hertha|verletzung",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha"
+  ],
+  "stufe": "ausfall",
+  "klasse": "verletzung",
+  "titel": "Hertha BSC: Ex-Hertha-Star Brooks fällt wieder aus",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY19tOUJFWWRubnFaZWV3RjM1WFk1UzFUSWhMOW5jeURQODM0XzNzQ0xoaXdPcnN0ZFZhcFBRdURFdjc1WUdTeVBVSU0tSG1neGVkcmpjeHlaWVU5TXY4bUYxZjZyT19Pd0NDQXQxV20xSHF0YTBxUTZyOUwtYWJoSlVCUkFIXzdPM2QyZWtPX01kQ2JSLURPTmRiSmY0X3NLX0NuTVNEbHZMczJwckQxR0FTVQ?oc=5",
+    "aid": "189d42f06d",
+    "titel": "Hertha BSC: Ex-Hertha-Star Brooks fällt wieder aus",
+    "quelle": "BZ Berlin",
+    "beschr": " Hertha BSC: Ex-Hertha-Star Brooks fällt wieder aus &nbsp;&nbsp; BZ Berlin ",
+    "zeit": "2026-11-13T14:24"
+   }
+  ],
+  "archiv_status": "update",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-13T15:02",
+  "archiv": [
+   {
+    "id": "a53f453ba2",
+    "titel": "Hertha: Zeefuik trifft, Sorgen um Pedersen",
+    "datum": "09.11.",
+    "stufe": "fraglich",
+    "summary": "Deyo Zeefuik traf beim 2:1 der Hertha gegen Wolfsburg zum 2:0 und verschärft die Konkurrenz auf den Außenverteidigerpositionen. Mads Pedersen wird wegen Oberschenkelproblemen untersucht, sein Einsatz in Cottbus ist offen."
+   },
+   {
+    "id": "7e1135c173",
+    "titel": "Leitl vor Reese-Rückkehr: „Es geht um den VfL Wolfsburg“",
+    "datum": "05.11.",
+    "stufe": "rueckkehr",
+    "summary": "Herthas Trainer Stefan Leitl will die Rückkehr von Fabian Reese vor dem Spitzenspiel gegen Wolfsburg nüchtern betrachten. Der ungeschlagene Tabellenführer trifft am Samstagabend im Olympiastadion auf den Drittplatzierten."
+   },
+   {
+    "id": "f32559af08",
+    "titel": "Hertha vor Wolfsburg: Nilsson und Dardai zurück im Training",
+    "datum": "03.11.",
+    "stufe": "rueckkehr",
+    "summary": "Herthas Stürmer Gustaf Nilsson und Innenverteidiger Marton Dardai sind nach Verletzungen ins Mannschaftstraining zurückgekehrt. Am Samstagabend wartet im Olympiastadion das Topspiel gegen Wolfsburg."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "99d5ce7a00",
+  "schluessel": "bochum|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Bochum",
+  "klubs": [
+   "Bochum"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "VfL Bochum: Ouro-Tagba überragt mit Hattrick, Verl bangt vor RWE-Spiel um Mika Clausen",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNckNON0ItYlVHazR1RDM5UnlPOVhLVk5qRjkyZDZoUFZJQ2ZOYzNyU0d1dTAwclBSLWFxMXUyU204Ni1hU01sWENNZ1Iyd2RaeHcwQUlfd3FJeWFPYmdjenNKMjJ2Q2wxV1ZOeUNuLUVXSVJ1R2FwejVvaDRrM1RUY1l3Sks3M1FLTXJuY09OTTlyNVptQUcydHNuVGpqcHZfV2VmUkE5VnFsUlduaW1iYmhPMGtsaVBSa0ZqaWNNNTRWLWZEcGRIMEVFV2VfemJHNEdDMGZhcnFYYnI5?oc=5",
+    "aid": "fe1e7a86e3",
+    "titel": "VfL Bochum: Ouro-Tagba überragt mit Hattrick, Verl bangt vor RWE-Spiel um Mika Clausen",
+    "quelle": "RevierSport online",
+    "beschr": " VfL Bochum: Ouro-Tagba überragt mit Hattrick, Verl bangt vor RWE-Spiel um Mika Clausen &nbsp;&nbsp; RevierSport online ",
+    "zeit": "2026-11-13T14:09"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-13T15:02",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "703d92a2eb",
+  "schluessel": "wolfsburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Wolfsburg",
+  "klubs": [
+   "Wolfsburg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "VfL Wolfsburg nimmt Verhandlungen über Verpflichtung von Talent Gabriel Wesseh auf",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZngtZS12NWRkNERkeS1yT1pkSXVTa0xKWGs0T2hxNlN1RXluLWk2VGhjOHE1UjM2cEIwWVhiZ3JsWE44dWtfLUlZaDQ3X21LYlFiTms2RmVlSUFqd2FONjJLeUZMUkMxc2dHVndiVlZRaS1BaHFHT3AxNkFGbTh1anp0REFjaVRLeno2eElPcWZBNFJ1bnVsU3A2QUlybFMzYmpBMXBOZmdGOUQ5ZEI5Qzl1X3RWSUJBclNxcU9Ub9IBxAFBVV95cUxOTkR5YmFqOW5mQXJCN0RleDZ2QV92TTU2cGlWSTNxUnUwWkpxN1Bwa2JENUt1ejJxNFNEVWtSZzR3bElPbTdhTXVrbW8zNHJueXZVQkszSnp3RFNqSE0xZDE0RGxvTWpZdXdNdGYtTnp2S3F6aDRhN19nM1VnVzhNeXhBRks3OENFTV9LMWdaSHVfTWp2M3c5TXdNeFBTT1JscVZ2dkhKOFJ3V0pTek1vVGh3c1NJMmN0VHVzRnQ0V2x2alVG?oc=5",
+    "aid": "4f357b2358",
+    "titel": "VfL Wolfsburg nimmt Verhandlungen über Verpflichtung von Talent Gabriel Wesseh auf",
+    "quelle": "Tribuna.com",
+    "beschr": " VfL Wolfsburg nimmt Verhandlungen über Verpflichtung von Talent Gabriel Wesseh auf &nbsp;&nbsp; Tribuna.com ",
+    "zeit": "2026-11-13T09:28"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "u",
+  "erstmals": "2026-11-13T15:02",
+  "archiv": [
+   {
+    "id": "21226d5f23",
+    "titel": "Wolfsburgs Saël Kumbedi erstmals in Frankreichs A-Nationalmannschaft",
+    "datum": "09.11.",
+    "stufe": "sonstiges",
+    "summary": "Wolfsburgs Rechtsverteidiger Saël Kumbedi wurde von Frankreichs Nationaltrainer Zinédine Zidane erstmals für die A-Nationalmannschaft nachnominiert. Er ersetzt den verletzten Pierre Kalulu für die Nations-League-Spiele gegen Italien und die Türkei."
+   }
+  ],
   "versuche": 1
  }
 ]
