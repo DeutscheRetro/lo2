@@ -1,5 +1,39 @@
 [
   {
+    "id": "1f1da8c554",
+    "titel": "Heidenheim muss monatelang auf Föhrenbach verzichten",
+    "kategorie": "verletzung",
+    "badge": "Verletzung",
+    "badge_bg": "#e53935",
+    "badge_fg": "#fff",
+    "datum": "14.11.2026 06:02",
+    "wappen_url": "logos/heidenheim.png",
+    "vereine": [
+      "Heidenheim"
+    ],
+    "anriss": "Der 1. FC Heidenheim muss mehrere Monate auf Innenverteidiger Jonas Föhrenbach verzichten. Der 30-Jährige zog sich im Training am Donnerstag (12.11.) einen Bruch des linken Schienbeins zu, wie der Zweitligist mitteilte. Die Operation erfolgte noch am selben Tag und verlief nach Club-Angaben erfolgreich. Föhrenbach zählte",
+    "spielerstatus": [
+      {
+        "spieler": "Föhrenbach",
+        "klub": "Heidenheim",
+        "status": "faellt_aus",
+        "grund": "Schienbeinbruch, mehrere Monate Pause"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Heidenheim",
+    "pfad": "artikel/heidenheim-muss-monatelang-auf-foehrenbach-verzichten-1f1da8c554.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "reaktion",
+      "frage": "",
+      "antworten": [
+        "💚 Gute Besserung"
+      ]
+    },
+    "n11": false
+  },
+  {
     "id": "2ccfd9528b",
     "titel": "Dynamo Dresden gewinnt Test gegen Dukla Prag mit 2:0",
     "kategorie": "news",
