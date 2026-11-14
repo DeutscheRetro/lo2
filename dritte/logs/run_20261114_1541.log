@@ -1,0 +1,134 @@
+2026-11-14 15:41:14,516 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 1 passende Treffer
+2026-11-14 15:41:14,517 INFO S7 Ersatzquelle liefert Text (120 Wörter, 1 Quellen): Kimmich nach Rückkehr: Hier am absolut richtigen Ort
+2026-11-14 15:41:14,517 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 0 passende Treffer
+2026-11-14 15:41:14,517 INFO FinalCheck SKIP: borussia mönchengladbach/{'max muster'} stage=geruecht bereits in Archiv
+2026-11-14 15:41:14,517 INFO FinalCheck SKIP: borussia mönchengladbach/set() stage=geruecht bereits in Archiv
+2026-11-14 15:41:24,126 INFO 💶 Budget: dieser Lauf 0.000 $ | heute 0.00 $ | Monat 0.00 / 0 $
+2026-11-14 15:41:24,128 INFO URL-Cache geladen: 2385 bekannte URLs (letzte 30 Tage)
+2026-11-14 15:41:24,128 INFO === LO Generator startet – max. 50 Artikel ===
+2026-11-14 15:41:24,128 INFO Feed: https://newsfeed.kicker.de/news/3-liga
+2026-11-14 15:41:24,507 INFO Feed: https://www.sport.de/rss/news/
+2026-11-14 15:41:24,895 INFO Feed: https://www.11freunde.de/feed
+2026-11-14 15:41:26,137 WARNING Spielerliste nicht verfügbar: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-14 15:41:26,137 INFO BL-Spielerliste geladen: 0 Namen
+2026-11-14 15:41:26,137 INFO S3 keyword miss: Serbien vs. Deutschland – Reaktionen: „Früher nannte man das
+2026-11-14 15:41:26,138 INFO Feed: https://news.google.com/rss/search?q=%223.+Liga%22&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:41:26,700 INFO S3 keyword miss: (k+) Fortuna: Brisante Dokumente werfen Fragen auf
+2026-11-14 15:41:26,702 INFO S3 keyword miss: Ex-Drittliga-Spieler #6: Was macht eigentlich Christian Beck
+2026-11-14 15:41:26,703 INFO S3 keyword miss: 3. Liga 2026/27: Termine und Spielplan der 19. Saison
+2026-11-14 15:41:26,704 INFO S2 blacklist: Übertragung der 3. Liga 26/27: Welche Spiele laufen im Free-
+2026-11-14 15:41:26,704 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Verletzung+Ausfall+gesperrt&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:41:27,037 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Transfer+Wechsel+verpflichtet&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:41:27,434 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Ger%C3%BCcht+Interesse+Angebot&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:41:27,807 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Vertrag+verl%C3%A4ngert+abl%C3%B6sefrei&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:41:28,097 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Trainer+Entlassung&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:41:28,461 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Saarbr%C3%BCcken%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:41:28,850 INFO S3 keyword miss: Saarland: Geplantes Polizeigesetz soll Saar-Fußballvereinen 
+2026-11-14 15:41:28,852 INFO S3 keyword miss: Max Reinthaler: Bilanz gegen Gegenspieler, Trainer & Vereine
+2026-11-14 15:41:28,854 INFO S3 keyword miss: Duell der Namensvettern: Elias gegen Elias – wer hält seinen
+2026-11-14 15:41:28,856 INFO S3 keyword miss: Marokko - Niger Live Stream | Jetzt Anmelden | DAZN DE
+2026-11-14 15:41:28,858 INFO S3 keyword miss: 50 Tage bis zum Liebherr Pokal Final4: Weltklasse-Tischtenni
+2026-11-14 15:41:28,858 INFO Feed: https://news.google.com/rss/search?q=%22Alemannia+Aachen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:41:29,118 INFO Feed: https://news.google.com/rss/search?q=%22FC+Ingolstadt%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:41:29,378 INFO S2 blacklist: Karlsruher SC U17
+2026-11-14 15:41:29,380 INFO S3 keyword miss: 113th Grey Cup: Montreal Alouettes vs. Edmonton Elks CFL
+2026-11-14 15:41:29,381 INFO Feed: https://news.google.com/rss/search?q=%22Fortuna+D%C3%BCsseldorf%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:41:29,756 INFO S3 keyword miss: Fortuna II siegt nach Rückstand – Verletzungen überschatten 
+2026-11-14 15:41:29,758 INFO S3 keyword miss: Michael Busch: Warum Fortunas Aufsichtsratschef nicht reden 
+2026-11-14 15:41:29,760 INFO S3 keyword miss: Velbert gegen Fortuna II: Für zwei Spieler ging es ins Krank
+2026-11-14 15:41:29,762 INFO S3 keyword miss: „Keine Graubereiche mehr“ – Fabian zieht Langeneke-Bilanz mi
+2026-11-14 15:41:29,763 INFO S2 blacklist: Fortuna Düsseldorf - Beliebtheitsrangliste - Vereine
+2026-11-14 15:41:29,766 INFO S3 keyword miss: Als möglicher Lord-Ersatz: Seit Dienstag im Fortuna-Training
+2026-11-14 15:41:29,768 INFO S3 keyword miss: Vor dem Sonntag der Entscheidung: Wer zieht in den Fortuna-A
+2026-11-14 15:41:29,770 INFO S3 keyword miss: Ähnliche Bilderstrecken
+2026-11-14 15:41:29,770 INFO Feed: https://news.google.com/rss/search?q=%22Fortuna+K%C3%B6ln%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:41:30,173 INFO S3 keyword miss: Joshua Schwirten: Bilanz gegen Gegenspieler, Trainer & Verei
+2026-11-14 15:41:30,174 INFO S2 blacklist: Spielereignisse | Penzliner SV - Hansa Rostock 0:10 | Achtel
+2026-11-14 15:41:30,174 INFO Feed: https://news.google.com/rss/search?q=%22Hansa+Rostock%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:41:30,470 INFO S2 blacklist: Landespokal: Hansa Rostock bei Penzliner SV heute live im Fr
+2026-11-14 15:41:30,473 INFO S3 keyword miss: FC Mecklenburg Schwerin gegen Greifswalder FC: Warum das Pok
+2026-11-14 15:41:30,473 INFO Feed: https://news.google.com/rss/search?q=%22Jahn+Regensburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:41:30,760 INFO S2 blacklist: SSV Jahn Regensburg U17
+2026-11-14 15:41:30,762 INFO S3 keyword miss: Asger Sörensen: Bilanz gegen Gegenspieler, Trainer & Vereine
+2026-11-14 15:41:30,763 INFO Feed: https://news.google.com/rss/search?q=%22MSV+Duisburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:41:31,063 INFO S3 keyword miss: Herner EV gewinnt Derby-Krimi
+2026-11-14 15:41:31,065 INFO S3 keyword miss: 3. Liga: Das sind die Meister Favoriten der Buchmacher!
+2026-11-14 15:41:31,066 INFO S3 keyword miss: 3. Liga Meister Quoten: Die Titelfavoriten der Buchmacher!
+2026-11-14 15:41:31,068 INFO S3 keyword miss: Felix Gehrmann
+2026-11-14 15:41:31,070 INFO S3 keyword miss: Yannick Stark: Von dieser Tingelei habe ich genug
+2026-11-14 15:41:31,071 INFO S2 blacklist: Spielereignisse | VfL Osnabrück - Wuppertaler SV 4:0 | 5. Sp
+2026-11-14 15:41:31,073 INFO S3 keyword miss: Polizei-News Neudorf, 14.11.26: Auseinandersetzung nach Eish
+2026-11-14 15:41:31,074 INFO S3 keyword miss: Neudorf: Angriff auf Herner Fans nach Eishockeyspiel
+2026-11-14 15:41:31,075 INFO Feed: https://news.google.com/rss/search?q=%22Preu%C3%9Fen+M%C3%BCnster%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:41:31,373 INFO S3 keyword miss: Wertvoller Westfalenpokal: Beim FC Gütersloh ist es jetzt Ze
+2026-11-14 15:41:31,374 INFO Feed: https://news.google.com/rss/search?q=%22Rot-Weiss+Essen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:41:31,671 INFO S2 blacklist: 1. FC Köln U17 - Rot-Weiss Essen U17 Live ticker, H2H und Au
+2026-11-14 15:41:31,673 INFO S2 blacklist: RWE II: Mit U19-Trio und Marcel Platzek in Topform zum Dreie
+2026-11-14 15:41:31,674 INFO S3 keyword miss: Marvin Paulsen
+2026-11-14 15:41:31,677 INFO S3 keyword miss: Dominik Becker: Bilanz gegen Gegenspieler, Trainer & Vereine
+2026-11-14 15:41:31,678 INFO S3 keyword miss: Fussball Nationalmannschaft - Die Mannschaft, Bilder, Fußbal
+2026-11-14 15:41:31,681 INFO S3 keyword miss: Fussball Nationalmannschaft - Die Mannschaft, Bilder, Fußbal
+2026-11-14 15:41:31,681 INFO Feed: https://news.google.com/rss/search?q=%22SC+Verl%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:41:31,981 INFO S2 kein BL-Klub im Titel: VfL Bochum: Startet Mansour Ouro-Tagba durch?
+2026-11-14 15:41:31,981 INFO Feed: https://news.google.com/rss/search?q=%22Sonnenhof+Gro%C3%9Faspach%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:41:32,270 INFO S3 keyword miss: Nach verpasster Tabellenführung: SG Schorndorf will zurück i
+2026-11-14 15:41:32,271 INFO S2 kein BL-Klub im Titel: Auf unbestimmte Zeit: HSV muss auf Yussuf Poulsen verzichten
+2026-11-14 15:41:32,271 INFO Feed: https://news.google.com/rss/search?q=%22SV+Meppen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:41:32,605 INFO S3 keyword miss: Michelle Ulbrich: Bilanz gegen Gegenspieler, Trainer & Verei
+2026-11-14 15:41:32,606 INFO S2 kein BL-Klub im Titel: Hamburger SV - 1. FSV Mainz 05 Live Stream | Jetzt Anmelden 
+2026-11-14 15:41:32,607 INFO S3 keyword miss: Minos Gouras: Bilanz gegen Gegenspieler, Trainer & Vereine
+2026-11-14 15:41:32,609 INFO S3 keyword miss: Judith Steinert: Bilanz gegen Gegenspieler, Trainer & Verein
+2026-11-14 15:41:32,609 INFO Feed: https://news.google.com/rss/search?q=%22Waldhof+Mannheim%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:41:32,930 INFO S3 keyword miss: Claudio Kammerknecht: Alle Spiele 2018/19 – Einsätze, Tore &
+2026-11-14 15:41:32,933 INFO Feed: https://news.google.com/rss/search?q=%22Wehen+Wiesbaden%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:41:33,198 INFO S3 keyword miss: Vom Hoffnungsträger zum Bankdrücker: Was ist los mit Union-T
+2026-11-14 15:41:33,198 INFO S2 kein BL-Klub im Titel: Kickers Offenbach bindet Nachwuchskeeper ins Training ein
+2026-11-14 15:41:33,198 INFO Feed: https://news.google.com/rss/search?q=%22Hoffenheim+II%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:41:33,495 INFO S3 keyword miss: Kreisklasse A Sinsheim
+2026-11-14 15:41:33,495 INFO Feed: https://news.google.com/rss/search?q=%22TSV+Havelse%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:41:33,775 INFO Feed: https://news.google.com/rss/search?q=%22VfB+Stuttgart+II%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:41:34,034 INFO S3 keyword miss: Nicolas Sessa: Bilanz gegen Gegenspieler, Trainer & Vereine
+2026-11-14 15:41:34,034 INFO Feed: https://news.google.com/rss/search?q=%22Viktoria+K%C3%B6ln%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:41:34,276 INFO Feed: https://news.google.com/rss/search?q=%22W%C3%BCrzburger+Kickers%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:41:34,557 INFO S3 keyword miss: Kundin stoppt Ladendieb in Schönberg
+2026-11-14 15:41:34,558 INFO S2 blacklist: Spielinfo | SC Dortelweil - Karlsruher SC : | 10. Spieltag |
+2026-11-14 15:41:34,560 INFO S3 keyword miss: Volkstrauertag: Spurensuche vom Bayerischen Wald nach Frankr
+2026-11-14 15:41:34,562 INFO S3 keyword miss: Autofahrer unter Alkoholeinfluss in Deggendorf
+2026-11-14 15:41:34,564 INFO S3 keyword miss: Polizei stoppt 46-Jährige unter Drogenverdacht in Passau
+2026-11-14 15:41:34,564 INFO Feed: https://newsfeed.kicker.de/team/1-fc-saarbruecken
+2026-11-14 15:41:34,746 INFO Feed: https://newsfeed.kicker.de/team/alemannia-aachen
+2026-11-14 15:41:34,945 INFO Feed: https://newsfeed.kicker.de/team/fc-ingolstadt-04
+2026-11-14 15:41:35,131 INFO Feed: https://newsfeed.kicker.de/team/fortuna-duesseldorf
+2026-11-14 15:41:35,309 INFO Feed: https://newsfeed.kicker.de/team/hansa-rostock
+2026-11-14 15:41:35,488 INFO Feed: https://newsfeed.kicker.de/team/jahn-regensburg
+2026-11-14 15:41:35,668 INFO Feed: https://newsfeed.kicker.de/team/msv-duisburg
+2026-11-14 15:41:35,844 INFO Feed: https://newsfeed.kicker.de/team/preussen-muenster
+2026-11-14 15:41:36,037 INFO Feed: https://newsfeed.kicker.de/team/rot-weiss-essen
+2026-11-14 15:41:36,219 INFO Feed: https://newsfeed.kicker.de/team/sc-verl
+2026-11-14 15:41:36,400 INFO Feed: https://newsfeed.kicker.de/team/waldhof-mannheim
+2026-11-14 15:41:36,589 INFO Feed: https://newsfeed.kicker.de/team/sv-wehen-wiesbaden
+2026-11-14 15:41:36,762 INFO Feed: https://newsfeed.kicker.de/team/tsg-hoffenheim-ii
+2026-11-14 15:41:36,945 INFO Feed: https://newsfeed.kicker.de/team/tsv-havelse
+2026-11-14 15:41:37,121 INFO Feed: https://newsfeed.kicker.de/team/vfb-stuttgart-ii
+2026-11-14 15:41:37,311 INFO Feed: https://newsfeed.kicker.de/team/fc-viktoria-koeln
+2026-11-14 15:41:37,484 INFO Eingelesen: 31 Schlagzeilen nach den Gratis-Filtern
+2026-11-14 15:41:37,502 INFO S5: 31 neue Geschichten, 0 schon berichtet, 0 zu wartenden Geschichten ergänzt, 4 warten
+2026-11-14 15:41:39,619 WARNING S6 Redaktionskonferenz fehlgeschlagen: CLI-Fehler: You've hit your 5-hour limit · resets 4pm (Europe/Berlin)
+2026-11-14 15:41:40,526 INFO S7 kein Volltext (too_short_75_words): Rot-Weiss Essen: RWE-Kader wird immer dünner - Zwei Wackelka
+2026-11-14 15:41:40,796 INFO S7 Ersatzquellen für "Rot-Weiss Essen: RWE-Kader wird immer dünner - Zwe": 0 passende Treffer
+2026-11-14 15:41:40,796 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Rot-Weiss Essen: RWE-Kader wird immer dünner - Zwei Wackelka
+2026-11-14 15:41:42,555 INFO S7 kein Volltext (too_short_63_words): Jahn-Freude im Duell der Freunde: Keeper Schmitt mit weißer 
+2026-11-14 15:41:42,804 INFO S7 Ersatzquellen für "Jahn-Freude im Duell der Freunde: Keeper Schmitt m": 0 passende Treffer
+2026-11-14 15:41:42,804 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Jahn-Freude im Duell der Freunde: Keeper Schmitt mit weißer 
+2026-11-14 15:41:43,091 INFO S7 Ersatzquellen für "Klublegende, Pechvogel - Helfer in der Not? Wie Mü": 0 passende Treffer
+2026-11-14 15:41:43,091 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Klublegende, Pechvogel - Helfer in der Not? Wie Münster mit 
+2026-11-14 15:41:44,322 INFO S7 kein Volltext (low_unique_content_ratio): Auswärtstest in Regensburg endet mit Niederlage
+2026-11-14 15:41:44,621 INFO S7 Ersatzquellen für "Auswärtstest in Regensburg endet mit Niederlage": 0 passende Treffer
+2026-11-14 15:41:44,621 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Auswärtstest in Regensburg endet mit Niederlage
+2026-11-14 15:41:44,623 INFO S9.5 FinalCheck: 0/0 durch
+2026-11-14 15:41:44,625 WARNING Sitemap ohne Spielerseiten: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-14 15:41:44,627 INFO 💶 Kosten: dieser Lauf 0.000 $ (Budget 0.000 $) | heute 0.00 $ | Monat 0.00 / 0 $ | 
+2026-11-14 15:41:44,631 INFO Feeds: 45/45 begonnen, nächster Lauf startet bei Nr. 0
+2026-11-14 15:41:44,631 INFO URL-Cache gespeichert: 2482 URLs
+2026-11-14 15:41:44,631 INFO === Fertig. 0 neue Artikel. feed.json: 39 ===
+2026-11-14 15:41:44,631 INFO Stats: {"ts": "20261114_1541", "ingested": 97, "s2_pre_filter": 19, "s3_relevance": 44, "s4_dedup_early": 0, "gesammelt": 31, "geschichten_neu": 31, "s5_archiv_doppelt": 0, "s5_zusammengefuehrt": 0, "s6_aussortiert": 0, "s7_geschrieben": 0, "s7_verworfen": 0, "s5_fulltext_fail": 4, "s8_qa_rejected": 0, "published": 0, "kosten": {"lauf_usd": 0.0, "lauf_budget_usd": 0.0, "heute_usd": 0.0, "monat_usd": 0.0, "monatsbudget_usd": 0.0, "aufrufe": {}, "guthaben_leer": false, "abo": true, "abo_tokens": {}}}
