@@ -1,5 +1,83 @@
 [
   {
+    "id": "96554425a6",
+    "titel": "Großaspach verliert Test beim KSC, Öztunali startet direkt",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "14.11.2026 19:59",
+    "wappen_url": "logos/grossaspach.png",
+    "vereine": [
+      "Großaspach"
+    ],
+    "anriss": "Die SG Sonnenhof Großaspach hat ein Testspiel beim Zweitligisten Karlsruher SC mit 0:2 verloren. Neuzugang Levin Öztunali stand dabei direkt in der Startelf der Drittligisten. Die Tore für Karlsruhe erzielten Kapitän Marvin Wanitzek per Foulelfmeter in der 13. Minute und Marcel Franke in der 55.",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Großaspach",
+    "pfad": "artikel/grossaspach-verliert-test-beim-ksc-oeztunali-startet-direkt-96554425a6.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "1e0343b822",
+    "titel": "Fortuna Düsseldorf verzichtet auf Probekeeper Phillip Menzel",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "14.11.2026 19:58",
+    "wappen_url": "logos/duesseldorf.png",
+    "vereine": [
+      "Düsseldorf"
+    ],
+    "anriss": "Fortuna Düsseldorf verpflichtet den vereinslosen Torhüter Phillip Menzel nicht. Der 28-Jährige hatte in den vergangenen Tagen als Probekeeper trainiert, einen Vertrag erhält er nicht. Hintergrund ist der Ausfall von Stammkeeper Louis Lord, der wegen einer Rippen- und Brustkorb-Verletzung mehrere Wochen fehlt. Laut „Rheinische Post“ hinterließ",
+    "spielerstatus": [
+      {
+        "spieler": "Lord",
+        "klub": "Düsseldorf",
+        "status": "faellt_aus",
+        "grund": "Rippen- und Brustkorb-Verletzung, mehrere Wochen"
+      },
+      {
+        "spieler": "Rieß",
+        "klub": "Düsseldorf",
+        "status": "startelf",
+        "grund": "ersetzt verletzten Lord im Tor"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Düsseldorf",
+    "pfad": "artikel/fortuna-duesseldorf-verzichtet-auf-probekeeper-phillip-menzel-1e0343b822.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "7b1d47f7dc",
+    "titel": "Fortuna im Pokal gegen Duisburg: Rieß ersetzt verletzten Lord im Tor",
+    "kategorie": "aufstellung",
+    "badge": "Aufstellung",
+    "badge_bg": "#2e7d32",
+    "badge_fg": "#fff",
+    "datum": "14.11.2026 19:58",
+    "wappen_url": "logos/duesseldorf.png",
+    "vereine": [
+      "Duisburg",
+      "Düsseldorf",
+      "Ingolstadt"
+    ],
+    "anriss": "Fortuna Düsseldorf muss im Viertelfinale des Niederrheinpokals gegen den MSV Duisburg am Mittwoch auf Stammtorhüter Louis Lord verzichten. Lasse Rieß wird den verletzten Keeper im Tor vertreten. Unter Trainer Jens Langeneke sucht die Fortuna nach zwei Remis und einer Niederlage den ersten Sieg. Rieß war",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Düsseldorf",
+    "pfad": "artikel/fortuna-im-pokal-gegen-duisburg-riess-ersetzt-verletzten-lord-im-tor-7b1d47f7dc.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
     "id": "274e8d4885",
     "titel": "Jahn Regensburg schlägt Blau-Weiß Linz im Test 2:0",
     "kategorie": "news",

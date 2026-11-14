@@ -881,5 +881,74 @@
     },
     "published_at": "2026-11-13T16:54:24.805026",
     "source": "RP Online"
+  },
+  {
+    "id": "1e0343b822",
+    "generated_title": "Fortuna Düsseldorf verzichtet auf Probekeeper Phillip Menzel",
+    "original_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZlc4VG0xQW5YOEg3eE9vSEMwdGZwck5vNFEwNGpqT2FBbXRYS2wzdzZVLWx2clFmUURFcWdhM09meHJ6T2MzSS1PQ1p5YXREVWdRbk1pckc1M2lzU25kZk9fR1IxZzQwaHBHWGttN3FYOW5teHNZa2FnZVRFOU1YVXBmdklCeUNuSHlUTEFB?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Düsseldorf",
+      "event_stage": "sonstiges",
+      "main_teams": [
+        "Düsseldorf"
+      ],
+      "main_players": [
+        "Phillip Menzel",
+        "Lasse Rieß",
+        "Louis Lord"
+      ],
+      "summary": "Fortuna Düsseldorf gibt Probekeeper Phillip Menzel keinen Vertrag, da Louis Lord in einigen Wochen zurückerwartet wird. Bis dahin hütet Lasse Rieß das Tor.",
+      "one_sentence_summary": "Fortuna Düsseldorf gibt Probekeeper Phillip Menzel keinen Vertrag, da Louis Lord in einigen Wochen zurückerwartet wird.",
+      "schluessel": "phillip menzel|sonstiges"
+    },
+    "published_at": "2026-11-14T19:59:21.733376",
+    "source": "Liga3-Online"
+  },
+  {
+    "id": "7b1d47f7dc",
+    "generated_title": "Fortuna im Pokal gegen Duisburg: Rieß ersetzt verletzten Lord im Tor",
+    "original_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORmJYbktsOUQ4SUtNUXVqaFlNNXU2MkRoODFkZ3Z4VnFjSExteVV3OVB6c1p2d0U3VW5ERXpzMTBMM3VXUjV0Skk4RjRuS0NyVUJyVGtoYVFkSERLRkdDZk9WYi1jSU5fc1ZYblVtbjREMERpNklnTEVwdUd1NnpFQUF4VDVHUzFmVzhUWXF0Q1M4cll2eG1VTmt3bW40Qi1naEVBYW5FNzM4NGQwc25EdVM1ZGdXSjRzTExXUzd3TFpRS1U?oc=5",
+    "fingerprint": {
+      "event_type": "aufstellung",
+      "main_club": "Düsseldorf",
+      "event_stage": "kader",
+      "main_teams": [
+        "Duisburg",
+        "Düsseldorf",
+        "Ingolstadt"
+      ],
+      "main_players": [
+        "Lasse Rieß",
+        "Jens Langeneke",
+        "Louis Lord"
+      ],
+      "summary": "Fortuna Düsseldorf spielt am Mittwoch im Niederrheinpokal-Viertelfinale gegen Duisburg ohne den verletzten Louis Lord. Lasse Rieß rückt ins Tor, Trainer Jens Langeneke sucht den ersten Sieg.",
+      "one_sentence_summary": "Fortuna Düsseldorf spielt am Mittwoch im Niederrheinpokal-Viertelfinale gegen Duisburg ohne den verletzten Louis Lord.",
+      "schluessel": "lasse riess|kader"
+    },
+    "published_at": "2026-11-14T19:59:21.791905",
+    "source": "RP Online"
+  },
+  {
+    "id": "96554425a6",
+    "generated_title": "Großaspach verliert Test beim KSC, Öztunali startet direkt",
+    "original_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQVZCXzhFZkxrXzRDY2ExNkIwM2xicXhGLUtXSzBtcHJqdWN5LU9DaDRqZ09tcld0RUhSUldmcC1aV00zVktWWktHR3l3LTBfMXhCWW1TMTFkT3lGcXRpUzNPYW5LamRsdG9xM2FQR0RwRTUzdTJFU0FsZ3h1Tk5ycWNaOFQzZGdxckZZZjVrdWVwYnBGcXdoRnVYXzRXSmVWM0hqZGMtdWxIbnMwZG9VLWV3LVRiTGNaZTdZbFdmRlg1UVE?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Großaspach",
+      "event_stage": "spielbericht",
+      "main_teams": [
+        "Großaspach"
+      ],
+      "main_players": [
+        "Levin Öztunali"
+      ],
+      "summary": "Großaspach verlor ein Testspiel beim Karlsruher SC mit 0:2. Neuzugang Levin Öztunali stand direkt in der Startelf.",
+      "one_sentence_summary": "Großaspach verlor ein Testspiel beim Karlsruher SC mit 0:2.",
+      "schluessel": "levin oztunali|spiel"
+    },
+    "published_at": "2026-11-14T19:59:21.848793",
+    "source": "Wochenblatt Reporter"
   }
 ]

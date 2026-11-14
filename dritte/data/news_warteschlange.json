@@ -1,41 +1,5 @@
 [
  {
-  "id": "dba6080cf1",
-  "schluessel": "rostock|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Rostock",
-  "klubs": [
-   "Rostock"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "10:0! Hansa Rostock nimmt die Pokalhürde Penzlin locker",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdzEtVHVtTFJuY2U1RmE3ckpROGViLWFvSlZ6SGR6bjN2UnJtYkZpT0pXYmlhU2x6ZjB5enAtanpVaHBmeXdTX1JzVE5taWlOdmw2UEg5dmlGR1pjYzI3QjJseVBKNFpQeUNORE5tMlhqX1lfN3JFYmVTZmk2VHM3YWVzSUVEMFBSb3lwSFJEVzA3NmJSS193YjdjVXdwcDlrVGZNem9kNDRQTnVjRnc?oc=5",
-    "aid": "46e19c6016",
-    "titel": "10:0! Hansa Rostock nimmt die Pokalhürde Penzlin locker",
-    "quelle": "NDR.de",
-    "beschr": " 10:0! Hansa Rostock nimmt die Pokalhürde Penzlin locker &nbsp;&nbsp; NDR.de ",
-    "zeit": "2026-11-14T15:20"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-14T15:41",
-  "archiv": [
-   {
-    "id": "67702106bd",
-    "titel": "Hansa Rostock schlägt Großaspach 3:0 und beendet die Verunsicherung",
-    "datum": "07.11.",
-    "stufe": "spielbericht",
-    "summary": "Hansa Rostock gewinnt am 13. Spieltag 3:0 gegen Großaspach, nachdem die erste Halbzeit zäh verlief. Trainer André Breitenreiter lobt den Charakter seiner verunsicherten Mannschaft."
-   }
-  ]
- },
- {
   "id": "2e21acd614",
   "schluessel": "mannheim|verletzung",
   "person": "",
@@ -58,486 +22,11 @@
    }
   ],
   "archiv_status": "neu",
-  "prio": null,
-  "status": "",
+  "prio": 2,
+  "status": "n",
   "erstmals": "2026-11-14T15:41",
-  "archiv": []
- },
- {
-  "id": "a12e3d8b40",
-  "schluessel": "aachen|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Aachen",
-  "klubs": [
-   "Aachen"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "3. Liga genervt vom bayrischen Alleingang",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZDh1UC1jeERENTdReGw2d1ZUTExkYVYzdDZfSTYyWjd5a0FCZmkwLS1sTFNJSzBVUVhSVXhTOUJGazljOWFCWmVmREVTZnNLUVcybTBLS09uTEJpcUJQamkxckdTYy1EZ1NBX0hod0dRQ1pPb2FHYVFEWWlFVzZOZ21nZXo4b3FhcmJrUGlwc0Q2RVhFQzVyX0lmYm0xTkVkNXdmZHJoUlBJODlCQ1pObjhBMTNremhE?oc=5",
-    "aid": "f3aaba2b1f",
-    "titel": "3. Liga genervt vom bayrischen Alleingang",
-    "quelle": "Aachener Zeitung",
-    "beschr": " 3. Liga genervt vom bayrischen Alleingang &nbsp;&nbsp; Aachener Zeitung ",
-    "zeit": "2026-11-14T10:00"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-14T15:41",
-  "archiv": []
- },
- {
-  "id": "a8c6c31686",
-  "schluessel": "saarbrucken|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Saarbrücken",
-  "klubs": [
-   "Saarbrücken"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Saarland: 1. FC Saarbrücken Tischtennis startet mit Niederlage in neue Saison",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQVNoT1ZWMHVidWNWUkZ1d1gwSS1IeWxxUERJSE5aRkdrYkpPTE4wOExVcHVzbHNHTEQzWC1obUJFbzdvZTdCUnVPOUpqTmY0YWd2bnoyXzM4M2h1ZWttTkxRQVJOUEFhRDloNnBGcFRsMUJjNzVITW16Z3hYQ2otazNsRUJoT2tWRklYc2Z3VmkyYVNYaFBxWXJ1SFRlYXRDVFN6QzJrOS1uRTI3cW9ESHNCOWNqTHkyQ0JmSlN2RklBMHZ0M0Z4RDd3?oc=5",
-    "aid": "badefbbe7f",
-    "titel": "Saarland: 1. FC Saarbrücken Tischtennis startet mit Niederlage in neue Saison",
-    "quelle": "tagesschau.de",
-    "beschr": " Saarland: 1. FC Saarbrücken Tischtennis startet mit Niederlage in neue Saison &nbsp;&nbsp; tagesschau.de ",
-    "zeit": "2026-11-14T09:05"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-14T15:41",
-  "archiv": [
-   {
-    "id": "2a82b58c4a",
-    "titel": "Viktoria Köln verteidigt Tabellenführung mit 5:3 gegen Saarbrücken",
-    "datum": "07.11.",
-    "stufe": "spielbericht",
-    "summary": "Viktoria Köln gewinnt das Topspiel gegen Saarbrücken 5:3 und bleibt im neunten Spiel in Folge ungeschlagen. Der Spitzenreiter hat 29 Punkte."
-   }
-  ]
- },
- {
-  "id": "2e0c35d9cd",
-  "schluessel": "saarbrucken|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Saarbrücken",
-  "klubs": [
-   "Saarbrücken"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Champions League: Saarbrücken verliert überraschend in Lille",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb2N3bG1jNnAwMy1Bc0dDTHVQUHFFaENVU1pLR1RDWWtLQkkwLW1iVWlKSlhDMVlkSGUwNEF3bmRxdjV3Q19wb1lTNmhIdVhLY0Ewc3JCRkVlcjlNQ2p2RUpfbEhVV0s5dXRMeUxid1dYMF9WVEdmaWhldUZXY2FFS2NibTVPLUxxalVHdFB6cDNCMGMtdzdoTlIzWmZBMGc?oc=5",
-    "aid": "b70bf94a8b",
-    "titel": "Champions League: Saarbrücken verliert überraschend in Lille",
-    "quelle": "Tischtennis",
-    "beschr": " Champions League: Saarbrücken verliert überraschend in Lille &nbsp;&nbsp; Tischtennis ",
-    "zeit": "2026-11-14T09:41"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-14T15:41",
-  "archiv": [
-   {
-    "id": "2a82b58c4a",
-    "titel": "Viktoria Köln verteidigt Tabellenführung mit 5:3 gegen Saarbrücken",
-    "datum": "07.11.",
-    "stufe": "spielbericht",
-    "summary": "Viktoria Köln gewinnt das Topspiel gegen Saarbrücken 5:3 und bleibt im neunten Spiel in Folge ungeschlagen. Der Spitzenreiter hat 29 Punkte."
-   }
-  ]
- },
- {
-  "id": "153800274d",
-  "schluessel": "aachen|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Aachen",
-  "klubs": [
-   "Aachen"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Nach Alemannia-Test wartet auf Beeck der Liga-Alltag",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMUFuWW0xejRobm9HbHhrazFOWm01NXNQV01jcFRFQ196Rk15S2dtc3d0TjNka0pzMDR1ZEdRSWhzdDdGQW03aGdpanlHUFFvOWpFcS1IRFM4X25XYjlLZVo1dEQ2UTdVN2xGMVVDRkdqcENYWFc3OWQ5UnI5R0poaUk3WHdacGRXcnNzNG9SaHM4Sk1PNXd5cVBtQ3hVSGhLclNubjFOWW1mOTJuSF9DeC1LaEN4TUJNZ091OGlUU1ZGOFJ3REZvd1R5WVc?oc=5",
-    "aid": "4c861f1555",
-    "titel": "Nach Alemannia-Test wartet auf Beeck der Liga-Alltag",
-    "quelle": "Aachener Zeitung",
-    "beschr": " Nach Alemannia-Test wartet auf Beeck der Liga-Alltag &nbsp;&nbsp; Aachener Zeitung ",
-    "zeit": "2026-11-14T14:07"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-14T15:41",
-  "archiv": []
- },
- {
-  "id": "79c3cc83ab",
-  "schluessel": "aachen|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Aachen",
-  "klubs": [
-   "Aachen"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Knapp dem Abstieg entkommen, nun Tabellenzweiter: Burtscheid empfängt Schlusslicht SG Stolberg",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQW56RmhpU2dIZlEwQ2RmTzd5dzZLcUFOMWdMSVd1dUVlY0c0cW5EeU4zRWVSXzNleVpacU9UeXJ6cFZJVERfcWV2RlVYLVR3bDE5OHpvZkxCUElnSnFWYXFtejhaYU13aDYxZ0NOd3BoZHhhUjRYcWpZbi1McE5zdTN1UjVRX3FwVU1sV1BhRmtBd214ZThFc2ZnMDYzY2FTN0FoVWZnMFA2d1IybXhqS0MtNkNKUmN6bTlvWXE4VFo3a0RmVjlTVWFsSW00alIzVmIxQzlpamVtdnNXS3J0SFhHczFaVHVQWWsyNlp2bXZwcGdtQWFwblQyZ0pFZw?oc=5",
-    "aid": "d9c56d1f58",
-    "titel": "Knapp dem Abstieg entkommen, nun Tabellenzweiter: Burtscheid empfängt Schlusslicht SG Stolberg",
-    "quelle": "Aachener Zeitung",
-    "beschr": " Knapp dem Abstieg entkommen, nun Tabellenzweiter: Burtscheid empfängt Schlusslicht SG Stolberg &nbsp;&nbsp; Aachener Zeitung ",
-    "zeit": "2026-11-14T10:00"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-14T15:41",
-  "archiv": []
- },
- {
-  "id": "d38dd221c7",
-  "schluessel": "aachen|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Aachen",
-  "klubs": [
-   "Aachen",
-   "Duisburg"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Fußball Bundesliga: Aachen gegen Duisburg - Übersicht über die Karten - 32. Spieltag - 1967/1968",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeXRvT3U5RjZuQk1hS0Z1OFlzY2cyMmM5YkgtVEltUGtsNGthMFktWjNjWWl1OWVvdExQbU83WGNpVnFIMFp2cjlwbXZDQUtUa3htV1U2dmVKSUo1WUFwQ2ctd1cyS19CXzVzRlpjaFpWS2g0a1VYQXFsc1RCZ2R4X2VleEY5bjd6ZGZtZjNvdW9JT2tGTFo1VlhxWG9ndzJhUk9KZ1RlRU0za0dtakdwSmZ4Wm9FMm01Zk1VYWZhRjFIeVZLTnZCcXR5eWxMd0FJamxNY0pQbHNCN1FScUpj?oc=5",
-    "aid": "1be5c4c19f",
-    "titel": "Fußball Bundesliga: Aachen gegen Duisburg - Übersicht über die Karten - 32. Spieltag - 1967/1968",
-    "quelle": "sportschau.de",
-    "beschr": " Fußball Bundesliga: Aachen gegen Duisburg - Übersicht über die Karten - 32. Spieltag - 1967/1968 &nbsp;&nbsp; sportschau.de ",
-    "zeit": "2026-11-14T14:18"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-14T15:41",
-  "archiv": []
- },
- {
-  "id": "43ed8f311e",
-  "schluessel": "ingolstadt|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Ingolstadt",
-  "klubs": [
-   "Ingolstadt"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Spielstatistik | FC Ingolstadt 04 - Wacker Innsbruck | KW46 | Fußball-Vereine Freundschaftsspiele 2026/27",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2lDM1BfZnlFWGk4bDAzM2t3Z1BxTzJUd0xqeE9CV1ZuQlJtN3RJdzRkX1NWMy1JOUZLbGxkeVNHQnJETnpkdTlhaldxM3VfOS05RjRSYTZEOE1uR3hHdkVvcDZ2ei1JZUZvZkgxYlNsa081N3hyNTg0RlJudnMyaHJiZDhteEFBSG5YV2pELWNNRUd5b2R3MkZNNWlqaG9vTU41VQ?oc=5",
-    "aid": "bb2ae6285a",
-    "titel": "Spielstatistik | FC Ingolstadt 04 - Wacker Innsbruck | KW46 | Fußball-Vereine Freundschaftsspiele 2026/27",
-    "quelle": "kicker",
-    "beschr": " Spielstatistik | FC Ingolstadt 04 - Wacker Innsbruck | KW46 | Fußball-Vereine Freundschaftsspiele 2026/27 &nbsp;&nbsp; kicker ",
-    "zeit": "2026-11-13T22:02"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-14T15:41",
-  "archiv": []
- },
- {
-  "id": "b4714b2ce3",
-  "schluessel": "dusseldorf|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Düsseldorf",
-  "klubs": [
-   "Düsseldorf"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Prinzenpaar ist gekürt",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZT1pscDRLcTgwYThFcEVpbEJZY0xCX2x3T0NsQm5hM0stUWF0ZU9tbTdmYzlSa1ljczhacHVOTzNvbFhhdlhJOGNDejdtRkQ3Q05YTy00ZS11Tm8yTmIxMWlnTjBUVm1aZHJhdkIzZ1dWdE0zckJzZGJxX1Bsdw?oc=5",
-    "aid": "533f92c961",
-    "titel": "Prinzenpaar ist gekürt",
-    "quelle": "Antenne Düsseldorf",
-    "beschr": " Prinzenpaar ist gekürt &nbsp;&nbsp; Antenne Düsseldorf ",
-    "zeit": "2026-11-14T08:40"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-14T15:41",
-  "archiv": []
- },
- {
-  "id": "18edf4f724",
-  "schluessel": "duisburg|kader",
-  "person": "",
-  "spieler": [],
-  "klub": "Duisburg",
-  "klubs": [
-   "Duisburg"
-  ],
-  "stufe": "kader",
-  "klasse": "kader",
-  "titel": "Im Pokal-Viertelfinale: Torwartwechsel ist unausweichlich – wahrscheinliche Fortuna-Startelf gegen Duisburg",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORmJYbktsOUQ4SUtNUXVqaFlNNXU2MkRoODFkZ3Z4VnFjSExteVV3OVB6c1p2d0U3VW5ERXpzMTBMM3VXUjV0Skk4RjRuS0NyVUJyVGtoYVFkSERLRkdDZk9WYi1jSU5fc1ZYblVtbjREMERpNklnTEVwdUd1NnpFQUF4VDVHUzFmVzhUWXF0Q1M4cll2eG1VTmt3bW40Qi1naEVBYW5FNzM4NGQwc25EdVM1ZGdXSjRzTExXUzd3TFpRS1U?oc=5",
-    "aid": "7b1d47f7dc",
-    "titel": "Im Pokal-Viertelfinale: Torwartwechsel ist unausweichlich – wahrscheinliche Fortuna-Startelf gegen Duisburg",
-    "quelle": "RP Online",
-    "beschr": " Im Pokal-Viertelfinale: Torwartwechsel ist unausweichlich – wahrscheinliche Fortuna-Startelf gegen Duisburg &nbsp;&nbsp; RP Online ",
-    "zeit": "2026-11-14T12:23"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-14T15:41",
-  "archiv": []
- },
- {
-  "id": "ddd2e1aaf2",
-  "schluessel": "rw essen|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "RW Essen",
-  "klubs": [
-   "RW Essen"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "RWE wartet auf 200.000 Euro für Moustier: Estrela verweist auf Gericht",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSWdXVkZfWDBudEphZloxY0w4cE1MOWw1WkRMdU9mVERtUWpOeXQ3SDRpV19QTEJkN0F0Q1NIVlFaM2RDa2JiNWx4Vl9zM0I0aVZfNHpmZUdMWWVjTFRodmV3ZjJGLUkxMHEtV2RuNTl0VHVMR1JYQnZRaGJVRk1scmdUb0lWNDdieU44a3Nnd2dwSkQzZ21IamZ3R1ZPeWNiUDRfVWxmQdIBrAFBVV95cUxNclVIZVpQbVkwWjR3eHFrR2pSd3BQTWpNR3dHZkZrbGRYUUV1RTNZMDJEekhwTEVaaElxOUpBWVMwYUNZLWRSeG9JUzJIVHluLWlvb05VVjhweGRURTBRem5teVdVMHh5dWFkMk9TXzI0S0JOMnZ3eC1iY013RV80UjczeVMxTzlKNmVYb294NF9CYU9XdG5YSF9TbmVydjZoQUNlelB0LVVYY3Fn?oc=5",
-    "aid": "2131f7a83a",
-    "titel": "RWE wartet auf 200.000 Euro für Moustier: Estrela verweist auf Gericht",
-    "quelle": "Liga 3 News",
-    "beschr": " RWE wartet auf 200.000 Euro für Moustier: Estrela verweist auf Gericht &nbsp;&nbsp; Liga 3 News ",
-    "zeit": "2026-11-14T12:03"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-14T15:41",
-  "archiv": [
-   {
-    "id": "4b6927cef6",
-    "titel": "RWE klagt bei der FIFA: Estrela Amadora verweist auf Gerichtsverfahren",
-    "datum": "13.11.",
-    "stufe": "sonstiges",
-    "summary": "Rot-Weiss Essen hat bei der FIFA Klage gegen Estrela Amadora wegen einer ausstehenden Rate von rund 200.000 Euro für Tom Moustier eingereicht. Estrela-Präsident Johannes Mösmang verweist auf ein portugiesisches Gerichtsverfahren zum Schuldenschnitt."
-   }
-  ]
- },
- {
-  "id": "866bc82356",
-  "schluessel": "rostock|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Rostock",
-  "klubs": [
-   "Rostock"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Hansa Rostock bei Penzliner SV im Live Stream und TV: Wird das Pokalspiel heute live übertragen?",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMUJDSzFBYWcwbjl1eHZDMndKc2VFdEN5NE1NNWRWRnR5ZTBQa3JvUFdjeGFwbWhBRlNQdEw0WVQzOFdEeWpPYW9aeGFiamxfUjZreUhyaG1NY19ROXFRcEU3d19ZZUQtSXVCRWJ6cDNnc28zX2RydC1ncUVjTkNDcEd1d2JGdWdlRlZ5RHp5aTlCSTZYZ0FUTUxVSmRzS2g0NFR3RjhHMzJxOTNhY1FfUWlCTWVYX19QUTVyZEtKVzhvVF94aGFLV2J5b2tFYWVqdnBrLWI1MjFaa3U0WGNoNl84aw?oc=5",
-    "aid": "d9ffa60283",
-    "titel": "Hansa Rostock bei Penzliner SV im Live Stream und TV: Wird das Pokalspiel heute live übertragen?",
-    "quelle": "Goal.com",
-    "beschr": " Hansa Rostock bei Penzliner SV im Live Stream und TV: Wird das Pokalspiel heute live übertragen? &nbsp;&nbsp; Goal.com ",
-    "zeit": "2026-11-14T06:15"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-14T15:41",
-  "archiv": [
-   {
-    "id": "0f82484d68",
-    "titel": "Hansa Rostock tritt im Pokal-Achtelfinale beim Penzliner SV an",
-    "datum": "12.11.",
-    "stufe": "sonstiges",
-    "summary": "Hansa Rostock spielt am 14. November im Landespokal-Achtelfinale beim Sechstligisten Penzliner SV. Der Einsatz von Luca Unbehaun ist fraglich, Benno Dietze und Emil Holten fehlen wohl."
-   }
-  ]
- },
- {
-  "id": "9db0e6b4df",
-  "schluessel": "regensburg|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Regensburg",
-  "klubs": [
-   "Regensburg"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Klimademo in Regensburg ohne Zwischenfälle",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPblNmeGpfWjhscHNTQlhDQVh1RUpQaC1VLVRqVEhsR0haRnBBMjZXR3g3bXladUNvOVVoT3ZSWlU0c05ZTEF1ak8xLTRfSjMtS0NPVEVLQzE3MGRUY3ljS1JRVnN6YXRET05tTElITjFmbzRCcll0U0ZhSEt2ZXZPaVd6Y3M?oc=5",
-    "aid": "de317c4edb",
-    "titel": "Klimademo in Regensburg ohne Zwischenfälle",
-    "quelle": "Radio Charivari",
-    "beschr": " Klimademo in Regensburg ohne Zwischenfälle &nbsp;&nbsp; Radio Charivari ",
-    "zeit": "2026-11-14T09:18"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-14T15:41",
-  "archiv": []
- },
- {
-  "id": "7058969643",
-  "schluessel": "dusseldorf|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Düsseldorf",
-  "klubs": [
-   "Düsseldorf"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Aufsichtsratswahlen bei der Fortuna",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQS1mVy1CZ3NXT1ZrRXhmUkZwTlJTSUxfWWhtbnVNMTE1UEx0WnpBOG1hcFc0UG1fUHBtSzBYX2hlS1Jsc0xnRlFaM0VzVTBDLXI1bmRRWjgxYkNGRXdORUxBZFhCNzloS2x2b1E4UUppc280WlAyYkxSRlA2emhkQjFrUDlCUnVNcF9GVG93?oc=5",
-    "aid": "0bc9b926c2",
-    "titel": "Aufsichtsratswahlen bei der Fortuna",
-    "quelle": "Antenne Düsseldorf",
-    "beschr": " Aufsichtsratswahlen bei der Fortuna &nbsp;&nbsp; Antenne Düsseldorf ",
-    "zeit": "2026-11-14T09:24"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-14T15:41",
-  "archiv": [
-   {
-    "id": "ce458dfa26",
-    "titel": "Fortuna Düsseldorf: Egouli nach Gelb-Rot außer Form",
-    "datum": "11.11.",
-    "stufe": "sonstiges",
-    "summary": "Düsseldorfs Verteidiger Elias Egouli ist seit seinem Platzverweis in Aachen außer Form. Fortuna holte seither sechs Punkte aus sieben Spielen und kassierte elf Gegentore."
-   }
-  ]
- },
- {
-  "id": "eb2a364d32",
-  "schluessel": "munster|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Münster",
-  "klubs": [
-   "Münster"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Darts: 8:7 nach 0:6 im Finale - furiose Aufholjagd beschert Münsteraner Paul Krohne das WM-Ticket",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNnpFZ2ZuakVISnlhbDlsdUhUTFlaWHZqRnZSV09SN0FXSFFOWURxeHZiNXBHTTFOUHRIWkRYMEZDR2wyUTBDUGc5ZlR0X05RN3ZHaUNmVWM1YVhDdWRoUGhUUW51S2xObC1uQ21MaFNKMzhVYlhnOWlDTXVneGNnMDBNVFhKcldqUGxlclJ5MVgtZzVwVllfUU1LdTY5UmxBcDIwQkwxZHlsbk1ZbmdKNU5GeVVMX3YtdFNHSkFJZVN2NWhFd1BaQlllZXBGOHpnaHB0dUFzYWtqbGsyc01UWWgycDEwSnJsd09z?oc=5",
-    "aid": "cbc2b6c1d3",
-    "titel": "Darts: 8:7 nach 0:6 im Finale - furiose Aufholjagd beschert Münsteraner Paul Krohne das WM-Ticket",
-    "quelle": "Die Glocke",
-    "beschr": " Darts: 8:7 nach 0:6 im Finale - furiose Aufholjagd beschert Münsteraner Paul Krohne das WM-Ticket &nbsp;&nbsp; Die Glocke ",
-    "zeit": "2026-11-14T07:50"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-14T15:41",
-  "archiv": [
-   {
-    "id": "32ccffc4b7",
-    "titel": "Münster zieht ins Halbfinale ein, Scherder feiert Comeback",
-    "datum": "12.11.",
-    "stufe": "spielbericht",
-    "summary": "Preußen Münster schlägt den BSV Schüren im Viertelfinale des Westfalenpokals 3:0 und steht im Halbfinale. Simon Scherder feiert nach 385 Tagen Verletzungspause sein Comeback."
-   },
-   {
-    "id": "82bcbfd210",
-    "titel": "Duisburg gewinnt in Münster 2:1 und beendet Ergebniskrise",
-    "datum": "07.11.",
-    "stufe": "spielbericht",
-    "summary": "Der MSV Duisburg gewinnt beim SC Preußen Münster 2:1 und beendet seine Ergebniskrise. Die Tore erzielten Joshua Bitter und Dominik Kother, für Münster traf Antonio Tikvic."
-   }
-  ]
- },
- {
-  "id": "68c776b254",
-  "schluessel": "rw essen|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "RW Essen",
-  "klubs": [
-   "RW Essen"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Fußball Bundesliga: Karlsruhe gegen RW Essen - Übersicht über die Torjäger - 23. Spieltag - 1976/1977",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRWI5bkxlTmZvdFRaQVYyelJYU3p2VjdBWC1hSEhmWWZhWDJ4ZV8yNkdxczRWcndNY1llM2drTXdnOUswckFKVk5PeUVEOEJiOUJCTm9BVnFOSW9oT1Y3dkJtZE1RMFRxN21nS0dUdnk2SG5fNElJNVNkN0RsTkNnT1hrZWdlUnFaR1RZemM5UTIycXVLZTd3OU9ZOEVUb1R3dU02Zl9PeFFpckd3TENxTUtZSXpLUjB0SGdkWkl4enl1ZDVqTlNyN2w2RHdyZmFrMk1QcE1iU1FYdl9lYmt3Tg?oc=5",
-    "aid": "813c8e4843",
-    "titel": "Fußball Bundesliga: Karlsruhe gegen RW Essen - Übersicht über die Torjäger - 23. Spieltag - 1976/1977",
-    "quelle": "sportschau.de",
-    "beschr": " Fußball Bundesliga: Karlsruhe gegen RW Essen - Übersicht über die Torjäger - 23. Spieltag - 1976/1977 &nbsp;&nbsp; sportschau.de ",
-    "zeit": "2026-11-14T13:16"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-14T15:41",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "a5d1b8c11f",
@@ -562,81 +51,11 @@
    }
   ],
   "archiv_status": "neu",
-  "prio": null,
-  "status": "",
+  "prio": 2,
+  "status": "n",
   "erstmals": "2026-11-14T15:41",
-  "archiv": []
- },
- {
-  "id": "8bed479d50",
-  "schluessel": "rw essen|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "RW Essen",
-  "klubs": [
-   "RW Essen"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Rot-Weiss Essen: Die Schonzeit ist vorbei – Koschinat nimmt Nick Bätzner in die Pflicht",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMlY0WFdEVzJvakpOb1h4V2s1VUJCa0ZDc3R5Z3NXZWdqNnpHYnRKNTVPWjNjQS1UVVRkZlJ6RzlxRVlHT3lWa19IOEhNYjZ4UkxuSUpDTnlzWjFnR1Q0ZEZqZmtJMkpsZ0xkaWRsUE1tbzFqQjJKRExUZEFlc0pWc0NxdUdsQTJOaUxpamNiNWtZSGRXLURLdnRSeVRWOWJCMFZDWDdpbmxFWXBHWnVxTkVVZnNSZE1mUTNZVjZyUERUemhuMnNqWFNLRk9ORFJXMlE?oc=5",
-    "aid": "d98dd5426c",
-    "titel": "Rot-Weiss Essen: Die Schonzeit ist vorbei – Koschinat nimmt Nick Bätzner in die Pflicht",
-    "quelle": "WAZ",
-    "beschr": " Rot-Weiss Essen: Die Schonzeit ist vorbei – Koschinat nimmt Nick Bätzner in die Pflicht &nbsp;&nbsp; WAZ ",
-    "zeit": "2026-11-14T12:00"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-14T15:41",
-  "archiv": []
- },
- {
-  "id": "4f7c59d5b1",
-  "schluessel": "grossaspach|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Großaspach",
-  "klubs": [
-   "Großaspach"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Baden-Württemberg: Wanitzek trifft und serviert: KSC gewinnt Test gegen Aspach",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON0FHbVczSHl5Umg1VjVUUGhidXZoVjFYbl9tQlRCdnVhSzdHVVRRTEU0YmVEV1lsRDhwOUg5blE3REZmRDNOb1ZFWmhQQlJ6RGJTRW1yQTA4dDdFekV6TVRRdFVTWnJRQmxlSnNDUUptcE54NTExRXg4SHd2c1BPNUdoR0JmbFRYRDJURk9KODFRNFVQaEMtbDFKWURaUkdNR3hPRDhzc2NLa3RwaHJuM3dmdHZjZlhjSHlvLWZIV2l6UQ?oc=5",
-    "aid": "597df072f6",
-    "titel": "Baden-Württemberg: Wanitzek trifft und serviert: KSC gewinnt Test gegen Aspach",
-    "quelle": "n-tv.de",
-    "beschr": " Baden-Württemberg: Wanitzek trifft und serviert: KSC gewinnt Test gegen Aspach &nbsp;&nbsp; n-tv.de ",
-    "zeit": "2026-11-14T15:30"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-14T15:41",
-  "archiv": [
-   {
-    "id": "3394bea063",
-    "titel": "Großaspach trennt sich im Test vom Landesligisten Schorndorf 1:1",
-    "datum": "11.11.",
-    "stufe": "spielbericht",
-    "summary": "Großaspach hat im Testspiel beim Landesligisten Schorndorf 1:1 gespielt. Lorch traf für den Drittligisten, am Samstag wartet der Karlsruher SC."
-   },
-   {
-    "id": "67702106bd",
-    "titel": "Hansa Rostock schlägt Großaspach 3:0 und beendet die Verunsicherung",
-    "datum": "07.11.",
-    "stufe": "spielbericht",
-    "summary": "Hansa Rostock gewinnt am 13. Spieltag 3:0 gegen Großaspach, nachdem die erste Halbzeit zäh verlief. Trainer André Breitenreiter lobt den Charakter seiner verunsicherten Mannschaft."
-   }
-  ]
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "d77a5df87b",
@@ -661,66 +80,11 @@
    }
   ],
   "archiv_status": "neu",
-  "prio": null,
-  "status": "",
+  "prio": 2,
+  "status": "n",
   "erstmals": "2026-11-14T15:41",
-  "archiv": []
- },
- {
-  "id": "7e97eb8577",
-  "schluessel": "meppen|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Meppen",
-  "klubs": [
-   "Meppen"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "SV Meppen",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcWlNQUNjclZiZlJMemI2YjNJa1lOSlhweDNWZEN2cE15WVJnRTl4bE1HekFFem1GNkFHeHJaTDlQRVFuemthNlhMekg5UEZzNTE3LThrM29OMXkzQTB3ZVpKMmtpbk0xSVJxWlV0bkkyXzZfc296OVdqbUhtVWk1UzhCR0NMMEQyaEUxZ1FoRXIzbTNDdm9WWTZzTGpGdnZZZHdWbTA5LUFqN09FeDlERld5UHhqYkVKNVQwQjhIdUF4NVFqYkFSUTZmQlR5SjRC?oc=5",
-    "aid": "57427281b7",
-    "titel": "SV Meppen",
-    "quelle": "Transfermarkt",
-    "beschr": " SV Meppen &nbsp;&nbsp; Transfermarkt ",
-    "zeit": "2026-11-14T02:11"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-14T15:41",
-  "archiv": []
- },
- {
-  "id": "b7d27e2142",
-  "schluessel": "meppen|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Meppen",
-  "klubs": [
-   "Meppen"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Traumtor gegen Meppen: Handwerker meldet bei Arminia Bielefeld Ansprüche an",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTVJvOTBqaUxzSTFUMGVKWnZQdjVDaERxVXExRnZqUXVEMkxjZEcwOHFjX3NtMjJia1ZOZGlZYnk1WlVZcGpDb3FUUkZNYVlUZEJ6S0E0ZUU5X0JqeEtHeS1pVEhHY0NUem0tdm5LNWJxT1EzclVBakctT1pWTWdHQ19xSW5oYVJUSzBNRUNuRDJsSmxaUV81eWtUYU5VWXpwcjMwYXFsSEZibW1vREIxbHg3U3JJQ25rRWJaWUoxMFBJQm1pSzJtampPYUxSVE1vT0U2NkJoTkRvQXJX?oc=5",
-    "aid": "16fbcd31c2",
-    "titel": "Traumtor gegen Meppen: Handwerker meldet bei Arminia Bielefeld Ansprüche an",
-    "quelle": "Neue Westfälische",
-    "beschr": " Traumtor gegen Meppen: Handwerker meldet bei Arminia Bielefeld Ansprüche an &nbsp;&nbsp; Neue Westfälische ",
-    "zeit": "2026-11-14T05:00"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-14T15:41",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "911506eb0f",
@@ -745,46 +109,11 @@
    }
   ],
   "archiv_status": "neu",
-  "prio": null,
-  "status": "",
+  "prio": 2,
+  "status": "n",
   "erstmals": "2026-11-14T15:41",
-  "archiv": []
- },
- {
-  "id": "ed18bd1f28",
-  "schluessel": "mannheim|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Mannheim",
-  "klubs": [
-   "Mannheim"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "\"Jahrhundertspiel\" im Badischen Fußball-Pokal: SV Waldhof sorgt für Ausnahmezustand in Neckarsteinach (mit Fotogalerie)",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNTJlMkdwdjE1LVhDcXl4eGRwUzVPUmk2Y1R5djk5S082MHBMcDdnMnpiUnBWd0syQ09waGNfUmZwRFhCU3ZneUtrVzBWbVVvZWQ2UzJaUUVFMERWYlRRa09hZ0Mya0FSbF9SOF80REwxN240SFprazJsNFBXblc2aHVQN1JGclZmYUlIb0lJQU1LSXdFUmJIVjNwSXJkRk9CVnJ6elZjenZMdU1yemJkVTJsb19IZjBzNlNPR2tjTWFVZ1NMVWJvZlNFQjV2Umc4RDFFTkJxOWRaOW1OZzdiMm9BS3JldnZ4N3pwbElxa3E3SlRZSlRXUWctcw?oc=5",
-    "aid": "12f3b1152a",
-    "titel": "\"Jahrhundertspiel\" im Badischen Fußball-Pokal: SV Waldhof sorgt für Ausnahmezustand in Neckarsteinach (mit Fotogalerie)",
-    "quelle": "Rhein-Neckar-Zeitung",
-    "beschr": " \"Jahrhundertspiel\" im Badischen Fußball-Pokal: SV Waldhof sorgt für Ausnahmezustand in Neckarsteinach (mit Fotogalerie) &nbsp;&nbsp; Rhein-Neckar-Zeitung ",
-    "zeit": "2026-11-14T14:39"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-14T15:41",
-  "archiv": [
-   {
-    "id": "e9d6fe2ab2",
-    "titel": "Waldhof Mannheim gastiert beim Kreisklassisten Neckarsteinach",
-    "datum": "13.11.",
-    "stufe": "sonstiges",
-    "summary": "Waldhof Mannheim spielt im Landespokal-Viertelfinale um 13 Uhr beim Kreisklassisten SpVgg Neckarsteinach, der 64 Siege in Folge feierte. Tim Sechelmann und Arlind Rexhepi trainieren nach Verletzungen wieder mit."
-   }
-  ]
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "178993b9b6",
@@ -809,38 +138,11 @@
    }
   ],
   "archiv_status": "neu",
-  "prio": null,
-  "status": "",
+  "prio": 2,
+  "status": "n",
   "erstmals": "2026-11-14T15:41",
-  "archiv": []
- },
- {
-  "id": "77f6f9ff7b",
-  "schluessel": "mannheim|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Mannheim",
-  "klubs": [
-   "Mannheim"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "VfR Mannheim sagt Spiel wegen Trauerfall kurzfristig ab",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRmRyRGNWaGpseDlfZTZBSTYwVkd1QWowTndmSTZsY1VCZ25mdFRsTzh0eFh1VjJsb3RVekIwTjZycVF4RHoxcHZGaXJxeWhmWmI1MkZLLWlqYmk1UnJ2MzlvcjdZZHlYdG9sZkVtQlRjOXlTeGJMaXNiTGRGWlMzZVhfR1VwdnVOTXFxR0pEVGktSkNBYi0ydzlVU1lHSU1rUzlURlZ3U0ZRZkszcEtDNG5mcDRWWk0?oc=5",
-    "aid": "3645c8cbf0",
-    "titel": "VfR Mannheim sagt Spiel wegen Trauerfall kurzfristig ab",
-    "quelle": "Wochenblatt Reporter",
-    "beschr": " VfR Mannheim sagt Spiel wegen Trauerfall kurzfristig ab &nbsp;&nbsp; Wochenblatt Reporter ",
-    "zeit": "2026-11-14T14:00"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-14T15:41",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "f7c60a752a",
@@ -865,8 +167,8 @@
    }
   ],
   "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
+  "prio": 2,
+  "status": "n",
   "erstmals": "2026-11-14T15:41",
   "archiv": [
    {
@@ -876,90 +178,131 @@
     "stufe": "sonstiges",
     "summary": "Waldhof Mannheim spielt im Landespokal-Viertelfinale um 13 Uhr beim Kreisklassisten SpVgg Neckarsteinach, der 64 Siege in Folge feierte. Tim Sechelmann und Arlind Rexhepi trainieren nach Verletzungen wieder mit."
    }
-  ]
+  ],
+  "versuche": 1
  },
  {
-  "id": "1d9974d5a4",
-  "schluessel": "wiesbaden|kader",
+  "id": "daf03ea5ab",
+  "schluessel": "rostock|spiel",
   "person": "",
   "spieler": [],
-  "klub": "Wiesbaden",
+  "klub": "Rostock",
   "klubs": [
-   "Wiesbaden"
+   "Rostock"
   ],
-  "stufe": "kader",
-  "klasse": "kader",
-  "titel": "SV Wehen Wiesbaden startet Ticketwettbewerb für Vereine",
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "Hansa Rostock schlägt Penzliner SV 10:0 im Landespokal – Trainer lobt seriösen Auftritt",
   "quellen": [
    {
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUFhfZzRjQTA1OFJYYnNHdzZybWpNUFZDQW93NVdFY2tjU3JEQ3lxUFhrMi1IYzBqYk5XMXdwSFU1a1ZJckZOdGFieUE2dXB3QXpVUGlrU2lCT0E3TUxUeExYSHNic3pmcy1vd0FzdEVIdmRPSlhERTRIemdGMGhiRzF5RkJwazdfZFljek1seUJISy1meWFvNW9NamI1VHlueWNFOXlrdndCNlVs?oc=5",
-    "aid": "d0763faba8",
-    "titel": "SV Wehen Wiesbaden startet Ticketwettbewerb für Vereine",
-    "quelle": "Wochenblatt Reporter",
-    "beschr": " SV Wehen Wiesbaden startet Ticketwettbewerb für Vereine &nbsp;&nbsp; Wochenblatt Reporter ",
-    "zeit": "2026-11-14T13:59"
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNLXpTMGNPeVNWM29ZUjkyZmVtTkFtRm8xVi1wWmRqbmJ1NWtuVlBkV09VOXdoc1ZxRGlrLV9RbGRlb0ZNY1d5UGdob2pDbWVWN2xOSkZVdVQ4VHFrTElVejRWSkJZREhJeDhSc2ZSbEd5SjNhWHJjQ0J4V0pRdDh2b29yU0l6c3NVbG95R0xFVkVNVkZUM1FzNGRxalFNLXNHcHc5N1NINVlrcEFtX2hHVzF2dUZ5cklRRTNna2hfMTFpdkVkUGRwVkx1REd3Z2t5UzlvN0pESlF2a3UyOHdBb2pFVkFCaklWb1NfZTR2cVRDeWs5cDZz0gGTAkFVX3lxTE1tX2EwVFkybUdrTHY5U3VzUzBCcDFTNUNDZmxvLWo4R0NUUmRHaGxDcFZIQ3VPRUhpQmdIQjVvdW9qNEo0VzJpS2RSNUIxNW1MaHJHTUVTc2otR2NmME1aTVotZ0dsU05zWmJyT3VJbzlBWGxkRVpfRXdyX2pjcE9paE02TEl6WERsZ29qTDJzU1JUU0ZfWGlINElfQlJBWU5IM1FXRmFRVGJQSGdacGlEMlN1ZjJVdFdVR1FBeDRXaS1UZGxsS2JrekdaZkFnSWxBa3daY0FrLXB3T2VfaE94MmQ4dWVZZ1p5aWQ3ODA3dnAzWVRrTmxqaWY4aEttWVc0TmNnd29lZkpTaHhQUm9iOVJz?oc=5",
+    "aid": "2dc8249f76",
+    "titel": "Hansa Rostock schlägt Penzliner SV 10:0 im Landespokal – Trainer lobt seriösen Auftritt",
+    "quelle": "Ostsee Zeitung",
+    "beschr": " Hansa Rostock schlägt Penzliner SV 10:0 im Landespokal – Trainer lobt seriösen Auftritt &nbsp;&nbsp; Ostsee Zeitung ",
+    "zeit": "2026-11-14T19:08"
    }
   ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-14T15:41",
-  "archiv": []
- },
- {
-  "id": "186971466b",
-  "schluessel": "havelse|verletzung",
-  "person": "",
-  "spieler": [],
-  "klub": "Havelse",
-  "klubs": [
-   "Havelse"
-  ],
-  "stufe": "rueckkehr",
-  "klasse": "verletzung",
-  "titel": "Testspielsieg gegen Havelse und Gindorf-Comeback: Hannover 96 sucht weiter nach einem neuen Sportdirektor",
-  "quellen": [
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-14T19:57",
+  "archiv": [
    {
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTWUxU0FrMV9TU181VjA1c3RCaGNPUGk3QWNxVEpQXzVjNC1FazQ1clZIM29ILTRPc1B1bHdjbVZZTDRwaXBUQXlHMlJGdHp4VUFiaWRYVTZSUERCOURuNFlrdmFJQWJwcUpLVzZ4MUVYWHRMSm82NlpFbnRLS1FTTXNGUHNRMWlDc0NfclJWMWtzRjZHZnRQR3F2bFloWVM5SzBlc3ZxSnpHU0l5c21KaXVzS1Z5UlpTLVlaZkIyQ1V4THM4bjVPddIBzgFBVV95cUxPUDBHRXJpenhDUXJ1WlpBeVFfUDZENGtOSmZUbDhoVV9iNWRBMmFoY3Q1UU53cm9QZHI2b1lvQXMtbTJ5UVNxdU9LcmpSNklFcWZYUHlmbUJhek45blhveGIzRkhNdFFWMFItQVp2RmNnNU9DY2tzbTFxVmlnZ1RBNU93VFlzVnQ4alM4cVkxYk9EOTktUy1XdHBMdl92bGlnX29SWmtxeXQwZkdBbDhNQ0p3ZmxTYjBjTG1LeVcycnc0dFdfMUdybVlUSVNSZw?oc=5",
-    "aid": "b56180a206",
-    "titel": "Testspielsieg gegen Havelse und Gindorf-Comeback: Hannover 96 sucht weiter nach einem neuen Sportdirektor",
-    "quelle": "Tribuna.com",
-    "beschr": " Testspielsieg gegen Havelse und Gindorf-Comeback: Hannover 96 sucht weiter nach einem neuen Sportdirektor &nbsp;&nbsp; Tribuna.com ",
-    "zeit": "2026-11-13T16:05"
+    "id": "67702106bd",
+    "titel": "Hansa Rostock schlägt Großaspach 3:0 und beendet die Verunsicherung",
+    "datum": "07.11.",
+    "stufe": "spielbericht",
+    "summary": "Hansa Rostock gewinnt am 13. Spieltag 3:0 gegen Großaspach, nachdem die erste Halbzeit zäh verlief. Trainer André Breitenreiter lobt den Charakter seiner verunsicherten Mannschaft."
    }
   ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-14T15:41",
-  "archiv": []
+  "versuche": 1
  },
  {
-  "id": "2667870828",
-  "schluessel": "stuttgart ii|sonstiges",
+  "id": "388f7d93e1",
+  "schluessel": "rw essen|sonstiges",
   "person": "",
   "spieler": [],
-  "klub": "Stuttgart II",
+  "klub": "RW Essen",
   "klubs": [
-   "Stuttgart II"
+   "RW Essen"
   ],
   "stufe": "sonstiges",
   "klasse": "sonstiges",
-  "titel": "MTV Stuttgart II",
+  "titel": "\"Wir wollen jetzt Rot-Weiss Essen zu Hause begrüßen\"",
   "quellen": [
    {
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IWUJTc2ItaU9EU2oxcV9LR3k4QWVzQWhqcU53UThnMzdqSnVrMjZpQVczRlN3VFpLTnVGeC16MHQybjFCeGs0TzJyWmxqblZjT0RYUlZDSlNEZDZpZU9DTC15em5yam9mOTVCNE5oLWtGM1Vu?oc=5",
-    "aid": "f6bf3bf088",
-    "titel": "MTV Stuttgart II",
-    "quelle": "Transfermarkt",
-    "beschr": " MTV Stuttgart II &nbsp;&nbsp; Transfermarkt ",
-    "zeit": "2026-11-14T07:09"
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZGtHWVRZbVlnb1g4OUpUSTYzbldXQmdVazVFc2RYSHlfMFdId1U4endxYmk5THNMbUxiTGRhekgxb25GODNOTUt2dEtUZC01SElYRGRYejdsbTVpbUU0RG9GNTZ3cks3V09STnJRUklJSUQ3c1Q4R0NRMjBVYnZtREFoZ0ZjekVLM0U5a01FTENFSmdPR05OdEFKcWxTQnJYY3BJV1pUWUI1UFVxWWMtMHg5X1lhaU5tWHRxMkJSUHR6LTdLNkE?oc=5",
+    "aid": "b5199aed7b",
+    "titel": "\"Wir wollen jetzt Rot-Weiss Essen zu Hause begrüßen\"",
+    "quelle": "RevierSport online",
+    "beschr": " \"Wir wollen jetzt Rot-Weiss Essen zu Hause begrüßen\" &nbsp;&nbsp; RevierSport online ",
+    "zeit": "2026-11-14T19:13"
    }
   ],
   "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-14T15:41",
-  "archiv": []
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-14T19:57",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "53329c715e",
+  "schluessel": "rw essen|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "RW Essen",
+  "klubs": [
+   "RW Essen"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "Niederrheinpokal: Wahnsinn! 1. FC Bocholt dreht 0:1 in der Schlussphase – RWE könnte kommen",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNEtGRENZNlFWZE16ZnhOVVhqY0pEUHhRbUVQb2h1d1pXZ3ZFdmtxVjQ4RU5iVGdNSEx6eWNmRERJSHdwZjR0Y0V6bE8tZFpFU3BfRVVWSzJ0SmZTVFlVb214dldRUFRfSjhDNTQ3OUpxNUR5aTNiT3ltYUJVWGM4N0lNZzZfbjg3Y1BOM1ZnNXp5SllaZzAwajBEMlloVWFpRUVfaDZnU3VUVmkzUldTN2xVTmZ6TWhtUnJvT09IZEptMjdnTXRqUUZGSkp5b1JuNkdaMzhSY1ZZbHFTVnc?oc=5",
+    "aid": "b0cb19346c",
+    "titel": "Niederrheinpokal: Wahnsinn! 1. FC Bocholt dreht 0:1 in der Schlussphase – RWE könnte kommen",
+    "quelle": "RevierSport online",
+    "beschr": " Niederrheinpokal: Wahnsinn! 1. FC Bocholt dreht 0:1 in der Schlussphase – RWE könnte kommen &nbsp;&nbsp; RevierSport online ",
+    "zeit": "2026-11-14T19:07"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-14T19:57",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "10f9eb8960",
+  "schluessel": "grossaspach|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Großaspach",
+  "klubs": [
+   "Großaspach"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Test-Kick gelungen! KSC schickt Großaspach mit feinem Füßchen nach Hause",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNzBqT3drU01VcDh6MDdfRHBiMjRJcEZ5UXltQXZhdTJFc1FlOG9DMVNybXZVYVBUYmJXSUh3UVBtMWpjWE1IUzNsR0NtTzlRaWVMb2gwSjN6aHFBNlUxb2VXU3lzbFkwaVNSZlNXb2l6V2d1bmlRNWRfaUxIZ29nUF92UjBQd3NwZ2tleFZHTVV1b0pIX1hPQzRmNWxLR3ZfWVlxZXdFb0NDRnVYb2NMRmc4UWxrLXNxSnFBUi1n?oc=5",
+    "aid": "5c2b6b3fd2",
+    "titel": "Test-Kick gelungen! KSC schickt Großaspach mit feinem Füßchen nach Hause",
+    "quelle": "ka-news",
+    "beschr": " Test-Kick gelungen! KSC schickt Großaspach mit feinem Füßchen nach Hause &nbsp;&nbsp; ka-news ",
+    "zeit": "2026-11-14T17:01"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-14T19:57",
+  "archiv": [],
+  "versuche": 1
  }
 ]
