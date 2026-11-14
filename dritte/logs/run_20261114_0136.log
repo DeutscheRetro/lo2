@@ -1,0 +1,123 @@
+2026-11-14 01:36:40,619 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 1 passende Treffer
+2026-11-14 01:36:40,619 INFO S7 Ersatzquelle liefert Text (120 Wörter, 1 Quellen): Kimmich nach Rückkehr: Hier am absolut richtigen Ort
+2026-11-14 01:36:40,620 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 0 passende Treffer
+2026-11-14 01:36:40,620 INFO FinalCheck SKIP: borussia mönchengladbach/{'max muster'} stage=geruecht bereits in Archiv
+2026-11-14 01:36:40,620 INFO FinalCheck SKIP: borussia mönchengladbach/set() stage=geruecht bereits in Archiv
+2026-11-14 01:36:49,134 INFO 💶 Budget: dieser Lauf 0.000 $ | heute 0.00 $ | Monat 0.00 / 0 $
+2026-11-14 01:36:49,137 INFO URL-Cache geladen: 2357 bekannte URLs (letzte 30 Tage)
+2026-11-14 01:36:49,137 INFO === LO Generator startet – max. 50 Artikel ===
+2026-11-14 01:36:49,137 INFO Feed: https://newsfeed.kicker.de/news/3-liga
+2026-11-14 01:36:49,563 INFO Feed: https://www.sport.de/rss/news/
+2026-11-14 01:36:49,900 INFO Feed: https://www.11freunde.de/feed
+2026-11-14 01:36:51,584 INFO Feed: https://news.google.com/rss/search?q=%223.+Liga%22&hl=de&gl=DE&ceid=DE:de
+2026-11-14 01:36:52,076 INFO S2 blacklist: Spielereignisse | HSG Hanau - Longericher SC 32:37 | 12. Spi
+2026-11-14 01:36:52,080 WARNING Spielerliste nicht verfügbar: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-14 01:36:52,080 INFO BL-Spielerliste geladen: 0 Namen
+2026-11-14 01:36:52,080 INFO S3 keyword miss: Sieben Spiele in 29 Tagen: Für die Tischtennisasse aus Großb
+2026-11-14 01:36:52,081 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Verletzung+Ausfall+gesperrt&hl=de&gl=DE&ceid=DE:de
+2026-11-14 01:36:52,341 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Transfer+Wechsel+verpflichtet&hl=de&gl=DE&ceid=DE:de
+2026-11-14 01:36:52,609 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Ger%C3%BCcht+Interesse+Angebot&hl=de&gl=DE&ceid=DE:de
+2026-11-14 01:36:52,881 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Vertrag+verl%C3%A4ngert+abl%C3%B6sefrei&hl=de&gl=DE&ceid=DE:de
+2026-11-14 01:36:53,167 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Trainer+Entlassung&hl=de&gl=DE&ceid=DE:de
+2026-11-14 01:36:53,493 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Saarbr%C3%BCcken%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 01:36:53,823 INFO S3 keyword miss: Table
+2026-11-14 01:36:53,825 INFO S3 keyword miss: Ex-Bundestrainer im Interview: Löw spürt Neuanfang unter Bun
+2026-11-14 01:36:53,827 INFO S3 keyword miss: Turnier in Stuttgart: Weltcup-Heimspiel: Werth siegt mit Nac
+2026-11-14 01:36:53,827 INFO Feed: https://news.google.com/rss/search?q=%22Alemannia+Aachen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 01:36:54,076 INFO Feed: https://news.google.com/rss/search?q=%22FC+Ingolstadt%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 01:36:54,298 INFO S3 keyword miss: Filip Bilbija: Bilanz gegen Gegenspieler, Trainer & Vereine
+2026-11-14 01:36:54,299 INFO S3 keyword miss: Maximilian Huber
+2026-11-14 01:36:54,300 INFO Feed: https://news.google.com/rss/search?q=%22Fortuna+D%C3%BCsseldorf%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 01:36:54,621 INFO Feed: https://news.google.com/rss/search?q=%22Fortuna+K%C3%B6ln%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 01:36:54,908 INFO S3 keyword miss: Neo Telle: Bilanz gegen Gegenspieler, Trainer & Vereine
+2026-11-14 01:36:54,908 INFO Feed: https://news.google.com/rss/search?q=%22Hansa+Rostock%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 01:36:55,137 INFO S3 keyword miss: FC Mecklenburg Schwerin – Greifswalder FC: Flutlicht fällt a
+2026-11-14 01:36:55,137 INFO Feed: https://news.google.com/rss/search?q=%22Jahn+Regensburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 01:36:55,418 INFO Feed: https://news.google.com/rss/search?q=%22MSV+Duisburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 01:36:55,683 INFO S3 keyword miss: Noah Darvich: Bilanz gegen Gegenspieler, Trainer & Vereine
+2026-11-14 01:36:55,685 INFO S3 keyword miss: Ratingen: Apfeld schwärmt von Koschinat und glaubt an Chance
+2026-11-14 01:36:55,685 INFO Feed: https://news.google.com/rss/search?q=%22Preu%C3%9Fen+M%C3%BCnster%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 01:36:55,904 INFO S3 keyword miss: Robin Lenk: Bilanz gegen Gegenspieler, Trainer & Vereine
+2026-11-14 01:36:55,904 INFO Feed: https://news.google.com/rss/search?q=%22Rot-Weiss+Essen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 01:36:56,182 INFO Feed: https://news.google.com/rss/search?q=%22SC+Verl%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 01:36:56,399 INFO Feed: https://news.google.com/rss/search?q=%22Sonnenhof+Gro%C3%9Faspach%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 01:36:56,668 INFO Feed: https://news.google.com/rss/search?q=%22SV+Meppen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 01:36:56,904 INFO S2 blacklist: Oberliga Niedersachsen
+2026-11-14 01:36:56,904 INFO Feed: https://news.google.com/rss/search?q=%22Waldhof+Mannheim%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 01:36:57,146 INFO S3 keyword miss: Sebahattin Öztürk
+2026-11-14 01:36:57,146 INFO Feed: https://news.google.com/rss/search?q=%22Wehen+Wiesbaden%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 01:36:57,363 INFO S2 kein BL-Klub im Titel: SC Freiburg: Co-Trainer Lars Voßler im Podcast
+2026-11-14 01:36:57,364 INFO S2 kein BL-Klub im Titel: Entwarnung beim SC Freiburg: Backhaus wohl bald zurück
+2026-11-14 01:36:57,364 INFO S2 kein BL-Klub im Titel: SV Sandhausen übernimmt Vermarktung künftig selbst
+2026-11-14 01:36:57,364 INFO Feed: https://news.google.com/rss/search?q=%22Hoffenheim+II%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 01:36:57,552 INFO S3 keyword miss: Yann Sturm: Bilanz gegen Gegenspieler, Trainer & Vereine
+2026-11-14 01:36:57,553 INFO S3 keyword miss: David Preu: Bilanz gegen Gegenspieler, Trainer & Vereine
+2026-11-14 01:36:57,553 INFO Feed: https://news.google.com/rss/search?q=%22TSV+Havelse%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 01:36:57,890 INFO Feed: https://news.google.com/rss/search?q=%22VfB+Stuttgart+II%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 01:36:58,113 INFO S3 keyword miss: Stefan Drljaca: Alle Spiele 2024/25 – Einsätze, Tore & Noten
+2026-11-14 01:36:58,114 INFO S3 keyword miss: Kacper Koscierski: Bilanz gegen Gegenspieler, Trainer & Vere
+2026-11-14 01:36:58,115 INFO Feed: https://news.google.com/rss/search?q=%22Viktoria+K%C3%B6ln%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 01:36:58,360 INFO Feed: https://news.google.com/rss/search?q=%22W%C3%BCrzburger+Kickers%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 01:36:58,605 INFO Feed: https://newsfeed.kicker.de/team/1-fc-saarbruecken
+2026-11-14 01:36:58,927 INFO Feed: https://newsfeed.kicker.de/team/alemannia-aachen
+2026-11-14 01:36:59,253 INFO Feed: https://newsfeed.kicker.de/team/fc-ingolstadt-04
+2026-11-14 01:36:59,464 INFO Feed: https://newsfeed.kicker.de/team/fortuna-duesseldorf
+2026-11-14 01:36:59,678 INFO Feed: https://newsfeed.kicker.de/team/hansa-rostock
+2026-11-14 01:36:59,885 INFO Feed: https://newsfeed.kicker.de/team/jahn-regensburg
+2026-11-14 01:37:00,098 INFO Feed: https://newsfeed.kicker.de/team/msv-duisburg
+2026-11-14 01:37:00,302 INFO Feed: https://newsfeed.kicker.de/team/preussen-muenster
+2026-11-14 01:37:00,515 INFO Feed: https://newsfeed.kicker.de/team/rot-weiss-essen
+2026-11-14 01:37:00,867 INFO Feed: https://newsfeed.kicker.de/team/sc-verl
+2026-11-14 01:37:01,238 INFO Feed: https://newsfeed.kicker.de/team/waldhof-mannheim
+2026-11-14 01:37:01,503 INFO Feed: https://newsfeed.kicker.de/team/sv-wehen-wiesbaden
+2026-11-14 01:37:01,714 INFO Feed: https://newsfeed.kicker.de/team/tsg-hoffenheim-ii
+2026-11-14 01:37:02,115 INFO Feed: https://newsfeed.kicker.de/team/tsv-havelse
+2026-11-14 01:37:02,467 INFO Feed: https://newsfeed.kicker.de/team/vfb-stuttgart-ii
+2026-11-14 01:37:02,821 INFO Feed: https://newsfeed.kicker.de/team/fc-viktoria-koeln
+2026-11-14 01:37:03,165 INFO Eingelesen: 5 Schlagzeilen nach den Gratis-Filtern
+2026-11-14 01:37:03,171 INFO S5: 5 neue Geschichten, 0 schon berichtet, 0 zu wartenden Geschichten ergänzt, 11 warten
+2026-11-14 01:38:18,588 INFO S6 aussortiert (doppelt): Alemannia Aachen
+2026-11-14 01:38:18,588 INFO S6 aussortiert (prio_0): FC Ingolstadt 04
+2026-11-14 01:38:18,588 INFO S6 aussortiert (prio_0): Das sind Duisburgs Sportler des Jahres – ein Titel für den MSV
+2026-11-14 01:38:18,588 INFO S6 aussortiert (prio_0): Spielschema | VfL Bochum - SC Verl 4:1 | KW46 | Fußball-Vereine Freund
+2026-11-14 01:38:18,589 INFO S6 aussortiert (doppelt): SV Wehen Wiesbaden
+2026-11-14 01:38:19,204 INFO S7 kein Volltext (too_short_75_words): Rot-Weiss Essen: RWE-Kader wird immer dünner - Zwei Wackelka
+2026-11-14 01:38:19,436 INFO S7 Ersatzquellen für "Rot-Weiss Essen: RWE-Kader wird immer dünner - Zwe": 0 passende Treffer
+2026-11-14 01:38:19,436 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Rot-Weiss Essen: RWE-Kader wird immer dünner - Zwei Wackelka
+2026-11-14 01:38:21,143 INFO S7 kein Volltext (too_short_63_words): Jahn-Freude im Duell der Freunde: Keeper Schmitt mit weißer 
+2026-11-14 01:38:21,343 INFO S7 Ersatzquellen für "Jahn-Freude im Duell der Freunde: Keeper Schmitt m": 0 passende Treffer
+2026-11-14 01:38:21,344 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Jahn-Freude im Duell der Freunde: Keeper Schmitt mit weißer 
+2026-11-14 01:38:21,567 INFO S7 Ersatzquellen für "Klublegende, Pechvogel - Helfer in der Not? Wie Mü": 0 passende Treffer
+2026-11-14 01:38:21,567 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Klublegende, Pechvogel - Helfer in der Not? Wie Münster mit 
+2026-11-14 01:38:22,802 INFO S7 kein Volltext (low_unique_content_ratio): Auswärtstest in Regensburg endet mit Niederlage
+2026-11-14 01:38:22,999 INFO S7 Ersatzquellen für "Auswärtstest in Regensburg endet mit Niederlage": 0 passende Treffer
+2026-11-14 01:38:22,999 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Auswärtstest in Regensburg endet mit Niederlage
+2026-11-14 01:38:23,203 INFO S7 kein Volltext (too_short_75_words): VfL Bochum: Ouro-Tagba überragt mit Hattrick, Verl bangt vor
+2026-11-14 01:38:23,421 INFO S7 Ersatzquellen für "VfL Bochum: Ouro-Tagba überragt mit Hattrick, Verl": 0 passende Treffer
+2026-11-14 01:38:23,421 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): VfL Bochum: Ouro-Tagba überragt mit Hattrick, Verl bangt vor
+2026-11-14 01:38:23,747 INFO S7 kein Volltext (too_short_75_words): Ratingen: Apfeld schwärmt von Koschinat und glaubt an Chance
+2026-11-14 01:38:24,025 INFO S7 Ersatzquellen für "Ratingen: Apfeld schwärmt von Koschinat und glaubt": 0 passende Treffer
+2026-11-14 01:38:24,026 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Ratingen: Apfeld schwärmt von Koschinat und glaubt an Chance
+2026-11-14 01:38:25,887 INFO S7 kein Volltext (too_short_22_words): SpVgg Vreden begrüßt Preußen Münster II: Matteo Geesink vor 
+2026-11-14 01:38:26,099 INFO S7 Ersatzquellen für "SpVgg Vreden begrüßt Preußen Münster II: Matteo Ge": 0 passende Treffer
+2026-11-14 01:38:26,099 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): SpVgg Vreden begrüßt Preußen Münster II: Matteo Geesink vor 
+2026-11-14 01:38:27,389 INFO S7 kein Volltext (low_unique_content_ratio): Nach Wechsel zu Rot-Weiss Essen: Wann kann Herborner Pöpperl
+2026-11-14 01:38:27,601 INFO S7 Ersatzquellen für "Nach Wechsel zu Rot-Weiss Essen: Wann kann Herborn": 0 passende Treffer
+2026-11-14 01:38:27,601 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Nach Wechsel zu Rot-Weiss Essen: Wann kann Herborner Pöpperl
+2026-11-14 01:38:27,806 INFO S7 kein Volltext (too_short_75_words): 1. FC Bocholt: Pokal-Experte Hahn, RWE schon in den Köpfen? 
+2026-11-14 01:38:28,032 INFO S7 Ersatzquellen für "1. FC Bocholt: Pokal-Experte Hahn, RWE schon in de": 0 passende Treffer
+2026-11-14 01:38:28,032 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): 1. FC Bocholt: Pokal-Experte Hahn, RWE schon in den Köpfen? 
+2026-11-14 01:38:28,904 INFO S7 kein Volltext (too_short_8_words): Landespokal: Hansa Rostock gegen Penzlin – Duisburg vor Krac
+2026-11-14 01:38:29,125 INFO S7 Ersatzquellen für "Landespokal: Hansa Rostock gegen Penzlin – Duisbur": 0 passende Treffer
+2026-11-14 01:38:29,125 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Landespokal: Hansa Rostock gegen Penzlin – Duisburg vor Krac
+2026-11-14 01:38:31,039 INFO S7 kein Volltext (too_short_21_words): Mit 19 schon so weit: So schwärmt Aachens Trainer von Schalk
+2026-11-14 01:38:31,290 INFO S7 Ersatzquellen für "Mit 19 schon so weit: So schwärmt Aachens Trainer ": 0 passende Treffer
+2026-11-14 01:38:31,290 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Mit 19 schon so weit: So schwärmt Aachens Trainer von Schalk
+2026-11-14 01:38:31,291 INFO S9.5 FinalCheck: 0/0 durch
+2026-11-14 01:38:31,292 WARNING Sitemap ohne Spielerseiten: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-14 01:38:31,294 INFO 💶 Kosten: dieser Lauf 0.000 $ (Budget 0.000 $) | heute 0.00 $ | Monat 0.00 / 0 $ | konferenz (abo) 1× 0.000 $
+2026-11-14 01:38:31,294 INFO 🎫 Abo-Verbrauch: 1,708 Tokens rein (davon Cache gelesen 0), 9,756 raus, API-Gegenwert 0.05 $ | konferenz 1×: 1,708/9,756
+2026-11-14 01:38:31,297 INFO Feeds: 45/45 begonnen, nächster Lauf startet bei Nr. 0
+2026-11-14 01:38:31,297 INFO URL-Cache gespeichert: 2385 URLs
+2026-11-14 01:38:31,297 INFO === Fertig. 0 neue Artikel. feed.json: 39 ===
+2026-11-14 01:38:31,297 INFO Stats: {"ts": "20261114_0136", "ingested": 28, "s2_pre_filter": 5, "s3_relevance": 16, "s4_dedup_early": 0, "gesammelt": 5, "geschichten_neu": 5, "s5_archiv_doppelt": 0, "s5_zusammengefuehrt": 0, "s6_aussortiert": 5, "s7_geschrieben": 0, "s7_verworfen": 0, "s5_fulltext_fail": 11, "s8_qa_rejected": 0, "published": 0, "kosten": {"lauf_usd": 0.0, "lauf_budget_usd": 0.0, "heute_usd": 0.0, "monat_usd": 0.0, "monatsbudget_usd": 0.0, "aufrufe": {"konferenz (abo)": {"anzahl": 1, "usd": 0.0}}, "guthaben_leer": false, "abo": true, "abo_tokens": {"konferenz": {"aufrufe": 1, "ein": 1708, "cache_schreiben": 0, "cache_lesen": 0, "aus": 9756, "api_wert_usd": 0.0505}}}}
