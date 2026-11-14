@@ -26,7 +26,7 @@
   "status": "n",
   "erstmals": "2026-11-14T15:41",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "a5d1b8c11f",
@@ -55,7 +55,7 @@
   "status": "n",
   "erstmals": "2026-11-14T15:41",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "d77a5df87b",
@@ -84,7 +84,7 @@
   "status": "n",
   "erstmals": "2026-11-14T15:41",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "911506eb0f",
@@ -113,7 +113,7 @@
   "status": "n",
   "erstmals": "2026-11-14T15:41",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "178993b9b6",
@@ -142,7 +142,7 @@
   "status": "n",
   "erstmals": "2026-11-14T15:41",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "f7c60a752a",
@@ -179,7 +179,7 @@
     "summary": "Waldhof Mannheim spielt im Landespokal-Viertelfinale um 13 Uhr beim Kreisklassisten SpVgg Neckarsteinach, der 64 Siege in Folge feierte. Tim Sechelmann und Arlind Rexhepi trainieren nach Verletzungen wieder mit."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "daf03ea5ab",
@@ -216,7 +216,7 @@
     "summary": "Hansa Rostock gewinnt am 13. Spieltag 3:0 gegen Großaspach, nachdem die erste Halbzeit zäh verlief. Trainer André Breitenreiter lobt den Charakter seiner verunsicherten Mannschaft."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "388f7d93e1",
@@ -245,7 +245,7 @@
   "status": "n",
   "erstmals": "2026-11-14T19:57",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "53329c715e",
@@ -274,7 +274,7 @@
   "status": "n",
   "erstmals": "2026-11-14T19:57",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "10f9eb8960",
@@ -303,6 +303,43 @@
   "status": "n",
   "erstmals": "2026-11-14T19:57",
   "archiv": [],
+  "versuche": 2
+ },
+ {
+  "id": "8e76815962",
+  "schluessel": "rostock|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Rostock",
+  "klubs": [
+   "Rostock"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Fußball Landespokal: FC Hansa Rostock erreicht Viertelfinale",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZkhhUFZlZDdDZ2NtWm1WOTBBR1BwNjdQVFZVbTVqc3NFYWREbDB2ZUhOZG1WMGVLcG1icUVSYzVYNzFkRGhqWVhFelJUYlNIWEZobzdkWlV6UjBvb2MwOS1ZUXRORW1CNDFGYU5LT19EZGVhNVFJQjhtNXdQVHBzeEhjMWZJbHVzZWt3UGhNc1AyeTctdkl2RXEzQ3AtWnAxWElLX3NVZC1YT1BYWjl1WmZ2M3l5UzdpQ1c4NWRDMV9ES3hEbHR3SEluRUY5VTA?oc=5",
+    "aid": "1b8ab648ac",
+    "titel": "Fußball Landespokal: FC Hansa Rostock erreicht Viertelfinale",
+    "quelle": "NDR.de",
+    "beschr": " Fußball Landespokal: FC Hansa Rostock erreicht Viertelfinale &nbsp;&nbsp; NDR.de ",
+    "zeit": "2026-11-14T20:56"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "u",
+  "erstmals": "2026-11-15T00:34",
+  "archiv": [
+   {
+    "id": "0f82484d68",
+    "titel": "Hansa Rostock tritt im Pokal-Achtelfinale beim Penzliner SV an",
+    "datum": "12.11.",
+    "stufe": "sonstiges",
+    "summary": "Hansa Rostock spielt am 14. November im Landespokal-Achtelfinale beim Sechstligisten Penzliner SV. Der Einsatz von Luca Unbehaun ist fraglich, Benno Dietze und Emil Holten fehlen wohl."
+   }
+  ],
   "versuche": 1
  }
 ]
