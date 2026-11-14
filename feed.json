@@ -1,5 +1,33 @@
 [
   {
+    "id": "1d6d392f27",
+    "titel": "Wanitzek trifft und legt auf: KSC gewinnt Test gegen Aspach 2:0",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "14.11.2026 21:03",
+    "wappen_url": "logos/karlsruhe.png",
+    "vereine": [
+      "Karlsruhe"
+    ],
+    "anriss": "Der Karlsruher SC hat in der Länderspielpause ein Testspiel gegen Drittligist SG Sonnenhof Großaspach mit 2:0 (1:0) gewonnen. Kapitän Marvin Wanitzek traf in der 13. Minute per Foulelfmeter und bereitete das zweite Tor vor. Den Treffer zum 2:0 erzielte Marcel Franke in der 55. Minute",
+    "spielerstatus": [
+      {
+        "spieler": "Broschinski",
+        "klub": "Karlsruhe",
+        "status": "faellt_aus",
+        "grund": "fehlt noch bis Jahresende"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Karlsruhe",
+    "pfad": "artikel/wanitzek-trifft-und-legt-auf-ksc-gewinnt-test-gegen-aspach-2-0-1d6d392f27.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
     "id": "7f04e49f33",
     "titel": "Hertha: Drescher mahnt trotz Euphorie, Huschen meldet Gewinn",
     "kategorie": "news",

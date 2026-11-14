@@ -1,0 +1,156 @@
+2026-11-14 21:01:27,404 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 1 passende Treffer
+2026-11-14 21:01:27,404 INFO S7 Ersatzquelle liefert Text (120 Wörter, 1 Quellen): Kimmich nach Rückkehr: Hier am absolut richtigen Ort
+2026-11-14 21:01:27,404 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 0 passende Treffer
+2026-11-14 21:01:27,405 INFO FinalCheck SKIP: borussia mönchengladbach/{'max muster'} stage=geruecht bereits in Archiv
+2026-11-14 21:01:27,405 INFO FinalCheck SKIP: borussia mönchengladbach/set() stage=geruecht bereits in Archiv
+2026-11-14 21:01:40,554 INFO 💶 Budget: dieser Lauf 0.100 $ | heute 0.00 $ | Monat 0.12 / 8 $
+2026-11-14 21:01:40,562 INFO URL-Cache geladen: 9677 bekannte URLs (letzte 30 Tage)
+2026-11-14 21:01:40,562 INFO === LO Generator startet – max. 50 Artikel ===
+2026-11-14 21:01:40,562 INFO Feed: https://newsfeed.kicker.de/news/2-bundesliga
+2026-11-14 21:01:40,955 INFO Feed: https://www.sport.de/rss/news/
+2026-11-14 21:01:41,161 INFO Feed: https://www.11freunde.de/feed
+2026-11-14 21:01:42,493 INFO Feed: https://news.google.com/rss/search?q=%222.+Bundesliga%22&hl=de&gl=DE&ceid=DE:de
+2026-11-14 21:01:42,984 INFO S2 blacklist: Frauen: Dortmund gegen Schalke: Dieses Frauen-Derby sprengt 
+2026-11-14 21:01:42,987 WARNING Spielerliste nicht verfügbar: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-14 21:01:42,987 INFO BL-Spielerliste geladen: 0 Namen
+2026-11-14 21:01:42,987 INFO S3 keyword miss: Acht Jahre 2. Bundesliga: TC Herford will mit Neuzugang den 
+2026-11-14 21:01:42,988 INFO S2 kein BL-Klub im Titel: FC Schalke 04 vs. VfB Stuttgart live: Das Bundesliga-Duell a
+2026-11-14 21:01:42,989 INFO S2 Liveticker übersprungen: Liveticker Dessau-Roßlauer HV 2006 - HC Elbflorenz Dresden 2
+2026-11-14 21:01:42,992 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Verletzung+Ausfall+gesperrt&hl=de&gl=DE&ceid=DE:de
+2026-11-14 21:01:43,312 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Transfer+Wechsel+verpflichtet&hl=de&gl=DE&ceid=DE:de
+2026-11-14 21:01:43,601 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Ger%C3%BCcht+Interesse+Angebot&hl=de&gl=DE&ceid=DE:de
+2026-11-14 21:01:43,899 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Vertrag+verl%C3%A4ngert+abl%C3%B6sefrei&hl=de&gl=DE&ceid=DE:de
+2026-11-14 21:01:44,178 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Trainer+Entlassung&hl=de&gl=DE&ceid=DE:de
+2026-11-14 21:01:44,633 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Heidenheim%22+OR+Heidenheim+FCH+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 21:01:44,903 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Kaiserslautern%22+OR+%22FCK%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 21:01:45,163 INFO S3 keyword miss: Hoch­ver­dien­ter Punkt für den FCK II gegen Spit­zen­team V
+2026-11-14 21:01:45,164 INFO S2 blacklist: Spielschema | 1. FC Kaiserslautern II - VfR Aalen 0:0 | 16. 
+2026-11-14 21:01:45,165 INFO S3 keyword miss: U-19-DFB-Nachwuchsliga (Hauptrunde) 2025/26, 4. Spieltag
+2026-11-14 21:01:45,165 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Magdeburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 21:01:45,445 INFO S2 blacklist: Spielereignisse | 1. FC Magdeburg - Hallescher FC 1:0 | 9. S
+2026-11-14 21:01:45,447 INFO S3 keyword miss: Von „Mädchen sollen kein Fußball spielen“ zur Stammkeeperin.
+2026-11-14 21:01:45,448 INFO S3 keyword miss: Minos Gouras: Bilanz gegen Gegenspieler, Trainer & Vereine
+2026-11-14 21:01:45,448 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+N%C3%BCrnberg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 21:01:45,701 INFO S3 keyword miss: 1.FC Haßfurt
+2026-11-14 21:01:45,701 INFO S2 blacklist: Regionalliga Bayern | Spieltag - Tabelle - News - Statistike
+2026-11-14 21:01:45,702 INFO S2 blacklist: FCB-Frauen lassen Wolfsburg im Topspiel keine Chance
+2026-11-14 21:01:45,702 INFO Feed: https://news.google.com/rss/search?q=%22Arminia+Bielefeld%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 21:01:46,025 INFO S3 keyword miss: 28. Geburtstag: Diese Momente machten Lasme zum Kultschalker
+2026-11-14 21:01:46,025 INFO Feed: https://news.google.com/rss/search?q=%22Dynamo+Dresden%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 21:01:46,381 INFO S2 kein BL-Klub im Titel: Jubel im Steyer-Stadion: Kicker vom Dresdner SC verlassen da
+2026-11-14 21:01:46,385 INFO Feed: https://news.google.com/rss/search?q=%22Eintracht+Braunschweig%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 21:01:46,650 INFO S3 keyword miss: Wenger-Entscheidung steht aus: Medien-Bericht sät Zweifel
+2026-11-14 21:01:46,651 INFO S3 keyword miss: Hubertus Heil will für SPD-Vorsitz kandidieren
+2026-11-14 21:01:46,652 INFO Feed: https://news.google.com/rss/search?q=%22Energie+Cottbus%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 21:01:46,970 INFO S3 keyword miss: Viertelfinale Landespokal: Pyro und Pokaltraum - Klosterfeld
+2026-11-14 21:01:46,971 INFO Feed: https://news.google.com/rss/search?q=%22FC+St.+Pauli%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 21:01:47,281 INFO S2 blacklist: St. Pauli-Frauen vor dem großen Umbruch
+2026-11-14 21:01:47,282 INFO S2 blacklist: Spielereignisse | FC St. Pauli - 1. FC Magdeburg 4:1 | 3. Sp
+2026-11-14 21:01:47,283 INFO Feed: https://news.google.com/rss/search?q=%22Hannover+96%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 21:01:47,635 INFO S2 blacklist: Trotz zweifacher Führung: Deutschlands U19 verliert gegen Po
+2026-11-14 21:01:47,637 INFO S3 keyword miss: Marko Marin schwärmt von Florian Wirtz: "Ein Ausnahmespieler
+2026-11-14 21:01:47,637 INFO Feed: https://news.google.com/rss/search?q=%22Hertha+BSC%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 21:01:47,947 INFO Feed: https://news.google.com/rss/search?q=%22Holstein+Kiel%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 21:01:48,271 INFO S2 blacklist: Fußball-Regionalliga - Nullnummer gegen Haching: Rückschlag 
+2026-11-14 21:01:48,272 INFO S3 keyword miss: [KI] Die Jugend ist wütend! Gen-Z regelt!
+2026-11-14 21:01:48,273 INFO Feed: https://news.google.com/rss/search?q=%22Karlsruher+SC%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 21:01:48,586 INFO S2 blacklist: Normannia Gmünd seht wieder mit leeren Händen da: Eine zweim
+2026-11-14 21:01:48,588 INFO S3 keyword miss: Spiele
+2026-11-14 21:01:48,589 INFO Feed: https://news.google.com/rss/search?q=%22Greuther+F%C3%BCrth%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 21:01:48,932 INFO S2 blacklist: Der Wahnsinn geht weiter: Deggendorfs U15 schießt nächsten P
+2026-11-14 21:01:48,932 INFO Feed: https://news.google.com/rss/search?q=%22Darmstadt+98%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 21:01:49,187 INFO S2 blacklist: Spielereignisse | Fortuna Köln - SV Darmstadt 98 3:2 | 9. Sp
+2026-11-14 21:01:49,189 INFO S3 keyword miss: Barometer-Auswertung: Schröder verliert bei den Fans an Zust
+2026-11-14 21:01:49,189 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Bochum%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 21:01:49,449 INFO S2 blacklist: „Das tut dem Frauenfußball einfach gut“: VfL-Trainerin über 
+2026-11-14 21:01:49,449 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Osnabr%C3%BCck%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 21:01:49,771 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Wolfsburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 21:01:50,168 INFO S2 blacklist: Frauen-Bundesliga: VfL Wolfsburg verliert Top-Spiel gegen Ba
+2026-11-14 21:01:50,171 INFO S2 blacklist: Frauen-Bundesliga: FC Bayern München schlägt VfL Wolfsburg 4
+2026-11-14 21:01:50,171 INFO S2 blacklist: FC Bayern gewinnt gegen VfL Wolfsburg in der Frauen-Bundesli
+2026-11-14 21:01:50,171 INFO S2 blacklist: Frauen-Bundesliga: 4:1 im «La Clásica»: Bayern wehrt Wolfsbu
+2026-11-14 21:01:50,172 INFO S2 blacklist: FC Bayern Frauen gewinnen Topspiel in Wolfsburg und bauen Se
+2026-11-14 21:01:50,172 INFO S2 blacklist: VfL Wolfsburg gegen Bayern München im Datenvergleich | 10. S
+2026-11-14 21:01:50,174 INFO S2 blacklist: Spielschema | VfL Wolfsburg - Bayern München 0:0 | 10. Spiel
+2026-11-14 21:01:50,175 INFO S2 blacklist: Frauen-Bundesliga: Machtdemonstration – Bayern fertigt Wolfs
+2026-11-14 21:01:50,175 INFO S2 kein BL-Klub im Titel: LIVE! Topspiel: Können die Wölfinnen zum FC Bayern aufschlie
+2026-11-14 21:01:50,176 INFO S2 kein BL-Klub im Titel: LIVE! Topspiel: Können die Wölfinnen zum FC Bayern aufschlie
+2026-11-14 21:01:50,176 INFO S2 blacklist: Watschn für Wölfinnen: Bayern-Frauen bauen im Topspiel ihre 
+2026-11-14 21:01:50,176 INFO S2 blacklist: Fußball Bundesliga Frauen: Wolfsburg gegen FC Bayern - Aufst
+2026-11-14 21:01:50,177 INFO S2 blacklist: Aufstellung: Wolfsburg vs. Bayern - Google Pixel Frauen-Bund
+2026-11-14 21:01:50,177 INFO S2 blacklist: Titelrennen in der Frauen-Bundesliga: Bayern lässt die Muske
+2026-11-14 21:01:50,177 INFO S2 blacklist: Frauenfußball heute: Wolfsburg gegen FC Bayern mit dieser Au
+2026-11-14 21:01:50,180 INFO S2 blacklist: Frauenfußball heute: FC Bayern Frauen spielen jetzt live in 
+2026-11-14 21:01:50,180 INFO S2 blacklist: Frauen Fußball heute Ergebnisse: FC Bayern entscheidet Topsp
+2026-11-14 21:01:50,181 INFO S2 blacklist: Frauenfußball heute: Beendet Lerch mit Wolfsburg die Serie d
+2026-11-14 21:01:50,181 INFO S2 blacklist: Frauenfußball heute live im Ersten: Wolfsburg gegen FC Bayer
+2026-11-14 21:01:50,181 INFO Feed: https://newsfeed.kicker.de/team/1-fc-heidenheim
+2026-11-14 21:01:50,385 INFO Feed: https://newsfeed.kicker.de/team/1-fc-nuernberg
+2026-11-14 21:01:50,593 INFO Feed: https://newsfeed.kicker.de/team/arminia-bielefeld
+2026-11-14 21:01:50,802 INFO Feed: https://newsfeed.kicker.de/team/dynamo-dresden
+2026-11-14 21:01:51,007 INFO Feed: https://newsfeed.kicker.de/team/eintracht-braunschweig
+2026-11-14 21:01:51,226 INFO Feed: https://newsfeed.kicker.de/team/fc-st-pauli
+2026-11-14 21:01:51,433 INFO Feed: https://newsfeed.kicker.de/team/hannover-96
+2026-11-14 21:01:51,636 INFO Feed: https://newsfeed.kicker.de/team/hertha-bsc
+2026-11-14 21:01:51,840 INFO Feed: https://newsfeed.kicker.de/team/holstein-kiel
+2026-11-14 21:01:52,049 INFO Feed: https://newsfeed.kicker.de/team/vfl-bochum
+2026-11-14 21:01:52,258 INFO Feed: https://newsfeed.kicker.de/team/vfl-osnabrueck
+2026-11-14 21:01:52,467 INFO Eingelesen: 30 Schlagzeilen nach den Gratis-Filtern
+2026-11-14 21:01:52,493 INFO S5 Fan-Wahl/Nachwuchs: Überraschung bei St. Pauli bei der Wahl zum neuen Aufsichtsrat
+2026-11-14 21:01:52,494 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: "Gelungener Test": Stamms Lehren aus Dynamos Prag-Testkick
+2026-11-14 21:01:52,495 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: Ohne Scholle-Antrag, mit Konfliktpotenzial: Das ist auf Dynamos Mitgli
+2026-11-14 21:01:52,495 INFO S5 Randthema: Energie Cottbus 2. Liga: FCE meldet Trikot-Rekord und plant nächste gr
+2026-11-14 21:01:52,495 INFO S5 Fan-Wahl/Nachwuchs: Neuer Aufsichtsrat des FC St. Pauli von Mitgliedern gewählt
+2026-11-14 21:01:52,496 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: Zu viele Ausfälle beim 25:28 in Berlin: Die Spieler des THW Kiel in de
+2026-11-14 21:01:52,496 INFO S5: 22 neue Geschichten, 0 schon berichtet, 0 zu wartenden Geschichten ergänzt, 7 warten
+2026-11-14 21:03:08,307 INFO S6 aussortiert (doppelt): Herthas Finanzen: Besser, aber noch nicht gut
+2026-11-14 21:03:08,308 INFO S6 aussortiert (doppelt): Novum seit 2019: So steht Hertha BSC finanziell da
+2026-11-14 21:03:08,308 INFO S6 aussortiert (doppelt): Herthas erster Gewinn seit 2019: Nur ein zartes Pflänzchen
+2026-11-14 21:03:08,308 INFO S6 aussortiert (prio_1): FC St. Pauli präsentiert großen Jahresüberschuss und warnt
+2026-11-14 21:03:08,308 INFO S6 aussortiert (prio_0): Fußball Bundesliga: Nürnberg gegen E. Frankfurt - Übersicht über die K
+2026-11-14 21:03:08,308 INFO S6 aussortiert (prio_0): 1. FC Nürnberg Vs. Hannover 96 - 5. Spieltag || Klub Der Roten Dichter
+2026-11-14 21:03:08,308 INFO S6 aussortiert (prio_1): Arminia: Fans happy
+2026-11-14 21:03:08,308 INFO S6 aussortiert (doppelt): Fanfest und Flohmarkt an der Schüco-Arena: Die Arminia-Fans sind hoffn
+2026-11-14 21:03:08,309 INFO S6 aussortiert (prio_0): Fashion statt Reha-Look: Bielefelder Studentin designt inklusive Mode
+2026-11-14 21:03:08,309 INFO S6 aussortiert (prio_0): "Starker Eishockeystandort": Deutschland Cup kommt nach Dresden
+2026-11-14 21:03:08,309 INFO S6 aussortiert (prio_0): Dresden: Wie ein Lehrerpaar seit 27 Jahren fürs Eislaufen lebt - „Wir 
+2026-11-14 21:03:08,309 INFO S6 aussortiert (prio_1): FC St. Pauli wählt neuen Aufsichtsrat
+2026-11-14 21:03:08,309 INFO S6 aussortiert (doppelt): Besonderer Tag! St. Pauli-Profi in der Nacht sein Debüt feiern
+2026-11-14 21:03:08,309 INFO S6 aussortiert (prio_1): Hertha-Sparhammer geht beim Bundesliga-Aufstieg weiter
+2026-11-14 21:03:08,309 INFO S6 aussortiert (prio_0): Fußball Bundesliga: Karlsruhe gegen Stuttgart - Statistik: Zweikämpfe 
+2026-11-14 21:03:08,310 INFO S6 aussortiert (doppelt): Eintracht Frankfurt soll Zweiliga-Shootingstar vom KSC im Visier haben
+2026-11-14 21:03:08,310 INFO S6 aussortiert (prio_0): Bundesliga: VfL Wolfsburg gegen FC Bayern München im Re-Live
+2026-11-14 21:03:08,310 INFO S6 aussortiert (prio_0): (S+) Bayerns 4:1 in Wolfsburg: Es ist wie bei den Männern – die Bayern
+2026-11-14 21:03:08,310 INFO S6 aussortiert (prio_0): Auswärtssieg in Wolfsburg: Bayerns Gwinn - "Haben sehr erwachsenen Fuß
+2026-11-14 21:03:08,310 INFO S6 aussortiert (prio_0): Machtdemonstration im Topspiel: FC Bayern lässt Wolfsburg keine Chance
+2026-11-14 21:03:09,313 INFO S7 kein Volltext (too_short_8_words): Nationaltrainer der USA statt Hannover 96: Steve Cherundolo 
+2026-11-14 21:03:09,609 INFO S7 Ersatzquellen für "Nationaltrainer der USA statt Hannover 96: Steve C": 0 passende Treffer
+2026-11-14 21:03:09,609 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Nationaltrainer der USA statt Hannover 96: Steve Cherundolo 
+2026-11-14 21:03:12,149 INFO S6.5 schon berichtet (Hertha: Drescher mahnt trotz Euphorie, Husche): Hertha im Herbst 2026: Ein Tabellenführer ohne Feierlaune
+2026-11-14 21:03:12,813 INFO S7 kein Volltext (too_short_15_words): Hertha BSC: Drescher bremst trotz Platz 1 die Aufstiegseupho
+2026-11-14 21:03:13,042 INFO S7 Ersatzquellen für "Hertha BSC: Drescher bremst trotz Platz 1 die Aufs": 0 passende Treffer
+2026-11-14 21:03:13,042 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Hertha BSC: Drescher bremst trotz Platz 1 die Aufstiegseupho
+2026-11-14 21:03:15,639 INFO S7 schreiben (Prio 2, 1 Quellen): Länderspielpause - Wanitzek trifft und serviert: KSC gewinnt
+2026-11-14 21:03:22,546 INFO   Kandidat: Wanitzek trifft und legt auf: KSC gewinnt Test gegen Aspach 
+2026-11-14 21:03:22,798 INFO S7 Ersatzquellen für "Hertha: Mahnende Worte der Bosse trotz Platz 1": 0 passende Treffer
+2026-11-14 21:03:22,799 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Hertha: Mahnende Worte der Bosse trotz Platz 1
+2026-11-14 21:03:23,749 INFO S7 schreiben (Prio 2, 1 Quellen): Bayern will Real Madrid abschrecken: „Fantastisches Gehalt“ 
+2026-11-14 21:03:31,694 INFO S7 verworfen (kein_bl_hauptklub): Bayern plant Top-Vertrag für Michael Olise
+2026-11-14 21:03:32,703 INFO S7 kein Volltext (too_short_52_words): VfL Bochum: Stammplatz, Verletzung, Zukunft – so bewertet Ke
+2026-11-14 21:03:32,964 INFO S7 Ersatzquellen für "VfL Bochum: Stammplatz, Verletzung, Zukunft – so b": 0 passende Treffer
+2026-11-14 21:03:32,964 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): VfL Bochum: Stammplatz, Verletzung, Zukunft – so bewertet Ke
+2026-11-14 21:03:33,245 INFO S7 Ersatzquellen für "Klos und Stucki sagen ab: Wenig Mittel auf der Suc": 0 passende Treffer
+2026-11-14 21:03:33,245 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Klos und Stucki sagen ab: Wenig Mittel auf der Suche nach ne
+2026-11-14 21:03:33,790 WARNING discarding data: None
+2026-11-14 21:03:33,791 INFO S7 kein Volltext (trafilatura_returned_empty): Zeidler über sein Aus in Bochum: "Wenn man von den ersten si
+2026-11-14 21:03:34,059 INFO S7 Ersatzquellen für "Zeidler über sein Aus in Bochum: "Wenn man von den": 0 passende Treffer
+2026-11-14 21:03:34,059 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Zeidler über sein Aus in Bochum: "Wenn man von den ersten si
+2026-11-14 21:03:34,061 INFO S9.5 FinalCheck: 1/1 durch
+2026-11-14 21:03:34,882 INFO Veröffentlicht: Wanitzek trifft und legt auf: KSC gewinnt Test gegen Aspach 
+2026-11-14 21:03:34,885 WARNING Sitemap ohne Spielerseiten: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-14 21:03:34,888 INFO 💶 Kosten: dieser Lauf 0.000 $ (Budget 0.100 $) | heute 0.00 $ | Monat 0.12 / 8 $ | konferenz (abo) 1× 0.000 $, dublette (abo) 2× 0.000 $, schreiben (abo) 2× 0.000 $
+2026-11-14 21:03:34,888 INFO 🎫 Abo-Verbrauch: 18,178 Tokens rein (davon Cache gelesen 1,394), 13,336 raus, API-Gegenwert 0.14 $ | konferenz 1×: 2,654/11,015, dublette 2×: 2,164/6, schreiben 2×: 13,360/2,315
+2026-11-14 21:03:34,896 INFO Feeds: 38/38 begonnen, nächster Lauf startet bei Nr. 0
+2026-11-14 21:03:34,896 INFO URL-Cache gespeichert: 9760 URLs
+2026-11-14 21:03:34,896 INFO === Fertig. 1 neue Artikel. feed.json: 129 ===
+2026-11-14 21:03:34,896 INFO Stats: {"ts": "20261114_2101", "ingested": 83, "s2_pre_filter": 37, "s3_relevance": 14, "s4_dedup_early": 0, "gesammelt": 30, "geschichten_neu": 22, "s5_archiv_doppelt": 0, "s5_zusammengefuehrt": 0, "s6_aussortiert": 20, "s7_geschrieben": 2, "s7_verworfen": 2, "s5_fulltext_fail": 6, "s8_qa_rejected": 0, "published": 1, "s5_randthema": 3, "s5_ohne_bezug": 3, "kosten": {"lauf_usd": 0.0, "lauf_budget_usd": 0.0997, "heute_usd": 0.0036, "monat_usd": 0.1238, "monatsbudget_usd": 8.0, "aufrufe": {"konferenz (abo)": {"anzahl": 1, "usd": 0.0}, "dublette (abo)": {"anzahl": 2, "usd": 0.0}, "schreiben (abo)": {"anzahl": 2, "usd": 0.0}}, "guthaben_leer": false, "abo": true, "abo_tokens": {"konferenz": {"aufrufe": 1, "ein": 2654, "cache_schreiben": 0, "cache_lesen": 0, "aus": 11015, "api_wert_usd": 0.0577}, "dublette": {"aufrufe": 2, "ein": 4, "cache_schreiben": 2160, "cache_lesen": 0, "aus": 6, "api_wert_usd": 0.0087}, "schreiben": {"aufrufe": 2, "ein": 4, "cache_schreiben": 11962, "cache_lesen": 1394, "aus": 2315, "api_wert_usd": 0.0711}}}}
