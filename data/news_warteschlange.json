@@ -34,7 +34,7 @@
     "summary": "Hannovers Husseyn Chakroun zog sich beim 2:1 gegen Dresden eine Blessur im rechten Schultereckgelenk zu. Ein Einsatz am Sonntag in Heidenheim ist nicht ausgeschlossen."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "338c364d19",
@@ -71,7 +71,7 @@
     "summary": "Hertha BSC führt die zweite Liga nach dem 2:1 gegen Wolfsburg mit zehn Punkten Vorsprung auf Rang drei an. Trainer Stefan Leitl setzt auf hohes Pressing, einen klaren Plan und eine funktionierende Gruppe."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "c82c159325",
@@ -100,6 +100,80 @@
   "status": "n",
   "erstmals": "2026-11-14T12:01",
   "archiv": [],
+  "versuche": 2
+ },
+ {
+  "id": "0b91ad530b",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Klos und Stucki sagen ab: Wenig Mittel auf der Suche nach neuem 96-Sportdirektor",
+  "quellen": [
+   {
+    "url": "https://www.kicker.de/klos-und-stucki-sagen-ab-wenig-mittel-auf-der-suche-nach-neuem-96-sportdirektor-1271498/artikel#omrss",
+    "aid": "ab3b0a4191",
+    "titel": "Klos und Stucki sagen ab: Wenig Mittel auf der Suche nach neuem 96-Sportdirektor",
+    "quelle": "kicker 2. Bundesliga News",
+    "beschr": "Bei Hannover 96 zieht Martin Kind wieder selbst die Fäden. Noch hat seine Suche nach einem neuen Sportdirektor trotz guter Bewerberlage kein Ergebnis hervorgebracht. Das mag auch daran liegen, dass die Gemengelage nicht einfach ist.",
+    "zeit": "2026-11-14T12:32"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-14T15:01",
+  "archiv": [
+   {
+    "id": "afa3db9641",
+    "titel": "Hannover 96 trennt sich nach fünf Monaten von Sportchef Boldt",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Hannover 96 hat Sport-Geschäftsführer Jonas Boldt nach nur fünf Monaten mit sofortiger Wirkung abberufen. Der Klub steht nach neun Spieltagen mit acht Punkten auf Platz 16."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "9511ee7de2",
+  "schluessel": "bochum|verletzung",
+  "person": "",
+  "spieler": [],
+  "klub": "Bochum",
+  "klubs": [
+   "Bochum"
+  ],
+  "stufe": "verletzung",
+  "klasse": "verletzung",
+  "titel": "VfL Bochum: Stammplatz, Verletzung, Zukunft – so bewertet Keumo seine Waldhof-Leihe",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUXVUMzlZMk0zMUVfM1ZrZ3JnVTdXeHAyUmNuTUF6S2k1RmMwdUhRNmk0Q1JxTFBNNi1MTkxSVlVESkQ4V1RWZlQwOTlVV18wcE5BT296dU0yalNIaEtKNW1MY2l6RDBYT1BDblk5M25DNUx6MVNjbEhtdUNqajMxTVRZWGNnYm5SSHhTZDlVM2Q4ejhVb2NDeEU4UlpUcVhYTmZwRUszc3ltLWtIZkpKMUo1YUYtWmJmNGFxOEdtdlJNT0gxTnd4SGlWdm1XNXhMelE?oc=5",
+    "aid": "5be4abbb23",
+    "titel": "VfL Bochum: Stammplatz, Verletzung, Zukunft – so bewertet Keumo seine Waldhof-Leihe",
+    "quelle": "WAZ",
+    "beschr": " VfL Bochum: Stammplatz, Verletzung, Zukunft – so bewertet Keumo seine Waldhof-Leihe &nbsp;&nbsp; WAZ ",
+    "zeit": "2026-11-14T13:51"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-14T15:01",
+  "archiv": [
+   {
+    "id": "6c42a192ac",
+    "titel": "KSC: Franke und Jung fehlen zum Start der Bochum-Vorbereitung",
+    "datum": "03.11.",
+    "stufe": "verletzung",
+    "summary": "Der KSC hat die Vorbereitung auf das Auswärtsspiel in Bochum am 8. November begonnen. Marcel Franke (Infekt) und Sebastian Jung (Muskelfaserriss) fehlten im Training."
+   }
+  ],
   "versuche": 1
  }
 ]

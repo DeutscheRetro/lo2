@@ -1,0 +1,154 @@
+2026-11-14 15:01:20,864 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 1 passende Treffer
+2026-11-14 15:01:20,864 INFO S7 Ersatzquelle liefert Text (120 Wörter, 1 Quellen): Kimmich nach Rückkehr: Hier am absolut richtigen Ort
+2026-11-14 15:01:20,865 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 0 passende Treffer
+2026-11-14 15:01:20,865 INFO FinalCheck SKIP: borussia mönchengladbach/{'max muster'} stage=geruecht bereits in Archiv
+2026-11-14 15:01:20,865 INFO FinalCheck SKIP: borussia mönchengladbach/set() stage=geruecht bereits in Archiv
+2026-11-14 15:01:28,426 INFO 💶 Budget: dieser Lauf 0.097 $ | heute 0.00 $ | Monat 0.12 / 8 $
+2026-11-14 15:01:28,434 INFO URL-Cache geladen: 9491 bekannte URLs (letzte 30 Tage)
+2026-11-14 15:01:28,434 INFO === LO Generator startet – max. 50 Artikel ===
+2026-11-14 15:01:28,434 INFO Feed: https://newsfeed.kicker.de/news/2-bundesliga
+2026-11-14 15:01:28,830 INFO Feed: https://www.sport.de/rss/news/
+2026-11-14 15:01:29,303 INFO Feed: https://www.11freunde.de/feed
+2026-11-14 15:01:30,576 INFO Feed: https://news.google.com/rss/search?q=%222.+Bundesliga%22&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:01:31,216 INFO S2 blacklist: FC Bayern München reist in der Frauen-Bundesliga mit Rekords
+2026-11-14 15:01:31,222 INFO S2 blacklist: "Weg konsequent fortsetzen": Hertha-Präsident über Zukunft d
+2026-11-14 15:01:31,222 INFO S2 blacklist: 1860 München vs. SpVgg Unterhaching heute live: Regionalliga
+2026-11-14 15:01:31,224 WARNING Spielerliste nicht verfügbar: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-14 15:01:31,224 INFO BL-Spielerliste geladen: 0 Namen
+2026-11-14 15:01:31,225 INFO S3 keyword miss: Live hören: Die Konferenz - 13. Spieltag | Fußball 2. Bundes
+2026-11-14 15:01:31,226 INFO S3 keyword miss: Abstimmung - Bundesliga soll 50+1 "einheitlich umsetzen"
+2026-11-14 15:01:31,228 INFO S2 kein BL-Klub im Titel: Neuzugang aus der 2. Bundesliga? BVB verfolgt offenbar klare
+2026-11-14 15:01:31,229 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Verletzung+Ausfall+gesperrt&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:01:31,535 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Transfer+Wechsel+verpflichtet&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:01:31,841 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Ger%C3%BCcht+Interesse+Angebot&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:01:32,220 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Vertrag+verl%C3%A4ngert+abl%C3%B6sefrei&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:01:32,530 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Trainer+Entlassung&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:01:32,851 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Heidenheim%22+OR+Heidenheim+FCH+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:01:33,177 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Kaiserslautern%22+OR+%22FCK%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:01:33,494 INFO S2 blacklist: 1. FC Kaiserslautern U17
+2026-11-14 15:01:33,496 INFO S3 keyword miss: Wahlen, Finanzen, Personalien: FCK vor wichtigen Entscheidun
+2026-11-14 15:01:33,499 INFO S3 keyword miss: Jan Svensson: Bilanz gegen Gegenspieler, Trainer & Vereine
+2026-11-14 15:01:33,499 INFO S2 Liveticker übersprungen: Stuttgarter Kickers gegen Hessen Kassel: Liveticker: Die Bla
+2026-11-14 15:01:33,501 INFO S3 keyword miss: Kevin Stöger: Bilanz gegen Gegenspieler, Trainer & Vereine
+2026-11-14 15:01:33,501 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Magdeburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:01:33,806 INFO S2 blacklist: Spielereignisse | 1. FC Magdeburg - Hallescher FC 1:0 | 9. S
+2026-11-14 15:01:33,808 INFO S3 keyword miss: Christian Bickel gewinnt Amateur-Duell um den "Volltreffer d
+2026-11-14 15:01:33,809 INFO S2 blacklist: Handball heute: Wer zeigt Füchse Berlin – THW Kiel live im T
+2026-11-14 15:01:33,809 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+N%C3%BCrnberg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:01:34,088 INFO S2 blacklist: SpVgg Unterhaching U15
+2026-11-14 15:01:34,089 INFO S2 blacklist: Topspiel der Frauen Bundesliga: Wo läuft VfL Wolfsburg vs. F
+2026-11-14 15:01:34,091 INFO S3 keyword miss: Siegtor in der 91. Minute: Hoffenheim siegt dank "Lucky Punc
+2026-11-14 15:01:34,091 INFO S2 Liveticker übersprungen: Werder Bremen - 1. FC Union Berlin Liveticker, 14.11.2026
+2026-11-14 15:01:34,091 INFO Feed: https://news.google.com/rss/search?q=%22Arminia+Bielefeld%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:01:34,484 INFO S2 blacklist: Arminia Bielefeld U17
+2026-11-14 15:01:34,485 INFO Feed: https://news.google.com/rss/search?q=%22Dynamo+Dresden%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:01:34,856 INFO S3 keyword miss: dpa-Meldungen
+2026-11-14 15:01:34,859 INFO S3 keyword miss: Wegen Not­falls: Dy­na­mo sagt Mit­glie­der­ver­samm­lung ab
+2026-11-14 15:01:34,868 INFO S3 keyword miss: Dresdner Eislöwen siegen in Ravensburg – Tylor Spink fehlt a
+2026-11-14 15:01:34,870 INFO S3 keyword miss: "Schwerwiegender medizinischer Notfall": Zweitligist sagt Mi
+2026-11-14 15:01:34,873 INFO Feed: https://news.google.com/rss/search?q=%22Eintracht+Braunschweig%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:01:35,219 INFO S2 blacklist: Spielereignisse | Energie Cottbus - SV Babelsberg 03 0:1 | 8
+2026-11-14 15:01:35,219 INFO S2 blacklist: Spielereignisse | Chemnitzer FC - Hallescher FC 2:0 | 8. Spi
+2026-11-14 15:01:35,221 INFO S3 keyword miss: Sandra Hüller doppelt für Europäischen Filmpreis nominiert
+2026-11-14 15:01:35,222 INFO S3 keyword miss: König Charles und Elton John scherzen über das Älterwerden
+2026-11-14 15:01:35,224 INFO S3 keyword miss: Todesanzeige Alfred Jordan
+2026-11-14 15:01:35,224 INFO Feed: https://news.google.com/rss/search?q=%22Energie+Cottbus%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:01:35,519 INFO Feed: https://news.google.com/rss/search?q=%22FC+St.+Pauli%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:01:35,848 INFO Feed: https://news.google.com/rss/search?q=%22Hannover+96%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:01:36,211 INFO S3 keyword miss: Ausgleich in allerletzter Sekunde: Egestorfer lassen die näc
+2026-11-14 15:01:36,211 INFO Feed: https://news.google.com/rss/search?q=%22Hertha+BSC%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:01:36,540 INFO S2 Liveticker übersprungen: Hertha-Mitgliederversammlung: Liveticker: Mitgliederversamml
+2026-11-14 15:01:36,544 INFO S3 keyword miss: Das blau-weiße Wunder von Berlin beschämt alle Experten
+2026-11-14 15:01:36,544 INFO Feed: https://news.google.com/rss/search?q=%22Holstein+Kiel%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:01:36,883 INFO S3 keyword miss: „Trend ist bedenklich“: Weihnachtsmärkte in SH starten immer
+2026-11-14 15:01:36,885 INFO S3 keyword miss: „International sind Gaspreise um das Dreifache gestiegen“: W
+2026-11-14 15:01:36,886 INFO Feed: https://news.google.com/rss/search?q=%22Karlsruher+SC%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:01:37,269 INFO S2 blacklist: Karlsruher SC U17
+2026-11-14 15:01:37,271 INFO Feed: https://news.google.com/rss/search?q=%22Greuther+F%C3%BCrth%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:01:37,590 INFO S2 blacklist: SpVgg Greuther Fürth U15
+2026-11-14 15:01:37,591 INFO S2 blacklist: Spielschema | TSV Buchbach - SpVgg Greuther Fürth II 2:0 | 1
+2026-11-14 15:01:37,591 INFO S2 kein BL-Klub im Titel: Auf unbestimmte Zeit: HSV muss auf Yussuf Poulsen verzichten
+2026-11-14 15:01:37,592 INFO S2 blacklist: Übertragung der 3. Liga 26/27: Welche Spiele laufen im Free-
+2026-11-14 15:01:37,592 INFO Feed: https://news.google.com/rss/search?q=%22Darmstadt+98%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:01:37,893 INFO S2 blacklist: SG Barockstadt Fulda-Lehnerz U15
+2026-11-14 15:01:37,894 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Bochum%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:01:38,261 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Osnabr%C3%BCck%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:01:38,627 INFO S3 keyword miss: Ralf Heskamp: Bilanz gegen Gegenspieler, Trainer & Vereine
+2026-11-14 15:01:38,627 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Wolfsburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-14 15:01:38,954 INFO S2 blacklist: Frauen Bundesliga: Wo läuft VfL Wolfsburg vs. FC Bayern Münc
+2026-11-14 15:01:38,954 INFO S2 blacklist: Frauen Bundesliga: Läuft VfL Wolfsburg vs. FC Bayern heute l
+2026-11-14 15:01:38,955 INFO Feed: https://newsfeed.kicker.de/team/1-fc-heidenheim
+2026-11-14 15:01:39,029 INFO Feed: https://newsfeed.kicker.de/team/1-fc-nuernberg
+2026-11-14 15:01:39,217 INFO Feed: https://newsfeed.kicker.de/team/arminia-bielefeld
+2026-11-14 15:01:39,393 INFO Feed: https://newsfeed.kicker.de/team/dynamo-dresden
+2026-11-14 15:01:39,579 INFO Feed: https://newsfeed.kicker.de/team/eintracht-braunschweig
+2026-11-14 15:01:39,749 INFO Feed: https://newsfeed.kicker.de/team/fc-st-pauli
+2026-11-14 15:01:39,822 INFO Feed: https://newsfeed.kicker.de/team/hannover-96
+2026-11-14 15:01:40,010 INFO Feed: https://newsfeed.kicker.de/team/hertha-bsc
+2026-11-14 15:01:40,187 INFO Feed: https://newsfeed.kicker.de/team/holstein-kiel
+2026-11-14 15:01:40,369 INFO Feed: https://newsfeed.kicker.de/team/vfl-bochum
+2026-11-14 15:01:40,560 INFO Feed: https://newsfeed.kicker.de/team/vfl-osnabrueck
+2026-11-14 15:01:40,740 INFO Eingelesen: 42 Schlagzeilen nach den Gratis-Filtern
+2026-11-14 15:01:40,775 INFO S5 Randthema: 2. Liga: Dramatische Szenen bei Dynamo Dresden - Mitgliederversammlung
+2026-11-14 15:01:40,776 INFO S5 Randthema: Dynamo Dresden sagt Mitgliederversammlung kurz vor Start ab
+2026-11-14 15:01:40,777 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: 2. Fußball-Bundesliga: Wegen Notfalls: Dynamo sagt Mitgliederversammlu
+2026-11-14 15:01:40,777 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: Maksimovic zurück in der Startelf: VfR auf dem legendären Betzenberg g
+2026-11-14 15:01:40,777 INFO S5 Fan-Wahl/Nachwuchs: Spielschema | FC St. Pauli - 1. FC Magdeburg 4:1 | 3. Spieltag | U-19-
+2026-11-14 15:01:40,777 INFO S5 Randthema: Medizinischer Notfall: Mitgliederversammlung bei Dynamo Dresden abgesa
+2026-11-14 15:01:40,777 INFO S5 Randthema: Frau in Lebensgefahr – Mitgliederversammlung von Dynamo Dresden findet
+2026-11-14 15:01:40,778 INFO S5 Randthema: Dynamo Dresden sagt Mitgliederversammlung nach Notfall ab
+2026-11-14 15:01:40,778 INFO S5 Randthema: Dynamo Dresden 2. Liga: Notfall stoppt Mitgliederversammlung - so könn
+2026-11-14 15:01:40,778 INFO S5 Randthema: Mitgliederversammlung von Dynamo Dresden kurzfristig abgesagt
+2026-11-14 15:01:40,778 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: Notfall bei Dynamo: Versammlung abrupt abgesagt
+2026-11-14 15:01:40,778 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: Por motivos de emergencia: el Dynamo cancela la asamblea general
+2026-11-14 15:01:40,779 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: Z důvodu mimořádné situace: Dynamo ruší valnou hromadu
+2026-11-14 15:01:40,779 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: News zu #Dynamo Mitgliederversammlung abgesagt auf DieSachsen.de - Onl
+2026-11-14 15:01:40,779 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: Due to an emergency: Dynamo cancels its general meeting
+2026-11-14 15:01:40,779 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: Ohne Scholle-Antrag, mit Konfliktpotenzial: Das ist auf Dynamos Mitgli
+2026-11-14 15:01:40,779 INFO S5 Randthema: Hertha BSC zieht bei Mitgliederversammlung Zwischenbilanz
+2026-11-14 15:01:40,780 INFO S5: 24 neue Geschichten, 0 schon berichtet, 0 zu wartenden Geschichten ergänzt, 3 warten
+2026-11-14 15:01:44,441 INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-11-14 15:01:44,453 INFO S6 aussortiert (doppelt): St. Pauli vermeldet 16,7 Millionen Euro Jahresüberschuss
+2026-11-14 15:01:44,454 INFO S6 aussortiert (doppelt): FC St. Pauli baut Schulden massiv ab: Millionenüberschuss trotz Bundes
+2026-11-14 15:01:44,454 INFO S6 aussortiert (doppelt): Zweite Fußball-Bundesliga - Hertha-Präsident: „Müssen Weg konsequent f
+2026-11-14 15:01:44,454 INFO S6 aussortiert (prio_0): So gut haben sich die Transfererlöse beim VfL Osnabrück zuletzt entwic
+2026-11-14 15:01:44,454 INFO S6 aussortiert (doppelt): Trotz Bundesliga-Abstieg: FC St. Pauli macht Rekordgewinn
+2026-11-14 15:01:44,454 INFO S6 aussortiert (prio_0): Energie Cottbus: Ausgliederung der Profis - so läuft es bei der Konkur
+2026-11-14 15:01:44,454 INFO S6 aussortiert (doppelt): 2. Fußball-Bundesliga: FC St. Pauli präsentiert großen Jahresüberschus
+2026-11-14 15:01:44,454 INFO S6 aussortiert (doppelt): Heidenheims Abwehrspieler Jonas Föhrenbach nach Schienbeinbruch erfolg
+2026-11-14 15:01:44,455 INFO S6 aussortiert (prio_0): Levi | Erster Slalom-Sieg: Ski-Juwel Aicher jubelt in Levi
+2026-11-14 15:01:44,455 INFO S6 aussortiert (prio_1): VfB Stuttgart im DFB-Pokal: So läuft der Vorverkauf für das Achtelfina
+2026-11-14 15:01:44,455 INFO S6 aussortiert (doppelt): 2. Fußball-Bundesliga: Energie Cottbus plant Ausgliederung der Profiab
+2026-11-14 15:01:44,455 INFO S6 aussortiert (doppelt): St. Pauli feiert Rekordgewinn – doch der Abstieg wird teuer
+2026-11-14 15:01:44,455 INFO S6 aussortiert (doppelt): FC St. Pauli in Hamburg schließt Geschäftsjahr 2025/26 mit 16,7 Millio
+2026-11-14 15:01:44,455 INFO S6 aussortiert (prio_0): Hertha BSC erinnert an den früheren Stürmer Alex Alves
+2026-11-14 15:01:44,455 INFO S6 aussortiert (prio_0): DFB: Starke TV-Quote für Klopp-Team - Traum-Debüt für VfL-Bochum-Juwel
+2026-11-14 15:01:44,455 INFO S6 aussortiert (doppelt): Mannheim: VfL-Bochum-Leihgabe Keumo über Waldhof-Start, Verletzung und
+2026-11-14 15:01:44,455 INFO S6 aussortiert (prio_0): Fußball Bundesliga: FC Bayern gegen Bochum - Statistik: Zweikämpfe - 1
+2026-11-14 15:01:44,456 INFO S6 aussortiert (prio_0): Aufstellung | VfL Bochum - SC Verl 4:1 | KW46 | Fußball-Vereine Freund
+2026-11-14 15:01:44,456 INFO S6 aussortiert (prio_0): Basketball-Krisenduell steigt in Bochum: Geske ist erst frustriert, da
+2026-11-14 15:01:44,456 INFO S6 aussortiert (prio_0): Ruhrgebiet: So wenig Wasser in der Ruhr wie seit 50 Jahren nicht
+2026-11-14 15:01:44,456 INFO S6 aussortiert (prio_0): Baskets bezwingen Bochum 89:81: Koblenzer sind nach wichtigem Sieg erl
+2026-11-14 15:01:44,456 INFO S6 aussortiert (prio_1): VfL Osnabrück - Brückentag (Sa., 28.11.2026, 20:30 Uhr)
+2026-11-14 15:01:45,510 INFO S7 kein Volltext (too_short_52_words): VfL Bochum: Stammplatz, Verletzung, Zukunft – so bewertet Ke
+2026-11-14 15:01:45,781 INFO S7 Ersatzquellen für "VfL Bochum: Stammplatz, Verletzung, Zukunft – so b": 0 passende Treffer
+2026-11-14 15:01:45,781 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): VfL Bochum: Stammplatz, Verletzung, Zukunft – so bewertet Ke
+2026-11-14 15:01:46,077 INFO S7 Ersatzquellen für "Klos und Stucki sagen ab: Wenig Mittel auf der Suc": 0 passende Treffer
+2026-11-14 15:01:46,077 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Klos und Stucki sagen ab: Wenig Mittel auf der Suche nach ne
+2026-11-14 15:01:47,020 INFO S7 kein Volltext (too_short_8_words): Olaf Rebbe in der Kritik: Warum der Holstein-Kiel-Sportchef 
+2026-11-14 15:01:47,299 INFO S7 Ersatzquellen für "Olaf Rebbe in der Kritik: Warum der Holstein-Kiel-": 0 passende Treffer
+2026-11-14 15:01:47,299 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Olaf Rebbe in der Kritik: Warum der Holstein-Kiel-Sportchef 
+2026-11-14 15:01:47,675 WARNING discarding data: None
+2026-11-14 15:01:47,676 INFO S7 kein Volltext (trafilatura_returned_empty): Testspielsieg gegen Havelse und Gindorf-Comeback: Hannover 9
+2026-11-14 15:01:47,959 INFO S7 Ersatzquellen für "Testspielsieg gegen Havelse und Gindorf-Comeback: ": 0 passende Treffer
+2026-11-14 15:01:47,959 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Testspielsieg gegen Havelse und Gindorf-Comeback: Hannover 9
+2026-11-14 15:01:48,520 INFO S7 kein Volltext (too_short_15_words): Hertha BSC: Gouram für Deutschland, Dardai wird Papa
+2026-11-14 15:01:48,814 INFO S7 Ersatzquellen für "Hertha BSC: Gouram für Deutschland, Dardai wird Pa": 0 passende Treffer
+2026-11-14 15:01:48,814 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Hertha BSC: Gouram für Deutschland, Dardai wird Papa
+2026-11-14 15:01:48,815 INFO S9.5 FinalCheck: 0/0 durch
+2026-11-14 15:01:48,829 WARNING Sitemap ohne Spielerseiten: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-14 15:01:48,832 INFO 💶 Kosten: dieser Lauf 0.004 $ (Budget 0.097 $) | heute 0.00 $ | Monat 0.12 / 8 $ | konferenz 1× 0.004 $
+2026-11-14 15:01:48,840 INFO Feeds: 38/38 begonnen, nächster Lauf startet bei Nr. 0
+2026-11-14 15:01:48,840 INFO URL-Cache gespeichert: 9588 URLs
+2026-11-14 15:01:48,840 INFO === Fertig. 0 neue Artikel. feed.json: 127 ===
+2026-11-14 15:01:48,840 INFO Stats: {"ts": "20261114_1501", "ingested": 97, "s2_pre_filter": 33, "s3_relevance": 19, "s4_dedup_early": 0, "gesammelt": 42, "geschichten_neu": 24, "s5_archiv_doppelt": 0, "s5_zusammengefuehrt": 0, "s6_aussortiert": 22, "s7_geschrieben": 0, "s7_verworfen": 0, "s5_fulltext_fail": 5, "s8_qa_rejected": 0, "published": 0, "s5_randthema": 9, "s5_ohne_bezug": 8, "kosten": {"lauf_usd": 0.0036, "lauf_budget_usd": 0.0973, "heute_usd": 0.0036, "monat_usd": 0.1238, "monatsbudget_usd": 8.0, "aufrufe": {"konferenz": {"anzahl": 1, "usd": 0.0036}}, "guthaben_leer": false, "abo": false, "abo_tokens": {}}}
