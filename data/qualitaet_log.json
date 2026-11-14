@@ -1608,5 +1608,46 @@
   "gruende": [],
   "alt_titel": null,
   "quelle_gelesen": true
+ },
+ {
+  "zeit": "14.11.2026 12:03",
+  "id": "2ccfd9528b",
+  "pfad": "artikel/dynamo-dresden-gewinnt-test-gegen-dukla-prag-mit-2-0-2ccfd9528b.html",
+  "urteil": "verbessert",
+  "gruende": [
+   "Behauptung gestrichen, Neininger sei zur Pause ausgewechselt worden und für 90 Minuten eingeplant gewesen: steht nicht in der Quelle",
+   "Zitat von Thomas Stamm und seine Aussage zu Neininger gestrichen: stehen nicht in der Quelle",
+   "„Wie berichtet“-Absatz zum 3:0 gegen Greuther Fürth und zum Verlassen des Tabellenendes gestrichen: steht nicht in der Quelle",
+   "Details aus der Quelle ergänzt: Chancen in der ersten Halbzeit, Entstehung der Tore, Änderungen in der Startelf, Verkürzung der Spielzeit, Tabellenplatz 15",
+   "Vereinsname „FK Dukla Prag“ wie in der Quelle übernommen"
+  ],
+  "alt_titel": "Dynamo Dresden gewinnt Test gegen Dukla Prag mit 2:0",
+  "quelle_gelesen": true
+ },
+ {
+  "zeit": "14.11.2026 12:03",
+  "id": "1f1da8c554",
+  "pfad": "artikel/heidenheim-muss-monatelang-auf-foehrenbach-verzichten-1f1da8c554.html",
+  "urteil": "verbessert",
+  "gruende": [
+   "Angabe zu Torhüter Thomas Dähne und seinem Fingerbruch gestrichen, weil sie nicht in der Quelle steht und nichts mit dem Thema zu tun hat",
+   "Satz „Schmidt muss in der Innenverteidigung nun umbauen“ gestrichen, weil das eine eigene Folgerung ist, die nicht in der Quelle steht",
+   "Schluss umgestellt: Der Artikel endet jetzt mit Föhrenbachs Vertrag beim FCH seit 2019"
+  ],
+  "alt_titel": "Heidenheim muss monatelang auf Föhrenbach verzichten",
+  "quelle_gelesen": true
+ },
+ {
+  "zeit": "14.11.2026 12:04",
+  "id": "1c5ef2d6b3",
+  "pfad": "artikel/metcalfe-legt-zwei-tore-auf-klein-feiert-debuet-fuer-australien-1c5ef2d6b3.html",
+  "urteil": "verbessert",
+  "gruende": [
+   "\"zu einem 3:0 geführt\" auf Quellenstand korrigiert: \"maßgeblich am 3:0-Sieg beteiligt\"",
+   "Satz zum Verzicht auf ein Testspiel sinnvoller in den Vereinskontext eingeordnet und um das Training der übrigen Profis ergänzt (steht in der Quelle)",
+   "Kleinere sprachliche Glättungen"
+  ],
+  "alt_titel": "Metcalfe legt zwei Tore auf, Klein feiert Debüt für Australien",
+  "quelle_gelesen": true
  }
 ]

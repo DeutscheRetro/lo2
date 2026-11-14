@@ -1,68 +1,105 @@
 [
  {
-  "id": "387ca90255",
-  "schluessel": "bielefeld|sonstiges",
+  "id": "9f032b3b80",
+  "schluessel": "hannover|verletzung",
   "person": "",
   "spieler": [],
-  "klub": "Bielefeld",
+  "klub": "Hannover",
   "klubs": [
-   "Bielefeld"
+   "Hannover"
+  ],
+  "stufe": "rueckkehr",
+  "klasse": "verletzung",
+  "titel": "Testspielsieg gegen Havelse und Gindorf-Comeback: Hannover 96 sucht weiter nach einem neuen Sportdirektor",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTWUxU0FrMV9TU181VjA1c3RCaGNPUGk3QWNxVEpQXzVjNC1FazQ1clZIM29ILTRPc1B1bHdjbVZZTDRwaXBUQXlHMlJGdHp4VUFiaWRYVTZSUERCOURuNFlrdmFJQWJwcUpLVzZ4MUVYWHRMSm82NlpFbnRLS1FTTXNGUHNRMWlDc0NfclJWMWtzRjZHZnRQR3F2bFloWVM5SzBlc3ZxSnpHU0l5c21KaXVzS1Z5UlpTLVlaZkIyQ1V4THM4bjVPddIBzgFBVV95cUxPUDBHRXJpenhDUXJ1WlpBeVFfUDZENGtOSmZUbDhoVV9iNWRBMmFoY3Q1UU53cm9QZHI2b1lvQXMtbTJ5UVNxdU9LcmpSNklFcWZYUHlmbUJhek45blhveGIzRkhNdFFWMFItQVp2RmNnNU9DY2tzbTFxVmlnZ1RBNU93VFlzVnQ4alM4cVkxYk9EOTktUy1XdHBMdl92bGlnX29SWmtxeXQwZkdBbDhNQ0p3ZmxTYjBjTG1LeVcycnc0dFdfMUdybVlUSVNSZw?oc=5",
+    "aid": "b56180a206",
+    "titel": "Testspielsieg gegen Havelse und Gindorf-Comeback: Hannover 96 sucht weiter nach einem neuen Sportdirektor",
+    "quelle": "Tribuna.com",
+    "beschr": " Testspielsieg gegen Havelse und Gindorf-Comeback: Hannover 96 sucht weiter nach einem neuen Sportdirektor &nbsp;&nbsp; Tribuna.com ",
+    "zeit": "2026-11-13T16:05"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-14T12:01",
+  "archiv": [
+   {
+    "id": "e8d2176e39",
+    "titel": "Hannover 96: Chakroun mit Schulterblessur, Einsatz in Heidenheim offen",
+    "datum": "02.11.",
+    "stufe": "fraglich",
+    "summary": "Hannovers Husseyn Chakroun zog sich beim 2:1 gegen Dresden eine Blessur im rechten Schultereckgelenk zu. Ein Einsatz am Sonntag in Heidenheim ist nicht ausgeschlossen."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "338c364d19",
+  "schluessel": "hertha|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha"
   ],
   "stufe": "sonstiges",
   "klasse": "sonstiges",
-  "titel": "Traumtor gegen Meppen: Handwerker meldet bei Arminia Ansprüche an",
+  "titel": "Hertha BSC: Gouram für Deutschland, Dardai wird Papa",
   "quellen": [
    {
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeGRWc3FfOGhqc1NuNUs1VTdySHdTMVRNdEY3ekJuSVZ4ejA4bmhVTEFRalZPTVVsUV9hRE5WV0R3Q3FKQkh5aUdBWmdQQ0MwS0dlaUYzVm5SeEY4cVZSZkJ0ZFZldzFGN3lOLWtaaFdHU0JIWnZaM0RaZ2ZjR1lDWU1IbFFOSXVRNGRQQXprV3p4M0NFUWszQkhiYW5MekVQY0FPeDZaUmZYcXVvUEhudW5IUC12NnAyUjVaTEV3?oc=5",
-    "aid": "4b93fac46b",
-    "titel": "Traumtor gegen Meppen: Handwerker meldet bei Arminia Ansprüche an",
-    "quelle": "Mindener Tageblatt",
-    "beschr": " Traumtor gegen Meppen: Handwerker meldet bei Arminia Ansprüche an &nbsp;&nbsp; Mindener Tageblatt ",
-    "zeit": "2026-11-14T05:00"
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ3hjR19sUUNwcC16dXMwd1RIYXBlNXhKMGg1TjYwak5zVnMzZlpQeVMzWHEyQV9qNE82RmZ2Rm5zSFVVN1BWZ0FsUUFIa09vWGpkTWs3UXZ3X25wT1ZIWVZTYlVweDVtZGZhcEczUlFnb05DUk5FNEJNRUc5WV9HSkozdjlZT3VnLUpZSWhHRVVFbjhlQWM1cnpZSzVEd0JaT0p2N3I0Tm1wR2ZDNUxYNGJwcmlFLUFxNEZQNWJUQnJZLVk?oc=5",
+    "aid": "9b00609373",
+    "titel": "Hertha BSC: Gouram für Deutschland, Dardai wird Papa",
+    "quelle": "BZ Berlin",
+    "beschr": " Hertha BSC: Gouram für Deutschland, Dardai wird Papa &nbsp;&nbsp; BZ Berlin ",
+    "zeit": "2026-11-13T14:05"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-14T12:01",
+  "archiv": [
+   {
+    "id": "008a7a4de7",
+    "titel": "Hertha BSC: Wie Stefan Leitl die Berliner an die Spitze führt",
+    "datum": "08.11.",
+    "stufe": "sonstiges",
+    "summary": "Hertha BSC führt die zweite Liga nach dem 2:1 gegen Wolfsburg mit zehn Punkten Vorsprung auf Rang drei an. Trainer Stefan Leitl setzt auf hohes Pressing, einen klaren Plan und eine funktionierende Gruppe."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "c82c159325",
+  "schluessel": "kiel|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Kiel",
+  "klubs": [
+   "Kiel"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Olaf Rebbe in der Kritik: Warum der Holstein-Kiel-Sportchef unter Druck steht",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdGdWWmg3SUhMVTNTX2M0Sy01SlNPaVFQMElzSENQaDZpVGNTbEtteVZzZVBGUDdKbXVZSDZpN0diZ3BqWUhuMGYycjJlRnFTTVE0dzRiZktiSjZqVGc5SE1Db1VSZE4yN2VQV3Q3X0NMX3lvNTh0ZXVJelpWOVQ5RFB5dThhalhwbmlLcjdaS3d3YlRJSVdhLVJuVTFKWlFNZDlfN05lQ2dNc2d3aEQ1c3RYRENLYTk5QTFPQXc2UlJueTJOVnVicXlwc01oa21KeFRQYlpndzkyTlRUSWlDTHhB0gH-AUFVX3lxTE5ocVV4RlA3Tm9wcHBaZWM1Rk5XMm85M1RyT0xFU1hDUmszVlBfOEotalJwWGZTZVl1R0N1MzlvR1dDQ0lPTzJUS3pKZkhhWGtHeDBHeHo2VzhVTFBNTFVjMnRFUzhiU1QxVWhVdGYwUDUtQTNxMlg0UWh0a3dtMk5XOVRDTFBqZXo1VExPcHFZTWl4REt3WFRFX0Z5R2RvMF84cC1ERDFRdXZmWEdEMlpSMW1YbV9OWjNRYy1ZcTQwNmdPM3gtS3YzaG5CTy1jZk9KTWRtV040U3V2OVJjdlR0QlhmRDNvOHMxZ0NVeWpzZ0JnV1JUeWhydUlzZXFB?oc=5",
+    "aid": "163fb83ae0",
+    "titel": "Olaf Rebbe in der Kritik: Warum der Holstein-Kiel-Sportchef unter Druck steht",
+    "quelle": "Kieler Nachrichten",
+    "beschr": " Olaf Rebbe in der Kritik: Warum der Holstein-Kiel-Sportchef unter Druck steht &nbsp;&nbsp; Kieler Nachrichten ",
+    "zeit": "2026-11-14T09:29"
    }
   ],
   "archiv_status": "neu",
   "prio": 2,
   "status": "n",
-  "erstmals": "2026-11-14T06:01",
+  "erstmals": "2026-11-14T12:01",
   "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "1c19985c4a",
-  "schluessel": "karlsruhe|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Karlsruhe",
-  "klubs": [
-   "Karlsruhe"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Erhoffter Karriere-Sprint führte Rossmann vom KSC zum neuen Anlauf in Großaspach",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZWdvdXBBYl9NNTVMcWR6RWQ0YkVrMnlSLUhLUWs3SlNsalFJcks4UnMzTVZlZmVCcWxRUklVRnhqaEx0a0djRko4UEVfT1VmTE1FdF9qYVpMM1BOb3NBcldRSUpmTzRjajVnSTZ3RHdVeFg2SWZDRjV3Snl2NDkyNjhROGkyaGQ3eG51TkNmYmt2M0pueEFBRQ?oc=5",
-    "aid": "9d828b6a28",
-    "titel": "Erhoffter Karriere-Sprint führte Rossmann vom KSC zum neuen Anlauf in Großaspach",
-    "quelle": "Badische Neueste Nachrichten",
-    "beschr": " Erhoffter Karriere-Sprint führte Rossmann vom KSC zum neuen Anlauf in Großaspach &nbsp;&nbsp; Badische Neueste Nachrichten ",
-    "zeit": "2026-11-13T11:49"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-14T06:01",
-  "archiv": [
-   {
-    "id": "206fcc524e",
-    "titel": "KSC-Verteidiger Sandro: Vom Erntehelfer zum Profi in Karlsruhe",
-    "datum": "06.11.",
-    "stufe": "sonstiges",
-    "summary": "KSC-Innenverteidiger Sandro hat in einem Vereinsinterview über seinen Weg vom Erntehelfer zum Profi gesprochen. Der 26-Jährige spielt auch für Madagaskar und lobt die Atmosphäre in Karlsruhe."
-   }
-  ],
-  "versuche": 2
+  "versuche": 1
  }
 ]
