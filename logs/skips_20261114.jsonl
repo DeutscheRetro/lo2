@@ -310,3 +310,87 @@
 {"ts": "2026-11-14T15:01:44.456222", "id": "e3dffdac20", "title": "Ruhrgebiet: So wenig Wasser in der Ruhr wie seit 50 Jahren nicht", "stage": "stage6", "reason": "prio_0"}
 {"ts": "2026-11-14T15:01:44.456329", "id": "729eabe0f2", "title": "Baskets bezwingen Bochum 89:81: Koblenzer sind nach wichtigem Sieg erleichtert", "stage": "stage6", "reason": "prio_0"}
 {"ts": "2026-11-14T15:01:44.456418", "id": "2eddcdfe78", "title": "VfL Osnabrück - Brückentag (Sa., 28.11.2026, 20:30 Uhr)", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-14T18:01:40.140992", "id": "afff096077", "title": "Ronaldinho mit surrealer Ballannahme beim FC Ravenna: Magisch magnetisch", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-14T18:01:40.706846", "id": "bdcec80349", "title": "Viktoria kassiert nach frühem Gegentor zweite Niederlage der Saison", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-14T18:01:40.708374", "id": "4d77d5b119", "title": "2. Bundesliga 26/27: Alle Infos zum Spielplan und zu den Teilnehmern der neuen S", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-14T18:01:40.708582", "id": "8eb4dda1ad", "title": "Hertha: Mahnende Worte der Bosse trotz Platz 1", "stage": "stage2", "reason": "batch_title_dup_100pct"}
+{"ts": "2026-11-14T18:01:40.708888", "id": "cf8990f551", "title": "Kühn direkt wichtig? So plant Blessin mit dem Gladbach-Star", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-14T18:01:40.709812", "id": "11761c6a1d", "title": "2. Liga 26/27: Live-Übertragung im Fernsehen oder Stream – laufen auch Spiele im", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-14T18:01:40.710118", "id": "3cff16b6f7", "title": "2. Frauen-Bundesliga: Viktoria kassiert nach frühem Gegentor zweite Niederlage d", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-14T18:01:40.712360", "id": "26bd48eb63", "title": "Schalke: Abstiegskampf, Verletzungspech, Druck - Baumann spricht Klartext über S", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-14T18:01:42.524754", "id": "8da1f2ad12", "title": "1. FC Kaiserslautern II - VfR Aalen: Kaiserslautern und Aalen trennen sich torlo", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-14T18:01:42.525905", "id": "025b8b54ab", "title": "Spielereignisse | 1. FC Kaiserslautern II - VfR Aalen 0:0 | 16. Spieltag | Regio", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-14T18:01:42.527381", "id": "ff5ad4dcdb", "title": "14 Jahre, 1,90 Meter: Ein Lautrer Ta­lent will im Bas­ket­ball hoch hin­aus", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-14T18:01:42.528490", "id": "4992b7eb3f", "title": "Paulo Rink: Bilanz gegen Gegenspieler, Trainer & Vereine", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-14T18:01:42.529779", "id": "d4bb801a10", "title": "Nie­der­lan­de ohne Ka­pi­tän de Jong gegen Deutsch­land", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-14T18:01:42.529985", "id": "ab5e292488", "title": "Spielereignisse | Fortuna Köln - SV Darmstadt 98 3:2 | 9. Spieltag | U-19-DFB-Na", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-14T18:01:42.531402", "id": "2bae706109", "title": "20. Atelier-Ausstellung im Schelmental trägt den Titel „Pareidolia“", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-14T18:01:42.768451", "id": "badcb3c7ad", "title": "Spielereignisse | Fortuna Magdeburg - Hallescher FC 1:3 | Achtelfinale | Landesp", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-14T18:01:42.768699", "id": "9ef4b7b384", "title": "Spielereignisse | FC St. Pauli - 1. FC Magdeburg 4:1 | 3. Spieltag | U-19-DFB-Na", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-14T18:01:42.770208", "id": "219e147e52", "title": "RWE: Bundesliga, Ligue 1, Schottland - Wo die ehemaligen RWE-Spieler jetzt gelan", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-14T18:01:42.770450", "id": "488fe81a89", "title": "Spielereignisse | HFC Colditz - 1. FC Lok Leipzig 0:4 | Achtelfinale | Landespok", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-14T18:01:42.771961", "id": "1cde13a187", "title": "Spielereignisse | SV Empor Berlin - VSG Altglienicke 1:5 | Achtelfinale | Landes", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-14T18:01:43.048200", "id": "ef543f9a7e", "title": "TSG Hoffenheim siegt dank \"Lucky Punch\" gegen den SC Freiburg", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-14T18:01:43.049826", "id": "b43940a291", "title": "Einmal gepennt: DJK Ammerthal mit unnötiger Heimniederlage gegen Mintal, Pinola ", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-14T18:01:43.050128", "id": "fcd7ccf7b8", "title": "Spielereignisse | Schwaben Augsburg - 1. FC Schweinfurt 05 0:0 | 19. Spieltag | ", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-14T18:01:43.050416", "id": "f066b73196", "title": "Spielereignisse | TSV 1860 München - SpVgg Unterhaching 0:0 | 19. Spieltag | Reg", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-14T18:01:43.851346", "id": "e8a143b2d0", "title": "Yann Sturm: Bilanz gegen Gegenspieler, Trainer & Vereine", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-14T18:01:44.103092", "id": "e50362944b", "title": "FCE ehrt Präsident Sebastian Lemke mit goldener Ehrennadel", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-14T18:01:44.355246", "id": "4b1e64d040", "title": "Hamburg, News, Regional: Neuer Aufsichtsrat des FC St. Pauli von Mitgliedern gew", "stage": "stage2", "reason": "batch_title_dup_95pct"}
+{"ts": "2026-11-14T18:01:45.398568", "id": "460f388783", "title": "Nicolai Rapp: Bilanz gegen Gegenspieler, Trainer & Vereine", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-14T18:01:45.662194", "id": "4b9aa479d7", "title": "Regionalliga Bayern, 19. Spieltag: Erleichterung in Eltersdorf", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-14T18:01:45.663853", "id": "aca9318927", "title": "Der db24-Ticker aus Giesing: 0:0! Derby der Langeweile - Fiedler ausgewechselt", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-14T18:01:45.664162", "id": "ceafae3f7d", "title": "Übertragung der 3. Liga 26/27: Welche Spiele laufen im Free-TV und wo kann man s", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-14T18:01:45.949498", "id": "464ed975c9", "title": "Eintracht Frankfurt News-Ticker: Ebnoutalib bei DFB-Sieg auf der Bank", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-14T18:01:46.212239", "id": "f3531a693d", "title": "Spielereignisse | VfL Osnabrück - Wuppertaler SV 4:0 | 5. Spieltag | U-17-DFB-Na", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-14T18:01:46.450748", "id": "ee9e6425ac", "title": "Spielereignisse | VfL Osnabrück - Wuppertaler SV 4:0 | 5. Spieltag | U-17-DFB-Na", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-14T18:01:46.451067", "id": "f1765f6f88", "title": "Wanitzek trifft und serviert: KSC gewinnt Test gegen Aspach", "stage": "stage2", "reason": "batch_title_dup_95pct"}
+{"ts": "2026-11-14T18:01:46.451397", "id": "9524520ac2", "title": "Spielereignisse | Rot-Weiss Essen - Preußen Münster 3:2 | 11. Spieltag | U-17-DF", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-14T18:01:46.708283", "id": "4ee8eac582", "title": "Fußball heute live: Nur DAZN oder auch kostenlose Übertragung im Free-TV für VfL", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-14T18:01:46.709674", "id": "a318aa4664", "title": "Kracher in Wolfsburg: Bayern-Frauen wollen beim VfL punkten", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-14T18:01:46.710026", "id": "633a51d0ab", "title": "Frauen-Bundesliga heute live: VfL Wolfsburg vs. FC Bayern München im Free-TV ode", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-14T18:01:46.711773", "id": "625c37656a", "title": "VfL Wolfsburg vs FC Bayern München heute live in der ARD: Frauen Bundesliga ab 1", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-14T18:01:48.635921", "id": "4722325211", "title": "\"Feuer und Leidenschaft\" fehlen: Heikendorfer SV bei Inter Türkspor chancenlos", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-14T18:01:48.636200", "id": "b5d1ef88ef", "title": "Frau in Lebensgefahr – Mitgliederversammlung von Dynamo Dresden findet nicht sta", "stage": "stage5", "reason": "randthema"}
+{"ts": "2026-11-14T18:01:48.636321", "id": "8aa4b873bf", "title": "2. Fußball-Bundesliga: Wegen Notfalls: Dynamo sagt Mitgliederversammlung ab", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-14T18:01:48.636418", "id": "274f87f592", "title": "\"Gelungener Test\": Stamms Lehren aus Dynamos Prag-Testkick", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-14T18:01:48.636513", "id": "9b57da6ae7", "title": "Ohne Scholle-Antrag, mit Konfliktpotenzial: Das ist auf Dynamos Mitglieder-Versa", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-14T18:01:48.636605", "id": "d063ca0194", "title": "Spielschema | Energie Cottbus - SV Babelsberg 03 0:1 | 8. Spieltag | U-19-DFB-Na", "stage": "stage5", "reason": "nicht_fuer_uns"}
+{"ts": "2026-11-14T18:01:48.636706", "id": "786c719c6d", "title": "Geschäftsbilanz: Der große Jahresüberschuss des FC St. Pauli zeichnet ein schief", "stage": "stage5", "reason": "randthema"}
+{"ts": "2026-11-14T18:01:48.636936", "id": "f8159b4bdf", "title": "Neuer Aufsichtsrat des FC St. Pauli von Mitgliedern gewählt", "stage": "stage5", "reason": "nicht_fuer_uns"}
+{"ts": "2026-11-14T18:01:48.637597", "id": "71ec61c639", "title": "Aus Hertha BSC wird Harmonie BSC Bei Herthas Mitgliederversammlung gibt es mal n", "stage": "stage5", "reason": "randthema"}
+{"ts": "2026-11-14T18:01:48.637937", "id": "be185373d7", "title": "Mitgliederversammlung: Warum sich Hertha BSC nicht blenden lassen will", "stage": "stage5", "reason": "randthema"}
+{"ts": "2026-11-14T18:01:48.638028", "id": "fb5c21aa29", "title": "Hertha BSC: Nachwuchsspieler im Länderspieleinsatz", "stage": "stage5", "reason": "nicht_fuer_uns"}
+{"ts": "2026-11-14T18:01:48.638221", "id": "9548187d76", "title": "Eindrücke von der Mitgliederversammlung", "stage": "stage5", "reason": "randthema"}
+{"ts": "2026-11-14T18:01:48.638538", "id": "a8fc5098ac", "title": "Demo auf Kieler Wilhelmplatz: Großes Abschleppen für kleinen Aufstand", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-14T18:01:48.638762", "id": "b3d6126419", "title": "Die 6 größten Mythen zum Thema Lilien-Staff", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-14T18:03:09.721089", "id": "1ce484b17a", "title": "2. Fußball-Bundesliga - Herthas erster Gewinn seit 2019: Nur ein zartes Pflänzch", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-14T18:03:09.721344", "id": "6af9914bf0", "title": "2. Liga: Millionenplus bei St. Pauli, klare Ansage bei Hertha: Das sind die Erge", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-14T18:03:09.721490", "id": "1a8eda37ca", "title": "Drittligist SG Sonnenhof Großaspach unterliegt dem Zweitligisten KSC", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-14T18:03:09.721596", "id": "21653ce916", "title": "FCK gegen KSC: Was beim Südwestderby für Fans wichtig ist", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-14T18:03:09.721692", "id": "0a5ae672d5", "title": "Nürnberg vs. 1. FC Köln heute live sehen: Wer zeigt / überträgt das Spiel im TV ", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-14T18:03:09.721780", "id": "ebb4db43d2", "title": "Fußball Bundesliga: Nürnberg gegen E. Frankfurt - Übersicht über die Torjäger - ", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-14T18:03:09.721864", "id": "0b84fdebda", "title": "Erste Arminia-Fans träumen vom Aufstieg, andere nehmen den Höhenflug eher auf Bi", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-14T18:03:09.721950", "id": "527958712b", "title": "Das Wichtigste aus OWL: Frau in Bielefeld in Auto gezerrt & Schwänzen nimmt zu", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-14T18:03:09.722037", "id": "d91acf3b91", "title": "Paukenschlag bei St. Pauli: Aufsichtsrat überrascht", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-14T18:03:09.722115", "id": "813c8e4843", "title": "Fußball Bundesliga: Karlsruhe gegen RW Essen - Übersicht über die Torjäger - 23.", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-14T18:03:09.722157", "id": "0b658403bf", "title": "Fußball Bundesliga: St. Pauli gegen Werder - Übersicht über die Torjäger - 27. S", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-14T18:03:09.722237", "id": "3079df19a8", "title": "FC St. Pauli in Hamburg schließt Geschäftsjahr 2025/26 mit 16,7 Millionen Euro Ü", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-14T18:03:09.722343", "id": "0264144e67", "title": "FC St. Pauli wählt vier neue Mitglieder in den Aufsichtsrat", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-14T18:03:09.722441", "id": "89766d4d35", "title": "Fußball Bundesliga: Hannover gegen FC Bayern - Übersicht über die Laufleistung -", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-14T18:03:09.722521", "id": "d18a52db91", "title": "„Maximal bitter”: HSC Hannover trifft zweimal nur den Pfosten und kassiert ein T", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-14T18:03:09.722601", "id": "4914a4bbac", "title": "Personalausfall bei Metronom: Züge zwischen Hannover und Hamburg fallen aus", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-14T18:03:09.722677", "id": "c61ea0b06f", "title": "Fußball Bundesliga: TeBe Berlin gegen Hertha BSC - Statistik: Top-Scorer - 13. S", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-14T18:03:09.722755", "id": "982af840b8", "title": "Rekord für die Ewigkeit? Warum Hertha BSC Schalkes Zweitliga-Bestmarke gefährlic", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-14T18:03:09.722834", "id": "5c2b6b3fd2", "title": "Test-Kick gelungen! KSC schickt Sonnenhof Großaspach mit feinem Füßchen nach Hau", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-14T18:03:09.722907", "id": "96554425a6", "title": "Testsieg für den KSC: Wanitzek trifft und legt gegen Aspach auf", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-14T18:03:09.722978", "id": "d247187f5e", "title": "Länderspielpause: Wanitzek trifft und serviert: KSC gewinnt Test gegen Aspach", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-14T18:03:09.723052", "id": "112914ac0e", "title": "Fußball Bundesliga: FC Bayern gegen Bochum - Statistik: Fouls erlitten - 33. Spi", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-14T18:03:09.723126", "id": "b0bd515571", "title": "Hier läuft VfL Wolfsburg vs. FC Bayern jetzt kostenlos im Stream", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-14T18:03:09.723201", "id": "9a2725059a", "title": "Der Sport-Tag: 51 ungeschlagene Spiele: Beenden die Rivalen die Bayern-Serie?", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-14T18:03:09.723277", "id": "c56df4ef7b", "title": "Fußball heute ARD live: Wolfsburg gegen FC Bayern gleich im Ersten", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-14T18:03:16.651119", "id": "5566fc80f6", "title": "FC Bayern LIVE: Es geht um viel in Wolfsburg", "stage": "S7", "reason": "nicht_relevant"}
+{"ts": "2026-11-14T18:03:32.709699", "id": "eb7236d182", "title": "Hertha-Präsident: «Müssen Weg konsequent fortsetzen»", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-14T18:03:34.219530", "id": "163fb83ae0", "title": "Olaf Rebbe in der Kritik: Warum der Holstein-Kiel-Sportchef unter Druck steht", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-14T18:03:34.701646", "id": "b56180a206", "title": "Testspielsieg gegen Havelse und Gindorf-Comeback: Hannover 96 sucht weiter nach ", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-14T18:03:35.276053", "id": "9b00609373", "title": "Hertha BSC: Gouram für Deutschland, Dardai wird Papa", "stage": "stage7", "reason": "zu_wenig_quelltext"}
