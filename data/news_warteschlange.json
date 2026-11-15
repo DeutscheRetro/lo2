@@ -1,192 +1,47 @@
 [
  {
-  "id": "1bb9371ff5",
-  "schluessel": "hertha|sonstiges",
+  "id": "9b876c27b4",
+  "schluessel": "bayern|sonstiges",
   "person": "",
   "spieler": [],
-  "klub": "Hertha",
+  "klub": "Bayern",
   "klubs": [
-   "Hertha"
+   "Bayern",
+   "Wolfsburg"
   ],
   "stufe": "sonstiges",
   "klasse": "sonstiges",
-  "titel": "Hertha: Mahnende Worte der Bosse trotz Platz 1",
+  "titel": "Bayern München zeigt VfL Wolfsburg die Grenzen auf",
   "quellen": [
    {
-    "url": "https://www.kicker.de/hertha-mahnende-worte-der-bosse-trotz-platz-1-1271510/artikel#omrss",
-    "aid": "ae21f92867",
-    "titel": "Hertha: Mahnende Worte der Bosse trotz Platz 1",
-    "quelle": "kicker 2. Bundesliga News",
-    "beschr": "Trotz des sportlichen Höhenflugs haben die Bosse von Zweitligist Hertha BSC bei der Mitgliederversammlung viele mahnende Worte gefunden.",
-    "zeit": "2026-11-14T15:15"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-14T18:01",
-  "archiv": [
-   {
-    "id": "b9598870dd",
-    "titel": "Thorsteinsson über Neustart bei Hertha: „Glauben an die eigene Leistung“",
-    "datum": "10.11.",
-    "stufe": "sonstiges",
-    "summary": "Herthas Jón Dagur Thorsteinsson erzählt, wie ihm die Leihe zu Brann Bergen wieder Selbstvertrauen gab. Sein Doppelpack in Dresden war sein bisher stärkster Abend im Hertha-Trikot."
-   },
-   {
-    "id": "5b69f6c8eb",
-    "titel": "Basler lobt Hertha und Leitl: „Die haben es jetzt selbst in der Hand“",
-    "datum": "10.11.",
-    "stufe": "sonstiges",
-    "summary": "Mario Basler lobt in seinem Podcast Herthas Trainer Stefan Leitl und sieht den Tabellenführer im Aufstiegsrennen in der eigenen Hand. Hertha hat nach elf Spieltagen 31 Punkte und spielt am 22. November in Cottbus."
-   },
-   {
-    "id": "008a7a4de7",
-    "titel": "Hertha BSC: Wie Stefan Leitl die Berliner an die Spitze führt",
-    "datum": "08.11.",
-    "stufe": "sonstiges",
-    "summary": "Hertha BSC führt die zweite Liga nach dem 2:1 gegen Wolfsburg mit zehn Punkten Vorsprung auf Rang drei an. Trainer Stefan Leitl setzt auf hohes Pressing, einen klaren Plan und eine funktionierende Gruppe."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "898e57e445",
-  "schluessel": "hannover|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hannover",
-  "klubs": [
-   "Hannover"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Nationaltrainer der USA statt Hannover 96: Steve Cherundolo löst Mauricio Pochettino ab",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWHYxZy10azgxQV9xMkl4OTYzTGdJcEIwNEFEUDlfTktLcXlIZnQySmdUaVZKSXI0RkxmbW8wYkR1LWZkb2N5cUx2M01yNUE3REVLMUwtZXZQT3NhQmo4bWdidE00dkVJMzVibllabk11ZXdZTEdsMWdFYmxpN0JtLVgtVG1ONzVDNkNYcF9UNlpPZGgyZ2VqWThUTVpiYkFoY2dYdVF0QjRCa3NaZXZkMDMxMDctTF9xekFNWkl4cUNEbDRGWjhnNkdVd1RHUVRzeHhlVTItSnZ5SWZfcFNUY0MtNGNOSGtiVS1nRjB6MDFiUQ?oc=5",
-    "aid": "86c6127ff0",
-    "titel": "Nationaltrainer der USA statt Hannover 96: Steve Cherundolo löst Mauricio Pochettino ab",
-    "quelle": "Neue Presse",
-    "beschr": " Nationaltrainer der USA statt Hannover 96: Steve Cherundolo löst Mauricio Pochettino ab &nbsp;&nbsp; Neue Presse ",
-    "zeit": "2026-11-14T17:06"
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTnNsQlBRWTA3QXRFZmMzM3lYZDBVWlJXbmxRbVlsbEgtN0NXdXk1S0EteExob29GRndJVWgzeXo1ZkxHdzl2TmtQVi1NQjRVUldydE5zT2c3VFZKVW85WWZYbFE0Uk50ME1iQnIwTTZBYkFEQVdUQW03QURWTktweEE0VjhBaFZRNmNFcEFuSlVvenlERmZtbFo5YkUtcEU1UWhaLVNfWUs?oc=5",
+    "aid": "b1bff1a3eb",
+    "titel": "Bayern München zeigt VfL Wolfsburg die Grenzen auf",
+    "quelle": "NDR.de",
+    "beschr": " Bayern München zeigt VfL Wolfsburg die Grenzen auf &nbsp;&nbsp; NDR.de ",
+    "zeit": "2026-11-14T17:45"
    }
   ],
   "archiv_status": "aehnlich",
   "prio": 3,
   "status": "n",
-  "erstmals": "2026-11-14T18:01",
+  "erstmals": "2026-11-15T06:01",
   "archiv": [
    {
-    "id": "98f969f271",
-    "titel": "Hannover 96: Franz Roggow überzeugt als Sechser und lobt Wagners Ansatz",
-    "datum": "13.11.",
+    "id": "c636d3e74a",
+    "titel": "Hertha im Pokal-Achtelfinale gegen Bayern live bei RTL",
+    "datum": "04.11.",
     "stufe": "sonstiges",
-    "summary": "Hannovers Sechser Franz Roggow spielte zuletzt gegen Dresden und in Heidenheim eine wichtige Rolle und lobt Sandro Wagners Ansatz. Nach der Länderspielpause kommt Fürth am 21. November nach Hannover."
+    "summary": "Hertha BSC spielt im DFB-Pokal-Achtelfinale am 1. Dezember um 20:45 Uhr gegen den FC Bayern München. RTL überträgt die Partie live."
    },
    {
-    "id": "1e14aee0b2",
-    "titel": "Mattuschka rügt Hannover 96: Außendarstellung „unfassbar schlecht“",
-    "datum": "06.11.",
+    "id": "1084b0bf21",
+    "titel": "DFB-Pokal: Hertha BSC trifft im Achtelfinale auf Bayern München",
+    "datum": "02.11.",
     "stufe": "sonstiges",
-    "summary": "Sky-Experte Torsten Mattuschka kritisiert die Außendarstellung von Hannover 96 nach der Boldt-Entlassung als „unfassbar schlecht“. Drei Kandidaten sind laut Sky für die Nachfolge im Rennen, darunter Marko Marin."
-   },
-   {
-    "id": "afa3db9641",
-    "titel": "Hannover 96 trennt sich nach fünf Monaten von Sportchef Boldt",
-    "datum": "01.11.",
-    "stufe": "sonstiges",
-    "summary": "Hannover 96 hat Sport-Geschäftsführer Jonas Boldt nach nur fünf Monaten mit sofortiger Wirkung abberufen. Der Klub steht nach neun Spieltagen mit acht Punkten auf Platz 16."
+    "summary": "Hertha BSC spielt im DFB-Pokal-Achtelfinale beim FC Bayern München. Die Partien sollen am 1. und 2. Dezember stattfinden."
    }
   ],
-  "versuche": 2
- },
- {
-  "id": "df880b63cd",
-  "schluessel": "hertha|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hertha",
-  "klubs": [
-   "Hertha"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Hertha BSC: Drescher bremst trotz Platz 1 die Aufstiegseuphorie",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTm1fYWdXRHg1YXFNZkpYc1Q3YWYwaHRWZ3hORHZGd1NHZjdYZURsUkJDN2NVLTNkODRTcW9ZNXF1aDFOS2xjSVhsRHRUV09SNWJSTndlWDFQak5UZmtaUTgxbE5jeWdMQzdDNVZ4V2pQSmpBcEpTZXVjYktlMExzaW5LeWQ1YWlnWHlRMjgxMHNTWnhkT1Rqd1lDRjBSYVBGVU43R2tyWl9lN19RX0p5WklMMWlhcEhWbVFxQVhPQWZqNy15REFlQktuNHhqUVFpSWc?oc=5",
-    "aid": "4d4e312955",
-    "titel": "Hertha BSC: Drescher bremst trotz Platz 1 die Aufstiegseuphorie",
-    "quelle": "BZ Berlin",
-    "beschr": " Hertha BSC: Drescher bremst trotz Platz 1 die Aufstiegseuphorie &nbsp;&nbsp; BZ Berlin ",
-    "zeit": "2026-11-14T16:15"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-14T18:01",
-  "archiv": [
-   {
-    "id": "008a7a4de7",
-    "titel": "Hertha BSC: Wie Stefan Leitl die Berliner an die Spitze führt",
-    "datum": "08.11.",
-    "stufe": "sonstiges",
-    "summary": "Hertha BSC führt die zweite Liga nach dem 2:1 gegen Wolfsburg mit zehn Punkten Vorsprung auf Rang drei an. Trainer Stefan Leitl setzt auf hohes Pressing, einen klaren Plan und eine funktionierende Gruppe."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "440e380d1b",
-  "schluessel": "bochum|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Bochum",
-  "klubs": [
-   "Bochum"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Zeidler über sein Aus in Bochum: \"Wenn man von den ersten sieben Spielen keines gewinnt, ist ein Trainerwechsel ein normaler Reflex\"",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR01paWZWX1lfUWRyMy1nVG1iQXMyOF93WUVfRjl3cTc5VmQwR2Zkd28wNkY1OTdNeVZmNDRndW01OC04RzJjd1ZCM25TOHFRbFRmOG9hd1ROSUpZQXE5UlZEZW83QnJnbEpZTUpHWklDM0F1QVhBYXY2VEtaLUQyQk92MjRqVFU0S25kazMza215ZGphTzB0ZkY3TTJ5UUQyaWNfemZpcTNKVzhkNk1UMWh5eFl1R29objdwSm4tcDhlNGJ4QmpTa21OcktYQdIBzgFBVV95cUxPR01paWZWX1lfUWRyMy1nVG1iQXMyOF93WUVfRjl3cTc5VmQwR2Zkd28wNkY1OTdNeVZmNDRndW01OC04RzJjd1ZCM25TOHFRbFRmOG9hd1ROSUpZQXE5UlZEZW83QnJnbEpZTUpHWklDM0F1QVhBYXY2VEtaLUQyQk92MjRqVFU0S25kazMza215ZGphTzB0ZkY3TTJ5UUQyaWNfemZpcTNKVzhkNk1UMWh5eFl1R29objdwSm4tcDhlNGJ4QmpTa21OcktYQQ?oc=5",
-    "aid": "36cc03cb1f",
-    "titel": "Zeidler über sein Aus in Bochum: \"Wenn man von den ersten sieben Spielen keines gewinnt, ist ein Trainerwechsel ein normaler Reflex\"",
-    "quelle": "Tribuna.com",
-    "beschr": " Zeidler über sein Aus in Bochum: \"Wenn man von den ersten sieben Spielen keines gewinnt, ist ein Trainerwechsel ein normaler Reflex\" &nbsp;&nbsp; Tribuna.com ",
-    "zeit": "2026-11-14T12:29"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-14T18:01",
-  "archiv": [
-   {
-    "id": "dd5fe05f53",
-    "titel": "Karlsruhe verliert in Bochum 2:3 und bleibt ohne Auswärtssieg",
-    "datum": "12.11.",
-    "stufe": "spielbericht",
-    "summary": "Der KSC verliert beim VfL Bochum 2:3, Philipp Hofmann trifft in der Nachspielzeit. Karlsruhe bleibt auswärts sieglos und hat 24 Gegentore nach elf Spielen."
-   },
-   {
-    "id": "7a8fa55fea",
-    "titel": "Hofmann trifft doppelt: Bochum schlägt Karlsruhe trotz Civejas Traumtor 3:2",
-    "datum": "08.11.",
-    "stufe": "spielbericht",
-    "summary": "Der VfL Bochum schlägt den Karlsruher SC 3:2 und feiert den ersten Heimsieg der Saison. Philipp Hofmann trifft doppelt, Tim Civeja erzielt für den KSC ein Tor aus 51,6 Metern."
-   },
-   {
-    "id": "df8456704e",
-    "titel": "Cottbus: Wollitz kündigt nach 1:2 gegen Bochum Konsequenzen an",
-    "datum": "01.11.",
-    "stufe": "spielbericht",
-    "summary": "Nach dem 1:2 gegen Bochum kündigt Cottbus-Trainer Wollitz Änderungen in der Startelf an und nimmt die Niederlage auf seine Kappe. Er kritisiert die Defensive und die Einstellung einiger Profis."
-   }
-  ],
-  "versuche": 2
+  "versuche": 1
  }
 ]
