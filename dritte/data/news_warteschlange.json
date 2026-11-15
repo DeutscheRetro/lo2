@@ -26,7 +26,7 @@
   "status": "n",
   "erstmals": "2026-11-15T16:10",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "d0c64357f5",
@@ -55,7 +55,7 @@
   "status": "n",
   "erstmals": "2026-11-15T16:10",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "17b9670154",
@@ -84,7 +84,7 @@
   "status": "u",
   "erstmals": "2026-11-15T20:32",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "c43c8f3c77",
@@ -113,7 +113,7 @@
   "status": "n",
   "erstmals": "2026-11-15T20:32",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "20c28b819d",
@@ -141,6 +141,35 @@
   "prio": 3,
   "status": "u",
   "erstmals": "2026-11-15T20:32",
+  "archiv": [],
+  "versuche": 2
+ },
+ {
+  "id": "4d09d214ac",
+  "schluessel": "rw essen|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "RW Essen",
+  "klubs": [
+   "RW Essen"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Rot-Weiss Essen: Gnagnon mit Entwicklungsschritt - Was er sich noch abschauen kann",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaGw5ZFJhWXdUQmNFWHpLQUd4Yk95N3dEc0RIUjJfdkhWR0RDYlVmQ1dxTGNMRUNvX0c4OFFScHduM3VSME5MTjhhbEdsZG5QTHhRR0llT2ZxU2xBN1k4U3hlTWNZbWNuX0pBVERCbUkwcnRSOThyeGtZWjVsamdldmNxOS1JZHdUZVR4bXBfeS1OampLSXJnQ3NDeTI5SUtlWTYyajFZa0xJZzZsdVlaNWJvUS1PVk8wUngta3VOdGxKQWJGTmdyaTRtLUE?oc=5",
+    "aid": "cf6285da3e",
+    "titel": "Rot-Weiss Essen: Gnagnon mit Entwicklungsschritt - Was er sich noch abschauen kann",
+    "quelle": "RevierSport online",
+    "beschr": " Rot-Weiss Essen: Gnagnon mit Entwicklungsschritt - Was er sich noch abschauen kann &nbsp;&nbsp; RevierSport online ",
+    "zeit": "2026-11-15T21:02"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-16T00:41",
   "archiv": [],
   "versuche": 1
  }

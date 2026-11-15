@@ -1,5 +1,33 @@
 [
   {
+    "id": "e3b1d4810e",
+    "titel": "Münster in der Krise: Kittner spricht vom „kritischen Moment“",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "16.11.2026 00:42",
+    "wappen_url": "logos/muenster.png",
+    "vereine": [
+      "Münster"
+    ],
+    "anriss": "Preußen Münsters Geschäftsführer Ole Kittner hat bei der Jahreshauptversammlung die sportliche Krise des Drittligisten offen angesprochen. Nach fünf Niederlagen aus den vergangenen sieben Spielen steht der Klub auf Rang 14. „Es gab noch nie eine so schwere Phase wie jetzt, gerade fühlt sich das an",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Münster",
+    "pfad": "artikel/muenster-in-der-krise-kittner-spricht-vom-kritischen-moment-e3b1d4810e.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "recht",
+      "frage": "Hat Kittner recht: Steigt Münster dieses Jahr nicht ab?",
+      "antworten": [
+        "Ja",
+        "Nein"
+      ]
+    },
+    "n11": false
+  },
+  {
     "id": "de4bee804a",
     "titel": "Saarbrücken: Kamara droht Saison-Aus, Vasiliadis und Multhaup fehlen",
     "kategorie": "verletzung",
