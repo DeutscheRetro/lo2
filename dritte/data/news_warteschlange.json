@@ -1,98 +1,5 @@
 [
  {
-  "id": "8e76815962",
-  "schluessel": "rostock|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Rostock",
-  "klubs": [
-   "Rostock"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Fußball Landespokal: FC Hansa Rostock erreicht Viertelfinale",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZkhhUFZlZDdDZ2NtWm1WOTBBR1BwNjdQVFZVbTVqc3NFYWREbDB2ZUhOZG1WMGVLcG1icUVSYzVYNzFkRGhqWVhFelJUYlNIWEZobzdkWlV6UjBvb2MwOS1ZUXRORW1CNDFGYU5LT19EZGVhNVFJQjhtNXdQVHBzeEhjMWZJbHVzZWt3UGhNc1AyeTctdkl2RXEzQ3AtWnAxWElLX3NVZC1YT1BYWjl1WmZ2M3l5UzdpQ1c4NWRDMV9ES3hEbHR3SEluRUY5VTA?oc=5",
-    "aid": "1b8ab648ac",
-    "titel": "Fußball Landespokal: FC Hansa Rostock erreicht Viertelfinale",
-    "quelle": "NDR.de",
-    "beschr": " Fußball Landespokal: FC Hansa Rostock erreicht Viertelfinale &nbsp;&nbsp; NDR.de ",
-    "zeit": "2026-11-14T20:56"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 3,
-  "status": "u",
-  "erstmals": "2026-11-15T00:34",
-  "archiv": [
-   {
-    "id": "0f82484d68",
-    "titel": "Hansa Rostock tritt im Pokal-Achtelfinale beim Penzliner SV an",
-    "datum": "12.11.",
-    "stufe": "sonstiges",
-    "summary": "Hansa Rostock spielt am 14. November im Landespokal-Achtelfinale beim Sechstligisten Penzliner SV. Der Einsatz von Luca Unbehaun ist fraglich, Benno Dietze und Emil Holten fehlen wohl."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "555d4497ee",
-  "schluessel": "grossaspach|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Großaspach",
-  "klubs": [
-   "Großaspach"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Öztunali auf Platz 2: Die Drittliga-Spieler mit den meisten Bundesliga-Partien",
-  "quellen": [
-   {
-    "url": "https://www.kicker.de/oeztunali-auf-platz-2-die-drittliga-spieler-mit-den-meisten-bundesliga-partien-1271710/slideshow#omrss",
-    "aid": "7caccf7144",
-    "titel": "Öztunali auf Platz 2: Die Drittliga-Spieler mit den meisten Bundesliga-Partien",
-    "quelle": "kicker 3. Liga News",
-    "beschr": "Die SG Sonnenhof Großaspach hat sich mit Levin Öztunali verstärkt - einem Spieler mit reichlich Bundesliga-Erfahrung. Der 30-Jährige ist aber nicht der einzige Drittliga-Spieler, der schon im Oberhaus aktiv war. Diese Spieler aus der 3. Liga haben die meisten Bundesliga-Partien absolviert.",
-    "zeit": "2026-11-15T12:03"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-15T16:10",
-  "archiv": []
- },
- {
-  "id": "85da78b8df",
-  "schluessel": "rw essen|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "RW Essen",
-  "klubs": [
-   "RW Essen"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Wayne Rooney im Dschungelcamp: Jetzt geht die KI zu weit! – Die 11FREUNDE-Instaschau",
-  "quellen": [
-   {
-    "url": "https://www.11freunde.de/welt-des-fussballs/wayne-rooney-im-dschungelcamp-jetzt-geht-die-ki-zu-weit-die-11freunde-instaschau-a-d5bd1b3e-17f5-4697-b695-0f69175e24ff#ref=rss",
-    "aid": "e204b8f5a6",
-    "titel": "Wayne Rooney im Dschungelcamp: Jetzt geht die KI zu weit! – Die 11FREUNDE-Instaschau",
-    "quelle": "11FREUNDE - Index",
-    "beschr": "Der englische Star sollte rechtliche Schritte prüfen, Mats Hummels droht Ärger mit Rot-Weiss Essen und Zé Roberto freut sich auf GTA VI: Das war die Woche auf Instagram los.",
-    "zeit": "2026-11-15T16:00"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-15T16:10",
-  "archiv": []
- },
- {
   "id": "4e4bb8c9f4",
   "schluessel": "rw essen|verletzung",
   "person": "",
@@ -115,166 +22,11 @@
    }
   ],
   "archiv_status": "neu",
-  "prio": null,
-  "status": "",
+  "prio": 3,
+  "status": "n",
   "erstmals": "2026-11-15T16:10",
-  "archiv": []
- },
- {
-  "id": "c4e23d4329",
-  "schluessel": "duisburg|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Duisburg",
-  "klubs": [
-   "Duisburg"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "MSV Duisburg: Seit sieben Jahren da - Ein Abwehrspieler wurde Duisburgs Sportler des Jahres",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOel8weUZCLVlXcll2MVhRZzdrMmY4UmMtMjV3ZnZMQlBha2RaSEUweXB5WldnVjJQazVlNjhWckhudl9OZFl3cnBTUEJ1dm9uSVNZM3MtekJUM0NTY2FIVWxQTGlPdXk0T0ZTLThPSHZqWThpRHFHN1M5d1RaZGxSc1lpRVRSVFFOYkt5SmZvR21zQncwQV9NY2hubWJiUEU2NEFtMGlrLWhUUWppQkt5MDdpM0Y5Q1BQZ3J4SENZb2o5dHdDYXZlUVBSNFcwdEJvbEdV?oc=5",
-    "aid": "44543383a7",
-    "titel": "MSV Duisburg: Seit sieben Jahren da - Ein Abwehrspieler wurde Duisburgs Sportler des Jahres",
-    "quelle": "RevierSport online",
-    "beschr": " MSV Duisburg: Seit sieben Jahren da - Ein Abwehrspieler wurde Duisburgs Sportler des Jahres &nbsp;&nbsp; RevierSport online ",
-    "zeit": "2026-11-15T13:26"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-15T16:10",
-  "archiv": []
- },
- {
-  "id": "520beaf363",
-  "schluessel": "rostock|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Rostock",
-  "klubs": [
-   "Rostock"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Empor Rostock gewinnt in Hamburg und übernimmt Tabellenspitze der 3. Liga",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc0tncFdNRDhka0VSS25LSFc0YThrQTYxUEZia2F5TFhjRWowT093endvTkYwVURHNXViRS1hdTRCLVRnRUdVd0ZIeFFESkpiNUhUOUgtMDNmT1QxamtZTFJDQjBKVWpYSFhGOHp4VEk2YmVaOWJEemRoVjg3MGpoQXhoWTJtLU42WGtzdFhhVVpqSTVlNDZIZHAtRDlNVm1la3hDcjNKVGJSSkxsRmlTclZBV2VlaklpMV9YTnJZakxERW5VY2JldkplbEpxOW5nZXBTb1BfalpRV3lDcUdObG5LRzjSAYACQVVfeXFMT2FPUzVsU2MwMWpYR2twOEc2RlZZYjRUMW9LQ3psNU1JQ0lkWnVxNnE2ZFZFbm5VR0llTndKSnNvOEFURFpOX3R6R0N4RXVpOEhCbGNvUVM5LS1TOHdTR3JZZjRFYnRuNG5zNEdvNEliTUp2NHg3ZlkzV0dXVmRLU1JReWhCZjdzVUJRR2xlTkQyeUZtTVVrNnh3RlJNNzNrSkU0cnFQTVk4RER3Qno5bEE0aUcwSDV3ODNMZ0UwZDY4OHVEcVZGMnZFOVV2SEk0ZFFYVjN1OUZnX3lvSFI0VDlUWlAzd3BCS1prMlFYOERpaVdoNzdnQ1FlbnVwV2NnSw?oc=5",
-    "aid": "ff72744e61",
-    "titel": "Empor Rostock gewinnt in Hamburg und übernimmt Tabellenspitze der 3. Liga",
-    "quelle": "Ostsee Zeitung",
-    "beschr": " Empor Rostock gewinnt in Hamburg und übernimmt Tabellenspitze der 3. Liga &nbsp;&nbsp; Ostsee Zeitung ",
-    "zeit": "2026-11-15T14:42"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-15T16:10",
-  "archiv": [
-   {
-    "id": "67702106bd",
-    "titel": "Hansa Rostock schlägt Großaspach 3:0 und beendet die Verunsicherung",
-    "datum": "07.11.",
-    "stufe": "spielbericht",
-    "summary": "Hansa Rostock gewinnt am 13. Spieltag 3:0 gegen Großaspach, nachdem die erste Halbzeit zäh verlief. Trainer André Breitenreiter lobt den Charakter seiner verunsicherten Mannschaft."
-   }
-  ]
- },
- {
-  "id": "47a6bfd053",
-  "schluessel": "saarbrucken|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Saarbrücken",
-  "klubs": [
-   "Saarbrücken"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Fußball Bundesliga: Köln gegen Saarbrücken - Übersicht über die Laufleistung - 10. Spieltag - 1976/1977",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTnlvSkhlM0FtRDBoY2RYSUItWEtLekw2MlIzczZhd3p6bkRHQ1ZBUTBvSU1xMUstM21DU3dhRmsxOE1uTFB4YjVQZzVMdnV2bUxSb2FjWEk3R0hoajByYmR1MDB5U1BUcWh1Sk84VnVpd2dENmZXZDRIRjQxR19KRzR1ck5LQUx5dGt1QmZFdE9mbHFRTkhyRWljU2RleXFJbjhfenBZSEs2SlNENFloR2duT2ltZzFnZmtOUHMyN0NtcmVwVmlDdW1zMlJDamZsY1ZseGZwSGNsTjl5WGM3UTFxQQ?oc=5",
-    "aid": "5cccaf238a",
-    "titel": "Fußball Bundesliga: Köln gegen Saarbrücken - Übersicht über die Laufleistung - 10. Spieltag - 1976/1977",
-    "quelle": "sportschau.de",
-    "beschr": " Fußball Bundesliga: Köln gegen Saarbrücken - Übersicht über die Laufleistung - 10. Spieltag - 1976/1977 &nbsp;&nbsp; sportschau.de ",
-    "zeit": "2026-11-15T10:15"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-15T16:10",
-  "archiv": []
- },
- {
-  "id": "138e6eb04d",
-  "schluessel": "saarbrucken|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Saarbrücken",
-  "klubs": [
-   "Saarbrücken"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "1.FC Saarbrücken II: 18.Spieltag - Dritter Sieg in Folge! | saarnews",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ3ZBSVZSdXBNbWtTUEd0ZkdwSmZPd2VwblkzOWpVNncwQzR6S3hqekJ6OW5rRlFzNW4xTGQ5czg5amt6U2N4UXd6M191LUE1UmVkXzI2cHVqbnl2eUVUYlpmX044YVFFeDZoOExmSWRaLV95QjhxYTVyZ1JQc25lemkwcFJUYzhiSGlkV9IBkgFBVV95cUxOVUswMzFMQ0dPU29rakFmMjR0WU1vWmwyMVdzalNQR0dsbjdjemFnN0RFcFFkRUlQT2NibXlCOF9OWW9ibHBxbXFYMGNnemxWb3pPZ3BjV29XdUZxS2t5aDc0YjZZeTlqQnJOVVZMS0UtZXhmQXhPQW5FdkJ6akVBVjF2OWlxNEQ0aElqaGVYSkYtUQ?oc=5",
-    "aid": "8b9db5b8cb",
-    "titel": "1.FC Saarbrücken II: 18.Spieltag - Dritter Sieg in Folge! | saarnews",
-    "quelle": "saarnews",
-    "beschr": " 1.FC Saarbrücken II: 18.Spieltag - Dritter Sieg in Folge! | saarnews &nbsp;&nbsp; saarnews ",
-    "zeit": "2026-11-14T22:16"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-15T16:10",
-  "archiv": [
-   {
-    "id": "2a82b58c4a",
-    "titel": "Viktoria Köln verteidigt Tabellenführung mit 5:3 gegen Saarbrücken",
-    "datum": "07.11.",
-    "stufe": "spielbericht",
-    "summary": "Viktoria Köln gewinnt das Topspiel gegen Saarbrücken 5:3 und bleibt im neunten Spiel in Folge ungeschlagen. Der Spitzenreiter hat 29 Punkte."
-   }
-  ]
- },
- {
-  "id": "2998b99a79",
-  "schluessel": "aachen|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Aachen",
-  "klubs": [
-   "Aachen"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Mit 18 Stammspieler bei Alemannia: Warum Drevinas Karriere anders verlief",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMzVNbXNRMGFKS3ZwSzZVNy05QnRGenRmXzRuUDFJS1UtU2ZXYXdkOUlCeEJ3ZWVuVklzRzcyNTNuUXFKLU5mSEx3RVM5THBHbTBkb1E0UUlPalZDNXFtejh0eUYwNUhNYmt3UmJDRUx4RkRxeHlJc1NiTW5Fc01zb25nbmk0ZGY4X3VlZTM0emN4bjcza0RvTDZGTVdCSTMwTWd4VXloTzRrY1NlMEpSMm1maTI5bF9KeEdxWnVmSWJaRUNlQzV3UmJYa0RzWUo5bmRTQ2g0Ym9FYVV0cXU4VndxU29nZUluN28yMWdn?oc=5",
-    "aid": "9a6a29e55e",
-    "titel": "Mit 18 Stammspieler bei Alemannia: Warum Drevinas Karriere anders verlief",
-    "quelle": "Aachener Zeitung",
-    "beschr": " Mit 18 Stammspieler bei Alemannia: Warum Drevinas Karriere anders verlief &nbsp;&nbsp; Aachener Zeitung ",
-    "zeit": "2026-11-15T12:30"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-15T16:10",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "d0c64357f5",
@@ -299,829 +51,97 @@
    }
   ],
   "archiv_status": "neu",
-  "prio": null,
-  "status": "",
+  "prio": 3,
+  "status": "n",
   "erstmals": "2026-11-15T16:10",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
-  "id": "a4e44994d2",
-  "schluessel": "aachen|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Aachen",
-  "klubs": [
-   "Aachen"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "💛 „Alemannia Aachen: Vom Chaos Zur Rekordsaison!“ | Und Jetzt? Alemannia Aachen Pascal Vincent (hxeHTk7W23)",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DemhUYnVWdzY2NHBaaU5IR1VMUE8yTkVGV0xMNGUtV0tsamx0dkhOTkNOLTBSLVMtd011ZTk5UGwzaU9tRVdCQ0R1OS1PNmZleDltRTlEUHAzQjFVZ0RXM2s2NFVfZWZQQUh3?oc=5",
-    "aid": "8d25ea5fd2",
-    "titel": "💛 „Alemannia Aachen: Vom Chaos Zur Rekordsaison!“ | Und Jetzt? Alemannia Aachen Pascal Vincent (hxeHTk7W23)",
-    "quelle": "Unisba Media",
-    "beschr": " 💛 „Alemannia Aachen: Vom Chaos Zur Rekordsaison!“ | Und Jetzt? Alemannia Aachen Pascal Vincent (hxeHTk7W23) &nbsp;&nbsp; Unisba Media ",
-    "zeit": "2026-11-14T18:11"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-15T16:10",
-  "archiv": []
- },
- {
-  "id": "ec767b3f10",
-  "schluessel": "ingolstadt|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Ingolstadt",
-  "klubs": [
-   "Ingolstadt"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Individuelle Fehler, haarsträubende Gegentore: DJK Gebenbach in Ingolstadt wieder ohne Punkte",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNX0l1T2loTlZjaThsOHJ4d05WaE1iUUc1cTVRRFdiZHowdTJlQTB3SlYxTmlILTE0dG5fNHhWYnNxME10azJTM1lIWWJnaFVRM0s5Z3pFYW4xbzVKMUFqUWdsZFpRdWpRTnJBYjUyYUlSWHQ3cTlXc05sWGd5Q1ZjSjk2THVJcjBHdDMydm83bVhDYXl4UUdENE1hVE00amFRVXdWSGhmV1JnUElqMG5qSGFwTVZFTWRKOUhCYmNJTFlpLXF0Szc4ZWlrcWJRNlU?oc=5",
-    "aid": "abf40a1dac",
-    "titel": "Individuelle Fehler, haarsträubende Gegentore: DJK Gebenbach in Ingolstadt wieder ohne Punkte",
-    "quelle": "Onetz",
-    "beschr": " Individuelle Fehler, haarsträubende Gegentore: DJK Gebenbach in Ingolstadt wieder ohne Punkte &nbsp;&nbsp; Onetz ",
-    "zeit": "2026-11-15T09:15"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-15T16:10",
-  "archiv": []
- },
- {
-  "id": "a20712813e",
-  "schluessel": "ingolstadt|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Ingolstadt",
-  "klubs": [
-   "Ingolstadt"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Dämpfer beim Schlusslicht: Ingolstadt nimmt nur einen Punkt mit",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGFSaFppS05pWkpYeVpSSXByaUN1T0N0QmtFeVRMZ2VEVHhtM3N1NTY1dUtlajJmaFhjdXZ3dktrQm83MUt6M05rWnpXSHQ2WUtyeEsyYXdxS1M3dHhpbkFMRjNWYlVmeDFwLTlxV0hiWU9FZG82VHRoWUVKQVRuRDU4YzlLX1M1djZYN1ZpZmU1c0NWMHdXY0VMY0EycnF1bXlZc3VlRms3V1htRFJuUUg1WQ?oc=5",
-    "aid": "1f694a7d73",
-    "titel": "Dämpfer beim Schlusslicht: Ingolstadt nimmt nur einen Punkt mit",
-    "quelle": "sportschau.de",
-    "beschr": " Dämpfer beim Schlusslicht: Ingolstadt nimmt nur einen Punkt mit &nbsp;&nbsp; sportschau.de ",
-    "zeit": "2026-11-15T06:03"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-15T16:10",
-  "archiv": []
- },
- {
-  "id": "59c8592d06",
-  "schluessel": "havelse|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Havelse",
-  "klubs": [
-   "Havelse",
-   "Viktoria Köln"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "TSV Havelse gegen Viktoria Köln Vorhersage",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVXNoeFZLTXFlRVdhZ0R0YXFaZHhHb3hrZ3lhallHSjZOSFRkNzBqTFpZeVNqTDJfeHdqRHNIRGQxX3BfNDZrMlpSQlVwbm9kNWhxYm1uMkVUZXhUSmVGMHp1dWpuM1liZk16eHhVVHNuUGtxRy1wR1ZOZ0pPNGQwTDQxVUtzamdRWl8xLTNBMDZRbEplbUNSSW5nUUFMdw?oc=5",
-    "aid": "dcb2e514b8",
-    "titel": "TSV Havelse gegen Viktoria Köln Vorhersage",
-    "quelle": "Wettformat",
-    "beschr": " TSV Havelse gegen Viktoria Köln Vorhersage &nbsp;&nbsp; Wettformat ",
-    "zeit": "2026-11-15T09:25"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-15T16:10",
-  "archiv": []
- },
- {
-  "id": "b6481d7f5e",
-  "schluessel": "dusseldorf|sonstiges",
+  "id": "17b9670154",
+  "schluessel": "dusseldorf|vertrag",
   "person": "",
   "spieler": [],
   "klub": "Düsseldorf",
   "klubs": [
    "Düsseldorf"
   ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Fortuna Düsseldorf: Mitglieder watschen Bosse schwer ab",
+  "stufe": "vertrag",
+  "klasse": "vertrag",
+  "titel": "Menzel erhält keinen Vertrag in Düsseldorf",
   "quellen": [
    {
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdnRHR2g2MTZhRGt2aXdacFNGZHlfeTFhRlc2X1ZBZ3pqNHhpcTVZNXNQT0w4ZURESEFldWZGWHJaOU4waWs2aDk1cEpPS1VxNHJBRDUtblZPYWtoUFdIbGJjQ3l4eU9HOFZzVnI3Y3VMWEpodVgwY3A0LW9RMnMzeXJMU1g0UlNER1pyeUd4SC1LaUxiaFdyX3l2SVkwZnlGeUtqZ0oyMTY1YlA3bUtzZzM3cmJTZw?oc=5",
-    "aid": "e5c351445a",
-    "titel": "Fortuna Düsseldorf: Mitglieder watschen Bosse schwer ab",
-    "quelle": "BILD",
-    "beschr": " Fortuna Düsseldorf: Mitglieder watschen Bosse schwer ab &nbsp;&nbsp; BILD ",
-    "zeit": "2026-11-15T15:50"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-15T16:10",
-  "archiv": [
-   {
-    "id": "1e0343b822",
-    "titel": "Fortuna Düsseldorf verzichtet auf Probekeeper Phillip Menzel",
-    "datum": "14.11.",
-    "stufe": "sonstiges",
-    "summary": "Fortuna Düsseldorf gibt Probekeeper Phillip Menzel keinen Vertrag, da Louis Lord in einigen Wochen zurückerwartet wird. Bis dahin hütet Lasse Rieß das Tor."
-   },
-   {
-    "id": "7daafcd4b8",
-    "titel": "Düsseldorfs Routiniers enttäuschen: Fabian fordert in der Länderspielpause Analyse",
-    "datum": "11.11.",
-    "stufe": "sonstiges",
-    "summary": "Düsseldorfs routinierte Neuzugänge enttäuschen bisher, nur Zimmermann und Oberdorf überzeugen. Sportdirektor Patrick Fabian kündigt in der Länderspielpause eine ehrliche Analyse an."
-   },
-   {
-    "id": "ce458dfa26",
-    "titel": "Fortuna Düsseldorf: Egouli nach Gelb-Rot außer Form",
-    "datum": "11.11.",
-    "stufe": "sonstiges",
-    "summary": "Düsseldorfs Verteidiger Elias Egouli ist seit seinem Platzverweis in Aachen außer Form. Fortuna holte seither sechs Punkte aus sieben Spielen und kassierte elf Gegentore."
-   }
-  ]
- },
- {
-  "id": "9679438ba6",
-  "schluessel": "dusseldorf|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Düsseldorf",
-  "klubs": [
-   "Düsseldorf",
-   "RW Essen"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Fortuna Düsseldorf: Termin für Heimderby gegen Rot-Weiss Essen steht fest",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNb2JqNHlnZFl6aHR3aDd1SjZNMWk1bHM3cVgtcjJ6aExaVmpuUkJqeU9mdlhBeGdhOEtiSnNJM0FHQnA2azFNX0swV2ZLMVlZM25Ndk1KM29RRmJLMWI3UDA3X3YwdEJ6T1hPQTdsbXYxNGhxMVpaNWd4M3FaZl93Vk5DRGY1RnoybGRGRkhLQWdScmUxLTVuQV9YcFE1TUd3bkFTYndLRzg5RjdWSXlkbkZFSDNjdzJGV0IxdW92MGpFN0lIaTkwRjdVOVFlMHFFUFpMZ0lsWk0?oc=5",
-    "aid": "d6b55d95b1",
-    "titel": "Fortuna Düsseldorf: Termin für Heimderby gegen Rot-Weiss Essen steht fest",
-    "quelle": "NRZ",
-    "beschr": " Fortuna Düsseldorf: Termin für Heimderby gegen Rot-Weiss Essen steht fest &nbsp;&nbsp; NRZ ",
-    "zeit": "2026-11-15T10:00"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-15T16:10",
-  "archiv": [
-   {
-    "id": "1e0343b822",
-    "titel": "Fortuna Düsseldorf verzichtet auf Probekeeper Phillip Menzel",
-    "datum": "14.11.",
-    "stufe": "sonstiges",
-    "summary": "Fortuna Düsseldorf gibt Probekeeper Phillip Menzel keinen Vertrag, da Louis Lord in einigen Wochen zurückerwartet wird. Bis dahin hütet Lasse Rieß das Tor."
-   },
-   {
-    "id": "7daafcd4b8",
-    "titel": "Düsseldorfs Routiniers enttäuschen: Fabian fordert in der Länderspielpause Analyse",
-    "datum": "11.11.",
-    "stufe": "sonstiges",
-    "summary": "Düsseldorfs routinierte Neuzugänge enttäuschen bisher, nur Zimmermann und Oberdorf überzeugen. Sportdirektor Patrick Fabian kündigt in der Länderspielpause eine ehrliche Analyse an."
-   },
-   {
-    "id": "ce458dfa26",
-    "titel": "Fortuna Düsseldorf: Egouli nach Gelb-Rot außer Form",
-    "datum": "11.11.",
-    "stufe": "sonstiges",
-    "summary": "Düsseldorfs Verteidiger Elias Egouli ist seit seinem Platzverweis in Aachen außer Form. Fortuna holte seither sechs Punkte aus sieben Spielen und kassierte elf Gegentore."
-   }
-  ]
- },
- {
-  "id": "0cbacd3dcc",
-  "schluessel": "dusseldorf|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Düsseldorf",
-  "klubs": [
-   "Düsseldorf"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Fußball Bundesliga: Düsseldorf gegen Werder - Statistik: Karten - 6. Spieltag - 1984/1985",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcDdOQl9XNVgya2xHY0tLSlc0Vk9LTlRVNEswSUVLNl8yTHpQcVJmRERpZUJvUWdTREVxWTVzcGYzR3RFNW9IT1RNb1FuR1RaMW1ZWHBVZHFGcFROcmhmcmJaV3pwSktxT0xmS2xtbDlMXzJwVTdLaWJmREpRaFVYS3QtWHdkazRnU1N5emRCZkp0eURsNW9SbnFKRVRXTTc5MHVwNEc0QWEyTUZwMTNhMFlXbWRLcUF1dFozb1J0MXdLUGdabUh5LVQ0a2FkU0RocUQ0ZE93?oc=5",
-    "aid": "f2967caa4c",
-    "titel": "Fußball Bundesliga: Düsseldorf gegen Werder - Statistik: Karten - 6. Spieltag - 1984/1985",
-    "quelle": "sportschau.de",
-    "beschr": " Fußball Bundesliga: Düsseldorf gegen Werder - Statistik: Karten - 6. Spieltag - 1984/1985 &nbsp;&nbsp; sportschau.de ",
-    "zeit": "2026-11-15T11:10"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-15T16:10",
-  "archiv": []
- },
- {
-  "id": "d5e09834da",
-  "schluessel": "dusseldorf|transfer",
-  "person": "",
-  "spieler": [],
-  "klub": "Düsseldorf",
-  "klubs": [
-   "Düsseldorf"
-  ],
-  "stufe": "geruecht",
-  "klasse": "transfer",
-  "titel": "Fortuna Düsseldorf: 24 Kandidaten bewerben sich um fünf Aufsichtsratssitze",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNzZjM2NtdWhnOU42VkpQeW1QcmtXQkMyOURpTldlamM0Q0lpdm8yd3hLb2FXWUs2OEtfaTd1WjhOamcwMzJ1VXB5dWFZYlRLRE5sSm4zNkJWTEZqcDRtWDN4YVBmckY4NkZoWEpIcUlYRWxjTEJBbzhWSG9jXzhVOVlDNnBJQ2Z1MTBxQzVTZTRJb0trZEJpUHBCeUVPT2VPMXdCajY0c3k5cTY2dkNqcGROblBuRTIxVmQ4d0Frbw?oc=5",
-    "aid": "ca1e8f840b",
-    "titel": "Fortuna Düsseldorf: 24 Kandidaten bewerben sich um fünf Aufsichtsratssitze",
-    "quelle": "ad-hoc-news.de",
-    "beschr": " Fortuna Düsseldorf: 24 Kandidaten bewerben sich um fünf Aufsichtsratssitze &nbsp;&nbsp; ad-hoc-news.de ",
-    "zeit": "2026-11-15T12:14"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-15T16:10",
-  "archiv": [
-   {
-    "id": "4715edd3b6",
-    "titel": "Fortuna Düsseldorf testet Ex-Saarbrücker Phillip Menzel im Training",
-    "datum": "11.11.",
-    "stufe": "geruecht",
-    "summary": "Fortuna Düsseldorf testet den vereinslosen Torhüter Phillip Menzel, zuletzt in Saarbrücken, nach dem Ausfall von Louis Lord. Eine Vertragsentscheidung soll noch in dieser Woche fallen."
-   }
-  ]
- },
- {
-  "id": "f41dd26ef3",
-  "schluessel": "fortuna koln|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Fortuna Köln",
-  "klubs": [
-   "Fortuna Köln"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Spielschema | Fortuna Köln - SV Darmstadt 98 3:2 | 9. Spieltag | U-19-DFB-Nachwuchsliga (Vorrunde) 2026/27",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa05DdjYzdTRaZTlRU2gxRHNCOVJya3RMTGE5THp1cnE4aTAtZGd6MnZvRlJiME9sUFZhQ1VYa29wUVhLVlp1TXpRVWZGRDJTYW1WSDBNNkRwZmo4V1RzdndyMjhrc3EzbU1RX3ZZT0hJZmkxdFBWU0RvSWt6cDZNdGJReXpqVm4xcDFaaEFRUQ?oc=5",
-    "aid": "bbcf977c0a",
-    "titel": "Spielschema | Fortuna Köln - SV Darmstadt 98 3:2 | 9. Spieltag | U-19-DFB-Nachwuchsliga (Vorrunde) 2026/27",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLWVGbmpHZXYwd0FVdS1uVkwzQTcxZWhlZkFlcG9RTlZUcnBadGVCS21iYXFfMmFzbmx0S3JQcXB5RTAza2Z2R1ZaX2FRZDEyQlRYMWdnYXlJOUVmb1NrVXJubG45XzBSV2cyUEdOZGlya1BQZWs3eUFOZ2NMQ0JEUkxzS2F4RHVPWWI0cm5CcWVnLVRxSnhIRkY3M1c?oc=5",
+    "aid": "491b4870f5",
+    "titel": "Menzel erhält keinen Vertrag in Düsseldorf",
     "quelle": "Kicker",
-    "beschr": " Spielschema | Fortuna Köln - SV Darmstadt 98 3:2 | 9. Spieltag | U-19-DFB-Nachwuchsliga (Vorrunde) 2026/27 &nbsp;&nbsp; Kicker ",
-    "zeit": "2026-11-15T09:39"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-15T16:10",
-  "archiv": [
-   {
-    "id": "b812049755",
-    "titel": "Ulbricht erlöst Mannheim: Last-Minute-Elfer zum 2:1 gegen Fortuna Köln",
-    "datum": "07.11.",
-    "stufe": "spielbericht",
-    "summary": "Waldhof Mannheim gewinnt gegen Fortuna Köln 2:1, Julian Ulbricht trifft in der zweiten Minute der Nachspielzeit per Elfmeter. Boyd hatte zuvor die Führung erzielt, Aigbekaen glich für Köln aus."
-   }
-  ]
- },
- {
-  "id": "bd8ff353bd",
-  "schluessel": "fortuna koln|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Fortuna Köln",
-  "klubs": [
-   "Fortuna Köln"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Fußball Bundesliga: Wuppertal gegen Fortuna Köln - Statistik: Zweikämpfe - 6. Spieltag - 1973/1974",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaWt3UWZ1TWhLX1I4bG1MZ0RyWXVHN0RsRkNPRU1ZbG44aUNoeUVWcGJjbGlnUV9HVDk4dV9VbnVvaXozTVR2NjBSTzg3ejJQdzRXbVA3ZW9SV1ZWelRwVW9WSXdVMUpTT3Z6eUFxNm9MWXBGWElIWUFjd01rNTQ3Qlo5S3NuS1FpU1FJR2hNcC1nTmJDX2dLaUROeXJZSTVBY1N2aFVIZFZrNk15aGEwYzlLN3RDN1BYUEJGX05sUzcxMmRWS1JGNDZvTGRsbFZkMmlv?oc=5",
-    "aid": "d85aec9701",
-    "titel": "Fußball Bundesliga: Wuppertal gegen Fortuna Köln - Statistik: Zweikämpfe - 6. Spieltag - 1973/1974",
-    "quelle": "sportschau.de",
-    "beschr": " Fußball Bundesliga: Wuppertal gegen Fortuna Köln - Statistik: Zweikämpfe - 6. Spieltag - 1973/1974 &nbsp;&nbsp; sportschau.de ",
-    "zeit": "2026-11-15T02:58"
+    "beschr": " Menzel erhält keinen Vertrag in Düsseldorf &nbsp;&nbsp; Kicker ",
+    "zeit": "2026-11-15T17:37"
    }
   ],
   "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-15T16:10",
-  "archiv": []
+  "prio": 2,
+  "status": "u",
+  "erstmals": "2026-11-15T20:32",
+  "archiv": [],
+  "versuche": 1
  },
  {
-  "id": "9fe71be164",
-  "schluessel": "fortuna koln|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Fortuna Köln",
-  "klubs": [
-   "Fortuna Köln"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "SC Fortuna Köln",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUGl5X3ZRNnY1OExRcjFQcGpIOGU0NklkSms0ZFRtbWVLOWtpNXh3b1BHRGR3NU9hQ3JCNE9yeFpJc0h6dWFpLVQydWNWUzU2SHRkNUU5MzcxOWJ1MjZyNXItMUozYWZYSjFGM29TcGhxTTZhS2RvSklMby1pN084VGp4azZtblU?oc=5",
-    "aid": "67125adf0c",
-    "titel": "SC Fortuna Köln",
-    "quelle": "Transfermarkt",
-    "beschr": " SC Fortuna Köln &nbsp;&nbsp; Transfermarkt ",
-    "zeit": "2026-11-14T20:43"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-15T16:10",
-  "archiv": []
- },
- {
-  "id": "a4075ec313",
-  "schluessel": "rostock|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Rostock",
-  "klubs": [
-   "Rostock"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Empor Rostock schockt den bisher ungeschlagenen THW Kiel",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdVloTUhleXlnTnRwdjN3bGJyM1JzSTg5a2lmMmxEQWZjekp0NHFxclF2Y3BkZ1JXVkhXOFFXcEtFazl3aVlwajlJVldqTDRpajFTa2hEQkRDLWtpOHhBdWlwdlhRZVZqYTlrMWRLbmNkdzBRV19UZm5uQlJHMHQyRlh5SWtTeTRHUGtEV3VSLThhR2NjYjNhXzJTYWI?oc=5",
-    "aid": "a88b7383a5",
-    "titel": "Empor Rostock schockt den bisher ungeschlagenen THW Kiel",
-    "quelle": "Nordkurier",
-    "beschr": " Empor Rostock schockt den bisher ungeschlagenen THW Kiel &nbsp;&nbsp; Nordkurier ",
-    "zeit": "2026-11-15T12:00"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-15T16:10",
-  "archiv": []
- },
- {
-  "id": "6d02283312",
-  "schluessel": "rostock|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Rostock",
-  "klubs": [
-   "Rostock"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Hansa Rostock: Profis gehen zu Spiel der Seawolves gegen Rasta Vechta",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS1JOV1l3UmVZeG9qdEJ5STJwZUpnYlBSOE1yVFJ4NVNNSHdIUzJpQlAzRmNoNmpNVnd4cjc2SllUV1NjdGhoLVRtXzd6ZFhjNEdRWGNFNmZsMGRhUFNKQ05OM3VyT3ctR081cHowd1pLcFNQd05kZFRGa1F1UE5KTG1QOE1oT1dGbHpqa2ZPb3NDYTNLM3RUeERkNzA3U1pqTVF6YVNoMWdjTDF0NUpGVC1rNDc5NVEycnYtRjJSTDJBY0Y1TFl4NFZSUF8tcC1sZzJIWG9aUGNjUl9ncVHSAfoBQVVfeXFMUEZGREZuUkh4VmhXSENpc1NQb0dGcHJVQkExcXJNY3NNS2gwSU1EVW9oV2NVbjZIbElETldiMDIzUTV4VU9Pb1FrcnhQVzI0Smk4ODRZN2FQR3V5MDNrREdmb3gxVE5CQlRWUFplSU90TGxXcWMzdWJEUlJ2UzVNbFlLM2pvZVd0ZjhITjNuMEhBSXhtY1RwelFjcldPTzRCOVhMMHdWdGNnWGxYVXJSWEJUWUotWk16dHJOd0lMOGJ5dWJlRXFkM0NJMHBhYU5jbmxwakI0bHgxSG8yckw0aFAyWmxxUWdpcjZXcFJZT3F3dGkzekVvaFhrZw?oc=5",
-    "aid": "7faacc51d1",
-    "titel": "Hansa Rostock: Profis gehen zu Spiel der Seawolves gegen Rasta Vechta",
-    "quelle": "Ostsee Zeitung",
-    "beschr": " Hansa Rostock: Profis gehen zu Spiel der Seawolves gegen Rasta Vechta &nbsp;&nbsp; Ostsee Zeitung ",
-    "zeit": "2026-11-15T07:15"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-15T16:10",
-  "archiv": [
-   {
-    "id": "0f82484d68",
-    "titel": "Hansa Rostock tritt im Pokal-Achtelfinale beim Penzliner SV an",
-    "datum": "12.11.",
-    "stufe": "sonstiges",
-    "summary": "Hansa Rostock spielt am 14. November im Landespokal-Achtelfinale beim Sechstligisten Penzliner SV. Der Einsatz von Luca Unbehaun ist fraglich, Benno Dietze und Emil Holten fehlen wohl."
-   }
-  ]
- },
- {
-  "id": "389c969ece",
-  "schluessel": "rostock|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Rostock",
-  "klubs": [
-   "Rostock"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Empor Rostock siegt nach schwachem Start durch eine starke Defensive",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdnhwUFZBREd6LXZ3NXVWWlNCbWJTUUY0XzV0cUR4d2Rvc3RhbGVqZ3hFbVJ3VnJRWXkweHluNzFUSnpYZTlPVzk1OXJ0TE1LaFdCa2RaeXU1aHZGYkdZNW1pcC1VbkFIT1FHOGlOUnFwYWNfQXVCNVM1QlkwVVR1Nl9CeUFjeV9uYjdyQXRYd2JLd1FTdS16S1FfOWN1TjFNZFZZaXUzaHpLUUw2?oc=5",
-    "aid": "f73be99471",
-    "titel": "Empor Rostock siegt nach schwachem Start durch eine starke Defensive",
-    "quelle": "Nordkurier",
-    "beschr": " Empor Rostock siegt nach schwachem Start durch eine starke Defensive &nbsp;&nbsp; Nordkurier ",
-    "zeit": "2026-11-15T08:00"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-15T16:10",
-  "archiv": [
-   {
-    "id": "67702106bd",
-    "titel": "Hansa Rostock schlägt Großaspach 3:0 und beendet die Verunsicherung",
-    "datum": "07.11.",
-    "stufe": "spielbericht",
-    "summary": "Hansa Rostock gewinnt am 13. Spieltag 3:0 gegen Großaspach, nachdem die erste Halbzeit zäh verlief. Trainer André Breitenreiter lobt den Charakter seiner verunsicherten Mannschaft."
-   }
-  ]
- },
- {
-  "id": "0279fd8ab6",
-  "schluessel": "regensburg|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Regensburg",
-  "klubs": [
-   "Regensburg",
-   "Havelse"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Jahn Regensburg feiert Kantersieg gegen Havelse",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDLTJacm5KcUE4X25TV1hPUkZGb1lrSTNJR0NfNUVZWk0wZ2QwY0xUM2duLXFtUkhERmUyV2hySHBFSlFjZlFTZUh0OUJiWmwwaGxhSXRFVm0xZVRRdl9UTEhRUEVGRkpmbXpmQnpseUViWC1h?oc=5",
-    "aid": "1a08f2bef6",
-    "titel": "Jahn Regensburg feiert Kantersieg gegen Havelse",
-    "quelle": "tvaktuell.com",
-    "beschr": " Jahn Regensburg feiert Kantersieg gegen Havelse &nbsp;&nbsp; tvaktuell.com ",
-    "zeit": "2026-11-15T02:58"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-15T16:10",
-  "archiv": []
- },
- {
-  "id": "94afac990a",
-  "schluessel": "duisburg|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Duisburg",
-  "klubs": [
-   "Duisburg"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Was den MSV Duisburg so erfolgreich macht",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV2xSZHN3NnJOSE93TzNHbmF4bmtOcWc0VVU3RTUteTFtZElxNUE4Zmx3YzFXMzdfaWFUUzItYUNfa1JUQTY5YS1JdXlLXzZfMDZRRkpvaWloUFZHS3VBUEpIbHF2b2dSdm42ZFhrVjF6VExWWmlVNFVDQVNoV1BCUDRrN3hOdU1XUTAxSEtRdU9PcU94bUZfOVIxa0Z1TUpQaWc4?oc=5",
-    "aid": "6ce203fff6",
-    "titel": "Was den MSV Duisburg so erfolgreich macht",
-    "quelle": "sportschau.de",
-    "beschr": " Was den MSV Duisburg so erfolgreich macht &nbsp;&nbsp; sportschau.de ",
-    "zeit": "2026-11-15T02:02"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-15T16:10",
-  "archiv": []
- },
- {
-  "id": "7f15ad8d26",
-  "schluessel": "duisburg|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Duisburg",
-  "klubs": [
-   "Duisburg"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Krawalle nach Eishockey: Rund 50 Personen greifen Herner Fans nach Spiel in Duisburg an",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeTlnLXF3cXdic002Q0kwZWJzdzNFRFJ5NjFvTlNETTJQQnRhTnBtTF95eExhdkhEdEFOSVZMaTFaS0o0N1BTNUhENTZoeVkzNUtSdlRabzRJZjF5VEJTYmZ0M2VVczVoNlBveDhsSDRNc2RzclFvSEFXRHlmUTBXRFVjNURZaVhGNlBrb0xoaEUwTm1BTXBtTUt4MXhaVVBwenE3Si1WVjQ3aHg1eEEzcXd1S0NiTEhzdGdoelZn?oc=5",
-    "aid": "9cbaedcd66",
-    "titel": "Krawalle nach Eishockey: Rund 50 Personen greifen Herner Fans nach Spiel in Duisburg an",
-    "quelle": "RP Online",
-    "beschr": " Krawalle nach Eishockey: Rund 50 Personen greifen Herner Fans nach Spiel in Duisburg an &nbsp;&nbsp; RP Online ",
-    "zeit": "2026-11-15T15:15"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-15T16:10",
-  "archiv": []
- },
- {
-  "id": "abff713fa4",
-  "schluessel": "duisburg|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Duisburg",
-  "klubs": [
-   "Duisburg"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Fußball Bundesliga: Duisburg gegen K'lautern - Statistik: Top-Scorer - 10. Spieltag - 1979/1980",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcDJXVFI5dXRnSGlmREtrcjFBRU5oeHQ5N1FnaDZHbXJicmxTQ1JndU4wYjZZRjlhdHluUXRQcEFvbG1KWUJrTS1HWkZyUlhuNEJyb3RzdFVqU1N1d2hUZ0Fyb2E1RGlCOXFhWlZwc0FQbWVwOGowTGlJX1kxbDV2RF9qSWtvTVpXaUJSU1Vfa1ZVanlYQkhiWFFSclN1LU9HZFJQQXNOUDZzM0dHMEd3cGZEUTRiTkFoODIxMjJXSkFkemIyVHhCZGgzTmFzNnNHV1E?oc=5",
-    "aid": "b8fc1a74c4",
-    "titel": "Fußball Bundesliga: Duisburg gegen K'lautern - Statistik: Top-Scorer - 10. Spieltag - 1979/1980",
-    "quelle": "sportschau.de",
-    "beschr": " Fußball Bundesliga: Duisburg gegen K'lautern - Statistik: Top-Scorer - 10. Spieltag - 1979/1980 &nbsp;&nbsp; sportschau.de ",
-    "zeit": "2026-11-15T15:16"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-15T16:10",
-  "archiv": []
- },
- {
-  "id": "2265d88659",
-  "schluessel": "rw essen|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "RW Essen",
-  "klubs": [
-   "RW Essen",
-   "Münster"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Spielschema | Rot-Weiss Essen - Preußen Münster 3:2 | 11. Spieltag | U-17-DFB-Nachwuchsliga (Vorrunde) 2026/27",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRG1mSHdFZER2ZEpmTGlmTDZnaHpNT0RPVE1lemVHaE15ck5vbU9zSjNyU2x4RHhnTjZhZTJPWmctc201VTVjVHc4TXY0M29TNXp1TG1aWnVKZjRrQW4wUTJ3NThRVlRPUGxrVzdEbkNjdExLZms3RFliTHFkRDVEeG5sRmwzQTdkQnpB?oc=5",
-    "aid": "d5c11bc5ff",
-    "titel": "Spielschema | Rot-Weiss Essen - Preußen Münster 3:2 | 11. Spieltag | U-17-DFB-Nachwuchsliga (Vorrunde) 2026/27",
-    "quelle": "Kicker",
-    "beschr": " Spielschema | Rot-Weiss Essen - Preußen Münster 3:2 | 11. Spieltag | U-17-DFB-Nachwuchsliga (Vorrunde) 2026/27 &nbsp;&nbsp; Kicker ",
-    "zeit": "2026-11-15T09:33"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-15T16:10",
-  "archiv": []
- },
- {
-  "id": "1610171657",
-  "schluessel": "rw essen|transfer",
+  "id": "c43c8f3c77",
+  "schluessel": "rw essen|sonstiges",
   "person": "",
   "spieler": [],
   "klub": "RW Essen",
   "klubs": [
    "RW Essen"
   ],
-  "stufe": "geruecht",
-  "klasse": "transfer",
-  "titel": "Rot-Weiss Essen: „Klare Erwartungshaltung“ – Koschinat nimmt Königstransfer in die Pflicht",
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Rot-Weiss Essen: Ein Wort: Professionalität - RWE spaziert \"souverän durch den Wettbewerb\"",
   "quellen": [
    {
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYVowbjcxdFYyc2NBRDNVS2VGUHFVSC1tSnUzNmpvUUZ3cVIxTjlzUVRnNzBRdWJOdTNxb1NIenh4emxGQ0Zsc0Uwa05ualZGNlZLSkNMeVJJUm5OTHlibmhaQWhOYmZtbmtLMXdKUmlxVk55MEhrSmlUU0J5R3RqQmtFczJHRnhSR2Q4V2g4TkJTNXBUb0xFT3o5dUZhS1czcUNNWGxnaWh4UGdkQ015TDlYbW4xSTJmMkFIeGJLRWVfZm9wOG5FWFVUTWozanhqWHN3?oc=5",
-    "aid": "ab11417be6",
-    "titel": "Rot-Weiss Essen: „Klare Erwartungshaltung“ – Koschinat nimmt Königstransfer in die Pflicht",
-    "quelle": "WAZ",
-    "beschr": " Rot-Weiss Essen: „Klare Erwartungshaltung“ – Koschinat nimmt Königstransfer in die Pflicht &nbsp;&nbsp; WAZ ",
-    "zeit": "2026-11-15T08:45"
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObWFLM0lUWFlNNTdUN1lCX2pCT0JRVkJHNmZMbG13dmFBWE13QVJ5UHpuYWo5d2stUElqRVZ3Mjc3T2xwc3VnR3loYlJ4THVDVVBWVG9HTDgwSHNkY2cyVW55dlVDY2J4eF8waTN6dk16Zk82aGlQZ0EyZU1fSmthQW5mYVlLYzRMRWNySzNaejh2VHZiQVo1V2wwaTNYRzhWTjQtWUF2ZkktYXh6YzJtVXp5UVZyMjEwbVkwb3g5Y0lJTEZFTGRwVk9NRU43bEc0RGFkdWJtTU83X2M?oc=5",
+    "aid": "23bf16f5bf",
+    "titel": "Rot-Weiss Essen: Ein Wort: Professionalität - RWE spaziert \"souverän durch den Wettbewerb\"",
+    "quelle": "RevierSport online",
+    "beschr": " Rot-Weiss Essen: Ein Wort: Professionalität - RWE spaziert \"souverän durch den Wettbewerb\" &nbsp;&nbsp; RevierSport online ",
+    "zeit": "2026-11-15T17:47"
    }
   ],
   "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-15T16:10",
-  "archiv": []
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-15T20:32",
+  "archiv": [],
+  "versuche": 1
  },
  {
-  "id": "2f13b44513",
-  "schluessel": "viktoria koln|sonstiges",
+  "id": "20c28b819d",
+  "schluessel": "rw essen|kader",
   "person": "",
   "spieler": [],
-  "klub": "Viktoria Köln",
+  "klub": "RW Essen",
   "klubs": [
-   "Viktoria Köln",
-   "Verl"
+   "RW Essen"
   ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "3. Liga - Viktoria Köln dreht gegen Verl spät auf",
+  "stufe": "kader",
+  "klasse": "kader",
+  "titel": "Niederrheinpokal: Das erste Halbfinale steht - RWE trotzt Personalproblemen in Ratingen",
   "quellen": [
    {
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObDdNOFBqX0FYZFZXVGFrbWFZTGtQSGxBMEFSOGhHTGdGdkl6dElLbjY0c3FQZXpYd0VGZW8tVnN4QWFYMFJIRk1LOE5ZTl9WVXFuVXY3YS1lXzZUR3RqdHlqVXJrYlR1T3UweGpvaTNWNE9jNkVYcmdFa1A5X042YlRQTERxX2VhQTdGOE1fb1lRalFHaUtVSl9iUHZVRXJRV0tDOVRNQmY1SlAt?oc=5",
-    "aid": "52acc3a580",
-    "titel": "3. Liga - Viktoria Köln dreht gegen Verl spät auf",
-    "quelle": "sportschau.de",
-    "beschr": " 3. Liga - Viktoria Köln dreht gegen Verl spät auf &nbsp;&nbsp; sportschau.de ",
-    "zeit": "2026-11-15T13:26"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-15T16:10",
-  "archiv": [
-   {
-    "id": "61abf42c73",
-    "titel": "Viktoria Köln gastiert im Mittelrheinpokal beim Siegburger SV",
-    "datum": "12.11.",
-    "stufe": "sonstiges",
-    "summary": "Viktoria Köln spielt am Donnerstagabend im Achtelfinale des Mittelrheinpokals beim Siegburger SV in Troisdorf. Im Viertelfinale der Vorsaison hatte sich Köln mit 2:1 durchgesetzt."
-   }
-  ]
- },
- {
-  "id": "f83762fe3c",
-  "schluessel": "meppen|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Meppen",
-  "klubs": [
-   "Meppen"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Fünf Tore, drei davon zum Schluss: Meppen unterliegt in Rehden",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa0lFekY3NmZSb2JTMmtPSXl3cGRSN09LQkNXMGhVUE00OTV1MEpuRFlIWUpBZXRQM2c4enhPX2tydDFET09LSXh3MGFPVnVYemhEYTF2Ykd5UVM5SjhsbmlzeTB2YUwxdkhhMk9jUEx4enVVa1VlTTBRWkRmNGlpZDZVTm5kaW9HcVduWjdxazE4d1JMWmszbGxacw?oc=5",
-    "aid": "1c541a1723",
-    "titel": "Fünf Tore, drei davon zum Schluss: Meppen unterliegt in Rehden",
-    "quelle": "FuPa ⚽️",
-    "beschr": " Fünf Tore, drei davon zum Schluss: Meppen unterliegt in Rehden &nbsp;&nbsp; FuPa ⚽️ ",
-    "zeit": "2026-11-15T08:50"
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdFFnM3FBMW5xdjdFcnFCTkpDRFpPTTBYRU8wTHJtU0FhbHRkUGpwLTJhRXd0bGl0NnNwcXJWcEN3X1N4YkJERkZOMHBQamFjOTMyU1g0dHprM2FMa3dsTGpJdUtRZExJQmI5Q1lraUJwQW1BaERTQk9FM1o0al8yOHU3UWtlaXA0eC1ILThjNHhqdWNpXzZCZExLd3JoeFhscklGbG1zVVJEbFlCcHB0dEp5OHFrbkFMTjl4NEJxeGdSV3FfTHFfcElTTDFIVXNHeGtFbWF6ekJ6Zw?oc=5",
+    "aid": "c0f10b5227",
+    "titel": "Niederrheinpokal: Das erste Halbfinale steht - RWE trotzt Personalproblemen in Ratingen",
+    "quelle": "RevierSport online",
+    "beschr": " Niederrheinpokal: Das erste Halbfinale steht - RWE trotzt Personalproblemen in Ratingen &nbsp;&nbsp; RevierSport online ",
+    "zeit": "2026-11-15T16:49"
    }
   ],
   "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-15T16:10",
-  "archiv": []
- },
- {
-  "id": "a6deeb0e40",
-  "schluessel": "mannheim|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Mannheim",
-  "klubs": [
-   "Mannheim"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "SV Waldhof Mannheim im bfv-Pokal gefordert",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNG1zUVNkM2gyd1ZxcTR5QkpKR3kxSW5wM0V6Q1ZWbHh5ajM1XzE5QmxhcVE5ajJtZ1Q2VEd5NGN2bUdSWmpEX01ucWlIc3dQcFlZVDhBZzBZdjBRR25NS2dQSWFUNUFXNERiVXdzaVRvMm5iOWtvcTI2LWs2QWkyX1JaQmx4SGVyUG9ybDhZcXc0d3NzeXJETDFBUVpCczdIZnoyd2p3?oc=5",
-    "aid": "e19b1c9897",
-    "titel": "SV Waldhof Mannheim im bfv-Pokal gefordert",
-    "quelle": "Wochenblatt Reporter",
-    "beschr": " SV Waldhof Mannheim im bfv-Pokal gefordert &nbsp;&nbsp; Wochenblatt Reporter ",
-    "zeit": "2026-11-15T15:03"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-15T16:10",
-  "archiv": [
-   {
-    "id": "e9d6fe2ab2",
-    "titel": "Waldhof Mannheim gastiert beim Kreisklassisten Neckarsteinach",
-    "datum": "13.11.",
-    "stufe": "sonstiges",
-    "summary": "Waldhof Mannheim spielt im Landespokal-Viertelfinale um 13 Uhr beim Kreisklassisten SpVgg Neckarsteinach, der 64 Siege in Folge feierte. Tim Sechelmann und Arlind Rexhepi trainieren nach Verletzungen wieder mit."
-   }
-  ]
- },
- {
-  "id": "a226d89673",
-  "schluessel": "mannheim|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Mannheim",
-  "klubs": [
-   "Mannheim"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Mannheim: Rhein-Neckar Löwen verschenken Sieg gegen Lemgo",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTldJdjBKVThuWDB1OGlCcVp2QktabGtRSWgya1QzaE9SWTUxQ2JxemlzMWdhUHFNZW5jM1dWdTNkaDR6MUJudGx3WUN1UmZ5cTRCbE5zVm1PMngwcjdncHo0RXRMU01DckJqenBveDZnZ3dSYm1jNDZXTTkxa3N1LXVNRkJvOTNXWGNxd1hVZW5WaktoMEVhaTBCUFhYcDE5Tkhhb1pWTDVCNTlITXlMWVJLOFVoMlVjb3hNc0ZzbjhNSV82MmdnN2xVWnFWd1FnelFlVzFBUmZtaTluX3FYbVpRM1hzZDNqbGZTazRqbXo5cmNRYXZ2Ug?oc=5",
-    "aid": "8d2847853a",
-    "titel": "Mannheim: Rhein-Neckar Löwen verschenken Sieg gegen Lemgo",
-    "quelle": "Mannheimer Morgen",
-    "beschr": " Mannheim: Rhein-Neckar Löwen verschenken Sieg gegen Lemgo &nbsp;&nbsp; Mannheimer Morgen ",
-    "zeit": "2026-11-14T22:05"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-15T16:10",
-  "archiv": [
-   {
-    "id": "b4dde618d6",
-    "titel": "Mannheim zittert sich per 2:1 in Neckarsteinach ins Pokal-Halbfinale",
-    "datum": "15.11.",
-    "stufe": "spielbericht",
-    "summary": "Der SV Waldhof Mannheim gewinnt im Viertelfinale des badischen Verbandspokals bei der SpVgg Neckarsteinach mit 2:1 und steht im Halbfinale. Die Tore erzielten Goncalo Gregorio und Terrence Boyd."
-   },
-   {
-    "id": "b812049755",
-    "titel": "Ulbricht erlöst Mannheim: Last-Minute-Elfer zum 2:1 gegen Fortuna Köln",
-    "datum": "07.11.",
-    "stufe": "spielbericht",
-    "summary": "Waldhof Mannheim gewinnt gegen Fortuna Köln 2:1, Julian Ulbricht trifft in der zweiten Minute der Nachspielzeit per Elfmeter. Boyd hatte zuvor die Führung erzielt, Aigbekaen glich für Köln aus."
-   }
-  ]
- },
- {
-  "id": "3ccbb90876",
-  "schluessel": "wiesbaden|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Wiesbaden",
-  "klubs": [
-   "Wiesbaden"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "SV Wehen Wiesbaden öffnet NLZ für externe Trainer",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM1FkUU1SSjZIcC1uSXNPeGg3MUVZZkJiY0pvQlRKeW0xeTdrNWhIUzVqcDI2a0lhTjNiUjlXWkIwRE1OY3FlZWRzVkR5Mm04ajdkYldMRHZzbklFWDMxQ0Z4LWMzVTFuMzZOWWhER1NjVUd1TE5yUDdPUHluMmVkWE02YnZpZ0ZKTzlYdmkzMTdjb2h2YlpUR2NxMVFhbmJXdzFvZGd3?oc=5",
-    "aid": "dbc5626f66",
-    "titel": "SV Wehen Wiesbaden öffnet NLZ für externe Trainer",
-    "quelle": "Wochenblatt Reporter",
-    "beschr": " SV Wehen Wiesbaden öffnet NLZ für externe Trainer &nbsp;&nbsp; Wochenblatt Reporter ",
-    "zeit": "2026-11-15T14:55"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-15T16:10",
-  "archiv": [
-   {
-    "id": "093f89812d",
-    "titel": "Wehen Wiesbaden: DFB setzt Spieltage 16 bis 20 zeitgenau an",
-    "datum": "13.11.",
-    "stufe": "sonstiges",
-    "summary": "Der DFB hat die Spieltage 16 bis 20 der 3. Liga zeitgenau angesetzt. Wiesbaden spielt unter anderem am 5. Dezember in Düsseldorf und am 24. Januar in Münster."
-   }
-  ]
+  "prio": 3,
+  "status": "u",
+  "erstmals": "2026-11-15T20:32",
+  "archiv": [],
+  "versuche": 1
  }
 ]

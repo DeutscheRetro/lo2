@@ -1,5 +1,98 @@
 [
   {
+    "id": "de4bee804a",
+    "titel": "Saarbrücken: Kamara droht Saison-Aus, Vasiliadis und Multhaup fehlen",
+    "kategorie": "verletzung",
+    "badge": "Verletzung",
+    "badge_bg": "#e53935",
+    "badge_fg": "#fff",
+    "datum": "15.11.2026 20:35",
+    "wappen_url": "logos/saarbruecken.png",
+    "vereine": [
+      "Saarbrücken",
+      "Wiesbaden"
+    ],
+    "anriss": "Der 1. FC Saarbrücken muss vor dem Heimspiel gegen den SV Wehen Wiesbaden auf Abdoulaye Kamara, Sebastian Vasiliadis und Maurice Multhaup verzichten. Kamara droht sogar das Saison-Aus. Trainer Argirios Giannikis muss damit auch in der Innenverteidigung mit einer Änderung rechnen. Der FCS meldete am Donnerstag",
+    "spielerstatus": [
+      {
+        "spieler": "Kamara",
+        "klub": "Saarbrücken",
+        "status": "faellt_aus",
+        "grund": "Knorpelschaden im Knie"
+      },
+      {
+        "spieler": "Vasiliadis",
+        "klub": "Saarbrücken",
+        "status": "faellt_aus",
+        "grund": "Hirnhautentzündung"
+      },
+      {
+        "spieler": "Multhaup",
+        "klub": "Saarbrücken",
+        "status": "faellt_aus",
+        "grund": "Bandscheibenvorfall"
+      },
+      {
+        "spieler": "Nankishi",
+        "klub": "Saarbrücken",
+        "status": "faellt_aus",
+        "grund": "Syndesmoseband verletzt"
+      },
+      {
+        "spieler": "Fahrner",
+        "klub": "Saarbrücken",
+        "status": "faellt_aus",
+        "grund": "Syndesmoseband verletzt"
+      },
+      {
+        "spieler": "Voet",
+        "klub": "Saarbrücken",
+        "status": "fraglich",
+        "grund": "Beschwerden am Sprunggelenk"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Saarbrücken",
+    "pfad": "artikel/saarbruecken-kamara-droht-saison-aus-vasiliadis-und-multhaup-fehlen-de4bee804a.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "reaktion",
+      "frage": "",
+      "antworten": [
+        "💚 Gute Besserung"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "d83ead1261",
+    "titel": "Saarbrücken verlängert vorzeitig mit Trainer Giannikis bis 2029",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "15.11.2026 20:34",
+    "wappen_url": "logos/saarbruecken.png",
+    "vereine": [
+      "Saarbrücken"
+    ],
+    "anriss": "Der 1. FC Saarbrücken hat den Vertrag von Cheftrainer Argirios Giannikis vorzeitig um zwei Jahre bis Sommer 2029 verlängert. Das gab der Drittligist bei seiner Mitgliederversammlung am Sonntagabend bekannt. Der bisherige Kontrakt lief noch bis Sommer 2027. Giannikis war in der Rückrunde der vergangenen Saison",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Saarbrücken",
+    "pfad": "artikel/saarbruecken-verlaengert-vorzeitig-mit-trainer-giannikis-bis-2029-d83ead1261.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "deal",
+      "frage": "Ist Giannikis' Verlängerung ein guter Deal für Saarbrücken?",
+      "antworten": [
+        "👍 Guter Deal",
+        "👎 Fehler"
+      ]
+    },
+    "n11": false
+  },
+  {
     "id": "b4dde618d6",
     "titel": "Waldhof Mannheim siegt 2:1 in Neckarsteinach und steht im Pokal-Halbfinale",
     "kategorie": "news",

@@ -973,5 +973,50 @@
     },
     "published_at": "2026-11-15T00:35:48.243588",
     "source": "Wochenblatt Reporter"
+  },
+  {
+    "id": "d83ead1261",
+    "generated_title": "Saarbrücken verlängert vorzeitig mit Trainer Giannikis bis 2029",
+    "original_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNanhGdzNfWU1nRUZKZDFBVjE5eXdRT2xZUUgwSG15bWNHVWJBRFFvbUVFLVFPSlVKZ0pmQlFUeU80VXBSUlgtamNmYk04N1kwLURnSnFmbURJN1FUeWNHUlJpcmtSZUQtQjhhMmhTY0Jva2tyWkMxOEhfV01qVmMxU3Rkd0hQRUg1ZTdXcTE1dDh2Sl9fYlo5aUFEdVVLUQ?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Saarbrücken",
+      "event_stage": "vertrag",
+      "main_teams": [
+        "Saarbrücken"
+      ],
+      "main_players": [
+        "Argirios Giannikis"
+      ],
+      "summary": "Der 1. FC Saarbrücken verlängert den Vertrag mit Trainer Argirios Giannikis vorzeitig bis Sommer 2029. Zudem meldete der Klub ein Minus von 465.000 Euro und einen um eine Million Euro reduzierten Kaderetat.",
+      "one_sentence_summary": "Der 1.",
+      "schluessel": "argirios giannikis|vertrag"
+    },
+    "published_at": "2026-11-15T20:35:17.367342",
+    "source": "SR.de"
+  },
+  {
+    "id": "de4bee804a",
+    "generated_title": "Saarbrücken: Kamara droht Saison-Aus, Vasiliadis und Multhaup fehlen",
+    "original_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWWdnM2EzbFRuLXBhS3Q3TUxhbkRsWHhZck9MUDNCX3daeVNkX2cyZW93VmpZeGprUlotRnctSjBrM0JNRVJVa0ZXaXcxT1FJaGI2b1FQWHR0M18xanNZbnhDblRuZHBsTVRiZkpQT1YxOUQ0c0Q5VlFTOEFTNEplZW9iSjB3ekxfSUJOdS1VZVE2dlNPNXVrQXpodU1GeW9PUVHSAacBQVVfeXFMUHhBa2xnNFh1NGdreVo0QUJ3LTJ6R2pkMTF6NGhnTmxwWl9pQzVRZ1lmdGQwMlBFZ0hWelhmSGNqMU9GVm1xclVOMl9QMGczMlNHaWlZclIwVHJYSDYzLVpjalNrcERNbkFjd2xBXzNSTUZzZHFqSzNLQlZxeDFZZ2Y3RENHZmQzbU1yTUVrX3pOcmhkZmNEbUozUHg1UU5BSS0tc0hlb3c?oc=5",
+    "fingerprint": {
+      "event_type": "verletzung",
+      "main_club": "Saarbrücken",
+      "event_stage": "ausfall",
+      "main_teams": [
+        "Saarbrücken",
+        "Wiesbaden"
+      ],
+      "main_players": [
+        "Abdoulaye Kamara",
+        "Sebastian Vasiliadis",
+        "Maurice Multhaup"
+      ],
+      "summary": "Saarbrücken muss gegen Wehen Wiesbaden auf Kamara, Vasiliadis und Multhaup verzichten, Kamara droht das Saison-Aus. Auch Voet ist wegen Sprunggelenksbeschwerden fraglich.",
+      "one_sentence_summary": "Saarbrücken muss gegen Wehen Wiesbaden auf Kamara, Vasiliadis und Multhaup verzichten, Kamara droht das Saison-Aus.",
+      "schluessel": "abdoulaye kamara|verletzung"
+    },
+    "published_at": "2026-11-15T20:35:17.403285",
+    "source": "Liga 3 News"
   }
 ]

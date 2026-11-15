@@ -1,0 +1,202 @@
+2026-11-15 20:32:17,124 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 1 passende Treffer
+2026-11-15 20:32:17,124 INFO S7 Ersatzquelle liefert Text (120 Wörter, 1 Quellen): Kimmich nach Rückkehr: Hier am absolut richtigen Ort
+2026-11-15 20:32:17,124 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 0 passende Treffer
+2026-11-15 20:32:17,124 INFO FinalCheck SKIP: borussia mönchengladbach/{'max muster'} stage=geruecht bereits in Archiv
+2026-11-15 20:32:17,124 INFO FinalCheck SKIP: borussia mönchengladbach/set() stage=geruecht bereits in Archiv
+2026-11-15 20:32:27,950 INFO 💶 Budget: dieser Lauf 0.000 $ | heute 0.00 $ | Monat 0.00 / 0 $
+2026-11-15 20:32:27,952 INFO URL-Cache geladen: 2703 bekannte URLs (letzte 30 Tage)
+2026-11-15 20:32:27,952 INFO === LO Generator startet – max. 50 Artikel ===
+2026-11-15 20:32:27,952 INFO Feed: https://newsfeed.kicker.de/news/3-liga
+2026-11-15 20:32:27,995 INFO Feed: https://www.sport.de/rss/news/
+2026-11-15 20:32:28,160 INFO Feed: https://www.11freunde.de/feed
+2026-11-15 20:32:28,670 INFO Feed: https://news.google.com/rss/search?q=%223.+Liga%22&hl=de&gl=DE&ceid=DE:de
+2026-11-15 20:32:29,067 INFO S2 blacklist: Spielereignisse | VfL Eintracht Hagen II - Ahlener SG 40:39 
+2026-11-15 20:32:29,071 WARNING Spielerliste nicht verfügbar: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-15 20:32:29,071 INFO BL-Spielerliste geladen: 0 Namen
+2026-11-15 20:32:29,071 INFO S3 keyword miss: Nach Absturz in 3. Liga - Fortuna-Krise: Rensing schießt geg
+2026-11-15 20:32:29,071 INFO S2 blacklist: Rot Weiss Essen heute live sehen: Wo läuft RWE bei Ratingen 
+2026-11-15 20:32:29,071 INFO S2 blacklist: Übertragung der 3. Liga 26/27: Welche Spiele laufen im Free-
+2026-11-15 20:32:29,074 INFO S3 keyword miss: „Jung-Gallier“ klettern in der Tabelle
+2026-11-15 20:32:29,075 INFO S2 blacklist: Spielereignisse | TV 1861 Erlangen-Bruck - SG Pforzheim/Euti
+2026-11-15 20:32:29,075 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Verletzung+Ausfall+gesperrt&hl=de&gl=DE&ceid=DE:de
+2026-11-15 20:32:29,451 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Transfer+Wechsel+verpflichtet&hl=de&gl=DE&ceid=DE:de
+2026-11-15 20:32:29,811 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Ger%C3%BCcht+Interesse+Angebot&hl=de&gl=DE&ceid=DE:de
+2026-11-15 20:32:30,097 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Vertrag+verl%C3%A4ngert+abl%C3%B6sefrei&hl=de&gl=DE&ceid=DE:de
+2026-11-15 20:32:30,347 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Trainer+Entlassung&hl=de&gl=DE&ceid=DE:de
+2026-11-15 20:32:30,688 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Saarbr%C3%BCcken%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 20:32:30,966 INFO S2 blacklist: Spielereignisse | 1. FC Saarbrücken - 1. FFC 08 Niederkirche
+2026-11-15 20:32:30,966 INFO S2 blacklist: 1. FC Saarbrücken verlängert mit Cheftrainer Argirios Gianni
+2026-11-15 20:32:30,966 INFO S2 blacklist: DFB-Pokal - Mannschaftskapitäne (Galerie)
+2026-11-15 20:32:30,967 INFO S2 blacklist: Spielereignisse | 1. FSV Mainz 05 II - FC Urbar 6:0 | 12. Sp
+2026-11-15 20:32:30,967 INFO Feed: https://news.google.com/rss/search?q=%22Alemannia+Aachen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 20:32:31,212 INFO Feed: https://news.google.com/rss/search?q=%22FC+Ingolstadt%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 20:32:31,468 INFO S3 keyword miss: Guter Eindruck reicht nicht: Fortuna verzichtet auf Menzel
+2026-11-15 20:32:31,469 INFO S3 keyword miss: Domstädter holen Heimsieg
+2026-11-15 20:32:31,469 INFO Feed: https://news.google.com/rss/search?q=%22Fortuna+D%C3%BCsseldorf%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 20:32:31,767 INFO S3 keyword miss: Überraschung auf dem zweiten Platz: Neuer Fortuna-Aufsichtsr
+2026-11-15 20:32:31,768 INFO S3 keyword miss: Neuer Aufsichtsrat gewählt: Fortuna-Mitglieder mit Backpfeif
+2026-11-15 20:32:31,770 INFO S3 keyword miss: Rensing wird gefeiert, Kritik am Vorstand – Reaktionen der F
+2026-11-15 20:32:31,772 INFO S3 keyword miss: Hitzige Fortuna-Stunden am Sonntag: Pfiffe, Streit, „Griff i
+2026-11-15 20:32:31,773 INFO S3 keyword miss: Mitgliederversammlung von Fortuna: Viel Applaus für Finanzch
+2026-11-15 20:32:31,775 INFO S3 keyword miss: Messe-Manager neu im Aufsichtsrat: Berlemann als strahlender
+2026-11-15 20:32:31,776 INFO S3 keyword miss: Fortuna-Krise: Rensing schießt gegen Allofs und Mislintat
+2026-11-15 20:32:31,778 INFO S3 keyword miss: Berlemann, Greubel, Busch: Beste Option für Fortuna? Nur ein
+2026-11-15 20:32:31,780 INFO S3 keyword miss: Unruhe im Saal: „Zu plakativ" – Häme nach Eingeständnis von 
+2026-11-15 20:32:31,782 INFO S3 keyword miss: Funkel-Thema neu aufgerollt: Rensings-Rundumschlag begeister
+2026-11-15 20:32:31,784 INFO S3 keyword miss: Entscheidung rückt näher: Kandidaten, Favoriten, Stimmen – s
+2026-11-15 20:32:31,786 INFO S3 keyword miss: Berlemann, Greubel, Busch: Beste Option für Fortuna? Nur ein
+2026-11-15 20:32:31,787 INFO S3 keyword miss: Wenige Stunden vor der Wahl: Nur noch 24 Bewerber – nächster
+2026-11-15 20:32:31,788 INFO Feed: https://news.google.com/rss/search?q=%22Fortuna+K%C3%B6ln%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 20:32:32,086 INFO S2 blacklist: Spielereignisse | FSV Gütersloh 2009 - Fortuna Köln 2:2 | 12
+2026-11-15 20:32:32,088 INFO S3 keyword miss: Da­ni­el Graf wird neuer Trai­ner der TSG Wolfstein-​Roßbach
+2026-11-15 20:32:32,088 INFO S2 blacklist: Spielereignisse | SV Rhenania Bottrop - Vorwärts Spoho Köln 
+2026-11-15 20:32:32,088 INFO S2 blacklist: Spielereignisse | MSV Duisburg - 1. FFC Recklinghausen 2:2 |
+2026-11-15 20:32:32,089 INFO Feed: https://news.google.com/rss/search?q=%22Hansa+Rostock%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 20:32:32,376 INFO S3 keyword miss: Dritter Sieg in Folge nach dreifachem Rückstand: Piranhas be
+2026-11-15 20:32:32,376 INFO Feed: https://news.google.com/rss/search?q=%22Jahn+Regensburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 20:32:32,692 INFO S2 blacklist: Gerhard Müllerbauer
+2026-11-15 20:32:32,693 INFO S3 keyword miss: Sabalenka entschuldigt sich für Wutausbruch bei WTA Finals
+2026-11-15 20:32:32,693 INFO Feed: https://news.google.com/rss/search?q=%22MSV+Duisburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 20:32:32,961 INFO S3 keyword miss: 3. Liga 2026/27: Termine und Spielplan der 19. Saison
+2026-11-15 20:32:32,963 INFO S2 kein BL-Klub im Titel: Fußball Bundesliga: Köln gegen M'gladbach - Ergebnisse - 26.
+2026-11-15 20:32:32,964 INFO S2 kein BL-Klub im Titel: Revierderby vor Rekordkulisse: BVB empfängt Schalke 04
+2026-11-15 20:32:32,964 INFO S2 kein BL-Klub im Titel: SC Paderborn 07: Wird Castaneda bald von Guardiola trainiert
+2026-11-15 20:32:32,966 INFO S3 keyword miss: Doppelpack im Pokal: So läuft es für Schalkes Leihspieler
+2026-11-15 20:32:32,966 INFO Feed: https://news.google.com/rss/search?q=%22Preu%C3%9Fen+M%C3%BCnster%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 20:32:33,332 INFO S2 Liveticker übersprungen: TSG Hoffenheim II gegen Preußen Münster Liveticker - 3. Liga
+2026-11-15 20:32:33,333 INFO S2 Liveticker übersprungen: TSG Hoffenheim II gegen Preußen Münster Liveticker - 3. Liga
+2026-11-15 20:32:33,334 INFO Feed: https://news.google.com/rss/search?q=%22Rot-Weiss+Essen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 20:32:33,608 INFO S2 blacklist: Spielereignisse | Ratinger SV - Rot-Weiss Essen 0:4 | Vierte
+2026-11-15 20:32:33,611 INFO S3 keyword miss: Fussball Nationalmannschaft - Die Mannschaft, Bilder, Fußbal
+2026-11-15 20:32:33,611 INFO Feed: https://news.google.com/rss/search?q=%22SC+Verl%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 20:32:33,873 INFO S3 keyword miss: Hartes Stück Arbeit: RW Maaslingen feiert einen 2:1-Sieg und
+2026-11-15 20:32:33,875 INFO S3 keyword miss: SpVgg Erkenschwick: Trainer Malyar nach Niederlage sauer - "
+2026-11-15 20:32:33,875 INFO S2 blacklist: Spielereignisse | 1. FC Gievenbeck - FC Gütersloh 5:6 | Vier
+2026-11-15 20:32:33,877 INFO S3 keyword miss: Kreisderby im Livestream: FC Kaunitz unterliegt dem SC Pecke
+2026-11-15 20:32:33,877 INFO S2 kein BL-Klub im Titel: VfL Bochum: Holtmann über seine Hand-OP, Baby-Alarm, neues S
+2026-11-15 20:32:33,877 INFO Feed: https://news.google.com/rss/search?q=%22Sonnenhof+Gro%C3%9Faspach%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 20:32:34,149 INFO S2 kein BL-Klub im Titel: Nach Doping-Sperre: Vuskovic bei HSV-Comeback gefeiert
+2026-11-15 20:32:34,151 INFO S3 keyword miss: SGV Freiberg-Heilbronn: Tor per Eckball – Marius Köhl geling
+2026-11-15 20:32:34,151 INFO Feed: https://news.google.com/rss/search?q=%22SV+Meppen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 20:32:34,426 INFO S2 blacklist: Seit Ende August ohne Sieg: Zweitliga-Frauen des SV Meppen v
+2026-11-15 20:32:34,426 INFO S2 blacklist: Spielschema | Bor. Mönchengladbach - SV Meppen 2:0 | 12. Spi
+2026-11-15 20:32:34,427 INFO S2 blacklist: Spielereignisse | Bor. Mönchengladbach - SV Meppen 2:0 | 12.
+2026-11-15 20:32:34,428 INFO S3 keyword miss: Bielefeld: Weihnachtsmarkt im Stadion lässt Fanherzen höher 
+2026-11-15 20:32:34,430 INFO S3 keyword miss: Spelle gibt Tabellenführung ab, Biene feiert Kantersieg und 
+2026-11-15 20:32:34,430 INFO Feed: https://news.google.com/rss/search?q=%22Waldhof+Mannheim%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 20:32:34,692 INFO S3 keyword miss: FCK plant neue VIP-Räume und ordnet Vermarktung neu
+2026-11-15 20:32:34,692 INFO S2 kein BL-Klub im Titel: Hertha BSC plant Wintertrainingslager in Spanien
+2026-11-15 20:32:34,692 INFO Feed: https://news.google.com/rss/search?q=%22Wehen+Wiesbaden%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 20:32:34,932 INFO Feed: https://news.google.com/rss/search?q=%22Hoffenheim+II%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 20:32:35,180 INFO Feed: https://news.google.com/rss/search?q=%22TSV+Havelse%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 20:32:35,437 INFO S3 keyword miss: Sevkan Bulut
+2026-11-15 20:32:35,437 INFO Feed: https://news.google.com/rss/search?q=%22VfB+Stuttgart+II%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 20:32:35,702 INFO S2 blacklist: 5:1-Sieg in Leipzig: Eintracht-Express rollt über RB | Highl
+2026-11-15 20:32:35,702 INFO Feed: https://news.google.com/rss/search?q=%22Viktoria+K%C3%B6ln%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 20:32:36,012 INFO S3 keyword miss: Kayla Harrison vs Amanda Nunes | Highlights | Jetzt Anmelden
+2026-11-15 20:32:36,012 INFO Feed: https://news.google.com/rss/search?q=%22W%C3%BCrzburger+Kickers%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 20:32:36,294 INFO S3 keyword miss: Ohne elf Mann: Pflaumheims Notelf verkauft sich in Helmstadt
+2026-11-15 20:32:36,294 INFO Feed: https://newsfeed.kicker.de/team/1-fc-saarbruecken
+2026-11-15 20:32:36,560 INFO Feed: https://newsfeed.kicker.de/team/alemannia-aachen
+2026-11-15 20:32:36,681 INFO Feed: https://newsfeed.kicker.de/team/fc-ingolstadt-04
+2026-11-15 20:32:36,804 INFO Feed: https://newsfeed.kicker.de/team/fortuna-duesseldorf
+2026-11-15 20:32:36,925 INFO Feed: https://newsfeed.kicker.de/team/hansa-rostock
+2026-11-15 20:32:37,045 INFO Feed: https://newsfeed.kicker.de/team/jahn-regensburg
+2026-11-15 20:32:37,169 INFO Feed: https://newsfeed.kicker.de/team/msv-duisburg
+2026-11-15 20:32:37,289 INFO Feed: https://newsfeed.kicker.de/team/preussen-muenster
+2026-11-15 20:32:37,590 INFO Feed: https://newsfeed.kicker.de/team/rot-weiss-essen
+2026-11-15 20:32:37,827 INFO Feed: https://newsfeed.kicker.de/team/sc-verl
+2026-11-15 20:32:38,032 INFO Feed: https://newsfeed.kicker.de/team/waldhof-mannheim
+2026-11-15 20:32:38,208 INFO Feed: https://newsfeed.kicker.de/team/sv-wehen-wiesbaden
+2026-11-15 20:32:38,329 INFO Feed: https://newsfeed.kicker.de/team/tsg-hoffenheim-ii
+2026-11-15 20:32:38,535 INFO Feed: https://newsfeed.kicker.de/team/tsv-havelse
+2026-11-15 20:32:38,730 INFO Feed: https://newsfeed.kicker.de/team/vfb-stuttgart-ii
+2026-11-15 20:32:38,945 INFO Feed: https://newsfeed.kicker.de/team/fc-viktoria-koeln
+2026-11-15 20:32:39,282 INFO Eingelesen: 27 Schlagzeilen nach den Gratis-Filtern
+2026-11-15 20:32:39,293 INFO S5 Randthema: Fortuna Düsseldorf: Mitgliederversammlung - Jobst und Allofs nicht ent
+2026-11-15 20:32:39,294 INFO S5 Randthema: Mitgliederversammlung 2026: FCS zieht positive Zwischenbilanz
+2026-11-15 20:32:39,295 INFO S5: 24 neue Geschichten, 0 schon berichtet, 0 zu wartenden Geschichten ergänzt, 35 warten
+2026-11-15 20:34:33,415 INFO S6 aussortiert (prio_1): Jobst: "Ab sofort muss wieder gelten: Alle stellen ihre Einzelinteress
+2026-11-15 20:34:33,416 INFO S6 aussortiert (doppelt): Saarbrücken verlängert mit Trainer Giannikis: „Mit seiner Art, Ideen u
+2026-11-15 20:34:33,416 INFO S6 aussortiert (prio_0): Trotz starkem Start: Ersatzgeschwächte Wölfe Würzburg verlieren fränki
+2026-11-15 20:34:33,416 INFO S6 aussortiert (prio_0): Alemannia Aachen II
+2026-11-15 20:34:33,416 INFO S6 aussortiert (prio_0): Keine Spur Von Karriereende: Gideon Jung Will Bei Der Alemannia Ein Ne
+2026-11-15 20:34:33,416 INFO S6 aussortiert (prio_0): FC Ingolstadt 04
+2026-11-15 20:34:33,416 INFO S6 aussortiert (prio_1): Wahlen im Rahmen der MV: Aufsichtsrat der Fortuna komplettiert | f95.d
+2026-11-15 20:34:33,416 INFO S6 aussortiert (prio_0): Fußball Bundesliga: Wuppertal gegen Fortuna Köln - Übersicht über die 
+2026-11-15 20:34:33,416 INFO S6 aussortiert (prio_1): Bleibt der Sportler des Jahres „ewig“ beim MSV? Das sagt Joshua Bitter
+2026-11-15 20:34:33,416 INFO S6 aussortiert (prio_0): Kick Landkroon lässt SpVgg Vreden jubeln: Ausgleichstor in letzter Sek
+2026-11-15 20:34:33,417 INFO S6 aussortiert (prio_0): 1. FC Magdeburg - SC Preußen Münster – Highlights | 2. Bundesliga 2025
+2026-11-15 20:34:33,417 INFO S6 aussortiert (doppelt): Aus im Pokal: Ratingen 04/19 verliert gegen RWE
+2026-11-15 20:34:33,417 INFO S6 aussortiert (prio_0): Kosoava unterliegt der U23 von RWE mit 0:1: FCK fehlt gegen Essen die 
+2026-11-15 20:34:33,417 INFO S6 aussortiert (prio_0): Adventsmarkt in Verl: Glühwein, Reibeplätzchen und Geschenkideen warte
+2026-11-15 20:34:33,417 INFO S6 aussortiert (prio_0): Brutaler Überfall in Mannheim: 38-Jähriger niedergestochen und ausgera
+2026-11-15 20:34:33,417 INFO S6 aussortiert (prio_0): Heddesheim nicht gallig genug
+2026-11-15 20:34:33,417 INFO S6 aussortiert (prio_0): Öztunali auf Platz 2: Die Drittliga-Spieler mit den meisten Bundesliga
+2026-11-15 20:34:33,417 INFO S6 aussortiert (prio_0): Wayne Rooney im Dschungelcamp: Jetzt geht die KI zu weit! – Die 11FREU
+2026-11-15 20:34:33,417 INFO S6 aussortiert (prio_1): MSV Duisburg: Seit sieben Jahren da - Ein Abwehrspieler wurde Duisburg
+2026-11-15 20:34:33,417 INFO S6 aussortiert (prio_0): Empor Rostock gewinnt in Hamburg und übernimmt Tabellenspitze der 3. L
+2026-11-15 20:34:33,417 INFO S6 aussortiert (prio_0): Fußball Bundesliga: Köln gegen Saarbrücken - Übersicht über die Laufle
+2026-11-15 20:34:33,417 INFO S6 aussortiert (prio_0): 1.FC Saarbrücken II: 18.Spieltag - Dritter Sieg in Folge! | saarnews
+2026-11-15 20:34:33,417 INFO S6 aussortiert (prio_1): Mit 18 Stammspieler bei Alemannia: Warum Drevinas Karriere anders verl
+2026-11-15 20:34:33,417 INFO S6 aussortiert (prio_0): 💛 „Alemannia Aachen: Vom Chaos Zur Rekordsaison!“ | Und Jetzt? Alemann
+2026-11-15 20:34:33,418 INFO S6 aussortiert (prio_0): Individuelle Fehler, haarsträubende Gegentore: DJK Gebenbach in Ingols
+2026-11-15 20:34:33,418 INFO S6 aussortiert (prio_0): Dämpfer beim Schlusslicht: Ingolstadt nimmt nur einen Punkt mit
+2026-11-15 20:34:33,418 INFO S6 aussortiert (prio_0): TSV Havelse gegen Viktoria Köln Vorhersage
+2026-11-15 20:34:33,418 INFO S6 aussortiert (prio_1): Fortuna Düsseldorf: Mitglieder watschen Bosse schwer ab
+2026-11-15 20:34:33,418 INFO S6 aussortiert (prio_1): Fortuna Düsseldorf: Termin für Heimderby gegen Rot-Weiss Essen steht f
+2026-11-15 20:34:33,418 INFO S6 aussortiert (prio_0): Fußball Bundesliga: Düsseldorf gegen Werder - Statistik: Karten - 6. S
+2026-11-15 20:34:33,418 INFO S6 aussortiert (prio_1): Fortuna Düsseldorf: 24 Kandidaten bewerben sich um fünf Aufsichtsratss
+2026-11-15 20:34:33,418 INFO S6 aussortiert (prio_0): Spielschema | Fortuna Köln - SV Darmstadt 98 3:2 | 9. Spieltag | U-19-
+2026-11-15 20:34:33,418 INFO S6 aussortiert (prio_0): Fußball Bundesliga: Wuppertal gegen Fortuna Köln - Statistik: Zweikämp
+2026-11-15 20:34:33,418 INFO S6 aussortiert (prio_0): SC Fortuna Köln
+2026-11-15 20:34:33,418 INFO S6 aussortiert (prio_0): Empor Rostock schockt den bisher ungeschlagenen THW Kiel
+2026-11-15 20:34:33,418 INFO S6 aussortiert (prio_0): Hansa Rostock: Profis gehen zu Spiel der Seawolves gegen Rasta Vechta
+2026-11-15 20:34:33,418 INFO S6 aussortiert (prio_0): Empor Rostock siegt nach schwachem Start durch eine starke Defensive
+2026-11-15 20:34:33,418 INFO S6 aussortiert (prio_0): Jahn Regensburg feiert Kantersieg gegen Havelse
+2026-11-15 20:34:33,418 INFO S6 aussortiert (prio_1): Was den MSV Duisburg so erfolgreich macht
+2026-11-15 20:34:33,418 INFO S6 aussortiert (prio_0): Krawalle nach Eishockey: Rund 50 Personen greifen Herner Fans nach Spi
+2026-11-15 20:34:33,419 INFO S6 aussortiert (prio_0): Fußball Bundesliga: Duisburg gegen K'lautern - Statistik: Top-Scorer -
+2026-11-15 20:34:33,419 INFO S6 aussortiert (prio_0): Spielschema | Rot-Weiss Essen - Preußen Münster 3:2 | 11. Spieltag | U
+2026-11-15 20:34:33,419 INFO S6 aussortiert (prio_0): 3. Liga - Viktoria Köln dreht gegen Verl spät auf
+2026-11-15 20:34:33,419 INFO S6 aussortiert (prio_0): Fünf Tore, drei davon zum Schluss: Meppen unterliegt in Rehden
+2026-11-15 20:34:33,419 INFO S6 aussortiert (prio_0): SV Waldhof Mannheim im bfv-Pokal gefordert
+2026-11-15 20:34:33,419 INFO S6 aussortiert (prio_0): Mannheim: Rhein-Neckar Löwen verschenken Sieg gegen Lemgo
+2026-11-15 20:34:33,419 INFO S6 aussortiert (prio_1): SV Wehen Wiesbaden öffnet NLZ für externe Trainer
+2026-11-15 20:34:35,526 INFO S7 schreiben (Prio 3, 1 Quellen): Bis 2029: Giannikis verlängert vorzeitig in Saarbrücken
+2026-11-15 20:34:42,215 INFO   Kandidat: Saarbrücken verlängert vorzeitig mit Trainer Giannikis bis 2
+2026-11-15 20:34:42,572 INFO S7 kein Volltext (too_short_75_words): Niederrheinpokal: Das erste Halbfinale steht - RWE trotzt Pe
+2026-11-15 20:34:42,808 INFO S7 Ersatzquellen für "Niederrheinpokal: Das erste Halbfinale steht - RWE": 0 passende Treffer
+2026-11-15 20:34:42,808 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Niederrheinpokal: Das erste Halbfinale steht - RWE trotzt Pe
+2026-11-15 20:34:44,547 INFO S7 schreiben (Prio 3, 1 Quellen): Ende der Pokal-Saison: 04/19 erreicht sein Primärziel gegen 
+2026-11-15 20:34:49,297 INFO S7 verworfen (zu_wenig_stoff): Ende der Pokal-Saison: 04/19 erreicht sein Primärziel gegen 
+2026-11-15 20:34:51,936 INFO S6.5 schon berichtet (Mannheim zittert sich per 2:1 in Neckarsteina): SV Waldhof besteht den Härtetest auf dem Fußball-Dorf
+2026-11-15 20:34:52,116 INFO S7 kein Volltext (too_short_75_words): Niederrheinpokal: Auch Hüning fehlt - So gehen Ratingen und 
+2026-11-15 20:34:52,492 INFO S7 Ersatzquellen für "Niederrheinpokal: Auch Hüning fehlt - So gehen Rat": 0 passende Treffer
+2026-11-15 20:34:52,492 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Niederrheinpokal: Auch Hüning fehlt - So gehen Ratingen und 
+2026-11-15 20:34:57,778 INFO S7 schreiben (Prio 3, 1 Quellen): Weitere Ausfälle beim 1. FC Saarbrücken: Wo Giannikis umbaue
+2026-11-15 20:35:06,635 INFO   Kandidat: Saarbrücken: Kamara droht Saison-Aus, Vasiliadis und Multhau
+2026-11-15 20:35:07,371 INFO S7 kein Volltext (seite_zu_alt): Alemannia Aachen holt Trainer aus Bremerhaven
+2026-11-15 20:35:07,665 INFO S7 Ersatzquellen für "Alemannia Aachen holt Trainer aus Bremerhaven": 0 passende Treffer
+2026-11-15 20:35:07,665 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Alemannia Aachen holt Trainer aus Bremerhaven
+2026-11-15 20:35:08,442 INFO S7 kein Volltext (too_short_23_words): Fußball Landespokal: FC Hansa Rostock erreicht Viertelfinale
+2026-11-15 20:35:08,690 INFO S7 Ersatzquellen für "Fußball Landespokal: FC Hansa Rostock erreicht Vie": 0 passende Treffer
+2026-11-15 20:35:08,690 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Fußball Landespokal: FC Hansa Rostock erreicht Viertelfinale
+2026-11-15 20:35:10,635 INFO S7 schreiben (Prio 2, 1 Quellen): Rot-Weiss Essen lässt Ratingen keine Chance – Koschinat schw
+2026-11-15 20:35:13,979 INFO S7 verworfen (zu_wenig_stoff): Rot-Weiss Essen lässt Ratingen keine Chance – Koschinat schw
+2026-11-15 20:35:14,161 INFO S7 kein Volltext (too_short_75_words): Rot-Weiss Essen: Ein Wort: Professionalität - RWE spaziert "
+2026-11-15 20:35:14,419 INFO S7 Ersatzquellen für "Rot-Weiss Essen: Ein Wort: Professionalität - RWE ": 0 passende Treffer
+2026-11-15 20:35:14,420 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Rot-Weiss Essen: Ein Wort: Professionalität - RWE spaziert "
+2026-11-15 20:35:14,834 INFO S7 Ersatzquellen für "Menzel erhält keinen Vertrag in Düsseldorf": 0 passende Treffer
+2026-11-15 20:35:14,834 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Menzel erhält keinen Vertrag in Düsseldorf
+2026-11-15 20:35:16,717 INFO S6.5 schon berichtet (RWE im Niederrheinpokal-Viertelfinale bei Obe): Rot-Weiss Essen: „Klare Erwartungshaltung“ – Koschinat nimmt
+2026-11-15 20:35:16,718 INFO S9.5 FinalCheck: 2/2 durch
+2026-11-15 20:35:17,368 INFO Veröffentlicht: Saarbrücken verlängert vorzeitig mit Trainer Giannikis bis 2
+2026-11-15 20:35:17,404 INFO Veröffentlicht: Saarbrücken: Kamara droht Saison-Aus, Vasiliadis und Multhau
+2026-11-15 20:35:17,406 WARNING Sitemap ohne Spielerseiten: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-15 20:35:17,407 INFO 💶 Kosten: dieser Lauf 0.000 $ (Budget 0.000 $) | heute 0.00 $ | Monat 0.00 / 0 $ | konferenz (abo) 1× 0.000 $, dublette (abo) 7× 0.000 $, schreiben (abo) 4× 0.000 $
+2026-11-15 20:35:17,407 INFO 🎫 Abo-Verbrauch: 39,452 Tokens rein (davon Cache gelesen 4,278), 18,535 raus, API-Gegenwert 0.24 $ | konferenz 1×: 4,018/14,377, dublette 7×: 8,124/366, schreiben 4×: 27,310/3,792
+2026-11-15 20:35:17,409 INFO Feeds: 45/45 begonnen, nächster Lauf startet bei Nr. 0
+2026-11-15 20:35:17,409 INFO URL-Cache gespeichert: 2795 URLs
+2026-11-15 20:35:17,409 INFO === Fertig. 2 neue Artikel. feed.json: 45 ===
+2026-11-15 20:35:17,409 INFO Stats: {"ts": "20261115_2032", "ingested": 92, "s2_pre_filter": 28, "s3_relevance": 33, "s4_dedup_early": 0, "gesammelt": 27, "geschichten_neu": 24, "s5_archiv_doppelt": 0, "s5_zusammengefuehrt": 0, "s6_aussortiert": 47, "s7_geschrieben": 4, "s7_verworfen": 4, "s5_fulltext_fail": 6, "s8_qa_rejected": 0, "published": 2, "s5_randthema": 2, "kosten": {"lauf_usd": 0.0, "lauf_budget_usd": 0.0, "heute_usd": 0.0, "monat_usd": 0.0, "monatsbudget_usd": 0.0, "aufrufe": {"konferenz (abo)": {"anzahl": 1, "usd": 0.0}, "dublette (abo)": {"anzahl": 7, "usd": 0.0}, "schreiben (abo)": {"anzahl": 4, "usd": 0.0}}, "guthaben_leer": false, "abo": true, "abo_tokens": {"konferenz": {"aufrufe": 1, "ein": 4018, "cache_schreiben": 0, "cache_lesen": 0, "aus": 14377, "api_wert_usd": 0.0759}, "dublette": {"aufrufe": 7, "ein": 14, "cache_schreiben": 8110, "cache_lesen": 0, "aus": 366, "api_wert_usd": 0.0361}, "schreiben": {"aufrufe": 4, "ein": 8, "cache_schreiben": 23024, "cache_lesen": 4278, "aus": 3792, "api_wert_usd": 0.1304}}}}
