@@ -1,0 +1,92 @@
+2026-11-15 09:01:27,165 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 1 passende Treffer
+2026-11-15 09:01:27,165 INFO S7 Ersatzquelle liefert Text (120 Wörter, 1 Quellen): Kimmich nach Rückkehr: Hier am absolut richtigen Ort
+2026-11-15 09:01:27,165 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 0 passende Treffer
+2026-11-15 09:01:27,165 INFO FinalCheck SKIP: borussia mönchengladbach/{'max muster'} stage=geruecht bereits in Archiv
+2026-11-15 09:01:27,166 INFO FinalCheck SKIP: borussia mönchengladbach/set() stage=geruecht bereits in Archiv
+2026-11-15 09:01:35,310 INFO 💶 Budget: dieser Lauf 0.102 $ | heute 0.00 $ | Monat 0.12 / 8 $
+2026-11-15 09:01:35,320 INFO URL-Cache geladen: 9844 bekannte URLs (letzte 30 Tage)
+2026-11-15 09:01:35,320 INFO === LO Generator startet – max. 50 Artikel ===
+2026-11-15 09:01:35,320 INFO Feed: https://newsfeed.kicker.de/news/2-bundesliga
+2026-11-15 09:01:35,653 INFO Feed: https://www.sport.de/rss/news/
+2026-11-15 09:01:35,869 INFO Feed: https://www.11freunde.de/feed
+2026-11-15 09:01:37,307 INFO Feed: https://news.google.com/rss/search?q=%222.+Bundesliga%22&hl=de&gl=DE&ceid=DE:de
+2026-11-15 09:01:37,920 INFO S2 blacklist: HSV gegen Hajduk Split: Vuskovic-Comeback live im TV & Strea
+2026-11-15 09:01:37,925 WARNING Spielerliste nicht verfügbar: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-15 09:01:37,925 INFO BL-Spielerliste geladen: 0 Namen
+2026-11-15 09:01:37,925 INFO S3 keyword miss: Vom Abstiegskampf in die 2. Bundesliga: Ballius rasanter Auf
+2026-11-15 09:01:37,929 INFO S2 kein BL-Klub im Titel: Gladbacher Pechvogel: Was macht eigentlich Nathan Ngoumou?
+2026-11-15 09:01:37,929 INFO S2 blacklist: 2. Liga 26/27: Live-Übertragung im Fernsehen oder Stream – l
+2026-11-15 09:01:37,931 INFO S3 keyword miss: Fußball: 2. Bundesliga im TV - Sendung
+2026-11-15 09:01:37,932 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Verletzung+Ausfall+gesperrt&hl=de&gl=DE&ceid=DE:de
+2026-11-15 09:01:38,179 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Transfer+Wechsel+verpflichtet&hl=de&gl=DE&ceid=DE:de
+2026-11-15 09:01:38,450 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Ger%C3%BCcht+Interesse+Angebot&hl=de&gl=DE&ceid=DE:de
+2026-11-15 09:01:38,739 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Vertrag+verl%C3%A4ngert+abl%C3%B6sefrei&hl=de&gl=DE&ceid=DE:de
+2026-11-15 09:01:38,958 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Trainer+Entlassung&hl=de&gl=DE&ceid=DE:de
+2026-11-15 09:01:39,253 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Heidenheim%22+OR+Heidenheim+FCH+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 09:01:39,441 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Kaiserslautern%22+OR+%22FCK%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 09:01:39,756 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Magdeburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 09:01:40,013 INFO S3 keyword miss: Vier Leitlinien, elf Spiele, 24 Punkte: Darum darf dieser Cl
+2026-11-15 09:01:40,014 INFO S2 blacklist: Spielereignisse | BFC Dynamo - Tasmania Berlin 4:1 | KW46 | 
+2026-11-15 09:01:40,014 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+N%C3%BCrnberg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 09:01:40,282 INFO Feed: https://news.google.com/rss/search?q=%22Arminia+Bielefeld%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 09:01:40,518 INFO S2 blacklist: Warum löste Schalke 1987 sein Frauenteam wieder auf?: Der We
+2026-11-15 09:01:40,519 INFO Feed: https://news.google.com/rss/search?q=%22Dynamo+Dresden%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 09:01:40,816 INFO S2 blacklist: Wieso der Dresdner SC am Samstagabend im Bus erst sehr spät 
+2026-11-15 09:01:40,821 INFO Feed: https://news.google.com/rss/search?q=%22Eintracht+Braunschweig%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 09:01:41,071 INFO S3 keyword miss: Deutsche Hyperschallwaffen sollen Abschreckung stärken
+2026-11-15 09:01:41,072 INFO S2 kein BL-Klub im Titel: Fußball Bundesliga: Köln gegen M'gladbach - Ergebnisse - 26.
+2026-11-15 09:01:41,073 INFO S2 kein BL-Klub im Titel: Fußball Bundesliga: M'gladbach gegen Werder - Ergebnisse - 1
+2026-11-15 09:01:41,073 INFO Feed: https://news.google.com/rss/search?q=%22Energie+Cottbus%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 09:01:41,322 INFO S2 blacklist: Fußball-Regionalliga: Nullnummer gegen Haching: Rückschlag f
+2026-11-15 09:01:41,324 INFO S3 keyword miss: 3. Liga 2026/27: Termine und Spielplan der 19. Saison
+2026-11-15 09:01:41,325 INFO Feed: https://news.google.com/rss/search?q=%22FC+St.+Pauli%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 09:01:41,600 INFO Feed: https://news.google.com/rss/search?q=%22Hannover+96%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 09:01:41,842 INFO S3 keyword miss: «Lara, Papa kommt»: Robert Enkes letzte Worte gehen seiner F
+2026-11-15 09:01:41,844 INFO S3 keyword miss: So baut Mann das neue Salzburg: „Gebe erst Ruhe, wenn ich be
+2026-11-15 09:01:41,848 INFO S3 keyword miss: Im Livestream: Schließt der FC Springe gegen den SV Ihme-Rol
+2026-11-15 09:01:41,848 INFO Feed: https://news.google.com/rss/search?q=%22Hertha+BSC%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 09:01:42,100 INFO Feed: https://news.google.com/rss/search?q=%22Holstein+Kiel%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 09:01:42,353 INFO Feed: https://news.google.com/rss/search?q=%22Karlsruher+SC%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 09:01:42,633 INFO S3 keyword miss: Oliver Kahn: Bilanz gegen Gegenspieler, Trainer & Vereine
+2026-11-15 09:01:42,634 INFO Feed: https://news.google.com/rss/search?q=%22Greuther+F%C3%BCrth%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 09:01:42,875 INFO Feed: https://news.google.com/rss/search?q=%22Darmstadt+98%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 09:01:43,275 INFO S2 blacklist: Was Yannick Stark den jungen Spielern mitgibt
+2026-11-15 09:01:43,275 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Bochum%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 09:01:43,530 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Osnabr%C3%BCck%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 09:01:43,769 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Wolfsburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-15 09:01:44,094 INFO S2 blacklist: FC Bayern München siegt in Frauen-Fußball-Bundesliga beim Vf
+2026-11-15 09:01:44,097 INFO Feed: https://newsfeed.kicker.de/team/1-fc-heidenheim
+2026-11-15 09:01:44,299 INFO Feed: https://newsfeed.kicker.de/team/1-fc-nuernberg
+2026-11-15 09:01:44,510 INFO Feed: https://newsfeed.kicker.de/team/arminia-bielefeld
+2026-11-15 09:01:44,723 INFO Feed: https://newsfeed.kicker.de/team/dynamo-dresden
+2026-11-15 09:01:44,930 INFO Feed: https://newsfeed.kicker.de/team/eintracht-braunschweig
+2026-11-15 09:01:45,135 INFO Feed: https://newsfeed.kicker.de/team/fc-st-pauli
+2026-11-15 09:01:45,335 INFO Feed: https://newsfeed.kicker.de/team/hannover-96
+2026-11-15 09:01:45,538 INFO Feed: https://newsfeed.kicker.de/team/hertha-bsc
+2026-11-15 09:01:45,747 INFO Feed: https://newsfeed.kicker.de/team/holstein-kiel
+2026-11-15 09:01:45,956 INFO Feed: https://newsfeed.kicker.de/team/vfl-bochum
+2026-11-15 09:01:46,163 INFO Feed: https://newsfeed.kicker.de/team/vfl-osnabrueck
+2026-11-15 09:01:46,377 INFO Eingelesen: 31 Schlagzeilen nach den Gratis-Filtern
+2026-11-15 09:01:46,412 INFO S5 Randthema: Ex-FCM-Held Türpitz im Podcast: Schork wollte mich nach Magdeburg zurü
+2026-11-15 09:01:46,413 INFO S5 Fan-Wahl/Nachwuchs: Spielschema | 1. FC Magdeburg - Hallescher FC 1:0 | 9. Spieltag | U-17
+2026-11-15 09:01:46,414 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: Dynamo-Leihgabe Okpala gibt Fehler offen zu, doch nur eine Sache ist i
+2026-11-15 09:01:46,414 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: "Gelungener Test": Stamms Lehren aus Dynamos Prag-Testkick
+2026-11-15 09:01:46,414 INFO S5 Randthema: Arminia Bielefeld - Dynamo Dresden: Direkter Vergleich & Bilanz
+2026-11-15 09:01:46,414 INFO S5 Randthema: Eintracht Braunschweig verbessert Trainingsbedingungen: Straffer Zeitp
+2026-11-15 09:01:46,415 INFO S5 Randthema: Lohnt sich der 100€ Adventskalender von Hertha BSC
+2026-11-15 09:01:46,416 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: VfR Neumünster erwischt Horrornachmittag im Spitzenspiel beim FC Kilia
+2026-11-15 09:01:46,416 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: Tanken in Kiel: Wie teuer sind Diesel und Benzin in Kiel aktuell?
+2026-11-15 09:01:46,416 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: Baustellen in Neumünster im Überblick: Wo sind heute Straßen gesperrt?
+2026-11-15 09:01:46,416 INFO S5 Fan-Wahl/Nachwuchs: Spielschema | VfL Osnabrück - Wuppertaler SV 4:0 | 5. Spieltag | U-17-
+2026-11-15 09:01:46,417 INFO S5: 19 neue Geschichten, 0 schon berichtet, 0 zu wartenden Geschichten ergänzt, 1 warten
+2026-11-15 09:02:56,418 INFO S7 kein Volltext (too_short_17_words): Bayern München zeigt VfL Wolfsburg die Grenzen auf
+2026-11-15 09:02:56,624 INFO S7 Ersatzquellen für "Bayern München zeigt VfL Wolfsburg die Grenzen auf": 0 passende Treffer
+2026-11-15 09:02:56,624 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Bayern München zeigt VfL Wolfsburg die Grenzen auf
+2026-11-15 09:02:56,626 INFO S9.5 FinalCheck: 0/0 durch
+2026-11-15 09:02:56,630 WARNING Sitemap ohne Spielerseiten: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-15 09:02:56,633 INFO 💶 Kosten: dieser Lauf 0.000 $ (Budget 0.102 $) | heute 0.00 $ | Monat 0.12 / 8 $ | konferenz (abo) 1× 0.000 $
+2026-11-15 09:02:56,633 INFO 🎫 Abo-Verbrauch: 2,274 Tokens rein (davon Cache gelesen 0), 9,571 raus, API-Gegenwert 0.05 $ | konferenz 1×: 2,274/9,571
+2026-11-15 09:02:56,643 INFO Feeds: 38/38 begonnen, nächster Lauf startet bei Nr. 0
+2026-11-15 09:02:56,643 INFO URL-Cache gespeichert: 9900 URLs
+2026-11-15 09:02:56,643 INFO === Fertig. 0 neue Artikel. feed.json: 129 ===
+2026-11-15 09:02:56,643 INFO Stats: {"ts": "20261115_0901", "ingested": 56, "s2_pre_filter": 14, "s3_relevance": 9, "s4_dedup_early": 0, "gesammelt": 31, "geschichten_neu": 19, "s5_archiv_doppelt": 0, "s5_zusammengefuehrt": 0, "s6_aussortiert": 0, "s7_geschrieben": 0, "s7_verworfen": 0, "s5_fulltext_fail": 1, "s8_qa_rejected": 0, "published": 0, "s5_randthema": 6, "s5_ohne_bezug": 5, "kosten": {"lauf_usd": 0.0, "lauf_budget_usd": 0.1023, "heute_usd": 0.0, "monat_usd": 0.1238, "monatsbudget_usd": 8.0, "aufrufe": {"konferenz (abo)": {"anzahl": 1, "usd": 0.0}}, "guthaben_leer": false, "abo": true, "abo_tokens": {"konferenz": {"aufrufe": 1, "ein": 2274, "cache_schreiben": 0, "cache_lesen": 0, "aus": 9571, "api_wert_usd": 0.0501}}}}
