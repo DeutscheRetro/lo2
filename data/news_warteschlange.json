@@ -1,136 +1,5 @@
 [
  {
-  "id": "5738e0a9e0",
-  "schluessel": "cottbus|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Cottbus",
-  "klubs": [
-   "Cottbus"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Ausgliederung bei Energie Cottbus: Präsident Lemke erklärt Fahrplan für historischen Schritt",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPT3A2R2FXOEVtYkJCN1dQX1hmeVBsOFNmMnhVMEVxNm1zaUV5NnV2bUNGZlpieEZFbEhHWER4RmdPcldTYXJBUTNpSzRmUmFxd1JJMVpqN3RkcFZ2ZnBNMmhvVklLeERERkpRNjVhaWdFVXZPaENlVDlJaU14dFQ1cE9oZ0g4WkkzUmZpX1lVZnE4RVdiSHhNd2xDSmlvS1JlelFCQW5aUnh2ck1jc1g0VWtKblB2WTN2SF90bkZVUGN2blNMUWxyRmFWRURMY09uSG5hdFlnUUFkVjRxRmI0Qmh0cw?oc=5",
-    "aid": "d9e4d3896f",
-    "titel": "Ausgliederung bei Energie Cottbus: Präsident Lemke erklärt Fahrplan für historischen Schritt",
-    "quelle": "Lausitzer Rundschau",
-    "beschr": " Ausgliederung bei Energie Cottbus: Präsident Lemke erklärt Fahrplan für historischen Schritt &nbsp;&nbsp; Lausitzer Rundschau ",
-    "zeit": "2026-11-15T12:00"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-15T15:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "eb130c27c9",
-  "schluessel": "heidenheim|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Heidenheim",
-  "klubs": [
-   "Heidenheim"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Rätselraten: Wen nimmt Wollitz mit nach Heidenheim?",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSHJKUnZZakpfUERINFV6UUhoSGxPWkhGX0o5WEMxTEpPODFPWTZ0RmtXbjctZ05TQXVxM1dDUk1KbUxKdlJZU1c4UlFaY3p6LWRxSjlnTzNnUnFnOE00Szgwb2FFNnhiSm1kbHZINlA0eW84V05vTElZU2ZsVEUydGRablBya0dFaEdFcm5jX1NRaWViM1B4MXRkU1NTZkwyZEl5TV9Md2VOX1lIV2NJ?oc=5",
-    "aid": "c1977cc292",
-    "titel": "Rätselraten: Wen nimmt Wollitz mit nach Heidenheim?",
-    "quelle": "sportschau.de",
-    "beschr": " Rätselraten: Wen nimmt Wollitz mit nach Heidenheim? &nbsp;&nbsp; sportschau.de ",
-    "zeit": "2026-11-15T11:04"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-15T15:01",
-  "archiv": [
-   {
-    "id": "1355b3f768",
-    "titel": "Heidenheim: Sanwald kämpfte bis zum Schluss um Schmidt",
-    "datum": "07.11.",
-    "stufe": "sonstiges",
-    "summary": "Frank Schmidt hört im Sommer als Trainer des 1. FC Heidenheim auf, obwohl Vorstandschef Holger Sanwald bis zuletzt um ihn kämpfte. Die Suche nach einem Nachfolger beginnt nach dem Heimspiel gegen Hannover 96."
-   },
-   {
-    "id": "f24f0b5c26",
-    "titel": "Heidenheim will Schmidt-Abschied gegen Hannover vergolden",
-    "datum": "06.11.",
-    "stufe": "sonstiges",
-    "summary": "Heidenheim empfängt am Sonntag Hannover 96 und ist zu Hause noch ungeschlagen. Es ist das erste Spiel nach der Ankündigung, dass Trainer Frank Schmidt im Sommer aufhört."
-   },
-   {
-    "id": "922b910d1b",
-    "titel": "Heidenheims Schmidt stellt sich schützend vor Vogt: Klare Worte gegen Hass im Netz",
-    "datum": "02.11.",
-    "stufe": "sonstiges",
-    "summary": "Heidenheims Trainer Frank Schmidt hat sich nach der 1:2-Niederlage in Karlsruhe vor Stürmer Alessandro Vogt gestellt, der im Netz angefeindet worden sein soll. Vogt erzielte gegen den KSC sein erstes Pflichtspieltor für den FCH."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "7aa618f25b",
-  "schluessel": "hertha|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hertha",
-  "klubs": [
-   "Hertha"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Görlich deutet an: Warum Hertha BSC jetzt sogar Westend verlassen könnte",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONGROM2JwQ2VlSm94SjY4MDR0NUVXNFk4LVBDRDgyZ2FMTU1KOXhkTWp3dGhvRTgyZ0padDVHd2ZoZ3FKczJfcEQwakM3MW1wOXM0XzUwbDZNY1hjQm9acXVoTjh6NjlXby1uOXUyVTJjLU1Lc2pwZnNDUHp6elJsLWFDQm84dFJYdmdPYWZNV3p0ZXRMYkRxSlRFUnZDUXJtY2lna2dnLXRUWHg2YUtyeHdxRnBmaU9KYU1lVHRqa01XNFRydmppenFIcHlkQkk?oc=5",
-    "aid": "5f4aebfead",
-    "titel": "Görlich deutet an: Warum Hertha BSC jetzt sogar Westend verlassen könnte",
-    "quelle": "Berliner Morgenpost",
-    "beschr": " Görlich deutet an: Warum Hertha BSC jetzt sogar Westend verlassen könnte &nbsp;&nbsp; Berliner Morgenpost ",
-    "zeit": "2026-11-15T12:25"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-15T15:01",
-  "archiv": [
-   {
-    "id": "b9598870dd",
-    "titel": "Thorsteinsson über Neustart bei Hertha: „Glauben an die eigene Leistung“",
-    "datum": "10.11.",
-    "stufe": "sonstiges",
-    "summary": "Herthas Jón Dagur Thorsteinsson erzählt, wie ihm die Leihe zu Brann Bergen wieder Selbstvertrauen gab. Sein Doppelpack in Dresden war sein bisher stärkster Abend im Hertha-Trikot."
-   },
-   {
-    "id": "5b69f6c8eb",
-    "titel": "Basler lobt Hertha und Leitl: „Die haben es jetzt selbst in der Hand“",
-    "datum": "10.11.",
-    "stufe": "sonstiges",
-    "summary": "Mario Basler lobt in seinem Podcast Herthas Trainer Stefan Leitl und sieht den Tabellenführer im Aufstiegsrennen in der eigenen Hand. Hertha hat nach elf Spieltagen 31 Punkte und spielt am 22. November in Cottbus."
-   },
-   {
-    "id": "008a7a4de7",
-    "titel": "Hertha BSC: Wie Stefan Leitl die Berliner an die Spitze führt",
-    "datum": "08.11.",
-    "stufe": "sonstiges",
-    "summary": "Hertha BSC führt die zweite Liga nach dem 2:1 gegen Wolfsburg mit zehn Punkten Vorsprung auf Rang drei an. Trainer Stefan Leitl setzt auf hohes Pressing, einen klaren Plan und eine funktionierende Gruppe."
-   }
-  ],
-  "versuche": 2
- },
- {
   "id": "70f8f4a657",
   "schluessel": "hannover|sonstiges",
   "person": "",
@@ -180,6 +49,167 @@
     "summary": "Hannover 96 hat Sport-Geschäftsführer Jonas Boldt nach nur fünf Monaten mit sofortiger Wirkung abberufen. Der Klub steht nach neun Spieltagen mit acht Punkten auf Platz 16."
    }
   ],
+  "versuche": 2
+ },
+ {
+  "id": "79312e71c5",
+  "schluessel": "hertha|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "(k+) Hertha: Darum hält Görlich die Schlagzahl hoch",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMllUNnlHLTE2RXg2RzV5RVRQbHJZbnhyamw0OFJkN2N1QXNWVk03NzRLU0VfcThIRUdnWkJTSlQ5Y0FFRW1jNXZvYWJDcTVDTTNtWW1rRVVrOWdibnhidUlmcGZfalgyVXVXMVJmeVF3MmxwaVhscFBscVg3OWlCdVlVRTJMTFNWclRSal93?oc=5",
+    "aid": "f46dca5c07",
+    "titel": "(k+) Hertha: Darum hält Görlich die Schlagzahl hoch",
+    "quelle": "Kicker",
+    "beschr": " (k+) Hertha: Darum hält Görlich die Schlagzahl hoch &nbsp;&nbsp; Kicker ",
+    "zeit": "2026-11-15T19:05"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-15T21:01",
+  "archiv": [
+   {
+    "id": "0243113205",
+    "titel": "Messi wählt Maza: Hertha stolz auf Ex-Talent aus der Akademie",
+    "datum": "03.11.",
+    "stufe": "sonstiges",
+    "summary": "Lionel Messi hat Ex-Herthaner Ibrahim Maza bei der Kopa-Trophäe als einziger Juror auf Platz drei gesetzt. Hertha zeigt sich stolz, Maza landete in der Endabrechnung auf Rang neun."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "5ce8e91a45",
+  "schluessel": "nurnberg|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Nürnberg",
+  "klubs": [
+   "Nürnberg"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "FCK-Trainer Torsten Lieberknecht im Interview nach dem Sieg in Nürnberg",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONHNuXy1zNHlBMm5RRVVWT0IycjdsemhtSmlqNjhxTnlUUWZpQkhtYm10S0FLTzI0R2lKN1UzbHhOcXM3QUhCOWU0TWFwZkpTbkV1WlQ0Sk1OZnIxUUFJcUxMbmptSVlWQ0k4S0xJSFZoTXRKenB2MTgzajhaamoxVU9UdFBraXRTR01JYU9LQk1GeUJxbUdmeHFINmV6YXpWQ0dwTElRU0dIODA5NURVa0t2MVlFSzBJVjlocV8tNlJScWZiM1I3M1pmNDI?oc=5",
+    "aid": "33c9a98f8e",
+    "titel": "FCK-Trainer Torsten Lieberknecht im Interview nach dem Sieg in Nürnberg",
+    "quelle": "sportschau.de",
+    "beschr": " FCK-Trainer Torsten Lieberknecht im Interview nach dem Sieg in Nürnberg &nbsp;&nbsp; sportschau.de ",
+    "zeit": "2026-11-15T16:36"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-15T21:01",
+  "archiv": [
+   {
+    "id": "6bff53df7c",
+    "titel": "Darmstadt gewinnt Testspiel in Nürnberg mit 4:1",
+    "datum": "08.11.",
+    "stufe": "spielbericht",
+    "summary": "Darmstadt 98 gewinnt ein nicht öffentliches Testspiel beim 1. FC Nürnberg mit 4:1, Lakenmacher trifft doppelt. Weitere Testspiele in der Länderspielpause sind nicht geplant."
+   },
+   {
+    "id": "12b3d6a07a",
+    "titel": "Nürnberg schlägt Darmstadt dank Scobel und Bøving mit 2:0",
+    "datum": "07.11.",
+    "stufe": "spielbericht",
+    "summary": "Der 1. FC Nürnberg gewinnt am 11. Spieltag mit 2:0 gegen Darmstadt 98. Piet Scobel und William Bøving treffen nach der Pause."
+   },
+   {
+    "id": "b4e9126002",
+    "titel": "Klose nach Sieg bei St. Pauli: „Normalerweise verliert man solche Spiele“",
+    "datum": "06.11.",
+    "stufe": "spielbericht",
+    "summary": "Nürnbergs Trainer Miroslav Klose ordnet den 3:1-Sieg bei St. Pauli ein und lobt die Gemeinschaft im Team. Über einen Aufstieg als Ziel will er als Tabellenzweiter nicht sprechen."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "bb1e88f932",
+  "schluessel": "braunschweig|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Braunschweig",
+  "klubs": [
+   "Braunschweig"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "Klarer Sieg gegen Ditzinger: So sicherte sich Kumpis ihre nächste Amtszeit",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxORFpuQUthYmpWcmZtTFg1WWlPTHJCREZVQUg5cjRwQkdraktRU25LZnBFWkFSMGxZYklDSUN2SmJGZEdueTQtZnRUMU03WDl3RDJTUnRQX2ZCbnpwYzVUWEJ6T0hyODdsQmhEOFREemdIQlV0VmVfekNCTjUtbi1RNFdzckswUmRKNzhjMzVTU1h3MFBlaS02VFdObFBaTnc2LUtGWlRXOGZvUU9Qc01CZll6el9yOWFzLVFVZzJNQ2lwMTEweXhPeHVmTWUxNDN6OUtNQU5GRjRRbGtiZTFuZDlCVmRGMWZDTW50d0c1VjJudTNPSHc?oc=5",
+    "aid": "cacb2f35cd",
+    "titel": "Klarer Sieg gegen Ditzinger: So sicherte sich Kumpis ihre nächste Amtszeit",
+    "quelle": "Braunschweiger Zeitung",
+    "beschr": " Klarer Sieg gegen Ditzinger: So sicherte sich Kumpis ihre nächste Amtszeit &nbsp;&nbsp; Braunschweiger Zeitung ",
+    "zeit": "2026-11-15T20:51"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-15T21:01",
+  "archiv": [
+   {
+    "id": "133c96c002",
+    "titel": "Braunschweig verliert Test beim SC Paderborn mit 1:4",
+    "datum": "10.11.",
+    "stufe": "spielbericht",
+    "summary": "Eintracht Braunschweig hat ein Testspiel beim SC Paderborn mit 1:4 verloren. Lukas Frenkert traf nach der Pause erst ins eigene, dann ins richtige Tor."
+   },
+   {
+    "id": "326a90cf49",
+    "titel": "Cottbus holt 0:0 in Braunschweig: Kinsombi trifft den Pfosten",
+    "datum": "06.11.",
+    "stufe": "spielbericht",
+    "summary": "Energie Cottbus und Eintracht Braunschweig trennen sich am 11. Spieltag 0:0. Kinsombi traf in der 14. Minute den Pfosten, beide Teams haben nun 11 Punkte."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "ab21daefe8",
+  "schluessel": "frankfurt|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Frankfurt",
+  "klubs": [
+   "Frankfurt"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Frankfurt meldet sich zurück: Eintracht feiert Kantersieg in Leipzig",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMVhjYWR4M0hOVVZSWFY5ZEt6WE9qaVFHekxrd1lUWE1OZE82UGU0ckdQbVVIQ0sxdmRwd1I1bXd4UUZaSjQySlZVdVY3VWdudHI2M2xKeWZfRWUtN0FzVDdZbUxtZDVmWkJEdjlIWmNiYU9PVmRfZGFlNXZISFlDR2FsRV9Dd2tqU05uNnlRRm8?oc=5",
+    "aid": "e25661a0a2",
+    "titel": "Frankfurt meldet sich zurück: Eintracht feiert Kantersieg in Leipzig",
+    "quelle": "Sky.de",
+    "beschr": " Frankfurt meldet sich zurück: Eintracht feiert Kantersieg in Leipzig &nbsp;&nbsp; Sky.de ",
+    "zeit": "2026-11-15T18:43"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-15T21:01",
+  "archiv": [],
   "versuche": 1
  }
 ]
