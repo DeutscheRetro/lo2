@@ -1,34 +1,5 @@
 [
  {
-  "id": "0cdf3c8058",
-  "schluessel": "bielefeld|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Bielefeld",
-  "klubs": [
-   "Bielefeld"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Hyryläinen verschärft das Problem: FCM kritisiert Ansetzung in Bielefeld",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRjgwXzRUNVFfZDZJeWp3YzhVSjVWUFZkM1lzeEt3VWIwOUFKS18yWnA5SnM4Q3FXcEZRRlZKbG9ScDlBcldMc2ZCdlJZcHlieV9PMUpqektCNmhoWDdkLUVhNmRCTjJaNEwwVXN6amJ2cWozS0RKVTk3M0Mza29LZzZxdy1oeXhGajNLZ25PYTN0STVmT3lUYUVudmJXVTR0LXlYOFBLdUpqQ1NIV2ZoZnRR?oc=5",
-    "aid": "32b1966d92",
-    "titel": "Hyryläinen verschärft das Problem: FCM kritisiert Ansetzung in Bielefeld",
-    "quelle": "Magdeburg Blau-Weiß",
-    "beschr": " Hyryläinen verschärft das Problem: FCM kritisiert Ansetzung in Bielefeld &nbsp;&nbsp; Magdeburg Blau-Weiß ",
-    "zeit": "2026-11-16T08:48"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-16T09:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
   "id": "3cfe6902aa",
   "schluessel": "hertha|sonstiges",
   "person": "",
@@ -75,6 +46,50 @@
     "datum": "10.11.",
     "stufe": "sonstiges",
     "summary": "Herthas Jón Dagur Thorsteinsson erzählt, wie ihm die Leihe zu Brann Bergen wieder Selbstvertrauen gab. Sein Doppelpack in Dresden war sein bisher stärkster Abend im Hertha-Trikot."
+   }
+  ],
+  "versuche": 2
+ },
+ {
+  "id": "8a070ea360",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "\"Moderner Sportdirektor mit breitem Netzwerk\": Ruhr übernimmt in Hannover",
+  "quellen": [
+   {
+    "url": "https://www.kicker.de/moderner-sportdirektor-mit-breitem-netzwerk-ruhr-uebernimmt-in-hannover-1272048/artikel#omrss",
+    "aid": "554b1a6e4c",
+    "titel": "\"Moderner Sportdirektor mit breitem Netzwerk\": Ruhr übernimmt in Hannover",
+    "quelle": "kicker 2. Bundesliga News",
+    "beschr": "Nach der Entlassung von Sportvorstand Jonas Boldt und Sportdirektor Ralf Becker ist Hannover 96 auf der Suche nach einem neuen starken Mann fündig geworden: Gabor Ruhr kommt von Norwich City.",
+    "zeit": "2026-11-16T12:01"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-16T15:02",
+  "archiv": [
+   {
+    "id": "46380a1986",
+    "titel": "Wontorra stärkt Hannovers Trainer Wagner den Rücken",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Moderatorin Laura Wontorra stärkt Hannovers Trainer Sandro Wagner, der nach vier Pflichtspielen noch sieglos ist, im Podcast „TOMorrow“ den Rücken. Sie traut ihm eine große Trainerkarriere zu."
+   },
+   {
+    "id": "afa3db9641",
+    "titel": "Hannover 96 trennt sich nach fünf Monaten von Sportchef Boldt",
+    "datum": "01.11.",
+    "stufe": "sonstiges",
+    "summary": "Hannover 96 hat Sport-Geschäftsführer Jonas Boldt nach nur fünf Monaten mit sofortiger Wirkung abberufen. Der Klub steht nach neun Spieltagen mit acht Punkten auf Platz 16."
    }
   ],
   "versuche": 1

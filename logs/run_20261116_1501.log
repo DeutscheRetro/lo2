@@ -1,0 +1,173 @@
+2026-11-16 15:01:39,059 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 1 passende Treffer
+2026-11-16 15:01:39,059 INFO S7 Ersatzquelle liefert Text (120 Wörter, 1 Quellen): Kimmich nach Rückkehr: Hier am absolut richtigen Ort
+2026-11-16 15:01:39,060 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 0 passende Treffer
+2026-11-16 15:01:39,060 INFO FinalCheck SKIP: borussia mönchengladbach/{'max muster'} stage=geruecht bereits in Archiv
+2026-11-16 15:01:39,060 INFO FinalCheck SKIP: borussia mönchengladbach/set() stage=geruecht bereits in Archiv
+2026-11-16 15:01:53,084 INFO 💶 Budget: dieser Lauf 0.075 $ | heute 0.00 $ | Monat 0.12 / 8 $
+2026-11-16 15:01:53,091 INFO URL-Cache geladen: 10450 bekannte URLs (letzte 30 Tage)
+2026-11-16 15:01:53,091 INFO === LO Generator startet – max. 50 Artikel ===
+2026-11-16 15:01:53,092 INFO Feed: https://newsfeed.kicker.de/news/2-bundesliga
+2026-11-16 15:01:53,317 INFO Feed: https://www.sport.de/rss/news/
+2026-11-16 15:01:53,709 INFO Feed: https://www.11freunde.de/feed
+2026-11-16 15:01:54,847 WARNING Spielerliste nicht verfügbar: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-16 15:01:54,847 INFO BL-Spielerliste geladen: 0 Namen
+2026-11-16 15:01:54,847 INFO S3 keyword miss: Deutsche Nationalmannschaft: Stimmt ab über das schönste Adi
+2026-11-16 15:01:54,849 INFO S3 keyword miss: DFB-Elf gegen die Niederlande: Folgt der nächste Sieg im „En
+2026-11-16 15:01:54,850 INFO S3 keyword miss: Traumtor in den Niederlanden: Einfach mal hochgehalten
+2026-11-16 15:01:54,851 INFO S3 keyword miss: Statt Thomas Berthold: Welche Fußballer in die Politik gehör
+2026-11-16 15:01:54,851 INFO Feed: https://news.google.com/rss/search?q=%222.+Bundesliga%22&hl=de&gl=DE&ceid=DE:de
+2026-11-16 15:01:55,495 INFO S2 blacklist: 2. Bundesliga: TV-Expertin übernimmt Job bei Zweitligist
+2026-11-16 15:01:55,497 INFO S3 keyword miss: Ruhr wird neuer 96-Sportdirektor
+2026-11-16 15:01:55,500 INFO S2 blacklist: Wo läuft 1. FC Kaiserslautern vs. Dynamo Dresden live?
+2026-11-16 15:01:55,500 INFO S2 blacklist: 12. Spieltag: SV Darmstadt 98 - 1.FC Heidenheim 1846 - SV Da
+2026-11-16 15:01:55,503 INFO S3 keyword miss: Unter Uns Bad Neustadt feiert in der 2. Bundesliga mit promi
+2026-11-16 15:01:55,504 INFO S2 blacklist: So sehen Sie Arminia Bielefeld gegen 1. FC Magdeburg im Live
+2026-11-16 15:01:55,504 INFO S2 blacklist: Hier läuft St. Pauli gegen Bochum im Free-TV und Stream
+2026-11-16 15:01:55,504 INFO S2 kein BL-Klub im Titel: Gladbach-Boss mit Klartext zum mauen Saisonstart von Itakura
+2026-11-16 15:01:55,505 INFO S2 kein BL-Klub im Titel: Schon neun Muskelverletzungen: Gladbach-Boss nennt kuriose G
+2026-11-16 15:01:55,506 INFO S2 blacklist: Trainerentlassung in der Bundesliga bahnt sich an
+2026-11-16 15:01:55,507 INFO S2 blacklist: SC Paderborn live im TV und Stream: Hier läuft das Bundeslig
+2026-11-16 15:01:55,508 INFO S2 kein BL-Klub im Titel: Auch Bayern und Dortmund wollten ihn: Der irre Aufstieg von 
+2026-11-16 15:01:55,508 INFO S2 kein BL-Klub im Titel: Hier läuft Werder Bremen vs. HSV live
+2026-11-16 15:01:55,509 INFO S2 kein BL-Klub im Titel: Schon 09 Scorer: BVB beobachtet Dänen-Allrounder
+2026-11-16 15:01:55,509 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Verletzung+Ausfall+gesperrt&hl=de&gl=DE&ceid=DE:de
+2026-11-16 15:01:55,754 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Transfer+Wechsel+verpflichtet&hl=de&gl=DE&ceid=DE:de
+2026-11-16 15:01:56,037 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Ger%C3%BCcht+Interesse+Angebot&hl=de&gl=DE&ceid=DE:de
+2026-11-16 15:01:56,340 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Vertrag+verl%C3%A4ngert+abl%C3%B6sefrei&hl=de&gl=DE&ceid=DE:de
+2026-11-16 15:01:56,713 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Trainer+Entlassung&hl=de&gl=DE&ceid=DE:de
+2026-11-16 15:01:57,029 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Heidenheim%22+OR+Heidenheim+FCH+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-16 15:01:57,211 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Kaiserslautern%22+OR+%22FCK%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-16 15:01:57,499 INFO S3 keyword miss: Sponsor, Aufsichtsrat, Investor: Der FCK trauert um Dieter B
+2026-11-16 15:01:57,501 INFO S3 keyword miss: Gewalt im Fußball: Diese Zahlen legt die Polizei für Rheinla
+2026-11-16 15:01:57,502 INFO S3 keyword miss: FCK-​Boxtalent in­ter­na­tio­nal er­folg­reich
+2026-11-16 15:01:57,504 INFO S3 keyword miss: FCK-Spieler bei Nationalteams im Einsatz – Skyttä angeschlag
+2026-11-16 15:01:57,505 INFO S3 keyword miss: 12. Spieltag: FCK-SGD | Sonntag, 13:30 Uhr: Voller Einsatz s
+2026-11-16 15:01:57,506 INFO S3 keyword miss: Finanzen 2025/26: FCK e.V. setzt Konsolidierungskurs fort - 
+2026-11-16 15:01:57,507 INFO S3 keyword miss: FCK Wien - FavAC 1b
+2026-11-16 15:01:57,507 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Magdeburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-16 15:01:57,790 INFO S2 kein BL-Klub im Titel: 1. FC Saarbrücken: Liebeserklärung von Stürmer Kai Brünker
+2026-11-16 15:01:57,791 INFO S3 keyword miss: Ratingen 04/19: Rot-Weiss zwei Nummern zu groß - Apfeld best
+2026-11-16 15:01:57,793 INFO S3 keyword miss: Handball-Star Claar feiert Jubiläum: 100 Spiele und bald wie
+2026-11-16 15:01:57,795 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+N%C3%BCrnberg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-16 15:01:58,046 INFO Feed: https://news.google.com/rss/search?q=%22Arminia+Bielefeld%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-16 15:01:58,343 INFO S3 keyword miss: Noch mehr Bilder vom Spieltag Torreiche Spiele, aber keine P
+2026-11-16 15:01:58,345 INFO Feed: https://news.google.com/rss/search?q=%22Dynamo+Dresden%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-16 15:01:58,639 INFO Feed: https://news.google.com/rss/search?q=%22Eintracht+Braunschweig%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-16 15:01:58,857 INFO Feed: https://news.google.com/rss/search?q=%22Energie+Cottbus%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-16 15:01:59,121 INFO S3 keyword miss: Rolf Dohmen
+2026-11-16 15:01:59,122 INFO S3 keyword miss: „Sind alles Lügen“ – mit diesen Aussagen irritierte Thomas B
+2026-11-16 15:01:59,124 INFO Feed: https://news.google.com/rss/search?q=%22FC+St.+Pauli%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-16 15:01:59,449 INFO S2 blacklist: Niederlage auf St. Pauli: U15 lässt zu viele Chancen aus
+2026-11-16 15:01:59,452 INFO S2 kein BL-Klub im Titel: „Maximal overrated!“ Werder-Profi stichelt vor dem Derby geg
+2026-11-16 15:01:59,452 INFO Feed: https://news.google.com/rss/search?q=%22Hannover+96%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-16 15:01:59,720 INFO S3 keyword miss: Boldt-​Nachfolge ge­klärt: Han­no­ver 96 holt neuen Sport­ch
+2026-11-16 15:01:59,724 INFO S3 keyword miss: „Hohe Wissensqualität, große Klarheit“: Das sagt Martin Kind
+2026-11-16 15:01:59,725 INFO Feed: https://news.google.com/rss/search?q=%22Hertha+BSC%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-16 15:02:00,035 INFO S2 blacklist: Spielschema | SGS Essen - Hertha BSC 1:0 | 12. Spieltag | 2.
+2026-11-16 15:02:00,036 INFO S2 Liveticker übersprungen: Hertha BSC gegen Hannover 96 Liveticker - 2. Bundesliga 31. 
+2026-11-16 15:02:00,036 INFO Feed: https://news.google.com/rss/search?q=%22Holstein+Kiel%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-16 15:02:00,292 INFO Feed: https://news.google.com/rss/search?q=%22Karlsruher+SC%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-16 15:02:00,554 INFO Feed: https://news.google.com/rss/search?q=%22Greuther+F%C3%BCrth%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-16 15:02:00,866 INFO S2 blacklist: Nächster Coup: Deggendorfer Regionalliga-Team siegt beim "Kl
+2026-11-16 15:02:00,868 INFO S3 keyword miss: Studenten mit Straßenumfrage: So will 1860 die Giesinger in 
+2026-11-16 15:02:00,869 INFO S3 keyword miss: "Entwicklungsjahr" mit Problemen und Fragezeichen: Haching h
+2026-11-16 15:02:00,869 INFO Feed: https://news.google.com/rss/search?q=%22Darmstadt+98%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-16 15:02:01,135 INFO S3 keyword miss: Kein Tor, kein Punkt: Nordhessens erleben bitteren Spieltag
+2026-11-16 15:02:01,136 INFO S2 kein BL-Klub im Titel: Eintracht Frankfurt startet Pokal-Vorverkauf gegen Dortmund
+2026-11-16 15:02:01,136 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Bochum%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-16 15:02:01,418 INFO S2 kein BL-Klub im Titel: SC Verl: Trainer Shala befürchtet lange Pause für Mika Claus
+2026-11-16 15:02:01,418 INFO S2 kein BL-Klub im Titel: Gladbach würde Stöger wohl ziehen lassen – auch wegen dieser
+2026-11-16 15:02:01,420 INFO S3 keyword miss: 3. Liga: Trainer verlängert, Klub macht sechsstelliges Minus
+2026-11-16 15:02:01,422 INFO S3 keyword miss: Über 60 Fotos: Vintage-Trikots - dafür zahlen Fans von RWE, 
+2026-11-16 15:02:01,422 INFO S2 blacklist: RTL Sport live: Wann läuft Fußball im Free-TV auf RTL?
+2026-11-16 15:02:01,422 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Osnabr%C3%BCck%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-16 15:02:01,653 INFO S2 blacklist: Zwei Medaillen für den Traum von Los Angeles: Berendes nimmt
+2026-11-16 15:02:01,655 INFO S3 keyword miss: POL-ME: Zusammenstoß im Kreuzungsbereich - 2611066
+2026-11-16 15:02:01,656 INFO S3 keyword miss: Tanzshows in der Schlosswallhalle: viel Akrobatik in ihren b
+2026-11-16 15:02:01,657 INFO S3 keyword miss: Nach 17 Jahren und 24 Titeln: Rekordmeister wechselt Trainer
+2026-11-16 15:02:01,659 INFO S3 keyword miss: Bericht: Frankreichs Verbandschef Diallo als FIFA-Kandidat
+2026-11-16 15:02:01,659 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Wolfsburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-16 15:02:01,923 INFO S3 keyword miss: Es fehlt nur noch eine Partie: Diesen spektakulären Pep-Reko
+2026-11-16 15:02:01,926 INFO Feed: https://newsfeed.kicker.de/team/1-fc-heidenheim
+2026-11-16 15:02:02,122 INFO Feed: https://newsfeed.kicker.de/team/1-fc-nuernberg
+2026-11-16 15:02:02,319 INFO Feed: https://newsfeed.kicker.de/team/arminia-bielefeld
+2026-11-16 15:02:02,515 INFO Feed: https://newsfeed.kicker.de/team/dynamo-dresden
+2026-11-16 15:02:02,713 INFO Feed: https://newsfeed.kicker.de/team/eintracht-braunschweig
+2026-11-16 15:02:02,909 INFO Feed: https://newsfeed.kicker.de/team/fc-st-pauli
+2026-11-16 15:02:03,104 INFO S3 keyword miss: UEC reicht Beschwerde gegen UEFA und EFC ein
+2026-11-16 15:02:03,104 INFO Feed: https://newsfeed.kicker.de/team/hannover-96
+2026-11-16 15:02:03,295 INFO Feed: https://newsfeed.kicker.de/team/hertha-bsc
+2026-11-16 15:02:03,486 INFO Feed: https://newsfeed.kicker.de/team/holstein-kiel
+2026-11-16 15:02:03,686 INFO Feed: https://newsfeed.kicker.de/team/vfl-bochum
+2026-11-16 15:02:03,878 INFO Feed: https://newsfeed.kicker.de/team/vfl-osnabrueck
+2026-11-16 15:02:04,070 INFO Eingelesen: 46 Schlagzeilen nach den Gratis-Filtern
+2026-11-16 15:02:04,101 INFO S5 Randthema: Jahreshauptversammlung: 1. FC Kaiserslautern fährt 2025/26 fast acht M
+2026-11-16 15:02:04,101 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: Dynamo-Leihgabe Okpala gibt Fehler offen zu, doch nur eine Sache ist i
+2026-11-16 15:02:04,101 INFO S5 Randthema: 1. FC Nürnberg: Das sind die wichtigsten Themen der Jahreshauptversamm
+2026-11-16 15:02:04,101 INFO S5 Randthema: Das sind Arminias wichtigsten Termine 2027/2028 – DFB veröffentlicht R
+2026-11-16 15:02:04,101 INFO S5 Sammelartikel: Bielefeld kompakt: Erdfälle im Teuto, falsche Polizisten bedrohen Seni
+2026-11-16 15:02:04,102 INFO S5 Randthema: Schnell ausverkauft: Cottbus plant Ticket-Evolution
+2026-11-16 15:02:04,103 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: Horster Fußballerinnen verlieren 2 : 3 gegen Rot-Schwarz Kiel II
+2026-11-16 15:02:04,103 INFO S5 Fan-Wahl/Nachwuchs: (k+) Näher ran an Kaiserslautern und Co: So ändert Waldhof seine Jugen
+2026-11-16 15:02:04,104 INFO S5: 38 neue Geschichten, 0 schon berichtet, 0 zu wartenden Geschichten ergänzt, 2 warten
+2026-11-16 15:04:08,219 INFO S6 aussortiert (doppelt): Hannover 96 macht Norwichs Ruhr zum Sportdirektor: „Enge Vernetzung mi
+2026-11-16 15:04:08,220 INFO S6 aussortiert (prio_0): Energie Cottbus 2. Liga: Taubenkot, Bier und Parkplätze - das bewegt d
+2026-11-16 15:04:08,220 INFO S6 aussortiert (doppelt): 2. Fußball-Bundesliga - Boldt-Nachfolge geklärt: Hannover 96 holt neue
+2026-11-16 15:04:08,220 INFO S6 aussortiert (doppelt): Offiziell: Hannover 96 präsentiert neuen Sportdirektor
+2026-11-16 15:04:08,220 INFO S6 aussortiert (doppelt): Suche nach Sportdirektor beendet: Wer Hannovers neuer starker Mann ist
+2026-11-16 15:04:08,220 INFO S6 aussortiert (doppelt): Hannover wird zum Ruhr-Gebiet: 96 stellt neuen Sportdirektor vor
+2026-11-16 15:04:08,220 INFO S6 aussortiert (doppelt): Nach dem Boldt-Aus: Hannover 96 überrascht mit einem Neuzugang aus Eng
+2026-11-16 15:04:08,220 INFO S6 aussortiert (doppelt): Hannover 96 verkündet Personal-Entscheidung
+2026-11-16 15:04:08,220 INFO S6 aussortiert (prio_1): Hüpfverbot in der Ostkurve: Stadt Bochum gibt Update zur Ruhrstadion-S
+2026-11-16 15:04:08,220 INFO S6 aussortiert (doppelt): Millionen-Wende! Eintracht Braunschweig überrascht mit Finanz-Hammer
+2026-11-16 15:04:08,220 INFO S6 aussortiert (prio_0): Handball in Frankfurt (Oder): FHC besiegt Vechta, 560 Zuschauer erlebe
+2026-11-16 15:04:08,221 INFO S6 aussortiert (doppelt): Vor Brisanz-Duell Cottbus gegen Hertha: Irre Klausel um diesen Leihspi
+2026-11-16 15:04:08,221 INFO S6 aussortiert (prio_1): Neuer Aufsichtsrat, Rekord-Gewinne: Wer entscheidet bei St. Pauli über
+2026-11-16 15:04:08,221 INFO S6 aussortiert (doppelt): Nach dem Kahlschlag: Hannover setzt auf diesen England-Scout
+2026-11-16 15:04:08,221 INFO S6 aussortiert (doppelt): Offiziell: Norwich-Chefscout übernimmt Hannovers sportliche Führung
+2026-11-16 15:04:08,221 INFO S6 aussortiert (doppelt): Hannover 96: Große Chance, großes Risiko! BILD-Kommentar zum neuen 96-
+2026-11-16 15:04:08,221 INFO S6 aussortiert (doppelt): Boldt-Nachfolge fix: Hannover holt neuen Sportchef
+2026-11-16 15:04:08,221 INFO S6 aussortiert (doppelt): Hannover 96 beendet die Suche und setzt auf Garbor Ruhr als Sportchef
+2026-11-16 15:04:08,221 INFO S6 aussortiert (doppelt): Hannover 96 findet neuen Sportdirektor
+2026-11-16 15:04:08,221 INFO S6 aussortiert (doppelt): Nachfolge geklärt: Hannover 96 verpflichtet neuen Sportchef
+2026-11-16 15:04:08,221 INFO S6 aussortiert (doppelt): Norwich City gibt grünes Licht: Gabor Ruhr wird neuer Sportdirektor vo
+2026-11-16 15:04:08,221 INFO S6 aussortiert (doppelt): Hannover 96 findet Sportdirektor, doch wer ist der neue Mann eigentlic
+2026-11-16 15:04:08,221 INFO S6 aussortiert (prio_1): Für die Farben, die wir tragen
+2026-11-16 15:04:08,221 INFO S6 aussortiert (prio_0): Neuer Zweitliga-Rekord winkt: So schafft Hertha die Aufstiegs-Bestmark
+2026-11-16 15:04:08,222 INFO S6 aussortiert (prio_1): Immer Hertha - MV ohne Radau
+2026-11-16 15:04:08,222 INFO S6 aussortiert (prio_1): 125 JAHRE FCK | 1. FC KAISERSLAUTERN Vs. HERTHA BSC | CHOREO Bonnie Ty
+2026-11-16 15:04:08,222 INFO S6 aussortiert (prio_0): SV Darmstadt 98 - 1. FC Heidenheim 1846 Wett Tipp & Quoten 20.11.2026
+2026-11-16 15:04:08,222 INFO S6 aussortiert (prio_0): SV Darmstadt 98: U21 im Hessenliga-Duell mit Baunatal
+2026-11-16 15:04:08,222 INFO S6 aussortiert (prio_1): OPENING - 👿 1. FC KAISERSLAUTERN Vs. SV DARMSTADT 98 ⚜️ | Palzlied & C
+2026-11-16 15:04:08,222 INFO S6 aussortiert (prio_0): Steinwender, CR7 und ein Flop: Das große Transferzeugnis beim VfL Boch
+2026-11-16 15:04:08,222 INFO S6 aussortiert (prio_0): Die Topthemen aus dem Amateurfußball in Gifhorn und Wolfsburg: Nachspi
+2026-11-16 15:04:08,222 INFO S6 aussortiert (prio_1): Bochum zieht Sanierung der Osttribüne nicht vor
+2026-11-16 15:04:08,222 INFO S6 aussortiert (prio_0): Trägerartikel für 5in5 Wolfsburg am 16.11.2026
+2026-11-16 15:04:08,222 INFO S6 aussortiert (prio_0): Fußball News heute am 15.11.2026: Bayern-Dominanz und Frankfurter Kant
+2026-11-16 15:04:08,424 INFO S7 Ersatzquellen für ""Moderner Sportdirektor mit breitem Netzwerk": Ruh": 0 passende Treffer
+2026-11-16 15:04:08,424 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): "Moderner Sportdirektor mit breitem Netzwerk": Ruhr übernimm
+2026-11-16 15:04:11,274 INFO S7 schreiben (Prio 2, 1 Quellen): Hertha BSC: Wollitz traut dem Klub den neuen Zweitliga-Punkt
+2026-11-16 15:04:22,379 INFO   Kandidat: Wollitz traut Hertha vor Duell in Cottbus den Punkterekord z
+2026-11-16 15:04:25,987 INFO S7 schreiben (Prio 2, 1 Quellen): Alexander Blessin: „Das ließ sich nicht auf St. Pauli übertr
+2026-11-16 15:04:30,457 INFO S7 verworfen (nicht_relevant): Alexander Blessin: „Das ließ sich nicht auf St. Pauli übertr
+2026-11-16 15:04:30,708 INFO S7 kein Volltext (too_short_15_words): Hertha BSC: Deyovaisio Zeefuik: die Maschine trifft jetzt au
+2026-11-16 15:04:30,937 INFO S7 Ersatzquellen für "Hertha BSC: Deyovaisio Zeefuik: die Maschine triff": 0 passende Treffer
+2026-11-16 15:04:30,937 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Hertha BSC: Deyovaisio Zeefuik: die Maschine trifft jetzt au
+2026-11-16 15:04:31,802 INFO S7 kein Volltext (seite_zu_alt): Hyryläinen verschärft das Problem: FCM kritisiert Ansetzung 
+2026-11-16 15:04:31,991 INFO S7 Ersatzquellen für "Hyryläinen verschärft das Problem: FCM kritisiert ": 0 passende Treffer
+2026-11-16 15:04:31,991 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Hyryläinen verschärft das Problem: FCM kritisiert Ansetzung 
+2026-11-16 15:04:33,308 WARNING discarding data: None
+2026-11-16 15:04:33,310 INFO S7 kein Volltext (trafilatura_returned_empty): Wanitzek trifft und serviert: KSC gewinnt Test gegen Aspach
+2026-11-16 15:04:33,526 INFO S7 Ersatzquellen für "Wanitzek trifft und serviert: KSC gewinnt Test geg": 2 passende Treffer
+2026-11-16 15:04:36,574 INFO S7 kein Volltext (too_short_28_words): Wanitzek trifft und serviert: KSC gewinnt Test gegen Aspach
+2026-11-16 15:04:36,574 INFO S7 Ersatzquelle liefert Text (164 Wörter, 1 Quellen): Wanitzek trifft und serviert: KSC gewinnt Test gegen Aspach
+2026-11-16 15:04:39,075 INFO S6.5 schon berichtet (Wanitzek trifft und legt auf: KSC gewinnt Tes): Wanitzek trifft und serviert: KSC gewinnt Test gegen Aspach
+2026-11-16 15:04:39,076 INFO S9.5 FinalCheck: 1/1 durch
+2026-11-16 15:04:39,728 INFO Veröffentlicht: Wollitz traut Hertha vor Duell in Cottbus den Punkterekord z
+2026-11-16 15:04:39,731 WARNING Sitemap ohne Spielerseiten: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-16 15:04:39,733 INFO 💶 Kosten: dieser Lauf 0.000 $ (Budget 0.075 $) | heute 0.00 $ | Monat 0.12 / 8 $ | konferenz (abo) 1× 0.000 $, dublette (abo) 3× 0.000 $, schreiben (abo) 2× 0.000 $
+2026-11-16 15:04:39,733 INFO 🎫 Abo-Verbrauch: 20,552 Tokens rein (davon Cache gelesen 1,394), 12,991 raus, API-Gegenwert 0.14 $ | konferenz 1×: 3,935/10,797, dublette 3×: 3,235/9, schreiben 2×: 13,382/2,185
+2026-11-16 15:04:39,740 INFO Feeds: 38/38 begonnen, nächster Lauf startet bei Nr. 0
+2026-11-16 15:04:39,740 INFO URL-Cache gespeichert: 10558 URLs
+2026-11-16 15:04:39,740 INFO === Fertig. 1 neue Artikel. feed.json: 135 ===
+2026-11-16 15:04:39,740 INFO Stats: {"ts": "20261116_1501", "ingested": 108, "s2_pre_filter": 30, "s3_relevance": 31, "s4_dedup_early": 0, "gesammelt": 46, "geschichten_neu": 38, "s5_archiv_doppelt": 0, "s5_zusammengefuehrt": 0, "s6_aussortiert": 34, "s7_geschrieben": 2, "s7_verworfen": 2, "s5_fulltext_fail": 3, "s8_qa_rejected": 0, "published": 1, "s5_randthema": 6, "s5_ohne_bezug": 2, "kosten": {"lauf_usd": 0.0, "lauf_budget_usd": 0.075, "heute_usd": 0.0, "monat_usd": 0.1238, "monatsbudget_usd": 8.0, "aufrufe": {"konferenz (abo)": {"anzahl": 1, "usd": 0.0}, "dublette (abo)": {"anzahl": 3, "usd": 0.0}, "schreiben (abo)": {"anzahl": 2, "usd": 0.0}}, "guthaben_leer": false, "abo": true, "abo_tokens": {"konferenz": {"aufrufe": 1, "ein": 3935, "cache_schreiben": 0, "cache_lesen": 0, "aus": 10797, "api_wert_usd": 0.0579}, "dublette": {"aufrufe": 3, "ein": 6, "cache_schreiben": 3229, "cache_lesen": 0, "aus": 9, "api_wert_usd": 0.013}, "schreiben": {"aufrufe": 2, "ein": 4, "cache_schreiben": 11984, "cache_lesen": 1394, "aus": 2185, "api_wert_usd": 0.07}}}}

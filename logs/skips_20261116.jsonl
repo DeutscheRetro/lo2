@@ -207,3 +207,109 @@
 {"ts": "2026-11-16T12:02:53.066053", "id": "0d51e08dcc", "title": "\"Systemausfall\" und \"bodenlos\": Entsetzen bei Fürth nach 0:3", "stage": "stage7", "reason": "zu_wenig_quelltext"}
 {"ts": "2026-11-16T12:02:55.302189", "id": "f70bf7d277", "title": "Test-Kick gelungen! KSC schickt Großaspach mit feinem Füßchen nach Hause", "stage": "stage7", "reason": "zu_wenig_quelltext"}
 {"ts": "2026-11-16T12:02:57.579146", "id": "66a359d81c", "title": "FC St. Pauli holt Falken vom VfL Oldenburg wieder auf Boden", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-16T15:01:54.847835", "id": "2a02c8a277", "title": "Deutsche Nationalmannschaft: Stimmt ab über das schönste Adidas-Trikot der DFB-G", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-16T15:01:54.849130", "id": "2f8c9af0cf", "title": "DFB-Elf gegen die Niederlande: Folgt der nächste Sieg im „Endspiel“?", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-16T15:01:54.850305", "id": "95c9619c98", "title": "Traumtor in den Niederlanden: Einfach mal hochgehalten", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-16T15:01:54.851410", "id": "a4c2c077b2", "title": "Statt Thomas Berthold: Welche Fußballer in die Politik gehören – Take a Jens on ", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-16T15:01:55.496066", "id": "a9d3ab057a", "title": "2. Bundesliga: TV-Expertin übernimmt Job bei Zweitligist", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-16T15:01:55.496324", "id": "1b2ad7931c", "title": "\"Moderner Sportdirektor mit breitem Netzwerk\": Ruhr übernimmt in Hannover", "stage": "stage2", "reason": "batch_title_dup_100pct"}
+{"ts": "2026-11-16T15:01:55.497495", "id": "23bd66e4d0", "title": "Ruhr wird neuer 96-Sportdirektor", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-16T15:01:55.500451", "id": "9082d09feb", "title": "Wo läuft 1. FC Kaiserslautern vs. Dynamo Dresden live?", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-16T15:01:55.500724", "id": "4a5ea6a740", "title": "12. Spieltag: SV Darmstadt 98 - 1.FC Heidenheim 1846 - SV Darmstadt 98 - Forum |", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-16T15:01:55.503247", "id": "0cca0790cc", "title": "Unter Uns Bad Neustadt feiert in der 2. Bundesliga mit prominenter Unterstützung", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-16T15:01:55.504205", "id": "1d00a48c0f", "title": "So sehen Sie Arminia Bielefeld gegen 1. FC Magdeburg im Livestream", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-16T15:01:55.504434", "id": "8463cf08f6", "title": "Hier läuft St. Pauli gegen Bochum im Free-TV und Stream", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-16T15:01:55.504821", "id": "82bde6d60b", "title": "Gladbach-Boss mit Klartext zum mauen Saisonstart von Itakura", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-16T15:01:55.505227", "id": "7aa40242e7", "title": "Schon neun Muskelverletzungen: Gladbach-Boss nennt kuriose Gründe für die Misere", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-16T15:01:55.505436", "id": "feab9e0106", "title": "2. Fußball-Bundesliga: Boldt-Nachfolge geklärt: Hannover 96 holt neuen Sportchef", "stage": "stage2", "reason": "batch_title_dup_89pct"}
+{"ts": "2026-11-16T15:01:55.505554", "id": "d4811f11f9", "title": "2. Fußball-Bundesliga: Boldt-Nachfolge geklärt: Hannover 96 holt neuen Sportchef", "stage": "stage2", "reason": "batch_title_dup_89pct"}
+{"ts": "2026-11-16T15:01:55.506429", "id": "5962f60bef", "title": "Trainerentlassung in der Bundesliga bahnt sich an", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-16T15:01:55.507306", "id": "e23945dbc5", "title": "SC Paderborn live im TV und Stream: Hier läuft das Bundesliga-Spiel gegen Bayer ", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-16T15:01:55.508453", "id": "2937f21162", "title": "Auch Bayern und Dortmund wollten ihn: Der irre Aufstieg von HSV-Juwel Lemke (17)", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-16T15:01:55.508807", "id": "5f93bda35c", "title": "Hier läuft Werder Bremen vs. HSV live", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-16T15:01:55.509151", "id": "b6210d874a", "title": "Schon 09 Scorer: BVB beobachtet Dänen-Allrounder", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-16T15:01:57.499590", "id": "82e5ffadb5", "title": "Sponsor, Aufsichtsrat, Investor: Der FCK trauert um Dieter Buchholz", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-16T15:01:57.501174", "id": "49ba8ab9bf", "title": "Gewalt im Fußball: Diese Zahlen legt die Polizei für Rheinland-Pfalz vor", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-16T15:01:57.502525", "id": "f933fb395d", "title": "FCK-​Boxtalent in­ter­na­tio­nal er­folg­reich", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-16T15:01:57.504070", "id": "cafb0a1c2e", "title": "FCK-Spieler bei Nationalteams im Einsatz – Skyttä angeschlagen ausgewechselt", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-16T15:01:57.505447", "id": "b4d794d4d4", "title": "12. Spieltag: FCK-SGD | Sonntag, 13:30 Uhr: Voller Einsatz statt Pflichtsieg-Den", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-16T15:01:57.506857", "id": "66aa18e0d4", "title": "Finanzen 2025/26: FCK e.V. setzt Konsolidierungskurs fort - Dickes Minus bei den", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-16T15:01:57.507861", "id": "dc4d0878a3", "title": "FCK Wien - FavAC 1b", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-16T15:01:57.790335", "id": "1e4e31478c", "title": "1. FC Saarbrücken: Liebeserklärung von Stürmer Kai Brünker", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-16T15:01:57.791859", "id": "813203500d", "title": "Ratingen 04/19: Rot-Weiss zwei Nummern zu groß - Apfeld bestaunt RWE-Entwicklung", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-16T15:01:57.793298", "id": "fa160dbdaa", "title": "Handball-Star Claar feiert Jubiläum: 100 Spiele und bald wieder Meister?", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-16T15:01:58.343221", "id": "b7a7d9c351", "title": "Noch mehr Bilder vom Spieltag Torreiche Spiele, aber keine Punkte für Flaesheim ", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-16T15:01:58.639408", "id": "1c90966de6", "title": "Dynamo-Leihgabe Okpala gibt Fehler offen zu, doch nur eine Sache ist ihm wichtig", "stage": "stage2", "reason": "batch_title_dup_100pct"}
+{"ts": "2026-11-16T15:01:59.121228", "id": "d5c2d649d4", "title": "Rolf Dohmen", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-16T15:01:59.122956", "id": "c67dbbd778", "title": "„Sind alles Lügen“ – mit diesen Aussagen irritierte Thomas Berthold", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-16T15:01:59.449892", "id": "9b06ba1b48", "title": "Niederlage auf St. Pauli: U15 lässt zu viele Chancen aus", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-16T15:01:59.452636", "id": "84a343a287", "title": "„Maximal overrated!“ Werder-Profi stichelt vor dem Derby gegen den HSV", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-16T15:01:59.718975", "id": "ba8d782f01", "title": "2. Fußball-Bundesliga: Boldt-Nachfolge geklärt: Hannover 96 holt neuen Sportchef", "stage": "stage2", "reason": "batch_title_dup_89pct"}
+{"ts": "2026-11-16T15:01:59.720604", "id": "61ed81d717", "title": "Boldt-​Nachfolge ge­klärt: Han­no­ver 96 holt neuen Sport­chef", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-16T15:01:59.720823", "id": "22750bfa4c", "title": "Boldt-Nachfolge geklärt: Hannover 96 holt neuen Sportchef", "stage": "stage2", "reason": "batch_title_dup_90pct"}
+{"ts": "2026-11-16T15:01:59.724473", "id": "34b608ea1d", "title": "„Hohe Wissensqualität, große Klarheit“: Das sagt Martin Kind über den neuen Spor", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-16T15:01:59.724693", "id": "703c66964d", "title": "Norwich City gibt Grünes Licht: Gabor Ruhr (37) neuer Sportdirektor von Hannover", "stage": "stage2", "reason": "batch_title_dup_94pct"}
+{"ts": "2026-11-16T15:01:59.724818", "id": "4933ea0fe5", "title": "Hannover 96 macht Norwichs Ruhr zum Sportdirektor: „Enge Vernetzung mit Wagner“", "stage": "stage2", "reason": "batch_title_dup_100pct"}
+{"ts": "2026-11-16T15:02:00.036006", "id": "7bed965849", "title": "Spielschema | SGS Essen - Hertha BSC 1:0 | 12. Spieltag | 2. Frauen-Bundesliga 2", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-16T15:02:00.866496", "id": "f7b4eac6a4", "title": "Nächster Coup: Deggendorfer Regionalliga-Team siegt beim \"Kleeblatt\"", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-16T15:02:00.868150", "id": "b95c67f7b5", "title": "Studenten mit Straßenumfrage: So will 1860 die Giesinger in ihren Stadion-Plan e", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-16T15:02:00.869703", "id": "d217ebcc60", "title": "\"Entwicklungsjahr\" mit Problemen und Fragezeichen: Haching hält sich den Aufstie", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-16T15:02:01.135393", "id": "f47f338c04", "title": "Kein Tor, kein Punkt: Nordhessens erleben bitteren Spieltag", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-16T15:02:01.136808", "id": "9dbc05ec91", "title": "Eintracht Frankfurt startet Pokal-Vorverkauf gegen Dortmund", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-16T15:02:01.418202", "id": "6a7d929099", "title": "SC Verl: Trainer Shala befürchtet lange Pause für Mika Clausen", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-16T15:02:01.418790", "id": "63d44b85ce", "title": "Gladbach würde Stöger wohl ziehen lassen – auch wegen dieser Klausel", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-16T15:02:01.420474", "id": "df2cb04427", "title": "3. Liga: Trainer verlängert, Klub macht sechsstelliges Minus, Ziel Top 30 in Deu", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-16T15:02:01.422074", "id": "22d5f4b2dd", "title": "Über 60 Fotos: Vintage-Trikots - dafür zahlen Fans von RWE, Schalke und VfL viel", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-16T15:02:01.422434", "id": "eae84bea14", "title": "RTL Sport live: Wann läuft Fußball im Free-TV auf RTL?", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-16T15:02:01.653822", "id": "6199febef3", "title": "Zwei Medaillen für den Traum von Los Angeles: Berendes nimmt Olympia 2028 ins Vi", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-16T15:02:01.655095", "id": "f057ae22b6", "title": "POL-ME: Zusammenstoß im Kreuzungsbereich - 2611066", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-16T15:02:01.656659", "id": "7a14243bb5", "title": "Tanzshows in der Schlosswallhalle: viel Akrobatik in ihren besten Bildern", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-16T15:02:01.658035", "id": "10a44cb2d3", "title": "Nach 17 Jahren und 24 Titeln: Rekordmeister wechselt Trainer", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-16T15:02:01.659380", "id": "1f626cad12", "title": "Bericht: Frankreichs Verbandschef Diallo als FIFA-Kandidat", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-16T15:02:01.923779", "id": "6c2939f836", "title": "Es fehlt nur noch eine Partie: Diesen spektakulären Pep-Rekord können Gwinn und ", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-16T15:02:03.104152", "id": "8b6aeb1501", "title": "UEC reicht Beschwerde gegen UEFA und EFC ein", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-16T15:02:04.101145", "id": "937a821e03", "title": "Jahreshauptversammlung: 1. FC Kaiserslautern fährt 2025/26 fast acht Millionen E", "stage": "stage5", "reason": "randthema"}
+{"ts": "2026-11-16T15:02:04.101441", "id": "f3e921df1d", "title": "Dynamo-Leihgabe Okpala gibt Fehler offen zu, doch nur eine Sache ist ihm wichtig", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-16T15:02:04.101575", "id": "cba6288b99", "title": "1. FC Nürnberg: Das sind die wichtigsten Themen der Jahreshauptversammlung", "stage": "stage5", "reason": "randthema"}
+{"ts": "2026-11-16T15:02:04.101687", "id": "4372c14a2c", "title": "Das sind Arminias wichtigsten Termine 2027/2028 – DFB veröffentlicht Rahmentermi", "stage": "stage5", "reason": "randthema"}
+{"ts": "2026-11-16T15:02:04.101836", "id": "ebaa0207d9", "title": "Bielefeld kompakt: Erdfälle im Teuto, falsche Polizisten bedrohen Senioren, IHK ", "stage": "stage5", "reason": "sammelartikel"}
+{"ts": "2026-11-16T15:02:04.102027", "id": "e0bb01e123", "title": "Schnell ausverkauft: Cottbus plant Ticket-Evolution", "stage": "stage5", "reason": "randthema"}
+{"ts": "2026-11-16T15:02:04.103320", "id": "a35da004fb", "title": "Horster Fußballerinnen verlieren 2 : 3 gegen Rot-Schwarz Kiel II", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-16T15:02:04.103749", "id": "bb80bedcb0", "title": "(k+) Näher ran an Kaiserslautern und Co: So ändert Waldhof seine Jugendarbeit", "stage": "stage5", "reason": "nicht_fuer_uns"}
+{"ts": "2026-11-16T15:04:08.219991", "id": "1e11174a9b", "title": "Hannover 96 macht Norwichs Ruhr zum Sportdirektor: „Enge Vernetzung mit Wagner“", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-16T15:04:08.220213", "id": "b488e0eea3", "title": "Energie Cottbus 2. Liga: Taubenkot, Bier und Parkplätze - das bewegt die Mitglie", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-16T15:04:08.220318", "id": "6125fd801d", "title": "2. Fußball-Bundesliga - Boldt-Nachfolge geklärt: Hannover 96 holt neuen Sportche", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-16T15:04:08.220445", "id": "e79991c1c3", "title": "Offiziell: Hannover 96 präsentiert neuen Sportdirektor", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-16T15:04:08.220529", "id": "09d4d970fa", "title": "Suche nach Sportdirektor beendet: Wer Hannovers neuer starker Mann ist", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-16T15:04:08.220601", "id": "02a141623b", "title": "Hannover wird zum Ruhr-Gebiet: 96 stellt neuen Sportdirektor vor", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-16T15:04:08.220671", "id": "6a7b914a44", "title": "Nach dem Boldt-Aus: Hannover 96 überrascht mit einem Neuzugang aus England", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-16T15:04:08.220756", "id": "d012688d60", "title": "Hannover 96 verkündet Personal-Entscheidung", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-16T15:04:08.220829", "id": "8ef8f90439", "title": "Hüpfverbot in der Ostkurve: Stadt Bochum gibt Update zur Ruhrstadion-Sanierung", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-16T15:04:08.220905", "id": "74c41217a3", "title": "Millionen-Wende! Eintracht Braunschweig überrascht mit Finanz-Hammer", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-16T15:04:08.220972", "id": "6fb0067c2f", "title": "Handball in Frankfurt (Oder): FHC besiegt Vechta, 560 Zuschauer erleben Premiere", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-16T15:04:08.221041", "id": "2b87ca54ef", "title": "Vor Brisanz-Duell Cottbus gegen Hertha: Irre Klausel um diesen Leihspieler enthü", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-16T15:04:08.221114", "id": "2819147cfb", "title": "Neuer Aufsichtsrat, Rekord-Gewinne: Wer entscheidet bei St. Pauli über das Geld?", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-16T15:04:08.221205", "id": "52ad543671", "title": "Nach dem Kahlschlag: Hannover setzt auf diesen England-Scout", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-16T15:04:08.221292", "id": "908ae26430", "title": "Offiziell: Norwich-Chefscout übernimmt Hannovers sportliche Führung", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-16T15:04:08.221392", "id": "b925726d2d", "title": "Hannover 96: Große Chance, großes Risiko! BILD-Kommentar zum neuen 96-Sportchef", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-16T15:04:08.221481", "id": "84e841f46e", "title": "Boldt-Nachfolge fix: Hannover holt neuen Sportchef", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-16T15:04:08.221557", "id": "f338500a10", "title": "Hannover 96 beendet die Suche und setzt auf Garbor Ruhr als Sportchef", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-16T15:04:08.221632", "id": "56f2556741", "title": "Hannover 96 findet neuen Sportdirektor", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-16T15:04:08.221709", "id": "2fb0e70387", "title": "Nachfolge geklärt: Hannover 96 verpflichtet neuen Sportchef", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-16T15:04:08.221786", "id": "2befefd58d", "title": "Norwich City gibt grünes Licht: Gabor Ruhr wird neuer Sportdirektor von Hannover", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-16T15:04:08.221861", "id": "806c294861", "title": "Hannover 96 findet Sportdirektor, doch wer ist der neue Mann eigentlich?", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-16T15:04:08.221936", "id": "0089824152", "title": "Für die Farben, die wir tragen", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-16T15:04:08.222010", "id": "10674f6b74", "title": "Neuer Zweitliga-Rekord winkt: So schafft Hertha die Aufstiegs-Bestmarke", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-16T15:04:08.222084", "id": "daae197e5b", "title": "Immer Hertha - MV ohne Radau", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-16T15:04:08.222156", "id": "c79734a8c4", "title": "125 JAHRE FCK | 1. FC KAISERSLAUTERN Vs. HERTHA BSC | CHOREO Bonnie Tyler Induce", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-16T15:04:08.222230", "id": "b4a94ae65f", "title": "SV Darmstadt 98 - 1. FC Heidenheim 1846 Wett Tipp & Quoten 20.11.2026", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-16T15:04:08.222310", "id": "7b3636fe6b", "title": "SV Darmstadt 98: U21 im Hessenliga-Duell mit Baunatal", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-16T15:04:08.222414", "id": "342d63203e", "title": "OPENING - 👿 1. FC KAISERSLAUTERN Vs. SV DARMSTADT 98 ⚜️ | Palzlied & Choreo | 5.", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-16T15:04:08.222504", "id": "10a3b79748", "title": "Steinwender, CR7 und ein Flop: Das große Transferzeugnis beim VfL Bochum", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-16T15:04:08.222585", "id": "23d42b8ac3", "title": "Die Topthemen aus dem Amateurfußball in Gifhorn und Wolfsburg: Nachspielzeit-Wah", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-16T15:04:08.222656", "id": "873b674dc9", "title": "Bochum zieht Sanierung der Osttribüne nicht vor", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-16T15:04:08.222733", "id": "761ca3ab5e", "title": "Trägerartikel für 5in5 Wolfsburg am 16.11.2026", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-16T15:04:08.222805", "id": "087cc47531", "title": "Fußball News heute am 15.11.2026: Bayern-Dominanz und Frankfurter Kantersieg", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-16T15:04:30.457451", "id": "e2760c51b9", "title": "Alexander Blessin: „Das ließ sich nicht auf St. Pauli übertragen“", "stage": "S7", "reason": "nicht_relevant"}
+{"ts": "2026-11-16T15:04:31.991759", "id": "32b1966d92", "title": "Hyryläinen verschärft das Problem: FCM kritisiert Ansetzung in Bielefeld", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-16T15:04:39.075252", "id": "177b0020c0", "title": "Wanitzek trifft und serviert: KSC gewinnt Test gegen Aspach", "stage": "stage6.5", "reason": "schon_berichtet"}
