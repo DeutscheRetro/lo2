@@ -1,56 +1,5 @@
 [
  {
-  "id": "3cfe6902aa",
-  "schluessel": "hertha|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hertha",
-  "klubs": [
-   "Hertha"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Hertha BSC: Deyovaisio Zeefuik: die Maschine trifft jetzt auch ins Tor",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaWdnbHdzUWRjVU94WjhGd1RwNDZxM1ZqWmV5N2ttN3BuWTQwMHIwU1B4NjJ2VzZfN2p2dDFEWjEzOHlnVmV2N0M4cmRjR3FpTTc5dmoxYVVHM3hTdDgzeDNsZGdRc0I3a3E2MUxzZHFOZ0EtN251dVhPcUVlRk1TTnJIVUlTQmtRR011bUFzelY3OTVxcjNuQ3dVLXFSeFpsb1NJSUdWWlhjcHJXcWMxM1B2Tkt3Z2l3ZV9NaEhBdXFldFB2a190QzZzRFdGaE5lNlQtckc1Xy0yQQ?oc=5",
-    "aid": "f277b14319",
-    "titel": "Hertha BSC: Deyovaisio Zeefuik: die Maschine trifft jetzt auch ins Tor",
-    "quelle": "BZ Berlin",
-    "beschr": " Hertha BSC: Deyovaisio Zeefuik: die Maschine trifft jetzt auch ins Tor &nbsp;&nbsp; BZ Berlin ",
-    "zeit": "2026-11-16T10:33"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-16T12:01",
-  "archiv": [
-   {
-    "id": "7f04e49f33",
-    "titel": "Hertha: Drescher mahnt trotz Euphorie, Huschen meldet Gewinn",
-    "datum": "14.11.",
-    "stufe": "sonstiges",
-    "summary": "Hertha BSC meldet auf der Mitgliederversammlung erstmals seit 2018/19 ein positives Netto-Jahresergebnis von 1,2 Millionen Euro. Präsident Fabian Drescher mahnt trotz der Euphorie, es sei nur eine Momentaufnahme."
-   },
-   {
-    "id": "2ab310d211",
-    "titel": "Hertha: Adewumi trifft alle 126 Minuten und überzeugt als Leihgabe",
-    "datum": "12.11.",
-    "stufe": "sonstiges",
-    "summary": "Herthas Leihspieler Oluwaseun Adewumi hat in elf Spielen fünf Tore erzielt und trifft im Schnitt alle 126 Minuten. Seine Zukunft ist offen, da Hertha keine Kaufoption besitzt und er bis 2028 bei Burnley unter Vertrag steht."
-   },
-   {
-    "id": "b9598870dd",
-    "titel": "Thorsteinsson über Neustart bei Hertha: „Glauben an die eigene Leistung“",
-    "datum": "10.11.",
-    "stufe": "sonstiges",
-    "summary": "Herthas Jón Dagur Thorsteinsson erzählt, wie ihm die Leihe zu Brann Bergen wieder Selbstvertrauen gab. Sein Doppelpack in Dresden war sein bisher stärkster Abend im Hertha-Trikot."
-   }
-  ],
-  "versuche": 2
- },
- {
   "id": "8a070ea360",
   "schluessel": "hannover|sonstiges",
   "person": "",
@@ -90,6 +39,270 @@
     "datum": "01.11.",
     "stufe": "sonstiges",
     "summary": "Hannover 96 hat Sport-Geschäftsführer Jonas Boldt nach nur fünf Monaten mit sofortiger Wirkung abberufen. Der Klub steht nach neun Spieltagen mit acht Punkten auf Platz 16."
+   }
+  ],
+  "versuche": 2
+ },
+ {
+  "id": "2ee5d618ba",
+  "schluessel": "nurnberg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Nürnberg",
+  "klubs": [
+   "Nürnberg",
+   "Frankfurt"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "„Übergang nun geregelt“: Chatzialexiou wechselt früher von Nürnberg nach Frankfurt",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdG5NeXdKSTlEeS1lRzZnUWJKbEZoeE5ZLVBJbURhb0t2eExPQTdlOE5JVFB1bmVTWUl0bTZqU2t3ejExU0t4NjIybUE1alUxdDlDSmpoYVg0alB0RWFxTjVGY3R1N2FwcDFuTXFFWmNDYVI2ZURSSzcxUUFpbnpzc0l0eTRrOGFqc2xZY3VvSXJvb2lPMXI5WGM1NjFWWGI1ck9NTC13djhsRjNMQ2VONjVmTXJUQWZRUHkzZWdmSl94TWhiNWtmalNaRQ?oc=5",
+    "aid": "2afae11ff3",
+    "titel": "„Übergang nun geregelt“: Chatzialexiou wechselt früher von Nürnberg nach Frankfurt",
+    "quelle": "Transfermarkt",
+    "beschr": " „Übergang nun geregelt“: Chatzialexiou wechselt früher von Nürnberg nach Frankfurt &nbsp;&nbsp; Transfermarkt ",
+    "zeit": "2026-11-16T16:20"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "u",
+  "erstmals": "2026-11-16T18:01",
+  "archiv": [
+   {
+    "id": "d24281ef99",
+    "titel": "Chatzialexiou soll schon im Frühjahr mit Hannover gesprochen haben",
+    "datum": "10.11.",
+    "stufe": "sonstiges",
+    "summary": "Nürnbergs Sportvorstand Joti Chatzialexiou soll im Frühjahr mit Hannover 96 gesprochen haben, der Wechsel scheiterte laut Neuer Presse an der Ablöse. Er wechselt nun zu Eintracht Frankfurt, Nachfolger Dieter Frey ist im Amt."
+   },
+   {
+    "id": "d3f8559dfc",
+    "titel": "Nürnberg: Chatzialexiou-Wechsel nach Frankfurt könnte früher kommen",
+    "datum": "07.11.",
+    "stufe": "sonstiges",
+    "summary": "Nürnbergs Sportvorstand Joti Chatzialexiou könnte früher als am 1. Februar 2027 zu Eintracht Frankfurt wechseln. Nachfolger Dieter Frey steht bereits fest, eine Entscheidung könnte in der Länderspielpause fallen."
+   },
+   {
+    "id": "3f63c5f30a",
+    "titel": "Nürnberg: Dieter Frey wird Nachfolger von Joti Chatzialexiou",
+    "datum": "05.11.",
+    "stufe": "sonstiges",
+    "summary": "Der 1. FC Nürnberg macht Dieter Frey zum Sportvorstand und Nachfolger des zu Eintracht Frankfurt wechselnden Joti Chatzialexiou. Frey war seit 2024 Sportlicher Leiter und stieg Anfang 2026 zum Direktor auf."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "6b88bcc914",
+  "schluessel": "stuttgart|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Stuttgart",
+  "klubs": [
+   "Stuttgart"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "Seimen über Belgien-Niederlage: \"Fehler nicht erlaubt in dem Sport\" | Turbulente Wochen in Stuttgart | Video",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVHFVdFFRT01DUXVXdkktckNrU0FGRUpEaGQwckVvNDdVeWZPekFuQm9nZHJrcjhCcmpjR1FGN2NwR2pTemlGLXhmMzNVazFoTWRhcUJwUGNfc0Y0NktYT3JQd2I3OU9HMURyLWJUdXdNTXdybTlWT0hzTTVENmxIb0RDQ2lBTTRMejVoUlJKeVR4ajRrSzlBM3FIN3cyU2ZsS05B?oc=5",
+    "aid": "15e17e82a6",
+    "titel": "Seimen über Belgien-Niederlage: \"Fehler nicht erlaubt in dem Sport\" | Turbulente Wochen in Stuttgart | Video",
+    "quelle": "Kicker",
+    "beschr": " Seimen über Belgien-Niederlage: \"Fehler nicht erlaubt in dem Sport\" | Turbulente Wochen in Stuttgart | Video &nbsp;&nbsp; Kicker ",
+    "zeit": "2026-11-16T16:54"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-16T18:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "d80285d8c3",
+  "schluessel": "kaiserslautern|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Kaiserslautern",
+  "klubs": [
+   "Kaiserslautern"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "1. FC Kaiserslautern: Diese 3 Neuzugänge Sollen Den FCK Verstärken Hull Daily Mail (iXwyYGaqNB)",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95NTNyT2xkZ1pna2hkUEc0WDkxZlVvN2dObFllZ19lcFlJMTk5bzlVQWVSSGF0VTBlVzVtQkd3aEk0VVlsdjNSMG9EVVp2OE5ZbTkwcUtCRmhjZ2FOT01zMkEyeHRQZw?oc=5",
+    "aid": "2c6f6e6037",
+    "titel": "1. FC Kaiserslautern: Diese 3 Neuzugänge Sollen Den FCK Verstärken Hull Daily Mail (iXwyYGaqNB)",
+    "quelle": "Unisba Media",
+    "beschr": " 1. FC Kaiserslautern: Diese 3 Neuzugänge Sollen Den FCK Verstärken Hull Daily Mail (iXwyYGaqNB) &nbsp;&nbsp; Unisba Media ",
+    "zeit": "2026-11-15T19:11"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-16T18:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "6faffe1e5d",
+  "schluessel": "bielefeld|verletzung",
+  "person": "",
+  "spieler": [],
+  "klub": "Bielefeld",
+  "klubs": [
+   "Bielefeld"
+  ],
+  "stufe": "ausfall",
+  "klasse": "verletzung",
+  "titel": "FCM vor Bielefeld: Mittelfeld-Duo zurück auf dem Platz, aber Hyryläinen fehlt länger",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdjVjaWRDQllWNEVTZy0wbW11eVBxN1hjMUlTUG5Bd1NVeUlWZlBKdlVqSzc5YW1NUkFYOEZjdE5RX1pWZFFNdGd5Wk9MWGVKYUl1dGF3djNDNU5mV2FMc3g2c1NXaHlNNEhDR1RCREJKcm9Gamw0elNqR1hVeFdLRXFLaWQ4bTBuWUhlRURiaWNrQVV4ODVUc1BTRFRLM3dRZXRHeVp0cUxzLVlWSUIxZzRzYW4yaWtlYllPMnZSb0RHODE4aHl5N0RFQnJlTThjbVhzSU9Kbk5hbkFZVDdn?oc=5",
+    "aid": "f9809df486",
+    "titel": "FCM vor Bielefeld: Mittelfeld-Duo zurück auf dem Platz, aber Hyryläinen fehlt länger",
+    "quelle": "Volksstimme",
+    "beschr": " FCM vor Bielefeld: Mittelfeld-Duo zurück auf dem Platz, aber Hyryläinen fehlt länger &nbsp;&nbsp; Volksstimme ",
+    "zeit": "2026-11-16T15:47"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-16T18:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "2d80582585",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Hannover 96: Ex-Torhüter des FC Schönberg wird neuer Sportdirektor",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTmVOamxUVFUydWxnQzJKZkdTeFhZZGZJdnUzR0t4OThKcTVZNDdPUzZrWTlNNnNsX3Q3LUdXVmlsbzJheUZON05Vc0d1SHBoTjJScTJKdF93YTZLa1lMTU11U0VOQ2N3aGU2Q1pBWE41a2x3b0Q3SWpGRGZRMjhkc2xMTEZiOTFYbGdhWkNfRFNaUFpOaG9HZy1CS3ZleDNRRDNfQWwwTmkxVk96UGlMV3U2NWppTjdIX1o3NjBsNkVPMnBTdWJyT3NsNF9JSHNhbU9HQUtRRTEyaUF50gH4AUFVX3lxTE1nQkwxSDNwcGxhUEloc3FKZnhvQUpxajA4SVNXQVBqOE1fbDRIXzRtY0dKX1U0c3J3RWQwZHNXS0dJUmNqS1dwWTV6bU52SUNoRHJWRmtDY3VlQ0pDTlF3cW80SmM0YVVGdTZrOXlmXzdtLWdZTnB2RERpZXhnX3lkdnRSbS1yaDl3bEpYeTRWOFF6NkRaaEFyNldpUDYwX2cwNGtMdnBLS1I4eFpwbTVJSEVBR3Z3M1hMMHYyVE10N1p2QTVsd2dHdTFVZ1hqZVJVTUpCWlFacEx2cHo1bXF6SFJGMjd0WnVOU05WM3puRURZRi0teEo5?oc=5",
+    "aid": "5db46f67f6",
+    "titel": "Hannover 96: Ex-Torhüter des FC Schönberg wird neuer Sportdirektor",
+    "quelle": "Ostsee Zeitung",
+    "beschr": " Hannover 96: Ex-Torhüter des FC Schönberg wird neuer Sportdirektor &nbsp;&nbsp; Ostsee Zeitung ",
+    "zeit": "2026-11-16T15:30"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-16T18:01",
+  "archiv": [
+   {
+    "id": "98f969f271",
+    "titel": "Hannover 96: Franz Roggow überzeugt als Sechser und lobt Wagners Ansatz",
+    "datum": "13.11.",
+    "stufe": "sonstiges",
+    "summary": "Hannovers Sechser Franz Roggow spielte zuletzt gegen Dresden und in Heidenheim eine wichtige Rolle und lobt Sandro Wagners Ansatz. Nach der Länderspielpause kommt Fürth am 21. November nach Hannover."
+   },
+   {
+    "id": "1e14aee0b2",
+    "titel": "Mattuschka rügt Hannover 96: Außendarstellung „unfassbar schlecht“",
+    "datum": "06.11.",
+    "stufe": "sonstiges",
+    "summary": "Sky-Experte Torsten Mattuschka kritisiert die Außendarstellung von Hannover 96 nach der Boldt-Entlassung als „unfassbar schlecht“. Drei Kandidaten sind laut Sky für die Nachfolge im Rennen, darunter Marko Marin."
+   },
+   {
+    "id": "f24f0b5c26",
+    "titel": "Heidenheim will Schmidt-Abschied gegen Hannover vergolden",
+    "datum": "06.11.",
+    "stufe": "sonstiges",
+    "summary": "Heidenheim empfängt am Sonntag Hannover 96 und ist zu Hause noch ungeschlagen. Es ist das erste Spiel nach der Ankündigung, dass Trainer Frank Schmidt im Sommer aufhört."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "1e4c99a29c",
+  "schluessel": "wolfsburg|transfer",
+  "person": "",
+  "spieler": [],
+  "klub": "Wolfsburg",
+  "klubs": [
+   "Wolfsburg"
+  ],
+  "stufe": "geruecht",
+  "klasse": "transfer",
+  "titel": "VfL Wolfsburg: VW-Klub plant Winter-Transfer",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTWprcng5SnFXYVBDYWg1MnVWZlNUSkFSQ2lIaWk2Yk1jRFNXYldwZ1p6dGVXa2JMZUdwU3ZNYmRneS14X1BJQ2NDcEE4ZDlhMGc2U2s4UmNrY3huT0VMN1B2NWtHbkVfNmRHaWJDd0RST2Y0VnlsV1BHY3hIQjFpcWFYU0xXSE5SWUJpbTluQ1VEZHRYYUowTGdYdEJJaE9PVEJTUFN3?oc=5",
+    "aid": "12247f4bc5",
+    "titel": "VfL Wolfsburg: VW-Klub plant Winter-Transfer",
+    "quelle": "BILD",
+    "beschr": " VfL Wolfsburg: VW-Klub plant Winter-Transfer &nbsp;&nbsp; BILD ",
+    "zeit": "2026-11-16T16:09"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "u",
+  "erstmals": "2026-11-16T18:01",
+  "archiv": [
+   {
+    "id": "6ea3e275e3",
+    "titel": "Wolfsburg prüft Winter-Verpflichtung von Gabriel Wesseh",
+    "datum": "13.11.",
+    "stufe": "geruecht",
+    "summary": "Der VfL Wolfsburg verhandelt laut „Sky“ über einen Winter-Transfer von Gabriel Wesseh von Fredrikstad FK. Der 18-Jährige hat dort noch Vertrag bis 2030 und kommt auf fünf Torbeteiligungen in zwölf Spielen."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "62ca0a1691",
+  "schluessel": "wolfsburg|transfer",
+  "person": "",
+  "spieler": [],
+  "klub": "Wolfsburg",
+  "klubs": [
+   "Wolfsburg"
+  ],
+  "stufe": "geruecht",
+  "klasse": "transfer",
+  "titel": "Kommentar zum VfL Wolfsburg: Den Bossen steht ein kniffliger Transferwinter bevor",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZi1UaVVSeHVWWG94TzRMc2pxblJUMHo3TnF2ZUdXSWpCLW45RzU2ZE5ZT0FyaTBuSlpiR1pCMkl2dF9qdG1TZk1vUEc4a1VfRHI4bUx3Uk96TVEyZUoyaU1lMjFHU2hxQ1lfbmktbUhaaDBfWjBCTkJJWVl0TFJZNTAxaWhXSGwyRWxXM3dNa0UtbEk4Q3VtRWItQnl4YVRsRURBUU9UU2NtSi1RQk1fb2tNNGZXaUxaR18zcVZHVDFwQkZHcWQyS25PWkhBbUpyY2ZYdVB30gHyAUFVX3lxTE1Gci1kcU5UOVp0SFhhUjN2dk95aDFXa2xKc2tsQ1JLNWItSWVTajg3Q1NZSVRDem5KV0NfbTY0OGNGSDEwYXU3X0lKZ3l6dGZyVUVCUmVGaHl1VHJqNFcyeWpJVHc3SnVMSVRSc1VMa2F0UVZwS0l3VHFKMnBHZ3dRd0pVZmg2WFVCX0FCcm84aDBtZnhRRUxzQUhmdkltTl9mWkhxUUVPWWhsUVJ0N2lIWUhNeTJINF9GTklxeXR4VkpsNTEyOUhfRkh6R29LbjVxOVdmUUV0UkJuNmFKVVR2eUpVcUhQUmZBWThqdGxhN09R?oc=5",
+    "aid": "16747d3b18",
+    "titel": "Kommentar zum VfL Wolfsburg: Den Bossen steht ein kniffliger Transferwinter bevor",
+    "quelle": "WAZ-ONLINE.de",
+    "beschr": " Kommentar zum VfL Wolfsburg: Den Bossen steht ein kniffliger Transferwinter bevor &nbsp;&nbsp; WAZ-ONLINE.de ",
+    "zeit": "2026-11-16T15:42"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-16T18:01",
+  "archiv": [
+   {
+    "id": "6ea3e275e3",
+    "titel": "Wolfsburg prüft Winter-Verpflichtung von Gabriel Wesseh",
+    "datum": "13.11.",
+    "stufe": "geruecht",
+    "summary": "Der VfL Wolfsburg verhandelt laut „Sky“ über einen Winter-Transfer von Gabriel Wesseh von Fredrikstad FK. Der 18-Jährige hat dort noch Vertrag bis 2030 und kommt auf fünf Torbeteiligungen in zwölf Spielen."
    }
   ],
   "versuche": 1

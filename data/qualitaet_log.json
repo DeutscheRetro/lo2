@@ -1731,5 +1731,30 @@
   "gruende": [],
   "alt_titel": null,
   "quelle_gelesen": true
+ },
+ {
+  "zeit": "16.11.2026 18:04",
+  "id": "5b44f3ec62",
+  "pfad": "artikel/wollitz-traut-hertha-vor-duell-in-cottbus-den-punkterekord-zu-5b44f3ec62.html",
+  "urteil": "verbessert",
+  "gruende": [
+   "Logikfehler im Schluss korrigiert: Wenn Cottbus punktet, kann das auch ein Unentschieden sein. Das wäre keine Niederlage für Hertha. Die Quelle nennt nur eine mögliche erste Saisonniederlage der Berliner.",
+   "Vierten Absatz sprachlich etwas gestrafft"
+  ],
+  "alt_titel": "Wollitz traut Hertha vor Duell in Cottbus den Punkterekord zu",
+  "quelle_gelesen": true
+ },
+ {
+  "zeit": "16.11.2026 18:04",
+  "id": "a03e9bd976",
+  "pfad": "artikel/hrgota-warnt-dann-wird-es-schwer-zu-punkten-a03e9bd976.html",
+  "urteil": "verbessert",
+  "gruende": [
+   "Titel: Das Zitat war verändert („Dann wird es schwer, zu punkten“ statt „dass es dann schwer wird, zu punkten“). Neuer Titel ohne verfälschtes Zitat.",
+   "Schreibweise korrigiert: „St.-Pauli-Stürmer“ statt „St. Pauli-Stürmer“.",
+   "Schlussabsatz näher an der Quelle: Die Einstellung sei nötig, „um die Mängel abzustellen“, statt „für die Wende“."
+  ],
+  "alt_titel": "Hrgota warnt: „Dann wird es schwer, zu punkten“",
+  "quelle_gelesen": true
  }
 ]
