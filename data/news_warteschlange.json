@@ -1,137 +1,5 @@
 [
  {
-  "id": "af56c8ec8e",
-  "schluessel": "st. pauli|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "St. Pauli",
-  "klubs": [
-   "St. Pauli"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "FC St. Pauli holt Falken vom VfL Oldenburg wieder auf Boden",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMlBFQnRpLXJtcm5Cb2xqZ0lSd0RzMElZeXFZU2RESGpPNEFyOVlWVUJvWTZhblB4a3hnNkp6aGJQUlhndXBoTUFFVDZiaV9FZm9ZZWJaMkRtT21IV0lKZW8xZ2JXSVc1U21sR3BUYVB1aFlmVzFuaHRIdlNBdkhFLVNzM0Qzb3NQUFBCNEVSUlVOUnY3RGZXNFVGc1NLVFViMm85cTdaUVVZc0I1dVdxTW5aWFdlREpOWVVvSlAyd2JWSHc5SF9uTU9oaW9iNExHNTNVYkJJWVA2dkZLcHZzNA?oc=5",
-    "aid": "66a359d81c",
-    "titel": "FC St. Pauli holt Falken vom VfL Oldenburg wieder auf Boden",
-    "quelle": "Nordwest-Zeitung",
-    "beschr": " FC St. Pauli holt Falken vom VfL Oldenburg wieder auf Boden &nbsp;&nbsp; Nordwest-Zeitung ",
-    "zeit": "2026-11-15T15:00"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-16T06:01",
-  "archiv": [
-   {
-    "id": "2d5f25514d",
-    "titel": "St. Pauli: Kaars vor Wiedersehen mit Magdeburg unter Druck",
-    "datum": "07.11.",
-    "stufe": "sonstiges",
-    "summary": "St. Pauli-Stürmer Martijn Kaars hat nach nur zwei Toren in elf Einsätzen einen schweren Stand. Vor dem Spiel in Magdeburg lässt Trainer Marcel Rapp offen, ob er in der Startelf steht."
-   },
-   {
-    "id": "0f621c17e7",
-    "titel": "FCM gegen St. Pauli: Wiedersehen mit Kaars und Mathisen",
-    "datum": "05.11.",
-    "stufe": "sonstiges",
-    "summary": "Magdeburg trifft im Heimspiel auf St. Pauli und damit auf die Ex-Spieler Martijn Kaars und Marcus Mathisen, die in Hamburg beide kaum spielen. Mateusz Zukowski ist für den FCM weiterhin fraglich."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "a860f11c81",
-  "schluessel": "karlsruhe|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Karlsruhe",
-  "klubs": [
-   "Karlsruhe"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Test-Kick gelungen! KSC schickt Großaspach mit feinem Füßchen nach Hause",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS1ZPaTF2WEducnZkUUZQWFR1elliTkFWTXJzYzAxNzk5cGcyaDhUY0RMbGFXRVFBMEE5ZUVpanlCVmVmejdTMFFRby11RURoamxWRW5BXzdFRWlFOHY2STZTUmZ4eTMxbUhwc2ZOV0t3Rkdmay14ZUhLZERIUnZuaEc1NXpNZHRaWDBGdkQwY0JYSnZBQ0x5WXBaT2dfWVZmSWVsSmtPT3Rvb2VMQU5NTmVlRlFUdHZLRVFOTl9wWVY?oc=5",
-    "aid": "f70bf7d277",
-    "titel": "Test-Kick gelungen! KSC schickt Großaspach mit feinem Füßchen nach Hause",
-    "quelle": "ka-news",
-    "beschr": " Test-Kick gelungen! KSC schickt Großaspach mit feinem Füßchen nach Hause &nbsp;&nbsp; ka-news ",
-    "zeit": "2026-11-15T22:16"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-16T06:01",
-  "archiv": [
-   {
-    "id": "93907cfaea",
-    "titel": "KSC steckt mit der schwächsten Defensive der Liga in der Krise",
-    "datum": "13.11.",
-    "stufe": "sonstiges",
-    "summary": "Der KSC steht nach elf Spieltagen mit elf Punkten auf Relegationsrang 16 und stellt die schlechteste Defensive der Liga. Trainer Maximilian Senft hat System und Spielstil angepasst, Erfolg brachte das bisher nicht."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "e9cbbbe404",
-  "schluessel": "furth|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Fürth",
-  "klubs": [
-   "Fürth"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "\"Systemausfall\" und \"bodenlos\": Entsetzen bei Fürth nach 0:3",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNamJGV0dmRHY5TWZweW9UanYzOFVTdThJUk1ZSDRjeWhibE9jdzVTdlU0a1lCcHA4NFhBbTRJSWRCei1Wa1dvOFRENGNUeWY5QnJzV2ZTX0FRNk56VGNuMmV1MVRGRlBaWFJyNXhsSEZXYWdHeDdZYWMxR0V1RW4zNg?oc=5",
-    "aid": "0d51e08dcc",
-    "titel": "\"Systemausfall\" und \"bodenlos\": Entsetzen bei Fürth nach 0:3",
-    "quelle": "sportschau.de",
-    "beschr": " \"Systemausfall\" und \"bodenlos\": Entsetzen bei Fürth nach 0:3 &nbsp;&nbsp; sportschau.de ",
-    "zeit": "2026-11-16T03:38"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-16T06:01",
-  "archiv": [
-   {
-    "id": "70eb8b6b7a",
-    "titel": "Fürth schlägt Würzburg im Testspiel 3:1, Keller trifft doppelt",
-    "datum": "12.11.",
-    "stufe": "spielbericht",
-    "summary": "Greuther Fürth schlägt Drittligist Würzburg im Testspiel 3:1, Aaron Keller trifft doppelt. Trainer Heiko Vogel ist trotzdem unzufrieden, am 21. November geht es in Hannover weiter."
-   },
-   {
-    "id": "4c95231583",
-    "titel": "Dresden schlägt Fürth 3:0 und verlässt das Tabellenende",
-    "datum": "06.11.",
-    "stufe": "spielbericht",
-    "summary": "Dynamo Dresden gewinnt gegen Greuther Fürth 3:0 und verlässt als vorläufig Vierzehnter das Tabellenende. Fürths Hendry Blank fälscht zwei Gegentore ab und sieht Gelb-Rot."
-   },
-   {
-    "id": "17f7b2ba54",
-    "titel": "Keller trifft spät: Fürth schlägt Kiel mit 1:0",
-    "datum": "01.11.",
-    "stufe": "spielbericht",
-    "summary": "Die SpVgg Greuther Fürth schlägt Holstein Kiel am 10. Spieltag mit 1:0. Aaron Keller trifft in der 87. Minute nach Vorarbeit von Dennis Srbeny."
-   }
-  ],
-  "versuche": 2
- },
- {
   "id": "0cdf3c8058",
   "schluessel": "bielefeld|sonstiges",
   "person": "",
@@ -158,6 +26,57 @@
   "status": "n",
   "erstmals": "2026-11-16T09:01",
   "archiv": [],
+  "versuche": 2
+ },
+ {
+  "id": "3cfe6902aa",
+  "schluessel": "hertha|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Hertha BSC: Deyovaisio Zeefuik: die Maschine trifft jetzt auch ins Tor",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaWdnbHdzUWRjVU94WjhGd1RwNDZxM1ZqWmV5N2ttN3BuWTQwMHIwU1B4NjJ2VzZfN2p2dDFEWjEzOHlnVmV2N0M4cmRjR3FpTTc5dmoxYVVHM3hTdDgzeDNsZGdRc0I3a3E2MUxzZHFOZ0EtN251dVhPcUVlRk1TTnJIVUlTQmtRR011bUFzelY3OTVxcjNuQ3dVLXFSeFpsb1NJSUdWWlhjcHJXcWMxM1B2Tkt3Z2l3ZV9NaEhBdXFldFB2a190QzZzRFdGaE5lNlQtckc1Xy0yQQ?oc=5",
+    "aid": "f277b14319",
+    "titel": "Hertha BSC: Deyovaisio Zeefuik: die Maschine trifft jetzt auch ins Tor",
+    "quelle": "BZ Berlin",
+    "beschr": " Hertha BSC: Deyovaisio Zeefuik: die Maschine trifft jetzt auch ins Tor &nbsp;&nbsp; BZ Berlin ",
+    "zeit": "2026-11-16T10:33"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-16T12:01",
+  "archiv": [
+   {
+    "id": "7f04e49f33",
+    "titel": "Hertha: Drescher mahnt trotz Euphorie, Huschen meldet Gewinn",
+    "datum": "14.11.",
+    "stufe": "sonstiges",
+    "summary": "Hertha BSC meldet auf der Mitgliederversammlung erstmals seit 2018/19 ein positives Netto-Jahresergebnis von 1,2 Millionen Euro. Präsident Fabian Drescher mahnt trotz der Euphorie, es sei nur eine Momentaufnahme."
+   },
+   {
+    "id": "2ab310d211",
+    "titel": "Hertha: Adewumi trifft alle 126 Minuten und überzeugt als Leihgabe",
+    "datum": "12.11.",
+    "stufe": "sonstiges",
+    "summary": "Herthas Leihspieler Oluwaseun Adewumi hat in elf Spielen fünf Tore erzielt und trifft im Schnitt alle 126 Minuten. Seine Zukunft ist offen, da Hertha keine Kaufoption besitzt und er bis 2028 bei Burnley unter Vertrag steht."
+   },
+   {
+    "id": "b9598870dd",
+    "titel": "Thorsteinsson über Neustart bei Hertha: „Glauben an die eigene Leistung“",
+    "datum": "10.11.",
+    "stufe": "sonstiges",
+    "summary": "Herthas Jón Dagur Thorsteinsson erzählt, wie ihm die Leihe zu Brann Bergen wieder Selbstvertrauen gab. Sein Doppelpack in Dresden war sein bisher stärkster Abend im Hertha-Trikot."
+   }
+  ],
   "versuche": 1
  }
 ]
