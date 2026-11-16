@@ -1,57 +1,5 @@
 [
  {
-  "id": "70f8f4a657",
-  "schluessel": "hannover|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hannover",
-  "klubs": [
-   "Hannover",
-   "Fürth"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Hannover 96: Sorge um Kapitän Stefan Thordarson - Fürth-Einsatz in Gefahr",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRWFHUUl4dXRybUZ2NDJ1YlBFb09rS0xXdWZSaWEwYkdQRHBRckREbTg5bnE5MFZRZE1LMFdlQUVUTHhCS19mSWc5WUYyUXRfazJtMHFYaHdQXy1EcHdUQmVkMmtpZW5mcnk4NmRQWG5CcEdjM284OS1waXQtR3hOTzd3aWhWUU5KX1dvQnNjRTZJb2hGMUt0cW9ta1pXdnk2NXI0Ukt1Y0pWSnYyR2JGLW9LUkZxM2FpclNfUGd6TC14NlBfZkVPR1dBUThOTkp6Umt3RXpEZm8wQ0pFWFE?oc=5",
-    "aid": "6fc17bddbd",
-    "titel": "Hannover 96: Sorge um Kapitän Stefan Thordarson - Fürth-Einsatz in Gefahr",
-    "quelle": "Neue Presse",
-    "beschr": " Hannover 96: Sorge um Kapitän Stefan Thordarson - Fürth-Einsatz in Gefahr &nbsp;&nbsp; Neue Presse ",
-    "zeit": "2026-11-15T16:02"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-15T18:01",
-  "archiv": [
-   {
-    "id": "98f969f271",
-    "titel": "Hannover 96: Franz Roggow überzeugt als Sechser und lobt Wagners Ansatz",
-    "datum": "13.11.",
-    "stufe": "sonstiges",
-    "summary": "Hannovers Sechser Franz Roggow spielte zuletzt gegen Dresden und in Heidenheim eine wichtige Rolle und lobt Sandro Wagners Ansatz. Nach der Länderspielpause kommt Fürth am 21. November nach Hannover."
-   },
-   {
-    "id": "1e14aee0b2",
-    "titel": "Mattuschka rügt Hannover 96: Außendarstellung „unfassbar schlecht“",
-    "datum": "06.11.",
-    "stufe": "sonstiges",
-    "summary": "Sky-Experte Torsten Mattuschka kritisiert die Außendarstellung von Hannover 96 nach der Boldt-Entlassung als „unfassbar schlecht“. Drei Kandidaten sind laut Sky für die Nachfolge im Rennen, darunter Marko Marin."
-   },
-   {
-    "id": "afa3db9641",
-    "titel": "Hannover 96 trennt sich nach fünf Monaten von Sportchef Boldt",
-    "datum": "01.11.",
-    "stufe": "sonstiges",
-    "summary": "Hannover 96 hat Sport-Geschäftsführer Jonas Boldt nach nur fünf Monaten mit sofortiger Wirkung abberufen. Der Klub steht nach neun Spieltagen mit acht Punkten auf Platz 16."
-   }
-  ],
-  "versuche": 2
- },
- {
   "id": "79312e71c5",
   "schluessel": "hertha|sonstiges",
   "person": "",
@@ -86,7 +34,7 @@
     "summary": "Lionel Messi hat Ex-Herthaner Ibrahim Maza bei der Kopa-Trophäe als einziger Juror auf Platz drei gesetzt. Hertha zeigt sich stolz, Maza landete in der Endabrechnung auf Rang neun."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "5ce8e91a45",
@@ -137,7 +85,7 @@
     "summary": "Nürnbergs Trainer Miroslav Klose ordnet den 3:1-Sieg bei St. Pauli ein und lobt die Gemeinschaft im Team. Über einen Aufstieg als Ziel will er als Tabellenzweiter nicht sprechen."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "bb1e88f932",
@@ -181,7 +129,7 @@
     "summary": "Energie Cottbus und Eintracht Braunschweig trennen sich am 11. Spieltag 0:0. Kinsombi traf in der 14. Minute den Pfosten, beide Teams haben nun 11 Punkte."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "ab21daefe8",
@@ -210,6 +158,138 @@
   "status": "n",
   "erstmals": "2026-11-15T21:01",
   "archiv": [],
+  "versuche": 2
+ },
+ {
+  "id": "af56c8ec8e",
+  "schluessel": "st. pauli|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "St. Pauli",
+  "klubs": [
+   "St. Pauli"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "FC St. Pauli holt Falken vom VfL Oldenburg wieder auf Boden",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMlBFQnRpLXJtcm5Cb2xqZ0lSd0RzMElZeXFZU2RESGpPNEFyOVlWVUJvWTZhblB4a3hnNkp6aGJQUlhndXBoTUFFVDZiaV9FZm9ZZWJaMkRtT21IV0lKZW8xZ2JXSVc1U21sR3BUYVB1aFlmVzFuaHRIdlNBdkhFLVNzM0Qzb3NQUFBCNEVSUlVOUnY3RGZXNFVGc1NLVFViMm85cTdaUVVZc0I1dVdxTW5aWFdlREpOWVVvSlAyd2JWSHc5SF9uTU9oaW9iNExHNTNVYkJJWVA2dkZLcHZzNA?oc=5",
+    "aid": "66a359d81c",
+    "titel": "FC St. Pauli holt Falken vom VfL Oldenburg wieder auf Boden",
+    "quelle": "Nordwest-Zeitung",
+    "beschr": " FC St. Pauli holt Falken vom VfL Oldenburg wieder auf Boden &nbsp;&nbsp; Nordwest-Zeitung ",
+    "zeit": "2026-11-15T15:00"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-16T06:01",
+  "archiv": [
+   {
+    "id": "2d5f25514d",
+    "titel": "St. Pauli: Kaars vor Wiedersehen mit Magdeburg unter Druck",
+    "datum": "07.11.",
+    "stufe": "sonstiges",
+    "summary": "St. Pauli-Stürmer Martijn Kaars hat nach nur zwei Toren in elf Einsätzen einen schweren Stand. Vor dem Spiel in Magdeburg lässt Trainer Marcel Rapp offen, ob er in der Startelf steht."
+   },
+   {
+    "id": "0f621c17e7",
+    "titel": "FCM gegen St. Pauli: Wiedersehen mit Kaars und Mathisen",
+    "datum": "05.11.",
+    "stufe": "sonstiges",
+    "summary": "Magdeburg trifft im Heimspiel auf St. Pauli und damit auf die Ex-Spieler Martijn Kaars und Marcus Mathisen, die in Hamburg beide kaum spielen. Mateusz Zukowski ist für den FCM weiterhin fraglich."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "a860f11c81",
+  "schluessel": "karlsruhe|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Karlsruhe",
+  "klubs": [
+   "Karlsruhe"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Test-Kick gelungen! KSC schickt Großaspach mit feinem Füßchen nach Hause",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS1ZPaTF2WEducnZkUUZQWFR1elliTkFWTXJzYzAxNzk5cGcyaDhUY0RMbGFXRVFBMEE5ZUVpanlCVmVmejdTMFFRby11RURoamxWRW5BXzdFRWlFOHY2STZTUmZ4eTMxbUhwc2ZOV0t3Rkdmay14ZUhLZERIUnZuaEc1NXpNZHRaWDBGdkQwY0JYSnZBQ0x5WXBaT2dfWVZmSWVsSmtPT3Rvb2VMQU5NTmVlRlFUdHZLRVFOTl9wWVY?oc=5",
+    "aid": "f70bf7d277",
+    "titel": "Test-Kick gelungen! KSC schickt Großaspach mit feinem Füßchen nach Hause",
+    "quelle": "ka-news",
+    "beschr": " Test-Kick gelungen! KSC schickt Großaspach mit feinem Füßchen nach Hause &nbsp;&nbsp; ka-news ",
+    "zeit": "2026-11-15T22:16"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-16T06:01",
+  "archiv": [
+   {
+    "id": "93907cfaea",
+    "titel": "KSC steckt mit der schwächsten Defensive der Liga in der Krise",
+    "datum": "13.11.",
+    "stufe": "sonstiges",
+    "summary": "Der KSC steht nach elf Spieltagen mit elf Punkten auf Relegationsrang 16 und stellt die schlechteste Defensive der Liga. Trainer Maximilian Senft hat System und Spielstil angepasst, Erfolg brachte das bisher nicht."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "e9cbbbe404",
+  "schluessel": "furth|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Fürth",
+  "klubs": [
+   "Fürth"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "\"Systemausfall\" und \"bodenlos\": Entsetzen bei Fürth nach 0:3",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNamJGV0dmRHY5TWZweW9UanYzOFVTdThJUk1ZSDRjeWhibE9jdzVTdlU0a1lCcHA4NFhBbTRJSWRCei1Wa1dvOFRENGNUeWY5QnJzV2ZTX0FRNk56VGNuMmV1MVRGRlBaWFJyNXhsSEZXYWdHeDdZYWMxR0V1RW4zNg?oc=5",
+    "aid": "0d51e08dcc",
+    "titel": "\"Systemausfall\" und \"bodenlos\": Entsetzen bei Fürth nach 0:3",
+    "quelle": "sportschau.de",
+    "beschr": " \"Systemausfall\" und \"bodenlos\": Entsetzen bei Fürth nach 0:3 &nbsp;&nbsp; sportschau.de ",
+    "zeit": "2026-11-16T03:38"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-16T06:01",
+  "archiv": [
+   {
+    "id": "70eb8b6b7a",
+    "titel": "Fürth schlägt Würzburg im Testspiel 3:1, Keller trifft doppelt",
+    "datum": "12.11.",
+    "stufe": "spielbericht",
+    "summary": "Greuther Fürth schlägt Drittligist Würzburg im Testspiel 3:1, Aaron Keller trifft doppelt. Trainer Heiko Vogel ist trotzdem unzufrieden, am 21. November geht es in Hannover weiter."
+   },
+   {
+    "id": "4c95231583",
+    "titel": "Dresden schlägt Fürth 3:0 und verlässt das Tabellenende",
+    "datum": "06.11.",
+    "stufe": "spielbericht",
+    "summary": "Dynamo Dresden gewinnt gegen Greuther Fürth 3:0 und verlässt als vorläufig Vierzehnter das Tabellenende. Fürths Hendry Blank fälscht zwei Gegentore ab und sieht Gelb-Rot."
+   },
+   {
+    "id": "17f7b2ba54",
+    "titel": "Keller trifft spät: Fürth schlägt Kiel mit 1:0",
+    "datum": "01.11.",
+    "stufe": "spielbericht",
+    "summary": "Die SpVgg Greuther Fürth schlägt Holstein Kiel am 10. Spieltag mit 1:0. Aaron Keller trifft in der 87. Minute nach Vorarbeit von Dennis Srbeny."
+   }
+  ],
   "versuche": 1
  }
 ]
