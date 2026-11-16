@@ -1,0 +1,124 @@
+2026-11-16 21:01:32,120 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 1 passende Treffer
+2026-11-16 21:01:32,120 INFO S7 Ersatzquelle liefert Text (120 Wörter, 1 Quellen): Kimmich nach Rückkehr: Hier am absolut richtigen Ort
+2026-11-16 21:01:32,120 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 0 passende Treffer
+2026-11-16 21:01:32,121 INFO FinalCheck SKIP: borussia mönchengladbach/{'max muster'} stage=geruecht bereits in Archiv
+2026-11-16 21:01:32,121 INFO FinalCheck SKIP: borussia mönchengladbach/set() stage=geruecht bereits in Archiv
+2026-11-16 21:01:40,481 INFO 💶 Budget: dieser Lauf 0.076 $ | heute 0.00 $ | Monat 0.12 / 8 $
+2026-11-16 21:01:40,491 INFO URL-Cache geladen: 10673 bekannte URLs (letzte 30 Tage)
+2026-11-16 21:01:40,492 INFO === LO Generator startet – max. 50 Artikel ===
+2026-11-16 21:01:40,492 INFO Feed: https://newsfeed.kicker.de/news/2-bundesliga
+2026-11-16 21:01:40,730 INFO Feed: https://www.sport.de/rss/news/
+2026-11-16 21:01:41,072 INFO Feed: https://www.11freunde.de/feed
+2026-11-16 21:01:42,154 INFO Feed: https://news.google.com/rss/search?q=%222.+Bundesliga%22&hl=de&gl=DE&ceid=DE:de
+2026-11-16 21:01:42,557 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Verletzung+Ausfall+gesperrt&hl=de&gl=DE&ceid=DE:de
+2026-11-16 21:01:42,871 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Transfer+Wechsel+verpflichtet&hl=de&gl=DE&ceid=DE:de
+2026-11-16 21:01:43,183 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Ger%C3%BCcht+Interesse+Angebot&hl=de&gl=DE&ceid=DE:de
+2026-11-16 21:01:43,502 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Vertrag+verl%C3%A4ngert+abl%C3%B6sefrei&hl=de&gl=DE&ceid=DE:de
+2026-11-16 21:01:43,782 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Trainer+Entlassung&hl=de&gl=DE&ceid=DE:de
+2026-11-16 21:01:44,195 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Heidenheim%22+OR+Heidenheim+FCH+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-16 21:01:44,486 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Kaiserslautern%22+OR+%22FCK%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-16 21:01:44,817 WARNING Spielerliste nicht verfügbar: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-16 21:01:44,817 INFO BL-Spielerliste geladen: 0 Namen
+2026-11-16 21:01:44,817 INFO S3 keyword miss: Star­ke FKP-U13: Der FCK kann kom­men
+2026-11-16 21:01:44,818 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Magdeburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-16 21:01:45,229 INFO S3 keyword miss: Alle Termine im Überblick: Durch diese Städte rollt der Coca
+2026-11-16 21:01:45,229 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+N%C3%BCrnberg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-16 21:01:45,552 INFO Feed: https://news.google.com/rss/search?q=%22Arminia+Bielefeld%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-16 21:01:45,851 INFO S3 keyword miss: WDR Lokalzeit OWL | 16.11.2026
+2026-11-16 21:01:45,853 INFO Feed: https://news.google.com/rss/search?q=%22Dynamo+Dresden%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-16 21:01:46,124 INFO Feed: https://news.google.com/rss/search?q=%22Eintracht+Braunschweig%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-16 21:01:46,450 INFO Feed: https://news.google.com/rss/search?q=%22Energie+Cottbus%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-16 21:01:46,778 INFO Feed: https://news.google.com/rss/search?q=%22FC+St.+Pauli%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-16 21:01:47,159 INFO Feed: https://news.google.com/rss/search?q=%22Hannover+96%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-16 21:01:47,550 INFO S3 keyword miss: So hat 96-Patron Martin Kind (82) seinen neuen Sportdirektor
+2026-11-16 21:01:47,552 INFO S2 blacklist: Bayern-Interesse an Tresoldi enthüllt: Transfer hat einen Ha
+2026-11-16 21:01:47,554 INFO Feed: https://news.google.com/rss/search?q=%22Hertha+BSC%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-16 21:01:47,860 INFO Feed: https://news.google.com/rss/search?q=%22Holstein+Kiel%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-16 21:01:48,167 INFO S2 blacklist: Tops und Flops bei Holstein Kiel: Das erwartet den neuen Tra
+2026-11-16 21:01:48,170 INFO S3 keyword miss: Bob Hanning lobt Rasmus Ankermann und nimmt die SG Flensburg
+2026-11-16 21:01:48,175 INFO S3 keyword miss: Schwerer Frontalcrash auf der L49 bei Wattenbek: Taxi kollid
+2026-11-16 21:01:48,175 INFO Feed: https://news.google.com/rss/search?q=%22Karlsruher+SC%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-16 21:01:48,479 INFO S3 keyword miss: Ein Mann sieht Gelb: Warum man sich beim Club über eine Verw
+2026-11-16 21:01:48,479 INFO Feed: https://news.google.com/rss/search?q=%22Greuther+F%C3%BCrth%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-16 21:01:48,903 INFO Feed: https://news.google.com/rss/search?q=%22Darmstadt+98%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-16 21:01:49,187 INFO S2 blacklist: 12. Spieltag: SV Darmstadt 98 - 1.FC Heidenheim 1846 - SV Da
+2026-11-16 21:01:49,190 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Bochum%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-16 21:01:49,571 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Osnabr%C3%BCck%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-16 21:01:49,877 INFO S3 keyword miss: Tennis-Doppel Krawietz/Pütz siegt zum Start in ATP Finals
+2026-11-16 21:01:49,879 INFO S3 keyword miss: Neuendorf über Diallos FIFA-Kandidatur: „Zeichen gesetzt“
+2026-11-16 21:01:49,879 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Wolfsburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-16 21:01:50,269 INFO S2 blacklist: VfL Wolfsburg – SC Freiburg | Frauen-Bundesliga, 8. Spieltag
+2026-11-16 21:01:50,272 INFO S3 keyword miss: Die wichtigsten Niedersachsen-News des Tages – 16. November 
+2026-11-16 21:01:50,272 INFO Feed: https://newsfeed.kicker.de/team/1-fc-heidenheim
+2026-11-16 21:01:50,311 INFO Feed: https://newsfeed.kicker.de/team/1-fc-nuernberg
+2026-11-16 21:01:50,502 INFO Feed: https://newsfeed.kicker.de/team/arminia-bielefeld
+2026-11-16 21:01:50,650 INFO Feed: https://newsfeed.kicker.de/team/dynamo-dresden
+2026-11-16 21:01:50,689 INFO Feed: https://newsfeed.kicker.de/team/eintracht-braunschweig
+2026-11-16 21:01:50,824 INFO Feed: https://newsfeed.kicker.de/team/fc-st-pauli
+2026-11-16 21:01:50,866 INFO Feed: https://newsfeed.kicker.de/team/hannover-96
+2026-11-16 21:01:51,003 INFO Feed: https://newsfeed.kicker.de/team/hertha-bsc
+2026-11-16 21:01:51,136 INFO Feed: https://newsfeed.kicker.de/team/holstein-kiel
+2026-11-16 21:01:51,274 INFO Feed: https://newsfeed.kicker.de/team/vfl-bochum
+2026-11-16 21:01:51,415 INFO Feed: https://newsfeed.kicker.de/team/vfl-osnabrueck
+2026-11-16 21:01:51,773 INFO Eingelesen: 17 Schlagzeilen nach den Gratis-Filtern
+2026-11-16 21:01:51,800 INFO S5 Sammelartikel: Bielefeld kompakt: Bielefelder Kripofahndung, Bergbauschäden und Herfo
+2026-11-16 21:01:51,801 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: Neumünster: Polizeimeldungen aktuell - Verbrechen, Feuer, Unfälle (16.
+2026-11-16 21:01:51,801 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: Aktuelle Baustellen in Lübeck, heute, 16. November 2026
+2026-11-16 21:01:51,802 INFO S5: 14 neue Geschichten, 0 schon berichtet, 0 zu wartenden Geschichten ergänzt, 8 warten
+2026-11-16 21:02:46,004 INFO S6 aussortiert (prio_1): Nach Ausschreitungen bei Hertha-Spiel: Berliner Fan verurteilt
+2026-11-16 21:02:46,004 INFO S6 aussortiert (prio_0): Neuzugänge Ezeh und Raschl fehlen Dresden in den kommenden Wochen
+2026-11-16 21:02:46,005 INFO S6 aussortiert (prio_0): Zweitliga-Trio jagt Bayern-Talent Binder
+2026-11-16 21:02:46,005 INFO S6 aussortiert (prio_0): Das Wichtigste aus OWL: Frau in Bielefeld in Auto gezerrt & Schwänzen 
+2026-11-16 21:02:46,005 INFO S6 aussortiert (prio_1): Hannover 96: Neuer Sportdirektor Gabor Ruhr bündelt vier Aufgabenberei
+2026-11-16 21:02:46,005 INFO S6 aussortiert (doppelt): Gewalt im Stadion: Nach Randale bei Hertha-Spiel: Berliner Fan verurte
+2026-11-16 21:02:46,006 INFO S6 aussortiert (prio_0): Spielzeit für Eigengewächse: Hertha nutzt Gunst der Stunde – Werder pr
+2026-11-16 21:02:46,006 INFO S6 aussortiert (prio_0): Fußball: Von Wolfsburg bis Peking: So läuft es für Herthas Sommer-Abgä
+2026-11-16 21:02:46,006 INFO S6 aussortiert (prio_0): Wildberger lobt Schleswig-Holsteins Abschied von Microsoft
+2026-11-16 21:02:46,006 INFO S6 aussortiert (prio_0): Kommentar zum Staatsschutz: Wachsamkeit stärkt Darmstadt-Dieburg
+2026-11-16 21:02:46,006 INFO S6 aussortiert (prio_0): VfL Osnabrück: Kyereh feiert nach Comeback zweiten Sieg mit Ghana
+2026-11-16 21:02:46,439 INFO Google-News-Link nicht auflösbar: HTTP 429, keine Signatur
+2026-11-16 21:02:46,691 INFO S7 Ersatzquellen für "„Übergang nun geregelt“: Chatzialexiou wechselt fr": 1 passende Treffer
+2026-11-16 21:02:47,152 ERROR lxml parsing failed: Document is empty
+2026-11-16 21:02:47,153 ERROR lxml parser bytestring Document is empty
+2026-11-16 21:02:47,153 ERROR lxml parsing failed: Document is empty
+2026-11-16 21:02:47,153 ERROR lxml parser bytestring Document is empty
+2026-11-16 21:02:47,153 ERROR empty HTML tree: None
+2026-11-16 21:02:47,154 WARNING discarding data: None
+2026-11-16 21:02:47,154 INFO S7 kein Volltext (trafilatura_returned_empty): „Übergang nun geregelt“: Chatzialexiou wechselt früher von N
+2026-11-16 21:02:47,154 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): „Übergang nun geregelt“: Chatzialexiou wechselt früher von N
+2026-11-16 21:02:47,684 INFO S7 kein Volltext (too_short_53_words): FCM vor Bielefeld: Mittelfeld-Duo zurück auf dem Platz, aber
+2026-11-16 21:02:47,917 INFO S7 Ersatzquellen für "FCM vor Bielefeld: Mittelfeld-Duo zurück auf dem P": 0 passende Treffer
+2026-11-16 21:02:47,917 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): FCM vor Bielefeld: Mittelfeld-Duo zurück auf dem Platz, aber
+2026-11-16 21:02:48,395 INFO Google-News-Link nicht auflösbar: HTTP 429, keine Signatur
+2026-11-16 21:02:48,665 INFO S7 Ersatzquellen für "Hannover 96: Ex-Torhüter des FC Schönberg wird neu": 0 passende Treffer
+2026-11-16 21:02:48,665 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Hannover 96: Ex-Torhüter des FC Schönberg wird neuer Sportdi
+2026-11-16 21:02:48,925 INFO S7 Ersatzquellen für ""Moderner Sportdirektor mit breitem Netzwerk": Ruh": 0 passende Treffer
+2026-11-16 21:02:48,925 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): "Moderner Sportdirektor mit breitem Netzwerk": Ruhr übernimm
+2026-11-16 21:02:49,169 INFO S7 Ersatzquellen für "Viele Joker, wenig Ertrag: Diskussion um Senfts We": 0 passende Treffer
+2026-11-16 21:02:49,169 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Viele Joker, wenig Ertrag: Diskussion um Senfts Wechsel
+2026-11-16 21:02:49,438 INFO Google-News-Link nicht auflösbar: HTTP 429, keine Signatur
+2026-11-16 21:02:49,714 INFO S7 Ersatzquellen für "Tresoldi auf Bayerns Liste – verhindert Kanes Verl": 0 passende Treffer
+2026-11-16 21:02:49,714 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Tresoldi auf Bayerns Liste – verhindert Kanes Verlängerung e
+2026-11-16 21:02:50,151 INFO S7 Ersatzquellen für "Seimen über Belgien-Niederlage: "Fehler nicht erla": 0 passende Treffer
+2026-11-16 21:02:50,151 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Seimen über Belgien-Niederlage: "Fehler nicht erlaubt in dem
+2026-11-16 21:02:50,376 INFO Google-News-Link nicht auflösbar: HTTP 429, keine Signatur
+2026-11-16 21:02:50,625 INFO S7 Ersatzquellen für "SGE: Chatzialexiou kommt angeblich schon im Dezemb": 0 passende Treffer
+2026-11-16 21:02:50,626 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): SGE: Chatzialexiou kommt angeblich schon im Dezember
+2026-11-16 21:02:51,430 INFO S7 kein Volltext (too_short_41_words): VfL Wolfsburg: VW-Klub plant Winter-Transfer
+2026-11-16 21:02:51,759 INFO S7 Ersatzquellen für "VfL Wolfsburg: VW-Klub plant Winter-Transfer": 0 passende Treffer
+2026-11-16 21:02:51,759 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): VfL Wolfsburg: VW-Klub plant Winter-Transfer
+2026-11-16 21:02:52,023 INFO Google-News-Link nicht auflösbar: HTTP 429, keine Signatur
+2026-11-16 21:02:52,396 INFO S7 Ersatzquellen für "Kommentar zum VfL Wolfsburg: Den Bossen steht ein ": 0 passende Treffer
+2026-11-16 21:02:52,396 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Kommentar zum VfL Wolfsburg: Den Bossen steht ein kniffliger
+2026-11-16 21:02:52,934 WARNING discarding data: None
+2026-11-16 21:02:52,935 INFO S7 kein Volltext (trafilatura_returned_empty): 1. FC Kaiserslautern: Diese 3 Neuzugänge Sollen Den FCK Vers
+2026-11-16 21:02:53,176 INFO S7 Ersatzquellen für "1. FC Kaiserslautern: Diese 3 Neuzugänge Sollen De": 0 passende Treffer
+2026-11-16 21:02:53,176 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): 1. FC Kaiserslautern: Diese 3 Neuzugänge Sollen Den FCK Vers
+2026-11-16 21:02:53,177 INFO S9.5 FinalCheck: 0/0 durch
+2026-11-16 21:02:53,182 WARNING Sitemap ohne Spielerseiten: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-16 21:02:53,185 INFO 💶 Kosten: dieser Lauf 0.000 $ (Budget 0.076 $) | heute 0.00 $ | Monat 0.12 / 8 $ | konferenz (abo) 1× 0.000 $
+2026-11-16 21:02:53,185 INFO 🎫 Abo-Verbrauch: 2,169 Tokens rein (davon Cache gelesen 0), 7,665 raus, API-Gegenwert 0.04 $ | konferenz 1×: 2,169/7,665
+2026-11-16 21:02:53,207 INFO Feeds: 38/38 begonnen, nächster Lauf startet bei Nr. 0
+2026-11-16 21:02:53,207 INFO URL-Cache gespeichert: 10707 URLs
+2026-11-16 21:02:53,207 INFO === Fertig. 0 neue Artikel. feed.json: 136 ===
+2026-11-16 21:02:53,207 INFO Stats: {"ts": "20261116_2101", "ingested": 33, "s2_pre_filter": 6, "s3_relevance": 10, "s4_dedup_early": 0, "gesammelt": 17, "geschichten_neu": 14, "s5_archiv_doppelt": 0, "s5_zusammengefuehrt": 0, "s6_aussortiert": 11, "s7_geschrieben": 0, "s7_verworfen": 0, "s5_fulltext_fail": 11, "s8_qa_rejected": 0, "published": 0, "s5_randthema": 1, "s5_ohne_bezug": 2, "kosten": {"lauf_usd": 0.0, "lauf_budget_usd": 0.0765, "heute_usd": 0.0, "monat_usd": 0.1238, "monatsbudget_usd": 8.0, "aufrufe": {"konferenz (abo)": {"anzahl": 1, "usd": 0.0}}, "guthaben_leer": false, "abo": true, "abo_tokens": {"konferenz": {"aufrufe": 1, "ein": 2169, "cache_schreiben": 0, "cache_lesen": 0, "aus": 7665, "api_wert_usd": 0.0405}}}}

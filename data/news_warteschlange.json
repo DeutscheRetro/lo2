@@ -1,49 +1,5 @@
 [
  {
-  "id": "8a070ea360",
-  "schluessel": "hannover|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hannover",
-  "klubs": [
-   "Hannover"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "\"Moderner Sportdirektor mit breitem Netzwerk\": Ruhr übernimmt in Hannover",
-  "quellen": [
-   {
-    "url": "https://www.kicker.de/moderner-sportdirektor-mit-breitem-netzwerk-ruhr-uebernimmt-in-hannover-1272048/artikel#omrss",
-    "aid": "554b1a6e4c",
-    "titel": "\"Moderner Sportdirektor mit breitem Netzwerk\": Ruhr übernimmt in Hannover",
-    "quelle": "kicker 2. Bundesliga News",
-    "beschr": "Nach der Entlassung von Sportvorstand Jonas Boldt und Sportdirektor Ralf Becker ist Hannover 96 auf der Suche nach einem neuen starken Mann fündig geworden: Gabor Ruhr kommt von Norwich City.",
-    "zeit": "2026-11-16T12:01"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-16T15:02",
-  "archiv": [
-   {
-    "id": "46380a1986",
-    "titel": "Wontorra stärkt Hannovers Trainer Wagner den Rücken",
-    "datum": "01.11.",
-    "stufe": "sonstiges",
-    "summary": "Moderatorin Laura Wontorra stärkt Hannovers Trainer Sandro Wagner, der nach vier Pflichtspielen noch sieglos ist, im Podcast „TOMorrow“ den Rücken. Sie traut ihm eine große Trainerkarriere zu."
-   },
-   {
-    "id": "afa3db9641",
-    "titel": "Hannover 96 trennt sich nach fünf Monaten von Sportchef Boldt",
-    "datum": "01.11.",
-    "stufe": "sonstiges",
-    "summary": "Hannover 96 hat Sport-Geschäftsführer Jonas Boldt nach nur fünf Monaten mit sofortiger Wirkung abberufen. Der Klub steht nach neun Spieltagen mit acht Punkten auf Platz 16."
-   }
-  ],
-  "versuche": 2
- },
- {
   "id": "2ee5d618ba",
   "schluessel": "nurnberg|sonstiges",
   "person": "",
@@ -93,7 +49,7 @@
     "summary": "Der 1. FC Nürnberg macht Dieter Frey zum Sportvorstand und Nachfolger des zu Eintracht Frankfurt wechselnden Joti Chatzialexiou. Frey war seit 2024 Sportlicher Leiter und stieg Anfang 2026 zum Direktor auf."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "6b88bcc914",
@@ -122,7 +78,7 @@
   "status": "n",
   "erstmals": "2026-11-16T18:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "d80285d8c3",
@@ -151,7 +107,7 @@
   "status": "n",
   "erstmals": "2026-11-16T18:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "6faffe1e5d",
@@ -180,7 +136,7 @@
   "status": "n",
   "erstmals": "2026-11-16T18:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "2d80582585",
@@ -231,7 +187,7 @@
     "summary": "Heidenheim empfängt am Sonntag Hannover 96 und ist zu Hause noch ungeschlagen. Es ist das erste Spiel nach der Ankündigung, dass Trainer Frank Schmidt im Sommer aufhört."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "1e4c99a29c",
@@ -268,7 +224,7 @@
     "summary": "Der VfL Wolfsburg verhandelt laut „Sky“ über einen Winter-Transfer von Gabriel Wesseh von Fredrikstad FK. Der 18-Jährige hat dort noch Vertrag bis 2030 und kommt auf fünf Torbeteiligungen in zwölf Spielen."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "62ca0a1691",
@@ -303,6 +259,108 @@
     "datum": "13.11.",
     "stufe": "geruecht",
     "summary": "Der VfL Wolfsburg verhandelt laut „Sky“ über einen Winter-Transfer von Gabriel Wesseh von Fredrikstad FK. Der 18-Jährige hat dort noch Vertrag bis 2030 und kommt auf fünf Torbeteiligungen in zwölf Spielen."
+   }
+  ],
+  "versuche": 2
+ },
+ {
+  "id": "8255791914",
+  "schluessel": "karlsruhe|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Karlsruhe",
+  "klubs": [
+   "Karlsruhe"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Viele Joker, wenig Ertrag: Diskussion um Senfts Wechsel",
+  "quellen": [
+   {
+    "url": "https://www.kicker.de/viele-joker-wenig-ertrag-diskussion-um-senfts-wechsel-1271878/artikel#omrss",
+    "aid": "bdd58325f4",
+    "titel": "Viele Joker, wenig Ertrag: Diskussion um Senfts Wechsel",
+    "quelle": "kicker 2. Bundesliga News",
+    "beschr": "52-mal hat Maximilian Senft in dieser Saison bisher beim KSC ein- und ausgewechselt. Messbaren Erfolg brachte diese Vielzahl an Wechseln bisher noch nicht. Auch deshalb bleiben die Entscheidungen des neuen Karlsruher Trainers ein großes Thema.",
+    "zeit": "2026-11-16T19:25"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-16T21:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "b89f396494",
+  "schluessel": "bayern|vertrag",
+  "person": "",
+  "spieler": [],
+  "klub": "Bayern",
+  "klubs": [
+   "Bayern"
+  ],
+  "stufe": "vertrag",
+  "klasse": "vertrag",
+  "titel": "Tresoldi auf Bayerns Liste – verhindert Kanes Verlängerung einen Wechsel?",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQS05JMjBPbDJfRW5sZWtPN01FT3NmUElSaUFKMWp3TllfNmVjanA0Qk5KbVRTbVFjUzZXQi1XQWxxZVhrNWdXdjVJaWlIVWRlM0lLZi1LelNqOTh0YlJHLWZSOGMyRVU2a0xnTzdmcWNueHV3dGdpZ0xRSEZ2RHphNnpFdmlJQ3JhQ3U2SUhwUll0NkRjMDUzeURjSmZpVVZla0RSa2ZYNHpTSDNGZEkyRVFfUjRGU1lTVUFPY1g4c1AxeDJqV2ZQZ0xzZXVqLVNFWWxtV2hIeW1paVBxQThBRnZMS0E2MG1CYy0wdDdGNk9ELXZYYlAtRkVPMy1Ca1RIak9vekVUYw?oc=5",
+    "aid": "f6d339d997",
+    "titel": "Tresoldi auf Bayerns Liste – verhindert Kanes Verlängerung einen Wechsel?",
+    "quelle": "n-tv.de",
+    "beschr": " Tresoldi auf Bayerns Liste – verhindert Kanes Verlängerung einen Wechsel? &nbsp;&nbsp; n-tv.de ",
+    "zeit": "2026-11-16T18:45"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-16T21:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "0a9af8416c",
+  "schluessel": "frankfurt|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Frankfurt",
+  "klubs": [
+   "Frankfurt"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "SGE: Chatzialexiou kommt angeblich schon im Dezember",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM05tc1BheWl5LWxVRXFxSFFxNW9CR1J1TnM1UGpTUThmOGJ1clgxUWRSWHc1TEpKWC1XWVFvUmY1NnpMcVdkVmVKLVNsNDN3TG1EdW1qUDQ4MGNyOFRKSDdaUlhOVEdFd0gxdDR5YkpJWW11b0paTjhrcVFLU0JYU2REQ2Z6VFRzV2w1Wi1DWWVyYkNJcUZGNDQ2bWZDT0s4ZzNmR2dLWnNZUQ?oc=5",
+    "aid": "cbbda44f43",
+    "titel": "SGE: Chatzialexiou kommt angeblich schon im Dezember",
+    "quelle": "Hit Radio FFH",
+    "beschr": " SGE: Chatzialexiou kommt angeblich schon im Dezember &nbsp;&nbsp; Hit Radio FFH ",
+    "zeit": "2026-11-16T16:46"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "u",
+  "erstmals": "2026-11-16T21:01",
+  "archiv": [
+   {
+    "id": "d3f8559dfc",
+    "titel": "Nürnberg: Chatzialexiou-Wechsel nach Frankfurt könnte früher kommen",
+    "datum": "07.11.",
+    "stufe": "sonstiges",
+    "summary": "Nürnbergs Sportvorstand Joti Chatzialexiou könnte früher als am 1. Februar 2027 zu Eintracht Frankfurt wechseln. Nachfolger Dieter Frey steht bereits fest, eine Entscheidung könnte in der Länderspielpause fallen."
+   },
+   {
+    "id": "8249a06f6e",
+    "titel": "Klose bedauert Abgang von Chatzialexiou und hält sich beim Aufstieg bedeckt",
+    "datum": "06.11.",
+    "stufe": "sonstiges",
+    "summary": "Nürnbergs Trainer Miroslav Klose bedauert den Wechsel von Sportchef Joti Chatzialexiou zu Eintracht Frankfurt spätestens zum 1. Februar 2027. Zum Aufstieg hält sich der Club-Tabellenzweite bedeckt."
    }
   ],
   "versuche": 1
