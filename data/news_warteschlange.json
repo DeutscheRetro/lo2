@@ -1,166 +1,5 @@
 [
  {
-  "id": "79312e71c5",
-  "schluessel": "hertha|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hertha",
-  "klubs": [
-   "Hertha"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "(k+) Hertha: Darum hält Görlich die Schlagzahl hoch",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMllUNnlHLTE2RXg2RzV5RVRQbHJZbnhyamw0OFJkN2N1QXNWVk03NzRLU0VfcThIRUdnWkJTSlQ5Y0FFRW1jNXZvYWJDcTVDTTNtWW1rRVVrOWdibnhidUlmcGZfalgyVXVXMVJmeVF3MmxwaVhscFBscVg3OWlCdVlVRTJMTFNWclRSal93?oc=5",
-    "aid": "f46dca5c07",
-    "titel": "(k+) Hertha: Darum hält Görlich die Schlagzahl hoch",
-    "quelle": "Kicker",
-    "beschr": " (k+) Hertha: Darum hält Görlich die Schlagzahl hoch &nbsp;&nbsp; Kicker ",
-    "zeit": "2026-11-15T19:05"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-15T21:01",
-  "archiv": [
-   {
-    "id": "0243113205",
-    "titel": "Messi wählt Maza: Hertha stolz auf Ex-Talent aus der Akademie",
-    "datum": "03.11.",
-    "stufe": "sonstiges",
-    "summary": "Lionel Messi hat Ex-Herthaner Ibrahim Maza bei der Kopa-Trophäe als einziger Juror auf Platz drei gesetzt. Hertha zeigt sich stolz, Maza landete in der Endabrechnung auf Rang neun."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "5ce8e91a45",
-  "schluessel": "nurnberg|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Nürnberg",
-  "klubs": [
-   "Nürnberg"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "FCK-Trainer Torsten Lieberknecht im Interview nach dem Sieg in Nürnberg",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONHNuXy1zNHlBMm5RRVVWT0IycjdsemhtSmlqNjhxTnlUUWZpQkhtYm10S0FLTzI0R2lKN1UzbHhOcXM3QUhCOWU0TWFwZkpTbkV1WlQ0Sk1OZnIxUUFJcUxMbmptSVlWQ0k4S0xJSFZoTXRKenB2MTgzajhaamoxVU9UdFBraXRTR01JYU9LQk1GeUJxbUdmeHFINmV6YXpWQ0dwTElRU0dIODA5NURVa0t2MVlFSzBJVjlocV8tNlJScWZiM1I3M1pmNDI?oc=5",
-    "aid": "33c9a98f8e",
-    "titel": "FCK-Trainer Torsten Lieberknecht im Interview nach dem Sieg in Nürnberg",
-    "quelle": "sportschau.de",
-    "beschr": " FCK-Trainer Torsten Lieberknecht im Interview nach dem Sieg in Nürnberg &nbsp;&nbsp; sportschau.de ",
-    "zeit": "2026-11-15T16:36"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-15T21:01",
-  "archiv": [
-   {
-    "id": "6bff53df7c",
-    "titel": "Darmstadt gewinnt Testspiel in Nürnberg mit 4:1",
-    "datum": "08.11.",
-    "stufe": "spielbericht",
-    "summary": "Darmstadt 98 gewinnt ein nicht öffentliches Testspiel beim 1. FC Nürnberg mit 4:1, Lakenmacher trifft doppelt. Weitere Testspiele in der Länderspielpause sind nicht geplant."
-   },
-   {
-    "id": "12b3d6a07a",
-    "titel": "Nürnberg schlägt Darmstadt dank Scobel und Bøving mit 2:0",
-    "datum": "07.11.",
-    "stufe": "spielbericht",
-    "summary": "Der 1. FC Nürnberg gewinnt am 11. Spieltag mit 2:0 gegen Darmstadt 98. Piet Scobel und William Bøving treffen nach der Pause."
-   },
-   {
-    "id": "b4e9126002",
-    "titel": "Klose nach Sieg bei St. Pauli: „Normalerweise verliert man solche Spiele“",
-    "datum": "06.11.",
-    "stufe": "spielbericht",
-    "summary": "Nürnbergs Trainer Miroslav Klose ordnet den 3:1-Sieg bei St. Pauli ein und lobt die Gemeinschaft im Team. Über einen Aufstieg als Ziel will er als Tabellenzweiter nicht sprechen."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "bb1e88f932",
-  "schluessel": "braunschweig|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Braunschweig",
-  "klubs": [
-   "Braunschweig"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Klarer Sieg gegen Ditzinger: So sicherte sich Kumpis ihre nächste Amtszeit",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxORFpuQUthYmpWcmZtTFg1WWlPTHJCREZVQUg5cjRwQkdraktRU25LZnBFWkFSMGxZYklDSUN2SmJGZEdueTQtZnRUMU03WDl3RDJTUnRQX2ZCbnpwYzVUWEJ6T0hyODdsQmhEOFREemdIQlV0VmVfekNCTjUtbi1RNFdzckswUmRKNzhjMzVTU1h3MFBlaS02VFdObFBaTnc2LUtGWlRXOGZvUU9Qc01CZll6el9yOWFzLVFVZzJNQ2lwMTEweXhPeHVmTWUxNDN6OUtNQU5GRjRRbGtiZTFuZDlCVmRGMWZDTW50d0c1VjJudTNPSHc?oc=5",
-    "aid": "cacb2f35cd",
-    "titel": "Klarer Sieg gegen Ditzinger: So sicherte sich Kumpis ihre nächste Amtszeit",
-    "quelle": "Braunschweiger Zeitung",
-    "beschr": " Klarer Sieg gegen Ditzinger: So sicherte sich Kumpis ihre nächste Amtszeit &nbsp;&nbsp; Braunschweiger Zeitung ",
-    "zeit": "2026-11-15T20:51"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-15T21:01",
-  "archiv": [
-   {
-    "id": "133c96c002",
-    "titel": "Braunschweig verliert Test beim SC Paderborn mit 1:4",
-    "datum": "10.11.",
-    "stufe": "spielbericht",
-    "summary": "Eintracht Braunschweig hat ein Testspiel beim SC Paderborn mit 1:4 verloren. Lukas Frenkert traf nach der Pause erst ins eigene, dann ins richtige Tor."
-   },
-   {
-    "id": "326a90cf49",
-    "titel": "Cottbus holt 0:0 in Braunschweig: Kinsombi trifft den Pfosten",
-    "datum": "06.11.",
-    "stufe": "spielbericht",
-    "summary": "Energie Cottbus und Eintracht Braunschweig trennen sich am 11. Spieltag 0:0. Kinsombi traf in der 14. Minute den Pfosten, beide Teams haben nun 11 Punkte."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "ab21daefe8",
-  "schluessel": "frankfurt|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Frankfurt",
-  "klubs": [
-   "Frankfurt"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Frankfurt meldet sich zurück: Eintracht feiert Kantersieg in Leipzig",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMVhjYWR4M0hOVVZSWFY5ZEt6WE9qaVFHekxrd1lUWE1OZE82UGU0ckdQbVVIQ0sxdmRwd1I1bXd4UUZaSjQySlZVdVY3VWdudHI2M2xKeWZfRWUtN0FzVDdZbUxtZDVmWkJEdjlIWmNiYU9PVmRfZGFlNXZISFlDR2FsRV9Dd2tqU05uNnlRRm8?oc=5",
-    "aid": "e25661a0a2",
-    "titel": "Frankfurt meldet sich zurück: Eintracht feiert Kantersieg in Leipzig",
-    "quelle": "Sky.de",
-    "beschr": " Frankfurt meldet sich zurück: Eintracht feiert Kantersieg in Leipzig &nbsp;&nbsp; Sky.de ",
-    "zeit": "2026-11-15T18:43"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-15T21:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
   "id": "af56c8ec8e",
   "schluessel": "st. pauli|sonstiges",
   "person": "",
@@ -202,7 +41,7 @@
     "summary": "Magdeburg trifft im Heimspiel auf St. Pauli und damit auf die Ex-Spieler Martijn Kaars und Marcus Mathisen, die in Hamburg beide kaum spielen. Mateusz Zukowski ist für den FCM weiterhin fraglich."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "a860f11c81",
@@ -239,7 +78,7 @@
     "summary": "Der KSC steht nach elf Spieltagen mit elf Punkten auf Relegationsrang 16 und stellt die schlechteste Defensive der Liga. Trainer Maximilian Senft hat System und Spielstil angepasst, Erfolg brachte das bisher nicht."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "e9cbbbe404",
@@ -290,6 +129,35 @@
     "summary": "Die SpVgg Greuther Fürth schlägt Holstein Kiel am 10. Spieltag mit 1:0. Aaron Keller trifft in der 87. Minute nach Vorarbeit von Dennis Srbeny."
    }
   ],
+  "versuche": 2
+ },
+ {
+  "id": "0cdf3c8058",
+  "schluessel": "bielefeld|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Bielefeld",
+  "klubs": [
+   "Bielefeld"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Hyryläinen verschärft das Problem: FCM kritisiert Ansetzung in Bielefeld",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRjgwXzRUNVFfZDZJeWp3YzhVSjVWUFZkM1lzeEt3VWIwOUFKS18yWnA5SnM4Q3FXcEZRRlZKbG9ScDlBcldMc2ZCdlJZcHlieV9PMUpqektCNmhoWDdkLUVhNmRCTjJaNEwwVXN6amJ2cWozS0RKVTk3M0Mza29LZzZxdy1oeXhGajNLZ25PYTN0STVmT3lUYUVudmJXVTR0LXlYOFBLdUpqQ1NIV2ZoZnRR?oc=5",
+    "aid": "32b1966d92",
+    "titel": "Hyryläinen verschärft das Problem: FCM kritisiert Ansetzung in Bielefeld",
+    "quelle": "Magdeburg Blau-Weiß",
+    "beschr": " Hyryläinen verschärft das Problem: FCM kritisiert Ansetzung in Bielefeld &nbsp;&nbsp; Magdeburg Blau-Weiß ",
+    "zeit": "2026-11-16T08:48"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-16T09:01",
+  "archiv": [],
   "versuche": 1
  }
 ]
