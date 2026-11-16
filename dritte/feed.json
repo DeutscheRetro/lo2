@@ -1,5 +1,83 @@
 [
   {
+    "id": "06f74ee539",
+    "titel": "Düsseldorf: Jobst nach Misstrauensvotum „Ich kann die Mitglieder verstehen“",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "16.11.2026 18:49",
+    "wappen_url": "logos/duesseldorf.png",
+    "vereine": [
+      "Düsseldorf"
+    ],
+    "anriss": "Fortuna Düsseldorfs Vorstandsvorsitzender Alexander Jobst ist bei der Mitgliederversammlung am Sonntag nicht entlastet worden. Er bleibt vorerst im Amt, ist aber der einzige noch aktive Vorstand, dem die Mitglieder die Entlastung verweigerten. Nach der fast neunstündigen Versammlung im Congress Center zeigte er Verständnis. Neben Jobst",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Düsseldorf",
+    "pfad": "artikel/duesseldorf-jobst-nach-misstrauensvotum-ich-kann-die-mitglieder-06f74ee539.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "3e805f076d",
+    "titel": "Kittner: Münster hält trotz Krise an Wörle fest",
+    "kategorie": "interview",
+    "badge": "Interview",
+    "badge_bg": "#1976d2",
+    "badge_fg": "#fff",
+    "datum": "16.11.2026 18:49",
+    "wappen_url": "logos/muenster.png",
+    "vereine": [
+      "Münster"
+    ],
+    "anriss": "Preußen Münsters Sport-Geschäftsführer Ole Kittner hat bei der Mitgliederversammlung am Sonntag von einem „kritischen Moment“ gesprochen. Der Absteiger aus der 2. Bundesliga hat nach 13 Spielen nur 15 Punkte und drei Zähler Vorsprung auf die Abstiegsplätze der 3. Liga. Dennoch sagte Kittner laut „Bild“: „Wir",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Münster",
+    "pfad": "artikel/kittner-muenster-haelt-trotz-krise-an-woerle-fest-3e805f076d.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "recht",
+      "frage": "Hat Kittner recht: Münster steigt dieses Jahr nicht ab?",
+      "antworten": [
+        "Ja",
+        "Nein"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "9d292ef115",
+    "titel": "RWE zieht mit 4:0 bei Ratingen ins Pokal-Halbfinale ein",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "16.11.2026 18:48",
+    "wappen_url": "logos/essen.png",
+    "vereine": [
+      "RW Essen"
+    ],
+    "anriss": "Rot-Weiss Essen hat das Viertelfinale im Niederrheinpokal gegen Oberligist Ratingen 04/19 mit 4:0 (2:0) gewonnen. Für den Drittligisten ging es damit ohne Mühe weiter, Ratingen ist im Wettbewerb ausgeschieden. Essens Trainer Uwe Koschinat lobte den Gegner nach der Partie ausdrücklich. Er attestierte den Ratingern eine",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "RW Essen",
+    "pfad": "artikel/rwe-zieht-mit-4-0-bei-ratingen-ins-pokal-halbfinale-ein-9d292ef115.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    },
+    "n11": false
+  },
+  {
     "id": "e3b1d4810e",
     "titel": "Münster in der Krise: Kittner spricht vom „kritischen Moment“",
     "kategorie": "news",
