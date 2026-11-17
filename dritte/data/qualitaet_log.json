@@ -511,5 +511,44 @@
   "gruende": [],
   "alt_titel": null,
   "quelle_gelesen": true
+ },
+ {
+  "zeit": "17.11.2026 03:47",
+  "id": "9d292ef115",
+  "pfad": "artikel/rwe-zieht-mit-4-0-bei-ratingen-ins-pokal-halbfinale-ein-9d292ef115.html",
+  "urteil": "verbessert",
+  "gruende": [
+   "Titel: Die Quelle sagt nicht, dass in Ratingen gespielt wurde, daher „gegen Ratingen“ statt „bei Ratingen“",
+   "Intro: „ohne Mühe“ gestrichen, weil die Quelle das nicht hergibt",
+   "Einordnung „Drittliga-Spitzenteam“ aus der Quelle ergänzt",
+   "Damian Apfeld als Ratinger Trainer klarer eingeordnet",
+   "„enttäuschenden“ gestrichen, weil die Wertung nicht klar zugeordnet war",
+   "Schluss: Die Sätze zu Tabelle und Freitagsspiel sind zusammengefasst, damit der Ausblick deutlicher wird"
+  ],
+  "alt_titel": "RWE zieht mit 4:0 bei Ratingen ins Pokal-Halbfinale ein",
+  "quelle_gelesen": true
+ },
+ {
+  "zeit": "17.11.2026 03:47",
+  "id": "06f74ee539",
+  "pfad": "artikel/duesseldorf-jobst-nach-misstrauensvotum-ich-kann-die-mitglieder-06f74ee539.html",
+  "urteil": "verbessert",
+  "gruende": [
+   "Titel: „Misstrauensvotum“ durch das zutreffende „Nicht-Entlastung“ ersetzt, denn in der Quelle geht es um eine verweigerte Entlastung, nicht um ein formales Misstrauensvotum",
+   "Zu langen Satz über Arabi und Staade (über 25 Wörter) geteilt",
+   "Zitat zum rauen Ton nicht mehr ohne Kennzeichnung gekürzt: Die ausgelassene Stelle steht jetzt als eigenes, korrekt belegtes Zitat im Text",
+   "Jobsts Aussage, er sei der letzte Verbleibende aus dem alten Vorstand, als Einordnung ergänzt (steht in der Quelle)"
+  ],
+  "alt_titel": "Düsseldorf: Jobst nach Misstrauensvotum „Ich kann die Mitglieder verstehen“",
+  "quelle_gelesen": true
+ },
+ {
+  "zeit": "17.11.2026 03:48",
+  "id": "3e805f076d",
+  "pfad": "artikel/kittner-muenster-haelt-trotz-krise-an-woerle-fest-3e805f076d.html",
+  "urteil": "ok",
+  "gruende": [],
+  "alt_titel": null,
+  "quelle_gelesen": true
  }
 ]

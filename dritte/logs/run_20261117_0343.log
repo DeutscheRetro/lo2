@@ -1,0 +1,82 @@
+2026-11-17 03:43:49,299 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 1 passende Treffer
+2026-11-17 03:43:49,299 INFO S7 Ersatzquelle liefert Text (120 Wörter, 1 Quellen): Kimmich nach Rückkehr: Hier am absolut richtigen Ort
+2026-11-17 03:43:49,299 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 0 passende Treffer
+2026-11-17 03:43:49,299 INFO FinalCheck SKIP: borussia mönchengladbach/{'max muster'} stage=geruecht bereits in Archiv
+2026-11-17 03:43:49,300 INFO FinalCheck SKIP: borussia mönchengladbach/set() stage=geruecht bereits in Archiv
+2026-11-17 03:43:57,023 INFO 💶 Budget: dieser Lauf 0.000 $ | heute 0.00 $ | Monat 0.00 / 0 $
+2026-11-17 03:43:57,025 INFO URL-Cache geladen: 3051 bekannte URLs (letzte 30 Tage)
+2026-11-17 03:43:57,025 INFO === LO Generator startet – max. 50 Artikel ===
+2026-11-17 03:43:57,025 INFO Feed: https://newsfeed.kicker.de/news/3-liga
+2026-11-17 03:43:57,068 INFO Feed: https://www.sport.de/rss/news/
+2026-11-17 03:43:57,191 INFO Feed: https://www.11freunde.de/feed
+2026-11-17 03:43:57,765 INFO Feed: https://news.google.com/rss/search?q=%223.+Liga%22&hl=de&gl=DE&ceid=DE:de
+2026-11-17 03:44:03,873 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Verletzung+Ausfall+gesperrt&hl=de&gl=DE&ceid=DE:de
+2026-11-17 03:44:13,513 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Transfer+Wechsel+verpflichtet&hl=de&gl=DE&ceid=DE:de
+2026-11-17 03:44:21,053 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Ger%C3%BCcht+Interesse+Angebot&hl=de&gl=DE&ceid=DE:de
+2026-11-17 03:44:30,387 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Vertrag+verl%C3%A4ngert+abl%C3%B6sefrei&hl=de&gl=DE&ceid=DE:de
+2026-11-17 03:44:36,142 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Trainer+Entlassung&hl=de&gl=DE&ceid=DE:de
+2026-11-17 03:44:45,970 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Saarbr%C3%BCcken%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 03:44:55,345 INFO Feed: https://news.google.com/rss/search?q=%22Alemannia+Aachen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 03:45:03,634 INFO Feed: https://news.google.com/rss/search?q=%22FC+Ingolstadt%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 03:45:04,125 INFO Feed: https://news.google.com/rss/search?q=%22Fortuna+D%C3%BCsseldorf%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 03:45:12,582 INFO Feed: https://news.google.com/rss/search?q=%22Fortuna+K%C3%B6ln%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 03:45:20,237 INFO Feed: https://news.google.com/rss/search?q=%22Hansa+Rostock%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 03:45:25,623 INFO Feed: https://news.google.com/rss/search?q=%22Jahn+Regensburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 03:45:34,617 INFO Feed: https://news.google.com/rss/search?q=%22MSV+Duisburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 03:45:35,107 INFO Feed: https://news.google.com/rss/search?q=%22Preu%C3%9Fen+M%C3%BCnster%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 03:45:44,551 INFO Feed: https://news.google.com/rss/search?q=%22Rot-Weiss+Essen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 03:45:52,502 INFO Feed: https://news.google.com/rss/search?q=%22SC+Verl%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 03:45:58,543 INFO Feed: https://news.google.com/rss/search?q=%22Sonnenhof+Gro%C3%9Faspach%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 03:46:06,304 INFO Feed: https://news.google.com/rss/search?q=%22SV+Meppen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 03:46:12,744 INFO Feed: https://news.google.com/rss/search?q=%22Waldhof+Mannheim%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 03:46:22,166 INFO Feed: https://news.google.com/rss/search?q=%22Wehen+Wiesbaden%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 03:46:31,042 INFO Feed: https://news.google.com/rss/search?q=%22Hoffenheim+II%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 03:46:40,007 INFO Feed: https://news.google.com/rss/search?q=%22TSV+Havelse%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 03:46:45,806 INFO Feed: https://news.google.com/rss/search?q=%22VfB+Stuttgart+II%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 03:46:46,309 INFO Feed: https://news.google.com/rss/search?q=%22Viktoria+K%C3%B6ln%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 03:46:46,777 INFO Feed: https://news.google.com/rss/search?q=%22W%C3%BCrzburger+Kickers%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 03:46:53,105 INFO Feed: https://newsfeed.kicker.de/team/1-fc-saarbruecken
+2026-11-17 03:46:53,469 INFO Feed: https://newsfeed.kicker.de/team/alemannia-aachen
+2026-11-17 03:46:53,814 INFO Feed: https://newsfeed.kicker.de/team/fc-ingolstadt-04
+2026-11-17 03:46:53,941 INFO Feed: https://newsfeed.kicker.de/team/fortuna-duesseldorf
+2026-11-17 03:46:54,060 INFO Feed: https://newsfeed.kicker.de/team/hansa-rostock
+2026-11-17 03:46:54,182 INFO Feed: https://newsfeed.kicker.de/team/jahn-regensburg
+2026-11-17 03:46:54,306 INFO Feed: https://newsfeed.kicker.de/team/msv-duisburg
+2026-11-17 03:46:54,427 INFO Feed: https://newsfeed.kicker.de/team/preussen-muenster
+2026-11-17 03:46:54,455 INFO Feed: https://newsfeed.kicker.de/team/rot-weiss-essen
+2026-11-17 03:46:54,574 INFO Feed: https://newsfeed.kicker.de/team/sc-verl
+2026-11-17 03:46:54,856 INFO Feed: https://newsfeed.kicker.de/team/waldhof-mannheim
+2026-11-17 03:46:54,980 INFO Feed: https://newsfeed.kicker.de/team/sv-wehen-wiesbaden
+2026-11-17 03:46:55,102 INFO Feed: https://newsfeed.kicker.de/team/tsg-hoffenheim-ii
+2026-11-17 03:46:55,404 INFO Feed: https://newsfeed.kicker.de/team/tsv-havelse
+2026-11-17 03:46:55,648 INFO Feed: https://newsfeed.kicker.de/team/vfb-stuttgart-ii
+2026-11-17 03:46:55,936 INFO Feed: https://newsfeed.kicker.de/team/fc-viktoria-koeln
+2026-11-17 03:46:56,219 INFO Eingelesen: 0 Schlagzeilen nach den Gratis-Filtern
+2026-11-17 03:46:56,224 INFO S5: 0 neue Geschichten, 0 schon berichtet, 0 zu wartenden Geschichten ergänzt, 14 warten
+2026-11-17 03:46:57,457 INFO Google-News-Link nicht auflösbar: HTTP 429, keine Signatur
+2026-11-17 03:47:02,623 INFO S7 Ersatzquellen für "SC Verl: Trainer Shala befürchtet lange Pause für ": 0 passende Treffer
+2026-11-17 03:47:02,623 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): SC Verl: Trainer Shala befürchtet lange Pause für Mika Claus
+2026-11-17 03:47:11,445 INFO Google-News-Link nicht auflösbar: HTTP 503, keine Signatur
+2026-11-17 03:47:19,756 INFO S7 Ersatzquellen für "Unterfrankenderby – Würzburg bezwingt Aschaffenbur": 0 passende Treffer
+2026-11-17 03:47:19,756 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Unterfrankenderby – Würzburg bezwingt Aschaffenburg
+2026-11-17 03:47:27,625 INFO Google-News-Link nicht auflösbar: HTTP 503, keine Signatur
+2026-11-17 03:47:27,626 WARNING Google-News-Links in diesem Lauf nicht auflösbar – nur direkte Quellen
+2026-11-17 03:47:27,626 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Fortuna Düsseldorf - 1. FC Saarbrücken | Highlights 3. Liga 
+2026-11-17 03:47:27,626 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Rot-Weiss Essen: Schon im Sommer angefragt - RWE hat diesen 
+2026-11-17 03:47:27,626 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Niederrheinpokal: Düsseldorf-Duisburg-Duell knackt historisc
+2026-11-17 03:47:27,626 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Fortuna Düsseldorf und MSV Duisburg: Zuschauerrekord im Nied
+2026-11-17 03:47:27,627 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Vogelstang korrigiert die Saisonziele
+2026-11-17 03:47:27,627 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Preußen Münster: Stadion als "Lebensversicherung" - sportlic
+2026-11-17 03:47:27,627 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): RWE: Knipser und Flügel-Rakete gesucht – so sehen die Essene
+2026-11-17 03:47:27,627 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): MSV Duisburg: Fortuna-Revanche, Pokal-Traum, Zuschauerrekord
+2026-11-17 03:47:27,627 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Ratingen 04/19: Rot-Weiss zwei Nummern zu groß - Apfeld best
+2026-11-17 03:47:27,627 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Rot-Weiss Essen: RWE-Profi Reisig wird immer wichtiger – ein
+2026-11-17 03:47:27,627 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Rot-Weiss Essen: Fingerzeig für Verl? Koschinat erprobt Mitt
+2026-11-17 03:47:27,627 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Hansa Rostock: Breitenreiter wechselt früher als Brinkmann –
+2026-11-17 03:47:27,628 INFO S9.5 FinalCheck: 0/0 durch
+2026-11-17 03:47:27,630 WARNING Sitemap ohne Spielerseiten: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-17 03:47:27,631 INFO 💶 Kosten: dieser Lauf 0.000 $ (Budget 0.000 $) | heute 0.00 $ | Monat 0.00 / 0 $ | 
+2026-11-17 03:47:27,633 INFO Feeds: 45/45 begonnen, nächster Lauf startet bei Nr. 0
+2026-11-17 03:47:27,633 INFO URL-Cache gespeichert: 3051 URLs
+2026-11-17 03:47:27,634 INFO === Fertig. 0 neue Artikel. feed.json: 49 ===
+2026-11-17 03:47:27,634 INFO Stats: {"ts": "20261117_0343", "ingested": 0, "s2_pre_filter": 0, "s3_relevance": 0, "s4_dedup_early": 0, "gesammelt": 0, "geschichten_neu": 0, "s5_archiv_doppelt": 0, "s5_zusammengefuehrt": 0, "s6_aussortiert": 0, "s7_geschrieben": 0, "s7_verworfen": 0, "s5_fulltext_fail": 14, "s8_qa_rejected": 0, "published": 0, "kosten": {"lauf_usd": 0.0, "lauf_budget_usd": 0.0, "heute_usd": 0.0, "monat_usd": 0.0, "monatsbudget_usd": 0.0, "aufrufe": {}, "guthaben_leer": false, "abo": true, "abo_tokens": {}}}
