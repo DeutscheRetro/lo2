@@ -1,5 +1,98 @@
 [
   {
+    "id": "55345f6294",
+    "titel": "Hannover 96 macht Gabor Ruhr zum neuen Sportdirektor",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "17.11.2026 12:03",
+    "wappen_url": "logos/hannover.png",
+    "vereine": [
+      "Hannover"
+    ],
+    "anriss": "Hannover 96 hat die Position des Sportdirektors neu besetzt. Gabor Ruhr übernimmt die Verantwortung für die Lizenzmannschaft, die Kaderplanung und das Scouting sowie die 96-Akademie. Der 38-Jährige kommt vom englischen Zweitligisten Norwich City, wo er zuletzt als Head of Scouting arbeitete. Ruhr war von 2015",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Hannover",
+    "pfad": "artikel/hannover-96-macht-gabor-ruhr-zum-neuen-sportdirektor-55345f6294.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "deal",
+      "frage": "Ist Gabor Ruhr ein guter Deal für Hannover 96?",
+      "antworten": [
+        "👍 Guter Deal",
+        "👎 Fehler"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "7bd70e33a7",
+    "titel": "Darmstadt wohl ohne Schuhen: Brunst rückt ins Tor",
+    "kategorie": "verletzung",
+    "badge": "Verletzung",
+    "badge_bg": "#e53935",
+    "badge_fg": "#fff",
+    "datum": "17.11.2026 12:03",
+    "wappen_url": "logos/darmstadt.png",
+    "vereine": [
+      "Darmstadt",
+      "Heidenheim",
+      "Nürnberg"
+    ],
+    "anriss": "Darmstadt 98 muss voraussichtlich auf Torhüter Marcel Schuhen verzichten. Auch in der Innenverteidigung fehlt ein Spieler. Im Tor wird damit voraussichtlich wieder Alexander Brunst stehen. In der Innenverteidigung deutet alles auf das Pärchen Aleksandar Vukotic und Yannik Lührs hin. Alle drei hatten bereits gegen Nürnberg",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Darmstadt",
+    "pfad": "artikel/darmstadt-gegen-heidenheim-wohl-ohne-schuhen-lee-und-pfeiffer-7bd70e33a7.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "433e513a97",
+    "titel": "Chatzialexiou verlässt Nürnberg früher: Einigung mit Frankfurt",
+    "kategorie": "transfer",
+    "badge": "Transfer",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "17.11.2026 12:03",
+    "wappen_url": "logos/nuernberg.png",
+    "vereine": [
+      "Nürnberg"
+    ],
+    "anriss": "Joti Chatzialexiou kann seinen neuen Job als Sportvorstand bei Eintracht Frankfurt früher antreten als geplant. Der 1. FC Nürnberg und die Hessen haben sich auf einen vorzeitigen Wechsel geeinigt, wie die Franken mitteilten. Chatzialexious Vertrag beim „Club“ endet demnach bereits am 30. November statt am",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Nürnberg",
+    "pfad": "artikel/chatzialexiou-verlaesst-nuernberg-frueher-einigung-mit-frankfurt-433e513a97.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "ceca666738",
+    "titel": "Smith gegen Pyrka: St.-Pauli-Profis treffen in der Nations League aufeinander",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "17.11.2026 12:03",
+    "wappen_url": "logos/stpauli.png",
+    "vereine": [
+      "St. Pauli"
+    ],
+    "anriss": "St. Paulis Defensivspieler Eric Smith und Außenverteidiger Arkadiusz Pyrka stehen sich am Dienstagabend (20.45 Uhr) in der Nations League gegenüber. Schweden gastiert in Wroclaw bei Polen. Ob beide zum Einsatz kommen, ist noch offen. Schweden führt die Gruppe H an und hat sich mit einem",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "St. Pauli",
+    "pfad": "artikel/smith-gegen-pyrka-st-pauli-profis-treffen-in-der-nations-league-ceca666738.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
     "id": "be8b4b5295",
     "titel": "Magdeburg: Vier Nationalspieler kehren vor Bielefeld-Spiel spät zurück",
     "kategorie": "news",
@@ -12,7 +105,7 @@
       "Bielefeld",
       "Magdeburg"
     ],
-    "anriss": "Der 1. FC Magdeburg muss sich auf das Auswärtsspiel bei Arminia Bielefeld am Freitag (18.30 Uhr) mit Verspätung vorbereiten. Gleich vier potenzielle Stammkräfte absolvieren am Dienstag ihr letztes Länderspiel und stoßen erst spät wieder zur Mannschaft. Betroffen sind Mateusz Zukowski (Polen), Pierre Nadjombe (Togo), Herbert",
+    "anriss": "Der 1. FC Magdeburg muss sich mit Verspätung auf das Auswärtsspiel bei Arminia Bielefeld am Freitag (18.30 Uhr) vorbereiten. Vier potenzielle Stammkräfte bestreiten am Dienstag ihr letztes Länderspiel und stoßen erst spät wieder zur Mannschaft. Betroffen sind Mateusz Zukowski (Polen), Pierre Nadjombe (Togo), Herbert Bockhorn",
     "spielerstatus": [],
     "formation": "",
     "hauptklub": "Magdeburg",
