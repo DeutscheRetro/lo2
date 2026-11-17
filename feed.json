@@ -1,5 +1,118 @@
 [
   {
+    "id": "828bf8e3fe",
+    "titel": "St. Pauli: Nemeth kritisiert Trainingseinstellung nach Magdeburg-Pleite",
+    "kategorie": "interview",
+    "badge": "Interview",
+    "badge_bg": "#1976d2",
+    "badge_fg": "#fff",
+    "datum": "17.11.2026 18:04",
+    "wappen_url": "logos/stpauli.png",
+    "vereine": [
+      "Magdeburg",
+      "St. Pauli"
+    ],
+    "anriss": "St. Paulis Kapitän David Nemeth hat nach einem Drittel der Zweitligasaison ein kritisches Zwischenfazit gezogen. Der Österreicher sagte nach dem Training am Dienstag: „Wir sind mit der Position, auf der wir gerade stehen, auf jeden Fall nicht zufrieden.“ Die Hamburger haben als Neunter zwölf Punkte",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "St. Pauli",
+    "pfad": "artikel/st-pauli-nemeth-kritisiert-trainingseinstellung-nach-magdeburg-pleite-828bf8e3fe.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "recht",
+      "frage": "Hat Nemeth recht mit seiner Kritik an der Trainingseinstellung?",
+      "antworten": [
+        "Ja",
+        "Nein"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "d8b99eef7b",
+    "titel": "Hannover 96 vor Fürth: Thordarson und Taibi droht der Ausfall",
+    "kategorie": "verletzung",
+    "badge": "Verletzung",
+    "badge_bg": "#e53935",
+    "badge_fg": "#fff",
+    "datum": "17.11.2026 18:03",
+    "wappen_url": "logos/hannover.png",
+    "vereine": [
+      "Fürth",
+      "Hannover",
+      "Heidenheim"
+    ],
+    "anriss": "Hannover 96 muss im Heimspiel gegen Fürth am Samstag (13 Uhr) voraussichtlich auf Kapitän Stefan Thordarson und Waniss Taibi verzichten. Trainer Sandro Wagner muss seine Mannschaft deshalb umbauen. Vor der Länderspielpause hatte Hannover mit dem 2:1 gegen Dresden und dem 2:2 in Heidenheim vier Punkte",
+    "spielerstatus": [
+      {
+        "spieler": "Thordarson",
+        "klub": "Hannover",
+        "status": "fraglich",
+        "grund": "Oberschenkelverletzung, Aus droht ziemlich sicher"
+      },
+      {
+        "spieler": "Taibi",
+        "klub": "Hannover",
+        "status": "fraglich",
+        "grund": "Wadenprobleme, Ausfall wahrscheinlich"
+      },
+      {
+        "spieler": "Pichler",
+        "klub": "Hannover",
+        "status": "faellt_aus",
+        "grund": "Wadenprobleme"
+      },
+      {
+        "spieler": "Steinmann",
+        "klub": "Hannover",
+        "status": "faellt_aus",
+        "grund": "Muskelverletzung im Oberschenkel"
+      },
+      {
+        "spieler": "Siewert",
+        "klub": "Hannover",
+        "status": "faellt_aus",
+        "grund": "Aufbau nach Innenbandriss"
+      },
+      {
+        "spieler": "Sahiti",
+        "klub": "Hannover",
+        "status": "fraglich",
+        "grund": "Wadenprobleme, individuelles Training"
+      },
+      {
+        "spieler": "Neubauer",
+        "klub": "Hannover",
+        "status": "startelf",
+        "grund": "Grippe überstanden"
+      },
+      {
+        "spieler": "Bundu",
+        "klub": "Hannover",
+        "status": "spielt",
+        "grund": "wieder Option von Beginn an"
+      },
+      {
+        "spieler": "Gindorf",
+        "klub": "Hannover",
+        "status": "spielt",
+        "grund": "zurück im Kader, zunächst Bank"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Hannover",
+    "pfad": "artikel/hannover-96-vor-fuerth-thordarson-und-taibi-droht-der-ausfall-d8b99eef7b.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "reaktion",
+      "frage": "",
+      "antworten": [
+        "💚 Gute Besserung"
+      ]
+    },
+    "n11": false
+  },
+  {
     "id": "55345f6294",
     "titel": "Hannover 96 macht Gabor Ruhr zum neuen Sportdirektor",
     "kategorie": "news",

@@ -3183,5 +3183,52 @@
     },
     "published_at": "2026-11-17T12:04:19.258105",
     "source": "MOPO"
+  },
+  {
+    "id": "d8b99eef7b",
+    "generated_title": "Hannover 96 vor Fürth: Thordarson und Taibi droht der Ausfall",
+    "original_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ3hsd1M1RzlSNi1MSTRNMEZ2dl9KYkFQZEl4NzIya2J4OExQbXcwTTdvWk84RldaVVJuV0NhODZSTVlkNHhoSGhQajE2UkxlcjROTm92RmZOVE5vR0FSVDNIS29JaTZUVkpRdWdVbmo4YVhRcGhhTEl2a0pSREkwVXZNSi1rYmdQU2JaVGVTN0pJemtLV1oxLWU5ZFRFeTYwckl0ajgxZWlWQk82QVdOVmFGQmQ5Wm5xZ0kzeTBWOGZzR0MwQW5NNWU5WnVXNVU?oc=5",
+    "fingerprint": {
+      "event_type": "verletzung",
+      "main_club": "Hannover",
+      "event_stage": "fraglich",
+      "main_teams": [
+        "Fürth",
+        "Hannover",
+        "Heidenheim"
+      ],
+      "main_players": [
+        "Stefan Thordarson",
+        "Waniss Taibi",
+        "Sandro Wagner"
+      ],
+      "summary": "Hannover 96 droht gegen Fürth der Ausfall von Kapitän Stefan Thordarson (Oberschenkel) und Waniss Taibi (Wade). Trainer Sandro Wagner muss umbauen, Maurice Neubauer und Mustapha Bundu kehren in den Kreis der Startelf-Kandidaten zurück.",
+      "one_sentence_summary": "Hannover 96 droht gegen Fürth der Ausfall von Kapitän Stefan Thordarson (Oberschenkel) und Waniss Taibi (Wade).",
+      "schluessel": "stefan thordarson|verletzung"
+    },
+    "published_at": "2026-11-17T18:04:30.789621",
+    "source": "BILD"
+  },
+  {
+    "id": "828bf8e3fe",
+    "generated_title": "St. Pauli: Nemeth kritisiert Trainingseinstellung nach Magdeburg-Pleite",
+    "original_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaUw0REg0ZUxUMVVXV0hGZnRNLTdoRGhuZ0pFYkYydV9uUFRqQlZJMnp4Q1oyMGZ2NU9BRlNzajFuSVN0eWlTMFRQNkE4emVVbDduYmxCYTBuNFFmcV9DeHkzZi10RHdKUE5DOENWSEpZcU0yNjlOWUpXeUpxczNaMzdaQWtIVlhIMmo2amdGTGpvcVY0RFcydDIzSGZJNkpRQ29RSW1YNTVodTVaOTc4aVpEMlJSa1RES19td19TRGtuT0kxdEVnamszZXJSd2UyclRaTGJQYw?oc=5",
+    "fingerprint": {
+      "event_type": "interview",
+      "main_club": "St. Pauli",
+      "event_stage": "sonstiges",
+      "main_teams": [
+        "Magdeburg",
+        "St. Pauli"
+      ],
+      "main_players": [
+        "David Nemeth"
+      ],
+      "summary": "St. Paulis Kapitän David Nemeth zeigt sich nach der 1:4-Niederlage in Magdeburg unzufrieden mit Punkten und Trainingseinstellung. Am Donnerstag soll die komplette Mannschaft vor dem Heimspiel gegen Bochum sprechen.",
+      "one_sentence_summary": "St.",
+      "schluessel": "david nemeth|sonstiges"
+    },
+    "published_at": "2026-11-17T18:04:30.855157",
+    "source": "Hamburger Abendblatt"
   }
 ]
