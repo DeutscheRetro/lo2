@@ -26,7 +26,7 @@
   "status": "n",
   "erstmals": "2026-11-17T12:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "62690b0899",
@@ -55,7 +55,7 @@
   "status": "n",
   "erstmals": "2026-11-17T12:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "290ca99998",
@@ -84,7 +84,7 @@
   "status": "n",
   "erstmals": "2026-11-17T12:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "48dc825dd6",
@@ -113,7 +113,7 @@
   "status": "n",
   "erstmals": "2026-11-17T12:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "85f22beab6",
@@ -142,7 +142,7 @@
   "status": "n",
   "erstmals": "2026-11-17T12:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "e548be1307",
@@ -171,6 +171,101 @@
   "status": "n",
   "erstmals": "2026-11-17T12:01",
   "archiv": [],
+  "versuche": 2
+ },
+ {
+  "id": "91278d1e9f",
+  "schluessel": "darmstadt|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Darmstadt",
+  "klubs": [
+   "Darmstadt"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "SV Darmstadt 98: Wieso Kohfeldt entgegen seiner Überzeugung auf Catenaccio setzt",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQLWdMXzZBeWhGT3RocHk2M1VXY3ZjVDZhcmlSWjdLMW9YLXR0c2NkVUpubkhzTEpUYk52V1k3Q2ZTaUNjdjRuZG5CZDhLLU9iS3JVd21Xc01FNEpBWGkwVlBfc19MMFNrOFFXVkFOM2tiUDhVTGM0Y2xlVzk5NElXdU8wdTdVUExXcDFXZ1owNkVTa1ktVnZOSFVDSWZ3SFVfWXFZUjRUWlo0TmxBTWpYeUw1UUVZTEdpV2ttb0NfaUpVT0tXM1lrbm1ZNG9Edw?oc=5",
+    "aid": "b6faa68997",
+    "titel": "SV Darmstadt 98: Wieso Kohfeldt entgegen seiner Überzeugung auf Catenaccio setzt",
+    "quelle": "Echo Online",
+    "beschr": " SV Darmstadt 98: Wieso Kohfeldt entgegen seiner Überzeugung auf Catenaccio setzt &nbsp;&nbsp; Echo Online ",
+    "zeit": "2026-11-16T22:03"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-17T15:01",
+  "archiv": [
+   {
+    "id": "fdf1491864",
+    "titel": "Darmstadt hält an Trainer Florian Kohfeldt fest",
+    "datum": "09.11.",
+    "stufe": "sonstiges",
+    "summary": "Darmstadt 98 hält nach interner Analyse an Trainer Florian Kohfeldt fest. Präsident Markus Pfitzner und Sportchef Paul Fernie sprechen von konstruktiven Lösungen."
+   },
+   {
+    "id": "182900733e",
+    "titel": "Darmstadt: Fernie vermeidet Bekenntnis zu Kohfeldt",
+    "datum": "07.11.",
+    "stufe": "sonstiges",
+    "summary": "Nach der 0:2-Niederlage in Nürnberg vermeidet Darmstadts Geschäftsführer Paul Fernie ein Bekenntnis zu Trainer Florian Kohfeldt. Der Klub steckt tief im Tabellenkeller der 2. Bundesliga."
+   },
+   {
+    "id": "250791d7a6",
+    "titel": "Klose setzt gegen Darmstadt auf die Kulisse im Max-Morlock-Stadion",
+    "datum": "06.11.",
+    "stufe": "sonstiges",
+    "summary": "Nürnbergs Trainer Miroslav Klose will gegen Darmstadt mit den Fans im Rücken den Sprung auf einen Aufstiegsplatz schaffen. Dieter Frey wurde zum neuen Sportvorstand gewählt und folgt auf Joti Chatzialexiou."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "7170fbc257",
+  "schluessel": "hertha|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Adewumi: Hertha kämpft um den Flügelspieler",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbWpVZ2lRc0xiY25DbjZ6Qk5mWnVmNUtGS2hxWElIRnI0X1p2QkFCclJtWXVMR3NMVzI4OUt5czVXZnVsRTY3TzBQSnNQeExmVl9GVldIWWZkLVVkN21JUnBTcVBUY2Rvak91X3FhSnU3ZnM3M1JXc1hTY3djbmhKUDQ1SEJ0TjdUenBMOWlvdmFlakY4dndUS0F6Qk13dFFROVdrMU50UzlyZE9HZkJvRHo5bEhoS3FZVnc?oc=5",
+    "aid": "f1a63a26b4",
+    "titel": "Adewumi: Hertha kämpft um den Flügelspieler",
+    "quelle": "BZ Berlin",
+    "beschr": " Adewumi: Hertha kämpft um den Flügelspieler &nbsp;&nbsp; BZ Berlin ",
+    "zeit": "2026-11-17T14:36"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-17T15:01",
+  "archiv": [
+   {
+    "id": "2ab310d211",
+    "titel": "Hertha: Adewumi trifft alle 126 Minuten und überzeugt als Leihgabe",
+    "datum": "12.11.",
+    "stufe": "sonstiges",
+    "summary": "Herthas Leihspieler Oluwaseun Adewumi hat in elf Spielen fünf Tore erzielt und trifft im Schnitt alle 126 Minuten. Seine Zukunft ist offen, da Hertha keine Kaufoption besitzt und er bis 2028 bei Burnley unter Vertrag steht."
+   },
+   {
+    "id": "0243113205",
+    "titel": "Messi wählt Maza: Hertha stolz auf Ex-Talent aus der Akademie",
+    "datum": "03.11.",
+    "stufe": "sonstiges",
+    "summary": "Lionel Messi hat Ex-Herthaner Ibrahim Maza bei der Kopa-Trophäe als einziger Juror auf Platz drei gesetzt. Hertha zeigt sich stolz, Maza landete in der Endabrechnung auf Rang neun."
+   }
+  ],
   "versuche": 1
  }
 ]
