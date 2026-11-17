@@ -1,0 +1,257 @@
+2026-11-17 18:16:42,107 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 1 passende Treffer
+2026-11-17 18:16:42,107 INFO S7 Ersatzquelle liefert Text (120 Wörter, 1 Quellen): Kimmich nach Rückkehr: Hier am absolut richtigen Ort
+2026-11-17 18:16:42,107 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 0 passende Treffer
+2026-11-17 18:16:42,107 INFO FinalCheck SKIP: borussia mönchengladbach/{'max muster'} stage=geruecht bereits in Archiv
+2026-11-17 18:16:42,107 INFO FinalCheck SKIP: borussia mönchengladbach/set() stage=geruecht bereits in Archiv
+2026-11-17 18:16:49,216 INFO 💶 Budget: dieser Lauf 0.000 $ | heute 0.00 $ | Monat 0.00 / 0 $
+2026-11-17 18:16:49,219 INFO URL-Cache geladen: 3051 bekannte URLs (letzte 30 Tage)
+2026-11-17 18:16:49,219 INFO === LO Generator startet – max. 50 Artikel ===
+2026-11-17 18:16:49,219 INFO Feed: https://newsfeed.kicker.de/news/3-liga
+2026-11-17 18:16:49,525 INFO Feed: https://www.sport.de/rss/news/
+2026-11-17 18:16:49,927 INFO Feed: https://www.11freunde.de/feed
+2026-11-17 18:16:51,239 WARNING Spielerliste nicht verfügbar: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-17 18:16:51,239 INFO BL-Spielerliste geladen: 0 Namen
+2026-11-17 18:16:51,239 INFO S3 keyword miss: 5 Erkenntnisse zur DFB-Länderspielpause
+2026-11-17 18:16:51,241 INFO S3 keyword miss: Flitzer in Singapur lässt Ordner reihenweise ins Leere laufe
+2026-11-17 18:16:51,242 INFO S3 keyword miss: DFB: Memes zu den deutschen Länderspielen – „Tom Bartels red
+2026-11-17 18:16:51,243 INFO S3 keyword miss: Bundesliga: Bremen will Kosten weiterreichen – DFL soll für 
+2026-11-17 18:16:51,244 INFO S3 keyword miss: DFB-Elf gegen die Niederlande: Was der Oranje-Sieg über Klop
+2026-11-17 18:16:51,246 INFO S3 keyword miss: FIFA: Das ist der neue Infantino-Gegner – Boxer-Sohn mit Luc
+2026-11-17 18:16:51,246 INFO S2 blacklist: Pressestimmen zum Sieg der Nationalmannschaft: „Niederlande 
+2026-11-17 18:16:51,247 INFO S3 keyword miss: Deutschland vs Niederlande: „Jürgen Klopp wird der übernächs
+2026-11-17 18:16:51,247 INFO Feed: https://news.google.com/rss/search?q=%223.+Liga%22&hl=de&gl=DE&ceid=DE:de
+2026-11-17 18:16:51,838 INFO S3 keyword miss: Hallescher FC tritt beim traditionellen „HALPLUS-Cup“ an
+2026-11-17 18:16:51,841 INFO S3 keyword miss: FCN: „Gehöre nicht in die 3. Liga“ – Janisch hat stattdessen
+2026-11-17 18:16:51,845 INFO S3 keyword miss: Einziger Test: Gegen diesen Gegner spielt der FCM im Türkei-
+2026-11-17 18:16:51,846 INFO S3 keyword miss: „Mein Bundesliga-Debüt ist ein Punkt auf meiner Checkliste“
+2026-11-17 18:16:51,846 INFO S2 blacklist: 3. Liga Übertragung: 14. Spieltag live im Free-TV & Magenta 
+2026-11-17 18:16:51,849 INFO S3 keyword miss: Nationalmannschaft bis Abstiegskampf in der 3. Liga: So läuf
+2026-11-17 18:16:51,849 INFO S2 kein BL-Klub im Titel: Deutscher Drittligist trennt sich überraschend von Ex-BVB-St
+2026-11-17 18:16:51,851 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Verletzung+Ausfall+gesperrt&hl=de&gl=DE&ceid=DE:de
+2026-11-17 18:16:52,185 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Transfer+Wechsel+verpflichtet&hl=de&gl=DE&ceid=DE:de
+2026-11-17 18:16:52,553 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Ger%C3%BCcht+Interesse+Angebot&hl=de&gl=DE&ceid=DE:de
+2026-11-17 18:16:52,885 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Vertrag+verl%C3%A4ngert+abl%C3%B6sefrei&hl=de&gl=DE&ceid=DE:de
+2026-11-17 18:16:53,181 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Trainer+Entlassung&hl=de&gl=DE&ceid=DE:de
+2026-11-17 18:16:53,542 INFO S3 keyword miss: Trainer-Entlassung in Köln? FC macht Wagner-Entscheidung off
+2026-11-17 18:16:53,543 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Saarbr%C3%BCcken%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 18:16:53,836 INFO S3 keyword miss: Fußball und Politik: Kosten für Hochrisikospiele – warum der
+2026-11-17 18:16:53,838 INFO S3 keyword miss: Fußball-Politik: Infantino-Gegner Diallo: „Ich will gewinnen
+2026-11-17 18:16:53,840 INFO S3 keyword miss: „Komische Themen“: Zverev zu Aussprache mit Becker bereit
+2026-11-17 18:16:53,841 INFO S3 keyword miss: Die deutsche Fußball-Nationalmannschaft in der Einzelkritik
+2026-11-17 18:16:53,843 INFO S3 keyword miss: Fußball-Nationalmannschaft: Applaus für Rüdiger: DFB verabsc
+2026-11-17 18:16:53,843 INFO S2 blacklist: Nations League: Ronaldos Mutter freut sich über Portugals Ni
+2026-11-17 18:16:53,845 INFO S3 keyword miss: Fußball und Politik: DFB-Chef kritisiert AfD-Kandidatur von 
+2026-11-17 18:16:53,846 INFO S3 keyword miss: Sportpolitik: Neuendorf über Diallos FIFA-Kandidatur: „Zeich
+2026-11-17 18:16:53,848 INFO S3 keyword miss: 5:1-Sieg gegen den FV Bischmisheim: Neunter Heimsieg bringt 
+2026-11-17 18:16:53,850 INFO S3 keyword miss: Tests vor WM in Brasilien: Schüller im Nationalteam außen vo
+2026-11-17 18:16:53,851 INFO S3 keyword miss: „Wie ein Sack Kartoffeln“: Van der Vaart kritisiert Oranje
+2026-11-17 18:16:53,853 INFO S3 keyword miss: Fußball-Nationalmannschaft: Bondscoach Xavi: „Das heute ist 
+2026-11-17 18:16:53,855 INFO S3 keyword miss: „Schockverliebt“: Klopp schwärmt von der Nationalmannschaft
+2026-11-17 18:16:53,856 INFO S3 keyword miss: Tests vor WM in Brasilien: Gwinn und Berger kehren für Südam
+2026-11-17 18:16:53,858 INFO S3 keyword miss: Testspiele: Ohne gesperrten Ancelotti: Brasilien-Sieg gegen 
+2026-11-17 18:16:53,858 INFO S2 blacklist: Nations League: Griechen verpassen trotz Pflichtsiegs Vierte
+2026-11-17 18:16:53,860 INFO S3 keyword miss: Neues Kinderstück: Fantasie-Feuerwerk im Mühlenteich – so is
+2026-11-17 18:16:53,860 INFO S2 kein BL-Klub im Titel: Hertha BSC Berlin - Thema - Seite 5
+2026-11-17 18:16:53,862 INFO S3 keyword miss: Zollkontrolle auf Großbaustelle: Sieben illegal Beschäftigte
+2026-11-17 18:16:53,862 INFO Feed: https://news.google.com/rss/search?q=%22Alemannia+Aachen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 18:16:54,151 INFO S2 blacklist: Aachen – Mannheim live im TV: Übertragung, Uhrzeit, Kommenta
+2026-11-17 18:16:54,153 INFO S3 keyword miss: Neun Treffer für den Primus: Deutz lässt Allner-Bödingen kei
+2026-11-17 18:16:54,154 INFO S3 keyword miss: Kurpark Classix: 50 Jahre "Oxygene" mit Jean-Michael Jarre
+2026-11-17 18:16:54,155 INFO Feed: https://news.google.com/rss/search?q=%22FC+Ingolstadt%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 18:16:54,453 INFO S3 keyword miss: Eintracht-Abgang ist bei neuem Klub keine erste Wahl
+2026-11-17 18:16:54,454 INFO S2 kein BL-Klub im Titel: FC Bayern und 1860 München zu Gast: Nachwuchs-Kracher in Müh
+2026-11-17 18:16:54,456 INFO S3 keyword miss: DJK Stopfenheim
+2026-11-17 18:16:54,456 INFO Feed: https://news.google.com/rss/search?q=%22Fortuna+D%C3%BCsseldorf%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 18:16:54,886 INFO S2 blacklist: Niederrheinpokal live im Stream: Fortuna Düsseldorf gegen de
+2026-11-17 18:16:54,891 INFO S3 keyword miss: „Nicht damit gerechnet“: Jobst reagiert sofort auf Misstraue
+2026-11-17 18:16:54,893 INFO S3 keyword miss: Rensing Fortunas gefeierter Mann des Tages? Stimmung bei Job
+2026-11-17 18:16:54,895 INFO S3 keyword miss: Polarisierende Figur der MV: Das ist Michael Rensing – zwisc
+2026-11-17 18:16:54,897 INFO S3 keyword miss: „Hätte in andere Richtung gehen können“: Nach Transfer-Entsc
+2026-11-17 18:16:54,899 INFO S3 keyword miss: Nur ein großer Auftritt im Jahr: Ehemaliger Fortuna-Vorstand
+2026-11-17 18:16:54,901 INFO S3 keyword miss: Jobst will unterstützen: Transfer-Anschub durch den neuen Fo
+2026-11-17 18:16:54,903 INFO S3 keyword miss: Darunter ein ehemaliger Dortmunder: Fortuna könnte mehrere E
+2026-11-17 18:16:54,906 INFO S3 keyword miss: „Von vornherein vereinbart“: Zeitnaher Fortuna-Abschied als 
+2026-11-17 18:16:54,907 INFO S2 kein BL-Klub im Titel: Wende bei Neuhaus? Gladbach-Profi schließt Verlängerung nich
+2026-11-17 18:16:54,907 INFO Feed: https://news.google.com/rss/search?q=%22Fortuna+K%C3%B6ln%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 18:16:55,237 INFO S2 kein BL-Klub im Titel: Popp-Hype beim BVB stört Sauerländerin Kempe nicht – etwas a
+2026-11-17 18:16:55,239 INFO S3 keyword miss: Spielfrei? Hier rollt der Ball in dieser Woche trotzdem!
+2026-11-17 18:16:55,239 INFO Feed: https://news.google.com/rss/search?q=%22Hansa+Rostock%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 18:16:55,537 INFO S2 blacklist: MSV Duisburg – Hansa Rostock (22.11.) live im TV: Welcher Se
+2026-11-17 18:16:55,540 INFO Feed: https://news.google.com/rss/search?q=%22Jahn+Regensburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 18:16:55,846 INFO S3 keyword miss: Torwart und Rückkehrer: Timo Kurzka verstärkt Vohenstrauß
+2026-11-17 18:16:55,847 INFO S2 blacklist: Jahn Regensburg – Würzburger Kickers (21.11.) live im TV: We
+2026-11-17 18:16:55,849 INFO S3 keyword miss: Mitgliederversammlung des SSV bringt neue Struktur – und ein
+2026-11-17 18:16:55,849 INFO S2 blacklist: Qualifikation für DFB-Nachwuchsliga: Deggendorfs U17 hat noc
+2026-11-17 18:16:55,849 INFO Feed: https://news.google.com/rss/search?q=%22MSV+Duisburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 18:16:56,244 INFO S3 keyword miss: Einziger Test: Gegen diesen Gegner spielt der FCM im Türkei-
+2026-11-17 18:16:56,248 INFO S3 keyword miss: Belohnung wäre Duell mit Drittligist: Sportclub hofft auf We
+2026-11-17 18:16:56,248 INFO Feed: https://news.google.com/rss/search?q=%22Preu%C3%9Fen+M%C3%BCnster%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 18:16:56,546 INFO S3 keyword miss: NLZ: B-I-Junioren überzeugen bei klarem Heimsieg
+2026-11-17 18:16:56,546 INFO S2 kein BL-Klub im Titel: SG 06 begrüßt Borussia Dortmund zum Gold-Jubiläum
+2026-11-17 18:16:56,548 INFO Feed: https://news.google.com/rss/search?q=%22Rot-Weiss+Essen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 18:16:56,849 INFO S3 keyword miss: Niederrheinpokal: RWO muss zum Finalisten – Trio fällt aus, 
+2026-11-17 18:16:56,849 INFO S2 blacklist: Niederrheinpokal: McDonald's vor dem Pokal-Kracher? St. Töni
+2026-11-17 18:16:56,850 INFO Feed: https://news.google.com/rss/search?q=%22SC+Verl%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 18:16:57,164 INFO S2 kein BL-Klub im Titel: VfL Bochum: Neue Rolle für Olsen? Das steckt hinter der Idee
+2026-11-17 18:16:57,166 INFO S3 keyword miss: Schlagerstar Anna-Maria Zimmermann tritt im Dezember im Verl
+2026-11-17 18:16:57,167 INFO S3 keyword miss: Knockout Semi-Final - Day 2 Live Stream | Jetzt Anmelden | D
+2026-11-17 18:16:57,167 INFO Feed: https://news.google.com/rss/search?q=%22Sonnenhof+Gro%C3%9Faspach%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 18:16:57,471 INFO Feed: https://news.google.com/rss/search?q=%22SV+Meppen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 18:16:57,835 INFO S3 keyword miss: Mara Erkens überzeugt beim Debüt
+2026-11-17 18:16:57,836 INFO Feed: https://news.google.com/rss/search?q=%22Waldhof+Mannheim%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 18:16:58,156 INFO S3 keyword miss: Parken in der Neckarstadt-Ost: Bürgerdialog zum neuen Konzep
+2026-11-17 18:16:58,157 INFO S3 keyword miss: Gold und andere Rohstoffe: Warum alte Handys nicht in den Mü
+2026-11-17 18:16:58,159 INFO S3 keyword miss: mit Schwung in die neue Kampagne: Löwenjäger starten in die 
+2026-11-17 18:16:58,161 INFO S3 keyword miss: Bremen, News, Regional: Bremen will DFL an Polizeikosten für
+2026-11-17 18:16:58,161 INFO Feed: https://news.google.com/rss/search?q=%22Wehen+Wiesbaden%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 18:16:58,465 INFO S2 blacklist: Stuttgarter Kickers: Nachwuchs mit Spielen gegen Ulm und Weh
+2026-11-17 18:16:58,466 INFO S3 keyword miss: Junioren – Ergebnisse und Tabellen in der Übersicht
+2026-11-17 18:16:58,468 INFO S3 keyword miss: Überraschender Trainerrücktritt bei einem Bezirksligisten
+2026-11-17 18:16:58,470 INFO S3 keyword miss: Sydney, Nova Scotia - Day 1, Draw 4 Live Stream | Jetzt Anme
+2026-11-17 18:16:58,470 INFO Feed: https://news.google.com/rss/search?q=%22Hoffenheim+II%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 18:16:58,756 INFO S2 blacklist: Rekordkulisse: Fünftligist stürmt in die Top 80 Deutschlands
+2026-11-17 18:16:58,758 INFO S3 keyword miss: Scherhant mit emotionalen Worten zu seinem Opa | "Freue mich
+2026-11-17 18:16:58,760 INFO S3 keyword miss: Skan­dal­der­by Wald­hof gegen FCK: Zahl der Tat­ver­däch­ti
+2026-11-17 18:16:58,761 INFO S3 keyword miss: FC-Astoria Walldorf
+2026-11-17 18:16:58,761 INFO Feed: https://news.google.com/rss/search?q=%22TSV+Havelse%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 18:16:59,086 INFO S2 blacklist: Zweiter eSports-Fun-Cup: Gaming-Fieber im Rathaus
+2026-11-17 18:16:59,088 INFO S3 keyword miss: Starke Quote: Über zehn Millionen bei DFB-Gala vor den Bilds
+2026-11-17 18:16:59,088 INFO Feed: https://news.google.com/rss/search?q=%22VfB+Stuttgart+II%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 18:16:59,376 INFO S2 blacklist: Redzepis Traumtor reicht nicht: VfB verliert in der Nachspie
+2026-11-17 18:16:59,377 INFO S2 blacklist: André Schubert - Verkaufte Spieler | Seite 3
+2026-11-17 18:16:59,377 INFO Feed: https://news.google.com/rss/search?q=%22Viktoria+K%C3%B6ln%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 18:16:59,686 INFO S2 kein BL-Klub im Titel: (k+) Die Hintergründe zur geplanten Struktur-Reform beim 1. 
+2026-11-17 18:16:59,686 INFO Feed: https://news.google.com/rss/search?q=%22W%C3%BCrzburger+Kickers%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 18:16:59,992 INFO S3 keyword miss: Heizen mit Holz – Wärmepumpe und Holzheizung kombinieren (on
+2026-11-17 18:16:59,994 INFO S3 keyword miss: 2. Festival Film.Kultur Passau & České Budějovice 2026 am Fr
+2026-11-17 18:16:59,995 INFO S3 keyword miss: Infostand zur Hilfe bei häuslicher Gewalt am Fr., 20.11.2026
+2026-11-17 18:16:59,996 INFO Feed: https://newsfeed.kicker.de/team/1-fc-saarbruecken
+2026-11-17 18:17:00,169 INFO Feed: https://newsfeed.kicker.de/team/alemannia-aachen
+2026-11-17 18:17:00,340 INFO Feed: https://newsfeed.kicker.de/team/fc-ingolstadt-04
+2026-11-17 18:17:00,503 INFO Feed: https://newsfeed.kicker.de/team/fortuna-duesseldorf
+2026-11-17 18:17:00,874 INFO Feed: https://newsfeed.kicker.de/team/hansa-rostock
+2026-11-17 18:17:01,066 INFO Feed: https://newsfeed.kicker.de/team/jahn-regensburg
+2026-11-17 18:17:01,469 INFO Feed: https://newsfeed.kicker.de/team/msv-duisburg
+2026-11-17 18:17:01,763 INFO Feed: https://newsfeed.kicker.de/team/preussen-muenster
+2026-11-17 18:17:01,933 INFO Feed: https://newsfeed.kicker.de/team/rot-weiss-essen
+2026-11-17 18:17:02,112 INFO Feed: https://newsfeed.kicker.de/team/sc-verl
+2026-11-17 18:17:02,296 INFO Feed: https://newsfeed.kicker.de/team/waldhof-mannheim
+2026-11-17 18:17:02,461 INFO Feed: https://newsfeed.kicker.de/team/sv-wehen-wiesbaden
+2026-11-17 18:17:02,785 INFO Feed: https://newsfeed.kicker.de/team/tsg-hoffenheim-ii
+2026-11-17 18:17:02,964 INFO Feed: https://newsfeed.kicker.de/team/tsv-havelse
+2026-11-17 18:17:03,146 INFO S3 keyword miss: Halbzeit-Fazit der Bayern-Amateure: Dante und Wiesinger sehe
+2026-11-17 18:17:03,146 INFO Feed: https://newsfeed.kicker.de/team/vfb-stuttgart-ii
+2026-11-17 18:17:03,311 INFO Feed: https://newsfeed.kicker.de/team/fc-viktoria-koeln
+2026-11-17 18:17:03,486 INFO Eingelesen: 67 Schlagzeilen nach den Gratis-Filtern
+2026-11-17 18:17:03,525 INFO S5 Sammelartikel: Auslosung 41. Sparkassen-Hallencup: Die Gruppen im Überblick
+2026-11-17 18:17:03,526 INFO S5 Randthema: Fortuna Düsseldorf trifft im Niederrheinpokal auf den MSV: Fan-Infos u
+2026-11-17 18:17:03,526 INFO S5 Randthema: Düsseldorf vs. Duisburg: 17 Kilometer, 63 Duelle, jede Menge Brisanz: 
+2026-11-17 18:17:03,527 INFO S5 Randthema: Ticket-Vorverkauf beim SV Meppen: So können Fans bei den nächsten Spie
+2026-11-17 18:17:03,527 INFO S5 Fan-Wahl/Nachwuchs: Hansa-Spieler des Monats Oktober 2026: So haben die OZ-Leser abgestimm
+2026-11-17 18:17:03,528 INFO S5: 62 neue Geschichten, 0 schon berichtet, 0 zu wartenden Geschichten ergänzt, 2 warten
+2026-11-17 18:18:38,695 INFO S6 aussortiert (prio_0): 3. Liga: Hansa Rostock: Aufholjagd oder Mittelmaß?
+2026-11-17 18:18:38,695 INFO S6 aussortiert (doppelt): Schieber und Großaspach trennen sich vorzeitig – „Keine gemeinsame Per
+2026-11-17 18:18:38,695 INFO S6 aussortiert (prio_1): Wie die Gegentorflut Saarbrückens Aufschwung hemmt
+2026-11-17 18:18:38,695 INFO S6 aussortiert (prio_1): SV Wehen Wiesbaden: Diese Neuzugänge prägen den Aufschwung in der 3. L
+2026-11-17 18:18:38,695 INFO S6 aussortiert (prio_1): 1. FC Saarbrücken weist Vorwürfe gegen Fans zurück
+2026-11-17 18:18:38,696 INFO S6 aussortiert (prio_1): Saarlandpokal-Auftakt des 1. FC Saarbrücken wetterbedingt verschoben
+2026-11-17 18:18:38,696 INFO S6 aussortiert (doppelt): 1. FC Saarbrücken: Pokalspiel gegen Jägersburg verlegt
+2026-11-17 18:18:38,696 INFO S6 aussortiert (prio_0): Vermisstensuche in Saarbrücken: 37-Jähriger in Gefahr
+2026-11-17 18:18:38,696 INFO S6 aussortiert (prio_0): FC Ingolstadt 04
+2026-11-17 18:18:38,696 INFO S6 aussortiert (prio_0): TSG 1899 Hoffenheim II
+2026-11-17 18:18:38,696 INFO S6 aussortiert (prio_1): So viele MSV-Fans unterstützen die Zebras in Düsseldorf
+2026-11-17 18:18:38,696 INFO S6 aussortiert (prio_1): Fortuna vor Rekordkulisse gegen den MSV: Das kann ein langer Abend wer
+2026-11-17 18:18:38,697 INFO S6 aussortiert (doppelt): Wer kommt neu in die Startelf?: Langeneke muss mehrfach wechseln – mög
+2026-11-17 18:18:38,697 INFO S6 aussortiert (prio_0): Vladimir Rankovic: Vom FC Hansa Rostock zu den Legenden des FC Bayern 
+2026-11-17 18:18:38,697 INFO S6 aussortiert (prio_1): Hansa Inside: Das sind die besten Neuzugänge des Fußball-Drittligisten
+2026-11-17 18:18:38,697 INFO S6 aussortiert (prio_1): Hansa Rostock beim MSV Duisburg: Wo die Probleme gegen Topteams liegen
+2026-11-17 18:18:38,697 INFO S6 aussortiert (prio_0): Rostock verdoppelt Parkgebühren – Händler fürchten Flucht in Einkaufsz
+2026-11-17 18:18:38,697 INFO S6 aussortiert (prio_1): Regensburg: Jahn-Mitglieder stimmen mit 98 Prozent für neue Vereinssat
+2026-11-17 18:18:38,697 INFO S6 aussortiert (prio_1): MSV-News KW 47: So gibt es Karten für Großaspach auswärts
+2026-11-17 18:18:38,698 INFO S6 aussortiert (prio_0): RWO: Erst St. Tönis, dann der MSV? Kapitän Klaß richtet Appell an die 
+2026-11-17 18:18:38,698 INFO S6 aussortiert (prio_0): Radfahrerin bei Alleinunfall im Münsteraner Wienburgpark schwer verlet
+2026-11-17 18:18:38,698 INFO S6 aussortiert (doppelt): Rot-Weiss Essen vor Duell mit Krisenklub Verl: Eine unangenehme Serie 
+2026-11-17 18:18:38,698 INFO S6 aussortiert (doppelt): Ratingen 04/19 erreicht sein Primärziel gegen RWE
+2026-11-17 18:18:38,698 INFO S6 aussortiert (prio_1): Der neue Hafenstraßenfußball? Was hinter der Erfolgsserie von RWE stec
+2026-11-17 18:18:38,698 INFO S6 aussortiert (prio_0): Essen: Spannende Bezirksliga, kaputtes Flutlicht - das ist beim SuS Ha
+2026-11-17 18:18:38,698 INFO S6 aussortiert (doppelt): In gegenseitigem Einvernehmen: Die SG und Julian Schieber beenden Zusa
+2026-11-17 18:18:38,699 INFO S6 aussortiert (prio_0): Spielschema | Karlsruher SC - SG Sonnenhof Großaspach 2:0 | KW46 | Fuß
+2026-11-17 18:18:38,699 INFO S6 aussortiert (doppelt): Fußball: Sonnenhof Großaspach und Sportchef Schieber trennen sich
+2026-11-17 18:18:38,699 INFO S6 aussortiert (doppelt): Dritte Liga: SG Sonnenhof Großaspach und Julian Schieber trennen sich
+2026-11-17 18:18:38,699 INFO S6 aussortiert (doppelt): Trennung bei Sonnenhof Großaspach: Schieber nimmt sofort seinen Hut
+2026-11-17 18:18:38,699 INFO S6 aussortiert (prio_1): Julian Ulbricht, Jonathan Wensing und Co.: So läuft es bei den Ex-Spie
+2026-11-17 18:18:38,699 INFO S6 aussortiert (prio_1): Sensation in Oldenburg – Meppen bekommt sein Derby
+2026-11-17 18:18:38,699 INFO S6 aussortiert (prio_1): SV Waldhof Mannheim ehrt verdiente Mitglieder
+2026-11-17 18:18:38,699 INFO S6 aussortiert (prio_1): SV Waldhof Mannheim: Warum Jürgen Kohler jetzt einen eigenen Sitzplatz
+2026-11-17 18:18:38,700 INFO S6 aussortiert (prio_0): Ordnungsgeld in Mannheim: Rat entscheidet über 750 Euro
+2026-11-17 18:18:38,700 INFO S6 aussortiert (prio_0): Unfall auf B36 in Mannheim: Baum stürzt nach Crash auf Auto
+2026-11-17 18:18:38,700 INFO S6 aussortiert (prio_0): Zwei Aufzüge und Treppen frei: Am Mannheimer Hauptbahnhof geht es leic
+2026-11-17 18:18:38,700 INFO S6 aussortiert (doppelt): Torwart Norman Quindt verklagt den TSV Havelse und will seinen Vertrag
+2026-11-17 18:18:38,700 INFO S6 aussortiert (prio_1): VfB Stuttgart II auf Titelkurs: Spannender Zweikampf mit Heidenheim
+2026-11-17 18:18:41,154 INFO S6.5 schon berichtet (Fortuna im Pokal gegen Duisburg: Rieß ersetzt): Langeneke bestätigt Wechsel: Startelf-Comeback nach zwei Mon
+2026-11-17 18:18:41,455 INFO S7 Ersatzquellen für "Großaspach trennt sich von Schieber: "Unterschiedl": 0 passende Treffer
+2026-11-17 18:18:41,455 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Großaspach trennt sich von Schieber: "Unterschiedliche Vorst
+2026-11-17 18:18:41,780 INFO S7 Ersatzquellen für "600 Euro Gehalt und verwehrte Kündigung: Keeper Qu": 0 passende Treffer
+2026-11-17 18:18:41,780 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): 600 Euro Gehalt und verwehrte Kündigung: Keeper Quindt verkl
+2026-11-17 18:18:44,970 INFO S7 schreiben (Prio 2, 1 Quellen): „Ihr atmet hier den Fußball“: Rui Motas Blick auf Mannheim
+2026-11-17 18:18:48,240 INFO S7 verworfen (zu_wenig_stoff): „Ihr atmet hier den Fußball“: Rui Motas Blick auf Mannheim
+2026-11-17 18:18:49,197 WARNING discarding data: None
+2026-11-17 18:18:49,198 INFO S7 kein Volltext (trafilatura_returned_empty): Jüngersdorf-Stütgerloch gibt rote Laterne ab, Alemannia Aach
+2026-11-17 18:18:49,494 INFO S7 Ersatzquellen für "Jüngersdorf-Stütgerloch gibt rote Laterne ab, Alem": 0 passende Treffer
+2026-11-17 18:18:49,494 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Jüngersdorf-Stütgerloch gibt rote Laterne ab, Alemannia Aach
+2026-11-17 18:18:51,181 INFO S7 schreiben (Prio 2, 1 Quellen): Swider & Matondo beenden erfolgreiche Länderspielperiode
+2026-11-17 18:18:55,963 INFO S7 verworfen (nicht_relevant): Swider & Matondo beenden erfolgreiche Länderspielperiode
+2026-11-17 18:18:56,612 INFO S7 kein Volltext (too_short_31_words): MSV kann im Fortuna-Derby nichts gutmachen, aber will vieles
+2026-11-17 18:18:56,868 INFO S7 Ersatzquellen für "MSV kann im Fortuna-Derby nichts gutmachen, aber w": 0 passende Treffer
+2026-11-17 18:18:56,868 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): MSV kann im Fortuna-Derby nichts gutmachen, aber will vieles
+2026-11-17 18:18:57,773 INFO S7 kein Volltext (too_short_75_words): Fußball: 3. Liga: Zwei Spieler der Würzburger Kickers auf Lä
+2026-11-17 18:18:58,058 INFO S7 Ersatzquellen für "Fußball: 3. Liga: Zwei Spieler der Würzburger Kick": 0 passende Treffer
+2026-11-17 18:18:58,058 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Fußball: 3. Liga: Zwei Spieler der Würzburger Kickers auf Lä
+2026-11-17 18:19:01,475 INFO S6.5 schon berichtet (Fortuna im Pokal gegen Duisburg: Rieß ersetzt): Gedankenspiele von Jens Langeneke vor dem Pokal-Duell mit de
+2026-11-17 18:19:02,034 INFO S7 kein Volltext (too_short_75_words): Fortuna Düsseldorf: Vor MSV-Kracher - Langeneke: "Stellenwer
+2026-11-17 18:19:02,323 INFO S7 Ersatzquellen für "Fortuna Düsseldorf: Vor MSV-Kracher - Langeneke: "": 0 passende Treffer
+2026-11-17 18:19:02,323 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Fortuna Düsseldorf: Vor MSV-Kracher - Langeneke: "Stellenwer
+2026-11-17 18:19:03,075 INFO S7 kein Volltext (too_short_52_words): Rot-Weiss Essen: Mehr Arbeit, weniger Tore: Warum Janssens D
+2026-11-17 18:19:03,392 INFO S7 Ersatzquellen für "Rot-Weiss Essen: Mehr Arbeit, weniger Tore: Warum ": 0 passende Treffer
+2026-11-17 18:19:03,392 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Rot-Weiss Essen: Mehr Arbeit, weniger Tore: Warum Janssens D
+2026-11-17 18:19:05,757 INFO S7 schreiben (Prio 2, 1 Quellen): Rot-Weiss Essen: Zwei Positionen bei Transfers im Fokus – di
+2026-11-17 18:19:08,811 INFO S7 verworfen (zu_wenig_stoff): Rot-Weiss Essen: Zwei Positionen bei Transfers im Fokus – di
+2026-11-17 18:19:11,132 INFO S7 kein Volltext (seite_zu_alt): Sport im Westen - SC Verl gegen Rot-Weiss Essen - hier ansch
+2026-11-17 18:19:11,501 INFO S7 Ersatzquellen für "Sport im Westen - SC Verl gegen Rot-Weiss Essen - ": 0 passende Treffer
+2026-11-17 18:19:11,501 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Sport im Westen - SC Verl gegen Rot-Weiss Essen - hier ansch
+2026-11-17 18:19:12,788 INFO S7 kein Volltext (too_short_36_words): Fortuna gegen MSV Duisburg Pokalfight vor Rekordkulisse
+2026-11-17 18:19:13,031 INFO S7 Ersatzquellen für "Fortuna gegen MSV Duisburg Pokalfight vor Rekordku": 0 passende Treffer
+2026-11-17 18:19:13,031 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Fortuna gegen MSV Duisburg Pokalfight vor Rekordkulisse
+2026-11-17 18:19:16,237 INFO S6.5 schon berichtet (Fortuna im Pokal gegen Duisburg: Rieß ersetzt): Fortuna gegen MSV im Niederrheinpokal aufgeladenes Duell kön
+2026-11-17 18:19:18,751 INFO S7 schreiben (Prio 2, 1 Quellen): Rot-Weiss Essen: Winterverstärkung geplant – Dennis Kaygin i
+2026-11-17 18:19:28,018 INFO   Kandidat: RWE plant Offensivverstärkung: Dennis Kaygin im Blick
+2026-11-17 18:19:28,881 INFO S7 kein Volltext (too_short_8_words): Dreierpack für Hansa Rostock im Landespokal: Lennemann kämpf
+2026-11-17 18:19:29,132 INFO S7 Ersatzquellen für "Dreierpack für Hansa Rostock im Landespokal: Lenne": 0 passende Treffer
+2026-11-17 18:19:29,132 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Dreierpack für Hansa Rostock im Landespokal: Lennemann kämpf
+2026-11-17 18:19:31,976 INFO S7 schreiben (Prio 2, 1 Quellen): Roman Schabbing und Luis Frieling als Matchwinner Heeker und
+2026-11-17 18:19:34,912 INFO S7 verworfen (nicht_relevant): Roman Schabbing und Luis Frieling als Matchwinner Heeker und
+2026-11-17 18:19:35,217 INFO S7 kein Volltext (too_short_75_words): MSV Duisburg: 830 Tage Derby-Fluch - Hirsch: „Dann wäre es w
+2026-11-17 18:19:35,479 INFO S7 Ersatzquellen für "MSV Duisburg: 830 Tage Derby-Fluch - Hirsch: „Dann": 0 passende Treffer
+2026-11-17 18:19:35,479 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): MSV Duisburg: 830 Tage Derby-Fluch - Hirsch: „Dann wäre es w
+2026-11-17 18:19:38,498 INFO S6.5 schon berichtet (Düsseldorf: Jobst nach Misstrauensvotum „Ich ): 3. Liga: Fortuna Düsseldorf beschließt den großen Burgfriede
+2026-11-17 18:19:39,767 INFO S7 kein Volltext (seite_zu_alt): Viktoria Köln - Alemannia Aachen
+2026-11-17 18:19:40,081 INFO S7 Ersatzquellen für "Viktoria Köln - Alemannia Aachen": 0 passende Treffer
+2026-11-17 18:19:40,081 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Viktoria Köln - Alemannia Aachen
+2026-11-17 18:19:40,416 INFO S7 kein Volltext (too_short_75_words): Rot-Weiss Essen: Schon im Sommer angefragt - RWE hat diesen 
+2026-11-17 18:19:40,694 INFO S7 Ersatzquellen für "Rot-Weiss Essen: Schon im Sommer angefragt - RWE h": 0 passende Treffer
+2026-11-17 18:19:40,694 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Rot-Weiss Essen: Schon im Sommer angefragt - RWE hat diesen 
+2026-11-17 18:19:43,181 INFO S6.5 schon berichtet (Mannheim zittert sich per 2:1 in Neckarsteina): Gelungener Event im Badischen Pokal – SpVgg unterliegt dem S
+2026-11-17 18:19:46,144 INFO S7 schreiben (Prio 2, 1 Quellen): Kaum Preußen-Einsätze: Stuhlmacher vor der Winter-Leihe?
+2026-11-17 18:19:54,764 INFO   Kandidat: Münster: Mika Stuhlmacher vor Winter-Leihe zurück nach Meppe
+2026-11-17 18:19:57,774 INFO S7 schreiben (Prio 2, 1 Quellen): Vogelstang korrigiert die Saisonziele
+2026-11-17 18:20:00,874 INFO S7 verworfen (zu_wenig_stoff): Vogelstang korrigiert die Saisonziele
+2026-11-17 18:20:00,876 INFO S9.5 FinalCheck: 2/2 durch
+2026-11-17 18:20:01,656 INFO Veröffentlicht: RWE plant Offensivverstärkung: Dennis Kaygin im Blick
+2026-11-17 18:20:01,706 INFO Veröffentlicht: Münster: Mika Stuhlmacher vor Winter-Leihe zurück nach Meppe
+2026-11-17 18:20:01,707 WARNING Sitemap ohne Spielerseiten: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-17 18:20:01,709 INFO 💶 Kosten: dieser Lauf 0.000 $ (Budget 0.000 $) | heute 0.00 $ | Monat 0.00 / 0 $ | konferenz (abo) 1× 0.000 $, dublette (abo) 11× 0.000 $, schreiben (abo) 7× 0.000 $
+2026-11-17 18:20:01,709 INFO 🎫 Abo-Verbrauch: 61,122 Tokens rein (davon Cache gelesen 8,556), 17,419 raus, API-Gegenwert 0.31 $ | konferenz 1×: 3,973/12,744, dublette 11×: 11,432/169, schreiben 7×: 45,717/4,506
+2026-11-17 18:20:01,713 INFO Feeds: 45/45 begonnen, nächster Lauf startet bei Nr. 0
+2026-11-17 18:20:01,713 INFO URL-Cache gespeichert: 3219 URLs
+2026-11-17 18:20:01,713 INFO === Fertig. 2 neue Artikel. feed.json: 51 ===
+2026-11-17 18:20:01,713 INFO Stats: {"ts": "20261117_1816", "ingested": 168, "s2_pre_filter": 27, "s3_relevance": 66, "s4_dedup_early": 0, "gesammelt": 67, "geschichten_neu": 62, "s5_archiv_doppelt": 0, "s5_zusammengefuehrt": 0, "s6_aussortiert": 39, "s7_geschrieben": 7, "s7_verworfen": 10, "s5_fulltext_fail": 13, "s8_qa_rejected": 0, "published": 2, "s5_randthema": 5, "kosten": {"lauf_usd": 0.0, "lauf_budget_usd": 0.0, "heute_usd": 0.0, "monat_usd": 0.0, "monatsbudget_usd": 0.0, "aufrufe": {"konferenz (abo)": {"anzahl": 1, "usd": 0.0}, "dublette (abo)": {"anzahl": 11, "usd": 0.0}, "schreiben (abo)": {"anzahl": 7, "usd": 0.0}}, "guthaben_leer": false, "abo": true, "abo_tokens": {"konferenz": {"aufrufe": 1, "ein": 3973, "cache_schreiben": 0, "cache_lesen": 0, "aus": 12744, "api_wert_usd": 0.0677}, "dublette": {"aufrufe": 11, "ein": 22, "cache_schreiben": 11410, "cache_lesen": 0, "aus": 169, "api_wert_usd": 0.0474}, "schreiben": {"aufrufe": 7, "ein": 14, "cache_schreiben": 37147, "cache_lesen": 8556, "aus": 4506, "api_wert_usd": 0.1945}}}}
