@@ -1,0 +1,103 @@
+2026-11-17 09:01:29,342 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 1 passende Treffer
+2026-11-17 09:01:29,342 INFO S7 Ersatzquelle liefert Text (120 Wörter, 1 Quellen): Kimmich nach Rückkehr: Hier am absolut richtigen Ort
+2026-11-17 09:01:29,343 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 0 passende Treffer
+2026-11-17 09:01:29,343 INFO FinalCheck SKIP: borussia mönchengladbach/{'max muster'} stage=geruecht bereits in Archiv
+2026-11-17 09:01:29,343 INFO FinalCheck SKIP: borussia mönchengladbach/set() stage=geruecht bereits in Archiv
+2026-11-17 09:01:37,355 INFO 💶 Budget: dieser Lauf 0.078 $ | heute 0.00 $ | Monat 0.12 / 8 $
+2026-11-17 09:01:37,366 INFO URL-Cache geladen: 10767 bekannte URLs (letzte 30 Tage)
+2026-11-17 09:01:37,366 INFO === LO Generator startet – max. 50 Artikel ===
+2026-11-17 09:01:37,366 INFO Feed: https://newsfeed.kicker.de/news/2-bundesliga
+2026-11-17 09:01:37,688 INFO Feed: https://www.sport.de/rss/news/
+2026-11-17 09:01:37,918 INFO Feed: https://www.11freunde.de/feed
+2026-11-17 09:01:39,468 INFO Feed: https://news.google.com/rss/search?q=%222.+Bundesliga%22&hl=de&gl=DE&ceid=DE:de
+2026-11-17 09:01:40,012 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Verletzung+Ausfall+gesperrt&hl=de&gl=DE&ceid=DE:de
+2026-11-17 09:01:40,285 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Transfer+Wechsel+verpflichtet&hl=de&gl=DE&ceid=DE:de
+2026-11-17 09:01:40,580 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Ger%C3%BCcht+Interesse+Angebot&hl=de&gl=DE&ceid=DE:de
+2026-11-17 09:01:40,946 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Vertrag+verl%C3%A4ngert+abl%C3%B6sefrei&hl=de&gl=DE&ceid=DE:de
+2026-11-17 09:01:41,338 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Trainer+Entlassung&hl=de&gl=DE&ceid=DE:de
+2026-11-17 09:01:41,686 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Heidenheim%22+OR+Heidenheim+FCH+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 09:01:41,959 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Kaiserslautern%22+OR+%22FCK%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 09:01:42,321 WARNING Spielerliste nicht verfügbar: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-17 09:01:42,321 INFO BL-Spielerliste geladen: 0 Namen
+2026-11-17 09:01:42,321 INFO S3 keyword miss: FCK scheitert im Cup – Nachwuchs überzeugt
+2026-11-17 09:01:42,321 INFO S2 blacklist: Sponsor, Aufsichtsrat, Investor: Der FCK trauert um Dieter B
+2026-11-17 09:01:42,323 INFO S3 keyword miss: Sollten Kassenpatienten für Arzttermine zahlen?
+2026-11-17 09:01:42,325 INFO S3 keyword miss: Warum diese Raketen-Landung ein Meilenstein der Raumfahrt we
+2026-11-17 09:01:42,328 INFO S3 keyword miss: Leichte Sprache | Ein Schüler erfindet eine App gegen Handy·
+2026-11-17 09:01:42,330 INFO S3 keyword miss: Zurück in der Erfolgsspur: Kleinaitingen feiert klaren Heims
+2026-11-17 09:01:42,331 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Magdeburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 09:01:42,662 INFO S2 blacklist: Arminia Bielefeld gegen 1. FC Magdeburg live im TV und Strea
+2026-11-17 09:01:42,664 INFO S3 keyword miss: 2. Bundesliga Übertragung: 12. Spieltag live bei Sky & RTL –
+2026-11-17 09:01:42,664 INFO S2 blacklist: Deutschland gegen Niederlande Aufstellung - Nations League A
+2026-11-17 09:01:42,665 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+N%C3%BCrnberg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 09:01:42,959 INFO Feed: https://news.google.com/rss/search?q=%22Arminia+Bielefeld%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 09:01:43,302 INFO S2 blacklist: Arminia Bielefeld II - Jugendarbeit (Galerie)
+2026-11-17 09:01:43,308 INFO S3 keyword miss: FV Du­den­ho­fen ge­winnt Verbandsliga-​Derby bei Ar­mi­nia 
+2026-11-17 09:01:43,309 INFO Feed: https://news.google.com/rss/search?q=%22Dynamo+Dresden%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 09:01:43,567 INFO Feed: https://news.google.com/rss/search?q=%22Eintracht+Braunschweig%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 09:01:43,863 INFO S3 keyword miss: Morten Rüdiger
+2026-11-17 09:01:43,863 INFO Feed: https://news.google.com/rss/search?q=%22Energie+Cottbus%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 09:01:44,244 INFO Feed: https://news.google.com/rss/search?q=%22FC+St.+Pauli%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 09:01:44,540 INFO S3 keyword miss: Lage am Millerntor – 17. November 2026
+2026-11-17 09:01:44,541 INFO S2 blacklist: Abstiegsangst in Norderstedt und bei St. Pauli, HSV-Klatsche
+2026-11-17 09:01:44,541 INFO S2 blacklist: St. Pauli – Bochum (21.11.) live im TV: Welcher Sender übert
+2026-11-17 09:01:44,542 INFO Feed: https://news.google.com/rss/search?q=%22Hannover+96%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 09:01:44,877 INFO S2 kein BL-Klub im Titel: Nicht 1860 oder FC Bayern: Für diesen Münchner Klub spielte 
+2026-11-17 09:01:44,877 INFO Feed: https://news.google.com/rss/search?q=%22Hertha+BSC%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 09:01:45,340 INFO Feed: https://news.google.com/rss/search?q=%22Holstein+Kiel%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 09:01:45,684 INFO Feed: https://news.google.com/rss/search?q=%22Karlsruher+SC%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 09:01:46,169 INFO Feed: https://news.google.com/rss/search?q=%22Greuther+F%C3%BCrth%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 09:01:46,607 INFO Feed: https://news.google.com/rss/search?q=%22Darmstadt+98%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 09:01:46,942 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Bochum%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 09:01:47,279 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Osnabr%C3%BCck%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 09:01:47,783 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Wolfsburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-17 09:01:48,053 INFO Feed: https://newsfeed.kicker.de/team/1-fc-heidenheim
+2026-11-17 09:01:48,118 INFO Feed: https://newsfeed.kicker.de/team/1-fc-nuernberg
+2026-11-17 09:01:48,333 INFO Feed: https://newsfeed.kicker.de/team/arminia-bielefeld
+2026-11-17 09:01:48,556 INFO Feed: https://newsfeed.kicker.de/team/dynamo-dresden
+2026-11-17 09:01:48,889 INFO Feed: https://newsfeed.kicker.de/team/eintracht-braunschweig
+2026-11-17 09:01:49,115 INFO Feed: https://newsfeed.kicker.de/team/fc-st-pauli
+2026-11-17 09:01:49,183 INFO Feed: https://newsfeed.kicker.de/team/hannover-96
+2026-11-17 09:01:49,410 INFO Feed: https://newsfeed.kicker.de/team/hertha-bsc
+2026-11-17 09:01:49,628 INFO S2 blacklist: "Maximal Regionalliga": Scherhant rechnet voll Genugtuung mi
+2026-11-17 09:01:49,628 INFO Feed: https://newsfeed.kicker.de/team/holstein-kiel
+2026-11-17 09:01:49,843 INFO Feed: https://newsfeed.kicker.de/team/vfl-bochum
+2026-11-17 09:01:50,063 INFO Feed: https://newsfeed.kicker.de/team/vfl-osnabrueck
+2026-11-17 09:01:50,311 INFO Eingelesen: 19 Schlagzeilen nach den Gratis-Filtern
+2026-11-17 09:01:50,337 INFO S5 Randthema: Fotogalerie: Jahreshauptversammlung 2026 beim 1. FC Kaiserslautern
+2026-11-17 09:01:50,337 INFO S5 Randthema: Newsletter „Mensch, Magdeburg“ zum 17. November: Erster Ärger um Weihn
+2026-11-17 09:01:50,338 INFO S5 Randthema: Ungewohnt ruhig: Arminia vor der Jahreshauptversammlung
+2026-11-17 09:01:50,339 INFO S5 Randthema: Jahreshauptversammlung des DSC Arminia Bielefeld e.V.
+2026-11-17 09:01:50,339 INFO S5 Fan-Wahl/Nachwuchs: Bielefeld kompakt: Gesunkene Straßen, Fahndung und festgenommener Juge
+2026-11-17 09:01:50,340 INFO S5: 14 neue Geschichten, 0 schon berichtet, 0 zu wartenden Geschichten ergänzt, 8 warten
+2026-11-17 09:02:31,163 INFO S6 aussortiert (prio_0): Deutschland vs Niederlande: „Jürgen Klopp wird der übernächste James B
+2026-11-17 09:02:31,163 INFO S6 aussortiert (prio_1): Eintracht-Abgang ist bei neuem Klub keine erste Wahl
+2026-11-17 09:02:31,163 INFO S6 aussortiert (doppelt): FCN - Verletzten-Update in Nürnberg: Mandic zurück, Otto noch nicht
+2026-11-17 09:02:31,707 INFO Google-News-Link nicht auflösbar: HTTP 429, keine Signatur
+2026-11-17 09:02:31,819 INFO S7 Ersatzquellen für "Neuzugänge Ezeh und Raschl fehlen Dresden in den k": 0 passende Treffer
+2026-11-17 09:02:31,819 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Neuzugänge Ezeh und Raschl fehlen Dresden in den kommenden W
+2026-11-17 09:02:33,326 INFO S7 kein Volltext (likely_paywall): Dynamo-Dresden-Blog: Verletzungsschock bei der SGD
+2026-11-17 09:02:33,587 INFO S7 Ersatzquellen für "Dynamo-Dresden-Blog: Verletzungsschock bei der SGD": 0 passende Treffer
+2026-11-17 09:02:33,587 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Dynamo-Dresden-Blog: Verletzungsschock bei der SGD
+2026-11-17 09:02:33,888 INFO Google-News-Link nicht auflösbar: HTTP 429, keine Signatur
+2026-11-17 09:02:34,151 INFO S7 Ersatzquellen für "VfL Bochum: Neue Rolle für Olsen? Das steckt hinte": 0 passende Treffer
+2026-11-17 09:02:34,151 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): VfL Bochum: Neue Rolle für Olsen? Das steckt hinter der Idee
+2026-11-17 09:02:34,577 INFO Google-News-Link nicht auflösbar: HTTP 429, keine Signatur
+2026-11-17 09:02:34,808 INFO S7 Ersatzquellen für "Energie Cottbus: Timmy Thiele zu Klosterfelde? „Ic": 0 passende Treffer
+2026-11-17 09:02:34,808 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Energie Cottbus: Timmy Thiele zu Klosterfelde? „Ich werde ni
+2026-11-17 09:02:35,244 INFO S7 Ersatzquellen für "Viele Joker, wenig Ertrag: Diskussion um Senfts We": 0 passende Treffer
+2026-11-17 09:02:35,244 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Viele Joker, wenig Ertrag: Diskussion um Senfts Wechsel
+2026-11-17 09:02:35,735 INFO Google-News-Link nicht auflösbar: HTTP 429, keine Signatur
+2026-11-17 09:02:35,736 WARNING Google-News-Links in diesem Lauf nicht auflösbar – nur direkte Quellen
+2026-11-17 09:02:35,736 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Tresoldi auf Bayerns Liste – verhindert Kanes Verlängerung e
+2026-11-17 09:02:35,737 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Spielzeit für Eigengewächse: Hertha nutzt Gunst der Stunde –
+2026-11-17 09:02:35,737 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): SGE: Chatzialexiou kommt angeblich schon im Dezember
+2026-11-17 09:02:35,737 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Chatzialexiou verlässt den 1. FC Nürnberg früher
+2026-11-17 09:02:35,739 INFO S9.5 FinalCheck: 0/0 durch
+2026-11-17 09:02:35,743 WARNING Sitemap ohne Spielerseiten: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-17 09:02:35,746 INFO 💶 Kosten: dieser Lauf 0.000 $ (Budget 0.078 $) | heute 0.00 $ | Monat 0.12 / 8 $ | konferenz (abo) 1× 0.000 $
+2026-11-17 09:02:35,746 INFO 🎫 Abo-Verbrauch: 2,110 Tokens rein (davon Cache gelesen 0), 5,685 raus, API-Gegenwert 0.03 $ | konferenz 1×: 2,110/5,685
+2026-11-17 09:02:35,760 INFO Feeds: 38/38 begonnen, nächster Lauf startet bei Nr. 0
+2026-11-17 09:02:35,760 INFO URL-Cache gespeichert: 10805 URLs
+2026-11-17 09:02:35,760 INFO === Fertig. 0 neue Artikel. feed.json: 138 ===
+2026-11-17 09:02:35,760 INFO Stats: {"ts": "20261117_0901", "ingested": 38, "s2_pre_filter": 10, "s3_relevance": 9, "s4_dedup_early": 0, "gesammelt": 19, "geschichten_neu": 14, "s5_archiv_doppelt": 0, "s5_zusammengefuehrt": 0, "s6_aussortiert": 3, "s7_geschrieben": 0, "s7_verworfen": 0, "s5_fulltext_fail": 9, "s8_qa_rejected": 0, "published": 0, "s5_randthema": 5, "kosten": {"lauf_usd": 0.0, "lauf_budget_usd": 0.078, "heute_usd": 0.0, "monat_usd": 0.1238, "monatsbudget_usd": 8.0, "aufrufe": {"konferenz (abo)": {"anzahl": 1, "usd": 0.0}}, "guthaben_leer": false, "abo": true, "abo_tokens": {"konferenz": {"aufrufe": 1, "ein": 2110, "cache_schreiben": 0, "cache_lesen": 0, "aus": 5685, "api_wert_usd": 0.0305}}}}
