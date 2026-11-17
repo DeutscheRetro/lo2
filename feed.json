@@ -1,5 +1,55 @@
 [
   {
+    "id": "be8b4b5295",
+    "titel": "Magdeburg: Vier Nationalspieler kehren vor Bielefeld-Spiel spät zurück",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "17.11.2026 06:03",
+    "wappen_url": "logos/magdeburg.png",
+    "vereine": [
+      "Bielefeld",
+      "Magdeburg"
+    ],
+    "anriss": "Der 1. FC Magdeburg muss sich auf das Auswärtsspiel bei Arminia Bielefeld am Freitag (18.30 Uhr) mit Verspätung vorbereiten. Gleich vier potenzielle Stammkräfte absolvieren am Dienstag ihr letztes Länderspiel und stoßen erst spät wieder zur Mannschaft. Betroffen sind Mateusz Zukowski (Polen), Pierre Nadjombe (Togo), Herbert",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Magdeburg",
+    "pfad": "artikel/magdeburg-vier-nationalspieler-kehren-vor-bielefeld-spiel-spaet-be8b4b5295.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "recht",
+      "frage": "Hat Sander recht mit seiner Kritik an Freitagsspielen nach Länderspielpausen?",
+      "antworten": [
+        "Ja",
+        "Nein"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "cfde1ab626",
+    "titel": "Nürnberg und Chatzialexiou einigen sich auf vorzeitigen Abschied",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "17.11.2026 06:03",
+    "wappen_url": "logos/nuernberg.png",
+    "vereine": [
+      "Nürnberg"
+    ],
+    "anriss": "Der 1. FC Nürnberg und Joti Chatzialexiou gehen zum 30. November 2026 getrennte Wege. Der Club hat sich mit Eintracht Frankfurt, dem künftigen Arbeitgeber des 50-Jährigen, auf einen vorzeitigen Wechsel geeinigt. Ursprünglich lief der Vertrag des bisherigen Vorstands Sport bis zum 31. Januar 2027. Aus",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Nürnberg",
+    "pfad": "artikel/nuernberg-und-chatzialexiou-einigen-sich-auf-vorzeitigen-abschied-cfde1ab626.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
     "id": "a03e9bd976",
     "titel": "St.-Pauli-Stürmer Hrgota warnt vor Mängeln in Angriff und Abwehr",
     "kategorie": "interview",
