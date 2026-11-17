@@ -26,7 +26,7 @@
   "status": "n",
   "erstmals": "2026-11-17T18:17",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "da64723327",
@@ -55,7 +55,7 @@
   "status": "n",
   "erstmals": "2026-11-17T18:17",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "07f2a7dca9",
@@ -84,7 +84,7 @@
   "status": "n",
   "erstmals": "2026-11-17T18:17",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "f675e66244",
@@ -121,7 +121,7 @@
     "summary": "Alemannia Aachen gewinnt ein Testspiel beim Mittelrheinligisten FC Wegberg-Beeck mit 5:0. Izekor und Starodid treffen doppelt, Sulejmani verwandelt einen Elfmeter."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "b78ec585e9",
@@ -151,7 +151,7 @@
   "status": "n",
   "erstmals": "2026-11-17T18:17",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "522302c5ca",
@@ -203,7 +203,7 @@
     "summary": "Düsseldorfs Verteidiger Elias Egouli ist seit seinem Platzverweis in Aachen außer Form. Fortuna holte seither sechs Punkte aus sieben Spielen und kassierte elf Gegentore."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "ccb2559417",
@@ -232,7 +232,7 @@
   "status": "n",
   "erstmals": "2026-11-17T18:17",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "c174034749",
@@ -261,7 +261,7 @@
   "status": "n",
   "erstmals": "2026-11-17T18:17",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "614833e033",
@@ -298,7 +298,7 @@
     "summary": "Hansa Rostock spielt am 14. November im Landespokal-Achtelfinale beim Sechstligisten Penzliner SV. Der Einsatz von Luca Unbehaun ist fraglich, Benno Dietze und Emil Holten fehlen wohl."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "030b92c31d",
@@ -327,7 +327,7 @@
   "status": "n",
   "erstmals": "2026-11-17T18:17",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "ab960cadae",
@@ -357,7 +357,7 @@
   "status": "n",
   "erstmals": "2026-11-17T18:17",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "134b97857f",
@@ -386,6 +386,242 @@
   "status": "n",
   "erstmals": "2026-11-17T18:17",
   "archiv": [],
+  "versuche": 2
+ },
+ {
+  "id": "3bc781c78c",
+  "schluessel": "duisburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Duisburg",
+  "klubs": [
+   "Duisburg",
+   "RW Essen"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "3. Liga: MSV- und RWE-Konkurrent trennt sich von einem 137-fachen Bundesligaprofi",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWEttdXBKVUwxejJsQlNVb1JwT2gtWjZtVEs5Rm1CUnlaRmcxYUxqa005YWN4ODFOTlAyOTJ2MkxOZURWY2pobEtlUHd5d0Vqb3lCWldFVW9iLVdWamdsZ2Nac05aU2RITmJEQnpNSUNmbW9DY3hPTjU0TkZENFUwUFNwdk5fZjRnTjNZX242SEZNSzVWYnY3ZHNwUWtRaklybVNBYXRVN21JMnZlYWI3SGlHc2k3NGViNDEwdFZ3VQ?oc=5",
+    "aid": "a6e5f5b6ae",
+    "titel": "3. Liga: MSV- und RWE-Konkurrent trennt sich von einem 137-fachen Bundesligaprofi",
+    "quelle": "RevierSport online",
+    "beschr": " 3. Liga: MSV- und RWE-Konkurrent trennt sich von einem 137-fachen Bundesligaprofi &nbsp;&nbsp; RevierSport online ",
+    "zeit": "2026-11-17T19:19"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-17T23:00",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "129ef3e59d",
+  "schluessel": "aachen|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Aachen",
+  "klubs": [
+   "Aachen"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Alemannias Trainer fordert seriösen Pokalauftritt",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMUM1T0lwMEhUdlZlUE5fczY5bTBIX2hkUk9rVlVFRzE3THByT2ZweTlTWW5iaTQyRk5GTUFFUXQ4NUJXNFFJdlctRDdFMzVnZ2o1bWlrOFFtY2ZTdzRPdTY2a0Z3Q0pmSWxjdzlNWU1qOVlSZ0hSQURSblRidnR1UFFGQ29ISGN0ZkpHUC0zMGFXa0k3N2R2RElsckZsOW1tbklYLUUwUlc4a3RGVHI1UUo1Mmp6VDYzbVBLSXdnQ01oOGlD?oc=5",
+    "aid": "606c11aaa6",
+    "titel": "Alemannias Trainer fordert seriösen Pokalauftritt",
+    "quelle": "Aachener Zeitung",
+    "beschr": " Alemannias Trainer fordert seriösen Pokalauftritt &nbsp;&nbsp; Aachener Zeitung ",
+    "zeit": "2026-11-17T19:28"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-17T23:00",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "1c1cd0c916",
+  "schluessel": "aachen|verletzung",
+  "person": "",
+  "spieler": [],
+  "klub": "Aachen",
+  "klubs": [
+   "Aachen"
+  ],
+  "stufe": "ausfall",
+  "klasse": "verletzung",
+  "titel": "(k+) Weil der eine Stürmertyp im Kader fehlt: Aachens triste Joker-Ausbeute",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVUE2NEJwZVZaS1VOdTNVVTFwbmNuR1lqM2FwNnppcGJlMmFQTFBhanhZLU52czJqNTd4emt1LUZBLS1YSFFISVZqZmlMUXpjcTh0ZFYtZUwwM2NOc2VjSXNBR3MzQ25NYndOZHE4Z1RnNkMtSk5xQjU2Y1QzVGVERWZpTDFxSDh6WHRoRDloQ3FwWTBRYXpMR0lhamNmTFlUSzM0dXBTMHp4Wm5Q?oc=5",
+    "aid": "e2eb669aac",
+    "titel": "(k+) Weil der eine Stürmertyp im Kader fehlt: Aachens triste Joker-Ausbeute",
+    "quelle": "Kicker",
+    "beschr": " (k+) Weil der eine Stürmertyp im Kader fehlt: Aachens triste Joker-Ausbeute &nbsp;&nbsp; Kicker ",
+    "zeit": "2026-11-17T20:19"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-17T23:00",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "f785efd166",
+  "schluessel": "rw essen|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "RW Essen",
+  "klubs": [
+   "RW Essen",
+   "Ingolstadt"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Rot-Weiss Essen sucht Offensivspieler: So ist der Stand bei Dennis Kaygin vom FC Ingolstadt",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObldBZExpMnBwNGpfT0hGeXd6bVNQeGhnOVV5X0NpSWxyMEM4cXM1d2RWbE9ha0hwU3l3TW8zRXJHaS1sbG5hdmFhUFVrWEo5UkxlSmJmMjR4OVlkd1AyUXRxd2NNSFpVYXlnUjlXeFA5NTVhdk5fOGY3SzhCRVZjQ0xaOFBZVkRweUs5bHg5akJuX21pX29oQ3VDMmo2VFpUaWU3cmdjS2llcTJsOG1NU2VvY3g0bDZ5VUdQaXVsY3FPa1pCV0cwOXN1LTh0QXB5?oc=5",
+    "aid": "9f591d9abb",
+    "titel": "Rot-Weiss Essen sucht Offensivspieler: So ist der Stand bei Dennis Kaygin vom FC Ingolstadt",
+    "quelle": "WAZ",
+    "beschr": " Rot-Weiss Essen sucht Offensivspieler: So ist der Stand bei Dennis Kaygin vom FC Ingolstadt &nbsp;&nbsp; WAZ ",
+    "zeit": "2026-11-17T20:01"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "u",
+  "erstmals": "2026-11-17T23:00",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "6cb4d7b7d7",
+  "schluessel": "verl|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Verl",
+  "klubs": [
+   "Verl"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "Am Ende wird es deutlich: Bonner SC verliert Achtelfinale im Verbandspokal gegen Drittligisten",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQmtqSWZyUFlfeDl0X1MwU1ZKRnFSTjZCRDJZYzJwa3liZVZhVEM5bEswM0lzaDhYWlJoXzVOV2NGUnVabExtLVV1QUNieVR6QkpDTGFwNnlndXRvR0pYQ0Z0M1ZDY3ItUTk3aTkxcjFPYWJULTA0dzhZUzZJY1M2Ty1DNTJlcEhUYlZRbHRSOUsyc0oyUWp0XzVud1MzQXMxSVpfTjgzMHZ1QlNWVF94eVBR?oc=5",
+    "aid": "97e125b36a",
+    "titel": "Am Ende wird es deutlich: Bonner SC verliert Achtelfinale im Verbandspokal gegen Drittligisten",
+    "quelle": "General-Anzeiger Bonn",
+    "beschr": " Am Ende wird es deutlich: Bonner SC verliert Achtelfinale im Verbandspokal gegen Drittligisten &nbsp;&nbsp; General-Anzeiger Bonn ",
+    "zeit": "2026-11-17T21:20"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-17T23:00",
+  "archiv": [
+   {
+    "id": "5d20f7b064",
+    "titel": "VfB Stuttgart II gewinnt gegen Verl dank van der Leijs Elfmeter",
+    "datum": "09.11.",
+    "stufe": "spielbericht",
+    "summary": "Stuttgart II besiegt den SC Verl 1:0, van der Leij trifft per Elfmeter zum 500. Drittliga-Tor des VfB. Zagadou feiert nach Verletzungspause ein Kurzcomeback, Rölke fehlte wegen einer Fußentzündung."
+   },
+   {
+    "id": "e465043963",
+    "titel": "Verl verliert auch bei Stuttgart II: Elfmeter sorgt für Frust",
+    "datum": "09.11.",
+    "stufe": "spielbericht",
+    "summary": "Der SC Verl verliert beim VfB Stuttgart II 0:1 und kassiert die vierte Niederlage in Folge. Trainer Orest Shala kritisiert den Elfmeterpfiff vor dem Tor von Tim van der Leij."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "2bbf353672",
+  "schluessel": "rostock|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Rostock",
+  "klubs": [
+   "Rostock"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Hansa Rostock: Die Neuzugänge im Check",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONGd5ZllJSWpvdGl3NVIzLVZ6Sm56V2F2TmpBSE94Z1l1TFdqRjMzQ29iUjY3OVZFdnFLeF9nb01rMVVqZlZpWFlmRjRQd0RweHlxSWRWUFBtRW5Pb1VNREtGSHNqaC1RVDBjODdKdlVOVUpSOVNHVXFVd3JHMXZWUU5kV3BtWlJaYUVGd0JfUHMwem4wOFFJSjlrUjQ1Qk41Z1hrUHZlSzJ1b0ZKckpjS3NB?oc=5",
+    "aid": "31595001ef",
+    "titel": "Hansa Rostock: Die Neuzugänge im Check",
+    "quelle": "NDR.de",
+    "beschr": " Hansa Rostock: Die Neuzugänge im Check &nbsp;&nbsp; NDR.de ",
+    "zeit": "2026-11-17T20:34"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-17T23:00",
+  "archiv": [
+   {
+    "id": "0f82484d68",
+    "titel": "Hansa Rostock tritt im Pokal-Achtelfinale beim Penzliner SV an",
+    "datum": "12.11.",
+    "stufe": "sonstiges",
+    "summary": "Hansa Rostock spielt am 14. November im Landespokal-Achtelfinale beim Sechstligisten Penzliner SV. Der Einsatz von Luca Unbehaun ist fraglich, Benno Dietze und Emil Holten fehlen wohl."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "94c97780ac",
+  "schluessel": "rostock|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Rostock",
+  "klubs": [
+   "Rostock"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Hansa Rostock: Ligaspitze bei Ecken – doch die Abwehr hat ein Problem",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUTdNNHRyVUhzc2hnaTlURjJHNXhMQnlIQXloMzU2ZGxVRUs0SENpVmIyVFRwQmQ2QWVjTVdNdjM4QWNBQU53QXl3NHlWLTBlRGxORFdyTERDc29yWGgybTAwcEFZRXBtX0hqY05yX1UwcG5DMW9rdUQ2Y20zaFRQdHNjWmhmV0NiVzk5UFFfNFl1RzlwMlVicGU4RVhHRnVuTG9pS0V0TGRFTHNtVnMwNFRab1VVVTVVNDJvWFUzUXBRVUxDRXQxQ3ZZY2hLZnE1QXZiYXN1bWVyanfSAfcBQVVfeXFMUGpZczMxVjhPZDloTjhnRUxxZEc2U1ZORExmZlg2RURWbFVnd0xVMXJMWXJJTlN2MVBTTE5QQ05FNUFhdEFNRDlIdXlOOXNrQVRIV3l2NVdoc1hZYmc1XzhBYTU1eGVoWnB5N1NqRmU4Q0FFVkd0dUowQzI2LTJZaTBueDNIZ0NPT2cwVnVrdzhGUHg3WXZZT05CU0Z3Njh6X0tpWWVjUndKZzRJUXJ1SmdWd0RvZjJ2bERHQXNxcGtiYnVTWGdBYWwzZ3B0UzZ0dTVUeGJlWkRoLW1yM0t3X25XXzQ4MFkzQjhLcmRNNnRIdnZVV1lOUQ?oc=5",
+    "aid": "b95e7a97bc",
+    "titel": "Hansa Rostock: Ligaspitze bei Ecken – doch die Abwehr hat ein Problem",
+    "quelle": "Ostsee Zeitung",
+    "beschr": " Hansa Rostock: Ligaspitze bei Ecken – doch die Abwehr hat ein Problem &nbsp;&nbsp; Ostsee Zeitung ",
+    "zeit": "2026-11-17T18:18"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-17T23:00",
+  "archiv": [
+   {
+    "id": "0f82484d68",
+    "titel": "Hansa Rostock tritt im Pokal-Achtelfinale beim Penzliner SV an",
+    "datum": "12.11.",
+    "stufe": "sonstiges",
+    "summary": "Hansa Rostock spielt am 14. November im Landespokal-Achtelfinale beim Sechstligisten Penzliner SV. Der Einsatz von Luca Unbehaun ist fraglich, Benno Dietze und Emil Holten fehlen wohl."
+   }
+  ],
   "versuche": 1
  }
 ]
