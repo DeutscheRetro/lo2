@@ -1,34 +1,5 @@
 [
  {
-  "id": "67135dd807",
-  "schluessel": "bielefeld|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Bielefeld",
-  "klubs": [
-   "Bielefeld"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "\"Macht das überhaupt Sinn?\": FCM kritisiert Ansetzung in Bielefeld",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN1JjclVQWU83WHl5VkxOMktUYmM1d2RLbmRFSlY0c3U4ejBwV3lRcFR2b0FFeW52ejI1d0ZCempZdDhfeXBSOTZVRzJSd0xXNS1oZVZLcHBrV3RwN0IyLUV3VHB3d2Rxai1qcU4zbm9aaHdVb1ZwVjVNdGZ2R0RBUGxYaVQ1ZWx5WXZlRHcwNUt4cTh3Rk1BQUd5MGMtMlM2cjZKclFRZVJNQkVYLWc?oc=5",
-    "aid": "e3f13710bb",
-    "titel": "\"Macht das überhaupt Sinn?\": FCM kritisiert Ansetzung in Bielefeld",
-    "quelle": "Magdeburg Blau-Weiß",
-    "beschr": " \"Macht das überhaupt Sinn?\": FCM kritisiert Ansetzung in Bielefeld &nbsp;&nbsp; Magdeburg Blau-Weiß ",
-    "zeit": "2026-11-18T08:52"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-18T09:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
   "id": "ea16bc7a50",
   "schluessel": "magdeburg|sonstiges",
   "person": "",
@@ -63,7 +34,7 @@
     "summary": "Magdeburgs Stammspieler Luka Hyryläinen spricht über seinen Traum von der Bundesliga. Der FCM steht nach zehn Spielen mit 17 Punkten auf Rang fünf der 2. Liga."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "66d4ae2681",
@@ -115,7 +86,7 @@
     "summary": "Cottbus-Trainer Claus-Dieter Wollitz will nach der 1:2-Heimniederlage gegen Bochum Zugeständnisse wie freie Tage streichen. Im Spiel in Braunschweig am Freitag fehlen Kapitän Axel Borgmann und Neuzugang Julian Guttau."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "7d6a6190e6",
@@ -144,7 +115,7 @@
   "status": "n",
   "erstmals": "2026-11-18T09:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "9ef930a291",
@@ -173,7 +144,7 @@
   "status": "n",
   "erstmals": "2026-11-18T09:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "7b9e960872",
@@ -202,7 +173,7 @@
   "status": "n",
   "erstmals": "2026-11-18T09:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "09c7f6e106",
@@ -239,7 +210,7 @@
     "summary": "Christian Rasmussen hat in drei Pflichtspielen drei Tore erzielt und zwei vorbereitet. Bochum gewann alle Partien und spielt unter Uwe Rösler nun mit Viererkette und Doppelspitze."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "4b95876066",
@@ -268,7 +239,7 @@
   "status": "n",
   "erstmals": "2026-11-18T12:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "514b5cfed1",
@@ -318,6 +289,176 @@
     "datum": "04.11.",
     "stufe": "sonstiges",
     "summary": "Hertha BSC spielt im DFB-Pokal-Achtelfinale am 1. Dezember um 20:45 Uhr gegen den FC Bayern München. RTL überträgt die Partie live."
+   }
+  ],
+  "versuche": 2
+ },
+ {
+  "id": "8efa29d66b",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Kahlschlag geht weiter: 96 trennt sich auch von Paul Wagner",
+  "quellen": [
+   {
+    "url": "https://www.kicker.de/kahlschlag-geht-weiter-96-trennt-sich-auch-von-paul-wagner-1272646/artikel#omrss",
+    "aid": "32cd52d638",
+    "titel": "Kahlschlag geht weiter: 96 trennt sich auch von Paul Wagner",
+    "quelle": "kicker 2. Bundesliga News",
+    "beschr": "Hannover 96 und Paul Wagner gehen getrennte Wege. Der Zweitligist und der bisherige Leiter Kaderplanung und Scouting lösen den Vertrag einvernehmlich auf.",
+    "zeit": "2026-11-18T13:47"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-18T15:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "299f233320",
+  "schluessel": "bielefeld|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Bielefeld",
+  "klubs": [
+   "Bielefeld",
+   "Magdeburg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Jetzt live: Das sagt Arminias Trainer Kirch vor dem Spiel gegen den 1. FC Magdeburg",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOHF4Yl9sNWNZQjhRRlYtd2ZlMktZdkRmZWNhYnpGWmxIT1FXd3g5azhUUHdWQzVkTXV5aGRWbGlGeUIyOVMxZHd6bGgwOHlwelNkTnN1amlORkw3Y0c1T0I5N0FBR1d3R19UVzlWNjU4QkZGOC1Xc1ZiOHlxc3I2emY1WmJOZmZla2ZWWEF2alQ0c25YZHdURWNGcEREV3ozZUVheFVweWpiTzk0bUduTmtod2RTMEVyNlp2Z0hCVGVFVE5DWmJsbEpQLVhKUGloT3lzQW1rS3g4bjFYTXZfaHlBVmgyZ0pFOWc?oc=5",
+    "aid": "3b371c9a97",
+    "titel": "Jetzt live: Das sagt Arminias Trainer Kirch vor dem Spiel gegen den 1. FC Magdeburg",
+    "quelle": "Neue Westfälische",
+    "beschr": " Jetzt live: Das sagt Arminias Trainer Kirch vor dem Spiel gegen den 1. FC Magdeburg &nbsp;&nbsp; Neue Westfälische ",
+    "zeit": "2026-11-18T14:27"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-18T15:01",
+  "archiv": [
+   {
+    "id": "be8b4b5295",
+    "titel": "Magdeburg: Vier Nationalspieler kehren vor Bielefeld-Spiel spät zurück",
+    "datum": "17.11.",
+    "stufe": "sonstiges",
+    "summary": "Magdeburg muss vor dem Spiel in Bielefeld am Freitag auf vier Nationalspieler verzichten, die erst spät zurückkehren. Trainer Sander kritisiert die Freitagsansetzung nach der Länderspielpause."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "ba44b793f2",
+  "schluessel": "frankfurt|kader",
+  "person": "",
+  "spieler": [],
+  "klub": "Frankfurt",
+  "klubs": [
+   "Frankfurt"
+  ],
+  "stufe": "kader",
+  "klasse": "kader",
+  "titel": "Frankfurt bestätigt: Chatzialexiou beginnt bereits in zwei Wochen",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTFdpemFqa2tsalJJbzlaSmRPSFdtQlIwZEwwQmh1cGdCMFRXZ25Pa0ZTSUNHb3FwVkZoLVQ4dmFkV0J6RW1fWHU5eVpydzRZSzRYbkgzc3BPZThacjdxLWVFbTRhZmZ1QTJDdmMzaW1oeE1wY3F1NkhzbVl0MElqWkJGT3UwVnhab3pYNVQwS2FjS2lLR19wdVdUckdIYlNNdU9vZnJB?oc=5",
+    "aid": "3f7e776c47",
+    "titel": "Frankfurt bestätigt: Chatzialexiou beginnt bereits in zwei Wochen",
+    "quelle": "Kicker",
+    "beschr": " Frankfurt bestätigt: Chatzialexiou beginnt bereits in zwei Wochen &nbsp;&nbsp; Kicker ",
+    "zeit": "2026-11-18T13:42"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "u",
+  "erstmals": "2026-11-18T15:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "497f389950",
+  "schluessel": "dresden|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Dresden",
+  "klubs": [
+   "Dresden",
+   "Bayern"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Fußball: Holt Dynamo Dresden diesen Profi vom FC Bayern München?",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS1JJZmFXRE1WVFRUN3ZNQnRfRENjX2ItOTlYRmZ1R1M3ekh6UHJQNXE1UUFHUDJROW5pR1d0UERMdU5vRVpxTFYydFU5OWNGMHJtOERPRmVkdmpmQXF5ci1FbmVUVXFwaHB0bXF2OVdfLUM0c2xRbXZlaUFqV0tpMDE4RVF1SzNRT0tXZThMd09Bakc5TE9OaXFhRFlNMHBaaV9xZFNzNDZzdmVkSFZkelAzVVMyM1lNZ3IxOXl1NmMxZw?oc=5",
+    "aid": "be39ddb40d",
+    "titel": "Fußball: Holt Dynamo Dresden diesen Profi vom FC Bayern München?",
+    "quelle": "BILD",
+    "beschr": " Fußball: Holt Dynamo Dresden diesen Profi vom FC Bayern München? &nbsp;&nbsp; BILD ",
+    "zeit": "2026-11-18T13:54"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-18T15:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "580689a9c0",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Verträge und Pläne: So sollen Sandro Wagner und Gabor Ruhr Hannover 96 besser machen",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPd0xVYjFpM2lEY2pneVJQYk9pWjZNVENOdm1rTjBkSEpfRjA0a1Z3ZnpmZmJRTnJiLTI3WUhNLWdDcHNIUmRQalZoOXZZelpEcVM5WTZMRi1YY0RDeUdyMDQ4WXY5MEhpWlJkZ2tMUHR5SXZWbTd0dVRKUHp2MV83QlNsU2MzTlNRemM2dzJCeFlhN2VKUFcwd25qNlVxdm11RDZrZ01CeS1KWFhRaDdIelp1djdhQ0NaNnpKc1ppSzRGZnBud21QYVZJR0o5S1dqdHRMVzZnUVgtYXNKNjFHSFZzdEhVZXJYS3FkQldhTE04dkdjT3VGdUtocWNsRzVk?oc=5",
+    "aid": "e08e64030c",
+    "titel": "Verträge und Pläne: So sollen Sandro Wagner und Gabor Ruhr Hannover 96 besser machen",
+    "quelle": "Neue Presse",
+    "beschr": " Verträge und Pläne: So sollen Sandro Wagner und Gabor Ruhr Hannover 96 besser machen &nbsp;&nbsp; Neue Presse ",
+    "zeit": "2026-11-18T13:23"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-18T15:01",
+  "archiv": [
+   {
+    "id": "98f969f271",
+    "titel": "Hannover 96: Franz Roggow überzeugt als Sechser und lobt Wagners Ansatz",
+    "datum": "13.11.",
+    "stufe": "sonstiges",
+    "summary": "Hannovers Sechser Franz Roggow spielte zuletzt gegen Dresden und in Heidenheim eine wichtige Rolle und lobt Sandro Wagners Ansatz. Nach der Länderspielpause kommt Fürth am 21. November nach Hannover."
+   },
+   {
+    "id": "1e14aee0b2",
+    "titel": "Mattuschka rügt Hannover 96: Außendarstellung „unfassbar schlecht“",
+    "datum": "06.11.",
+    "stufe": "sonstiges",
+    "summary": "Sky-Experte Torsten Mattuschka kritisiert die Außendarstellung von Hannover 96 nach der Boldt-Entlassung als „unfassbar schlecht“. Drei Kandidaten sind laut Sky für die Nachfolge im Rennen, darunter Marko Marin."
    }
   ],
   "versuche": 1
