@@ -339,3 +339,46 @@
 {"ts": "2026-11-18T18:03:36.763871", "id": "92a391cf9a", "title": "Wie Krisztian Keresztes mit seiner Degradierung bei der SpVgg (Greuther) Fürth u", "stage": "stage7", "reason": "zu_wenig_quelltext"}
 {"ts": "2026-11-18T18:03:37.905892", "id": "86cc812d07", "title": "Von dieser Ausrede will man bei Eintracht Braunschweig nichts wissen", "stage": "stage7", "reason": "zu_wenig_quelltext"}
 {"ts": "2026-11-18T18:03:38.621926", "id": "0d7806e967", "title": "VfL Wolfsburg - Timon Wellenreuther über brutalen Druck: „In der einen Woche wir", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-18T21:01:42.797009", "id": "5db0b771bb", "title": "Eintracht Frankfurt: Krösche-Erbe plant schon den Transfer-Winter", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-18T21:01:42.803819", "id": "193c64bee3", "title": "(k+) Michelbrinks Rendezvous mit der Vergangenheit - und der Zukunft?", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-18T21:01:42.805740", "id": "5a860180d9", "title": "(k+) Sparen, entwickeln - siegen? Gladbachs Kampf um die Zukunft", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-18T21:01:42.808100", "id": "4b763bc97d", "title": "TV Wetzgau-Turnerinnen schreiben Vereinsgeschichte", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-18T21:01:42.808801", "id": "30b4584dd4", "title": "Bosse enthüllen Masterplan: So will der HSV bis 2030 wieder in die Top 10 stürme", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-18T21:01:42.809442", "id": "2276c1c20b", "title": "Vorzeitige Rückkehr zu RB Leipzig – kompletter Flop", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-18T21:01:42.811642", "id": "5ad5b6a7c8", "title": "Winter-Abschied beim FC Bayern? Drei Klubs buhlen um Offensivjuwel", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-18T21:01:42.815173", "id": "7a8960bcb9", "title": "\"So denken die Fans... Das Fußball-Barometer\" vom 18.11.2026", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-18T21:01:42.815752", "id": "de05d5c2d5", "title": "Winter-Abflug beim FC Bayern?", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-18T21:01:45.577192", "id": "0de4b34255", "title": "Aufstellung | Arminia Bielefeld - 1. FC Magdeburg : | 12. Spieltag | 2. Bundesli", "stage": "stage2", "reason": "batch_title_dup_100pct"}
+{"ts": "2026-11-18T21:01:45.885592", "id": "c945319649", "title": "Eintracht Frankfurt: Joti Chatzialexiou kommt als Sportvorstand früher", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-18T21:01:47.918913", "id": "c8e714bd96", "title": "Kahlschlag geht weiter: 96 trennt sich auch von Paul Wagner", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-18T21:01:47.920615", "id": "398285eb90", "title": "Pia Konow gewinnt zwei Bezirksmeistertitel", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-18T21:01:48.593661", "id": "3d33d3d205", "title": "Kniats Änderungen: Kleine Details, große Wirkung?", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-18T21:01:48.594319", "id": "f2e3daecb5", "title": "„Kein normaler Aufsteiger“: TuS Nortorf baut auf die Jugend und will noch nicht ", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-18T21:01:49.365757", "id": "dbc99ba3e2", "title": "Release von GTA 6: Videospielexperte Alexander von Hoffmann im Talk", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-18T21:01:49.709043", "id": "47f16912db", "title": "ZDF zeigt DFB-Pokal-Achtelfinale Leverkusen gegen Leipzig statt Krimi „SOKO Wism", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-18T21:01:50.026527", "id": "b4b59beaa9", "title": "Vom Höing in die Bundesliga und zurück: Die bewegte Karriere von Gaetano Manno", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-18T21:01:50.369541", "id": "2f29961b13", "title": "Tennis-Doppel Krawietz/Pütz im Halbfinale der ATP Finals", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-18T21:01:50.371630", "id": "1697ac808a", "title": "Mit 19 Jahren lenkt Linus Otte-Witte das Spiel der Bohmter Handballer in der Ver", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-18T21:01:53.223941", "id": "802fd2cbdd", "title": "Kiel stattet Wiese und Richter Monserrat mit Profivertrag aus", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-18T21:01:53.224442", "id": "1659370362", "title": "Ausgehtipps für Stadt und Kreis Kaiserslautern: FCK, Mundstuhl und Weihnachtsmom", "stage": "stage5", "reason": "randthema"}
+{"ts": "2026-11-18T21:01:53.225399", "id": "b35444be72", "title": "Arminia Bielefelds Nachwuchs visiert die Meisterrunde an", "stage": "stage5", "reason": "nicht_fuer_uns"}
+{"ts": "2026-11-18T21:01:53.226525", "id": "7ac7c4ab15", "title": "Offiziell: Kiel belohnt zwei Eigengewächse mit Profiverträgen", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-18T21:01:53.226718", "id": "7a4b383c74", "title": "Jette Koep holt ersten WM-Titel in der Wingfoil-Klasse X-15 nach Kiel", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-18T21:01:53.226933", "id": "a8acfbd8b0", "title": "KSC-Maskottchen Willi Wildpark im Interview: „Ich bin ein Erfolgstyp“", "stage": "stage5", "reason": "randthema"}
+{"ts": "2026-11-18T21:01:57.581494", "id": "df45399fcf", "title": "Bayern-Talent Binder weckt auch Interesse in der Bundesliga – Hängt an Münchener", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-18T21:01:57.581777", "id": "707b3efa89", "title": "2. Bundesliga: Traditionsduelle auf dem Betzenberg und in Cottbus – die Schiedsr", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-18T21:01:57.582020", "id": "ee67ad9338", "title": "Trainer-Hammer? Ex-Frankfurter in Köln gehandelt", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-18T21:01:57.582272", "id": "9c45bb6c36", "title": "Fix: Frankfurt-Sportchef startet schon am 1. Dezember", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-18T21:01:57.582500", "id": "cb517f54e4", "title": "Arminia-Profi träumt vom Afrika-Cup 2027: „Leistung wird in die Annalen eingehen", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-18T21:01:57.582722", "id": "9c05f8d447", "title": "Das Wichtigste aus OWL: Frau in Bielefeld in Auto gezerrt & Schwänzen nimmt zu", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-18T21:01:57.582943", "id": "3328481f1a", "title": "Sensationsfund aus Jöllenbeck: Arminisaurus in Bielefeld entdeckt und jetzt im M", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-18T21:01:57.583163", "id": "1af3dbbc9d", "title": "FC St. Pauli: Präsident Oke Göttlich fordert zwei neue Stadien in Hamburg", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-18T21:01:57.583405", "id": "6228b6feda", "title": "St.-Pauli-Präsident Göttlich stellt Stadion-Forderung und verrät Zukunftsplan", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-18T21:01:57.583638", "id": "2a287647cf", "title": "Dynamo Dresden: Ligarivale Hannover trennt sich nach Ralf Becker auch von Paul W", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-18T21:01:57.583860", "id": "d9957489d5", "title": "Gemeinsam für die Region: Hertha‑Profis besuchen Coca‑Cola Produktion in Genshag", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-18T21:01:57.584084", "id": "6c12d52866", "title": "Doku Staffel 3, Episode 2: Die Serie", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-18T21:01:57.584325", "id": "24011ab53c", "title": "▶️ Energie Cottbus vs Hertha BSC Livestream, Tipp » Schau dir jetzt das Spiel/Vi", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-18T21:01:57.584567", "id": "81ad413b65", "title": "KSC-Heimspiel am Sonntag: Shuttlebusse bringen Fans ins Stadion", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-18T21:01:57.584786", "id": "535470bf9a", "title": "Empfang im Wildpark: Karlsruher Jakob Alberti beendet seine Rad-Weltreise", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-18T21:01:57.584996", "id": "4b9abedc25", "title": "12. Spieltag: FC St. Pauli - VfL Bochum - VfL Bochum - Forum | Page 1", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-18T21:02:16.050971", "id": "9f1cb5f961", "title": "Aufstellung | SV Darmstadt 98 - 1. FC Heidenheim : | 12. Spieltag | 2. Bundeslig", "stage": "stage7", "reason": "in_artikel_verarbeitet"}
