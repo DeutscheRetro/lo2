@@ -1,5 +1,54 @@
 [
   {
+    "id": "2dd4ad4a8b",
+    "titel": "Nürnbergs Sportvorstand Frey an die Mannschaft: „Lasst nicht locker“",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "18.11.2026 12:04",
+    "wappen_url": "logos/nuernberg.png",
+    "vereine": [
+      "Nürnberg"
+    ],
+    "anriss": "Dieter Frey hat bei der Jahreshauptversammlung des 1. FC Nürnberg seinen ersten großen Auftritt als Sportvorstand absolviert. Der frühere Nachwuchschef sprach am Dienstagabend vor 1.532 Mitgliedern in der Kia-Metropol-Arena und forderte die Mannschaft des Tabellenzweiten zum Weitermachen auf. Frey soll als Nachfolger des zu Eintracht",
+    "spielerstatus": [
+      {
+        "spieler": "Zoma",
+        "klub": "Nürnberg",
+        "status": "faellt_aus",
+        "grund": "Schulteroperation, Rückkehr erst im neuen Jahr"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Nürnberg",
+    "pfad": "artikel/nuernbergs-sportvorstand-frey-an-die-mannschaft-lasst-nicht-locker-2dd4ad4a8b.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "532ea2eb68",
+    "titel": "Nürnberg: Transfer von Felipe Obradovich offenbar gescheitert",
+    "kategorie": "transfer",
+    "badge": "Transfer",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "18.11.2026 12:04",
+    "wappen_url": "logos/nuernberg.png",
+    "vereine": [
+      "Nürnberg"
+    ],
+    "anriss": "Der 1. FC Nürnberg muss sich im Mittelfeld wohl anders orientieren. Der Transfer des Argentiniers Felipe Obradovich von Ferro Carril Oeste ist laut den argentinischen Journalisten Damian Villagra und Uriel Iugt gänzlich gescheitert. Der Mittelfeldspieler war seit dem Sommer ein Ziel des Clubs. Wie die",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Nürnberg",
+    "pfad": "artikel/nuernberg-transfer-von-felipe-obradovich-offenbar-gescheitert-532ea2eb68.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
     "id": "261127f3de",
     "titel": "Nadjombe: Magdeburgs Rechtsverteidiger noch „nicht am Limit“",
     "kategorie": "interview",
@@ -22,7 +71,7 @@
   },
   {
     "id": "4feb04782b",
-    "titel": "Heidenheim: Schmidt fordert nach Mitgliederversammlung mehr Effizienz",
+    "titel": "Heidenheim: Neuer Aufsichtsrat gewählt, Schmidt fordert mehr Effizienz",
     "kategorie": "news",
     "badge": "News",
     "badge_bg": "#e8c000",
