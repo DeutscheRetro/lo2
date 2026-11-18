@@ -1,5 +1,123 @@
 [
   {
+    "id": "f8aabd22db",
+    "titel": "Verl vor Essen: Schwächste Abwehr trifft auf beste Defensive",
+    "kategorie": "analyse",
+    "badge": "Analyse",
+    "badge_bg": "#6a1fbf",
+    "badge_fg": "#fff",
+    "datum": "18.11.2026 17:56",
+    "wappen_url": "logos/verl.png",
+    "vereine": [
+      "RW Essen",
+      "Verl"
+    ],
+    "anriss": "Der SC Verl empfängt in der 3. Liga Rot-Weiss Essen und geht dabei mit einer Negativserie in die Partie. Zuletzt unterlag der SCV dem VfB Stuttgart II mit 0:1. Essen reist als Tabellendritter an. Verl belegt mit zwölf Punkten Rang 17. Die Bilanz nach 13",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Verl",
+    "pfad": "artikel/verl-vor-essen-schwaechste-abwehr-trifft-auf-beste-defensive-f8aabd22db.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "a1cdb75fed",
+    "titel": "Regensburg gegen Würzburg: Zwei Teams in der Tabellenmitte treffen aufeinander",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "18.11.2026 17:56",
+    "wappen_url": "logos/regensburg.png",
+    "vereine": [
+      "Regensburg",
+      "Würzburg"
+    ],
+    "anriss": "Der SSV Jahn Regensburg empfängt am Samstag (14:00 Uhr) die Würzburger Kickers. Beide Teams kommen mit einer Niederlage aus dem vergangenen Spieltag in die Partie. Regensburg unterlag zuletzt gegen den SV Meppen und kassierte damit die sechste Saisonniederlage. Die Form der vergangenen fünf Spiele war",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Regensburg",
+    "pfad": "artikel/regensburg-gegen-wuerzburg-zwei-teams-in-der-tabellenmitte-treffen-a1cdb75fed.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "b4a1795105",
+    "titel": "Fortuna Köln siegt 5:0 beim Bonner SC, Najar feiert Comeback",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "18.11.2026 17:55",
+    "wappen_url": "logos/fortunakoeln.png",
+    "vereine": [
+      "Fortuna Köln"
+    ],
+    "anriss": "Drittligist Fortuna Köln ist im Achtelfinale des Mittelrheinpokals souverän eingezogen. Das Team von Trainer Matthias Mink gewann vor 2.123 Zuschauern im Sportpark Nord mit 5:0 beim Bonner SC. Nach einer Stunde fiel die Partie erst nach einem Platzverweis auseinander. Romeo Aigbekaen brachte die Gäste in",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Fortuna Köln",
+    "pfad": "artikel/fortuna-koeln-siegt-5-0-beim-bonner-sc-najar-feiert-comeback-b4a1795105.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "d9a5b08d9a",
+    "titel": "Aachen empfängt Mannheim: Duell zweier Teams mit je sechs Siegen",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "18.11.2026 17:55",
+    "wappen_url": "logos/aachen.png",
+    "vereine": [
+      "Aachen",
+      "Mannheim",
+      "RW Essen"
+    ],
+    "anriss": "Alemannia Aachen empfängt am Samstag den SV Waldhof Mannheim. Beide Teams trennt in der Tabelle der 3. Liga nur ein Punkt, beide haben bisher sechs Siege eingefahren. Die Aachener kommen mit einer Niederlage in die Partie. Am vergangenen Spieltag unterlagen sie bei Rot-Weiss Essen mit",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Aachen",
+    "pfad": "artikel/aachen-empfaengt-mannheim-duell-zweier-teams-mit-je-sechs-siegen-d9a5b08d9a.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "b317ca2504",
+    "titel": "Düsseldorf gegen Großaspach: Zwei Teams suchen den Erfolg",
+    "kategorie": "analyse",
+    "badge": "Analyse",
+    "badge_bg": "#6a1fbf",
+    "badge_fg": "#fff",
+    "datum": "18.11.2026 17:55",
+    "wappen_url": "logos/duesseldorf.png",
+    "vereine": [
+      "Düsseldorf",
+      "Großaspach"
+    ],
+    "anriss": "Fortuna Düsseldorf empfängt am Samstag die SG Sonnenhof Großaspach und will nach vier Ligaspielen ohne Sieg wieder dreifach punkten. Die Gastgeber gehen laut Datenanalyse leicht favorisiert in die Partie der 3. Liga. Zuletzt unterlag die Fortuna dem FC Ingolstadt 04 mit 2:3. Großaspach kassierte am",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Düsseldorf",
+    "pfad": "artikel/duesseldorf-gegen-grossaspach-zwei-teams-suchen-den-erfolg-b317ca2504.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
     "id": "ba4a757623",
     "titel": "Havelse empfängt Tabellenführer Viktoria Köln zum Freitagsspiel",
     "kategorie": "news",

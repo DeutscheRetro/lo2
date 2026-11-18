@@ -1,35 +1,5 @@
 [
  {
-  "id": "3bc781c78c",
-  "schluessel": "duisburg|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Duisburg",
-  "klubs": [
-   "Duisburg",
-   "RW Essen"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "3. Liga: MSV- und RWE-Konkurrent trennt sich von einem 137-fachen Bundesligaprofi",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWEttdXBKVUwxejJsQlNVb1JwT2gtWjZtVEs5Rm1CUnlaRmcxYUxqa005YWN4ODFOTlAyOTJ2MkxOZURWY2pobEtlUHd5d0Vqb3lCWldFVW9iLVdWamdsZ2Nac05aU2RITmJEQnpNSUNmbW9DY3hPTjU0TkZENFUwUFNwdk5fZjRnTjNZX242SEZNSzVWYnY3ZHNwUWtRaklybVNBYXRVN21JMnZlYWI3SGlHc2k3NGViNDEwdFZ3VQ?oc=5",
-    "aid": "a6e5f5b6ae",
-    "titel": "3. Liga: MSV- und RWE-Konkurrent trennt sich von einem 137-fachen Bundesligaprofi",
-    "quelle": "RevierSport online",
-    "beschr": " 3. Liga: MSV- und RWE-Konkurrent trennt sich von einem 137-fachen Bundesligaprofi &nbsp;&nbsp; RevierSport online ",
-    "zeit": "2026-11-17T19:19"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-17T23:00",
-  "archiv": [],
-  "versuche": 2
- },
- {
   "id": "129ef3e59d",
   "schluessel": "aachen|sonstiges",
   "person": "",
@@ -56,79 +26,6 @@
   "status": "n",
   "erstmals": "2026-11-17T23:00",
   "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "1c1cd0c916",
-  "schluessel": "aachen|verletzung",
-  "person": "",
-  "spieler": [],
-  "klub": "Aachen",
-  "klubs": [
-   "Aachen"
-  ],
-  "stufe": "ausfall",
-  "klasse": "verletzung",
-  "titel": "(k+) Weil der eine Stürmertyp im Kader fehlt: Aachens triste Joker-Ausbeute",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVUE2NEJwZVZaS1VOdTNVVTFwbmNuR1lqM2FwNnppcGJlMmFQTFBhanhZLU52czJqNTd4emt1LUZBLS1YSFFISVZqZmlMUXpjcTh0ZFYtZUwwM2NOc2VjSXNBR3MzQ25NYndOZHE4Z1RnNkMtSk5xQjU2Y1QzVGVERWZpTDFxSDh6WHRoRDloQ3FwWTBRYXpMR0lhamNmTFlUSzM0dXBTMHp4Wm5Q?oc=5",
-    "aid": "e2eb669aac",
-    "titel": "(k+) Weil der eine Stürmertyp im Kader fehlt: Aachens triste Joker-Ausbeute",
-    "quelle": "Kicker",
-    "beschr": " (k+) Weil der eine Stürmertyp im Kader fehlt: Aachens triste Joker-Ausbeute &nbsp;&nbsp; Kicker ",
-    "zeit": "2026-11-17T20:19"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-17T23:00",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "6cb4d7b7d7",
-  "schluessel": "verl|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Verl",
-  "klubs": [
-   "Verl"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Am Ende wird es deutlich: Bonner SC verliert Achtelfinale im Verbandspokal gegen Drittligisten",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQmtqSWZyUFlfeDl0X1MwU1ZKRnFSTjZCRDJZYzJwa3liZVZhVEM5bEswM0lzaDhYWlJoXzVOV2NGUnVabExtLVV1QUNieVR6QkpDTGFwNnlndXRvR0pYQ0Z0M1ZDY3ItUTk3aTkxcjFPYWJULTA0dzhZUzZJY1M2Ty1DNTJlcEhUYlZRbHRSOUsyc0oyUWp0XzVud1MzQXMxSVpfTjgzMHZ1QlNWVF94eVBR?oc=5",
-    "aid": "97e125b36a",
-    "titel": "Am Ende wird es deutlich: Bonner SC verliert Achtelfinale im Verbandspokal gegen Drittligisten",
-    "quelle": "General-Anzeiger Bonn",
-    "beschr": " Am Ende wird es deutlich: Bonner SC verliert Achtelfinale im Verbandspokal gegen Drittligisten &nbsp;&nbsp; General-Anzeiger Bonn ",
-    "zeit": "2026-11-17T21:20"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-17T23:00",
-  "archiv": [
-   {
-    "id": "5d20f7b064",
-    "titel": "VfB Stuttgart II gewinnt gegen Verl dank van der Leijs Elfmeter",
-    "datum": "09.11.",
-    "stufe": "spielbericht",
-    "summary": "Stuttgart II besiegt den SC Verl 1:0, van der Leij trifft per Elfmeter zum 500. Drittliga-Tor des VfB. Zagadou feiert nach Verletzungspause ein Kurzcomeback, Rölke fehlte wegen einer Fußentzündung."
-   },
-   {
-    "id": "e465043963",
-    "titel": "Verl verliert auch bei Stuttgart II: Elfmeter sorgt für Frust",
-    "datum": "09.11.",
-    "stufe": "spielbericht",
-    "summary": "Der SC Verl verliert beim VfB Stuttgart II 0:1 und kassiert die vierte Niederlage in Folge. Trainer Orest Shala kritisiert den Elfmeterpfiff vor dem Tor von Tim van der Leij."
-   }
-  ],
   "versuche": 2
  },
  {
@@ -204,5 +101,504 @@
    }
   ],
   "versuche": 2
+ },
+ {
+  "id": "9cbbd5ca0d",
+  "schluessel": "grossaspach|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Großaspach",
+  "klubs": [
+   "Großaspach"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "(k+) Besser jetzt als zu spät: Weshalb Schieber Großaspach verlassen hat",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZmRiN055OGxpS1pQU054UkZkSVQxVVcwakpFU1B6WjI3TzZnNVBkOTczTTZ3Mm55X2t6dGlRVlhWZ0dRR0JBMXlVSGJ5dGJrajlGRXplMkJoZ3JRblhleTFGa29IdFY3eHRvMUctY05zRG9yYUJyQkttZ3dYN1lDUWlMV3VwcVp4OWdDLUlhcW5XZWJ4eUFLMXJCOTYtRVhnNFlWWkhFY3JWUQ?oc=5",
+    "aid": "91dc06c368",
+    "titel": "(k+) Besser jetzt als zu spät: Weshalb Schieber Großaspach verlassen hat",
+    "quelle": "Kicker",
+    "beschr": " (k+) Besser jetzt als zu spät: Weshalb Schieber Großaspach verlassen hat &nbsp;&nbsp; Kicker ",
+    "zeit": "2026-11-18T17:26"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-18T17:52",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "ef8e9f8aba",
+  "schluessel": "fortuna koln|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Fortuna Köln",
+  "klubs": [
+   "Fortuna Köln",
+   "Meppen"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "SC Fortuna Köln - SV Meppen: Fortuna Köln hat Punkte dringend nötig - 3. Liga",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOT3QzNE5vdTZXUDdpYmt2cXV0NU96UExwTVJFdU1CaURKUnp2d0J0WHlTMDBkc2tYaWlCVDVPZnFSWjUwZEVSZnRJRG5wbUNjNG54eEZXWnE4Z2hGcmdmYTVtTktEVzFEWEhBMGtDNmhnN2xhTklINThLOWlISUlsLUNRNGE0NktzNzBlVlBqalRlRllnYUY4bEIzNGI4MUFDZWtidTFQTi1wbWhCcEJMVWh2T1JvOWpxSlRqLUxKcVRWWHpkZW0yRlBhUkRXNWhxX3d0QjdfaFBYWWhzc3pBOGVyT05UTmZL?oc=5",
+    "aid": "36b250d7fa",
+    "titel": "SC Fortuna Köln - SV Meppen: Fortuna Köln hat Punkte dringend nötig - 3. Liga",
+    "quelle": "WELT",
+    "beschr": " SC Fortuna Köln - SV Meppen: Fortuna Köln hat Punkte dringend nötig - 3. Liga &nbsp;&nbsp; WELT ",
+    "zeit": "2026-11-18T15:17"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-18T17:52",
+  "archiv": []
+ },
+ {
+  "id": "cd7f57a83c",
+  "schluessel": "hoffenheim ii|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hoffenheim II",
+  "klubs": [
+   "Hoffenheim II",
+   "Münster"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "TSG 1899 Hoffenheim II - SC Preußen Münster: Gelingt Münster die Trendwende? - 3. Liga",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSHlLYzdoSm9NNG9uOFp4bnZwZV9WQnJzd0pXT2ZjUjZmd2dHcUJWWElQMkZSUk1iekliVHM1Zk5CcHN1UDVPSmRNdU81ZUN4N0ZWcHlNQXJXOURQUHlPUlJ3YVRVR29UbGlhZmwyZkxVYmxLOUVlc19LU1dNclJUZGVhcDZzTXpnZHhBRUtSYURsd0FFWDZuX2NDaE5kS3JuSl84dkR6cExYbTZBaWtLdEZhRG5teDMyUHdua01KM0lNbjVjSkJ4SFB0M1hDMHA3TEJLejhtQ1A4aXBkejRSSEZQa1ljY0hPcUVBakU3QjdvT0U?oc=5",
+    "aid": "81f5229cf1",
+    "titel": "TSG 1899 Hoffenheim II - SC Preußen Münster: Gelingt Münster die Trendwende? - 3. Liga",
+    "quelle": "WELT",
+    "beschr": " TSG 1899 Hoffenheim II - SC Preußen Münster: Gelingt Münster die Trendwende? - 3. Liga &nbsp;&nbsp; WELT ",
+    "zeit": "2026-11-18T15:17"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-18T17:52",
+  "archiv": [
+   {
+    "id": "644395bcc6",
+    "titel": "Würzburg gegen Hoffenheim II: Zwei unbeständige Teams brauchen Punkte",
+    "datum": "08.11.",
+    "stufe": "sonstiges",
+    "summary": "Die Würzburger Kickers (Platz 15) empfangen Hoffenheim II (Platz 9) in der 3. Liga. Beide Teams kommen formschwach in die Partie und brauchen Punkte."
+   }
+  ]
+ },
+ {
+  "id": "1295ef76d7",
+  "schluessel": "duisburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Duisburg",
+  "klubs": [
+   "Duisburg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Niederrheinpokal: Fortuna gegen MSV - Straßenbahnderby 2.0 heute mit 30.000 Zuschauern",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYzZfSngzSHM5MkxXelhyemlOdXRteXdmYmd1M25xT2RZTVRPT1I0Z09PdGhWa05zQS1zc3lORzJpSTlwamU4ejgzUG9POHJHcU56ZTVUWDhzRGVNaWtmZlJ1WWJKTWhMSE1YOVRkRWxfRmt2ZzhsZTNUenpzR3RrVHpXMTIwMmZScEJoUTBoZi1lTWNOT3lHLW52d1RSQk9pVlNZVVEyWkhxazNTT21Lc0tycXdtZEpwSGdF?oc=5",
+    "aid": "18968253d0",
+    "titel": "Niederrheinpokal: Fortuna gegen MSV - Straßenbahnderby 2.0 heute mit 30.000 Zuschauern",
+    "quelle": "sportschau.de",
+    "beschr": " Niederrheinpokal: Fortuna gegen MSV - Straßenbahnderby 2.0 heute mit 30.000 Zuschauern &nbsp;&nbsp; sportschau.de ",
+    "zeit": "2026-11-18T08:43"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-18T17:52",
+  "archiv": []
+ },
+ {
+  "id": "194c09cdec",
+  "schluessel": "rw essen|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "RW Essen",
+  "klubs": [
+   "RW Essen"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "\"Anfangs war es eine Katastrophe!\" - RWE-Profi spricht über seine Integration",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYjdnak5GYUNvQnZIVFdEV01HVzYza1JNSXlIdENHb0hlSGo1Qk5iRFlVSDB6T2liVlQyTEJGQU9MUTFqMzRPOGFaRGdiZEJLc1FUVGp0bnN0UndaRlVlbE1CcllJRmptYmY4UjJ1VjhnT1JxZjJVUlF1RmhOdnk5ZjRqZFp3cXViTEs4VllMZW5zdkhJTTE0VkdfaUJab0MxcldkTlVXcUdVcnZ4ZmdBOGJfdEN2b2JxdFBnRnR0QWFGU0Z2aWZ6RFBiVFNreU9WT2NNdQ?oc=5",
+    "aid": "f26e737607",
+    "titel": "\"Anfangs war es eine Katastrophe!\" - RWE-Profi spricht über seine Integration",
+    "quelle": "RevierSport online",
+    "beschr": " \"Anfangs war es eine Katastrophe!\" - RWE-Profi spricht über seine Integration &nbsp;&nbsp; RevierSport online ",
+    "zeit": "2026-11-18T11:14"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-18T17:52",
+  "archiv": []
+ },
+ {
+  "id": "1f6db4febe",
+  "schluessel": "aachen|verletzung",
+  "person": "",
+  "spieler": [],
+  "klub": "Aachen",
+  "klubs": [
+   "Aachen"
+  ],
+  "stufe": "rueckkehr",
+  "klasse": "verletzung",
+  "titel": "Mittelrheinpokal: Emotionales Najar-Comeback bei Fortunas 5:0-Sieg - Alemannia Aachen ist gewarnt",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSDlnN3pKQ3JrU1hEWUlaenA1dnl5clV3VEw4c1dtempOVkxqWnBUOVpzVHRaTktOaWRlMjVBX0xhd18zRUdpTkVGOEc4QW1OZ2xSMmZfODgwenNUU2xJeFBRWE91cWZwYmJTZzRZaUFJTE1neHN5QkFkTkhITm1GeEN4OWMzemV2RzF5ZGxudGIxaEQ3YzUxVWV6OTlhR3piVnlsblRybHFFeU1pUTNTNDZXbDlNMUkwODdIZG5EcVBoVUhOTldRUTREMXBXSWZqdTczQkdzTGxSZmg1NGExZQ?oc=5",
+    "aid": "e5ce3be57b",
+    "titel": "Mittelrheinpokal: Emotionales Najar-Comeback bei Fortunas 5:0-Sieg - Alemannia Aachen ist gewarnt",
+    "quelle": "RevierSport online",
+    "beschr": " Mittelrheinpokal: Emotionales Najar-Comeback bei Fortunas 5:0-Sieg - Alemannia Aachen ist gewarnt &nbsp;&nbsp; RevierSport online ",
+    "zeit": "2026-11-18T14:01"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-18T17:52",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "a1c5a34471",
+  "schluessel": "aachen|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Aachen",
+  "klubs": [
+   "Aachen"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Achtelfinale im Mittelrheinpokal: Alemannia trifft auf Hennef",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeDhYcUl0eVJ5UG5XZlZWMDJNU3JzeWdrLVV0UVQ3enUtY3hERjF4LU9mNkRHZkNQY2lyUlhBemZVUTFCNEZKRXQ1LWpTUURRbURWOG5ZTWFhNEQzQmhZMnVOMUt1VE5LenpESW5HZ1ctbFMwbW5TbVBYXzJic2o1Z0JSXy1EQzkxUm02SjQtcjFGLTVYaWFKMmdCaw?oc=5",
+    "aid": "db2b5f85f0",
+    "titel": "Achtelfinale im Mittelrheinpokal: Alemannia trifft auf Hennef",
+    "quelle": "Antenne AC",
+    "beschr": " Achtelfinale im Mittelrheinpokal: Alemannia trifft auf Hennef &nbsp;&nbsp; Antenne AC ",
+    "zeit": "2026-11-18T07:34"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-18T17:52",
+  "archiv": []
+ },
+ {
+  "id": "efa79f9c03",
+  "schluessel": "aachen|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Aachen",
+  "klubs": [
+   "Aachen"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Alemannia Aachen: Erst 263 Minuten - Bochum-Leihgabe spricht offen über seine schwierige Zeit",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcGtGdENHVXZKamZGbi13VjhZaUFWTENZRVdTajMzLTd2Q2VKdTJTNG1tNkJScEFmLVF2QXNzSVpMSHE5YTcwei1qQW5GaUd4YVdkejJ4cWRwSTJaRTNVTHRldnRWZ2NjV1hTY0NjVndiX0VUWTRnaEFSMGowZUd5LW9XQjNjekg1d3phNHdtdHpXVWdmVG81RTBkVHBlX0h2aDRVTGh3aHR1RTBUTmM5NzdjTC05bEw4YkN4UVgtY0ZieHRuYmNIMW5QdVZkYkhKVUFHa2hOMmxaanItMmdSalRB?oc=5",
+    "aid": "bbad1713d4",
+    "titel": "Alemannia Aachen: Erst 263 Minuten - Bochum-Leihgabe spricht offen über seine schwierige Zeit",
+    "quelle": "RevierSport online",
+    "beschr": " Alemannia Aachen: Erst 263 Minuten - Bochum-Leihgabe spricht offen über seine schwierige Zeit &nbsp;&nbsp; RevierSport online ",
+    "zeit": "2026-11-18T10:55"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-18T17:52",
+  "archiv": []
+ },
+ {
+  "id": "56cf885af6",
+  "schluessel": "ingolstadt|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Ingolstadt",
+  "klubs": [
+   "Ingolstadt"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "SG 99 Andernach gibt späte Führung noch aus der Hand und unterliegt dem FC Ingolstadt mit 1:2",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT29Sb0VkMkFNX05NcGEwNnFvTlJyQlhDUW1rOGRhZTVnSi1TeEMzamdIdHZvdEM0cjFoV2Jkc3VrTGpLWTBzOG53Um9XdjJ5T01HSXJzTnBJRWlvdWQzbjBSUVB6REsxNm1hYmpERVluZXBteGpiZ1R0cnhrd2IzeHdFMjR3TjMxWkNxVEtiUWZaUkxwMjB1S3BkUUJVc2ZOZ2M5bnNYZFdUak9JTXR5OGYwZFEzVE1wVHl2Z1VOZm96WFFFczVuTHNqd1B3SDZua2JTUWZrajdTVFFGdlE?oc=5",
+    "aid": "0cd4e9434c",
+    "titel": "SG 99 Andernach gibt späte Führung noch aus der Hand und unterliegt dem FC Ingolstadt mit 1:2",
+    "quelle": "Blick aktuell",
+    "beschr": " SG 99 Andernach gibt späte Führung noch aus der Hand und unterliegt dem FC Ingolstadt mit 1:2 &nbsp;&nbsp; Blick aktuell ",
+    "zeit": "2026-11-18T10:20"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-18T17:52",
+  "archiv": [
+   {
+    "id": "edf5dc42d5",
+    "titel": "Fortuna verspielt 2:0 Führung und verliert 2:3 gegen Ingolstadt",
+    "datum": "07.11.",
+    "stufe": "spielbericht",
+    "summary": "Fortuna Düsseldorf verliert gegen den FC Ingolstadt nach 2:0 Führung mit 2:3. Torhüter Louis Lord musste mit einer Rippenverletzung raus."
+   }
+  ]
+ },
+ {
+  "id": "12f855a5a5",
+  "schluessel": "dusseldorf|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Düsseldorf",
+  "klubs": [
+   "Düsseldorf",
+   "Duisburg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Fortuna Düsseldorf: Schwur von Jens Langeneke vorm Duisburg-Derby",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRnRrVzRCZGV2Q1ZDbkswV2FIeWVHQ05SWnlMZXdFUU5LVld6RV9FbWpnTVJyLUN3R2psaTl4M21yT3AzQkJlSDJkVVpRQW8tZlViVnNwSWxmeGpUYUoxSEw5UDdkLWsxTExrQXBIaHZ4WUU5a0RaWHJiLUxrTUlRNXVzTEpMZzFZMWRUbk9TUVc1VUlscWJSakhTaFNiRW5Wenc1UEVMS3g4d0JDUV91aUdXOG1Ma2JVQkFIRFA5cFF0VzQ?oc=5",
+    "aid": "7af53a44e8",
+    "titel": "Fortuna Düsseldorf: Schwur von Jens Langeneke vorm Duisburg-Derby",
+    "quelle": "BILD",
+    "beschr": " Fortuna Düsseldorf: Schwur von Jens Langeneke vorm Duisburg-Derby &nbsp;&nbsp; BILD ",
+    "zeit": "2026-11-18T05:00"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-18T17:52",
+  "archiv": [
+   {
+    "id": "06f74ee539",
+    "titel": "Düsseldorf: Jobst nach Misstrauensvotum „Ich kann die Mitglieder verstehen“",
+    "datum": "16.11.",
+    "stufe": "sonstiges",
+    "summary": "Fortuna Düsseldorfs Vorstandschef Alexander Jobst wurde bei der Mitgliederversammlung nicht entlastet. Er zeigt Verständnis und will dem neuen Aufsichtsrat zur Verfügung stehen."
+   },
+   {
+    "id": "1e0343b822",
+    "titel": "Fortuna Düsseldorf verzichtet auf Probekeeper Phillip Menzel",
+    "datum": "14.11.",
+    "stufe": "sonstiges",
+    "summary": "Fortuna Düsseldorf gibt Probekeeper Phillip Menzel keinen Vertrag, da Louis Lord in einigen Wochen zurückerwartet wird. Bis dahin hütet Lasse Rieß das Tor."
+   },
+   {
+    "id": "7daafcd4b8",
+    "titel": "Düsseldorfs Routiniers enttäuschen: Fabian fordert in der Länderspielpause Analyse",
+    "datum": "11.11.",
+    "stufe": "sonstiges",
+    "summary": "Düsseldorfs routinierte Neuzugänge enttäuschen bisher, nur Zimmermann und Oberdorf überzeugen. Sportdirektor Patrick Fabian kündigt in der Länderspielpause eine ehrliche Analyse an."
+   }
+  ]
+ },
+ {
+  "id": "91b4dda697",
+  "schluessel": "duisburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Duisburg",
+  "klubs": [
+   "Duisburg",
+   "Rostock"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "MSV Duisburg gegen Hansa Rostock: Parallelen zur Vorsaison unter Flutlicht",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWHNIbzhueUxONW44SXUyVC1WU3BkRk9OUFJsVi1lVEtiQ1J2T2JubVRGX1VrVEJscGp1VUM4Y01OaUNQVU1aVUJTMkphU2Q5UVgzNkFUcmJKV0I3Z3VuQVlQSVdxYXJYcnlVQ1ZrU0V6ZlY4S3QwQ21RWkZGUmpfTndyQlJQOEY3ZmpvYUlwM1IwMEduWTRndVNNUmVjTE52WU04am1wWUJWU0x5ZkZDOGt5LWFMZVdSNzQ0eDhLenI1VndpdkJiS2IzV01uYk5wVWRLUklpUy0xV1ZWS3l1SWdYMmrSAYACQVVfeXFMTWdaa0JhbUZaclFkN21WOEpSUWMtdTVFbXZKNkV0ODFvOVFiVXI5SkE5VjF6YWxCcmx0RlMzTFUyRlhIUWdyUHItYXowX0dHYXU5Q2toX2RjV05YQ0p4SjRrRnJpY1NubG9pTDRKSHdmQzlpUXh6OWdMaExLNXo0VmRQNHR0UDk5c0g2bkYtSHA2YTNfUGp1LVkzOXdqNHByRjhJMDhtN0xXbVA3cjBxVFJGS05aRkNhMTFOeExiLTFoa2J2SW9SWTFXN3RBOGFFNjAyZWxQXzFhTG1tcEhyTzU5b0hTTDhRUTAtczBPaHJ4eUVUazRRbXl3S1p6NXRsbA?oc=5",
+    "aid": "6816fff82d",
+    "titel": "MSV Duisburg gegen Hansa Rostock: Parallelen zur Vorsaison unter Flutlicht",
+    "quelle": "Ostsee Zeitung",
+    "beschr": " MSV Duisburg gegen Hansa Rostock: Parallelen zur Vorsaison unter Flutlicht &nbsp;&nbsp; Ostsee Zeitung ",
+    "zeit": "2026-11-18T15:35"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-18T17:52",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "f6c9b29d0d",
+  "schluessel": "grossaspach|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Großaspach",
+  "klubs": [
+   "Großaspach",
+   "Münster"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "Dank Eiseles Doppelpack: Großaspach dreht 0:2 gegen Münster",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONktTR2VjOWdJdC1tcThzanIyY29LR0tzU3E1Xy1ZSkl5a1N5N1M2UWd6dDYzYk1OVm9iTTRZNlB0NS1zVVg1Zk5YdVJSbk82c1pJaG9mQVVfRV9wMG1XUEZzZERFOTZyUWtNTnlSZC1zSDBweS1DMDRRR1VRQXVGZUY2WQ?oc=5",
+    "aid": "b80ea7d265",
+    "titel": "Dank Eiseles Doppelpack: Großaspach dreht 0:2 gegen Münster",
+    "quelle": "Kicker",
+    "beschr": " Dank Eiseles Doppelpack: Großaspach dreht 0:2 gegen Münster &nbsp;&nbsp; Kicker ",
+    "zeit": "2026-11-18T14:31"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-18T17:52",
+  "archiv": [
+   {
+    "id": "96554425a6",
+    "titel": "Großaspach verliert Test beim KSC, Öztunali startet direkt",
+    "datum": "14.11.",
+    "stufe": "spielbericht",
+    "summary": "Großaspach verlor ein Testspiel beim Karlsruher SC mit 0:2. Neuzugang Levin Öztunali stand direkt in der Startelf."
+   },
+   {
+    "id": "3394bea063",
+    "titel": "Großaspach trennt sich im Test vom Landesligisten Schorndorf 1:1",
+    "datum": "11.11.",
+    "stufe": "spielbericht",
+    "summary": "Großaspach hat im Testspiel beim Landesligisten Schorndorf 1:1 gespielt. Lorch traf für den Drittligisten, am Samstag wartet der Karlsruher SC."
+   },
+   {
+    "id": "67702106bd",
+    "titel": "Hansa Rostock schlägt Großaspach 3:0 und beendet die Verunsicherung",
+    "datum": "07.11.",
+    "stufe": "spielbericht",
+    "summary": "Hansa Rostock gewinnt am 13. Spieltag 3:0 gegen Großaspach, nachdem die erste Halbzeit zäh verlief. Trainer André Breitenreiter lobt den Charakter seiner verunsicherten Mannschaft."
+   }
+  ]
+ },
+ {
+  "id": "1c7e29d697",
+  "schluessel": "meppen|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Meppen",
+  "klubs": [
+   "Meppen"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Denkt der SV Meppen über eine Leihe von Ex-Spieler Mika Stuhlmacher nach?",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZXo1bDZvNEZUYnB4X0ZRVUdralVmRDhhdjEwdi1BQk1VWHNnM09BbElrM25kbzF3OUkyQWsyQmhiaGhZMjV4ZGFvbnRjSkl5TFFKX1NsazBrRjBTNmdlNFItRVg3cnd2WDNwaVBlcXk4Q0NpenNqdHV5bVVZNjNveVdRTk1oOGxUVlVYenRIbmFjSkJac2taNHI3Z3BQdC0yQmZmSmJZdklrU1FsZ05OY1dXSFdFZjB2X3Fn?oc=5",
+    "aid": "094acde9a1",
+    "titel": "Denkt der SV Meppen über eine Leihe von Ex-Spieler Mika Stuhlmacher nach?",
+    "quelle": "noz.de",
+    "beschr": " Denkt der SV Meppen über eine Leihe von Ex-Spieler Mika Stuhlmacher nach? &nbsp;&nbsp; noz.de ",
+    "zeit": "2026-11-18T06:12"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "u",
+  "erstmals": "2026-11-18T17:52",
+  "archiv": []
+ },
+ {
+  "id": "e4988fc328",
+  "schluessel": "rw essen|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "RW Essen",
+  "klubs": [
+   "RW Essen",
+   "Verl"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "Rot-Weiss Essen: Personeller Engpass bleibt, seit 2013 kein Sieg in Verl",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNFJ2Q0lsSnY1NEJ1cHJzazFVU0NfckptU0JjMnNqWnBhTU9QSUhoZlRjeURETUpZUGhsTVc4NkxsWU9QcG4xTXlKcmdTcWIxLWgwU1pSZGlLdk1VVm5CV3AzV3NsTnlyY3hsWVRUWUJWTFVxUGdqdGVQNEJVbHoxM0hSS1RNaHZtcXlQMXZIRmQyLWlra2VlaEo1QnRQb0FoaXdxWjZZTUQ5SUN5Z0JtNVRUM1FMdUFaT1ExYkRaYzk1UQ?oc=5",
+    "aid": "0a1e26594a",
+    "titel": "Rot-Weiss Essen: Personeller Engpass bleibt, seit 2013 kein Sieg in Verl",
+    "quelle": "RevierSport online",
+    "beschr": " Rot-Weiss Essen: Personeller Engpass bleibt, seit 2013 kein Sieg in Verl &nbsp;&nbsp; RevierSport online ",
+    "zeit": "2026-11-18T16:44"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-18T17:52",
+  "archiv": [
+   {
+    "id": "9d292ef115",
+    "titel": "RWE zieht mit 4:0 bei Ratingen ins Pokal-Halbfinale ein",
+    "datum": "16.11.",
+    "stufe": "spielbericht",
+    "summary": "Rot-Weiss Essen gewinnt das Viertelfinale im Niederrheinpokal bei Ratingen 04/19 mit 4:0. Trainer Uwe Koschinat lobt die Organisation des Oberligisten auf „Top-Niveau“."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "e085dbdbc3",
+  "schluessel": "meppen|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Meppen",
+  "klubs": [
+   "Meppen"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "(k+) Meppens Trainer Beniermann: \"Der Kopf eines Spielers ist mein größter Hebel\"",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR2ZQeFgzLXQxZmhsbEtUblNncURhZWNtUnBQWTE3dm1jdHcwTUExYzZYTW5Ndml6UEF6TFM5dHI4ZnJQYjJmZkRTajRFSy1xelJ0MGdBRjBFUjVjR3daRC1RWFEwcktOTVN4TkNRMnlpcjlOSUp5T0E3a2lYNHZIdTNKUk5QcGVNbHRycWRBWVJKSW1zZ0lScy1QbElHOEdHQVkzcl93NC01Q25MMW9ySlEzRQ?oc=5",
+    "aid": "76a8afdad4",
+    "titel": "(k+) Meppens Trainer Beniermann: \"Der Kopf eines Spielers ist mein größter Hebel\"",
+    "quelle": "Kicker",
+    "beschr": " (k+) Meppens Trainer Beniermann: \"Der Kopf eines Spielers ist mein größter Hebel\" &nbsp;&nbsp; Kicker ",
+    "zeit": "2026-11-18T15:26"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-18T17:52",
+  "archiv": [],
+  "versuche": 1
  }
 ]
