@@ -1,64 +1,5 @@
 [
  {
-  "id": "2ec8e6e607",
-  "schluessel": "bochum|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Bochum",
-  "klubs": [
-   "Bochum"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "VfL Bochum: Klare Uwe-Rösler-Botschaft - \"Doppelt so hart arbeiten, um Vibe zu behalten!\"",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMUxPei00MkZzLURPM3ZSdy1RdjV3OGdKeThfc21BMGFpQzdwTEVrd19PZHREbk5lWHlESVdnb3FiRjQtZ1M2YkRBSVBpb2FuVzRULUtETkVOY3FoTi1Ddmp4YS0tN3FiOUR2MktTODhieWxoTWI4MnhCRWF0RlUxazJocnFoanBVc1Z2em9XbkVwZlFUbDdTcnRONnJIc29CR2pkVGFJS2RUVXdYUjdMY3o4c3lTT1AxQ0tLZllxY2U0ckotSmJRazZIeERFQWdFMXNtN3p6aw?oc=5",
-    "aid": "258ae61fef",
-    "titel": "VfL Bochum: Klare Uwe-Rösler-Botschaft - \"Doppelt so hart arbeiten, um Vibe zu behalten!\"",
-    "quelle": "RevierSport online",
-    "beschr": " VfL Bochum: Klare Uwe-Rösler-Botschaft - \"Doppelt so hart arbeiten, um Vibe zu behalten!\" &nbsp;&nbsp; RevierSport online ",
-    "zeit": "2026-11-17T15:36"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-17T18:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "b10cb838da",
-  "schluessel": "osnabruck|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Osnabrück",
-  "klubs": [
-   "Osnabrück",
-   "Karlsruhe"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "VfL Osnabrück: Beck und Kyereh fehlen im Training vor Karlsruhe",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRi1BZnpoVFl4M1N1Vk9MV0FTVnlSTzV1eHdWbHdFVnZwZG5UbEpqQWF0amRkTXUxU05iNVNWb0hQRm1udDQ3ZHNhNnhhU1lMQ1JwWGdjTUVVS242Wk85ekhEb3J4RC11aGNFc2JzdGdJMS1HZDBQcUVEWWFVdG1UZ2tpaFJ1TnB4Q1lTblhwZHFIRVVQMlBoVDBGdGhIS0RsXzMybW91MzA2OE91SjQ1LUlRNG41YlgwZ1lZVQ?oc=5",
-    "aid": "1bde72c0d8",
-    "titel": "VfL Osnabrück: Beck und Kyereh fehlen im Training vor Karlsruhe",
-    "quelle": "noz.de",
-    "beschr": " VfL Osnabrück: Beck und Kyereh fehlen im Training vor Karlsruhe &nbsp;&nbsp; noz.de ",
-    "zeit": "2026-11-17T15:30"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-17T18:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
   "id": "e05ac41bbf",
   "schluessel": "darmstadt|verletzung",
   "person": "",
@@ -101,7 +42,7 @@
     "summary": "Darmstadts Fabian Nürnberger, Merveille Papela, Luca Marseiler und Carlo Sickinger sind zurück auf dem Trainingsplatz. Gleichzeitig ist der Einsatz von Marcel Schuhen, Patric Pfeiffer und Hojae Lee gegen Heidenheim fraglich."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "a1ec6f3db4",
@@ -130,7 +71,7 @@
   "status": "u",
   "erstmals": "2026-11-17T21:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "3506852533",
@@ -167,7 +108,7 @@
     "summary": "Holstein Kiel steht nach der 1:2-Niederlage gegen Bielefeld und Platz 18 vor der Trennung von Trainer Tim Walter. Geschäftsführer Olaf Rebbe kündigte für Sonntag eine längere Sitzung an."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "07942a9566",
@@ -196,6 +137,80 @@
   "status": "n",
   "erstmals": "2026-11-17T21:01",
   "archiv": [],
+  "versuche": 2
+ },
+ {
+  "id": "45f0b7ebdd",
+  "schluessel": "st. pauli|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "St. Pauli",
+  "klubs": [
+   "St. Pauli"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "FC St. Pauli: Winter-Abgang von Ricky-Jade Jones deutet sich an – die Details",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeVNjZGowS1ZmUU5LMWtVMTBIemVZNndTMVVjdDBEZ1FzaHpKSVBRNWZYa2tKMFowT1Y5cE1kZ2ZlWE9BRDQ1YmNyZlNHLS00cHJrS1E3VG15YTlaNmdhY3ZjZ01lY2dUaG1BSTNjMGVNUUVvZUZoZWxia05QVXpqUXhoNEE1TzZjREFyUldNX2tvTUhzdmZBaDF4QXJ5Q0d1MGpxcUtqSlhUMzBBdnJQUWFHN3hXazVVYzVOWGZwVlNzNXF5dTl0QkJMRjVCWmxqY0djdlBmUnJiRVk4NmpV?oc=5",
+    "aid": "ca321020d8",
+    "titel": "FC St. Pauli: Winter-Abgang von Ricky-Jade Jones deutet sich an – die Details",
+    "quelle": "Hamburger Abendblatt",
+    "beschr": " FC St. Pauli: Winter-Abgang von Ricky-Jade Jones deutet sich an – die Details &nbsp;&nbsp; Hamburger Abendblatt ",
+    "zeit": "2026-11-17T18:00"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-18T06:01",
+  "archiv": [
+   {
+    "id": "ceca666738",
+    "titel": "Smith gegen Pyrka: St. Pauli-Profis treffen in der Nations League aufeinander",
+    "datum": "17.11.",
+    "stufe": "sonstiges",
+    "summary": "St. Paulis Eric Smith und Arkadiusz Pyrka treffen in der Nations League mit Schweden und Polen aufeinander. Pyrka hat gute Chancen auf einen Startelfeinsatz, Smith blieb zuletzt ohne Einsatz."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "60e663b586",
+  "schluessel": "bochum|verletzung",
+  "person": "",
+  "spieler": [],
+  "klub": "Bochum",
+  "klubs": [
+   "Bochum"
+  ],
+  "stufe": "rueckkehr",
+  "klasse": "verletzung",
+  "titel": "VfL Bochum: Mbom zurück im Training – jetzt wartet der Konkurrenzkampf",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV3dfZHpWYnhia3QtQl9GSlQyOVRyeFhJa3ZPQkFndGRVdEt2akY5OFBDc0ZWTmd4bnBJcFhUWml1SXBteDlPa1lFa2xacGVlRmdZSjJRVmR5SDM3RlZLeVJxT0tpdjZKR0FMenpqQURZN2hxeTRnY3M0OEE0b1JqUkJ2dVpoS1lxblFHOWptVW1LZ2twSjc2Nks3S2wzZFIteElFd1U1M0xKNjRnZVJiLVJkOUtZSEloQ1V4STB3T1JFQQ?oc=5",
+    "aid": "873616acbe",
+    "titel": "VfL Bochum: Mbom zurück im Training – jetzt wartet der Konkurrenzkampf",
+    "quelle": "RevierSport online",
+    "beschr": " VfL Bochum: Mbom zurück im Training – jetzt wartet der Konkurrenzkampf &nbsp;&nbsp; RevierSport online ",
+    "zeit": "2026-11-17T21:03"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-18T06:01",
+  "archiv": [
+   {
+    "id": "6c42a192ac",
+    "titel": "KSC: Franke und Jung fehlen zum Start der Bochum-Vorbereitung",
+    "datum": "03.11.",
+    "stufe": "verletzung",
+    "summary": "Der KSC hat die Vorbereitung auf das Auswärtsspiel in Bochum am 8. November begonnen. Marcel Franke (Infekt) und Sebastian Jung (Muskelfaserriss) fehlten im Training."
+   }
+  ],
   "versuche": 1
  }
 ]
