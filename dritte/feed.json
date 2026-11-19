@@ -1,5 +1,133 @@
 [
   {
+    "id": "b0425273f3",
+    "titel": "Saarbrücken: Drei Verletzte schwächen Defensive und Flügel",
+    "kategorie": "analyse",
+    "badge": "Analyse",
+    "badge_bg": "#6a1fbf",
+    "badge_fg": "#fff",
+    "datum": "19.11.2026 23:00",
+    "wappen_url": "logos/saarbruecken.png",
+    "vereine": [
+      "Saarbrücken"
+    ],
+    "anriss": "Der 1. FC Saarbrücken hat in der Länderspielpause drei Spieler verletzt. Laut Vereinsmitteilung fallen Philip Fahrner, Maurice Multhaup und Abdoulaye Kamara mittel- bis langfristig aus. Besonders der Ausfall von Fahrner trifft den Klub empfindlich. Der 23-jährige Fahrner agierte in dieser Saison stark wie nie und",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Saarbrücken",
+    "pfad": "artikel/saarbruecken-drei-verletzte-schwaechen-defensive-und-fluegel-b0425273f3.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "reaktion",
+      "frage": "",
+      "antworten": [
+        "💚 Gute Besserung"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "3188169313",
+    "titel": "Stuttgart II empfängt formstarke Ingolstädter",
+    "kategorie": "analyse",
+    "badge": "Analyse",
+    "badge_bg": "#6a1fbf",
+    "badge_fg": "#fff",
+    "datum": "19.11.2026 23:00",
+    "wappen_url": "logos/stuttgart2.png",
+    "vereine": [
+      "Ingolstadt",
+      "Stuttgart II"
+    ],
+    "anriss": "Die Zweitvertretung des VfB Stuttgart empfängt am Sonntag den FC Ingolstadt 04. Die Gäste kommen mit einem 3:2-Erfolg gegen Fortuna Düsseldorf im Rücken, Stuttgart gewann zuletzt ebenfalls und hat 18 Punkte auf dem Konto. Die Heimbilanz des VfB ist ausbaufähig. Aus sechs Heimspielen holte die",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Stuttgart II",
+    "pfad": "artikel/stuttgart-ii-empfaengt-formstarke-ingolstaedter-3188169313.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "af269a4411",
+    "titel": "Hoffenheim II empfängt Münster: Duell der Plätze neun und 14",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "19.11.2026 23:00",
+    "wappen_url": "logos/hoffenheim2.png",
+    "vereine": [
+      "Hoffenheim II",
+      "Münster"
+    ],
+    "anriss": "Die zweite Mannschaft der TSG 1899 Hoffenheim empfängt am 14. Spieltag der 3. Liga den SC Preußen Münster. Anstoß im Dietmar-Hopp-Stadion ist am Samstag, 21. November 2026, um 14:00 Uhr. Hoffenheim II steht mit 19 Punkten auf Rang neun. Zuletzt gewann das Team auswärts 1:0",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Hoffenheim II",
+    "pfad": "artikel/hoffenheim-ii-empfaengt-muenster-duell-der-plaetze-neun-und-14-af269a4411.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "bdcbdf45f2",
+    "titel": "Waldhof Mannheim zieht mit 2:1 in das Halbfinale des Verbandspokals ein",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "19.11.2026 22:59",
+    "wappen_url": "logos/mannheim.png",
+    "vereine": [
+      "Mannheim"
+    ],
+    "anriss": "Drittligist SV Waldhof Mannheim steht im Halbfinale des badischen Verbandspokals. Im Viertelfinale setzte sich die Mannschaft bei der SpVgg Neckarsteinach mit 2:1 durch. Der Gastgeber ist Tabellenführer der Kreisklasse A Heidelberg. Neben dem früheren Bundesligaspieler Dennis Diekmeier kamen bei Neckarsteinach weitere Akteure mit Erfahrung aus",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Mannheim",
+    "pfad": "artikel/waldhof-mannheim-zieht-mit-2-1-in-das-halbfinale-des-verbandspokals-bdcbdf45f2.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "edd5889c4c",
+    "titel": "Düsseldorf: Wekesser verletzt sich im Pokalderby gegen Duisburg",
+    "kategorie": "verletzung",
+    "badge": "Verletzung",
+    "badge_bg": "#e53935",
+    "badge_fg": "#fff",
+    "datum": "19.11.2026 22:59",
+    "wappen_url": "logos/duesseldorf.png",
+    "vereine": [
+      "Duisburg",
+      "Düsseldorf"
+    ],
+    "anriss": "Fortuna Düsseldorf muss nach dem Viertelfinale im Landespokal Niederrhein gegen den MSV Duisburg um Offensivspieler Erik Wekesser bangen. Der 29-Jährige musste im Derby bereits nach 20 Minuten ausgewechselt werden. Für ihn kam Lukas Eixler in die Partie. Wekesser verletzte sich offenbar ohne gegnerische Einwirkung. Ein",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Düsseldorf",
+    "pfad": "artikel/duesseldorf-wekesser-verletzt-sich-im-pokalderby-gegen-duisburg-edd5889c4c.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "reaktion",
+      "frage": "",
+      "antworten": [
+        "💚 Gute Besserung"
+      ]
+    },
+    "n11": false
+  },
+  {
     "id": "5b8cd0430e",
     "titel": "Düsseldorf schlägt Duisburg im Niederrheinpokal mit 3:0",
     "kategorie": "news",
