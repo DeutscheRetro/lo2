@@ -1,5 +1,89 @@
 [
   {
+    "id": "1c828f8434",
+    "titel": "Schmidt schildert Föhrenbachs Verletzung: „In dem Moment war es ein Schock“",
+    "kategorie": "verletzung",
+    "badge": "Verletzung",
+    "badge_bg": "#e53935",
+    "badge_fg": "#fff",
+    "datum": "19.11.2026 21:04",
+    "wappen_url": "logos/heidenheim.png",
+    "vereine": [
+      "Darmstadt",
+      "Heidenheim"
+    ],
+    "anriss": "Heidenheims Trainer Frank Schmidt hat geschildert, wie es zum Schienbeinbruch von Jonas Föhrenbach kam. Der Defensiv-Allrounder verletzte sich am Donnerstag, 12. November, im Training und fehlt monatelang. Im Auswärtsspiel beim SV Darmstadt am Freitag (18.30 Uhr) muss der FCH erstmals auf ihn verzichten. Laut Schmidt",
+    "spielerstatus": [
+      {
+        "spieler": "Föhrenbach",
+        "klub": "Heidenheim",
+        "status": "faellt_aus",
+        "grund": "Schienbeinbruch, monatelang out"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Heidenheim",
+    "pfad": "artikel/schmidt-schildert-foehrenbachs-verletzung-in-dem-moment-war-es-ein-1c828f8434.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "reaktion",
+      "frage": "",
+      "antworten": [
+        "💚 Gute Besserung"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "b9fb86902c",
+    "titel": "Scobel glaubt an Nürnberger Aufstiegschance: „Gut genug“",
+    "kategorie": "interview",
+    "badge": "Interview",
+    "badge_bg": "#1976d2",
+    "badge_fg": "#fff",
+    "datum": "19.11.2026 21:04",
+    "wappen_url": "logos/nuernberg.png",
+    "vereine": [
+      "Nürnberg"
+    ],
+    "anriss": "Nürnbergs Offensivspieler Piet Scobel traut dem 1. FC Nürnberg zu, das bisherige Niveau in der 2. Liga zu halten und um den Aufstieg mitzuspielen. Das sagte der 21-Jährige im Transfermarkt-Podcast „Done Deals“. Nach elf Spieltagen steht der „Club“ auf Rang zwei. „Ich denke, wir sind",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Nürnberg",
+    "pfad": "artikel/scobel-glaubt-an-nuernberger-aufstiegschance-gut-genug-b9fb86902c.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "recht",
+      "frage": "Hat Scobel recht: Ist Nürnberg gut genug, das Niveau zu halten?",
+      "antworten": [
+        "Ja",
+        "Nein"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "4bb196ed24",
+    "titel": "Hannover 96 trennt sich von Kaderplaner Paul Wagner",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "19.11.2026 21:04",
+    "wappen_url": "logos/hannover.png",
+    "vereine": [
+      "Hannover"
+    ],
+    "anriss": "Hannover 96 und Kaderplaner Paul Wagner gehen getrennte Wege. Der Zweitligist teilte am Mittwoch mit, dass beide ihre Zusammenarbeit in gegenseitigem Einvernehmen beenden. Wagner hatte erst im vergangenen Sommer als Leiter Kaderplanung und Scouting angefangen. Eine ausführliche Begründung liefert der Klub nicht. Er verweist auf",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Hannover",
+    "pfad": "artikel/hannover-96-trennt-sich-von-kaderplaner-paul-wagner-4bb196ed24.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
     "id": "a8ba66d6fb",
     "titel": "BVB hat Herthas Abwehrchef Linus Gechter im Visier",
     "kategorie": "transfer",

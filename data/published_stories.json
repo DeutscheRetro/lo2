@@ -3739,5 +3739,71 @@
     },
     "published_at": "2026-11-19T18:06:19.183338",
     "source": "90min.de"
+  },
+  {
+    "id": "1c828f8434",
+    "generated_title": "Schmidt schildert Föhrenbachs Verletzung: „In dem Moment war es ein Schock“",
+    "original_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQWtaNTN4N1c0N2xOaEV3MERuQ3ppeU5xTE5WcHNjOU1zUGJDajVDeFhEUFp4aGJVSUMyWmFFNG55WDNtckZCSUJkeFg3TEcyaUhWZ3ZfdTRLWGFYRHJZVnhFUVJQWHdoZ1VQSWpOUFdhTk9iUkJrRzNiUmxKMGVlZS01QXQwdG9HeUQ3MGpyTWVyeExYXzAxUHVsX3liYnZHN2FNYnhYUXNBRTJhUkFKbTlLa2Y5ZFNidVJURTF4ZWhuR1Ny?oc=5",
+    "fingerprint": {
+      "event_type": "verletzung",
+      "main_club": "Heidenheim",
+      "event_stage": "ausfall",
+      "main_teams": [
+        "Darmstadt",
+        "Heidenheim"
+      ],
+      "main_players": [
+        "Jonas Föhrenbach",
+        "Frank Schmidt"
+      ],
+      "summary": "Heidenheims Jonas Föhrenbach brach sich im Training nach einem Zweikampf mit Tim Siersleben das linke Schienbein und fällt monatelang aus. Trainer Frank Schmidt schildert den Hergang, in Darmstadt könnte Julian Niehues ihn ersetzen.",
+      "one_sentence_summary": "Heidenheims Jonas Föhrenbach brach sich im Training nach einem Zweikampf mit Tim Siersleben das linke Schienbein und fällt monatelang aus.",
+      "schluessel": "jonas fohrenbach|verletzung"
+    },
+    "published_at": "2026-11-19T21:04:55.853801",
+    "source": "Heidenheimer Zeitung"
+  },
+  {
+    "id": "b9fb86902c",
+    "generated_title": "Scobel glaubt an Nürnberger Aufstiegschance: „Gut genug“",
+    "original_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOelV6azA4NkE2REFQQnVfNVdVWEYxblROZktpSGVvbjZuSjN6dG5lTFEtSU1KSTJNaUNJOHczWWp0SlpJTHRhcDRTQWZlMGlLNjVlcm1VUmVDX0h4X1BaVXNpV19acmg2em9LZWl0YlhWa0R0LUw4MlIzNl9mejZ5QWJNRkdBdFFfRTZUakFra1plNVNsNGk2TTg1RzBMMXROTnlHRGhn?oc=5",
+    "fingerprint": {
+      "event_type": "interview",
+      "main_club": "Nürnberg",
+      "event_stage": "sonstiges",
+      "main_teams": [
+        "Nürnberg"
+      ],
+      "main_players": [
+        "Piet Scobel"
+      ],
+      "summary": "Nürnbergs Piet Scobel hält sein Team für gut genug, das Niveau zu halten und oben mitzuspielen. Der 21-Jährige hat bisher sechs Tore und eine Vorlage erzielt, Nürnberg ist nach elf Spieltagen Zweiter.",
+      "one_sentence_summary": "Nürnbergs Piet Scobel hält sein Team für gut genug, das Niveau zu halten und oben mitzuspielen.",
+      "schluessel": "piet scobel|sonstiges"
+    },
+    "published_at": "2026-11-19T21:04:55.892630",
+    "source": "StPauli24"
+  },
+  {
+    "id": "4bb196ed24",
+    "generated_title": "Hannover 96 trennt sich von Kaderplaner Paul Wagner",
+    "original_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mNjVCaUx2S1FlVWVVa0dyNG53NTBwdU5IRThCTFlxR2ZzZ1FYT1dnSWVVeG1iMDFwQzZIaG5qQVhzdVlPbUR4ZUFvMlRWV09rLWdSVFNPZGhrY0ZIUkZmMU5SZ0diSVdsZVk2TW1lbk5pRkxJemlWMWZR?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Hannover",
+      "event_stage": "sonstiges",
+      "main_teams": [
+        "Hannover"
+      ],
+      "main_players": [
+        "Paul Wagner",
+        "Gabor Ruhr"
+      ],
+      "summary": "Hannover 96 und Kaderplaner Paul Wagner trennen sich im Einvernehmen, die Stelle wird nicht nachbesetzt. Die Aufgaben übernimmt der neue Sportdirektor Gabor Ruhr.",
+      "one_sentence_summary": "Hannover 96 und Kaderplaner Paul Wagner trennen sich im Einvernehmen, die Stelle wird nicht nachbesetzt.",
+      "schluessel": "paul wagner|sonstiges"
+    },
+    "published_at": "2026-11-19T21:04:55.930945",
+    "source": "90PLUS"
   }
 ]
