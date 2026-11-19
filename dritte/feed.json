@@ -1,5 +1,35 @@
 [
   {
+    "id": "5b8cd0430e",
+    "titel": "Düsseldorf schlägt Duisburg im Niederrheinpokal mit 3:0",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "19.11.2026 18:01",
+    "wappen_url": "logos/duesseldorf.png",
+    "vereine": [
+      "Duisburg",
+      "Düsseldorf"
+    ],
+    "anriss": "Fortuna Düsseldorf hat das Viertelfinale im Niederrheinpokal gegen den Drittliga-Konkurrenten MSV Duisburg mit 3:0 (1:0) gewonnen. Eric Hottmann (60.), Filimon Gerezgiher (81.) und Hamza Anhari (88.) erzielten die Tore gegen den Titelverteidiger, der nach einer Roten Karte gegen Kapitän Rasim Bulic (72.) in Unterzahl endete.",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Düsseldorf",
+    "pfad": "artikel/duesseldorf-schlaegt-duisburg-im-niederrheinpokal-mit-3-0-5b8cd0430e.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    },
+    "n11": false
+  },
+  {
     "id": "f8aabd22db",
     "titel": "Verl vor Essen: Schwächste Abwehr trifft auf beste Defensive",
     "kategorie": "analyse",
