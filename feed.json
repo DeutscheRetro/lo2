@@ -1,5 +1,107 @@
 [
   {
+    "id": "c3f01185bf",
+    "titel": "Hertha BSC: Opta-Daten belegen die Tabellenführung der Berliner",
+    "kategorie": "analyse",
+    "badge": "Analyse",
+    "badge_bg": "#6a1fbf",
+    "badge_fg": "#fff",
+    "datum": "19.11.2026 09:06",
+    "wappen_url": "logos/hertha.png",
+    "vereine": [
+      "Hertha"
+    ],
+    "anriss": "Tabellenführer Hertha BSC hat aus den ersten elf Spielen der 2. Bundesliga 31 Punkte geholt. Eine Datenanalyse von rbb24 auf Basis von Opta-Zahlen zeigt, dass die Berliner diese Bilanz mit deutlichen Verbesserungen gegenüber der Vorsaison untermauern. Der Bilanz von zehn Siegen und einem Unentschieden entspricht",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Hertha",
+    "pfad": "artikel/hertha-bsc-opta-daten-belegen-die-tabellenfuehrung-der-berliner-c3f01185bf.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "39522e643f",
+    "titel": "KSC, Braunschweig und Dresden umwerben Bayern-Talent Tim Binder",
+    "kategorie": "transfer",
+    "badge": "Transfer",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "19.11.2026 09:05",
+    "wappen_url": "logos/karlsruhe.png",
+    "vereine": [
+      "Braunschweig",
+      "Dresden",
+      "Karlsruhe"
+    ],
+    "anriss": "Der Karlsruher SC soll sich für Tim Binder vom FC Bayern interessieren. Das berichtet NTV Sport unter Berufung auf Sky Sport. Der 19-jährige Offensivspieler hat demnach auch Eintracht Braunschweig und Dynamo Dresden auf sich aufmerksam gemacht. Eine Entscheidung über einen möglichen Wechsel ist laut NTV",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Karlsruhe",
+    "pfad": "artikel/ksc-braunschweig-und-dresden-umwerben-bayern-talent-tim-binder-39522e643f.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "deal",
+      "frage": "Wäre Tim Binder ein guter Deal für den KSC?",
+      "antworten": [
+        "👍 Guter Deal",
+        "👎 Fehler"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "b1d21f5f2a",
+    "titel": "Dynamo Dresden: Wer ersetzt den verletzten Raschl in Kaiserslautern?",
+    "kategorie": "aufstellung",
+    "badge": "Aufstellung",
+    "badge_bg": "#2e7d32",
+    "badge_fg": "#fff",
+    "datum": "19.11.2026 09:04",
+    "wappen_url": "logos/dresden.png",
+    "vereine": [
+      "Dresden",
+      "Kaiserslautern"
+    ],
+    "anriss": "Dynamo Dresden muss vor dem Spiel beim 1. FC Kaiserslautern auf Tobias Raschl verzichten. Der 26-Jährige war zuletzt ein wichtiger Akteur vor der Abwehr und fällt länger aus. Trainer Thomas Stamm hatte gerade erst seine Wunschformation gefunden. Als Ersatz auf der Sechs kommen mehrere Spieler",
+    "spielerstatus": [
+      {
+        "spieler": "Raschl",
+        "klub": "Dresden",
+        "status": "faellt_aus",
+        "grund": "fällt länger aus"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Dresden",
+    "pfad": "artikel/dynamo-dresden-wer-ersetzt-den-verletzten-raschl-in-kaiserslautern-b1d21f5f2a.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "2a54c93071",
+    "titel": "Bochum vor St. Pauli: Drei Rückkehrer nach langer Pause",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "19.11.2026 09:04",
+    "wappen_url": "logos/bochum.png",
+    "vereine": [
+      "Bochum",
+      "St. Pauli"
+    ],
+    "anriss": "Der VfL Bochum gastet am 12. Spieltag im Samstagabendspiel beim FC St. Pauli. Vor der Partie meldeten sich mit Cokaj, Mbom und Olsen drei zuletzt länger verletzte Profile zurück. Das Trio gab beim Testspiel in der Pause sein Comeback. Cokaj gilt dabei als am weitesten",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Bochum",
+    "pfad": "artikel/bochum-vor-st-pauli-drei-rueckkehrer-nach-langer-pause-2a54c93071.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
     "id": "b2de7a13cd",
     "titel": "Magdeburg gastiert am Freitagabend bei Arminia Bielefeld",
     "kategorie": "news",

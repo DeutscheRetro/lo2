@@ -3380,5 +3380,93 @@
     },
     "published_at": "2026-11-19T06:02:03.687002",
     "source": "News.de"
+  },
+  {
+    "id": "b1d21f5f2a",
+    "generated_title": "Dynamo Dresden: Wer ersetzt den verletzten Raschl in Kaiserslautern?",
+    "original_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNnczUnRvV2R0Zlo5X0JtaVRlN3ZTQkhOQ3h3cWZmLXZJV2ROSVNweFh4Yjk4b2NVc0RuZ20tZGk0QjZhU1RtUTR6LWFWZHRqdGZieVdXS2xlRGNoTFJ3SmtkMEJXV0F3cm92T1packJJYlo5NU94YmVYT19vQnlvakxNWXlfZEprQ1EtZU5EaFFZZHRlX2RWN3lSNEp0Zml5dTVZejBBVU5IQlRTaTR1T1dRQUpjWkJEY1VaRw?oc=5",
+    "fingerprint": {
+      "event_type": "aufstellung",
+      "main_club": "Dresden",
+      "event_stage": "ausfall",
+      "main_teams": [
+        "Dresden",
+        "Kaiserslautern"
+      ],
+      "main_players": [
+        "Tobias Raschl",
+        "Thomas Stamm",
+        "Lukas Boeder"
+      ],
+      "summary": "Dynamo Dresden muss in Kaiserslautern länger auf Tobias Raschl verzichten. Trainer Thomas Stamm hat mit Lukas Boeder, Friedrich Müller, Nicolai Rapp, Patrice Covic und Aaron Riedel mehrere Optionen.",
+      "one_sentence_summary": "Dynamo Dresden muss in Kaiserslautern länger auf Tobias Raschl verzichten.",
+      "schluessel": "tobias raschl|verletzung"
+    },
+    "published_at": "2026-11-19T09:07:19.224481",
+    "source": "TAG24"
+  },
+  {
+    "id": "2a54c93071",
+    "generated_title": "Bochum vor St. Pauli: Drei Rückkehrer nach langer Pause",
+    "original_url": "https://www.transfermarkt.de/12-spieltag-fc-st-pauli-vfl-bochum/thread/forum/18/thread_id/95202",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Bochum",
+      "event_stage": "kader",
+      "main_teams": [
+        "Bochum",
+        "St. Pauli"
+      ],
+      "main_players": [],
+      "summary": "Bochum tritt am Samstagabend beim FC St. Pauli an. Die zuletzt länger verletzten Cokaj, Mbom und Olsen gaben im Testspiel ihr Comeback, Cokaj soll in den Kader zurückkehren.",
+      "one_sentence_summary": "Bochum tritt am Samstagabend beim FC St.",
+      "schluessel": "bochum|kader"
+    },
+    "published_at": "2026-11-19T09:07:19.263059",
+    "source": "Transfermarkt"
+  },
+  {
+    "id": "39522e643f",
+    "generated_title": "KSC, Braunschweig und Dresden umwerben Bayern-Talent Tim Binder",
+    "original_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRDMwdkd2WmRkcGNsVnVLaWh3SzB5aGJnZDVaZVdSNi00Nk5JWVZoV01wZTFuNTlVZ3pSTmNQQkF0REZ4VTlZSDdMV2g1OUNIMGI1MTJkTDg0cGRHeHdhZUJNRUhtRzNTUThpRFQzanEyYjlmLUN2SjdmSzRvV1lUcEgzUDBXdU1GVDJpMk16dUw3VElwcS1HMDVPMTBNTDNoS0c2dUdoV2VlcHo5?oc=5",
+    "fingerprint": {
+      "event_type": "transfer",
+      "main_club": "Karlsruhe",
+      "event_stage": "geruecht",
+      "main_teams": [
+        "Braunschweig",
+        "Dresden",
+        "Karlsruhe"
+      ],
+      "main_players": [
+        "Tim Binder"
+      ],
+      "summary": "Der Karlsruher SC soll Interesse an Bayern-Youngster Tim Binder haben, auch Braunschweig und Dresden werden genannt. Eine Entscheidung ist laut NTV Sport noch nicht gefallen.",
+      "one_sentence_summary": "Der Karlsruher SC soll Interesse an Bayern-Youngster Tim Binder haben, auch Braunschweig und Dresden werden genannt.",
+      "schluessel": "tim binder|transfer"
+    },
+    "published_at": "2026-11-19T09:07:19.301597",
+    "source": "ka-news"
+  },
+  {
+    "id": "c3f01185bf",
+    "generated_title": "Hertha BSC: Opta-Daten belegen die Tabellenführung der Berliner",
+    "original_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOW9yM2JtRjhWeG9hUnI4VXBSTHBKREtZcHY1RXNnUXZwNW95RDR4ZFlXX0ZtWFd2d2lBTnRMOGtuc0p2OFpNbjBNZERwSzBFbE1EeGZYbzJ3ZFNSdzVBcndKOFVkdXh3TWpSbklReXhnVk1hZF92ZGpDT2V2ejdmTmJrNk9iOTFHWXZDMm9qWkVMay1pbzl6N1VxLTJIZHpOa2FibjRSc0o3U0ZUSG5oUW9uR3U5akR2S284?oc=5",
+    "fingerprint": {
+      "event_type": "analyse",
+      "main_club": "Hertha",
+      "event_stage": "sonstiges",
+      "main_teams": [
+        "Hertha"
+      ],
+      "main_players": [
+        "Stefan Leitl"
+      ],
+      "summary": "Hertha BSC führt die 2. Bundesliga nach elf Spielen mit 31 Punkten an. Opta-Daten zeigen deutliche Steigerungen bei Intensität und Defensive gegenüber der Vorsaison.",
+      "one_sentence_summary": "Hertha BSC führt die 2.",
+      "schluessel": "stefan leitl|sonstiges"
+    },
+    "published_at": "2026-11-19T09:07:19.341742",
+    "source": "rbb24.de"
   }
 ]
