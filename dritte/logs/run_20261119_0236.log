@@ -1,0 +1,119 @@
+2026-11-19 02:36:31,009 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 1 passende Treffer
+2026-11-19 02:36:31,009 INFO S7 Ersatzquelle liefert Text (120 Wörter, 1 Quellen): Kimmich nach Rückkehr: Hier am absolut richtigen Ort
+2026-11-19 02:36:31,010 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 0 passende Treffer
+2026-11-19 02:36:31,010 INFO FinalCheck SKIP: borussia mönchengladbach/{'max muster'} stage=geruecht bereits in Archiv
+2026-11-19 02:36:31,010 INFO FinalCheck SKIP: borussia mönchengladbach/set() stage=geruecht bereits in Archiv
+2026-11-19 02:36:38,914 INFO 💶 Budget: dieser Lauf 0.000 $ | heute 0.00 $ | Monat 0.00 / 0 $
+2026-11-19 02:36:38,917 INFO URL-Cache geladen: 3489 bekannte URLs (letzte 30 Tage)
+2026-11-19 02:36:38,917 INFO === LO Generator startet – max. 50 Artikel ===
+2026-11-19 02:36:38,917 INFO Feed: https://newsfeed.kicker.de/news/3-liga
+2026-11-19 02:36:39,236 INFO Feed: https://www.sport.de/rss/news/
+2026-11-19 02:36:39,755 INFO Feed: https://www.11freunde.de/feed
+2026-11-19 02:36:41,273 INFO Feed: https://news.google.com/rss/search?q=%223.+Liga%22&hl=de&gl=DE&ceid=DE:de
+2026-11-19 02:36:41,747 WARNING Spielerliste nicht verfügbar: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-19 02:36:41,747 INFO BL-Spielerliste geladen: 0 Namen
+2026-11-19 02:36:41,747 INFO S3 keyword miss: Abenteuer 3. Liga: Der FC Memmingen und welche Herausforderu
+2026-11-19 02:36:41,749 INFO S3 keyword miss: (k+) Schwabl und Haeder im Reform-Duell: Kompass oder 22/5?
+2026-11-19 02:36:41,750 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Verletzung+Ausfall+gesperrt&hl=de&gl=DE&ceid=DE:de
+2026-11-19 02:36:42,030 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Transfer+Wechsel+verpflichtet&hl=de&gl=DE&ceid=DE:de
+2026-11-19 02:36:42,297 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Ger%C3%BCcht+Interesse+Angebot&hl=de&gl=DE&ceid=DE:de
+2026-11-19 02:36:42,566 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Vertrag+verl%C3%A4ngert+abl%C3%B6sefrei&hl=de&gl=DE&ceid=DE:de
+2026-11-19 02:36:42,816 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Trainer+Entlassung&hl=de&gl=DE&ceid=DE:de
+2026-11-19 02:36:43,116 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Saarbr%C3%BCcken%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-19 02:36:43,417 INFO Feed: https://news.google.com/rss/search?q=%22Alemannia+Aachen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-19 02:36:43,670 INFO Feed: https://news.google.com/rss/search?q=%22FC+Ingolstadt%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-19 02:36:43,906 INFO S3 keyword miss: Schalke-Comeback statt Premier League? Ex-S04-Talent lässt a
+2026-11-19 02:36:43,906 INFO Feed: https://news.google.com/rss/search?q=%22Fortuna+D%C3%BCsseldorf%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-19 02:36:44,227 INFO S2 Liveticker übersprungen: Der Liveticker zu Fortuna Düsseldorf - MSV Duisburg zum Nach
+2026-11-19 02:36:44,228 INFO Feed: https://news.google.com/rss/search?q=%22Fortuna+K%C3%B6ln%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-19 02:36:44,481 INFO Feed: https://news.google.com/rss/search?q=%22Hansa+Rostock%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-19 02:36:44,749 INFO Feed: https://news.google.com/rss/search?q=%22Jahn+Regensburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-19 02:36:45,013 INFO Feed: https://news.google.com/rss/search?q=%22MSV+Duisburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-19 02:36:45,436 INFO Feed: https://news.google.com/rss/search?q=%22Preu%C3%9Fen+M%C3%BCnster%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-19 02:36:45,664 INFO Feed: https://news.google.com/rss/search?q=%22Rot-Weiss+Essen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-19 02:36:45,957 INFO Feed: https://news.google.com/rss/search?q=%22SC+Verl%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-19 02:36:46,192 INFO Feed: https://news.google.com/rss/search?q=%22Sonnenhof+Gro%C3%9Faspach%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-19 02:36:46,407 INFO Feed: https://news.google.com/rss/search?q=%22SV+Meppen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-19 02:36:46,697 INFO Feed: https://news.google.com/rss/search?q=%22Waldhof+Mannheim%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-19 02:36:46,927 INFO Feed: https://news.google.com/rss/search?q=%22Wehen+Wiesbaden%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-19 02:36:47,186 INFO Feed: https://news.google.com/rss/search?q=%22Hoffenheim+II%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-19 02:36:47,444 INFO S2 blacklist: 10. Spieltag: Eintracht Frankfurt - TSG 1899 Hoffenheim - Ei
+2026-11-19 02:36:47,445 INFO Feed: https://news.google.com/rss/search?q=%22TSV+Havelse%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-19 02:36:47,644 INFO Feed: https://news.google.com/rss/search?q=%22VfB+Stuttgart+II%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-19 02:36:47,869 INFO Feed: https://news.google.com/rss/search?q=%22Viktoria+K%C3%B6ln%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-19 02:36:48,130 INFO S3 keyword miss: Comeback in München: Ache wieder fit – doch Wagner bremst di
+2026-11-19 02:36:48,131 INFO Feed: https://news.google.com/rss/search?q=%22W%C3%BCrzburger+Kickers%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-19 02:36:48,388 INFO Feed: https://newsfeed.kicker.de/team/1-fc-saarbruecken
+2026-11-19 02:36:48,598 INFO Feed: https://newsfeed.kicker.de/team/alemannia-aachen
+2026-11-19 02:36:48,920 INFO Feed: https://newsfeed.kicker.de/team/fc-ingolstadt-04
+2026-11-19 02:36:49,140 INFO Feed: https://newsfeed.kicker.de/team/fortuna-duesseldorf
+2026-11-19 02:36:49,338 INFO Feed: https://newsfeed.kicker.de/team/hansa-rostock
+2026-11-19 02:36:49,527 INFO Feed: https://newsfeed.kicker.de/team/jahn-regensburg
+2026-11-19 02:36:49,726 INFO Feed: https://newsfeed.kicker.de/team/msv-duisburg
+2026-11-19 02:36:49,923 INFO Feed: https://newsfeed.kicker.de/team/preussen-muenster
+2026-11-19 02:36:50,288 INFO Feed: https://newsfeed.kicker.de/team/rot-weiss-essen
+2026-11-19 02:36:50,478 INFO Feed: https://newsfeed.kicker.de/team/sc-verl
+2026-11-19 02:36:50,874 INFO Feed: https://newsfeed.kicker.de/team/waldhof-mannheim
+2026-11-19 02:36:51,072 INFO Feed: https://newsfeed.kicker.de/team/sv-wehen-wiesbaden
+2026-11-19 02:36:51,268 INFO Feed: https://newsfeed.kicker.de/team/tsg-hoffenheim-ii
+2026-11-19 02:36:51,677 INFO Feed: https://newsfeed.kicker.de/team/tsv-havelse
+2026-11-19 02:36:51,869 INFO Feed: https://newsfeed.kicker.de/team/vfb-stuttgart-ii
+2026-11-19 02:36:52,086 INFO Feed: https://newsfeed.kicker.de/team/fc-viktoria-koeln
+2026-11-19 02:36:52,438 INFO Eingelesen: 16 Schlagzeilen nach den Gratis-Filtern
+2026-11-19 02:36:52,449 INFO S5 Sammelartikel: Hansa Rostock: Alle News zum Drittligisten aus MV (18.11.2026)
+2026-11-19 02:36:52,450 INFO S5: 14 neue Geschichten, 0 schon berichtet, 0 zu wartenden Geschichten ergänzt, 55 warten
+2026-11-19 02:36:54,444 WARNING S6 Redaktionskonferenz fehlgeschlagen: CLI-Fehler: You've hit your weekly limit · resets 9am (Europe/Berlin)
+2026-11-19 02:36:54,829 INFO S7 Ersatzquellen für "(k+) Besser jetzt als zu spät: Weshalb Schieber Gr": 1 passende Treffer
+2026-11-19 02:36:55,340 ERROR lxml parsing failed: Document is empty
+2026-11-19 02:36:55,340 ERROR lxml parser bytestring Document is empty
+2026-11-19 02:36:55,341 ERROR lxml parsing failed: Document is empty
+2026-11-19 02:36:55,341 ERROR lxml parser bytestring Document is empty
+2026-11-19 02:36:55,341 ERROR empty HTML tree: None
+2026-11-19 02:36:55,341 WARNING discarding data: None
+2026-11-19 02:36:55,342 INFO S7 kein Volltext (trafilatura_returned_empty): (k+) Besser jetzt als zu spät: Weshalb Schieber Großaspach v
+2026-11-19 02:36:55,342 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): (k+) Besser jetzt als zu spät: Weshalb Schieber Großaspach v
+2026-11-19 02:36:55,852 INFO S7 kein Volltext (too_short_75_words): Mittelrheinpokal: Emotionales Najar-Comeback bei Fortunas 5:
+2026-11-19 02:36:56,048 INFO S7 Ersatzquellen für "Mittelrheinpokal: Emotionales Najar-Comeback bei F": 0 passende Treffer
+2026-11-19 02:36:56,048 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Mittelrheinpokal: Emotionales Najar-Comeback bei Fortunas 5:
+2026-11-19 02:36:56,319 INFO S7 kein Volltext (too_short_75_words): Rot-Weiss Essen: Personeller Engpass bleibt, seit 2013 kein 
+2026-11-19 02:36:56,544 INFO S7 Ersatzquellen für "Rot-Weiss Essen: Personeller Engpass bleibt, seit ": 0 passende Treffer
+2026-11-19 02:36:56,544 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Rot-Weiss Essen: Personeller Engpass bleibt, seit 2013 kein 
+2026-11-19 02:36:56,794 INFO Google-News-Link nicht auflösbar: HTTP 429, keine Signatur
+2026-11-19 02:36:57,055 INFO S7 Ersatzquellen für "MSV Duisburg gegen Hansa Rostock: Parallelen zur V": 0 passende Treffer
+2026-11-19 02:36:57,055 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): MSV Duisburg gegen Hansa Rostock: Parallelen zur Vorsaison u
+2026-11-19 02:36:57,474 INFO S7 Ersatzquellen für "(k+) Meppens Trainer Beniermann: "Der Kopf eines S": 0 passende Treffer
+2026-11-19 02:36:57,475 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): (k+) Meppens Trainer Beniermann: "Der Kopf eines Spielers is
+2026-11-19 02:36:58,027 INFO Google-News-Link nicht auflösbar: HTTP 429, keine Signatur
+2026-11-19 02:36:58,264 INFO S7 Ersatzquellen für "SC Fortuna Köln - SV Meppen: Fortuna Köln hat Punk": 0 passende Treffer
+2026-11-19 02:36:58,264 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): SC Fortuna Köln - SV Meppen: Fortuna Köln hat Punkte dringen
+2026-11-19 02:37:00,866 WARNING S6.5 Vorprüfung nicht möglich: CLI-Fehler: You've hit your weekly limit · resets 9am (Europe/Berlin)
+2026-11-19 02:37:00,866 INFO S7 schreiben (Prio 2, 1 Quellen): TSG 1899 Hoffenheim II - SC Preußen Münster: Gelingt Münster
+2026-11-19 02:37:02,171 WARNING S7 Schreibfehler: CLI-Fehler: You've hit your weekly limit · resets 9am (Europe/Berlin)
+2026-11-19 02:37:02,642 INFO S7 Ersatzquellen für "Dank Eiseles Doppelpack: Großaspach dreht 0:2 gege": 0 passende Treffer
+2026-11-19 02:37:02,642 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Dank Eiseles Doppelpack: Großaspach dreht 0:2 gegen Münster
+2026-11-19 02:37:02,854 INFO S7 kein Volltext (too_short_75_words): "Anfangs war es eine Katastrophe!" - RWE-Profi spricht über 
+2026-11-19 02:37:03,062 INFO S7 Ersatzquellen für ""Anfangs war es eine Katastrophe!" - RWE-Profi spr": 0 passende Treffer
+2026-11-19 02:37:03,062 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): "Anfangs war es eine Katastrophe!" - RWE-Profi spricht über 
+2026-11-19 02:37:03,235 INFO S7 kein Volltext (too_short_75_words): Alemannia Aachen: Erst 263 Minuten - Bochum-Leihgabe spricht
+2026-11-19 02:37:03,421 INFO S7 Ersatzquellen für "Alemannia Aachen: Erst 263 Minuten - Bochum-Leihga": 0 passende Treffer
+2026-11-19 02:37:03,421 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Alemannia Aachen: Erst 263 Minuten - Bochum-Leihgabe spricht
+2026-11-19 02:37:05,300 INFO S7 schreiben (Prio 2, 1 Quellen): SG 99 Andernach gibt späte Führung noch aus der Hand und unt
+2026-11-19 02:37:06,609 WARNING S7 Schreibfehler: CLI-Fehler: You've hit your weekly limit · resets 9am (Europe/Berlin)
+2026-11-19 02:37:07,783 INFO S7 schreiben (Prio 2, 1 Quellen): Niederrheinpokal: Fortuna gegen MSV - Straßenbahnderby 2.0 h
+2026-11-19 02:37:08,966 WARNING S7 Schreibfehler: CLI-Fehler: You've hit your weekly limit · resets 9am (Europe/Berlin)
+2026-11-19 02:37:11,298 WARNING S6.5 Vorprüfung nicht möglich: CLI-Fehler: You've hit your weekly limit · resets 9am (Europe/Berlin)
+2026-11-19 02:37:11,298 INFO S7 schreiben (Prio 2, 1 Quellen): Achtelfinale im Mittelrheinpokal: Alemannia trifft auf Henne
+2026-11-19 02:37:12,521 WARNING S7 Schreibfehler: CLI-Fehler: You've hit your weekly limit · resets 9am (Europe/Berlin)
+2026-11-19 02:37:13,577 INFO S7 kein Volltext (too_short_38_words): Denkt der SV Meppen über eine Leihe von Ex-Spieler Mika Stuh
+2026-11-19 02:37:13,776 INFO S7 Ersatzquellen für "Denkt der SV Meppen über eine Leihe von Ex-Spieler": 0 passende Treffer
+2026-11-19 02:37:13,776 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Denkt der SV Meppen über eine Leihe von Ex-Spieler Mika Stuh
+2026-11-19 02:37:16,137 WARNING S6.5 Vorprüfung nicht möglich: CLI-Fehler: You've hit your weekly limit · resets 9am (Europe/Berlin)
+2026-11-19 02:37:16,137 INFO S7 schreiben (Prio 2, 1 Quellen): Fortuna Düsseldorf: Schwur von Jens Langeneke vorm Duisburg-
+2026-11-19 02:37:17,381 WARNING S7 Schreibfehler: CLI-Fehler: You've hit your weekly limit · resets 9am (Europe/Berlin)
+2026-11-19 02:37:17,384 INFO S9.5 FinalCheck: 0/0 durch
+2026-11-19 02:37:17,386 WARNING Sitemap ohne Spielerseiten: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-19 02:37:17,388 INFO 💶 Kosten: dieser Lauf 0.000 $ (Budget 0.000 $) | heute 0.00 $ | Monat 0.00 / 0 $ | 
+2026-11-19 02:37:17,392 INFO Feeds: 45/45 begonnen, nächster Lauf startet bei Nr. 0
+2026-11-19 02:37:17,392 INFO URL-Cache gespeichert: 3512 URLs
+2026-11-19 02:37:17,392 INFO === Fertig. 0 neue Artikel. feed.json: 57 ===
+2026-11-19 02:37:17,392 INFO Stats: {"ts": "20261119_0236", "ingested": 23, "s2_pre_filter": 1, "s3_relevance": 4, "s4_dedup_early": 0, "gesammelt": 16, "geschichten_neu": 14, "s5_archiv_doppelt": 0, "s5_zusammengefuehrt": 0, "s6_aussortiert": 0, "s7_geschrieben": 0, "s7_verworfen": 0, "s5_fulltext_fail": 10, "s8_qa_rejected": 0, "published": 0, "s5_randthema": 1, "kosten": {"lauf_usd": 0.0, "lauf_budget_usd": 0.0, "heute_usd": 0.0, "monat_usd": 0.0, "monatsbudget_usd": 0.0, "aufrufe": {}, "guthaben_leer": false, "abo": true, "abo_tokens": {}}}
