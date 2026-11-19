@@ -345,7 +345,7 @@
   "status": "n",
   "erstmals": "2026-11-18T21:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "7b97956bfb",
@@ -374,7 +374,8 @@
   "prio": 3,
   "status": "n",
   "erstmals": "2026-11-18T21:01",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "53002b25fb",
@@ -404,36 +405,8 @@
   "prio": 3,
   "status": "n",
   "erstmals": "2026-11-18T21:01",
-  "archiv": []
- },
- {
-  "id": "fda2f75b57",
-  "schluessel": "bielefeld|kader",
-  "person": "",
-  "spieler": [],
-  "klub": "Bielefeld",
-  "klubs": [
-   "Bielefeld",
-   "Magdeburg"
-  ],
-  "stufe": "kader",
-  "klasse": "kader",
-  "titel": "Aufstellung | Arminia Bielefeld - 1. FC Magdeburg : | 12. Spieltag | 2. Bundesliga 2026/27",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQkdHeEt1VmtoTEVMTTIweTRIWm4takRlYkh0VGlyV3pwLV9HS29XMFJGcDJDMDA5RzlhdUxqSDJpOWdmdjVESV9PV09WNGtNQ2VteDFOQnJfdXB2LWk1ZVJfMExGSUxFdWF2Yi1ZN3hMMnR1RVlCOVRvalJMRkpPWjhtemEyc2hzRjBv?oc=5",
-    "aid": "e695086e70",
-    "titel": "Aufstellung | Arminia Bielefeld - 1. FC Magdeburg : | 12. Spieltag | 2. Bundesliga 2026/27",
-    "quelle": "Kicker",
-    "beschr": " Aufstellung | Arminia Bielefeld - 1. FC Magdeburg : | 12. Spieltag | 2. Bundesliga 2026/27 &nbsp;&nbsp; Kicker ",
-    "zeit": "2026-11-18T18:20"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-18T21:01",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "6e77b8e144",
@@ -827,6 +800,277 @@
   "prio": 3,
   "status": "n",
   "erstmals": "2026-11-18T21:01",
+  "archiv": []
+ },
+ {
+  "id": "632ec8cdd6",
+  "schluessel": "magdeburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Magdeburg",
+  "klubs": [
+   "Magdeburg",
+   "Bielefeld"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "2. Bundesliga: Frust und Freude beim 1. FC Magdeburg vor Gastspiel in Bielefeld",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWXQ0NlFDdFNwUVBYR2huVjVCbVJvX25ONTMwSnhaQ2E1WFUwRHR2LVY3dXg2Ukt5ZlE0SjBPWDZ5MVNXdkhqTUFyWVdvT1M1bU9sLXh1c09YaE55d0ctUWpkanBCTVBDME5wWE1rLTZIWGlvaHA0aDVlbDQ2MklpblM3NE5uZUFVSXBzYlNSa1hqcGdUcy1JNVZPLTNLTXkzaHdvUGFuN2x6cUt5UmM1cHR3NENkc2dl?oc=5",
+    "aid": "a9ab478b36",
+    "titel": "2. Bundesliga: Frust und Freude beim 1. FC Magdeburg vor Gastspiel in Bielefeld",
+    "quelle": "MDR.de",
+    "beschr": " 2. Bundesliga: Frust und Freude beim 1. FC Magdeburg vor Gastspiel in Bielefeld &nbsp;&nbsp; MDR.de ",
+    "zeit": "2026-11-18T22:23"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-19T06:01",
+  "archiv": []
+ },
+ {
+  "id": "f141917873",
+  "schluessel": "magdeburg|kader",
+  "person": "",
+  "spieler": [],
+  "klub": "Magdeburg",
+  "klubs": [
+   "Magdeburg"
+  ],
+  "stufe": "kader",
+  "klasse": "kader",
+  "titel": "Endlose Fragezeichen für Sander: So ist die Personallage beim FCM",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZnJUTlVPRDE4Vm04emMxMS05TlluQjJTUFFJOGxyWHAwN0JwV2VnYlB3M1g0dGRQNmdQT18zVFdEck5sMTgwNWJGczdQcW9mLU4tcjJBeHk2V3FkVXVVRDZ2M1hTc2VRRW5OOGJPTnh4UE5rZWZKYmllNjNPQnZ4M3RHX1NyXzZrbElyanhoTkxJWGw1ZHhhVnlVbi1qcTNMYzlqN0E1N0I?oc=5",
+    "aid": "832f9f4bfe",
+    "titel": "Endlose Fragezeichen für Sander: So ist die Personallage beim FCM",
+    "quelle": "Magdeburg Blau-Weiß",
+    "beschr": " Endlose Fragezeichen für Sander: So ist die Personallage beim FCM &nbsp;&nbsp; Magdeburg Blau-Weiß ",
+    "zeit": "2026-11-18T15:26"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-19T06:01",
+  "archiv": []
+ },
+ {
+  "id": "f822f87c2e",
+  "schluessel": "kiel|kader",
+  "person": "",
+  "spieler": [],
+  "klub": "Kiel",
+  "klubs": [
+   "Kiel"
+  ],
+  "stufe": "kader",
+  "klasse": "kader",
+  "titel": "Mark Richter Monserrat und Till Wiese rücken in den Profikader auf",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOWh0c0luUWVtQWVCRnRDcXFTV3JYX0JfMng5YXEzZUpNWFVjVW4wZU1SU3lPLUVPOE0zWk5qVGZJS2Q0bFF1dmVPTmhWMlViNzhvc2Z6b1NiYVQ5TlpsUXB5U25iaGFVNlgxM3BqV0tIMUJPQ0MxZHg5Y3JILUJwSFlsd2R6Sy1jOEZqN3p6eEd1S0NGUFJFcnMwejBtWER4RFd4blJKemRUSzROWXc?oc=5",
+    "aid": "6a15d73da7",
+    "titel": "Mark Richter Monserrat und Till Wiese rücken in den Profikader auf",
+    "quelle": "holstein-kiel.de",
+    "beschr": " Mark Richter Monserrat und Till Wiese rücken in den Profikader auf &nbsp;&nbsp; holstein-kiel.de ",
+    "zeit": "2026-11-18T16:58"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-19T06:01",
+  "archiv": []
+ },
+ {
+  "id": "140b34dc70",
+  "schluessel": "karlsruhe|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Karlsruhe",
+  "klubs": [
+   "Karlsruhe"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Die schlechteste Defensive der Liga: Ein Rezept aus der Krise hat der KSC noch nicht gefunden",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWNMZEQ3Ym5TdnVSN2hlSFVFTTgyNUVuY0s2R01xaHY2MjcxcUdZT3F2amtaQlZDOVAxeFZneTVqT0xYZUxRTzJfWHJhY3Y2XzdiY0xTVWNiZWhPRzhkbXhnc3JSQlRQRHN4eDNnYTJKSjdleTBVM0VUVTlwbmJ2cW1kaUN5WnBsOFRjZDhNWW9UdjJZR0F5a1Q2Tjd2MUt3Y0NZbmpZTWg?oc=5",
+    "aid": "70fc10c5f4",
+    "titel": "Die schlechteste Defensive der Liga: Ein Rezept aus der Krise hat der KSC noch nicht gefunden",
+    "quelle": "ka-news",
+    "beschr": " Die schlechteste Defensive der Liga: Ein Rezept aus der Krise hat der KSC noch nicht gefunden &nbsp;&nbsp; ka-news ",
+    "zeit": "2026-11-19T05:08"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "u",
+  "erstmals": "2026-11-19T06:01",
+  "archiv": [
+   {
+    "id": "93907cfaea",
+    "titel": "KSC steckt mit der schwächsten Defensive der Liga in der Krise",
+    "datum": "13.11.",
+    "stufe": "sonstiges",
+    "summary": "Der KSC steht nach elf Spieltagen mit elf Punkten auf Relegationsrang 16 und stellt die schlechteste Defensive der Liga. Trainer Maximilian Senft hat System und Spielstil angepasst, Erfolg brachte das bisher nicht."
+   }
+  ]
+ },
+ {
+  "id": "0256381cfd",
+  "schluessel": "frankfurt|kader",
+  "person": "",
+  "spieler": [],
+  "klub": "Frankfurt",
+  "klubs": [
+   "Frankfurt"
+  ],
+  "stufe": "kader",
+  "klasse": "kader",
+  "titel": "Fix: Frankfurt-Sportchef startet schon am 1. Dezember",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRTlKSndHNWp1cF9CME02X285b1ZTdExLODlQWlpoYzZuMXJRNkJIT3MwSjdlUFJqZWJINHc0TTh1M0owdWFPckhJQzIwcEJZYmNMMFV5azNqTGEyZ2JKaFF1NGdBdm9GUUR3VEo4WDR3RWdySGo3Y3lMSjdzY0w1MUgzeEpmaHRVendNaGd2QnVCaTBkUzBFZUltLW5kRVFhRGhKYw?oc=5",
+    "aid": "ea64947bdd",
+    "titel": "Fix: Frankfurt-Sportchef startet schon am 1. Dezember",
+    "quelle": "noz.de",
+    "beschr": " Fix: Frankfurt-Sportchef startet schon am 1. Dezember &nbsp;&nbsp; noz.de ",
+    "zeit": "2026-11-18T13:35"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-19T06:01",
+  "archiv": []
+ },
+ {
+  "id": "ec03e7ddce",
+  "schluessel": "dresden|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Dresden",
+  "klubs": [
+   "Dresden",
+   "Kaiserslautern"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Dynamo Dresden muss umstellen: Wer ersetzt Raschl in Kaiserslautern?",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSlc2R1JHVWVROFFwelZ1dC1QNVNTcU1LajZ0VDAwYWZYdHVKM0FvNU9aLWVqM1B2NWJTbWQ5MGE3enFMS3FrT0FtTmVUbmFhcDRXODE4d1RFWTdTS1NmRU02RXJld25GTnp5cHo2VGF2WnhZelFQR3JuZmpMMEpJSU8zZ3Nld3lwNmhkNmVkRVNRZVloY1B1TmxrTHNhR1Q2RDVCQTlIaVlLSnpCc2lTdGdUempmc0ZPMFo4TFBRdDJWZ1NnREZGbk56SGNuU0My?oc=5",
+    "aid": "1da84acd23",
+    "titel": "Dynamo Dresden muss umstellen: Wer ersetzt Raschl in Kaiserslautern?",
+    "quelle": "TAG24",
+    "beschr": " Dynamo Dresden muss umstellen: Wer ersetzt Raschl in Kaiserslautern? &nbsp;&nbsp; TAG24 ",
+    "zeit": "2026-11-19T05:36"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-19T06:01",
+  "archiv": []
+ },
+ {
+  "id": "2b4685e258",
+  "schluessel": "dresden|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Dresden",
+  "klubs": [
+   "Dresden",
+   "Bayern"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Leihe nach Dresden? So ist der Stand beim Bayern-Talent Tim Binder - Bericht",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc2syR1RnRE5feURab0FnekJ6cTdGQlhfODZmQm1uQW16VTNkYWJUVWptMkRfbXB6eVdWUmhKa1FDYk9fOHlVWDNPX0dIOVBacGt2bGJWQnd5S0tIOXN2emFyaWxtOERCR21DbGlRWHRrME1qaUJwRWZvX1ZYOEJIVkR4bXp6RG9zWmZqVTBqSzZDYmVYMlIwYk84ZDVYd003ME5aSEk4RWotSm9yOXZsZ1B30gG3AUFVX3lxTE5xOGRDXzhZNnJhOUgtSVNIb1hQU0JlQUZfcE9wdjl2NmVWc0tMaURjcVRCR3hxZ0dpS3BJN2RFYkxGLW9VVG5XNTRDbzVvUFl1MHhUMlFQcUpUTVpWdGNERzJKOXFCTTN0SlVqWTZLTEZ5Q1dVd2pwUEJNblJ6OXY3em5neFJNa3dIXy1NcTdoaDdsWGFNUUFYZFhJaWNFbnFEZnpwc3RfbF82aXBESmxrblN5Q3FtNA?oc=5",
+    "aid": "7d063ac42e",
+    "titel": "Leihe nach Dresden? So ist der Stand beim Bayern-Talent Tim Binder - Bericht",
+    "quelle": "Tribuna.com",
+    "beschr": " Leihe nach Dresden? So ist der Stand beim Bayern-Talent Tim Binder - Bericht &nbsp;&nbsp; Tribuna.com ",
+    "zeit": "2026-11-18T14:35"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-19T06:01",
+  "archiv": []
+ },
+ {
+  "id": "9d707471d8",
+  "schluessel": "hertha|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Hertha BSC: Die beste Geschichte der Saison",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONDFjLXVzZ0lCamRieVBfOHZ2c3VXN2ZSd3VGZDhVSWtjZEhLa1UyVXpDR2prUk00VUtnZk0wZUdjQ3BYQ0FyaUJqb0NVUG9hQnBzZXlERi1FTFNGT0phRm1Ca1RzZk5LZW1jWWRYVnRKUmpzaDRobFlQTmRUaUQ0RmVVd1gyMVFlLVVNUXY2MldVRC1OYWUtZlE0YVo0UmRxT19OS193?oc=5",
+    "aid": "cb0b8c0f32",
+    "titel": "Hertha BSC: Die beste Geschichte der Saison",
+    "quelle": "OneFootball",
+    "beschr": " Hertha BSC: Die beste Geschichte der Saison &nbsp;&nbsp; OneFootball ",
+    "zeit": "2026-11-18T13:34"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "u",
+  "erstmals": "2026-11-19T06:01",
+  "archiv": [
+   {
+    "id": "008a7a4de7",
+    "titel": "Hertha BSC: Wie Stefan Leitl die Berliner an die Spitze führt",
+    "datum": "08.11.",
+    "stufe": "sonstiges",
+    "summary": "Hertha BSC führt die zweite Liga nach dem 2:1 gegen Wolfsburg mit zehn Punkten Vorsprung auf Rang drei an. Trainer Stefan Leitl setzt auf hohes Pressing, einen klaren Plan und eine funktionierende Gruppe."
+   }
+  ]
+ },
+ {
+  "id": "1812d92643",
+  "schluessel": "kiel|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Kiel",
+  "klubs": [
+   "Kiel"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Mitch Kniat: Wie der neue Holstein-Kiel-Trainer beim SV Alemannia Mariadorf groß wurde",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdTNjWHhUMGFjN1VvTS1zVTd4Ql9FOFRITDNqUktPWFE3dWE3MGM1UnIwZ3lIVWdJZHZ6OENxZDE0OWNLVmFkNGRhbm9rajFocFpyaEY1OVQzUHgyRTJwWDJYaFVSbGU2MDlqWmZoRm9JUFJ2Q1NrYXVxd0JGOS1YdDFRQ3BReDZhUWU3VFczdi1xcGNhNGVaNEliWHZwbm9zZ0phQjRLM2NOTHplNFc4ekpDQS0ybHNnOEhPaDlQOVJfc1NldU9oZ1IzQkNHQWtUUGhDaTZiM2FrbnU2cDlTQm5GNV9mekwz0gGEAkFVX3lxTE90cUN1SUJFNk9mRDVlenNNMkg2Z29mUVd3Ti15MHFoU1BONHYxVXdKdU44VXpoaDNuZzM3Rkhlano0SEowVTJScnQyLVROSTk0QndqYWZEb2k5Xzc5REJwUEEtWXc5VU9sVTJ5eXV2RWNkeEFBckV4VUpVUjAyX3pBSndBYWphTHl3d1JZUGROZjdzYi1YLTFucDY4M2FuTEpCQWVoY3lBUEJ6b3BrMmk4em5LdHlTeGVaZjZiVTc3dzhENW9LVVZGN3lzQUZpZUVUTHRqSnRZaG92QkF1N0FmYTFFT3Z3am1oS052WmVJQ1U5WE5RSVNWeDhwUmZDVUFpbUhJ?oc=5",
+    "aid": "9e554951c9",
+    "titel": "Mitch Kniat: Wie der neue Holstein-Kiel-Trainer beim SV Alemannia Mariadorf groß wurde",
+    "quelle": "Kieler Nachrichten",
+    "beschr": " Mitch Kniat: Wie der neue Holstein-Kiel-Trainer beim SV Alemannia Mariadorf groß wurde &nbsp;&nbsp; Kieler Nachrichten ",
+    "zeit": "2026-11-18T15:46"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-19T06:01",
   "archiv": []
  }
 ]

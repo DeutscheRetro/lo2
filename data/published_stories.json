@@ -3360,5 +3360,25 @@
     },
     "published_at": "2026-11-18T21:02:17.128046",
     "source": "News.de"
+  },
+  {
+    "id": "b2de7a13cd",
+    "generated_title": "Magdeburg gastiert am Freitagabend bei Arminia Bielefeld",
+    "original_url": "https://www.news.de/sport/860200522/dsc-arminia-bielefeld-1-fc-magdeburg-im-live-stream-tv-uebertragung-vorbericht-und-tabelle-am-20-11-2026-in-der-2-bundesliga-26-27/1/",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Magdeburg",
+      "event_stage": "sonstiges",
+      "main_teams": [
+        "Bielefeld",
+        "Magdeburg"
+      ],
+      "main_players": [],
+      "summary": "Der 1. FC Magdeburg spielt am Freitag, 20. November, um 18:30 Uhr bei Arminia Bielefeld. Magdeburg steht mit 20 Punkten auf Rang vier, Bielefeld mit 17 Punkten auf Platz sechs.",
+      "one_sentence_summary": "Der 1.",
+      "schluessel": "magdeburg|sonstiges"
+    },
+    "published_at": "2026-11-19T06:02:03.687002",
+    "source": "News.de"
   }
 ]
