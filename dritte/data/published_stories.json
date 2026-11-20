@@ -1464,5 +1464,52 @@
     },
     "published_at": "2026-11-20T02:37:59.941459",
     "source": "BILD"
+  },
+  {
+    "id": "4e38169de9",
+    "generated_title": "Viktoria Köln überrollt Schlusslicht Havelse mit 6:1",
+    "original_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZENGYTJ0SFU1RWtSN1ZoXzItalE4T1JDR0FKWEVGM1UzTGF3U2pnRmIyNHFsUmxUekdtZFVtUUhaNEdHTURsYUlVa01VTUo4NmZTT0JSUjFtOEdUZmZRNnJWaWI3WTJiSncwTUh5cjJhUHdZYzY1T1RxSGpPdnVQVmdBTDRsZUpBSjNUcTVMSldrU054YllCaGpaY0hBSW1ISWZpU290Umc0cVY0VDRaZEN6SQ?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Viktoria Köln",
+      "event_stage": "spielbericht",
+      "main_teams": [
+        "Havelse",
+        "Viktoria Köln"
+      ],
+      "main_players": [
+        "David Otto",
+        "Marian Wilhelm"
+      ],
+      "summary": "Viktoria Köln gewinnt am 14. Spieltag bei Schlusslicht Havelse mit 6:1. Dreierpacker David Otto sichert dem Spitzenreiter den vierten Sieg in Folge.",
+      "one_sentence_summary": "Viktoria Köln gewinnt am 14.",
+      "schluessel": "david otto|spiel"
+    },
+    "published_at": "2026-11-20T22:42:04.357549",
+    "source": "SPORT1"
+  },
+  {
+    "id": "bc7054910e",
+    "generated_title": "FCS vor Wiesbaden: Rizzuto setzt auf „breite Brust“, Brünker gesperrt",
+    "original_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRkVSSnMxQ1QyRTd6WHdvcEtWeDAwRjZXZGdwcnAwMGdob01JUVdWMVlLaTJNRHN2NnI1OFNiWkdsa25xTTVoM2QzSjJISElfWHhVckZ3dlNhNEJNOS1Wb3VWczN2MWhDcEF5eEp4czVXZXpRQU02OWxpTlVKRmpnaTZYTE52NkJueU1YZDUtay1vcG9tVmZ5V01IaDI2aHd0bGcxMVJKYkxrUkJ6MENMRVROVkhpSS1lSTgtSDhrUEY?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Saarbrücken",
+      "event_stage": "kader",
+      "main_teams": [
+        "Saarbrücken",
+        "Wiesbaden"
+      ],
+      "main_players": [
+        "Calogero Rizzuto",
+        "Kai Brünker",
+        "Noel Atom"
+      ],
+      "summary": "Saarbrücken empfängt am Sonntag das formstarke Wehen Wiesbaden und muss auf den gesperrten Kai Brünker verzichten. Calogero Rizzuto steht in der Startelf, Noel Atom trainiert zur Probe mit.",
+      "one_sentence_summary": "Saarbrücken empfängt am Sonntag das formstarke Wehen Wiesbaden und muss auf den gesperrten Kai Brünker verzichten.",
+      "schluessel": "calogero rizzuto|kader"
+    },
+    "published_at": "2026-11-20T22:42:04.417659",
+    "source": "Saarbrücker Zeitung"
   }
 ]

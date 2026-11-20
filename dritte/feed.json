@@ -1,5 +1,112 @@
 [
   {
+    "id": "4e38169de9",
+    "titel": "Viktoria Köln überrollt Schlusslicht Havelse mit 6:1",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "20.11.2026 22:41",
+    "wappen_url": "logos/viktoriakoeln.png",
+    "vereine": [
+      "Havelse",
+      "Viktoria Köln"
+    ],
+    "anriss": "Viktoria Köln hat die Tabellenführung in der 3. Liga behauptet. Beim Schlusslicht TSV Havelse gewann die Mannschaft von Trainer Marian Wilhelm zum Auftakt des 14. Spieltags mit 6:1 (2:0). Dreifacher Torschütze war David Otto. Niklas Castelle (21.) und Otto (27., Foulelfmeter) stellten schon vor der",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Viktoria Köln",
+    "pfad": "artikel/viktoria-koeln-ueberrollt-schlusslicht-havelse-mit-6-1-4e38169de9.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "bc7054910e",
+    "titel": "FCS vor Wiesbaden: Rizzuto setzt auf „breite Brust“, Brünker gesperrt",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "20.11.2026 22:41",
+    "wappen_url": "logos/saarbruecken.png",
+    "vereine": [
+      "Saarbrücken",
+      "Wiesbaden"
+    ],
+    "anriss": "Der 1. FC Saarbrücken empfängt am Sonntag (16.30 Uhr) den SV Wehen Wiesbaden. Trotz der 3:5-Niederlage bei Viktoria Köln gibt sich Außenverteidiger Calogero Rizzuto selbstbewusst. „Warum sollten wir vor Wehen Wiesbaden Angst haben?“, fragt er: „Wir gehen mit breiter Brust ins Spiel und wollen einfach",
+    "spielerstatus": [
+      {
+        "spieler": "Brünker",
+        "klub": "Saarbrücken",
+        "status": "faellt_aus",
+        "grund": "Gelb-Rot in Köln, gesperrt"
+      },
+      {
+        "spieler": "Rizzuto",
+        "klub": "Saarbrücken",
+        "status": "startelf",
+        "grund": "Vertretung für verletzten Fahrner"
+      },
+      {
+        "spieler": "Voet",
+        "klub": "Saarbrücken",
+        "status": "spielt",
+        "grund": "wieder genesen"
+      },
+      {
+        "spieler": "Staff",
+        "klub": "Saarbrücken",
+        "status": "spielt",
+        "grund": "wieder genesen"
+      },
+      {
+        "spieler": "Fahrner",
+        "klub": "Saarbrücken",
+        "status": "faellt_aus",
+        "grund": "schwere Verletzung"
+      },
+      {
+        "spieler": "Kamara",
+        "klub": "Saarbrücken",
+        "status": "faellt_aus",
+        "grund": "verletzt"
+      },
+      {
+        "spieler": "Vasiliadis",
+        "klub": "Saarbrücken",
+        "status": "faellt_aus",
+        "grund": "verletzt"
+      },
+      {
+        "spieler": "Multhaup",
+        "klub": "Saarbrücken",
+        "status": "faellt_aus",
+        "grund": "verletzt"
+      },
+      {
+        "spieler": "Nankishi",
+        "klub": "Saarbrücken",
+        "status": "faellt_aus",
+        "grund": "verletzt"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Saarbrücken",
+    "pfad": "artikel/fcs-vor-wiesbaden-rizzuto-setzt-auf-breite-brust-bruenker-gesperrt-bc7054910e.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
     "id": "f8d08b8cb5",
     "titel": "Hansa Rostock stützt Kompass-Modell und kritisiert Verbandsinteressen",
     "kategorie": "news",

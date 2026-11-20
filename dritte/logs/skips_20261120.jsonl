@@ -192,3 +192,53 @@
 {"ts": "2026-11-20T17:38:50.474523", "id": "2e10c913c7", "title": "Jahn Regensburg vor wichtigem Heimspiel: Gegen Würzburg zählt nur ein Dreier", "stage": "stage6.5", "reason": "schon_berichtet"}
 {"ts": "2026-11-20T17:38:54.432228", "id": "1e48fa604d", "title": "Alemannia Aachen erwartet harte Aufgabe gegen Mannheim", "stage": "stage6.5", "reason": "schon_berichtet"}
 {"ts": "2026-11-20T17:38:58.218930", "id": "35f834fdc5", "title": "Schroers trifft, Wiebe wird vermisst", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-20T22:40:07.273697", "id": "96406747d3", "title": "6:1-Sieg bei Havelse: Viktoria Köln untermauert Drittliga-Tabellenführung", "stage": "stage2", "reason": "batch_title_dup_100pct"}
+{"ts": "2026-11-20T22:40:07.275474", "id": "9ddea11a7b", "title": "TSV Havelse kassiert Klatsche gegen Tabellenführer Viktoria Köln", "stage": "stage2", "reason": "batch_title_dup_95pct"}
+{"ts": "2026-11-20T22:40:07.279112", "id": "b63f93b7de", "title": "Aufstiegsreform", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-20T22:40:07.281904", "id": "57933d9c06", "title": "Kölner Schützenfest in 3. Liga: Otto mit Dreierpack: Viktoria feiert Kantersieg!", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-20T22:40:07.285170", "id": "ac4ba32ed9", "title": "1:6! Spitzenreiter Fortuna Köln zeigt dem TSV Havelse die Grenzen auf", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-20T22:40:07.287248", "id": "bda0f308be", "title": "\"Macht mich fassungslos!\" RWO-Boss Uhlig rechnet mit Verbandsspitze ab", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-20T22:40:07.289223", "id": "2b145bd117", "title": "Rodgau Nieder-Roden hält zwei U-18-Nationalspieler für 3. Handball-Liga", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-20T22:40:07.290327", "id": "8c90e3e243", "title": "VfB Stuttgart II: \"Sie werden uns sehr viel abverlangen\"", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-20T22:40:07.292346", "id": "6660a36ffd", "title": "Erst Reform, dann Aufstieg? BFC Dynamo vor 4 heißen Traditions-Krachern", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-20T22:40:07.294756", "id": "d972ae9899", "title": "Handball – 3. Liga Nord-Ost: SCM-Youngsters wollen auch in der Fremde punkten", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-20T22:40:07.295153", "id": "911d782768", "title": "Große Personalsorgen bei Frauen der SG Schozach Bottwartal nach einer „grausamen", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-20T22:40:09.138002", "id": "878e904506", "title": "Zweite Fußball-Bundesliga: 2:1 in Bielefeld: Magdeburg erobert vorerst Platz dre", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-20T22:40:09.138512", "id": "ee45a8670c", "title": "VfB Stuttgart: U19 und U17 vor wichtigen Vorrundenspielen", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-20T22:40:09.647661", "id": "b2ac1cad70", "title": "Offiziell: Vor großem Jubiläum – Brighton verlängert mit Groß bis 2028", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-20T22:40:09.992026", "id": "6ecb6c9733", "title": "Kein reiner Wirtschaftsexperte: Wird Frank Tschan im Fortuna-Aufsichtsrat zum Br", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-20T22:40:09.994635", "id": "cf95230665", "title": "(U-17-DFB-Nachwuchsliga (Vorrunde))", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-20T22:40:10.225377", "id": "ce0b83125a", "title": "Mainz 05: U19 und U17 vor Heimspielen gegen Kölner Teams", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-20T22:40:11.561753", "id": "32b0fe3401", "title": "„Irrweg“: Diskussionen um Regionalliga-Reform verschärfen sich", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-20T22:40:12.524610", "id": "e63743d373", "title": "\"Schlappi\" brachte aus China ein Geschenk für Jürgen Kohler mit", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-20T22:40:12.805765", "id": "98a6b98199", "title": "Fußball-Bundesliga: Schreck für Bayern: Kane früh verletzt raus", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-20T22:40:12.808025", "id": "50aadafc35", "title": "Formel 1 in Las Vegas: Strafe für Antonelli: Weltmeister startet weiter hinten", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-20T22:40:13.263198", "id": "46a6441011", "title": "3. Liga - TSV Havelse 1 - 6 Viktoria Köln", "stage": "stage2", "reason": "batch_title_dup_100pct"}
+{"ts": "2026-11-20T22:40:14.067517", "id": "a1ca0efe1e", "title": "Das 0:7 von Schweinheim wirkt nach: Der TSV Lohr hat sogar am freien Sonntag tra", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-20T22:40:14.069761", "id": "72e3d54941", "title": "SG Bettringen: Yannic Sigloch erklärt die Erfolgsformel des Tabellenführers", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-20T22:40:18.019199", "id": "fed7f6088a", "title": "Fünf Euro, fünf Personen: So gelangen Sie mit Park & Ride zum Aachener Weihnacht", "stage": "stage5", "reason": "randthema"}
+{"ts": "2026-11-20T22:41:09.980244", "id": "0bf3f78adb", "title": "3. Liga: TSV Havelse kassiert Klatsche gegen Tabellenführer Viktoria Köln", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T22:41:09.980620", "id": "fff101b554", "title": "3. Liga: Viktoria Köln feiert Kantersieg in Havelse und verteidigt die Tabellenf", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T22:41:09.980859", "id": "91fdf6fba2", "title": "3. Liga: SC Verl gegen FC Ingolstadt", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-20T22:41:09.981123", "id": "b78ee6a755", "title": "3. Liga: 14 Spiele, 12 Tore! Immer wieder David Otto - Viktoria Köln überrollt T", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T22:41:09.981439", "id": "7ef5a8618c", "title": "Fortuna Köln vs. Meppen: TV, Livestream und Anstoßzeit in der 3. Liga", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-20T22:41:09.981653", "id": "29cdf298b2", "title": "Hoffenheim II vs. Preußen Münster heute live sehen: Wer zeigt / überträgt das Sp", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T22:41:09.981793", "id": "a6b469317d", "title": "SC Verl vs. RW Essen heute live sehen: Wer zeigt / überträgt das Spiel im TV und", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T22:41:09.982006", "id": "8b408a5d94", "title": "3. Liga - TSV Havelse 1 - 6 Viktoria Köln", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T22:41:09.982239", "id": "262d4c929e", "title": "Über die Schmerzgrenze hinaus zum Erfolg – Preußen gastiert erstmalig in Sinshei", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T22:41:09.982487", "id": "e70245bd86", "title": "TTBL: Spitzenspiel gegen Verfolger Saarbrücken", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-20T22:41:09.982713", "id": "e5f5a473df", "title": "Atom stellt sich in Saarbrücken vor", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-20T22:41:09.982922", "id": "7f0e9fd34e", "title": "Alemannia Aachen SV Waldhof Mannheim - 3. Liga 2026/2027 | Spielinfo | Profis", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-20T22:41:09.983135", "id": "3f2b539f77", "title": "Die Viktoria ist Favorit: Waldenrath-Straeten beim SV Weiden, Merl sagt Spiel in", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-20T22:41:09.983369", "id": "7385e8c0a4", "title": "Video: Fortuna Düsseldorf: Die Top 15 der Fortuna-Trainer", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-20T22:41:09.983580", "id": "ee81216ee1", "title": "Gelingt Fortuna die Wende?: Computer sagt Drittliga-Tabelle voraus – MSV Duisbur", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-20T22:41:09.983792", "id": "0fb62a9216", "title": "MSV Duisburg - F.C. Hansa Rostock im Live-Stream und TV: Rostock steht am 22.11.", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T22:41:09.983998", "id": "7ef5ec9255", "title": "TSG Hoffenheim II gegen Preußen Münster im Vorbericht", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T22:41:09.984208", "id": "aef0520ce6", "title": "Rot-Weiss Essen: Vorstands-Verträge, Dauerkartenpreise, Beiträge – was bei der R", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-20T22:41:09.984446", "id": "bb0665ad89", "title": "Das tut die Verwaltung gegen Parkprobleme bei Waldhof-Spielen", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-20T22:41:09.984661", "id": "eace281931", "title": "Schulstreik gegen Wehrpflicht in Mannheim und Heidelberg: Pyrotechnik gezündet", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-20T22:41:09.984862", "id": "4f4cfa7a8f", "title": "Match Centre - TSV Havelse : FC Viktoria Köln", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T22:41:09.985075", "id": "6d98887067", "title": "TSV Havelse vs. Viktoria Köln: Bedenklicher Auftritt von Havelse bei Viktoria-Ga", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T22:41:18.957499", "id": "7da7addfc1", "title": "6:1-Sieg bei Havelse: Viktoria Köln untermauert Drittliga-Tabellenführung", "stage": "stage7", "reason": "in_artikel_verarbeitet"}
+{"ts": "2026-11-20T22:41:36.057908", "id": "f87c3a6c0d", "title": "Innenverteidiger zu Gast im Training: 1. FC Saarbrücken testet dieses „DFB-Juwel", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-20T22:41:43.710837", "id": "f58c8230f2", "title": "Geplanter Tausch vorgezogen?: So könnte die Fortuna-Aufstellung gegen Großaspach", "stage": "stage6.5", "reason": "schon_berichtet"}
