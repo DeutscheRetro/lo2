@@ -1,5 +1,121 @@
 [
   {
+    "id": "f8d08b8cb5",
+    "titel": "Hansa Rostock stützt Kompass-Modell und kritisiert Verbandsinteressen",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "20.11.2026 02:37",
+    "wappen_url": "logos/rostock.png",
+    "vereine": [
+      "Rostock"
+    ],
+    "anriss": "Drittligist Hansa Rostock unterstützt weiterhin das Kompass-Modell, das die Zahl der Regionalligen von fünf auf vier reduziert. Der Klub zeigt sich irritiert, dass im Zuge der Regionalliga-Reform beim Nordostdeutschen Fußball-Verband (NOFV) und beim Fußball-Landesverband Mecklenburg-Vorpommern zunehmend das 22/5-Modell diskutiert wird. Dabei würde die 3. Liga",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Rostock",
+    "pfad": "artikel/hansa-rostock-stuetzt-kompass-modell-und-kritisiert-verbandsinteressen-f8d08b8cb5.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "recht",
+      "frage": "Hat Maul recht mit seiner Warnung vor Verbandsinteressen?",
+      "antworten": [
+        "Ja",
+        "Nein"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "89d0ecaaaa",
+    "titel": "Saarbrücken will im Winter nachlegen: Thiele plant Transfers ohne Schnellschuss",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "20.11.2026 02:37",
+    "wappen_url": "logos/saarbruecken.png",
+    "vereine": [
+      "Saarbrücken"
+    ],
+    "anriss": "Der 1. FC Saarbrücken wird im Winter auf dem Transfermarkt aktiv. Sportvorstand Markus Thiele kündigte an, dass der Drittligist in der Wintertransferperiode „auf jeden Fall was“ machen werde. Das Fenster öffnet am 1. Januar 2027. „Wir sind am Markt aktiv und schauen, wie wir uns",
+    "spielerstatus": [
+      {
+        "spieler": "Voet",
+        "klub": "Saarbrücken",
+        "status": "fraglich",
+        "grund": "Fitness vor Wiesbaden-Spiel unklar"
+      },
+      {
+        "spieler": "Staff",
+        "klub": "Saarbrücken",
+        "status": "fraglich",
+        "grund": "Knöchelverletzung, U19-Spiel verletzt"
+      },
+      {
+        "spieler": "Nankishi",
+        "klub": "Saarbrücken",
+        "status": "faellt_aus",
+        "grund": "Syndesmoseband"
+      },
+      {
+        "spieler": "Fahrner",
+        "klub": "Saarbrücken",
+        "status": "faellt_aus",
+        "grund": "Syndesmoseband"
+      },
+      {
+        "spieler": "Kamara",
+        "klub": "Saarbrücken",
+        "status": "faellt_aus",
+        "grund": "Knorpelschaden im Knie"
+      },
+      {
+        "spieler": "Vasiliadis",
+        "klub": "Saarbrücken",
+        "status": "faellt_aus",
+        "grund": "Hirnhautentzündung"
+      },
+      {
+        "spieler": "Multhaup",
+        "klub": "Saarbrücken",
+        "status": "faellt_aus",
+        "grund": "Bandscheibenvorfall"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Saarbrücken",
+    "pfad": "artikel/saarbruecken-will-im-winter-nachlegen-thiele-plant-transfers-ohne-89d0ecaaaa.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "3a2191f044",
+    "titel": "Hansa Rostock vor dem Spiel der Wahrheit in Duisburg",
+    "kategorie": "analyse",
+    "badge": "Analyse",
+    "badge_bg": "#6a1fbf",
+    "badge_fg": "#fff",
+    "datum": "20.11.2026 02:37",
+    "wappen_url": "logos/rostock.png",
+    "vereine": [
+      "Duisburg",
+      "RW Essen",
+      "Rostock",
+      "Wiesbaden"
+    ],
+    "anriss": "Hansa Rostock tritt am Sonntag (19.30 Uhr) beim MSV Duisburg an und steht im Aufstiegskampf der 3. Liga unter Druck. Bei einer Niederlage wäre der direkte Aufstiegsplatz schon 13 Punkte entfernt. Die Bilanz gegen die aktuellen Top-5-Teams macht wenig Mut: Aus drei Spielen holte Rostock",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Rostock",
+    "pfad": "artikel/hansa-rostock-vor-dem-spiel-der-wahrheit-in-duisburg-3a2191f044.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
     "id": "b0425273f3",
     "titel": "Saarbrücken: Drei Verletzte schwächen Defensive und Flügel",
     "kategorie": "analyse",
@@ -11,7 +127,7 @@
     "vereine": [
       "Saarbrücken"
     ],
-    "anriss": "Der 1. FC Saarbrücken hat in der Länderspielpause drei Spieler verletzt. Laut Vereinsmitteilung fallen Philip Fahrner, Maurice Multhaup und Abdoulaye Kamara mittel- bis langfristig aus. Besonders der Ausfall von Fahrner trifft den Klub empfindlich. Der 23-jährige Fahrner agierte in dieser Saison stark wie nie und",
+    "anriss": "Der 1. FC Saarbrücken muss nach der Länderspielpause auf drei verletzte Spieler verzichten. Laut Vereinsmitteilung fallen Philip Fahrner, Maurice Multhaup und Abdoulaye Kamara mittel- bis langfristig aus. Während Multhaup und Kamara bislang wenig spielten, trifft der Ausfall von Fahrner den Klub empfindlich. Der 23-jährige Fahrner",
     "spielerstatus": [],
     "formation": "",
     "hauptklub": "Saarbrücken",
@@ -39,7 +155,7 @@
       "Ingolstadt",
       "Stuttgart II"
     ],
-    "anriss": "Die Zweitvertretung des VfB Stuttgart empfängt am Sonntag den FC Ingolstadt 04. Die Gäste kommen mit einem 3:2-Erfolg gegen Fortuna Düsseldorf im Rücken, Stuttgart gewann zuletzt ebenfalls und hat 18 Punkte auf dem Konto. Die Heimbilanz des VfB ist ausbaufähig. Aus sechs Heimspielen holte die",
+    "anriss": "Die Zweitvertretung des VfB Stuttgart empfängt am Sonntag den FC Ingolstadt 04. Die Gäste kommen mit einem 3:2-Erfolg gegen Fortuna Düsseldorf im Rücken. Stuttgart gewann zuletzt ebenfalls und hat 18 Punkte auf dem Konto. Stuttgart II weist fünf Siege und ebenso viele Niederlagen auf und",
     "spielerstatus": [],
     "formation": "",
     "hauptklub": "Stuttgart II",
@@ -112,7 +228,7 @@
       "Duisburg",
       "Düsseldorf"
     ],
-    "anriss": "Fortuna Düsseldorf muss nach dem Viertelfinale im Landespokal Niederrhein gegen den MSV Duisburg um Offensivspieler Erik Wekesser bangen. Der 29-Jährige musste im Derby bereits nach 20 Minuten ausgewechselt werden. Für ihn kam Lukas Eixler in die Partie. Wekesser verletzte sich offenbar ohne gegnerische Einwirkung. Ein",
+    "anriss": "Fortuna Düsseldorf muss nach dem Viertelfinale im Landespokal Niederrhein gegen den MSV Duisburg um Offensivspieler Erik Wekesser bangen. Der 29-Jährige musste im Derby bereits nach 20 Minuten ausgewechselt werden. Für ihn kam Lukas Eixler in die Partie. In der Anfangsphase hatten die Gäste aus Duisburg",
     "spielerstatus": [],
     "formation": "",
     "hauptklub": "Düsseldorf",
@@ -140,7 +256,7 @@
       "Duisburg",
       "Düsseldorf"
     ],
-    "anriss": "Fortuna Düsseldorf hat das Viertelfinale im Niederrheinpokal gegen den Drittliga-Konkurrenten MSV Duisburg mit 3:0 (1:0) gewonnen. Eric Hottmann (60.), Filimon Gerezgiher (81.) und Hamza Anhari (88.) erzielten die Tore gegen den Titelverteidiger, der nach einer Roten Karte gegen Kapitän Rasim Bulic (72.) in Unterzahl endete.",
+    "anriss": "Fortuna Düsseldorf hat das Viertelfinale im Niederrheinpokal gegen den Drittliga-Konkurrenten MSV Duisburg mit 3:0 (1:0) gewonnen. Eric Hottmann (60.), Filimon Gerezgiher (81.) und Hamza Anhari (88.) trafen gegen den Titelverteidiger. Der MSV beendete die Partie nach einer Roten Karte gegen Kapitän Rasim Bulic (72.) zu",
     "spielerstatus": [],
     "formation": "",
     "hauptklub": "Düsseldorf",
@@ -159,7 +275,7 @@
   },
   {
     "id": "f8aabd22db",
-    "titel": "Verl vor Essen: Schwächste Abwehr trifft auf beste Defensive",
+    "titel": "Verl mit vier Niederlagen in Serie gegen formstarkes Essen",
     "kategorie": "analyse",
     "badge": "Analyse",
     "badge_bg": "#6a1fbf",
@@ -170,7 +286,7 @@
       "RW Essen",
       "Verl"
     ],
-    "anriss": "Der SC Verl empfängt in der 3. Liga Rot-Weiss Essen und geht dabei mit einer Negativserie in die Partie. Zuletzt unterlag der SCV dem VfB Stuttgart II mit 0:1. Essen reist als Tabellendritter an. Verl belegt mit zwölf Punkten Rang 17. Die Bilanz nach 13",
+    "anriss": "Der SC Verl empfängt in der 3. Liga Rot-Weiss Essen und geht mit vier Niederlagen in Serie in die Partie. Zuletzt unterlag der SCV dem VfB Stuttgart II mit 0:1. Essen reist als Tabellendritter an. Verl belegt mit zwölf Punkten Rang 17. Die Bilanz nach",
     "spielerstatus": [],
     "formation": "",
     "hauptklub": "Verl",
@@ -181,7 +297,7 @@
   },
   {
     "id": "a1cdb75fed",
-    "titel": "Regensburg gegen Würzburg: Zwei Teams in der Tabellenmitte treffen aufeinander",
+    "titel": "Jahn Regensburg empfängt Würzburg: Beide Teams kommen von Niederlagen",
     "kategorie": "news",
     "badge": "News",
     "badge_bg": "#e8c000",
@@ -203,7 +319,7 @@
   },
   {
     "id": "b4a1795105",
-    "titel": "Fortuna Köln siegt 5:0 beim Bonner SC, Najar feiert Comeback",
+    "titel": "Mittelrheinpokal: Fortuna Köln siegt 5:0 in Bonn, Najar feiert Comeback",
     "kategorie": "news",
     "badge": "News",
     "badge_bg": "#e8c000",
@@ -213,7 +329,7 @@
     "vereine": [
       "Fortuna Köln"
     ],
-    "anriss": "Drittligist Fortuna Köln ist im Achtelfinale des Mittelrheinpokals souverän eingezogen. Das Team von Trainer Matthias Mink gewann vor 2.123 Zuschauern im Sportpark Nord mit 5:0 beim Bonner SC. Nach einer Stunde fiel die Partie erst nach einem Platzverweis auseinander. Romeo Aigbekaen brachte die Gäste in",
+    "anriss": "Drittligist Fortuna Köln hat sich im Achtelfinale des Mittelrheinpokals souverän durchgesetzt. Das Team von Trainer Matthias Mink gewann vor 2.123 Zuschauern im Sportpark Nord mit 5:0 beim Bonner SC. Nach einem Platzverweis gegen die Gastgeber kippte die lange offene Partie. Mink musste auf den erkrankten",
     "spielerstatus": [],
     "formation": "",
     "hauptklub": "Fortuna Köln",
@@ -255,7 +371,7 @@
   },
   {
     "id": "b317ca2504",
-    "titel": "Düsseldorf gegen Großaspach: Zwei Teams suchen den Erfolg",
+    "titel": "Düsseldorf will gegen Großaspach die Serie ohne Sieg beenden",
     "kategorie": "analyse",
     "badge": "Analyse",
     "badge_bg": "#6a1fbf",
@@ -266,7 +382,7 @@
       "Düsseldorf",
       "Großaspach"
     ],
-    "anriss": "Fortuna Düsseldorf empfängt am Samstag die SG Sonnenhof Großaspach und will nach vier Ligaspielen ohne Sieg wieder dreifach punkten. Die Gastgeber gehen laut Datenanalyse leicht favorisiert in die Partie der 3. Liga. Zuletzt unterlag die Fortuna dem FC Ingolstadt 04 mit 2:3. Großaspach kassierte am",
+    "anriss": "Fortuna Düsseldorf empfängt am Samstag die SG Sonnenhof Großaspach und will nach vier Ligaspielen ohne Sieg wieder gewinnen. Die Gastgeber gehen leicht favorisiert in die Partie der 3. Liga. Zuletzt unterlag die Fortuna dem FC Ingolstadt 04 mit 2:3. Großaspach kassierte am vergangenen Spieltag gegen",
     "spielerstatus": [],
     "formation": "",
     "hauptklub": "Düsseldorf",

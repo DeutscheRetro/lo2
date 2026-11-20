@@ -1,0 +1,196 @@
+2026-11-20 02:36:03,924 INFO 💶 Budget: dieser Lauf 0.000 $ | heute 0.00 $ | Monat 0.00 / 0 $
+2026-11-20 02:36:03,927 INFO URL-Cache geladen: 3719 bekannte URLs (letzte 30 Tage)
+2026-11-20 02:36:03,927 INFO === LO Generator startet – max. 50 Artikel ===
+2026-11-20 02:36:03,928 INFO Feed: https://newsfeed.kicker.de/news/3-liga
+2026-11-20 02:36:04,355 INFO Feed: https://www.sport.de/rss/news/
+2026-11-20 02:36:04,598 INFO Feed: https://www.11freunde.de/feed
+2026-11-20 02:36:06,172 WARNING Spielerliste nicht verfügbar: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-20 02:36:06,172 INFO BL-Spielerliste geladen: 0 Namen
+2026-11-20 02:36:06,172 INFO S3 keyword miss: Handynutzung im Stadion: Können wir noch Fußball schauen?
+2026-11-20 02:36:06,173 INFO Feed: https://news.google.com/rss/search?q=%223.+Liga%22&hl=de&gl=DE&ceid=DE:de
+2026-11-20 02:36:06,496 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Verletzung+Ausfall+gesperrt&hl=de&gl=DE&ceid=DE:de
+2026-11-20 02:36:06,977 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Transfer+Wechsel+verpflichtet&hl=de&gl=DE&ceid=DE:de
+2026-11-20 02:36:07,376 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Ger%C3%BCcht+Interesse+Angebot&hl=de&gl=DE&ceid=DE:de
+2026-11-20 02:36:07,701 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Vertrag+verl%C3%A4ngert+abl%C3%B6sefrei&hl=de&gl=DE&ceid=DE:de
+2026-11-20 02:36:07,989 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Trainer+Entlassung&hl=de&gl=DE&ceid=DE:de
+2026-11-20 02:36:08,364 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Saarbr%C3%BCcken%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 02:36:08,655 INFO Feed: https://news.google.com/rss/search?q=%22Alemannia+Aachen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 02:36:08,950 INFO Feed: https://news.google.com/rss/search?q=%22FC+Ingolstadt%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 02:36:09,267 INFO Feed: https://news.google.com/rss/search?q=%22Fortuna+D%C3%BCsseldorf%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 02:36:09,597 INFO S2 blacklist: U19-Europameisterschaft - Abstellungen Fortuna Düsseldorf (G
+2026-11-20 02:36:09,598 INFO Feed: https://news.google.com/rss/search?q=%22Fortuna+K%C3%B6ln%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 02:36:09,968 INFO S3 keyword miss: (k+) Historisch schlechte Drittliga-Aufsteiger: Nie punktete
+2026-11-20 02:36:09,968 INFO Feed: https://news.google.com/rss/search?q=%22Hansa+Rostock%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 02:36:10,261 INFO S3 keyword miss: Bare-Knuckle-Fights in Bentwisch: Strikte Regeln gegen Neona
+2026-11-20 02:36:10,261 INFO Feed: https://news.google.com/rss/search?q=%22Jahn+Regensburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 02:36:10,522 INFO S3 keyword miss: Heilige Nacht – Weihnachtslesung in Schönberg 2026 am So., 1
+2026-11-20 02:36:10,524 INFO S3 keyword miss: Schwieriges Jubiläumsjahr: Für die Viktoria geht es zum Jahr
+2026-11-20 02:36:10,526 INFO S3 keyword miss: Top oder Flop: Wie schlagen sich die Neuzugänge beim KSC?
+2026-11-20 02:36:10,527 INFO S3 keyword miss: Nach der Länderspielpause wartet SK Rapid II
+2026-11-20 02:36:10,527 INFO Feed: https://news.google.com/rss/search?q=%22MSV+Duisburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 02:36:10,857 INFO Feed: https://news.google.com/rss/search?q=%22Preu%C3%9Fen+M%C3%BCnster%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 02:36:11,124 INFO Feed: https://news.google.com/rss/search?q=%22Rot-Weiss+Essen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 02:36:11,390 INFO Feed: https://news.google.com/rss/search?q=%22SC+Verl%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 02:36:11,710 INFO Feed: https://news.google.com/rss/search?q=%22Sonnenhof+Gro%C3%9Faspach%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 02:36:11,956 INFO Feed: https://news.google.com/rss/search?q=%22SV+Meppen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 02:36:12,222 INFO Feed: https://news.google.com/rss/search?q=%22Waldhof+Mannheim%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 02:36:12,479 INFO S2 blacklist: VfR Mannheim lädt Unternehmen zum Netzwerkabend ein
+2026-11-20 02:36:12,479 INFO Feed: https://news.google.com/rss/search?q=%22Wehen+Wiesbaden%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 02:36:12,783 INFO Feed: https://news.google.com/rss/search?q=%22Hoffenheim+II%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 02:36:12,984 INFO Feed: https://news.google.com/rss/search?q=%22TSV+Havelse%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 02:36:13,210 INFO S3 keyword miss: Hannovers Sportfahrplan: Das sind die Termine für das dritte
+2026-11-20 02:36:13,210 INFO Feed: https://news.google.com/rss/search?q=%22VfB+Stuttgart+II%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 02:36:13,469 INFO Feed: https://news.google.com/rss/search?q=%22Viktoria+K%C3%B6ln%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 02:36:13,714 INFO Feed: https://news.google.com/rss/search?q=%22W%C3%BCrzburger+Kickers%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 02:36:13,939 INFO Feed: https://newsfeed.kicker.de/team/1-fc-saarbruecken
+2026-11-20 02:36:14,223 INFO Feed: https://newsfeed.kicker.de/team/alemannia-aachen
+2026-11-20 02:36:14,543 INFO Feed: https://newsfeed.kicker.de/team/fc-ingolstadt-04
+2026-11-20 02:36:14,736 INFO Feed: https://newsfeed.kicker.de/team/fortuna-duesseldorf
+2026-11-20 02:36:14,922 INFO Feed: https://newsfeed.kicker.de/team/hansa-rostock
+2026-11-20 02:36:15,119 INFO Feed: https://newsfeed.kicker.de/team/jahn-regensburg
+2026-11-20 02:36:15,312 INFO Feed: https://newsfeed.kicker.de/team/msv-duisburg
+2026-11-20 02:36:15,518 INFO Feed: https://newsfeed.kicker.de/team/preussen-muenster
+2026-11-20 02:36:15,847 INFO Feed: https://newsfeed.kicker.de/team/rot-weiss-essen
+2026-11-20 02:36:16,100 INFO Feed: https://newsfeed.kicker.de/team/sc-verl
+2026-11-20 02:36:16,367 INFO Feed: https://newsfeed.kicker.de/team/waldhof-mannheim
+2026-11-20 02:36:16,574 INFO Feed: https://newsfeed.kicker.de/team/sv-wehen-wiesbaden
+2026-11-20 02:36:16,766 INFO Feed: https://newsfeed.kicker.de/team/tsg-hoffenheim-ii
+2026-11-20 02:36:16,969 INFO Feed: https://newsfeed.kicker.de/team/tsv-havelse
+2026-11-20 02:36:17,292 INFO Feed: https://newsfeed.kicker.de/team/vfb-stuttgart-ii
+2026-11-20 02:36:17,661 INFO Feed: https://newsfeed.kicker.de/team/fc-viktoria-koeln
+2026-11-20 02:36:17,991 INFO Eingelesen: 5 Schlagzeilen nach den Gratis-Filtern
+2026-11-20 02:36:18,000 INFO S5: 5 neue Geschichten, 0 schon berichtet, 0 zu wartenden Geschichten ergänzt, 29 warten
+2026-11-20 02:36:37,290 INFO S6 aussortiert (prio_0): Yassine Bouchama | Fortuna Düsseldorf | Landespokal Niederrhein | 2026
+2026-11-20 02:36:37,291 INFO S6 aussortiert (doppelt): Niederrheinpokal - Düsseldorf behält gegen Duisburg erneut die Oberhan
+2026-11-20 02:36:37,291 INFO S6 aussortiert (prio_0): Gleisarbeiten in Düsseldorf: Rheinbahn-Linien U71 und U83 betroffen – 
+2026-11-20 02:36:37,291 INFO S6 aussortiert (prio_0): 3. Liga: Preußen Münster gegen SC Verl
+2026-11-20 02:36:37,291 INFO S6 aussortiert (prio_0): SG Sonnenhof Großaspach II
+2026-11-20 02:36:37,806 ERROR lxml parsing failed: Document is empty
+2026-11-20 02:36:37,806 ERROR lxml parser bytestring Document is empty
+2026-11-20 02:36:37,807 ERROR lxml parsing failed: Document is empty
+2026-11-20 02:36:37,807 ERROR lxml parser bytestring Document is empty
+2026-11-20 02:36:37,807 ERROR empty HTML tree: None
+2026-11-20 02:36:37,807 WARNING discarding data: None
+2026-11-20 02:36:37,807 INFO S7 kein Volltext (trafilatura_returned_empty): Spielschema | FC Hennef 05 - Alemannia Aachen 0:1 | Achtelfi
+2026-11-20 02:36:38,240 INFO S7 Ersatzquellen für "Spielschema | FC Hennef 05 - Alemannia Aachen 0:1 ": 0 passende Treffer
+2026-11-20 02:36:38,240 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Spielschema | FC Hennef 05 - Alemannia Aachen 0:1 | Achtelfi
+2026-11-20 02:36:38,853 INFO S7 Ersatzquellen für "Aufstellung | TSV Havelse - FC Viktoria Köln : | 1": 0 passende Treffer
+2026-11-20 02:36:38,853 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Aufstellung | TSV Havelse - FC Viktoria Köln : | 14. Spielta
+2026-11-20 02:36:39,700 INFO S7 kein Volltext (too_short_39_words): Bulic kann für den MSV gegen Rostock auflaufen – so sieht es
+2026-11-20 02:36:39,949 INFO S7 Ersatzquellen für "Bulic kann für den MSV gegen Rostock auflaufen – s": 0 passende Treffer
+2026-11-20 02:36:39,950 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Bulic kann für den MSV gegen Rostock auflaufen – so sieht es
+2026-11-20 02:36:40,879 INFO S7 kein Volltext (too_short_73_words): Pokalabend: Alemannia Aachen zieht ins Viertelfinale ein
+2026-11-20 02:36:41,083 INFO S7 Ersatzquellen für "Pokalabend: Alemannia Aachen zieht ins Viertelfina": 0 passende Treffer
+2026-11-20 02:36:41,083 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Pokalabend: Alemannia Aachen zieht ins Viertelfinale ein
+2026-11-20 02:36:41,562 INFO S7 kein Volltext (too_short_75_words): Niederrheinpokal: Rekordkulisse, Rot für Bulic - Düsseldorf 
+2026-11-20 02:36:41,747 INFO S7 Ersatzquellen für "Niederrheinpokal: Rekordkulisse, Rot für Bulic - D": 0 passende Treffer
+2026-11-20 02:36:41,748 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Niederrheinpokal: Rekordkulisse, Rot für Bulic - Düsseldorf 
+2026-11-20 02:36:42,215 WARNING discarding data: None
+2026-11-20 02:36:42,215 INFO S7 kein Volltext (trafilatura_returned_empty): Alemannia müht sich ins Viertelfinale
+2026-11-20 02:36:42,399 INFO S7 Ersatzquellen für "Alemannia müht sich ins Viertelfinale": 0 passende Treffer
+2026-11-20 02:36:42,399 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Alemannia müht sich ins Viertelfinale
+2026-11-20 02:36:43,192 INFO S7 kein Volltext (too_short_8_words): Rippenbruch mit 37: Würzburg-Kapitän Daniel Hägele aus Heuch
+2026-11-20 02:36:43,473 INFO S7 Ersatzquellen für "Rippenbruch mit 37: Würzburg-Kapitän Daniel Hägele": 0 passende Treffer
+2026-11-20 02:36:43,473 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Rippenbruch mit 37: Würzburg-Kapitän Daniel Hägele aus Heuch
+2026-11-20 02:36:43,867 INFO S7 Ersatzquellen für "Aufstellung | Jahn Regensburg - Würzburger Kickers": 0 passende Treffer
+2026-11-20 02:36:43,867 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Aufstellung | Jahn Regensburg - Würzburger Kickers : | 14. S
+2026-11-20 02:36:44,300 INFO S7 Ersatzquellen für "Aufstellung | Alemannia Aachen - SV Waldhof Mannhe": 0 passende Treffer
+2026-11-20 02:36:44,300 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Aufstellung | Alemannia Aachen - SV Waldhof Mannheim : | 14.
+2026-11-20 02:36:44,791 INFO S7 Ersatzquellen für "Aufstellung | MSV Duisburg - Hansa Rostock : | 14.": 1 passende Treffer
+2026-11-20 02:36:45,143 ERROR lxml parsing failed: Document is empty
+2026-11-20 02:36:45,143 ERROR lxml parser bytestring Document is empty
+2026-11-20 02:36:45,143 ERROR lxml parsing failed: Document is empty
+2026-11-20 02:36:45,143 ERROR lxml parser bytestring Document is empty
+2026-11-20 02:36:45,143 ERROR empty HTML tree: None
+2026-11-20 02:36:45,143 WARNING discarding data: None
+2026-11-20 02:36:45,144 INFO S7 kein Volltext (trafilatura_returned_empty): 14. Spieltag: MSV Duisburg - FC Hansa Rostock - FC Hansa Ros
+2026-11-20 02:36:45,144 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Aufstellung | MSV Duisburg - Hansa Rostock : | 14. Spieltag 
+2026-11-20 02:36:45,552 INFO S7 Ersatzquellen für "Aufstellung | 1. FC Saarbrücken - SV Wehen Wiesbad": 1 passende Treffer
+2026-11-20 02:36:47,175 INFO S7 kein Volltext (too_short_45_words): 3. Liga live hören: 1. FC Saarbrücken vs. SV Wehen Wiesbaden
+2026-11-20 02:36:47,176 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Aufstellung | 1. FC Saarbrücken - SV Wehen Wiesbaden : | 14.
+2026-11-20 02:36:47,408 ERROR lxml parsing failed: Document is empty
+2026-11-20 02:36:47,408 ERROR lxml parser bytestring Document is empty
+2026-11-20 02:36:47,408 ERROR lxml parsing failed: Document is empty
+2026-11-20 02:36:47,408 ERROR lxml parser bytestring Document is empty
+2026-11-20 02:36:47,408 ERROR empty HTML tree: None
+2026-11-20 02:36:47,408 WARNING discarding data: None
+2026-11-20 02:36:47,409 INFO S7 kein Volltext (trafilatura_returned_empty): Aufstellung | SC Verl - Rot-Weiss Essen : | 14. Spieltag | 3
+2026-11-20 02:36:47,686 INFO S7 Ersatzquellen für "Aufstellung | SC Verl - Rot-Weiss Essen : | 14. Sp": 1 passende Treffer
+2026-11-20 02:36:49,419 INFO S7 kein Volltext (likely_paywall): SC Verl - Rot-Weiss Essen im Live-Stream und TV: Schwere Auf
+2026-11-20 02:36:49,419 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Aufstellung | SC Verl - Rot-Weiss Essen : | 14. Spieltag | 3
+2026-11-20 02:36:49,608 ERROR lxml parsing failed: Document is empty
+2026-11-20 02:36:49,608 ERROR lxml parser bytestring Document is empty
+2026-11-20 02:36:49,608 ERROR lxml parsing failed: Document is empty
+2026-11-20 02:36:49,608 ERROR lxml parser bytestring Document is empty
+2026-11-20 02:36:49,608 ERROR empty HTML tree: None
+2026-11-20 02:36:49,608 WARNING discarding data: None
+2026-11-20 02:36:49,609 INFO S7 kein Volltext (trafilatura_returned_empty): Aufstellung | TSV Havelse - FC Viktoria Köln : | 14. Spielta
+2026-11-20 02:36:49,651 INFO S7 Ersatzquellen für "Aufstellung | TSV Havelse - FC Viktoria Köln : | 1": 0 passende Treffer
+2026-11-20 02:36:49,652 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Aufstellung | TSV Havelse - FC Viktoria Köln : | 14. Spielta
+2026-11-20 02:36:50,098 ERROR lxml parsing failed: Document is empty
+2026-11-20 02:36:50,098 ERROR lxml parser bytestring Document is empty
+2026-11-20 02:36:50,099 ERROR lxml parsing failed: Document is empty
+2026-11-20 02:36:50,099 ERROR lxml parser bytestring Document is empty
+2026-11-20 02:36:50,099 ERROR empty HTML tree: None
+2026-11-20 02:36:50,099 WARNING discarding data: None
+2026-11-20 02:36:50,099 INFO S7 kein Volltext (trafilatura_returned_empty): Aufstellung | 1. FC Saarbrücken - SV Wehen Wiesbaden : | 14.
+2026-11-20 02:36:50,144 INFO S7 Ersatzquellen für "Aufstellung | 1. FC Saarbrücken - SV Wehen Wiesbad": 1 passende Treffer
+2026-11-20 02:36:51,002 INFO S7 kein Volltext (too_short_45_words): 3. Liga live hören: 1. FC Saarbrücken vs. SV Wehen Wiesbaden
+2026-11-20 02:36:51,002 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Aufstellung | 1. FC Saarbrücken - SV Wehen Wiesbaden : | 14.
+2026-11-20 02:36:51,191 ERROR lxml parsing failed: Document is empty
+2026-11-20 02:36:51,191 ERROR lxml parser bytestring Document is empty
+2026-11-20 02:36:51,191 ERROR lxml parsing failed: Document is empty
+2026-11-20 02:36:51,192 ERROR lxml parser bytestring Document is empty
+2026-11-20 02:36:51,192 ERROR empty HTML tree: None
+2026-11-20 02:36:51,192 WARNING discarding data: None
+2026-11-20 02:36:51,192 INFO S7 kein Volltext (trafilatura_returned_empty): (k+) Besser jetzt als zu spät: Weshalb Schieber Großaspach v
+2026-11-20 02:36:51,415 INFO S7 Ersatzquellen für "(k+) Besser jetzt als zu spät: Weshalb Schieber Gr": 0 passende Treffer
+2026-11-20 02:36:51,415 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): (k+) Besser jetzt als zu spät: Weshalb Schieber Großaspach v
+2026-11-20 02:36:51,749 WARNING discarding data: None
+2026-11-20 02:36:51,750 INFO S7 kein Volltext (trafilatura_returned_empty): Schroers trifft, Wiebe wird vermisst
+2026-11-20 02:36:51,956 INFO S7 Ersatzquellen für "Schroers trifft, Wiebe wird vermisst": 0 passende Treffer
+2026-11-20 02:36:51,956 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Schroers trifft, Wiebe wird vermisst
+2026-11-20 02:36:52,607 INFO S7 schreiben (Prio 2, 1 Quellen): Hansa Rostock setzt auf das Kompass-Modell und warnt vor Eit
+2026-11-20 02:37:01,348 INFO   Kandidat: Hansa Rostock stützt Kompass-Modell und kritisiert Verbandsi
+2026-11-20 02:37:02,572 INFO S7 kein Volltext (too_short_24_words): Coach Hildmann grübelt: Bahnt sich da ein Torhüter-Wechsel a
+2026-11-20 02:37:02,775 INFO S7 Ersatzquellen für "Coach Hildmann grübelt: Bahnt sich da ein Torhüter": 0 passende Treffer
+2026-11-20 02:37:02,775 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Coach Hildmann grübelt: Bahnt sich da ein Torhüter-Wechsel a
+2026-11-20 02:37:03,841 INFO S7 kein Volltext (too_short_37_words): SV Meppen: Was Fans zum Auswärtsspiel gegen Fortuna Köln wis
+2026-11-20 02:37:04,053 INFO S7 Ersatzquellen für "SV Meppen: Was Fans zum Auswärtsspiel gegen Fortun": 0 passende Treffer
+2026-11-20 02:37:04,054 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): SV Meppen: Was Fans zum Auswärtsspiel gegen Fortuna Köln wis
+2026-11-20 02:37:04,907 INFO S7 kein Volltext (too_short_8_words): Schlusslicht fordert Tabellenführer: TSV Havelse setzt gegen
+2026-11-20 02:37:05,134 INFO S7 Ersatzquellen für "Schlusslicht fordert Tabellenführer: TSV Havelse s": 0 passende Treffer
+2026-11-20 02:37:05,134 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Schlusslicht fordert Tabellenführer: TSV Havelse setzt gegen
+2026-11-20 02:37:05,355 INFO S7 kein Volltext (too_short_75_words): Fortuna Düsseldorf: Nach zweitem Derbysieg muss Fortuna nun 
+2026-11-20 02:37:05,607 INFO S7 Ersatzquellen für "Fortuna Düsseldorf: Nach zweitem Derbysieg muss Fo": 0 passende Treffer
+2026-11-20 02:37:05,607 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Fortuna Düsseldorf: Nach zweitem Derbysieg muss Fortuna nun 
+2026-11-20 02:37:05,915 INFO Google-News-Link nicht auflösbar: HTTP 429, keine Signatur
+2026-11-20 02:37:06,131 INFO S7 Ersatzquellen für "Waldhof Mannheim: Die nächsten Schritte geplant – ": 0 passende Treffer
+2026-11-20 02:37:06,131 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Waldhof Mannheim: Die nächsten Schritte geplant – mit Verstä
+2026-11-20 02:37:09,497 INFO S7 schreiben (Prio 2, 1 Quellen): Sportvorstand über die Pläne für den Winter: Wie der Aufstie
+2026-11-20 02:37:20,688 INFO   Kandidat: Saarbrücken will im Winter nachlegen: Thiele plant Transfers
+2026-11-20 02:37:23,525 INFO S6.5 schon berichtet (Verl vor Essen: Schwächste Abwehr trifft auf ): Vor dem direkten Duell: Wieso der Verl-Boss von Rot-Weiss Es
+2026-11-20 02:37:28,735 INFO S7 schreiben (Prio 2, 1 Quellen): Hansa Rostock: Auftritt in Duisburg wird für den Drittligist
+2026-11-20 02:37:36,381 INFO   Kandidat: Hansa Rostock vor dem Spiel der Wahrheit in Duisburg
+2026-11-20 02:37:36,608 INFO S7 kein Volltext (too_short_75_words): 3. Liga: Verl-Boss vor RWE-Duell mit klarer Ansage zum Gegne
+2026-11-20 02:37:36,891 INFO S7 Ersatzquellen für "3. Liga: Verl-Boss vor RWE-Duell mit klarer Ansage": 0 passende Treffer
+2026-11-20 02:37:36,892 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): 3. Liga: Verl-Boss vor RWE-Duell mit klarer Ansage zum Gegne
+2026-11-20 02:37:37,092 INFO S7 kein Volltext (too_short_75_words): Niederrheinpokal: Leistungsträger zurück! So starten die For
+2026-11-20 02:37:37,294 INFO S7 Ersatzquellen für "Niederrheinpokal: Leistungsträger zurück! So start": 0 passende Treffer
+2026-11-20 02:37:37,294 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Niederrheinpokal: Leistungsträger zurück! So starten die For
+2026-11-20 02:37:40,191 INFO S7 schreiben (Prio 2, 1 Quellen): Vom Leihspieler zur festen Größe: Wie Bouebari bei RWE durch
+2026-11-20 02:37:43,840 INFO S7 verworfen (zu_wenig_stoff): Vom Leihspieler zur festen Größe: Wie Bouebari bei RWE durch
+2026-11-20 02:37:49,143 INFO S7 schreiben (Prio 2, 1 Quellen): Startet Egouli trotz Formschwäche? Die mögliche Fortuna-Elf 
+2026-11-20 02:37:59,031 INFO   Kandidat: Fortuna gegen Großaspach: Egouli vor Startelfeinsatz, Wekess
+2026-11-20 02:37:59,034 INFO FinalCheck SKIP: düsseldorf/{'erik wekesser', 'elias egouli', 'jens langeneke'} stage=kader bereits in Archiv
+2026-11-20 02:37:59,034 INFO S9.5 FinalCheck: 3/4 durch
+2026-11-20 02:37:59,842 INFO Veröffentlicht: Hansa Rostock stützt Kompass-Modell und kritisiert Verbandsi
+2026-11-20 02:37:59,894 INFO Veröffentlicht: Saarbrücken will im Winter nachlegen: Thiele plant Transfers
+2026-11-20 02:37:59,943 INFO Veröffentlicht: Hansa Rostock vor dem Spiel der Wahrheit in Duisburg
+2026-11-20 02:37:59,945 WARNING Sitemap ohne Spielerseiten: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-20 02:37:59,948 INFO 💶 Kosten: dieser Lauf 0.000 $ (Budget 0.000 $) | heute 0.00 $ | Monat 0.00 / 0 $ | konferenz (abo) 1× 0.000 $, schreiben (abo) 5× 0.000 $, dublette (abo) 7× 0.000 $
+2026-11-20 02:37:59,948 INFO 🎫 Abo-Verbrauch: 46,732 Tokens rein (davon Cache gelesen 5,704), 8,623 raus, API-Gegenwert 0.23 $ | konferenz 1×: 2,002/2,391, schreiben 5×: 35,464/6,205, dublette 7×: 9,266/27
+2026-11-20 02:37:59,951 INFO Feeds: 45/45 begonnen, nächster Lauf startet bei Nr. 0
+2026-11-20 02:37:59,951 INFO URL-Cache gespeichert: 3772 URLs
+2026-11-20 02:37:59,951 INFO === Fertig. 3 neue Artikel. feed.json: 66 ===
+2026-11-20 02:37:59,951 INFO Stats: {"ts": "20261120_0236", "ingested": 53, "s2_pre_filter": 2, "s3_relevance": 8, "s4_dedup_early": 0, "gesammelt": 5, "geschichten_neu": 5, "s5_archiv_doppelt": 0, "s5_zusammengefuehrt": 0, "s6_aussortiert": 5, "s7_geschrieben": 5, "s7_verworfen": 2, "s5_fulltext_fail": 23, "s8_qa_rejected": 1, "published": 3, "kosten": {"lauf_usd": 0.0, "lauf_budget_usd": 0.0, "heute_usd": 0.0, "monat_usd": 0.0, "monatsbudget_usd": 0.0, "aufrufe": {"konferenz (abo)": {"anzahl": 1, "usd": 0.0}, "schreiben (abo)": {"anzahl": 5, "usd": 0.0}, "dublette (abo)": {"anzahl": 7, "usd": 0.0}}, "guthaben_leer": false, "abo": true, "abo_tokens": {"konferenz": {"aufrufe": 1, "ein": 2002, "cache_schreiben": 0, "cache_lesen": 0, "aus": 2391, "api_wert_usd": 0.014}, "schreiben": {"aufrufe": 5, "ein": 10, "cache_schreiben": 29750, "cache_lesen": 5704, "aus": 6205, "api_wert_usd": 0.1817}, "dublette": {"aufrufe": 7, "ein": 14, "cache_schreiben": 9252, "cache_lesen": 0, "aus": 27, "api_wert_usd": 0.0374}}}}

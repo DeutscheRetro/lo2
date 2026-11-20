@@ -1399,5 +1399,70 @@
     },
     "published_at": "2026-11-19T23:01:26.650568",
     "source": "News.de"
+  },
+  {
+    "id": "f8d08b8cb5",
+    "generated_title": "Hansa Rostock stützt Kompass-Modell und kritisiert Verbandsinteressen",
+    "original_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdFQ5WnJ4d3hsaW9ocVl1OTJETm9BOThld0VNRWVFWVVlcURpOWlrU3pKeWlJWV9vWUZpVkN0MzlqV015OThsZUF0UWpoX3pNcHhYaUtJZ3pMU2txTmZmUlYxLTRLVmRZTVExbC1qLXF0Ym1acU5TdGZJcGZsQkZqQmwtNmxtOHhZeTJqb2dFa0YyZjhoLWFRbFpZOG5qeTJtRFo2RVNQVV82dDRo?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Rostock",
+      "event_stage": "sonstiges",
+      "main_teams": [
+        "Rostock"
+      ],
+      "main_players": [],
+      "summary": "Hansa Rostock unterstützt das Kompass-Modell mit vier statt fünf Regionalligen und kritisiert die Debatte um das 22/5-Modell. Vorstandschef Ronny Maul warnt vor Entscheidungen im Verbandsinteresse beim DFB-Bundestag am 18. Dezember.",
+      "one_sentence_summary": "Hansa Rostock unterstützt das Kompass-Modell mit vier statt fünf Regionalligen und kritisiert die Debatte um das 22/5-Modell.",
+      "schluessel": "rostock|sonstiges"
+    },
+    "published_at": "2026-11-20T02:37:59.840416",
+    "source": "Nordkurier"
+  },
+  {
+    "id": "89d0ecaaaa",
+    "generated_title": "Saarbrücken will im Winter nachlegen: Thiele plant Transfers ohne Schnellschuss",
+    "original_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQX0NvRFFEMDNkdkZOZmUxYWpzclNyNHdoRHJrS1lHaTI2c2U0Um5GeDF0NUo2SndmZGZfQms5ZUhKR2xNcFpvM2YyckxuNUhwa2QybzVPeVhZVHVDVS1XTGZmLUh3UnpzdUs0TUhFN2JHTGl5QWloNXk4QmJERzFjS1ZCVzFpMDR0QkVGMXA1T09DTWNBd1NyZHFDR2ZWTDJnemVBZEh4S0tCR3NjNXMtNVFRc3pvYjFIOGJfWkJ0ZXhXU1dPU3lpaEZsRlpyd0dsZFJhSEt4V2o5UVNTenhR?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Saarbrücken",
+      "event_stage": "sonstiges",
+      "main_teams": [
+        "Saarbrücken"
+      ],
+      "main_players": [
+        "Markus Thiele"
+      ],
+      "summary": "Saarbrückens Sportvorstand Markus Thiele kündigt für den Winter Transfers an, aber keinen Schnellschuss. Der FCS hat mehrere Langzeitverletzte, bei Voet und Staff ist der Einsatz gegen Wiesbaden offen.",
+      "one_sentence_summary": "Saarbrückens Sportvorstand Markus Thiele kündigt für den Winter Transfers an, aber keinen Schnellschuss.",
+      "schluessel": "markus thiele|sonstiges"
+    },
+    "published_at": "2026-11-20T02:37:59.892109",
+    "source": "Saarbrücker Zeitung"
+  },
+  {
+    "id": "3a2191f044",
+    "generated_title": "Hansa Rostock vor dem Spiel der Wahrheit in Duisburg",
+    "original_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMWFielFnWThQbEZQd0JsdjB5X0RSU29LNXNkZXJkSTZBMWFKb3VtUTNHSXVKQ01NLTNobTBTTHpmZkYxbmJYRkRMVzkwU09OdXNmZjE5bzZBekVYUy1UejJPSFhyeV9mWFh3RzBhZS1KWnhwMTZYYkhjMXpCRHo3OEFVSjBkcmZORDJuV2hpX0lLdXJqbmt5cGhtNE03OHp5ekl5TUdaQ2NlUmQxUUNfTkV3UGRWZEVFNUhKT2phdVBUdzNjeUR1Rmxwb1FwQ0IxLVEzUmR5SUQ0bjJ5V2c?oc=5",
+    "fingerprint": {
+      "event_type": "analyse",
+      "main_club": "Rostock",
+      "event_stage": "sonstiges",
+      "main_teams": [
+        "Duisburg",
+        "RW Essen",
+        "Rostock",
+        "Wiesbaden"
+      ],
+      "main_players": [
+        "André Breitenreiter",
+        "Luca Unbehaun"
+      ],
+      "summary": "Hansa Rostock spielt am Sonntag beim MSV Duisburg und hat gegen die aktuellen Top-5-Teams bislang nur zwei Punkte aus drei Spielen geholt. Gegentore fielen mehrfach über den zweiten Pfosten.",
+      "one_sentence_summary": "Hansa Rostock spielt am Sonntag beim MSV Duisburg und hat gegen die aktuellen Top-5-Teams bislang nur zwei Punkte aus drei Spielen geholt.",
+      "schluessel": "andre breitenreiter|sonstiges"
+    },
+    "published_at": "2026-11-20T02:37:59.941459",
+    "source": "BILD"
   }
 ]
