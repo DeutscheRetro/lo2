@@ -1,5 +1,47 @@
 [
   {
+    "id": "0e61349f38",
+    "titel": "KSC-Trainer Senft sieht Handlungsbedarf in der Offensive",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "20.11.2026 18:06",
+    "wappen_url": "logos/karlsruhe.png",
+    "vereine": [
+      "Karlsruhe",
+      "Osnabrück"
+    ],
+    "anriss": "Trainer Maximilian Senft wünscht sich beim Zweitligisten Karlsruher SC im Winter Verstärkung für den Angriff. „Ich denke, dass wir offensiv durchaus Handlungsbedarf haben“, sagte er vor dem Spiel gegen den VfL Osnabrück am Sonntag (13.30 Uhr/Sky). Wichtig sei, „dass wir uns offensiv breit aufstellen“. Die",
+    "spielerstatus": [
+      {
+        "spieler": "Ben Farhat",
+        "klub": "Karlsruhe",
+        "status": "fraglich",
+        "grund": "Rückenprobleme, Training abgebrochen"
+      },
+      {
+        "spieler": "Broschinski",
+        "klub": "Karlsruhe",
+        "status": "faellt_aus",
+        "grund": "Reha, Rückkehr erst im Januar"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Karlsruhe",
+    "pfad": "artikel/ksc-trainer-senft-sieht-handlungsbedarf-in-der-offensive-0e61349f38.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "recht",
+      "frage": "Hat Senft recht mit dem Handlungsbedarf in der KSC-Offensive?",
+      "antworten": [
+        "Ja",
+        "Nein"
+      ]
+    },
+    "n11": false
+  },
+  {
     "id": "c23a312d35",
     "titel": "Darmstadt: Fernie warnt vor dem Schlafwandeln im Abstiegskampf",
     "kategorie": "interview",
@@ -12,7 +54,7 @@
       "Darmstadt",
       "Heidenheim"
     ],
-    "anriss": "Darmstadts Geschäftsführer Sport Paul Fernie sieht den Zweitligisten im Abstiegskampf und warnt vor Selbstzufriedenheit. Vor dem Heimspiel gegen den 1. FC Heidenheim am Freitagabend (18.30 Uhr) stellte er sich im Gespräch mit der F.A.Z. hinter Trainer Florian Kohfeldt. „Es gibt viele Beispiele, in denen Mannschaften",
+    "anriss": "Paul Fernie, Geschäftsführer Sport des SV Darmstadt 98, sieht den Zweitligisten im Abstiegskampf und warnt vor Selbstzufriedenheit. Vor dem Heimspiel gegen den 1. FC Heidenheim am Freitagabend (18.30 Uhr) stellte er sich im Gespräch mit der F.A.Z. hinter Trainer Florian Kohfeldt. „Es gibt viele Beispiele,",
     "spielerstatus": [],
     "formation": "",
     "hauptklub": "Darmstadt",
@@ -41,7 +83,7 @@
       "Darmstadt",
       "Heidenheim"
     ],
-    "anriss": "Der SV Darmstadt 98 muss im Freitagsspiel gegen den 1. FC Heidenheim am Böllenfalltor auf vier Spieler verzichten. Trainer Florian Kohfeldt informierte vor der Partie über die Ausfälle. Marcel Schuhen, Patric Pfeiffer, Nicolas Verkooijen und Luca Marseiler gehören nach Angaben des Vereins nicht zum Kader.",
+    "anriss": "Der SV Darmstadt 98 muss im Heimspiel gegen den 1. FC Heidenheim am 20. November auf vier Spieler verzichten. Marcel Schuhen, Patric Pfeiffer, Nicolas Verkooijen und Luca Marseiler gehören nach Angaben des Vereins nicht zum Kader. Trainer Florian Kohfeldt informierte vor der Partie am Böllenfalltor",
     "spielerstatus": [
       {
         "spieler": "Schuhen",

@@ -2214,5 +2214,48 @@
   "gruende": [],
   "alt_titel": null,
   "quelle_gelesen": true
+ },
+ {
+  "zeit": "20.11.2026 18:06",
+  "id": "93d229dca7",
+  "pfad": "artikel/darmstadt-gegen-heidenheim-ohne-vier-spieler-papela-wieder-eine-option-93d229dca7.html",
+  "urteil": "verbessert",
+  "gruende": [
+   "Letzten Absatz gestrichen: 12. Spieltag, neun Punkte, Rang 17, sechs sieglose Spiele, Platz sieben und Anstoß 18:30 Uhr stehen nicht in der Quelle",
+   "„Wie berichtet“ entfernt, weil es keine frühere Berichterstattung in der Quelle gibt",
+   "„Freitagsspiel“ durch das Datum aus der Quelle (20. November) ersetzt",
+   "Fehlenden Quellenfakt zu Ballbesitz und Ballrückeroberung ergänzt, damit der Mittelteil vollständig ist",
+   "Neuer Schluss mit dem Hinweis auf Heidenheims Stärke bei Standards"
+  ],
+  "alt_titel": "Darmstadt gegen Heidenheim ohne vier Spieler, Papela wieder eine Option",
+  "quelle_gelesen": true
+ },
+ {
+  "zeit": "20.11.2026 18:07",
+  "id": "c23a312d35",
+  "pfad": "artikel/darmstadt-fernie-warnt-vor-dem-schlafwandeln-im-abstiegskampf-c23a312d35.html",
+  "urteil": "verbessert",
+  "gruende": [
+   "„Wie berichtet“ gestrichen, weil keine frühere LO-Meldung eingeordnet wird",
+   "„nach interner Analyse festgehalten“ quellennah umformuliert: stundenlanger Austausch der Entscheider am Tag nach dem Nürnberg-Spiel",
+   "Beim ersten Nennen den vollen Vereinsnamen SV Darmstadt 98 ergänzt",
+   "Satz zu Kohfeldts Bewährung quellennäher formuliert („saisonübergreifend“)"
+  ],
+  "alt_titel": "Darmstadt: Fernie warnt vor dem Schlafwandeln im Abstiegskampf",
+  "quelle_gelesen": true
+ },
+ {
+  "zeit": "20.11.2026 18:07",
+  "id": "0e61349f38",
+  "pfad": "artikel/ksc-trainer-senft-sieht-handlungsbedarf-in-der-offensive-0e61349f38.html",
+  "urteil": "verbessert",
+  "gruende": [
+   "Satz zu Freiburgs Option mit 26 Wörtern geteilt, damit er unter 25 Wörtern bleibt",
+   "Umständliche Formulierung zu Enzo Crivelli („der 31 Jahre alt ist“) geglättet",
+   "Doppelung im Intro („Karlsruhes Trainer … im Angriff des KSC“) entfernt, Einordnung als Zweitligist aus der Quelle ergänzt",
+   "Doppelte Angabe zu Broschinskis Ausfall gestrafft"
+  ],
+  "alt_titel": "KSC-Trainer Senft sieht Handlungsbedarf in der Offensive",
+  "quelle_gelesen": true
  }
 ]
