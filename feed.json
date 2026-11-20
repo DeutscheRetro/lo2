@@ -1,5 +1,33 @@
 [
   {
+    "id": "77fb292d2c",
+    "titel": "Dresdens Keller nach Gehirnerschütterung zurück im Mannschaftstraining",
+    "kategorie": "verletzung",
+    "badge": "Verletzung",
+    "badge_bg": "#e53935",
+    "badge_fg": "#fff",
+    "datum": "20.11.2026 12:04",
+    "wappen_url": "logos/dresden.png",
+    "vereine": [
+      "Dresden"
+    ],
+    "anriss": "Dynamo Dresdens Abwehrchef Thomas Keller (27) trainiert nach zehn Wochen Pause wegen der Folgen einer Gehirnerschütterung wieder mit der Mannschaft. Für das Spiel am Sonntag (13.30 Uhr) beim Tabellendritten Kaiserslautern ist der Innenverteidiger aber noch kein Thema. Die Verletzung zog sich Keller am 12. September",
+    "spielerstatus": [
+      {
+        "spieler": "Keller",
+        "klub": "Dresden",
+        "status": "faellt_aus",
+        "grund": "Nachwirkungen der Gehirnerschütterung, Trainingsrückstand"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Dresden",
+    "pfad": "artikel/dresdens-keller-nach-gehirnerschuetterung-zurueck-im-77fb292d2c.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
     "id": "1c828f8434",
     "titel": "Schmidt schildert Föhrenbachs Verletzung: „In dem Moment war es ein Schock“",
     "kategorie": "verletzung",
@@ -12,7 +40,7 @@
       "Darmstadt",
       "Heidenheim"
     ],
-    "anriss": "Heidenheims Trainer Frank Schmidt hat geschildert, wie es zum Schienbeinbruch von Jonas Föhrenbach kam. Der Defensiv-Allrounder verletzte sich am Donnerstag, 12. November, im Training und fehlt monatelang. Im Auswärtsspiel beim SV Darmstadt am Freitag (18.30 Uhr) muss der FCH erstmals auf ihn verzichten. Laut Schmidt",
+    "anriss": "Heidenheims Trainer Frank Schmidt hat geschildert, wie es zum Schienbeinbruch von Jonas Föhrenbach kam. Der 30 Jahre alte Defensiv-Allrounder brach sich am Donnerstag, 12. November, im Training das linke Schienbein und fällt monatelang aus. Laut Schmidt ging es in der Einheit um Zweikampfverhalten und Intensität",
     "spielerstatus": [
       {
         "spieler": "Föhrenbach",
@@ -46,7 +74,7 @@
     "vereine": [
       "Nürnberg"
     ],
-    "anriss": "Nürnbergs Offensivspieler Piet Scobel traut dem 1. FC Nürnberg zu, das bisherige Niveau in der 2. Liga zu halten und um den Aufstieg mitzuspielen. Das sagte der 21-Jährige im Transfermarkt-Podcast „Done Deals“. Nach elf Spieltagen steht der „Club“ auf Rang zwei. „Ich denke, wir sind",
+    "anriss": "Piet Scobel traut dem 1. FC Nürnberg zu, das bisherige Niveau in der 2. Liga zu halten und um den Aufstieg mitzuspielen. Das sagte der 21-Jährige im Transfermarkt-Podcast „Done Deals“. Nach elf Spieltagen steht der „Club“ auf Rang zwei. „Ich denke, wir sind von der",
     "spielerstatus": [],
     "formation": "",
     "hauptklub": "Nürnberg",
@@ -64,7 +92,7 @@
   },
   {
     "id": "4bb196ed24",
-    "titel": "Hannover 96 trennt sich von Kaderplaner Paul Wagner",
+    "titel": "Hannover 96 und Kaderplaner Paul Wagner gehen getrennte Wege",
     "kategorie": "news",
     "badge": "News",
     "badge_bg": "#e8c000",
@@ -74,7 +102,7 @@
     "vereine": [
       "Hannover"
     ],
-    "anriss": "Hannover 96 und Kaderplaner Paul Wagner gehen getrennte Wege. Der Zweitligist teilte am Mittwoch mit, dass beide ihre Zusammenarbeit in gegenseitigem Einvernehmen beenden. Wagner hatte erst im vergangenen Sommer als Leiter Kaderplanung und Scouting angefangen. Eine ausführliche Begründung liefert der Klub nicht. Er verweist auf",
+    "anriss": "Hannover 96 und Kaderplaner Paul Wagner gehen getrennte Wege. Der Zweitligist teilte am Mittwoch mit, dass beide ihre Zusammenarbeit in gegenseitigem Einvernehmen beenden. Der 27-Jährige hatte erst im vergangenen Sommer als Leiter Kaderplanung und Scouting angefangen. Eine ausführliche Begründung liefert der Klub nicht. Er verweist",
     "spielerstatus": [],
     "formation": "",
     "hauptklub": "Hannover",
