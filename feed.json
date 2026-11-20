@@ -1,5 +1,82 @@
 [
   {
+    "id": "f2ef545c5f",
+    "titel": "Kiel vor Kniat-Debüt: Kaprálik fällt mit Mittelfußbruch aus",
+    "kategorie": "verletzung",
+    "badge": "Verletzung",
+    "badge_bg": "#e53935",
+    "badge_fg": "#fff",
+    "datum": "20.11.2026 21:04",
+    "wappen_url": "logos/kiel.png",
+    "vereine": [
+      "Kiel",
+      "Wolfsburg"
+    ],
+    "anriss": "Holstein Kiel muss im Pflichtspieldebüt von Trainer Mitch Kniat auf Adrián Kaprálik verzichten. Der 24-Jährige hat sich während der Reise zur slowakischen Nationalmannschaft einen Mittelfußbruch zugezogen. Am Samstag um 13 Uhr treten die Kieler beim VfL Wolfsburg an. Kaprálik muss operiert werden und fällt nach",
+    "spielerstatus": [
+      {
+        "spieler": "Kaprálik",
+        "klub": "Kiel",
+        "status": "faellt_aus",
+        "grund": "Mittelfußbruch, Operation nötig"
+      },
+      {
+        "spieler": "Alidou",
+        "klub": "Kiel",
+        "status": "fraglich",
+        "grund": "Einsatz offen"
+      },
+      {
+        "spieler": "Schonlau",
+        "klub": "Kiel",
+        "status": "fraglich",
+        "grund": "Einsatz offen"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Kiel",
+    "pfad": "artikel/kiel-vor-kniat-debuet-kapralik-faellt-mit-mittelfussbruch-aus-f2ef545c5f.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "reaktion",
+      "frage": "",
+      "antworten": [
+        "💚 Gute Besserung"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "bc7505bbc1",
+    "titel": "Magdeburg gewinnt in Bielefeld, Kersken verletzt raus",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "20.11.2026 21:03",
+    "wappen_url": "logos/magdeburg.png",
+    "vereine": [
+      "Bielefeld",
+      "Magdeburg"
+    ],
+    "anriss": "Der 1. FC Magdeburg hat bei Arminia Bielefeld mit 2:1 gewonnen und springt in der 2. Liga auf Relegationsplatz drei. Für die Gastgeber endete eine lange Serie ohne Heimniederlage. Torwart Jonas Kersken musste nach einem Kopftreffer vorzeitig raus. Felipe Chávez (11.) und Emmanuel Iyoha (45.+1)",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Magdeburg",
+    "pfad": "artikel/magdeburg-gewinnt-in-bielefeld-kersken-verletzt-raus-bc7505bbc1.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    },
+    "n11": false
+  },
+  {
     "id": "0e61349f38",
     "titel": "KSC-Trainer Senft sieht Handlungsbedarf in der Offensive",
     "kategorie": "news",

@@ -497,3 +497,81 @@
 {"ts": "2026-11-20T18:06:38.298487", "id": "832f527f19", "title": "Vor dem Duell mit Arminia Bielefeld: Magdeburgs Trainer-Duo ärgert sich über Fre", "stage": "stage6.5", "reason": "schon_berichtet"}
 {"ts": "2026-11-20T18:06:38.829729", "id": "f79817c906", "title": "12. Spieltag: Arminia Bielefeld - 1.FC Magdeburg, Festung ALM. Die Bördekrieger ", "stage": "stage7", "reason": "zu_wenig_quelltext"}
 {"ts": "2026-11-20T18:06:41.171380", "id": "84237ad8a4", "title": "Drei Punkte zum Geburtstag?: Kleeblatt will in Hannover punkten", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-20T21:01:35.949365", "id": "c5c5148ef1", "title": "Fussball: 2 Bundesliga", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-20T21:01:36.258896", "id": "220c2591c6", "title": "Si­cher­heit und TV-​Übertragung: Alle Infos zum FCK-​Heimspiel gegen Dres­den", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-20T21:01:36.260858", "id": "33b1db8c92", "title": "FCK gegen SC Frei­burg: Lau­terns U17 kämpft um die Meis­ter­run­de", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-20T21:01:36.605793", "id": "b9a31df3a2", "title": "Hier läuft 1. FC Magdeburg II gegen FSV Zwickau: Übertragung jetzt live im Strea", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-20T21:01:36.611283", "id": "17565033ac", "title": "Aufstellung 1. FC Magdeburg II - FSV Zwickau 0:0 LIVE | 17. Spieltag, Regionalli", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-20T21:01:36.612201", "id": "3efb7a56b5", "title": "Arminia verpasst Ausgleich um Zentimeter: Magdeburg gewinnt in Bielefeld", "stage": "stage2", "reason": "batch_title_dup_100pct"}
+{"ts": "2026-11-20T21:01:37.318776", "id": "42ed5be645", "title": "DFB-Elf im Viertelfinale der Nations League gegen Belgien", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-20T21:01:38.183290", "id": "190cba60a2", "title": "News, Sport: 2. Bundesliga: Darmstadt schlägt Heidenheim - Magdeburg siegreich", "stage": "stage2", "reason": "batch_title_dup_94pct"}
+{"ts": "2026-11-20T21:01:38.543863", "id": "f1ae64a372", "title": "Doppelmoral beim DFB! Wollitz wettert gegen Verband – und lobt Klopp", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-20T21:01:40.270867", "id": "783bd40dae", "title": "Holstein Kiel muss wochenlang ohne Kapralik auskommen", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-20T21:01:40.276183", "id": "e508917b2d", "title": "Gute Zahlen, schlechte Zahlen. Die TSG Hoffenheim auf dem Platz und in der Bilan", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-20T21:01:40.283596", "id": "d4c564d6e5", "title": "Wirtschaftswunderkind Windhorst in Zug auf 519 Millionen betrieben", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-20T21:01:40.986856", "id": "bc00d9930e", "title": "Nach „Free Vuskovic“: Gibt es das HSV-Comeback gegen Bremen?", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-20T21:01:41.359408", "id": "9056466183", "title": "Kohfeldts Jubellauf: Wichtiger Heimsieg für Darmstadt 98", "stage": "stage2", "reason": "batch_title_dup_95pct"}
+{"ts": "2026-11-20T21:01:41.359797", "id": "b1d4ef735c", "title": "2. Fußball-Bundesliga: Kohfeldts Jubellauf: Wichtiger Heimsieg für Darmstadt 98", "stage": "stage2", "reason": "batch_title_dup_100pct"}
+{"ts": "2026-11-20T21:01:41.360514", "id": "de96beec70", "title": "2. Bundesliga - SV Darmstadt 98 3-1 1. FC Heidenheim 1846", "stage": "stage2", "reason": "batch_title_dup_100pct"}
+{"ts": "2026-11-20T21:01:44.997222", "id": "8cc2cd2764", "title": "Für Børge Lund kein Angstgegner: THW Kiel fordert Schlusslicht HSG Wetzlar", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-20T21:01:44.997532", "id": "4958aea368", "title": "Kiel: Lage an Brennpunkt-Kitas entsetzt Landespolitiker", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-20T21:01:44.997723", "id": "5248b24f1d", "title": "Neue Räume in Kiel: In Elmschenhagen jetzt zwei alevitische Gemeinden", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-20T21:01:44.997887", "id": "350794c8fb", "title": "Baustellen in Kiel heute: Sperrungen und Dauer, 20.11.2026", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-20T21:01:44.998062", "id": "424229519e", "title": "SHMF 2027: Erste Konzerte angekündigt - Tickets ab sofort buchbar", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-20T21:01:44.998225", "id": "e13b2d194b", "title": "Kiel: Auktionshaus Schramm versteigert Insektenbuch für bis zu 80.000 Euro", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-20T21:03:27.140437", "id": "7c527e9950", "title": "SV Darmstadt 98 vs. 1. FC Heidenheim: Doppelpacker Kehl! FCH fährt ohne Punkte a", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T21:03:27.140746", "id": "2e359e7d99", "title": "Kersken-Schock und Ende der Heimserie: Arminia Bielefeld unterliegt 1:2 gegen Ma", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T21:03:27.140881", "id": "96676c8632", "title": "Zweite Fußball-Bundesliga: 2:1 in Bielefeld: Magdeburg erobert vorerst Platz dre", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T21:03:27.140975", "id": "96a9898eb5", "title": "2. Bundesliga: Darmstadt kann nach Sieg gegen Heidenheim durchatmen", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T21:03:27.141093", "id": "6b0da7a299", "title": "Zweite Fußball-Bundesliga: 1. FC Magdeburg gewinnt gegen Arminia Bielefeld", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T21:03:27.141164", "id": "dfaf91ad76", "title": "Magdeburg siegt in Bielefeld, Darmstadt dreht Partie gegen Heidenheim", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T21:03:27.141232", "id": "7a86bfe549", "title": "Wichtiger Sieg für Darmstadt 98: 3:1 gegen Heidenheim", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T21:03:27.141292", "id": "082a3e088b", "title": "2. Bundesliga: SV Darmstadt 98 gegen FC Heidenheim ab 18:30 live", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T21:03:27.141367", "id": "b149bb99ad", "title": "2. Bundesliga: Darmstadt feiert Sieg mit Fan-Mittelfinger", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T21:03:27.141436", "id": "7dabd0c2cf", "title": "12. Spieltag: DSC Arminia vs. 1. FC Magdeburg (1:2)", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T21:03:27.141499", "id": "7268086f13", "title": "2. Bundesliga: Darmstadt schlägt Heidenheim mit 3:1", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T21:03:27.141569", "id": "dcc3eca700", "title": "Doppelpack Kehl: Lilien schlagen Heidenheim mit 3:1", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T21:03:27.141746", "id": "85b5b632cd", "title": "1. FC Magdeburg knackt Bielefelder Alm und springt auf Platz drei", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T21:03:27.141945", "id": "34e5ac2940", "title": "Doppelpacker Kehl verschafft Kohfeldt Luft – Magdeburg jubelt auch auswärts endl", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T21:03:27.142166", "id": "3412b007a2", "title": "Darmstadt mit Befreiungsschlag: Effiziente Magdeburger erobern die Alm und setze", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-20T21:03:27.142338", "id": "b7902308cb", "title": "2. Bundesliga - DSC Arminia Bielefeld 1-2 1. FC Magdeburg", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T21:03:27.142501", "id": "ff98d29b30", "title": "Auswärtssieg! Effizienter FCM besteht auch bei Arminia Bielefeld", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T21:03:27.142665", "id": "6158234456", "title": "Magdeburg springt auf Platz drei – Darmstadt dreht Spiel in Liga zwei", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T21:03:27.142840", "id": "5cd8462201", "title": "Einen Widerstand bekommt Arminia nicht gebrochen", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T21:03:27.143037", "id": "a0834d7cf6", "title": "2. Bundesliga: Darmstadt schlägt Heidenheim – Magdeburg siegreich", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-20T21:03:27.143244", "id": "4e69a005f8", "title": "Unterhaltung pur in Bielefeld: FCM kämpft sich auf der Alm zum Auswärtssieg und ", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T21:03:27.143434", "id": "e8b87afd3d", "title": "DSC Arminia Bielefeld vs. 1. FC Magdeburg: Glückliches Gastspiel! Arminia unterl", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T21:03:27.143634", "id": "609c0efb22", "title": "Arminia Bielefeld empfängt den SC Magdeburg: Ulrich Zwetz ist auf der Alm und be", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T21:03:27.143833", "id": "8ee20e2b79", "title": "Die 2. Bundesliga am Freitag aktuell – Befreiungsschlag für Darmstadt", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-20T21:03:27.144060", "id": "e56493ba86", "title": "Kleinste Kulisse in Hannover seit Februar", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-20T21:03:27.144267", "id": "ac8b4fc98b", "title": "FC Nürnberg vs Eintracht Braunschweig Tipp, Prognose & Quoten - 21. November 202", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-20T21:03:27.144467", "id": "317d9c87c0", "title": "Energie Cottbus vor Derby gegen Hertha: Cottbus-Trainer vor Hertha-Duell: \"Müsse", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T21:03:27.144651", "id": "b43c7f5b1b", "title": "Energie Cottbus 2. Liga: Lukas Michelbrink über Hertha-Klauseln: „Nicht ganz ric", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T21:03:27.144792", "id": "f2c4aa02a9", "title": "2. Fußball-Bundesliga: Hertha in Cottbus: Nach 13 Jahren knistert es wieder", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T21:03:27.144912", "id": "56870e38e8", "title": "FC Energie und MUL-CT brachten Cottbuser Kita-Kinder in Bewegung", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-20T21:03:27.145076", "id": "4ea4bf653b", "title": "Mit Klopp-Cap: Wollitz schießt vor Cottbus-Derby gegen den DFB!", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-20T21:03:27.145232", "id": "5f41f30e3d", "title": "Hertha BSC: Amateurklub jubelt! Ex-Nationalspieler in die 9. Liga", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-20T21:03:27.145372", "id": "6b21997be5", "title": "Autobahn-Baustellen: Wo heute in Schleswig-Holstein gebaut wird", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-20T21:03:27.145506", "id": "c2f5bcccbd", "title": "2. Fußball-Bundesliga: Kohfeldts Jubellauf: Wichtiger Heimsieg für Darmstadt 98", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T21:03:27.145639", "id": "c96bc55f1c", "title": "Darmstadt 98 feiert klaren Heimsieg und macht gegen Heidenheim wieder Spaß", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T21:03:27.145773", "id": "9c07596ffb", "title": "Darmstadt 98 landet Befreiungsschlag gegen Heidenheim", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T21:03:27.145911", "id": "7ba14db923", "title": "Befreiungsschlag für Kohfeldt! Darmstadt verlässt Abstiegsränge", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T21:03:27.146068", "id": "863bcba941", "title": "2. Bundesliga - SV Darmstadt 98 3-1 1. FC Heidenheim 1846", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T21:03:27.146204", "id": "3c37268e65", "title": "Spielstatistik | SV Darmstadt 98 - 1. FC Heidenheim | 12. Spieltag | 2. Bundesli", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T21:03:27.146387", "id": "e9791ec11d", "title": "Drei Thesen zum Spiel gegen Heidenheim", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T21:03:27.146524", "id": "3015d539aa", "title": "Fußball 2. Bundesliga: Darmstadt gegen Heidenheim - Aufstellung - 12. Spieltag -", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T21:03:27.146657", "id": "ea49e1915a", "title": "Darmstadt verlässt die Abstiegsränge – Magdeburg vorerst auf Rang drei", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T21:03:27.146796", "id": "1ec153f955", "title": "Darmstadt feiert wichtigen Zweitliga-Sieg mit zwei Mittelfingern", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-20T21:03:27.146923", "id": "e6106bf3e4", "title": "Lotta Vonderberg · Mittelfeld", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-20T21:03:27.147070", "id": "09e8a774fc", "title": "St. Pauli vs. VfL Bochum heute live sehen: Wer zeigt / überträgt das Spiel im TV", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-20T21:03:27.147215", "id": "9c7760b95e", "title": "Trainerdebüt im Livestream: SG Wattenscheid 09 gegen Köln II im Livestream jetzt", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-20T21:03:32.167450", "id": "bf4cf120bf", "title": "Energie Cottbus Pressekonferenz: Borgmann vor Rückkehr - wer spielt gegen Hertha", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-20T21:03:33.529768", "id": "566cf0089e", "title": "Hannover 96: Gute Nachrichten bei Thordarson – Kapitän sprintet vor Fürth wieder", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-20T21:03:56.351555", "id": "256c52cc1d", "title": "Einer von drei Zweitliga-Klubs: Eintracht Braunschweig zeigt Interesse an Bayern", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-20T21:04:04.245851", "id": "30ea5471c4", "title": "Energie Cottbus vor Spiel gegen Hertha BSC", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-20T21:04:31.628052", "id": "8e56d993d0", "title": "Gerüchte um Wiethaup: KSC-Trainer Senft weiß nichts von einem Transferinteresse", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-20T21:04:33.043326", "id": "fb5a71e9e7", "title": "\"Explosiv, dynamisch\": Bochums ganz eigener \"CR7\" ist der Mann der Stunde", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-20T21:04:34.119365", "id": "d54eda1dd6", "title": "Holstein Kiel gegen VfL Wolfsburg: Ex-Storch Bernhardsson vor emotionalem Duell", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-20T21:04:35.251773", "id": "1b8c8f8740", "title": "Wagner taut auf: So geht der Trainer von Hannover 96 mit seinem Torlos-Sturm um", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-20T21:04:36.752055", "id": "708ae53ce1", "title": "Berichte: BVB im Wettrennen um Hertha-Verteidiger Gechter – Vor Marktwert-Plus?", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-20T21:04:39.592365", "id": "046a066085", "title": "Fußball-Transfergerüchte heute: BVB-Konkurrenz im Werben um Hertha-Juwel – XXL-B", "stage": "stage6.5", "reason": "schon_berichtet"}

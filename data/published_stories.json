@@ -3897,5 +3897,52 @@
     },
     "published_at": "2026-11-20T18:06:42.251687",
     "source": "Augsburger Allgemeine"
+  },
+  {
+    "id": "bc7505bbc1",
+    "generated_title": "Magdeburg gewinnt in Bielefeld, Kersken verletzt raus",
+    "original_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPd2ptY25ZUXdZazJFRnVYbEpxd1JFV29rSGxKZ0VPX19jS0w5cjN5c3dyRWpOaEdENWpvYXhGLWJDZTZ5eUg4UUVOMEQ2OGdCUUNQTF9fSzBsWjVNLTFvT2pPNXlDWVlrb2VFdE9IU1Eyel9fTV9MaWxTUW5HQ2ZibEl6RXNqNGEzc3BDN25rd1UteVJLa3hMSHNvZS1nSEdXUlYyQlNBalM3MDFpb3l3NEZyUmpSd0xYTzRpUFJSQ2RSc2RQVE1GTXppbV9IeGVDNWh1NWYwbnRYV2QwWEwwSm10V2VfNFE?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Magdeburg",
+      "event_stage": "spielbericht",
+      "main_teams": [
+        "Bielefeld",
+        "Magdeburg"
+      ],
+      "main_players": [
+        "Felipe Chávez",
+        "Emmanuel Iyoha",
+        "Jonas Kersken"
+      ],
+      "summary": "Der 1. FC Magdeburg gewinnt bei Arminia Bielefeld 2:1 und springt auf Relegationsplatz drei. Bielefelds Torwart Jonas Kersken musste nach einem Kopftreffer ausgewechselt werden.",
+      "one_sentence_summary": "Der 1.",
+      "schluessel": "felipe chavez|spiel"
+    },
+    "published_at": "2026-11-20T21:04:40.638174",
+    "source": "sportschau.de"
+  },
+  {
+    "id": "f2ef545c5f",
+    "generated_title": "Kiel vor Kniat-Debüt: Kaprálik fällt mit Mittelfußbruch aus",
+    "original_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdEhUdlgxWUhtQkVlektHQVRNd0YwQ1pNY2tsZGJTSUkwdU9MRkhGUEduUUpLRzdyWVpBYm5VNnRmZm9oelFiRDNKYUY2OHpzNm4yWU40X3htcFRIWFJKeDF1bklyVmFrYk8xdVBtdHVSa09LX2trUlZrR0FqR3V3QVA0bGNJY2ZZUktMNm5iSGNoeWhIYzN2Q1hVa3JGN2xhNVdFWENxenk3UHQzX1JaSFpR0gG4AkFVX3lxTE1UTXFrMFkxOHprZTN4bk5ZUHZTRjZrY282Vy15TnFGZTZ5b2VhSGMzem1SZ25BejdNVEdUOGFvUnhSVWJHdVRCZElBVGdrVVl3YlA1RnBlUjFHd09WOUJxNEstaEFXR25WdG1DeVpuM3ZldUx0YXctczNhN0ZKOU40dS1DMmRtcEdWa1FmMzMtRnZVT0RZYXluaFRpRTg2Z3lkSlVHREgyTjlfWEI2YzBrTXUwb0l3RHFHMjBTU1A5UERIY1h1OTdsdnRGT1R0ZE9SeWp2WDc2QnFvckc1ZU0xazlwVzJhNkJhRVFmTEhTR2NpSy1hdmF5N28xcGZzRnR1SmFKcGhUQURGTlpTUXZFc0JDNmpFQ0RMNUstSWlyTlk1WHlkS0R3RndxWE02WU1CcGpFd1pqWA?oc=5",
+    "fingerprint": {
+      "event_type": "verletzung",
+      "main_club": "Kiel",
+      "event_stage": "verletzung",
+      "main_teams": [
+        "Kiel",
+        "Wolfsburg"
+      ],
+      "main_players": [
+        "Adrián Kaprálik",
+        "Mitch Kniat"
+      ],
+      "summary": "Kiels Adrián Kaprálik hat sich bei der slowakischen Nationalmannschaft einen Mittelfußbruch zugezogen und fällt voraussichtlich bis zum Jahresende aus. Vor dem Pflichtspieldebüt von Trainer Mitch Kniat in Wolfsburg sind auch Alidou und Schonlau fraglich.",
+      "one_sentence_summary": "Kiels Adrián Kaprálik hat sich bei der slowakischen Nationalmannschaft einen Mittelfußbruch zugezogen und fällt voraussichtlich bis zum Jahresende aus.",
+      "schluessel": "adrian kapralik|verletzung"
+    },
+    "published_at": "2026-11-20T21:04:40.690175",
+    "source": "HL-SPORTS"
   }
 ]
