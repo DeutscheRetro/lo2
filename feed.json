@@ -1,5 +1,93 @@
 [
   {
+    "id": "c23a312d35",
+    "titel": "Darmstadt: Fernie warnt vor dem Schlafwandeln im Abstiegskampf",
+    "kategorie": "interview",
+    "badge": "Interview",
+    "badge_bg": "#1976d2",
+    "badge_fg": "#fff",
+    "datum": "20.11.2026 15:05",
+    "wappen_url": "logos/darmstadt.png",
+    "vereine": [
+      "Darmstadt",
+      "Heidenheim"
+    ],
+    "anriss": "Darmstadts Geschäftsführer Sport Paul Fernie sieht den Zweitligisten im Abstiegskampf und warnt vor Selbstzufriedenheit. Vor dem Heimspiel gegen den 1. FC Heidenheim am Freitagabend (18.30 Uhr) stellte er sich im Gespräch mit der F.A.Z. hinter Trainer Florian Kohfeldt. „Es gibt viele Beispiele, in denen Mannschaften",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Darmstadt",
+    "pfad": "artikel/darmstadt-fernie-warnt-vor-dem-schlafwandeln-im-abstiegskampf-c23a312d35.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "recht",
+      "frage": "Hat Fernie recht, dass nicht einer allein schuld ist?",
+      "antworten": [
+        "Ja",
+        "Nein"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "93d229dca7",
+    "titel": "Darmstadt gegen Heidenheim ohne vier Spieler, Papela wieder eine Option",
+    "kategorie": "aufstellung",
+    "badge": "Aufstellung",
+    "badge_bg": "#2e7d32",
+    "badge_fg": "#fff",
+    "datum": "20.11.2026 15:04",
+    "wappen_url": "logos/darmstadt.png",
+    "vereine": [
+      "Darmstadt",
+      "Heidenheim"
+    ],
+    "anriss": "Der SV Darmstadt 98 muss im Freitagsspiel gegen den 1. FC Heidenheim am Böllenfalltor auf vier Spieler verzichten. Trainer Florian Kohfeldt informierte vor der Partie über die Ausfälle. Marcel Schuhen, Patric Pfeiffer, Nicolas Verkooijen und Luca Marseiler gehören nach Angaben des Vereins nicht zum Kader.",
+    "spielerstatus": [
+      {
+        "spieler": "Schuhen",
+        "klub": "Darmstadt",
+        "status": "faellt_aus",
+        "grund": "gehört nicht zum Kader"
+      },
+      {
+        "spieler": "Pfeiffer",
+        "klub": "Darmstadt",
+        "status": "faellt_aus",
+        "grund": "gehört nicht zum Kader"
+      },
+      {
+        "spieler": "Verkooijen",
+        "klub": "Darmstadt",
+        "status": "faellt_aus",
+        "grund": "gehört nicht zum Kader"
+      },
+      {
+        "spieler": "Marseiler",
+        "klub": "Darmstadt",
+        "status": "faellt_aus",
+        "grund": "gehört nicht zum Kader"
+      },
+      {
+        "spieler": "Papela",
+        "klub": "Darmstadt",
+        "status": "spielt",
+        "grund": "zurück im Mannschaftstraining"
+      },
+      {
+        "spieler": "Nürnberger",
+        "klub": "Darmstadt",
+        "status": "fraglich",
+        "grund": "Entscheidung nach Abschlusstraining"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Darmstadt",
+    "pfad": "artikel/darmstadt-gegen-heidenheim-ohne-vier-spieler-papela-wieder-eine-option-93d229dca7.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
     "id": "77fb292d2c",
     "titel": "Dresdens Keller nach Gehirnerschütterung zurück im Mannschaftstraining",
     "kategorie": "verletzung",

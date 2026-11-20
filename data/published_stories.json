@@ -3826,5 +3826,52 @@
     },
     "published_at": "2026-11-20T12:05:31.674771",
     "source": "BILD"
+  },
+  {
+    "id": "93d229dca7",
+    "generated_title": "Darmstadt gegen Heidenheim ohne vier Spieler, Papela wieder eine Option",
+    "original_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOamFwdno0b2lrbTNuS2RnLUVwTEUwR2p5VUROWlpqcGxuc0c2c2RBeTZSWHNBbWxOV2JJdkFJVjRadzE4eVZVYUpOaXV0V2NXLXMtTXZDd3Y3ektadG1TTlJUT0tiTGloSVZVVkdVcF8xZGxvbEpTWjZGYWY2aTJnVnZTSE0yVkVDNTdndG1zeGxHSWllVlg2MGJYNng3QkpCamJvUXhMTC1tZw?oc=5",
+    "fingerprint": {
+      "event_type": "aufstellung",
+      "main_club": "Darmstadt",
+      "event_stage": "kader",
+      "main_teams": [
+        "Darmstadt",
+        "Heidenheim"
+      ],
+      "main_players": [
+        "Florian Kohfeldt",
+        "Merveille Papela",
+        "Fabian Nürnberger"
+      ],
+      "summary": "Darmstadt muss gegen Heidenheim auf Schuhen, Pfeiffer, Verkooijen und Marseiler verzichten. Trainer Florian Kohfeldt fordert mehr Ballbesitz und Vorsicht bei Heidenheims Standards.",
+      "one_sentence_summary": "Darmstadt muss gegen Heidenheim auf Schuhen, Pfeiffer, Verkooijen und Marseiler verzichten.",
+      "schluessel": "florian kohfeldt|kader"
+    },
+    "published_at": "2026-11-20T15:05:46.849888",
+    "source": "Wochenblatt Reporter"
+  },
+  {
+    "id": "c23a312d35",
+    "generated_title": "Darmstadt: Fernie warnt vor dem Schlafwandeln im Abstiegskampf",
+    "original_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYjJyRVBGTVVhMmxBUVRqd1BuNHBQdUJYOGhYMWhycVdmWjY4VEV5alh6Q1pIQTlnMjZ6cXhfdzJ1bXpDd1ZrRm9XWXB3SE5SODVkQl8xNTI0TWVQYzYzZ2R5UEN1d205VEJNaElSaXVueTlYaFhFWGJISzBHOU1BeFplUDBiVWtkR2R2aHdINGtEUUJmblZGcHhRbENHb09JX05HWHZQd1UydC1DemZteXliRXpjTHQyMklnS0ZlYlJxcEVHZm9oZF9oTDRYbXNZU1BzTlRrZUQ0azF3RmZIX2Nnaw?oc=5",
+    "fingerprint": {
+      "event_type": "interview",
+      "main_club": "Darmstadt",
+      "event_stage": "sonstiges",
+      "main_teams": [
+        "Darmstadt",
+        "Heidenheim"
+      ],
+      "main_players": [
+        "Paul Fernie",
+        "Florian Kohfeldt"
+      ],
+      "summary": "Darmstadts Sportchef Paul Fernie stellt sich vor dem Heimspiel gegen Heidenheim hinter Trainer Florian Kohfeldt. Er warnt vor Schlafwandeln im Abstiegskampf, der Klub steht auf Rang 17.",
+      "one_sentence_summary": "Darmstadts Sportchef Paul Fernie stellt sich vor dem Heimspiel gegen Heidenheim hinter Trainer Florian Kohfeldt.",
+      "schluessel": "paul fernie|sonstiges"
+    },
+    "published_at": "2026-11-20T15:05:46.904215",
+    "source": "FAZ"
   }
 ]
