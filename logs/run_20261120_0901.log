@@ -1,0 +1,143 @@
+2026-11-20 09:01:19,221 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 1 passende Treffer
+2026-11-20 09:01:19,221 INFO S7 Ersatzquelle liefert Text (120 Wörter, 1 Quellen): Kimmich nach Rückkehr: Hier am absolut richtigen Ort
+2026-11-20 09:01:19,221 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 0 passende Treffer
+2026-11-20 09:01:19,221 INFO FinalCheck SKIP: borussia mönchengladbach/{'max muster'} stage=geruecht bereits in Archiv
+2026-11-20 09:01:19,221 INFO FinalCheck SKIP: borussia mönchengladbach/set() stage=geruecht bereits in Archiv
+2026-11-20 09:01:26,334 INFO 💶 Budget: dieser Lauf 0.141 $ | heute 0.00 $ | Monat 0.22 / 8 $
+2026-11-20 09:01:26,345 INFO URL-Cache geladen: 12116 bekannte URLs (letzte 30 Tage)
+2026-11-20 09:01:26,345 INFO === LO Generator startet – max. 50 Artikel ===
+2026-11-20 09:01:26,345 INFO Feed: https://newsfeed.kicker.de/news/2-bundesliga
+2026-11-20 09:01:26,607 WARNING Spielerliste nicht verfügbar: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-20 09:01:26,607 INFO BL-Spielerliste geladen: 0 Namen
+2026-11-20 09:01:26,607 INFO S3 keyword miss: Franke und Meffert vor Meilenstein: Die aktuellen Rekordspie
+2026-11-20 09:01:26,608 INFO Feed: https://www.sport.de/rss/news/
+2026-11-20 09:01:26,951 INFO Feed: https://www.11freunde.de/feed
+2026-11-20 09:01:27,991 INFO Feed: https://news.google.com/rss/search?q=%222.+Bundesliga%22&hl=de&gl=DE&ceid=DE:de
+2026-11-20 09:01:28,338 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Verletzung+Ausfall+gesperrt&hl=de&gl=DE&ceid=DE:de
+2026-11-20 09:01:28,589 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Transfer+Wechsel+verpflichtet&hl=de&gl=DE&ceid=DE:de
+2026-11-20 09:01:28,854 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Ger%C3%BCcht+Interesse+Angebot&hl=de&gl=DE&ceid=DE:de
+2026-11-20 09:01:29,169 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Vertrag+verl%C3%A4ngert+abl%C3%B6sefrei&hl=de&gl=DE&ceid=DE:de
+2026-11-20 09:01:29,456 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Trainer+Entlassung&hl=de&gl=DE&ceid=DE:de
+2026-11-20 09:01:29,724 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Heidenheim%22+OR+Heidenheim+FCH+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 09:01:30,151 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Kaiserslautern%22+OR+%22FCK%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 09:01:30,435 INFO S3 keyword miss: FCK II ruft das Kel­ler­du­ell in Ulm zum Top-​Spiel aus
+2026-11-20 09:01:30,436 INFO S3 keyword miss: (k+) Keiner sprintet mehr: Die neue Intensität beim FCK
+2026-11-20 09:01:30,437 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Magdeburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 09:01:30,813 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+N%C3%BCrnberg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 09:01:31,092 INFO Feed: https://news.google.com/rss/search?q=%22Arminia+Bielefeld%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 09:01:31,415 INFO Feed: https://news.google.com/rss/search?q=%22Dynamo+Dresden%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 09:01:31,717 INFO Feed: https://news.google.com/rss/search?q=%22Eintracht+Braunschweig%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 09:01:31,973 INFO S2 kein BL-Klub im Titel: Großer Abwehrumbau beim BVB? Book nimmt Zweitliga-Juwel ins 
+2026-11-20 09:01:31,973 INFO Feed: https://news.google.com/rss/search?q=%22Energie+Cottbus%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 09:01:32,225 INFO Feed: https://news.google.com/rss/search?q=%22FC+St.+Pauli%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 09:01:32,517 INFO Feed: https://news.google.com/rss/search?q=%22Hannover+96%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 09:01:33,015 INFO Feed: https://news.google.com/rss/search?q=%22Hertha+BSC%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 09:01:33,338 INFO S2 kein BL-Klub im Titel: FC Bayern München Heimspiele: Kaum Samstag 15.30 Uhr – Ärger
+2026-11-20 09:01:33,339 INFO S2 kein BL-Klub im Titel: Günstige Lösung: BVB hat drei Zweitliga-Profis im Blick
+2026-11-20 09:01:33,339 INFO S2 kein BL-Klub im Titel: Verstärkung aus der 2. Liga? Borussia Dortmund hat offenbar 
+2026-11-20 09:01:33,339 INFO Feed: https://news.google.com/rss/search?q=%22Holstein+Kiel%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 09:01:33,678 INFO Feed: https://news.google.com/rss/search?q=%22Karlsruher+SC%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 09:01:33,968 INFO Feed: https://news.google.com/rss/search?q=%22Greuther+F%C3%BCrth%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 09:01:34,254 INFO Feed: https://news.google.com/rss/search?q=%22Darmstadt+98%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 09:01:34,551 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Bochum%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 09:01:34,799 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Osnabr%C3%BCck%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 09:01:35,193 INFO S2 blacklist: 2. Liga 26/27: Live-Übertragung im Fernsehen oder Stream – l
+2026-11-20 09:01:35,194 INFO S2 blacklist: Übertragung der 3. Liga 26/27: Welche Spiele laufen im Free-
+2026-11-20 09:01:35,196 INFO S3 keyword miss: 2. Bundesliga 26/27: Alle Infos zum Spielplan und zu den Tei
+2026-11-20 09:01:35,197 INFO S3 keyword miss: Antisemitismus-Vorwürfe: NFL sperrt Profi Nacua
+2026-11-20 09:01:35,198 INFO S3 keyword miss: Erster Touchdown für Deutschen Klein: Texans schlagen Colts
+2026-11-20 09:01:35,200 INFO S3 keyword miss: McDavids Serie endet: Draisaitls Oilers verlieren in Tampa
+2026-11-20 09:01:35,201 INFO S3 keyword miss: 15 Millionen für einen Teenager? JJ Gabriel steht vor Unters
+2026-11-20 09:01:35,202 INFO S2 kein BL-Klub im Titel: FC Bayern München – 1. FC Köln: Wett-Tipp, Prognose & Quoten
+2026-11-20 09:01:35,203 INFO S3 keyword miss: Tabakovic fällt aus, Salzburg pokert: Wer soll die Bullen im
+2026-11-20 09:01:35,203 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Wolfsburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-20 09:01:35,481 INFO Feed: https://newsfeed.kicker.de/team/1-fc-heidenheim
+2026-11-20 09:01:35,521 INFO Feed: https://newsfeed.kicker.de/team/1-fc-nuernberg
+2026-11-20 09:01:35,666 INFO Feed: https://newsfeed.kicker.de/team/arminia-bielefeld
+2026-11-20 09:01:35,807 INFO Feed: https://newsfeed.kicker.de/team/dynamo-dresden
+2026-11-20 09:01:35,943 INFO Feed: https://newsfeed.kicker.de/team/eintracht-braunschweig
+2026-11-20 09:01:36,081 INFO Feed: https://newsfeed.kicker.de/team/fc-st-pauli
+2026-11-20 09:01:36,120 INFO Feed: https://newsfeed.kicker.de/team/hannover-96
+2026-11-20 09:01:36,260 INFO Feed: https://newsfeed.kicker.de/team/hertha-bsc
+2026-11-20 09:01:36,398 INFO Feed: https://newsfeed.kicker.de/team/holstein-kiel
+2026-11-20 09:01:36,537 INFO Feed: https://newsfeed.kicker.de/team/vfl-bochum
+2026-11-20 09:01:36,676 INFO Feed: https://newsfeed.kicker.de/team/vfl-osnabrueck
+2026-11-20 09:01:36,725 INFO Eingelesen: 34 Schlagzeilen nach den Gratis-Filtern
+2026-11-20 09:01:36,754 INFO S5 Randthema: Grodowski vs. Zukowski: Die kuriose Bilanz der Zweitliga-Torjäger
+2026-11-20 09:01:36,754 INFO S5 Randthema: Bei uns gibt’s heute Morgen Eindrücke vom Weihnachtsmarkt & Tickets fü
+2026-11-20 09:01:36,755 INFO S5 Sammelartikel: Bielefeld kompakt: Bielefeld im Ausnahmezustand: GTA VI, René Casselly
+2026-11-20 09:01:36,755 INFO S5 Sammelartikel: Bielefeld kompakt: René Cassellys „Flic Flac“, Weihnachtsmarkt startet
+2026-11-20 09:01:36,755 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: "Eine Gehirnerschütterung ist kein Spaß": Dynamo-Ass zurück im Trainin
+2026-11-20 09:01:36,757 INFO S5 Randthema: Nach „Zurück zur SpVgg Fürth“: Martin Bauer aus Vestenbergsgreuth stei
+2026-11-20 09:01:36,757 INFO S5: 27 neue Geschichten, 0 schon berichtet, 0 zu wartenden Geschichten ergänzt, 13 warten
+2026-11-20 09:02:54,028 INFO S6 aussortiert (prio_0): 2. Bundesliga im TV: Wer zeigt FCK- Dresden live am Sonntag?
+2026-11-20 09:02:54,029 INFO S6 aussortiert (prio_1): Nürnberg vs. Braunschweig Tipp, KI Prognose & Quoten 21.11.2026 - 2. B
+2026-11-20 09:02:54,759 INFO S7 kein Volltext (too_short_8_words): Dynamo Dresden: Thomas Keller trainiert wieder nach Gehirner
+2026-11-20 09:02:55,054 INFO S7 Ersatzquellen für "Dynamo Dresden: Thomas Keller trainiert wieder nac": 1 passende Treffer
+2026-11-20 09:02:55,714 INFO S7 kein Volltext (too_short_8_words): Dynamo Dresden: Thomas Keller kehrt nach Gehirnerschütterung
+2026-11-20 09:02:55,714 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Dynamo Dresden: Thomas Keller trainiert wieder nach Gehirner
+2026-11-20 09:02:59,881 INFO S6.5 schon berichtet (Magdeburg gastiert am Freitagabend bei Armini): Der Freitag soll für Arminia ein Faktor sein
+2026-11-20 09:03:00,569 INFO S7 kein Volltext (too_short_37_words): „Drunter und drüber“: Nick Otto hat nicht die besten Erinner
+2026-11-20 09:03:00,784 INFO S7 Ersatzquellen für "„Drunter und drüber“: Nick Otto hat nicht die best": 0 passende Treffer
+2026-11-20 09:03:00,784 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): „Drunter und drüber“: Nick Otto hat nicht die besten Erinner
+2026-11-20 09:03:01,806 INFO S7 kein Volltext (too_short_18_words): Mit neuem Cheftrainer: Holstein Kiel stellt sich Wolfsburg
+2026-11-20 09:03:02,146 INFO S7 Ersatzquellen für "Mit neuem Cheftrainer: Holstein Kiel stellt sich W": 0 passende Treffer
+2026-11-20 09:03:02,146 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Mit neuem Cheftrainer: Holstein Kiel stellt sich Wolfsburg
+2026-11-20 09:03:02,907 INFO S7 kein Volltext (too_short_8_words): Was Mitch Kniat bei Holstein Kiel in den ersten zehn Tagen v
+2026-11-20 09:03:03,141 INFO S7 Ersatzquellen für "Was Mitch Kniat bei Holstein Kiel in den ersten ze": 0 passende Treffer
+2026-11-20 09:03:03,141 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Was Mitch Kniat bei Holstein Kiel in den ersten zehn Tagen v
+2026-11-20 09:03:03,681 INFO S7 kein Volltext (too_short_65_words): Bielefeld – FCM: Niemand erobert die Alm? Club will das ände
+2026-11-20 09:03:03,928 INFO S7 Ersatzquellen für "Bielefeld – FCM: Niemand erobert die Alm? Club wil": 0 passende Treffer
+2026-11-20 09:03:03,928 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Bielefeld – FCM: Niemand erobert die Alm? Club will das ände
+2026-11-20 09:03:04,316 INFO S7 kein Volltext (too_short_75_words): FC St. Pauli: Seit vier Spielen ohne Sieg, gegen Bochum soll
+2026-11-20 09:03:04,558 INFO S7 Ersatzquellen für "FC St. Pauli: Seit vier Spielen ohne Sieg, gegen B": 0 passende Treffer
+2026-11-20 09:03:04,558 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): FC St. Pauli: Seit vier Spielen ohne Sieg, gegen Bochum soll
+2026-11-20 09:03:06,318 INFO S7 kein Volltext (too_short_33_words): Sandro Tremoulet zwischen bewegender Afrika-Erfahrung und Ko
+2026-11-20 09:03:06,555 INFO S7 Ersatzquellen für "Sandro Tremoulet zwischen bewegender Afrika-Erfahr": 0 passende Treffer
+2026-11-20 09:03:06,555 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Sandro Tremoulet zwischen bewegender Afrika-Erfahrung und Ko
+2026-11-20 09:03:06,807 WARNING discarding data: None
+2026-11-20 09:03:06,808 INFO S7 kein Volltext (trafilatura_returned_empty): Winter-Wechsel möglich? VfL Wolfsburg beobachtet offenbar Ka
+2026-11-20 09:03:07,060 INFO S7 Ersatzquellen für "Winter-Wechsel möglich? VfL Wolfsburg beobachtet o": 0 passende Treffer
+2026-11-20 09:03:07,060 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Winter-Wechsel möglich? VfL Wolfsburg beobachtet offenbar Ka
+2026-11-20 09:03:07,648 INFO S7 kein Volltext (too_short_15_words): Vor dem Spiel beim KSC: 1. FC Heidenheim will in Darmstadt M
+2026-11-20 09:03:07,875 INFO S7 Ersatzquellen für "Vor dem Spiel beim KSC: 1. FC Heidenheim will in D": 0 passende Treffer
+2026-11-20 09:03:07,875 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Vor dem Spiel beim KSC: 1. FC Heidenheim will in Darmstadt M
+2026-11-20 09:03:08,773 INFO S7 kein Volltext (too_short_39_words): RE-LIVE: PK vor Kiel
+2026-11-20 09:03:09,011 INFO S7 Ersatzquellen für "RE-LIVE: PK vor Kiel": 0 passende Treffer
+2026-11-20 09:03:09,011 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): RE-LIVE: PK vor Kiel
+2026-11-20 09:03:09,916 INFO S7 kein Volltext (seite_zu_alt): FC St. Pauli - Vorbericht | SpVgg Greuther Fürth
+2026-11-20 09:03:10,129 INFO S7 Ersatzquellen für "FC St. Pauli - Vorbericht | SpVgg Greuther Fürth": 0 passende Treffer
+2026-11-20 09:03:10,129 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): FC St. Pauli - Vorbericht | SpVgg Greuther Fürth
+2026-11-20 09:03:10,464 ERROR lxml parsing failed: Document is empty
+2026-11-20 09:03:10,464 ERROR lxml parser bytestring Document is empty
+2026-11-20 09:03:10,464 ERROR lxml parsing failed: Document is empty
+2026-11-20 09:03:10,464 ERROR lxml parser bytestring Document is empty
+2026-11-20 09:03:10,464 ERROR empty HTML tree: None
+2026-11-20 09:03:10,464 WARNING discarding data: None
+2026-11-20 09:03:10,465 INFO S7 kein Volltext (trafilatura_returned_empty): Top-Torschütze Scobel über Nürnbergs Aufstiegschancen: „Auf 
+2026-11-20 09:03:10,676 INFO S7 Ersatzquellen für "Top-Torschütze Scobel über Nürnbergs Aufstiegschan": 1 passende Treffer
+2026-11-20 09:03:11,221 ERROR lxml parsing failed: Document is empty
+2026-11-20 09:03:11,221 ERROR lxml parser bytestring Document is empty
+2026-11-20 09:03:11,221 ERROR lxml parsing failed: Document is empty
+2026-11-20 09:03:11,221 ERROR lxml parser bytestring Document is empty
+2026-11-20 09:03:11,222 ERROR empty HTML tree: None
+2026-11-20 09:03:11,222 WARNING discarding data: None
+2026-11-20 09:03:11,222 INFO S7 kein Volltext (trafilatura_returned_empty): Top-Torschütze Scobel über Nürnbergs Aufstiegschancen: „Auf 
+2026-11-20 09:03:11,222 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Top-Torschütze Scobel über Nürnbergs Aufstiegschancen: „Auf 
+2026-11-20 09:03:11,332 ERROR lxml parsing failed: Document is empty
+2026-11-20 09:03:11,332 ERROR lxml parser bytestring Document is empty
+2026-11-20 09:03:11,332 ERROR lxml parsing failed: Document is empty
+2026-11-20 09:03:11,332 ERROR lxml parser bytestring Document is empty
+2026-11-20 09:03:11,332 ERROR empty HTML tree: None
+2026-11-20 09:03:11,332 WARNING discarding data: None
+2026-11-20 09:03:11,333 INFO S7 kein Volltext (trafilatura_returned_empty): Top-Torschütze Scobel über Nürnbergs Aufstiegschancen: „Auf 
+2026-11-20 09:03:11,362 INFO S7 Ersatzquellen für "Top-Torschütze Scobel über Nürnbergs Aufstiegschan": 0 passende Treffer
+2026-11-20 09:03:11,362 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Top-Torschütze Scobel über Nürnbergs Aufstiegschancen: „Auf 
+2026-11-20 09:03:11,364 INFO S9.5 FinalCheck: 0/0 durch
+2026-11-20 09:03:11,370 WARNING Sitemap ohne Spielerseiten: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-20 09:03:11,373 INFO 💶 Kosten: dieser Lauf 0.000 $ (Budget 0.141 $) | heute 0.00 $ | Monat 0.22 / 8 $ | konferenz (abo) 1× 0.000 $, dublette (abo) 1× 0.000 $
+2026-11-20 09:03:11,373 INFO 🎫 Abo-Verbrauch: 4,696 Tokens rein (davon Cache gelesen 0), 11,092 raus, API-Gegenwert 0.06 $ | konferenz 1×: 3,664/11,089, dublette 1×: 1,032/3
+2026-11-20 09:03:11,383 INFO Feeds: 38/38 begonnen, nächster Lauf startet bei Nr. 0
+2026-11-20 09:03:11,383 INFO URL-Cache gespeichert: 12166 URLs
+2026-11-20 09:03:11,383 INFO === Fertig. 0 neue Artikel. feed.json: 170 ===
+2026-11-20 09:03:11,383 INFO Stats: {"ts": "20261120_0901", "ingested": 50, "s2_pre_filter": 7, "s3_relevance": 9, "s4_dedup_early": 0, "gesammelt": 34, "geschichten_neu": 27, "s5_archiv_doppelt": 0, "s5_zusammengefuehrt": 0, "s6_aussortiert": 2, "s7_geschrieben": 0, "s7_verworfen": 1, "s5_fulltext_fail": 13, "s8_qa_rejected": 0, "published": 0, "s5_randthema": 5, "s5_ohne_bezug": 1, "kosten": {"lauf_usd": 0.0, "lauf_budget_usd": 0.1414, "heute_usd": 0.0, "monat_usd": 0.2247, "monatsbudget_usd": 8.0, "aufrufe": {"konferenz (abo)": {"anzahl": 1, "usd": 0.0}, "dublette (abo)": {"anzahl": 1, "usd": 0.0}}, "guthaben_leer": false, "abo": true, "abo_tokens": {"konferenz": {"aufrufe": 1, "ein": 3664, "cache_schreiben": 0, "cache_lesen": 0, "aus": 11089, "api_wert_usd": 0.0591}, "dublette": {"aufrufe": 1, "ein": 2, "cache_schreiben": 1030, "cache_lesen": 0, "aus": 3, "api_wert_usd": 0.0042}}}}
