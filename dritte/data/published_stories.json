@@ -1533,5 +1533,52 @@
     },
     "published_at": "2026-11-21T02:02:49.734883",
     "source": "n-tv.de"
+  },
+  {
+    "id": "45eca3fee5",
+    "generated_title": "Hermes trifft doppelt: Regensburg schlägt Würzburg 2:1",
+    "original_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Eb3RkNi1LcjhHT1N3ajlMTHFPeERhbi1jQzJIOW03emd0Rkx3WTBvekNXZEFxS3pOWXJlYlREdmdsWlhKYnFLZlZseW9qMmhpTVoxZk13ZzZEWldOLU9xcDF3dE1MVUgwV0FNRDB4ZFcxRUVjRno0?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Regensburg",
+      "event_stage": "spielbericht",
+      "main_teams": [
+        "Regensburg",
+        "Würzburg"
+      ],
+      "main_players": [
+        "Lucas Hermes",
+        "Sascha Hildmann"
+      ],
+      "summary": "Jahn Regensburg gewinnt am 14. Spieltag 2:1 gegen Würzburg, beide Tore erzielt Lucas Hermes. Regensburg steht nun mit 16 Punkten auf Rang 14, Würzburg mit 14 Punkten auf Platz 16.",
+      "one_sentence_summary": "Jahn Regensburg gewinnt am 14.",
+      "schluessel": "lucas hermes|spiel"
+    },
+    "published_at": "2026-11-21T16:54:57.598132",
+    "source": "AOL.de"
+  },
+  {
+    "id": "212305520f",
+    "generated_title": "Hoffenheim II überrollt Münster mit 4:0",
+    "original_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYS1yMHFPQlV5TFV0dmdzajVwR0xuU2xMekVSQ0lBek90dkZyVEhEc2pPcDNJaWg3TnItVWRhZXhnMGhnaWFndTczV2c5M2pXTzZSNmZadm1nNWFOQnFacTMtOGw0OWVfS2NHem1ZdzVsSW01VHVqNjFQNk1NUFg5amh5bFR1RXFTOE1rWTFVVXJDbDFlcGNFczF3SEVORm1PMkp6TVFVNXBUaTdDTkNDbVkwNmZhNGtZeVFTZlpFbS1GWkxjbjVHaDhzSnJMNTI5S0d3SkpqOWdyc2pCNHJ2ZkNERUtYd2YwZlh6X2lKcHZpUQ?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Hoffenheim II",
+      "event_stage": "spielbericht",
+      "main_teams": [
+        "Hoffenheim II",
+        "Münster"
+      ],
+      "main_players": [
+        "Sean Dulic",
+        "Blessing Makanda",
+        "Yasin Zor"
+      ],
+      "summary": "Hoffenheim II besiegt Preußen Münster in der 3. Liga mit 4:0. Dulic, Makanda, Fields und Zor treffen für die Gastgeber.",
+      "one_sentence_summary": "Hoffenheim II besiegt Preußen Münster in der 3.",
+      "schluessel": "sean dulic|spiel"
+    },
+    "published_at": "2026-11-21T16:54:57.655665",
+    "source": "WELT"
   }
 ]

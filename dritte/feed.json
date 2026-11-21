@@ -1,5 +1,65 @@
 [
   {
+    "id": "45eca3fee5",
+    "titel": "Hermes trifft doppelt: Regensburg schlägt Würzburg 2:1",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "21.11.2026 16:54",
+    "wappen_url": "logos/regensburg.png",
+    "vereine": [
+      "Regensburg",
+      "Würzburg"
+    ],
+    "anriss": "Der SSV Jahn Regensburg hat am 14. Spieltag der 3. Liga den FC Würzburger Kickers mit 2:1 geschlagen. Lucas Hermes erzielte beide Treffer der Gastgeber im Jahnstadion. Die Partie am Samstag war laut Bericht ein knapper und glücklicher Heimsieg. Trainer Sascha Hildmann hatte Hermes im",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Regensburg",
+    "pfad": "artikel/hermes-trifft-doppelt-regensburg-schlaegt-wuerzburg-2-1-45eca3fee5.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "212305520f",
+    "titel": "Hoffenheim II überrollt Münster mit 4:0",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "21.11.2026 16:54",
+    "wappen_url": "logos/hoffenheim2.png",
+    "vereine": [
+      "Hoffenheim II",
+      "Münster"
+    ],
+    "anriss": "Hoffenheim II hat Preußen Münster in der 3. Liga mit 4:0 besiegt. Die Reserve der TSG entschied die Partie im Dietmar-Hopp-Stadion mit drei Toren zwischen der 47. und 53. Minute. Sean Dulic brachte die Gastgeber in der 32. Minute in Führung, mit diesem knappen Vorsprung",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Hoffenheim II",
+    "pfad": "artikel/hoffenheim-ii-ueberrollt-muenster-mit-4-0-212305520f.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    },
+    "n11": false
+  },
+  {
     "id": "e69c12fafd",
     "titel": "Saarbrücken testet vereinslosen Innenverteidiger Noel Bigo Atom",
     "kategorie": "transfer",

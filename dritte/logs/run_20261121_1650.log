@@ -1,0 +1,249 @@
+2026-11-21 16:50:41,752 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 1 passende Treffer
+2026-11-21 16:50:41,752 INFO S7 Ersatzquelle liefert Text (120 Wörter, 1 Quellen): Kimmich nach Rückkehr: Hier am absolut richtigen Ort
+2026-11-21 16:50:41,753 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 0 passende Treffer
+2026-11-21 16:50:41,753 INFO FinalCheck SKIP: borussia mönchengladbach/{'max muster'} stage=geruecht bereits in Archiv
+2026-11-21 16:50:41,753 INFO FinalCheck SKIP: borussia mönchengladbach/set() stage=geruecht bereits in Archiv
+2026-11-21 16:50:50,614 INFO 💶 Budget: dieser Lauf 0.000 $ | heute 0.00 $ | Monat 0.00 / 0 $
+2026-11-21 16:50:50,619 INFO URL-Cache geladen: 4065 bekannte URLs (letzte 30 Tage)
+2026-11-21 16:50:50,619 INFO === LO Generator startet – max. 50 Artikel ===
+2026-11-21 16:50:50,619 INFO Feed: https://newsfeed.kicker.de/news/3-liga
+2026-11-21 16:50:51,164 INFO Feed: https://www.sport.de/rss/news/
+2026-11-21 16:50:51,968 INFO Feed: https://www.11freunde.de/feed
+2026-11-21 16:50:53,336 WARNING Spielerliste nicht verfügbar: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-21 16:50:53,336 INFO BL-Spielerliste geladen: 0 Namen
+2026-11-21 16:50:53,336 INFO S3 keyword miss: Bundesliga: Das „Aktuelle Sportstudio“ ist Pflicht!
+2026-11-21 16:50:53,337 INFO S2 kein BL-Klub im Titel: Borussia Dortmund vs. Borussia Mönchengladbach: Die denkwürd
+2026-11-21 16:50:53,337 INFO Feed: https://news.google.com/rss/search?q=%223.+Liga%22&hl=de&gl=DE&ceid=DE:de
+2026-11-21 16:50:54,180 INFO S3 keyword miss: Regionalliga: Rot-Weiß Erfurt auf Aufstiegskurs - große Kuli
+2026-11-21 16:50:54,182 INFO S3 keyword miss: Regionalliga-Reform vor dem Aus? Vereinsboss erhebt schwere 
+2026-11-21 16:50:54,183 INFO S2 Liveticker übersprungen: Liveticker | SC Verl - Rot-Weiss Essen 0:3 | 14. Spieltag | 
+2026-11-21 16:50:54,183 INFO S2 Liveticker übersprungen: Liveticker | TSG Hoffenheim II - Preußen Münster 4:0 | 14. S
+2026-11-21 16:50:54,185 INFO S2 Liveticker übersprungen: Fußball: 3. Liga: Punkten die Würzburger Kickers in Regensbu
+2026-11-21 16:50:54,189 INFO S2 Liveticker übersprungen: Liveticker: SV Elversberg gegen SC Freiburg – Ballbesitz bis
+2026-11-21 16:50:54,189 INFO S2 Liveticker übersprungen: Live-Ticker zum Nachlesen: Schluss in der Arena – Fortuna fe
+2026-11-21 16:50:54,190 INFO S2 Liveticker übersprungen: Liveticker | Fortuna Köln - SV Meppen 2:1 | 14. Spieltag | 3
+2026-11-21 16:50:54,193 INFO S3 keyword miss: 3. Liga heute am Samstag: Fußball-Ergebnisse live & Tabelle 
+2026-11-21 16:50:54,194 INFO S2 Liveticker übersprungen: Liveticker | Alemannia Aachen - SV Waldhof Mannheim : | 14. 
+2026-11-21 16:50:54,194 INFO S2 blacklist: Aachen vs. Mannheim Tipp, Quoten, News, Prognose & TV-Übertr
+2026-11-21 16:50:54,194 INFO S2 blacklist: Alemannia Aachen gegen SV Waldhof Mannheim jetzt live im TV 
+2026-11-21 16:50:54,195 INFO S2 blacklist: Übertragung der 3. Liga 26/27: Welche Spiele laufen im Free-
+2026-11-21 16:50:54,198 INFO S2 blacklist: MSV Duisburg gegen Hansa Rostock live im TV und Stream: Hier
+2026-11-21 16:50:54,203 INFO S3 keyword miss: 3. Liga 2026/27: Termine und Spielplan der 19. Saison
+2026-11-21 16:50:54,204 INFO S2 blacklist: Fortuna Düsseldorf gegen SG Sonnenhof Großaspach jetzt live 
+2026-11-21 16:50:54,206 INFO S3 keyword miss: Angreifer im Duell mit Seeler-Enkel: Fortuna muss vor Drittl
+2026-11-21 16:50:54,208 INFO S2 blacklist: SC Verl gegen Rot-Weiss Essen jetzt live im TV und Stream: H
+2026-11-21 16:50:54,213 INFO S3 keyword miss: Auch Hurricanes gehen in 3. Liga
+2026-11-21 16:50:54,216 INFO S3 keyword miss: Schon vor Roths Trainer-Debüt: "Man spürt sofort seine große
+2026-11-21 16:50:54,218 INFO S2 blacklist: TV-Übertragung, Tickets und Co.: Alle Faninfos zu MSV gegen 
+2026-11-21 16:50:54,224 INFO S3 keyword miss: 2. Liga: Sandro Wagner rastet vor Freude aus - Klose-Team pa
+2026-11-21 16:50:54,224 INFO S2 blacklist: Rot-Weiss Essen: Beim Angstgegner SC Verl - so sieht die RWE
+2026-11-21 16:50:54,225 INFO S2 Liveticker übersprungen: Jetzt im Liveticker: SC Verl empfängt Rot-Weiss Essen im Kre
+2026-11-21 16:50:54,225 INFO S2 blacklist: U19-Nachwuchsliga: RWE bezwingt Primus BVB, MSV zieht in Mei
+2026-11-21 16:50:54,228 INFO S3 keyword miss: (k+) Lückenfüller oder Profi der Zukunft? Der schwierige Spa
+2026-11-21 16:50:54,231 INFO S2 kein BL-Klub im Titel: FCK empfängt Dynamo Dresden – 30-Millionen-Besucher-Marke au
+2026-11-21 16:50:54,232 INFO S2 blacklist: Verl gegen RWE heute live im Stream: So können Fans das Spie
+2026-11-21 16:50:54,235 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Verletzung+Ausfall+gesperrt&hl=de&gl=DE&ceid=DE:de
+2026-11-21 16:50:54,620 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Transfer+Wechsel+verpflichtet&hl=de&gl=DE&ceid=DE:de
+2026-11-21 16:50:55,014 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Ger%C3%BCcht+Interesse+Angebot&hl=de&gl=DE&ceid=DE:de
+2026-11-21 16:50:55,454 INFO S3 keyword miss: Wintertransferfenster naht: Das sind die Gerüchte um Zugänge
+2026-11-21 16:50:55,455 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Vertrag+verl%C3%A4ngert+abl%C3%B6sefrei&hl=de&gl=DE&ceid=DE:de
+2026-11-21 16:50:55,715 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Trainer+Entlassung&hl=de&gl=DE&ceid=DE:de
+2026-11-21 16:50:56,122 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Saarbr%C3%BCcken%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 16:50:56,565 INFO S2 blacklist: Spielereignisse | VfB Stuttgart - 1. FC Saarbrücken 5:1 | 12
+2026-11-21 16:50:56,566 INFO S2 blacklist: 1.FC Saarbrücken U19
+2026-11-21 16:50:56,567 INFO S3 keyword miss: Streit um Polizeikosten: Was bedeutet das für den FCS?
+2026-11-21 16:50:56,572 INFO S3 keyword miss: (U-19-DFB-Nachwuchsliga (Vorrunde))
+2026-11-21 16:50:56,574 INFO S3 keyword miss: Fußball-Bundesliga: Noch in der Nacht: Kane „erfolgreich ope
+2026-11-21 16:50:56,574 INFO S2 blacklist: (U-19-DFB-Nachwuchsliga (Vorrunde))
+2026-11-21 16:50:56,579 INFO Feed: https://news.google.com/rss/search?q=%22Alemannia+Aachen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 16:50:56,984 INFO S2 Liveticker übersprungen: Alemannia Aachen - Waldhof Mannheim Liveticker, 21.11.2026
+2026-11-21 16:50:56,987 INFO Feed: https://news.google.com/rss/search?q=%22FC+Ingolstadt%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 16:50:57,265 INFO S3 keyword miss: (U-19-DFB-Nachwuchsliga (Vorrunde))
+2026-11-21 16:50:57,266 INFO S2 blacklist: Spielereignisse | FC Augsburg - SpVgg Unterhaching 3:4 | 12.
+2026-11-21 16:50:57,268 INFO S3 keyword miss: Kombiwette des Tages – 22. November 2026 mit drei Tipps auf 
+2026-11-21 16:50:57,273 INFO Feed: https://news.google.com/rss/search?q=%22Fortuna+D%C3%BCsseldorf%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 16:50:57,687 INFO S2 blacklist: Live im TV und im Stream: Fortuna Düsseldorf gegen SG Sonnen
+2026-11-21 16:50:57,689 INFO S2 blacklist: Spielereignisse | Fortuna Düsseldorf - MSV Duisburg 1:2 | 12
+2026-11-21 16:50:57,696 INFO S3 keyword miss: Erst ein-, dann ausgewechselt: Starkes Eixler-Comeback in de
+2026-11-21 16:50:57,699 INFO S3 keyword miss: U-17-DFB-Nachwuchsliga (Vorrunde) 2026/27, 12. Spieltag
+2026-11-21 16:50:57,702 INFO S2 blacklist: Fortuna Düsseldorf gegen SG Sonnenhof Großaspach live im TV 
+2026-11-21 16:50:57,704 INFO S2 Liveticker übersprungen: Fortuna Düsseldorf - SG Sonnenhof Großaspach Liveticker, 21.
+2026-11-21 16:50:57,708 INFO S3 keyword miss: Diese Ex-Bundesliga-Stürmer könnte Fortuna sofort und ablöse
+2026-11-21 16:50:57,708 INFO Feed: https://news.google.com/rss/search?q=%22Fortuna+K%C3%B6ln%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 16:50:58,122 INFO S2 blacklist: Spielereignisse | 1. FSV Mainz 05 - Fortuna Köln 2:0 | 12. S
+2026-11-21 16:50:58,123 INFO S2 Liveticker übersprungen: Fortuna Köln - SV Meppen Liveticker, 21.11.2026
+2026-11-21 16:50:58,126 INFO Feed: https://news.google.com/rss/search?q=%22Hansa+Rostock%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 16:50:58,550 INFO S2 blacklist: Spielereignisse | Hertha BSC - Hansa Rostock 1:1 | 12. Spiel
+2026-11-21 16:50:58,553 INFO S3 keyword miss: Berliner AK jubelt nach Dreierpack, Optik Rathenow bleibt au
+2026-11-21 16:50:58,556 INFO S3 keyword miss: POL-NB: Zeugenaufruf nach Sachbeschädigung durch Graffiti in
+2026-11-21 16:50:58,558 INFO Feed: https://news.google.com/rss/search?q=%22Jahn+Regensburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 16:50:58,925 INFO S2 blacklist: U19 festigt Platz drei mit einem 3:0-Sieg über Jahn Regensbu
+2026-11-21 16:50:58,930 INFO S3 keyword miss: 3. Liga Tabelle: Fußball Ergebnisse, Daten, Spielplan
+2026-11-21 16:50:58,931 INFO S2 blacklist: Spielereignisse | 1860 München - Jahn Regensburg 3:0 | 12. S
+2026-11-21 16:50:58,931 INFO S2 blacklist: Spielereignisse | Jahn Regensburg - 1. FC Nürnberg 4:2 | 12.
+2026-11-21 16:50:58,933 INFO S2 Liveticker übersprungen: Liveticker: Der Jahn will einen Dreier im bayerischen Derby 
+2026-11-21 16:50:58,934 INFO S2 Liveticker übersprungen: Jahn Regensburg - Würzburger Kickers Liveticker, 21.11.2026
+2026-11-21 16:50:58,937 INFO Feed: https://news.google.com/rss/search?q=%22MSV+Duisburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 16:50:59,350 INFO S2 blacklist: Spielereignisse | MSV Duisburg - FC Schalke 04 0:1 | 12. Spi
+2026-11-21 16:50:59,351 INFO S2 blacklist: U17-Nachwuchsliga: Neun Tore zwischen BVB und RWE - Schalke 
+2026-11-21 16:50:59,353 INFO S3 keyword miss: Fussball Nationalmannschaft - Die Mannschaft, Bilder, Fußbal
+2026-11-21 16:50:59,355 INFO S3 keyword miss: Fussball Nationalmannschaft - Die Mannschaft, Bilder, Fußbal
+2026-11-21 16:50:59,355 INFO Feed: https://news.google.com/rss/search?q=%22Preu%C3%9Fen+M%C3%BCnster%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 16:50:59,903 INFO Feed: https://news.google.com/rss/search?q=%22Rot-Weiss+Essen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 16:51:00,281 INFO S2 blacklist: U19: 4:3-Wahnsinn! Rot-Weiss Essen fügt dem BVB die erste Sa
+2026-11-21 16:51:00,283 INFO S3 keyword miss: (U-17-DFB-Nachwuchsliga (Vorrunde))
+2026-11-21 16:51:00,287 INFO S2 blacklist: (U-19-DFB-Nachwuchsliga (Vorrunde))
+2026-11-21 16:51:00,291 INFO S2 Liveticker übersprungen: SC Verl - Rot-Weiss Essen Liveticker, 21.11.2026
+2026-11-21 16:51:00,293 INFO S2 blacklist: SC Verl - Rot-Weiss Essen im Live-Stream und TV: Bewährungsp
+2026-11-21 16:51:00,293 INFO S2 blacklist: Fußball heute live im TV kostenlos: SC Verl gegen Rot-Weiss 
+2026-11-21 16:51:00,295 INFO Feed: https://news.google.com/rss/search?q=%22SC+Verl%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 16:51:00,617 INFO Feed: https://news.google.com/rss/search?q=%22Sonnenhof+Gro%C3%9Faspach%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 16:51:00,907 INFO Feed: https://news.google.com/rss/search?q=%22SV+Meppen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 16:51:01,185 INFO S3 keyword miss: Wilhelmshaven will die Tabellenführung verteidigen
+2026-11-21 16:51:01,185 INFO S2 blacklist: Spielereignisse | SV Meppen - SC Paderborn 07 4:3 | 12. Spie
+2026-11-21 16:51:01,187 INFO Feed: https://news.google.com/rss/search?q=%22Waldhof+Mannheim%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 16:51:01,589 INFO Feed: https://news.google.com/rss/search?q=%22Wehen+Wiesbaden%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 16:51:01,985 INFO S3 keyword miss: U 15
+2026-11-21 16:51:01,987 INFO Feed: https://news.google.com/rss/search?q=%22Hoffenheim+II%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 16:51:02,282 INFO S2 Liveticker übersprungen: TSG Hoffenheim II - Preußen Münster Liveticker, 21.11.2026
+2026-11-21 16:51:02,285 INFO Feed: https://news.google.com/rss/search?q=%22TSV+Havelse%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 16:51:02,582 INFO Feed: https://news.google.com/rss/search?q=%22VfB+Stuttgart+II%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 16:51:02,955 INFO S2 kein BL-Klub im Titel: VfB Stuttgart: Vor dem Duell gegen die Gelsenkirchner - Die 
+2026-11-21 16:51:02,955 INFO Feed: https://news.google.com/rss/search?q=%22Viktoria+K%C3%B6ln%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 16:51:03,279 INFO Feed: https://news.google.com/rss/search?q=%22W%C3%BCrzburger+Kickers%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 16:51:03,611 INFO Feed: https://newsfeed.kicker.de/team/1-fc-saarbruecken
+2026-11-21 16:51:03,975 INFO Feed: https://newsfeed.kicker.de/team/alemannia-aachen
+2026-11-21 16:51:04,322 INFO Feed: https://newsfeed.kicker.de/team/fc-ingolstadt-04
+2026-11-21 16:51:04,709 INFO Feed: https://newsfeed.kicker.de/team/fortuna-duesseldorf
+2026-11-21 16:51:05,059 INFO Feed: https://newsfeed.kicker.de/team/hansa-rostock
+2026-11-21 16:51:05,269 INFO Feed: https://newsfeed.kicker.de/team/jahn-regensburg
+2026-11-21 16:51:05,487 INFO Feed: https://newsfeed.kicker.de/team/msv-duisburg
+2026-11-21 16:51:05,890 INFO Feed: https://newsfeed.kicker.de/team/preussen-muenster
+2026-11-21 16:51:06,114 INFO Feed: https://newsfeed.kicker.de/team/rot-weiss-essen
+2026-11-21 16:51:06,473 INFO Feed: https://newsfeed.kicker.de/team/sc-verl
+2026-11-21 16:51:06,708 INFO Feed: https://newsfeed.kicker.de/team/waldhof-mannheim
+2026-11-21 16:51:07,071 INFO Feed: https://newsfeed.kicker.de/team/sv-wehen-wiesbaden
+2026-11-21 16:51:07,286 INFO Feed: https://newsfeed.kicker.de/team/tsg-hoffenheim-ii
+2026-11-21 16:51:07,723 INFO Feed: https://newsfeed.kicker.de/team/tsv-havelse
+2026-11-21 16:51:08,303 INFO Feed: https://newsfeed.kicker.de/team/vfb-stuttgart-ii
+2026-11-21 16:51:08,527 INFO Feed: https://newsfeed.kicker.de/team/fc-viktoria-koeln
+2026-11-21 16:51:09,062 INFO Eingelesen: 115 Schlagzeilen nach den Gratis-Filtern
+2026-11-21 16:51:09,192 INFO S5 schon berichtet (Viktoria Köln überrollt Schlusslicht Havelse ): Spielschema | TSV Havelse - FC Viktoria Köln 1:6 | 14. Spiel
+2026-11-21 16:51:09,195 INFO S5 Randthema: Viktoria Köln: Tabellenplatz 1! News, Bilanz und Highlights der Saison
+2026-11-21 16:51:09,200 INFO S5: 106 neue Geschichten, 1 schon berichtet, 0 zu wartenden Geschichten ergänzt, 2 warten
+2026-11-21 16:54:12,009 INFO S6 aussortiert (prio_0): LIVE! Siege für Essen und Düsseldorf - Aachen empfängt Mannheim
+2026-11-21 16:54:12,009 INFO S6 aussortiert (prio_0): 3. Liga: Münster-Debakel gegen Hoffenheim, Düsseldorf feiert Befreiung
+2026-11-21 16:54:12,009 INFO S6 aussortiert (doppelt): Torfabrik Viktoria Köln schießt TSV Havelse ab – Offensive pulverisier
+2026-11-21 16:54:12,010 INFO S6 aussortiert (doppelt): Fortuna Düsseldorf krönt die Woche mit einem 3:1 Heimsieg gegen die SG
+2026-11-21 16:54:12,010 INFO S6 aussortiert (doppelt): SC Fortuna Köln - SV Meppen: Fortuna Köln beendet die schwarze Serie -
+2026-11-21 16:54:12,010 INFO S6 aussortiert (doppelt): SV Meppen gibt bei Fortuna Köln Führung ab und verliert nach Torwart-P
+2026-11-21 16:54:12,010 INFO S6 aussortiert (doppelt): TSV Havelse kassiert Klatsche gegen Tabellenführer Viktoria Köln
+2026-11-21 16:54:12,011 INFO S6 aussortiert (doppelt): RWE marschiert weiter: Vierter Sieg in Serie
+2026-11-21 16:54:12,011 INFO S6 aussortiert (prio_0): Vorschau: Sport im Westen live: Fußball 3. Liga, SC Verl - Rot-Weiss E
+2026-11-21 16:54:12,011 INFO S6 aussortiert (prio_0): Hier läuft Verl gegen Rot-Weiss Essen
+2026-11-21 16:54:12,011 INFO S6 aussortiert (doppelt): Fußball heute: Verl gegen RWE im WDR Livestream (Endstand 0:3)
+2026-11-21 16:54:12,012 INFO S6 aussortiert (doppelt): Innerhalb von acht Minuten: TSG Hoffenheim II schießt Preußen Münster 
+2026-11-21 16:54:12,012 INFO S6 aussortiert (doppelt): Drei Tore in 15 Minuten: Düsseldorf beendet Sieglos-Serie gegen Großas
+2026-11-21 16:54:12,012 INFO S6 aussortiert (prio_0): Essen hält Anschluss an Viktoria Köln - Düsseldorf feiert wichtigen Er
+2026-11-21 16:54:12,012 INFO S6 aussortiert (doppelt): Fortuna Köln beendet im Aufsteigerduell den Lauf des SV Meppen
+2026-11-21 16:54:12,013 INFO S6 aussortiert (doppelt): 3. Liga - SC Verl 0 - 3 Rot-Weiss Essen
+2026-11-21 16:54:12,013 INFO S6 aussortiert (prio_1): Hansa Rostock in duisburg! Darum ist der Sonntag Hansas Lieblingstag
+2026-11-21 16:54:12,013 INFO S6 aussortiert (prio_0): Spielernoten: Benote jetzt die Essener Elf
+2026-11-21 16:54:12,013 INFO S6 aussortiert (doppelt): Drei schnelle Tore nach der Halbzeit: Hoffenheims Reserve fertigt Müns
+2026-11-21 16:54:12,013 INFO S6 aussortiert (doppelt): Dank Doppelpacker Hermes: Regensburg schlägt Kickers glücklich
+2026-11-21 16:54:12,014 INFO S6 aussortiert (doppelt): Verl zu harmlos: Brummes Flanken bringen Essen den Auswärtssieg
+2026-11-21 16:54:12,014 INFO S6 aussortiert (prio_0): SC Verl - Rot-Weiß Essen live: So siehst Du heute die 3. Liga live kos
+2026-11-21 16:54:12,014 INFO S6 aussortiert (doppelt): Live: Das Essener 2:0 liegt in der Verler Luft
+2026-11-21 16:54:12,014 INFO S6 aussortiert (prio_0): Saarbrücken vs. Wiesbaden Tipp, Prognose & Quoten 22.11.2026 - 3. Liga
+2026-11-21 16:54:12,014 INFO S6 aussortiert (prio_0): Spitzenspiel gegen Düsseldorf: FCS-Tischtennis liegt vor Wiedersehen m
+2026-11-21 16:54:12,015 INFO S6 aussortiert (prio_0): Parteitag in Saarbrücken: CDU beschließt Wahlprogramm
+2026-11-21 16:54:12,015 INFO S6 aussortiert (prio_0): Spielinfo | 1. FC Heidenheim - Waldhof Mannheim : | 12. Spieltag | U-1
+2026-11-21 16:54:12,015 INFO S6 aussortiert (prio_0): FC Würzburger Kickers: Neue Aufgabe gegen SSV Jahn Regensburg am 21.11
+2026-11-21 16:54:12,015 INFO S6 aussortiert (prio_0): TSV Havelse: So steht Havelse nach dem 14. Spieltag da
+2026-11-21 16:54:12,015 INFO S6 aussortiert (prio_0): TSG 1899 Hoffenheim II: Ausgangslage und News vor SC Preußen Münster a
+2026-11-21 16:54:12,016 INFO S6 aussortiert (prio_0): Alemannia Aachen vs. Waldhof Mannheim heute live sehen: Wer zeigt / üb
+2026-11-21 16:54:12,016 INFO S6 aussortiert (prio_0): Topspiel Alemannia Aachen - SV Waldhof Mannheim im Live-Stream und TV:
+2026-11-21 16:54:12,016 INFO S6 aussortiert (prio_0): Alemannia Aachen empfängt wechselhaften SV Waldhof Mannheim
+2026-11-21 16:54:12,016 INFO S6 aussortiert (prio_0): Alemannia Aachen: Vor dem Duell gegen die Mannheimer - Die Lage bei Aa
+2026-11-21 16:54:12,016 INFO S6 aussortiert (prio_0): SV Waldhof Mannheim: Zahlen und Fakten vor dem Spiel gegen die Alemann
+2026-11-21 16:54:12,017 INFO S6 aussortiert (prio_0): VfB Stuttgart: U21 vor Heimspiel gegen Ingolstadt
+2026-11-21 16:54:12,017 INFO S6 aussortiert (prio_0): SSV Jahn Regensburg: Was Fans vor dem Duell mit FC Würzburger Kickers 
+2026-11-21 16:54:12,017 INFO S6 aussortiert (prio_0): Fortuna Düsseldorf: Neue Aufgabe gegen die Großaspacher am 21.11.2026
+2026-11-21 16:54:12,017 INFO S6 aussortiert (prio_0): SC Fortuna Köln: Neue Aufgabe gegen die Meppener am Samstag
+2026-11-21 16:54:12,017 INFO S6 aussortiert (prio_0): SC Verl: Zahlen und Fakten vor dem Spiel gegen die Rot-Weißen
+2026-11-21 16:54:12,018 INFO S6 aussortiert (prio_0): SV Meppen: Zahlen und Fakten vor dem Spiel gegen die Südstädter
+2026-11-21 16:54:12,018 INFO S6 aussortiert (prio_0): Fortuna empfängt SG Sonnenhof Großaspach
+2026-11-21 16:54:12,018 INFO S6 aussortiert (doppelt): Rechte Außenbahn trumpft groß auf: Zwei glatte Einsen, eine Vier – die
+2026-11-21 16:54:12,018 INFO S6 aussortiert (prio_0): Spielschema | Fortuna Düsseldorf - SG Sonnenhof Großaspach : | 14. Spi
+2026-11-21 16:54:12,018 INFO S6 aussortiert (doppelt): Souveräner 3:1-Heimsieg – Fortuna überrollt Großaspach in der ersten H
+2026-11-21 16:54:12,019 INFO S6 aussortiert (prio_0): Wekesser raus, Eixler rein?: Mögliche Aufstellung – so könnte Fortuna 
+2026-11-21 16:54:12,019 INFO S6 aussortiert (doppelt): Fortuna Düsseldorf vs. SG Sonnenhof Großaspach - Game Highlights
+2026-11-21 16:54:12,019 INFO S6 aussortiert (prio_1): Riesen-Ärger bei Fortuna Düsseldorf – MSV Duisburg: Plötzlich eskalier
+2026-11-21 16:54:12,019 INFO S6 aussortiert (doppelt): Fortuna Düsseldorf vs. SG Sonnenhof Großaspach: Jorrit Hendrix mit dem
+2026-11-21 16:54:12,019 INFO S6 aussortiert (prio_0): SG Sonnenhof Großaspach: Neue Aufgabe gegen Fortuna Düsseldorf am Sams
+2026-11-21 16:54:12,020 INFO S6 aussortiert (prio_0): Fortuna Düsseldorf - SG Sonnenhof Großaspach im Live-Stream und TV: Wo
+2026-11-21 16:54:12,020 INFO S6 aussortiert (doppelt): Fußball, 3. Liga: Düsseldorf bezwingt Großaspach
+2026-11-21 16:54:12,020 INFO S6 aussortiert (doppelt): Fortuna Köln - SV Meppen: Die Tore
+2026-11-21 16:54:12,020 INFO S6 aussortiert (doppelt): Eine Woche vor Stadtderby: Fortuna Köln gewinnt nach fast zwei sieglos
+2026-11-21 16:54:12,020 INFO S6 aussortiert (doppelt): SC Fortuna Köln vs. SV Meppen - Game Highlights
+2026-11-21 16:54:12,021 INFO S6 aussortiert (prio_0): Fortuna Köln empfängt Meppen am 21. November in der 3. Liga
+2026-11-21 16:54:12,021 INFO S6 aussortiert (doppelt): SC Fortuna Köln vs. SV Meppen: Knapper Heimsieg von Köln gegen Meppen
+2026-11-21 16:54:12,021 INFO S6 aussortiert (prio_0): SC Fortuna Köln - SV Meppen im Live-Stream und TV: Schwere Aufgabe heu
+2026-11-21 16:54:12,021 INFO S6 aussortiert (prio_0): Fortuna ohne Anschluss nach oben: Computer sagt Drittliga-Tabelle vora
+2026-11-21 16:54:12,021 INFO S6 aussortiert (prio_1): Ex-Hansa-Coach Brinkmann spricht im TV zu seinem Aus in Rostock: "Brau
+2026-11-21 16:54:12,021 INFO S6 aussortiert (prio_0): Duisburg vs. Rostock Tipp, Prognose & Quoten 22.11.2026 - 3. Liga
+2026-11-21 16:54:12,022 INFO S6 aussortiert (prio_0): SC Preußen Münster: Vor dem Duell gegen die Hoffenheimer - Die Lage be
+2026-11-21 16:54:12,022 INFO S6 aussortiert (doppelt): Jahn Regensburg beim Derbysieg mit Fortuna im Bunde
+2026-11-21 16:54:12,022 INFO S6 aussortiert (doppelt): SSV Jahn Regensburg vs. Würzburger Kickers - Game Highlights
+2026-11-21 16:54:12,022 INFO S6 aussortiert (doppelt): Fußball: Kickers verlieren unglücklich in Regensburg
+2026-11-21 16:54:12,023 INFO S6 aussortiert (doppelt): Mann des Tages und Matchwinner: Torjäger Lucas Hermes lässt den SSV Ja
+2026-11-21 16:54:12,023 INFO S6 aussortiert (prio_0): Legt Jahn Regensburg das Nachwuchsleistungszentrum wieder auf Eis?
+2026-11-21 16:54:12,023 INFO S6 aussortiert (prio_0): Spielschema | Jahn Regensburg - Würzburger Kickers : | 14. Spieltag | 
+2026-11-21 16:54:12,023 INFO S6 aussortiert (prio_0): SSV Jahn Regensburg - FC Würzburger Kickers im Live-Stream und TV: Die
+2026-11-21 16:54:12,023 INFO S6 aussortiert (prio_1): Regensburg empfängt Würzburg zum bayerischen Duell
+2026-11-21 16:54:12,024 INFO S6 aussortiert (doppelt): Aufstellung SC Verl - Rot-Weiss Essen | 14. Spieltag, 3. Liga 2026/202
+2026-11-21 16:54:14,497 INFO S7 kein Volltext (likely_paywall): Jahn gegen Würzburg im BR Livestream, so läuft es kostenlos 
+2026-11-21 16:54:16,979 INFO S7 schreiben (Prio 3, 1 Quellen): SSV Jahn Regensburg vs. FC Würzburger Kickers: Zwei Treffer 
+2026-11-21 16:54:27,057 INFO   Kandidat: Hermes trifft doppelt: Regensburg schlägt Würzburg 2:1
+2026-11-21 16:54:30,116 INFO S7 schreiben (Prio 3, 1 Quellen): TSG 1899 Hoffenheim II - SC Preußen Münster: Hoffenheim über
+2026-11-21 16:54:40,322 INFO   Kandidat: Hoffenheim II überrollt Münster mit 4:0
+2026-11-21 16:54:40,642 INFO S7 Ersatzquellen für "Trotz Öztunalis Traumtor: Düsseldorf gelingt Befre": 0 passende Treffer
+2026-11-21 16:54:40,642 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Trotz Öztunalis Traumtor: Düsseldorf gelingt Befreiungsschla
+2026-11-21 16:54:40,872 INFO S7 Ersatzquellen für "Vierter Sieg in Folge: Essen bleibt bei dezimierte": 0 passende Treffer
+2026-11-21 16:54:40,872 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Vierter Sieg in Folge: Essen bleibt bei dezimierten Verlern 
+2026-11-21 16:54:41,106 INFO S7 Ersatzquellen für "Serien gerissen: Fortuna sendet gegen Meppen ein L": 0 passende Treffer
+2026-11-21 16:54:41,106 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Serien gerissen: Fortuna sendet gegen Meppen ein Lebenszeich
+2026-11-21 16:54:45,068 INFO S6.5 schon berichtet (Hansa Rostock vor dem Spiel der Wahrheit in D): Hansa Rostock beim MSV Duisburg: Klewin bleibt gesetzt, Holt
+2026-11-21 16:54:45,676 INFO S7 kein Volltext (too_short_75_words): 3. Liga: 1. FC Saarbrücken mit sieben Ausfällen – Abwehrspie
+2026-11-21 16:54:45,982 INFO S7 Ersatzquellen für "3. Liga: 1. FC Saarbrücken mit sieben Ausfällen – ": 0 passende Treffer
+2026-11-21 16:54:45,982 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): 3. Liga: 1. FC Saarbrücken mit sieben Ausfällen – Abwehrspie
+2026-11-21 16:54:46,330 INFO S7 kein Volltext (too_short_75_words): "Wir haben den Gegner komplett beherrscht" – Koschinat feier
+2026-11-21 16:54:46,674 INFO S7 Ersatzquellen für ""Wir haben den Gegner komplett beherrscht" – Kosch": 0 passende Treffer
+2026-11-21 16:54:46,674 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): "Wir haben den Gegner komplett beherrscht" – Koschinat feier
+2026-11-21 16:54:49,601 INFO S6.5 schon berichtet (Hansa Rostock vor dem Spiel der Wahrheit in D): Bitter einsatzbereit: So plant der MSV Duisburg beim Persona
+2026-11-21 16:54:50,001 INFO S7 kein Volltext (too_short_75_words): "Das hat mich verletzt" – Hansa-Kapitän packt vor MSV-Duell 
+2026-11-21 16:54:50,259 INFO S7 Ersatzquellen für ""Das hat mich verletzt" – Hansa-Kapitän packt vor ": 0 passende Treffer
+2026-11-21 16:54:50,259 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): "Das hat mich verletzt" – Hansa-Kapitän packt vor MSV-Duell 
+2026-11-21 16:54:50,690 INFO S7 kein Volltext (too_short_75_words): Rot-Weiss Essen: Nicht Aachen oder Großaspach: An diesen Zu-
+2026-11-21 16:54:50,934 INFO S7 Ersatzquellen für "Rot-Weiss Essen: Nicht Aachen oder Großaspach: An ": 0 passende Treffer
+2026-11-21 16:54:50,934 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Rot-Weiss Essen: Nicht Aachen oder Großaspach: An diesen Zu-
+2026-11-21 16:54:51,379 INFO S7 kein Volltext (too_short_75_words): MSV Duisburg: 23.000 Fans erwartet, Bulic zeigt Einsicht – s
+2026-11-21 16:54:51,611 INFO S7 Ersatzquellen für "MSV Duisburg: 23.000 Fans erwartet, Bulic zeigt Ei": 0 passende Treffer
+2026-11-21 16:54:51,611 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): MSV Duisburg: 23.000 Fans erwartet, Bulic zeigt Einsicht – s
+2026-11-21 16:54:54,432 INFO S6.5 schon berichtet (Düsseldorf gegen Großaspach: Zwei Teams suche): „Eine super Geschichte für alle“: Langeneke feiert Fortuna-J
+2026-11-21 16:54:54,877 INFO S7 kein Volltext (too_short_75_words): 3. Liga: 42 Tore in 14 Spielen - "Brutale Qualität!" Trainer
+2026-11-21 16:54:55,240 INFO S7 Ersatzquellen für "3. Liga: 42 Tore in 14 Spielen - "Brutale Qualität": 0 passende Treffer
+2026-11-21 16:54:55,241 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): 3. Liga: 42 Tore in 14 Spielen - "Brutale Qualität!" Trainer
+2026-11-21 16:54:56,227 INFO S7 kein Volltext (too_short_30_words): MSV Duisburg: Trainer Dietmar Hirsch wehrt sich mit Brandred
+2026-11-21 16:54:56,489 INFO S7 Ersatzquellen für "MSV Duisburg: Trainer Dietmar Hirsch wehrt sich mi": 0 passende Treffer
+2026-11-21 16:54:56,489 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): MSV Duisburg: Trainer Dietmar Hirsch wehrt sich mit Brandred
+2026-11-21 16:54:56,492 INFO S9.5 FinalCheck: 2/2 durch
+2026-11-21 16:54:57,601 INFO Veröffentlicht: Hermes trifft doppelt: Regensburg schlägt Würzburg 2:1
+2026-11-21 16:54:57,658 INFO Veröffentlicht: Hoffenheim II überrollt Münster mit 4:0
+2026-11-21 16:54:57,661 WARNING Sitemap ohne Spielerseiten: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-21 16:54:57,664 INFO 💶 Kosten: dieser Lauf 0.000 $ (Budget 0.000 $) | heute 0.00 $ | Monat 0.00 / 0 $ | konferenz (abo) 2× 0.000 $, dublette (abo) 5× 0.000 $, schreiben (abo) 2× 0.000 $
+2026-11-21 16:54:57,664 INFO 🎫 Abo-Verbrauch: 30,628 Tokens rein (davon Cache gelesen 1,426), 27,008 raus, API-Gegenwert 0.24 $ | konferenz 2×: 10,207/24,178, dublette 5×: 5,563/85, schreiben 2×: 14,858/2,745
+2026-11-21 16:54:57,668 INFO Feeds: 45/45 begonnen, nächster Lauf startet bei Nr. 0
+2026-11-21 16:54:57,668 INFO URL-Cache gespeichert: 4263 URLs
+2026-11-21 16:54:57,669 INFO === Fertig. 2 neue Artikel. feed.json: 71 ===
+2026-11-21 16:54:57,669 INFO Stats: {"ts": "20261121_1650", "ingested": 198, "s2_pre_filter": 37, "s3_relevance": 27, "s4_dedup_early": 0, "gesammelt": 115, "geschichten_neu": 106, "s5_archiv_doppelt": 1, "s5_zusammengefuehrt": 0, "s6_aussortiert": 71, "s7_geschrieben": 2, "s7_verworfen": 3, "s5_fulltext_fail": 10, "s8_qa_rejected": 0, "published": 2, "s5_randthema": 1, "kosten": {"lauf_usd": 0.0, "lauf_budget_usd": 0.0, "heute_usd": 0.0, "monat_usd": 0.0, "monatsbudget_usd": 0.0, "aufrufe": {"konferenz (abo)": {"anzahl": 2, "usd": 0.0}, "dublette (abo)": {"anzahl": 5, "usd": 0.0}, "schreiben (abo)": {"anzahl": 2, "usd": 0.0}}, "guthaben_leer": false, "abo": true, "abo_tokens": {"konferenz": {"aufrufe": 2, "ein": 3266, "cache_schreiben": 6941, "cache_lesen": 0, "aus": 24178, "api_wert_usd": 0.1381}, "dublette": {"aufrufe": 5, "ein": 10, "cache_schreiben": 5553, "cache_lesen": 0, "aus": 85, "api_wert_usd": 0.0232}, "schreiben": {"aufrufe": 2, "ein": 4, "cache_schreiben": 13428, "cache_lesen": 1426, "aus": 2745, "api_wert_usd": 0.0813}}}}
