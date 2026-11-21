@@ -1,5 +1,96 @@
 [
   {
+    "id": "c2f0479f8c",
+    "titel": "Nürnberg verliert gegen Braunschweig nach Führung mit 1:2",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "21.11.2026 15:04",
+    "wappen_url": "logos/nuernberg.png",
+    "vereine": [
+      "Braunschweig",
+      "Nürnberg"
+    ],
+    "anriss": "Der 1. FC Nürnberg hat im Aufstiegsrennen der 2. Bundesliga einen Rückschlag hinnehmen müssen. Das Team von Trainer Miroslav Klose verlor das Heimspiel gegen Eintracht Braunschweig nach 1:0-Pausenführung mit 1:2. Julian Justvan brachte den „Club“ im Max-Morlock-Stadion in der 10. Minute nach einem starken Solo",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Nürnberg",
+    "pfad": "artikel/nuernberg-verliert-gegen-braunschweig-nach-fuehrung-mit-1-2-c2f0479f8c.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "1cafddf4f1",
+    "titel": "Wolfsburg schlägt Kiel am 12. Spieltag deutlich mit 3:0",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "21.11.2026 15:03",
+    "wappen_url": "logos/wolfsburg.png",
+    "vereine": [
+      "Hertha",
+      "Wolfsburg"
+    ],
+    "anriss": "Der VfL Wolfsburg hat am 12. Spieltag der 2. Bundesliga Holstein Kiel in der heimischen Volkswagen Arena mit 3:0 besiegt. Das Team von Trainer Tobias Strobl überzeugte vor den eigenen Fans und fuhr nach der Niederlage bei Hertha BSC wieder einen Erfolg ein. Wie berichtet,",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Wolfsburg",
+    "pfad": "artikel/wolfsburg-schlaegt-kiel-am-12-spieltag-deutlich-mit-3-0-1cafddf4f1.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "c446e6f152",
+    "titel": "Taibi trifft spät: Hannover 96 dreht Spiel gegen Fürth",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "21.11.2026 15:03",
+    "wappen_url": "logos/hannover.png",
+    "vereine": [
+      "Dresden",
+      "Fürth",
+      "Hannover"
+    ],
+    "anriss": "Hannover 96 hat in der 2. Bundesliga die SpVgg Greuther Fürth mit 2:1 (0:1) besiegt. Waniss Taibi erzielte in der Nachspielzeit (90.+2) mit einem Schuss aus 20 Metern den Siegtreffer für die Niedersachsen. Die Gäste waren durch Ole Pohlmann in Führung gegangen (34.). Nach einer",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Hannover",
+    "pfad": "artikel/taibi-trifft-spaet-hannover-96-dreht-spiel-gegen-fuerth-c446e6f152.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    },
+    "n11": false
+  },
+  {
     "id": "9fb3196583",
     "titel": "Darmstadt schlägt Heidenheim 3:1: Kehl trifft doppelt, Papela zurück",
     "kategorie": "news",

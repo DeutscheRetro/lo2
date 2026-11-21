@@ -1,0 +1,182 @@
+2026-11-21 15:01:32,552 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 1 passende Treffer
+2026-11-21 15:01:32,553 INFO S7 Ersatzquelle liefert Text (120 Wörter, 1 Quellen): Kimmich nach Rückkehr: Hier am absolut richtigen Ort
+2026-11-21 15:01:32,553 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 0 passende Treffer
+2026-11-21 15:01:32,553 INFO FinalCheck SKIP: borussia mönchengladbach/{'max muster'} stage=geruecht bereits in Archiv
+2026-11-21 15:01:32,553 INFO FinalCheck SKIP: borussia mönchengladbach/set() stage=geruecht bereits in Archiv
+2026-11-21 15:01:44,989 INFO 💶 Budget: dieser Lauf 0.165 $ | heute 0.00 $ | Monat 0.22 / 8 $
+2026-11-21 15:01:44,999 INFO URL-Cache geladen: 12953 bekannte URLs (letzte 30 Tage)
+2026-11-21 15:01:44,999 INFO === LO Generator startet – max. 50 Artikel ===
+2026-11-21 15:01:44,999 INFO Feed: https://newsfeed.kicker.de/news/2-bundesliga
+2026-11-21 15:01:45,556 INFO Feed: https://www.sport.de/rss/news/
+2026-11-21 15:01:45,773 INFO Feed: https://www.11freunde.de/feed
+2026-11-21 15:01:47,355 WARNING Spielerliste nicht verfügbar: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-21 15:01:47,355 INFO BL-Spielerliste geladen: 0 Namen
+2026-11-21 15:01:47,355 INFO S3 keyword miss: Bundesliga: Das „Aktuelle Sportstudio“ ist Pflicht!
+2026-11-21 15:01:47,355 INFO Feed: https://news.google.com/rss/search?q=%222.+Bundesliga%22&hl=de&gl=DE&ceid=DE:de
+2026-11-21 15:01:47,724 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Verletzung+Ausfall+gesperrt&hl=de&gl=DE&ceid=DE:de
+2026-11-21 15:01:47,982 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Transfer+Wechsel+verpflichtet&hl=de&gl=DE&ceid=DE:de
+2026-11-21 15:01:48,251 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Ger%C3%BCcht+Interesse+Angebot&hl=de&gl=DE&ceid=DE:de
+2026-11-21 15:01:48,506 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Vertrag+verl%C3%A4ngert+abl%C3%B6sefrei&hl=de&gl=DE&ceid=DE:de
+2026-11-21 15:01:48,718 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Trainer+Entlassung&hl=de&gl=DE&ceid=DE:de
+2026-11-21 15:01:49,049 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Heidenheim%22+OR+Heidenheim+FCH+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 15:01:49,287 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Kaiserslautern%22+OR+%22FCK%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 15:01:49,548 INFO S2 blacklist: FCK II zwischen Ruhrgebiet und Alpen: Wie der Streit um die 
+2026-11-21 15:01:49,549 INFO S2 Liveticker übersprungen: Liveticker: Dynamo Dresden beim 1. FC Kaiserslautern
+2026-11-21 15:01:49,550 INFO S3 keyword miss: FCK-Nachwuchs vor Aufgaben in Ulm, Freiburg und zu Hause
+2026-11-21 15:01:49,552 INFO S3 keyword miss: (k+) Mehr Abschlüsse, keine Tore: Skyttä auf der Suche nach 
+2026-11-21 15:01:49,552 INFO S2 blacklist: SC Freiburg: U19 und U17 kehren in den Ligabetrieb zurück
+2026-11-21 15:01:49,552 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Magdeburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 15:01:49,875 INFO S3 keyword miss: Aufstiegstraum statt Abstiegsangst: FCM überzeugt durch Effi
+2026-11-21 15:01:49,877 INFO S3 keyword miss: Spitzenspiel der Humanas-Verbandsliga wird nachträglich gewe
+2026-11-21 15:01:49,878 INFO S2 Liveticker übersprungen: 1. FC Nürnberg - Eintracht Braunschweig Liveticker, 21.11.20
+2026-11-21 15:01:49,878 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+N%C3%BCrnberg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 15:01:50,299 INFO Feed: https://news.google.com/rss/search?q=%22Arminia+Bielefeld%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 15:01:50,671 INFO Feed: https://news.google.com/rss/search?q=%22Dynamo+Dresden%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 15:01:50,955 INFO Feed: https://news.google.com/rss/search?q=%22Eintracht+Braunschweig%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 15:01:51,233 INFO S2 Liveticker übersprungen: Liveticker: FC Nürnberg gegen Braunschweig – Eintracht sieht
+2026-11-21 15:01:51,233 INFO S2 blacklist: 1. FC Nürnberg gegen Eintracht Braunschweig jetzt live im TV
+2026-11-21 15:01:51,237 INFO S2 Liveticker übersprungen: Liveticker 2. Bundesliga: 1. FC Nürnberg gegen Eintracht Bra
+2026-11-21 15:01:51,240 INFO S3 keyword miss: Live: FCN um Antwort bemüht - Ghrieb und Haugen nun in der P
+2026-11-21 15:01:51,241 INFO S2 Liveticker übersprungen: Liveticker 2. Bundesliga: FC Nürnberg gegen Braunschweig – A
+2026-11-21 15:01:51,241 INFO Feed: https://news.google.com/rss/search?q=%22Energie+Cottbus%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 15:01:51,490 INFO S2 blacklist: 2. Liga 26/27: Live-Übertragung im Fernsehen oder Stream – l
+2026-11-21 15:01:51,491 INFO Feed: https://news.google.com/rss/search?q=%22FC+St.+Pauli%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 15:01:51,767 INFO S2 blacklist: Hier läuft St. Pauli gegen Bochum heute im Free-TV und Strea
+2026-11-21 15:01:51,768 INFO S2 blacklist: FC St. Pauli gegen VfL Bochum: Das Topspiel live im TV & Str
+2026-11-21 15:01:51,769 INFO S2 Liveticker übersprungen: Liveticker 2. Bundesliga: FC St. Pauli gegen VfL Bochum – li
+2026-11-21 15:01:51,770 INFO S3 keyword miss: (+) Zoller über sein bitteres St.-Pauli-Kapitel: „Nie so, wi
+2026-11-21 15:01:51,773 INFO Feed: https://news.google.com/rss/search?q=%22Hannover+96%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 15:01:52,029 INFO S2 blacklist: Hannover 96 gegen Greuther Fürth jetzt live im TV und Stream
+2026-11-21 15:01:52,030 INFO S2 Liveticker übersprungen: Liveticker - Hannover 96 : SpVgg Greuther Fürth
+2026-11-21 15:01:52,031 INFO S2 Liveticker übersprungen: Liveticker 2. Bundesliga: Hannover 96 gegen Greuther Fürth –
+2026-11-21 15:01:52,031 INFO S2 Liveticker übersprungen: Liveticker 2. Bundesliga: Hannover 96 gegen SpVgg Greuther F
+2026-11-21 15:01:52,033 INFO Feed: https://news.google.com/rss/search?q=%22Hertha+BSC%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 15:01:52,307 INFO Feed: https://news.google.com/rss/search?q=%22Holstein+Kiel%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 15:01:52,774 INFO Feed: https://news.google.com/rss/search?q=%22Karlsruher+SC%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 15:01:53,021 INFO Feed: https://news.google.com/rss/search?q=%22Greuther+F%C3%BCrth%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 15:01:53,387 INFO Feed: https://news.google.com/rss/search?q=%22Darmstadt+98%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 15:01:53,694 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Bochum%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 15:01:54,079 INFO S2 blacklist: Trotz Unterzahl: SC Wiedenbrück erkämpft sich wichtigen Punk
+2026-11-21 15:01:54,081 INFO S3 keyword miss: (U-19-DFB-Nachwuchsliga (Vorrunde))
+2026-11-21 15:01:54,083 INFO S3 keyword miss: Stich ins Herz
+2026-11-21 15:01:54,083 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Osnabr%C3%BCck%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 15:01:54,322 INFO S2 blacklist: Spielereignisse | VfL Osnabrück - FC Schalke 04 0:1 | 12. Sp
+2026-11-21 15:01:54,323 INFO S2 kein BL-Klub im Titel: Bundesligist Werder Bremen verlängert vorzeitig mit Trainer 
+2026-11-21 15:01:54,323 INFO S2 kein BL-Klub im Titel: Norbert Elgert führt Schalke 04 zum Auswärtssieg Was das 1:0
+2026-11-21 15:01:54,324 INFO S2 blacklist: Wer zeigt VfL Wolfsburg gegen Holstein Kiel? Übertragung jet
+2026-11-21 15:01:54,324 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Wolfsburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 15:01:54,708 INFO S2 Liveticker übersprungen: Ecke ins Tor, Hornby legt nach! Das Spiel des VfL Wolfsburg 
+2026-11-21 15:01:54,711 INFO S2 Liveticker übersprungen: Liveticker: VfL Wolfsburg gegen Holstein Kiel – Wolfsburg si
+2026-11-21 15:01:54,711 INFO S2 Liveticker übersprungen: Liveticker 2. Bundesliga: VfL Wolfsburg gegen Holstein Kiel 
+2026-11-21 15:01:54,712 INFO S2 blacklist: VfL Wolfsburg - Holstein Kiel
+2026-11-21 15:01:54,713 INFO S3 keyword miss: 2. Bundesliga Tabelle: Fußball Ergebnisse, Daten, Spielplan
+2026-11-21 15:01:54,716 INFO S3 keyword miss: „Gegen die Werte, die wir leben“: Deutsche Nationalspielerin
+2026-11-21 15:01:54,716 INFO S2 blacklist: "Fußball: Bundesliga der Frauen" in der Mediathek ansehen
+2026-11-21 15:01:54,719 INFO S3 keyword miss: Nach Kritik am eigenen Trainer: Nationalspielerin aus Kader 
+2026-11-21 15:01:54,721 INFO S3 keyword miss: Lattwein nach Trainer-Kritik für ein Spiel aus Kader gestric
+2026-11-21 15:01:54,722 INFO Feed: https://newsfeed.kicker.de/team/1-fc-heidenheim
+2026-11-21 15:01:54,923 INFO Feed: https://newsfeed.kicker.de/team/1-fc-nuernberg
+2026-11-21 15:01:55,400 INFO Feed: https://newsfeed.kicker.de/team/arminia-bielefeld
+2026-11-21 15:01:55,602 INFO Feed: https://newsfeed.kicker.de/team/dynamo-dresden
+2026-11-21 15:01:55,798 INFO Feed: https://newsfeed.kicker.de/team/eintracht-braunschweig
+2026-11-21 15:01:55,991 INFO Feed: https://newsfeed.kicker.de/team/fc-st-pauli
+2026-11-21 15:01:56,187 INFO Feed: https://newsfeed.kicker.de/team/hannover-96
+2026-11-21 15:01:56,384 INFO Feed: https://newsfeed.kicker.de/team/hertha-bsc
+2026-11-21 15:01:56,579 INFO Feed: https://newsfeed.kicker.de/team/holstein-kiel
+2026-11-21 15:01:56,770 INFO Feed: https://newsfeed.kicker.de/team/vfl-bochum
+2026-11-21 15:01:57,137 INFO Feed: https://newsfeed.kicker.de/team/vfl-osnabrueck
+2026-11-21 15:01:57,337 INFO Eingelesen: 54 Schlagzeilen nach den Gratis-Filtern
+2026-11-21 15:01:57,373 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: Meffert erreicht Meilenstein: Die aktuellen Rekordspieler der 2. Liga
+2026-11-21 15:01:57,374 INFO S5 schon berichtet (Darmstadt schlägt Heidenheim 3:1: Kehl trifft): 1. FC Heidenheim muss sich nach Niederlage gegen Darmstadt "
+2026-11-21 15:01:57,374 INFO S5 schon berichtet (Magdeburg gewinnt in Bielefeld, Kersken verle): FCM reißt Bielefelder Festung ein: "Sowas von stark" - Magde
+2026-11-21 15:01:57,374 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: "Eine Gehirnerschütterung ist kein Spaß": Dynamo-Ass zurück im Trainin
+2026-11-21 15:01:57,374 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: 2. Liga am Samstag: Doppel-Bock von Kiel-Keeper versaut Trainer-Debüt
+2026-11-21 15:01:57,376 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: "Diese Mannschaft lebt!" - Lilien-Trainer Kohfeldt sieht positive Entw
+2026-11-21 15:01:57,376 INFO S5 Randthema: Neuheit auf dem Weihnachtsmarkt: Ein süßer Food-Trend im Stil des VfL 
+2026-11-21 15:01:57,377 INFO S5: 36 neue Geschichten, 2 schon berichtet, 0 zu wartenden Geschichten ergänzt, 9 warten
+2026-11-21 15:03:18,317 INFO S6 aussortiert (prio_0): Kieler Geschenke beim Kniat-Debüt - 96 und Braunschweig drehen ihre Sp
+2026-11-21 15:03:18,317 INFO S6 aussortiert (prio_1): FCK empfängt Dynamo Dresden – 30-Millionen-Besucher-Marke auf dem Betz
+2026-11-21 15:03:18,317 INFO S6 aussortiert (doppelt): Nach zweimaligem Rückstand: Schwäne holen Punkt in Magdeburg
+2026-11-21 15:03:18,317 INFO S6 aussortiert (prio_1): Dresden: Parkstraße soll nach Dixie Dörner benannt werden
+2026-11-21 15:03:18,317 INFO S6 aussortiert (prio_1): Neuer Dynamo für Dresden! Riesenzylinder soll Erde spielen
+2026-11-21 15:03:18,317 INFO S6 aussortiert (doppelt): 1. FC Nürnberg vs. Eintracht Braunschweig: Ein Tor macht den Unterschi
+2026-11-21 15:03:18,318 INFO S6 aussortiert (doppelt): Club will Siegesserie fortsetzen: Hier läuft das Spiel gegen Braunschw
+2026-11-21 15:03:18,318 INFO S6 aussortiert (doppelt): Bittere Club-Heimpleite gegen Braunschweig
+2026-11-21 15:03:18,318 INFO S6 aussortiert (doppelt): 1. FC Nürnberg - Braunschweig
+2026-11-21 15:03:18,318 INFO S6 aussortiert (prio_0): Energie Cottbus vs. Hertha BSC: TV, Live-Stream und Anstoßzeit
+2026-11-21 15:03:18,318 INFO S6 aussortiert (prio_1): Hertha in Cottbus: Verkehrseinschränkungen und Sicherheitsvorkehrungen
+2026-11-21 15:03:18,318 INFO S6 aussortiert (prio_0): Phönix Lübeck gegen St. Pauli II: Was die Adlerträger diesmal besser m
+2026-11-21 15:03:18,318 INFO S6 aussortiert (doppelt): Hannover 96 vs. SpVgg Greuther Fürth: Knapper H96-Sieg zu Hause gegen 
+2026-11-21 15:03:18,318 INFO S6 aussortiert (doppelt): Hannover 96 - Greuther Fürth
+2026-11-21 15:03:18,318 INFO S6 aussortiert (prio_0): Karlsruher SC vs. Osnabrück heute live sehen: Wer zeigt / überträgt da
+2026-11-21 15:03:18,319 INFO S6 aussortiert (doppelt): SV Darmstadt 98 setzt gegen Heidenheim auf aktiveren Fußball
+2026-11-21 15:03:18,319 INFO S6 aussortiert (doppelt): Im Dauerregen: Darmstadt 98 schlägt Heidenheim
+2026-11-21 15:03:18,319 INFO S6 aussortiert (doppelt): VfL-Noten: So waren die Wolfsburg-Profis gegen Kiel unterwegs
+2026-11-21 15:03:18,319 INFO S6 aussortiert (prio_1): Bildergalerie: VfL-Frühstück im B‘moovd Wolfsburg mit Schiedsrichter-E
+2026-11-21 15:03:18,319 INFO S6 aussortiert (doppelt): VfL Wolfsburg vs Holstein Kiel – Wolfsburg holt sich den Heimsieg
+2026-11-21 15:03:18,319 INFO S6 aussortiert (doppelt): Wolfsburg nutzt Kieler Pannen eiskalt aus
+2026-11-21 15:03:18,319 INFO S6 aussortiert (doppelt): 2. Bundesliga: Wolfsburg vermiest Kiel Kniat-Debüt
+2026-11-21 15:03:18,319 INFO S6 aussortiert (prio_0): Highlights von Grizzlys Wolfsburg - Iserlohn Roosters | Eishockey - Hi
+2026-11-21 15:03:20,379 INFO S7 kein Volltext (likely_paywall): Holstein Kiel verliert bei Kniat-Debüt deutlich beim VfL Wol
+2026-11-21 15:03:21,415 WARNING discarding data: None
+2026-11-21 15:03:21,417 INFO S7 kein Volltext (trafilatura_returned_empty): 2. Bundesliga: VfL Wolfsburg gegen Holstein Kiel ab 13:00 li
+2026-11-21 15:03:23,274 INFO S7 schreiben (Prio 3, 1 Quellen): VfL Wolfsburg vs. Holstein Kiel: Weiners Treffer leitet den 
+2026-11-21 15:03:34,500 INFO   Kandidat: Wolfsburg schlägt Kiel am 12. Spieltag deutlich mit 3:0
+2026-11-21 15:03:38,026 INFO S7 schreiben (Prio 3, 1 Quellen): 2. Bundesliga: Taibi trifft - Hannover 96 jubelt spät gegen 
+2026-11-21 15:03:49,713 INFO   Kandidat: Taibi trifft spät: Hannover 96 dreht Spiel gegen Fürth
+2026-11-21 15:03:53,880 INFO S7 schreiben (Prio 3, 1 Quellen): Spiel gedreht: Nürnberg stolpert im Aufstiegsrennen – drei P
+2026-11-21 15:04:05,047 INFO   Kandidat: Nürnberg verliert gegen Braunschweig nach Führung mit 1:2
+2026-11-21 15:04:07,831 INFO S6.5 schon berichtet (Nürnberg verliert gegen Braunschweig nach Füh): Sturm schießt Braunschweig zum Überraschungssieg in Nürnberg
+2026-11-21 15:04:08,951 INFO S7 kein Volltext (likely_paywall): Energie Cottbus Aufstellung: Startelf gegen Hertha - Wollitz
+2026-11-21 15:04:09,222 INFO S7 Ersatzquellen für "Energie Cottbus Aufstellung: Startelf gegen Hertha": 0 passende Treffer
+2026-11-21 15:04:09,223 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Energie Cottbus Aufstellung: Startelf gegen Hertha - Wollitz
+2026-11-21 15:04:15,392 INFO S6.5 schon berichtet (Fürth bangt in Hannover um Kapitän und Torjäg): Hannover 96 empfängt Greuther Fürth mit veränderten Startelf
+2026-11-21 15:04:18,345 INFO S6.5 schon berichtet (Bochum vor St. Pauli: Drei Rückkehrer nach la): FC St. Pauli - VfL Bochum: Prognose, Übertragung, Anstoßzeit
+2026-11-21 15:04:25,183 INFO S6.5 schon berichtet (Klose warnt vor Braunschweig: Otto-Einsatz be): 1. FC Nürnberg - Eintracht Braunschweig: Prognose, Übertragu
+2026-11-21 15:04:25,459 INFO S7 kein Volltext (too_short_15_words): Bielefeld verpasst Punktgewinn gegen Magdeburg
+2026-11-21 15:04:25,647 INFO S7 Ersatzquellen für "Bielefeld verpasst Punktgewinn gegen Magdeburg": 0 passende Treffer
+2026-11-21 15:04:25,647 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Bielefeld verpasst Punktgewinn gegen Magdeburg
+2026-11-21 15:04:25,857 WARNING discarding data: None
+2026-11-21 15:04:25,857 INFO S7 kein Volltext (trafilatura_returned_empty): Einsatz von Fynn Otto gegen Braunschweig fraglich: Klose ent
+2026-11-21 15:04:26,065 INFO S7 Ersatzquellen für "Einsatz von Fynn Otto gegen Braunschweig fraglich:": 0 passende Treffer
+2026-11-21 15:04:26,065 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Einsatz von Fynn Otto gegen Braunschweig fraglich: Klose ent
+2026-11-21 15:04:29,204 INFO S6.5 schon berichtet (Bochum vor St. Pauli: Drei Rückkehrer nach la): Deutliche Ansage: Darum erwartet St. Pauli gegen Bochum ein 
+2026-11-21 15:04:37,003 INFO S6.5 schon berichtet (Magdeburg gewinnt in Bielefeld, Kersken verle): Arminia-Kolumne: Ich schaue in dieser Saison nicht nach unte
+2026-11-21 15:04:40,151 INFO S6.5 schon berichtet (Darmstadt schlägt Heidenheim 3:1: Kehl trifft): SV Darmstadt 98: Stimmen zum Heimspiel gegen Heidenheim
+2026-11-21 15:04:40,659 INFO S7 kein Volltext (too_short_39_words): Warum Lukas Michelbrink für Hertha BSC der erste Vorgriff au
+2026-11-21 15:04:40,863 INFO S7 Ersatzquellen für "Warum Lukas Michelbrink für Hertha BSC der erste V": 0 passende Treffer
+2026-11-21 15:04:40,863 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Warum Lukas Michelbrink für Hertha BSC der erste Vorgriff au
+2026-11-21 15:04:41,123 INFO S7 kein Volltext (too_short_15_words): Simon Terodde über das Topspiel zwischen St. Pauli und Bochu
+2026-11-21 15:04:41,345 INFO S7 Ersatzquellen für "Simon Terodde über das Topspiel zwischen St. Pauli": 0 passende Treffer
+2026-11-21 15:04:41,345 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Simon Terodde über das Topspiel zwischen St. Pauli und Bochu
+2026-11-21 15:04:42,344 INFO S7 kein Volltext (low_unique_content_ratio): 1.FC Nürnberg: Ausgangslage und News vor Eintracht Braunschw
+2026-11-21 15:04:42,585 INFO S7 Ersatzquellen für "1.FC Nürnberg: Ausgangslage und News vor Eintracht": 0 passende Treffer
+2026-11-21 15:04:42,585 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): 1.FC Nürnberg: Ausgangslage und News vor Eintracht Braunschw
+2026-11-21 15:04:43,583 INFO S7 kein Volltext (low_unique_content_ratio): SV Darmstadt 98: So steht Darmstadt nach dem 12. Spieltag da
+2026-11-21 15:04:43,848 INFO S7 Ersatzquellen für "SV Darmstadt 98: So steht Darmstadt nach dem 12. S": 0 passende Treffer
+2026-11-21 15:04:43,848 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): SV Darmstadt 98: So steht Darmstadt nach dem 12. Spieltag da
+2026-11-21 15:04:56,127 INFO S7 kein Volltext (fetch_failed_ReadTimeout): 1. FC Kaiserslautern vs. Dynamo Dresden: voraussichtliche Au
+2026-11-21 15:04:56,381 INFO S7 Ersatzquellen für "1. FC Kaiserslautern vs. Dynamo Dresden: voraussic": 0 passende Treffer
+2026-11-21 15:04:56,381 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): 1. FC Kaiserslautern vs. Dynamo Dresden: voraussichtliche Au
+2026-11-21 15:05:08,608 INFO S7 kein Volltext (fetch_failed_ReadTimeout): Energie Cottbus vs. Hertha BSC: voraussichtliche Aufstellung
+2026-11-21 15:05:08,829 INFO S7 Ersatzquellen für "Energie Cottbus vs. Hertha BSC: voraussichtliche A": 0 passende Treffer
+2026-11-21 15:05:08,829 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Energie Cottbus vs. Hertha BSC: voraussichtliche Aufstellung
+2026-11-21 15:05:09,365 INFO S7 kein Volltext (too_short_35_words): Lustenberger über Aufstieg und Punktrekord: Das macht Hertha
+2026-11-21 15:05:09,592 INFO S7 Ersatzquellen für "Lustenberger über Aufstieg und Punktrekord: Das ma": 0 passende Treffer
+2026-11-21 15:05:09,592 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Lustenberger über Aufstieg und Punktrekord: Das macht Hertha
+2026-11-21 15:05:09,782 INFO S7 Ersatzquellen für "Schmidt wird deutlich: "Es bringt nichts, die Ding": 0 passende Treffer
+2026-11-21 15:05:09,782 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Schmidt wird deutlich: "Es bringt nichts, die Dinge schönzur
+2026-11-21 15:05:10,325 INFO S7 kein Volltext (too_short_52_words): VfL Bochum: Mets „brauchte Tapetenwechsel“ – darum verließ e
+2026-11-21 15:05:10,530 INFO S7 Ersatzquellen für "VfL Bochum: Mets „brauchte Tapetenwechsel“ – darum": 0 passende Treffer
+2026-11-21 15:05:10,530 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): VfL Bochum: Mets „brauchte Tapetenwechsel“ – darum verließ e
+2026-11-21 15:05:10,533 INFO S9.5 FinalCheck: 3/3 durch
+2026-11-21 15:05:11,184 INFO Veröffentlicht: Wolfsburg schlägt Kiel am 12. Spieltag deutlich mit 3:0
+2026-11-21 15:05:11,225 INFO Veröffentlicht: Taibi trifft spät: Hannover 96 dreht Spiel gegen Fürth
+2026-11-21 15:05:11,266 INFO Veröffentlicht: Nürnberg verliert gegen Braunschweig nach Führung mit 1:2
+2026-11-21 15:05:11,269 WARNING Sitemap ohne Spielerseiten: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-21 15:05:11,271 INFO 💶 Kosten: dieser Lauf 0.000 $ (Budget 0.165 $) | heute 0.00 $ | Monat 0.22 / 8 $ | konferenz (abo) 1× 0.000 $, dublette (abo) 13× 0.000 $, schreiben (abo) 3× 0.000 $
+2026-11-21 15:05:11,271 INFO 🎫 Abo-Verbrauch: 43,279 Tokens rein (davon Cache gelesen 2,788), 16,397 raus, API-Gegenwert 0.27 $ | konferenz 1×: 4,189/10,305, dublette 13×: 16,930/1,241, schreiben 3×: 22,160/4,851
+2026-11-21 15:05:11,279 INFO Feeds: 38/38 begonnen, nächster Lauf startet bei Nr. 0
+2026-11-21 15:05:11,279 INFO URL-Cache gespeichert: 13046 URLs
+2026-11-21 15:05:11,279 INFO === Fertig. 3 neue Artikel. feed.json: 181 ===
+2026-11-21 15:05:11,279 INFO Stats: {"ts": "20261121_1501", "ingested": 93, "s2_pre_filter": 14, "s3_relevance": 13, "s4_dedup_early": 0, "gesammelt": 54, "geschichten_neu": 36, "s5_archiv_doppelt": 2, "s5_zusammengefuehrt": 0, "s6_aussortiert": 23, "s7_geschrieben": 3, "s7_verworfen": 7, "s5_fulltext_fail": 12, "s8_qa_rejected": 0, "published": 3, "s5_ohne_bezug": 4, "s5_randthema": 1, "kosten": {"lauf_usd": 0.0, "lauf_budget_usd": 0.1654, "heute_usd": 0.0, "monat_usd": 0.2247, "monatsbudget_usd": 8.0, "aufrufe": {"konferenz (abo)": {"anzahl": 1, "usd": 0.0}, "dublette (abo)": {"anzahl": 13, "usd": 0.0}, "schreiben (abo)": {"anzahl": 3, "usd": 0.0}}, "guthaben_leer": false, "abo": true, "abo_tokens": {"konferenz": {"aufrufe": 1, "ein": 10, "cache_schreiben": 4179, "cache_lesen": 0, "aus": 10305, "api_wert_usd": 0.0599}, "dublette": {"aufrufe": 13, "ein": 26, "cache_schreiben": 16904, "cache_lesen": 0, "aus": 1241, "api_wert_usd": 0.0802}, "schreiben": {"aufrufe": 3, "ein": 6, "cache_schreiben": 19366, "cache_lesen": 2788, "aus": 4851, "api_wert_usd": 0.1263}}}}

@@ -1,184 +1,5 @@
 [
  {
-  "id": "1e8cfb02df",
-  "schluessel": "darmstadt|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Darmstadt",
-  "klubs": [
-   "Darmstadt",
-   "Heidenheim"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Schmidt wird deutlich: \"Es bringt nichts, die Dinge schönzureden\"",
-  "quellen": [
-   {
-    "url": "https://www.kicker.de/schmidt-wird-deutlich-es-bringt-nichts-die-dinge-schoenzureden-1273357/artikel#omrss",
-    "aid": "875b38ef8b",
-    "titel": "Schmidt wird deutlich: \"Es bringt nichts, die Dinge schönzureden\"",
-    "quelle": "kicker 2. Bundesliga News",
-    "beschr": "Seit sieben Spielen ohne Sieg, dazu in Darmstadt nicht zum ersten Mal mit defensiven Aussetzern: Der 1. FC Heidenheim befindet sich in der Krise. Das machte auch Trainer Frank Schmidt nach dem 1:3 am Böllenfalltor deutlich.",
-    "zeit": "2026-11-20T22:25"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-21T09:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "bfd779950b",
-  "schluessel": "kaiserslautern|kader",
-  "person": "",
-  "spieler": [],
-  "klub": "Kaiserslautern",
-  "klubs": [
-   "Kaiserslautern",
-   "Dresden"
-  ],
-  "stufe": "kader",
-  "klasse": "kader",
-  "titel": "1. FC Kaiserslautern vs. Dynamo Dresden: voraussichtliche Aufstellungen",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcXJpSWF2dy1IMkppbkF0Q1V2WmVsUmRaR09Cel9lc2ZpR1RZSHhDRnMxTndxbkdiT3lORFRPN0Q1RmQzeWJrc3o5OXpOLXVaNG85MkNjY2FXem4zWjhqMndNY1hKb0M3dUtYMUtpeG0tNGRUTVE2R29BLWFRNjFlcGhkV0piMlpXV3psS3dSOTZoN3RwSU5VendlRVMtbm5NS0RhdWljcDZMeTc4TlF1SXRLUzlvM0tiMVE?oc=5",
-    "aid": "bbdc97d7a3",
-    "titel": "1. FC Kaiserslautern vs. Dynamo Dresden: voraussichtliche Aufstellungen",
-    "quelle": "Tipico",
-    "beschr": " 1. FC Kaiserslautern vs. Dynamo Dresden: voraussichtliche Aufstellungen &nbsp;&nbsp; Tipico ",
-    "zeit": "2026-11-21T08:22"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-21T09:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "b20f75464c",
-  "schluessel": "cottbus|kader",
-  "person": "",
-  "spieler": [],
-  "klub": "Cottbus",
-  "klubs": [
-   "Cottbus",
-   "Hertha"
-  ],
-  "stufe": "kader",
-  "klasse": "kader",
-  "titel": "Energie Cottbus vs. Hertha BSC: voraussichtliche Aufstellungen",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQanUxbjZacVV6WXpUMm10ZFNYNk1sdWpLaUwydVhnSmRsTDhSWE52SDlDY290VHBDN0tDM2JxNE55SFdwRHdCOEMwR2Y4em5FMjd4OXAtYnFaMXRmVklIS1JxNThETEZweXVya2lUaEV2X3FONUdzZ0xIU0cwR2JFVl83bGdlb1h4OWptUlhHemlPZ1pITTF3LWp3OXR5VmJCU3dBNGl1SU05cklKbTh3?oc=5",
-    "aid": "3eb1fb6baa",
-    "titel": "Energie Cottbus vs. Hertha BSC: voraussichtliche Aufstellungen",
-    "quelle": "Tipico",
-    "beschr": " Energie Cottbus vs. Hertha BSC: voraussichtliche Aufstellungen &nbsp;&nbsp; Tipico ",
-    "zeit": "2026-11-21T08:14"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-21T09:01",
-  "archiv": [
-   {
-    "id": "7d386cf19d",
-    "titel": "Braunschweig: Kovacevic vor Kaderrückkehr gegen Cottbus",
-    "datum": "06.11.",
-    "stufe": "kader",
-    "summary": "Braunschweigs Neuzugang Damjan Kovacevic gehört laut Trainer Lars Kornetka gegen Cottbus zum Spieltagskader. Der 22-Jährige wartet nach vier Monaten noch auf seine erste Pflichtspielminute."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "ee29577cc6",
-  "schluessel": "bielefeld|verletzung",
-  "person": "",
-  "spieler": [],
-  "klub": "Bielefeld",
-  "klubs": [
-   "Bielefeld",
-   "Magdeburg"
-  ],
-  "stufe": "ausfall",
-  "klasse": "verletzung",
-  "titel": "Bielefeld verpasst Punktgewinn gegen Magdeburg",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRjlNakFkckVDTS1XWlkzeUVYb05zLVRnVW1oamZnVmx0dlRmd1pteEpSeDdRWEpQSUItRUl2eVBQRlJsNndCOGNVUzJMZ0ZDZjlKMTJPMjZWci1ja3hpaDIwODd0MXBiSURXWXl6RGJfRUdJOU1JTU5Qdy0tUUFrTXJlOVJjTFgxclFrcVZ4cHExem9NVmlMZWI1RTBhNFVO?oc=5",
-    "aid": "2df230892c",
-    "titel": "Bielefeld verpasst Punktgewinn gegen Magdeburg",
-    "quelle": "Sky.de",
-    "beschr": " Bielefeld verpasst Punktgewinn gegen Magdeburg &nbsp;&nbsp; Sky.de ",
-    "zeit": "2026-11-20T21:11"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-21T09:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "428b638186",
-  "schluessel": "hertha|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hertha",
-  "klubs": [
-   "Hertha"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Lustenberger über Aufstieg und Punktrekord: Das macht Hertha jetzt besser als damals",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYXZDUVJPdHVTMXlfbXk4QzQxWjBTVGJkV053NDZRcFY4MW5hMkxUYmpLcVpPdXNLT1hYZ0pfaE5obHBCZERQc0haQWZGc1R1OGp1eTFYOElWTi1TejVZV212OUtDYkwwT1JHMEJnN3NUczJZT2M3elhTM3pTTlpQbXE5d0hqTzFNVEtoMWZqNjhQMDdWZHBjWFRNbWdyU3l5alc0VDVvb3BJQWpnS0hKN1R6dEpMWDFfUHBNSmNWQm1abnMwdWJsWXVmeTlZUXY3clZ3MDlR?oc=5",
-    "aid": "eb82358a5d",
-    "titel": "Lustenberger über Aufstieg und Punktrekord: Das macht Hertha jetzt besser als damals",
-    "quelle": "Berliner Morgenpost",
-    "beschr": " Lustenberger über Aufstieg und Punktrekord: Das macht Hertha jetzt besser als damals &nbsp;&nbsp; Berliner Morgenpost ",
-    "zeit": "2026-11-21T06:00"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-21T09:01",
-  "archiv": [
-   {
-    "id": "5b44f3ec62",
-    "titel": "Wollitz traut Hertha vor Duell in Cottbus den Punkterekord zu",
-    "datum": "16.11.",
-    "stufe": "sonstiges",
-    "summary": "Cottbus-Trainer Claus-Dieter Wollitz traut Spitzenreiter Hertha vor dem Duell am Sonntag einen neuen Zweitliga-Punkterekord zu. Cottbus steht mit elf Punkten auf Relegationsrang 16."
-   },
-   {
-    "id": "2ab310d211",
-    "titel": "Hertha: Adewumi trifft alle 126 Minuten und überzeugt als Leihgabe",
-    "datum": "12.11.",
-    "stufe": "sonstiges",
-    "summary": "Herthas Leihspieler Oluwaseun Adewumi hat in elf Spielen fünf Tore erzielt und trifft im Schnitt alle 126 Minuten. Seine Zukunft ist offen, da Hertha keine Kaufoption besitzt und er bis 2028 bei Burnley unter Vertrag steht."
-   },
-   {
-    "id": "b9598870dd",
-    "titel": "Thorsteinsson über Neustart bei Hertha: „Glauben an die eigene Leistung“",
-    "datum": "10.11.",
-    "stufe": "sonstiges",
-    "summary": "Herthas Jón Dagur Thorsteinsson erzählt, wie ihm die Leihe zu Brann Bergen wieder Selbstvertrauen gab. Sein Doppelpack in Dresden war sein bisher stärkster Abend im Hertha-Trikot."
-   }
-  ],
-  "versuche": 2
- },
- {
   "id": "21f27e3181",
   "schluessel": "nurnberg|sonstiges",
   "person": "",
@@ -207,7 +28,7 @@
   "status": "n",
   "erstmals": "2026-11-21T12:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "ac7fea0ddd",
@@ -258,7 +79,7 @@
     "summary": "Darmstadt 98 hält nach interner Analyse an Trainer Florian Kohfeldt fest. Präsident Markus Pfitzner und Sportchef Paul Fernie sprechen von konstruktiven Lösungen."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "199d27a89c",
@@ -309,7 +130,7 @@
     "summary": "Nürnbergs Trainer Miroslav Klose warnt vor dem ersten Spiel nach der Länderspielpause gegen Braunschweig. Der Einsatz von Innenverteidiger Fynn Otto hängt vom Abschlusstraining ab."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "011dd1f9ad",
@@ -339,6 +160,132 @@
   "status": "n",
   "erstmals": "2026-11-21T12:01",
   "archiv": [],
+  "versuche": 2
+ },
+ {
+  "id": "9534f89fbc",
+  "schluessel": "hertha|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Warum Lukas Michelbrink für Hertha BSC der erste Vorgriff auf die Bundesliga ist",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMzJ1Nm9XT2hrdDgtV0xkTkVhbGNHZGxLaUd4MUdxb3hCMklnR2lEcDZFQVRCN1p0VDVJaG5pM3dId3RuSGplZE5ickQzdm1jcWFHcm9hUElxdHdSOF9nY191SnpjdXdxdlM1a2FRazFoVVhNWDRqWHN6UGw5MmY4TnJvVXgyNVozTFBWSWFSdV9taS1seVNGdk5DMVdUSTNIZ1NLLUNVZ3I3TUpqTndYeFBiTmN0c2tZMzJQWFdPb1Z3YkxIdVM5ZlRabnhYRWh1SzRKMllfdHlYdw?oc=5",
+    "aid": "40fc34d0ef",
+    "titel": "Warum Lukas Michelbrink für Hertha BSC der erste Vorgriff auf die Bundesliga ist",
+    "quelle": "Berliner Morgenpost",
+    "beschr": " Warum Lukas Michelbrink für Hertha BSC der erste Vorgriff auf die Bundesliga ist &nbsp;&nbsp; Berliner Morgenpost ",
+    "zeit": "2026-11-21T13:35"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-21T15:01",
+  "archiv": [
+   {
+    "id": "aff9dda184",
+    "titel": "Michelbrink vor Derby: Cottbus' Leihgabe von Hertha ist unverzichtbar",
+    "datum": "19.11.",
+    "stufe": "sonstiges",
+    "summary": "Vor dem Derby gegen Hertha BSC am Sonntag gilt Leihspieler Lukas Michelbrink bei Energie Cottbus als unverzichtbar. Cottbus besitzt eine Kaufoption, Hertha eine Rückkaufoption."
+   },
+   {
+    "id": "5b44f3ec62",
+    "titel": "Wollitz traut Hertha vor Duell in Cottbus den Punkterekord zu",
+    "datum": "16.11.",
+    "stufe": "sonstiges",
+    "summary": "Cottbus-Trainer Claus-Dieter Wollitz traut Spitzenreiter Hertha vor dem Duell am Sonntag einen neuen Zweitliga-Punkterekord zu. Cottbus steht mit elf Punkten auf Relegationsrang 16."
+   },
+   {
+    "id": "b9598870dd",
+    "titel": "Thorsteinsson über Neustart bei Hertha: „Glauben an die eigene Leistung“",
+    "datum": "10.11.",
+    "stufe": "sonstiges",
+    "summary": "Herthas Jón Dagur Thorsteinsson erzählt, wie ihm die Leihe zu Brann Bergen wieder Selbstvertrauen gab. Sein Doppelpack in Dresden war sein bisher stärkster Abend im Hertha-Trikot."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "a9e70f9a89",
+  "schluessel": "cottbus|kader",
+  "person": "",
+  "spieler": [],
+  "klub": "Cottbus",
+  "klubs": [
+   "Cottbus",
+   "Hertha"
+  ],
+  "stufe": "kader",
+  "klasse": "kader",
+  "titel": "Energie Cottbus Aufstellung: Startelf gegen Hertha - Wollitz nennt neue Rolle von Cigerci",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTFlzSmhNX2h0WVNORk1vX05lUXMtcHp0VlpDN2NXaXdmNWZzUnI0bUZrOVFtOHpvYl9rdGs2VlpWajFIOXItVDU4aXo0eU5tSlRUamRIZFBtTk9QM2NUN09sbDRjc2thanlENE05SDVsM3JsN3VvQlN1NzdKV3FYUnNtSlpRTE9IRjlDd19xWUxJU2Y4cjV0YU1UZlJ3WnJQSDBTdjdjbDdnaHdmWW5veTlDY0J1SHJfOEJ4UVRONkN0bjNKVVM3bHdpMkNoV1RrRzk4M0tRMjM?oc=5",
+    "aid": "5f29dae788",
+    "titel": "Energie Cottbus Aufstellung: Startelf gegen Hertha - Wollitz nennt neue Rolle von Cigerci",
+    "quelle": "Lausitzer Rundschau",
+    "beschr": " Energie Cottbus Aufstellung: Startelf gegen Hertha - Wollitz nennt neue Rolle von Cigerci &nbsp;&nbsp; Lausitzer Rundschau ",
+    "zeit": "2026-11-21T13:00"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-21T15:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "2a1795dfda",
+  "schluessel": "st. pauli|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "St. Pauli",
+  "klubs": [
+   "St. Pauli",
+   "Bochum"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Simon Terodde über das Topspiel zwischen St. Pauli und Bochum",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVkl0YUlEZzM3QnA3cFBJNWFQb01tVmY5SlZGRERkU3JXR2o0MG1BVF93STFVbU9UY0NkdUtIVm5tcktkMDhxUU1mOVV4eGpuM2QzN1l2TUtmNlBXelMtUlZXdHZhZ0ZRS3NSM2F6bV91aFBScE5jdWx1eW5lemc0RzFQVVZrMVl6ZVNDMEFBWEJOOTJRUGMtV2RNWmp4RVZ2U3Q4aHZTWGR4R3JOYzk5RWtVNms?oc=5",
+    "aid": "67dbd39ce6",
+    "titel": "Simon Terodde über das Topspiel zwischen St. Pauli und Bochum",
+    "quelle": "Sky.de",
+    "beschr": " Simon Terodde über das Topspiel zwischen St. Pauli und Bochum &nbsp;&nbsp; Sky.de ",
+    "zeit": "2026-11-21T12:51"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-21T15:01",
+  "archiv": [
+   {
+    "id": "042071a195",
+    "titel": "Göttlich sieht bei St. Pauli keinen „riesigen Bedarf“ im Winter",
+    "datum": "19.11.",
+    "stufe": "sonstiges",
+    "summary": "St. Pauli-Präsident Oke Göttlich sieht keinen riesigen Bedarf für Winter-Transfers, schließt aber nichts aus. Rony Jansson könnte gegen Bochum nach Muskelverletzung zurückkehren."
+   },
+   {
+    "id": "2d5f25514d",
+    "titel": "St. Pauli: Kaars vor Wiedersehen mit Magdeburg unter Druck",
+    "datum": "07.11.",
+    "stufe": "sonstiges",
+    "summary": "St. Pauli-Stürmer Martijn Kaars hat nach nur zwei Toren in elf Einsätzen einen schweren Stand. Vor dem Spiel in Magdeburg lässt Trainer Marcel Rapp offen, ob er in der Startelf steht."
+   }
+  ],
   "versuche": 1
  }
 ]

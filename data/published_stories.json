@@ -3990,5 +3990,76 @@
     },
     "published_at": "2026-11-21T09:05:18.093744",
     "source": "Echo Online"
+  },
+  {
+    "id": "1cafddf4f1",
+    "generated_title": "Wolfsburg schlägt Kiel am 12. Spieltag deutlich mit 3:0",
+    "original_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPSDlEOXdnWTZLbHc2NGIzYmRpVWMzaDF6bzhlRmktNjhvNVJxSzBwRGVGQWhrS1IzMnNkZHZPVjhuU3BtRDdTRERiTEVhMndGMzlTMFMxM1VhOVpWNDlSR3NqZ2lMc1ZvQzlYaGk4QmtaWWUwZkFLS1hsX2QzWjVrRDlJbTEtYWctYlVwWV9SdUlub3JibElhdnAzRE1JTDRTdjFKXzVPcTFGVEJUVkJWQTF1S1RMRlBhRkM3bFlXc2pCaklhM1hic2syRkl3aEdybGwwZmpXQm5fZW9FZERZTTdfYzAyZktEamxJT0dNT2NRcFlEa2FOUzR4X0NxVWFTeWNxcHNNLXI?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Wolfsburg",
+      "event_stage": "spielbericht",
+      "main_teams": [
+        "Hertha",
+        "Wolfsburg"
+      ],
+      "main_players": [
+        "Tobias Strobl"
+      ],
+      "summary": "Der VfL Wolfsburg besiegt Holstein Kiel am 12. Spieltag der 2. Bundesliga mit 3:0. Wolfsburg steht mit 22 Punkten auf Rang vier, Kiel mit 8 Punkten auf Platz 18.",
+      "one_sentence_summary": "Der VfL Wolfsburg besiegt Holstein Kiel am 12.",
+      "schluessel": "tobias strobl|spiel"
+    },
+    "published_at": "2026-11-21T15:05:11.180047",
+    "source": "News.de"
+  },
+  {
+    "id": "c446e6f152",
+    "generated_title": "Taibi trifft spät: Hannover 96 dreht Spiel gegen Fürth",
+    "original_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNa3pqNWZxMzZwZVpOcHp3dmQtNEl4X0lmZnZTUXBJUUtEdmQxYlNxRF9RV2w3eHdMT1MzRmlBU2d1bXdGdFprU1pKOHNFRE5meURaaGhBUV9PWDMwSEZIWjgxZmVsemlXTXZPOG00aTlBVVVDTmVZb3FkaWs5UC1JVEFyLTdESVFIaFhFckZTT256QkVTdDNTNElHcmxHaEhzbU9XTDhkY0RnTjZGN0VyWFlUeG16T2x6YUpQQ2t1LTlKazJnYnNaUnJGVlBFZDhsNDY3ZHVWOGNwMDVY?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Hannover",
+      "event_stage": "spielbericht",
+      "main_teams": [
+        "Dresden",
+        "Fürth",
+        "Hannover"
+      ],
+      "main_players": [
+        "Waniss Taibi",
+        "Stefan Thordarson",
+        "Sandro Wagner"
+      ],
+      "summary": "Hannover 96 gewinnt gegen Greuther Fürth 2:1, Waniss Taibi trifft in der Nachspielzeit. Benjamin Källman verletzte sich früh und musste humpelnd raus.",
+      "one_sentence_summary": "Hannover 96 gewinnt gegen Greuther Fürth 2:1, Waniss Taibi trifft in der Nachspielzeit.",
+      "schluessel": "waniss taibi|spiel"
+    },
+    "published_at": "2026-11-21T15:05:11.221468",
+    "source": "sportschau.de"
+  },
+  {
+    "id": "c2f0479f8c",
+    "generated_title": "Nürnberg verliert gegen Braunschweig nach Führung mit 1:2",
+    "original_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONnlLRW0tUjNnRHRDNnp3eU9QVHppcFE4S0VOeXV4X09HdG1KU3NJUUN2UGdHaWJ0NUg0STFQV1JJZUN6WjhtZWFoR0dxZFBmdURmenFiTU51TWF3VlR4QkZUeUI0cmx4M1VJeTVJYkFJa1FiRW9Tb2VfdFZjdF9DckFtWVBIYW44cmVYd0FEX3VSc3dmd2ZwZURUalNsV1FPUFoyZmRxSkRLNVhlUUJHeERUTGJUQTNPVjJFMnU3NFhCckpqT2RlUDlDakdLNUJKUkJ4WFh3?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Nürnberg",
+      "event_stage": "spielbericht",
+      "main_teams": [
+        "Braunschweig",
+        "Nürnberg"
+      ],
+      "main_players": [
+        "Julian Justvan",
+        "Yann Sturm",
+        "Miroslav Klose"
+      ],
+      "summary": "Nürnberg verliert daheim 1:2 gegen Braunschweig, obwohl Julian Justvan früh traf. Nach einem Eigentor von Javier Fernández drehte Yann Sturm die Partie in der 83. Minute.",
+      "one_sentence_summary": "Nürnberg verliert daheim 1:2 gegen Braunschweig, obwohl Julian Justvan früh traf.",
+      "schluessel": "julian justvan|spiel"
+    },
+    "published_at": "2026-11-21T15:05:11.262298",
+    "source": "T-Online"
   }
 ]
