@@ -1,5 +1,35 @@
 [
   {
+    "id": "0bbdc5b416",
+    "titel": "RWE siegt 3:0 in Verl und springt auf Rang zwei",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "21.11.2026 21:23",
+    "wappen_url": "logos/essen.png",
+    "vereine": [
+      "RW Essen",
+      "Verl"
+    ],
+    "anriss": "Rot-Weiss Essen hat beim SC Verl 3:0 (1:0) gewonnen und damit den vierten Ligasieg in Folge gefeiert. Die Tore erzielten Marek Janssen, Jannik Hofmann und der zurückgekehrte Jaka Potočnik. Essen steht mit 30 Punkten vorerst auf Rang zwei. Janssen brachte die Gäste in der 23.",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "RW Essen",
+    "pfad": "artikel/rwe-siegt-3-0-in-verl-und-springt-auf-rang-zwei-0bbdc5b416.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    },
+    "n11": false
+  },
+  {
     "id": "45eca3fee5",
     "titel": "Hermes trifft doppelt: Regensburg schlägt Würzburg 2:1",
     "kategorie": "news",
