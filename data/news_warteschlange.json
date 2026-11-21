@@ -1,117 +1,5 @@
 [
  {
-  "id": "4a5afba06c",
-  "schluessel": "darmstadt|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Darmstadt",
-  "klubs": [
-   "Darmstadt",
-   "Heidenheim"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Schmidt wird deutlich: \"Bringt nix, die Dinge schönzureden\"",
-  "quellen": [
-   {
-    "url": "https://www.kicker.de/schmidt-wird-deutlich-bringt-nix-die-dinge-schoenzureden-1273357/artikel#omrss",
-    "aid": "e2a0631be3",
-    "titel": "Schmidt wird deutlich: \"Bringt nix, die Dinge schönzureden\"",
-    "quelle": "kicker 2. Bundesliga News",
-    "beschr": "Seit sieben Spielen ohne Sieg, dazu in Darmstadt nicht zum ersten Mal mit defensiven Aussetzern: Der 1. FC Heidenheim befindet sich in der Krise. Das machte auch Trainer Frank Schmidt nach dem 1:3 am Böllenfalltor deutlich.",
-    "zeit": "2026-11-20T22:25"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-21T06:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "65f65d3cf1",
-  "schluessel": "dresden|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Dresden",
-  "klubs": [
-   "Dresden"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "FCK vor Dresden: Wann platzt der Knoten bei Sorgenkind Skyttä?",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOWJXbjNrLXpnZVRuM2UtZDV5SF9odWdqajg0NHMta2VjZTBNSUZfVmc5a1F1WXhkcHdEVTV5am1tbXFLNzlHVUlYRndidGYxRjc3bnZFU2pEeEQ3dzRSdkNPemtMMDFBMkp2V1k3THdNelpfOEhaeUNDRTB4bG1yelVkcWJQNmp4NWZJR0YxMlFZSnZ0OVA3ZDRST2xBdFMxT3k1c2JWUERlQi04ME9ncDdSYS1ZYUZGbHFwZFRSYTg?oc=5",
-    "aid": "649ee1721d",
-    "titel": "FCK vor Dresden: Wann platzt der Knoten bei Sorgenkind Skyttä?",
-    "quelle": "Die Rheinpfalz",
-    "beschr": " FCK vor Dresden: Wann platzt der Knoten bei Sorgenkind Skyttä? &nbsp;&nbsp; Die Rheinpfalz ",
-    "zeit": "2026-11-20T15:39"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-21T06:01",
-  "archiv": [
-   {
-    "id": "fc46321225",
-    "titel": "Dynamo vor Doppelbelastung: Pokal in Stuttgart, drei Tage später Bielefeld",
-    "datum": "06.11.",
-    "stufe": "sonstiges",
-    "summary": "Dynamo Dresden spielt am 1. Dezember im Pokal-Achtelfinale in Stuttgart und drei Tage später in Bielefeld. Trainer Thomas Stamm will sich über die Ansetzungen nicht beschweren."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "0fe017108c",
-  "schluessel": "nurnberg|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Nürnberg",
-  "klubs": [
-   "Nürnberg",
-   "Braunschweig"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "PK-TV: Der 1. FC Nürnberg vor Spiel gegen Braunschweig",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc2t4bWtlMS14QzJiTldpT0NQZjBtWnVIdnZZMGRWTmhrNG05bWdDQVZDQzBtT2hCSlhiNE9QZ20yS3ZoZlVkWUZTU2swNGtyNS1zVXV0aG1oUWxoMTlrQlc5b3FfNU4tcWZhak0tdFpQZG9PRmZMQ0E2S1JqWXY5RDBMSGxCOFVXWHZTWUlxb0ZfT1hXNDdGclcwR3ZvTUpGZTJUVA?oc=5",
-    "aid": "3785c80fdf",
-    "titel": "PK-TV: Der 1. FC Nürnberg vor Spiel gegen Braunschweig",
-    "quelle": "Franken Fernsehen",
-    "beschr": " PK-TV: Der 1. FC Nürnberg vor Spiel gegen Braunschweig &nbsp;&nbsp; Franken Fernsehen ",
-    "zeit": "2026-11-20T16:30"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-21T06:01",
-  "archiv": [
-   {
-    "id": "b9fb86902c",
-    "titel": "Scobel glaubt an Nürnberger Aufstiegschance: „Gut genug“",
-    "datum": "19.11.",
-    "stufe": "sonstiges",
-    "summary": "Nürnbergs Piet Scobel hält sein Team für gut genug, das Niveau zu halten und oben mitzuspielen. Der 21-Jährige hat bisher sechs Tore und eine Vorlage erzielt, Nürnberg ist nach elf Spieltagen Zweiter."
-   },
-   {
-    "id": "741030cd26",
-    "titel": "Nürnberg: Frey gibt Bischof und Schindler Job-Garantie",
-    "datum": "06.11.",
-    "stufe": "sonstiges",
-    "summary": "Nürnbergs neuer Sportvorstand Dieter Frey will Technischen Direktor Michael Bischof und Scouting-Chef Christopher Schindler vorerst behalten. Die Nachfolge im Nachwuchsbereich wird zunächst intern aufgefangen."
-   }
-  ],
-  "versuche": 2
- },
- {
   "id": "1e8cfb02df",
   "schluessel": "darmstadt|sonstiges",
   "person": "",
@@ -139,7 +27,7 @@
   "status": "n",
   "erstmals": "2026-11-21T09:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "bfd779950b",
@@ -169,7 +57,7 @@
   "status": "n",
   "erstmals": "2026-11-21T09:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "b20f75464c",
@@ -207,7 +95,7 @@
     "summary": "Braunschweigs Neuzugang Damjan Kovacevic gehört laut Trainer Lars Kornetka gegen Cottbus zum Spieltagskader. Der 22-Jährige wartet nach vier Monaten noch auf seine erste Pflichtspielminute."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "ee29577cc6",
@@ -237,7 +125,7 @@
   "status": "n",
   "erstmals": "2026-11-21T09:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "428b638186",
@@ -288,6 +176,169 @@
     "summary": "Herthas Jón Dagur Thorsteinsson erzählt, wie ihm die Leihe zu Brann Bergen wieder Selbstvertrauen gab. Sein Doppelpack in Dresden war sein bisher stärkster Abend im Hertha-Trikot."
    }
   ],
+  "versuche": 2
+ },
+ {
+  "id": "21f27e3181",
+  "schluessel": "nurnberg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Nürnberg",
+  "klubs": [
+   "Nürnberg",
+   "Braunschweig",
+   "Frankfurt"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "1.FC Nürnberg: Ausgangslage und News vor Eintracht Braunschweig am 21.11.2026",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS3hUaWdUZGJjT3RDRG5nVlZKaEpMWUJ3ZHk0aWpUUTM4MDJpMkRfZkVwTUp3aHVKT2pxcFBMSFhIQnhHXzJHc3F6UV9OZU1ZUGJXWlNyc3FYRkxiVFdGZFoxdW5ORy01TWFhNXplMzU2eklNUmFOaGhoVmdnMnZxenVoUVdYWl9TellNcjI2NUozb3hCTV9Jc1hpM3NoMFZySTRWN1Z2eDJBVEVyQndpeTRQcGxGdlRQUFZXUmxHLTkxWHNpcWc?oc=5",
+    "aid": "241e05c253",
+    "titel": "1.FC Nürnberg: Ausgangslage und News vor Eintracht Braunschweig am 21.11.2026",
+    "quelle": "News.de",
+    "beschr": " 1.FC Nürnberg: Ausgangslage und News vor Eintracht Braunschweig am 21.11.2026 &nbsp;&nbsp; News.de ",
+    "zeit": "2026-11-21T09:31"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-21T12:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "ac7fea0ddd",
+  "schluessel": "darmstadt|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Darmstadt",
+  "klubs": [
+   "Darmstadt"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "SV Darmstadt 98: So steht Darmstadt nach dem 12. Spieltag da",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ1JWQmxsZXdBUGdEb0M1RjdQdjZjNjNrV0U0SEluYVl4RVdVTmlVOVJ5X0xwd0RvQ2l2cjA3cEYyWUZXbVROZFVhYlpHT3h1aFdCakhwVU1sYkt2YTExZm9mSlp3bjBlZ2pNbTBHTEZYdkJ0a0VscXZ1c1dmYmNlLVdONnR0ck0yWllCTTRFYXg2WUlCY2VTVVpuUnFTQmFZeVhobEtHMlJwNGtheUtVc2ZJRkVMb0ZHVUJB?oc=5",
+    "aid": "dcbc3a4990",
+    "titel": "SV Darmstadt 98: So steht Darmstadt nach dem 12. Spieltag da",
+    "quelle": "News.de",
+    "beschr": " SV Darmstadt 98: So steht Darmstadt nach dem 12. Spieltag da &nbsp;&nbsp; News.de ",
+    "zeit": "2026-11-21T09:31"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-21T12:01",
+  "archiv": [
+   {
+    "id": "c23a312d35",
+    "titel": "Darmstadt: Fernie warnt vor dem Schlafwandeln im Abstiegskampf",
+    "datum": "20.11.",
+    "stufe": "sonstiges",
+    "summary": "Darmstadts Sportchef Paul Fernie stellt sich vor dem Heimspiel gegen Heidenheim hinter Trainer Florian Kohfeldt. Er warnt vor Schlafwandeln im Abstiegskampf, der Klub steht auf Rang 17."
+   },
+   {
+    "id": "85ad76c6a0",
+    "titel": "Darmstadt empfängt Heidenheim zum Freitagsspiel am Böllenfalltor",
+    "datum": "18.11.",
+    "stufe": "sonstiges",
+    "summary": "Darmstadt empfängt am Freitag um 18:30 Uhr Heidenheim zum 12. Spieltag der 2. Bundesliga. Der SV 98 steht mit neun Punkten auf Rang 17, der FCH ist seit sechs Spielen sieglos und Siebter."
+   },
+   {
+    "id": "fdf1491864",
+    "titel": "Darmstadt hält an Trainer Florian Kohfeldt fest",
+    "datum": "09.11.",
+    "stufe": "sonstiges",
+    "summary": "Darmstadt 98 hält nach interner Analyse an Trainer Florian Kohfeldt fest. Präsident Markus Pfitzner und Sportchef Paul Fernie sprechen von konstruktiven Lösungen."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "199d27a89c",
+  "schluessel": "braunschweig|verletzung",
+  "person": "",
+  "spieler": [],
+  "klub": "Braunschweig",
+  "klubs": [
+   "Braunschweig"
+  ],
+  "stufe": "fraglich",
+  "klasse": "verletzung",
+  "titel": "Einsatz von Fynn Otto gegen Braunschweig fraglich: Klose entscheidet nach Abschlusstraining",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMTN0eS1XZTFveVdnSkx5eFVJOUczWjRHMnFwQk5HNkVWTWdMX3RZMlBpb29Yd0NieTBycXc0V3F1WHZPUU8tTC1aU1pBc1ZoUjJSZkVUSEExXzRqS0NoSGh4djVlZ1Q0SmE1cHM4SlRFSWFURVI4SllpWm5sV0FKdVg4bmc1Mlp1TVU1SFItcGk0QlB3dTlzZlU2VEFYdExpR1JJUWRxZm9JWHF4M3Y1V09WczhVSm5YOHdBYXd3ZUdReFVsMW40edIBzgFBVV95cUxQelNXekRveEpaTFZuTlVyZnYzbHJ3YUZHOXZtbkVEeDZlVTJmT3NBMW1lWDZ0Qk0zQTJ1WW13WG05eWhEQ1NSYkFEbmRDdWlObjg2YWJTVGpab0hRemlfcmlOaTA3b2FnM1dpZWs0dnJjYmVqUGFyTGRTaHlGNGVSQzhaWkhuVmdITXpFNWhGVVpEbV9Bc1JQYzBRU0xVenVjV3dWSU1WXzExb3NkVWdtbEV3dlNTN3F5WnRydFNjWHRHMWxXMmpCekRxN1RZZw?oc=5",
+    "aid": "c00f824f40",
+    "titel": "Einsatz von Fynn Otto gegen Braunschweig fraglich: Klose entscheidet nach Abschlusstraining",
+    "quelle": "Tribuna.com",
+    "beschr": " Einsatz von Fynn Otto gegen Braunschweig fraglich: Klose entscheidet nach Abschlusstraining &nbsp;&nbsp; Tribuna.com ",
+    "zeit": "2026-11-20T16:05"
+   }
+  ],
+  "archiv_status": "update",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-21T12:01",
+  "archiv": [
+   {
+    "id": "3ed6998be6",
+    "titel": "Braunschweig: Tempelmanns Comeback vor der Winterpause wird eng",
+    "datum": "19.11.",
+    "stufe": "reha",
+    "summary": "Braunschweigs Lino Tempelmann fehlt in Nürnberg und ist noch nicht im Return-to-Play-Prozess. Co-Trainer Stefan Kulovits hält ein Comeback in diesem Jahr für sehr eng."
+   },
+   {
+    "id": "c4eab28eba",
+    "titel": "Braunschweig: Trainer Kornetka krank, Einsatz in Nürnberg offen",
+    "datum": "19.11.",
+    "stufe": "fraglich",
+    "summary": "Braunschweigs Trainer Lars Kornetka ist erkrankt und fehlte bei der Pressekonferenz vor dem Spiel in Nürnberg. Assistent Stefan Kulovits rechnet mit seiner Rückkehr bis Samstag."
+   },
+   {
+    "id": "718ac82055",
+    "titel": "Klose warnt vor Braunschweig: Otto-Einsatz beim Club offen",
+    "datum": "19.11.",
+    "stufe": "fraglich",
+    "summary": "Nürnbergs Trainer Miroslav Klose warnt vor dem ersten Spiel nach der Länderspielpause gegen Braunschweig. Der Einsatz von Innenverteidiger Fynn Otto hängt vom Abschlusstraining ab."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "011dd1f9ad",
+  "schluessel": "bochum|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Bochum",
+  "klubs": [
+   "Bochum",
+   "St. Pauli"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "VfL Bochum: Mets „brauchte Tapetenwechsel“ – darum verließ er St. Pauli",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLVAwTTdHVkVUOWdWdVVXcW9WWWM5UEZmSUV6ekhZYmlEMzhuRjN5VlU2WmFwZjlOQzE1ZjNsbGF5UU4wQTFqMjhrRE1ndTc1N2FmcTNFWUFvWDc2V3M0Smd5MGp0N0pSMnpGRmkzM3hZT3JuTHNLRWE5cWRIV19XQU1nYlM?oc=5",
+    "aid": "ef32c422f3",
+    "titel": "VfL Bochum: Mets „brauchte Tapetenwechsel“ – darum verließ er St. Pauli",
+    "quelle": "WAZ | Westdeutsche Allgemeine Zeitung",
+    "beschr": " VfL Bochum: Mets „brauchte Tapetenwechsel“ – darum verließ er St. Pauli &nbsp;&nbsp; WAZ | Westdeutsche Allgemeine Zeitung ",
+    "zeit": "2026-11-20T15:00"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-21T12:01",
+  "archiv": [],
   "versuche": 1
  }
 ]
