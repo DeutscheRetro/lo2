@@ -1,168 +1,5 @@
 [
  {
-  "id": "21f27e3181",
-  "schluessel": "nurnberg|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Nürnberg",
-  "klubs": [
-   "Nürnberg",
-   "Braunschweig",
-   "Frankfurt"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "1.FC Nürnberg: Ausgangslage und News vor Eintracht Braunschweig am 21.11.2026",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS3hUaWdUZGJjT3RDRG5nVlZKaEpMWUJ3ZHk0aWpUUTM4MDJpMkRfZkVwTUp3aHVKT2pxcFBMSFhIQnhHXzJHc3F6UV9OZU1ZUGJXWlNyc3FYRkxiVFdGZFoxdW5ORy01TWFhNXplMzU2eklNUmFOaGhoVmdnMnZxenVoUVdYWl9TellNcjI2NUozb3hCTV9Jc1hpM3NoMFZySTRWN1Z2eDJBVEVyQndpeTRQcGxGdlRQUFZXUmxHLTkxWHNpcWc?oc=5",
-    "aid": "241e05c253",
-    "titel": "1.FC Nürnberg: Ausgangslage und News vor Eintracht Braunschweig am 21.11.2026",
-    "quelle": "News.de",
-    "beschr": " 1.FC Nürnberg: Ausgangslage und News vor Eintracht Braunschweig am 21.11.2026 &nbsp;&nbsp; News.de ",
-    "zeit": "2026-11-21T09:31"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-21T12:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "ac7fea0ddd",
-  "schluessel": "darmstadt|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Darmstadt",
-  "klubs": [
-   "Darmstadt"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "SV Darmstadt 98: So steht Darmstadt nach dem 12. Spieltag da",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ1JWQmxsZXdBUGdEb0M1RjdQdjZjNjNrV0U0SEluYVl4RVdVTmlVOVJ5X0xwd0RvQ2l2cjA3cEYyWUZXbVROZFVhYlpHT3h1aFdCakhwVU1sYkt2YTExZm9mSlp3bjBlZ2pNbTBHTEZYdkJ0a0VscXZ1c1dmYmNlLVdONnR0ck0yWllCTTRFYXg2WUlCY2VTVVpuUnFTQmFZeVhobEtHMlJwNGtheUtVc2ZJRkVMb0ZHVUJB?oc=5",
-    "aid": "dcbc3a4990",
-    "titel": "SV Darmstadt 98: So steht Darmstadt nach dem 12. Spieltag da",
-    "quelle": "News.de",
-    "beschr": " SV Darmstadt 98: So steht Darmstadt nach dem 12. Spieltag da &nbsp;&nbsp; News.de ",
-    "zeit": "2026-11-21T09:31"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-21T12:01",
-  "archiv": [
-   {
-    "id": "c23a312d35",
-    "titel": "Darmstadt: Fernie warnt vor dem Schlafwandeln im Abstiegskampf",
-    "datum": "20.11.",
-    "stufe": "sonstiges",
-    "summary": "Darmstadts Sportchef Paul Fernie stellt sich vor dem Heimspiel gegen Heidenheim hinter Trainer Florian Kohfeldt. Er warnt vor Schlafwandeln im Abstiegskampf, der Klub steht auf Rang 17."
-   },
-   {
-    "id": "85ad76c6a0",
-    "titel": "Darmstadt empfängt Heidenheim zum Freitagsspiel am Böllenfalltor",
-    "datum": "18.11.",
-    "stufe": "sonstiges",
-    "summary": "Darmstadt empfängt am Freitag um 18:30 Uhr Heidenheim zum 12. Spieltag der 2. Bundesliga. Der SV 98 steht mit neun Punkten auf Rang 17, der FCH ist seit sechs Spielen sieglos und Siebter."
-   },
-   {
-    "id": "fdf1491864",
-    "titel": "Darmstadt hält an Trainer Florian Kohfeldt fest",
-    "datum": "09.11.",
-    "stufe": "sonstiges",
-    "summary": "Darmstadt 98 hält nach interner Analyse an Trainer Florian Kohfeldt fest. Präsident Markus Pfitzner und Sportchef Paul Fernie sprechen von konstruktiven Lösungen."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "199d27a89c",
-  "schluessel": "braunschweig|verletzung",
-  "person": "",
-  "spieler": [],
-  "klub": "Braunschweig",
-  "klubs": [
-   "Braunschweig"
-  ],
-  "stufe": "fraglich",
-  "klasse": "verletzung",
-  "titel": "Einsatz von Fynn Otto gegen Braunschweig fraglich: Klose entscheidet nach Abschlusstraining",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMTN0eS1XZTFveVdnSkx5eFVJOUczWjRHMnFwQk5HNkVWTWdMX3RZMlBpb29Yd0NieTBycXc0V3F1WHZPUU8tTC1aU1pBc1ZoUjJSZkVUSEExXzRqS0NoSGh4djVlZ1Q0SmE1cHM4SlRFSWFURVI4SllpWm5sV0FKdVg4bmc1Mlp1TVU1SFItcGk0QlB3dTlzZlU2VEFYdExpR1JJUWRxZm9JWHF4M3Y1V09WczhVSm5YOHdBYXd3ZUdReFVsMW40edIBzgFBVV95cUxQelNXekRveEpaTFZuTlVyZnYzbHJ3YUZHOXZtbkVEeDZlVTJmT3NBMW1lWDZ0Qk0zQTJ1WW13WG05eWhEQ1NSYkFEbmRDdWlObjg2YWJTVGpab0hRemlfcmlOaTA3b2FnM1dpZWs0dnJjYmVqUGFyTGRTaHlGNGVSQzhaWkhuVmdITXpFNWhGVVpEbV9Bc1JQYzBRU0xVenVjV3dWSU1WXzExb3NkVWdtbEV3dlNTN3F5WnRydFNjWHRHMWxXMmpCekRxN1RZZw?oc=5",
-    "aid": "c00f824f40",
-    "titel": "Einsatz von Fynn Otto gegen Braunschweig fraglich: Klose entscheidet nach Abschlusstraining",
-    "quelle": "Tribuna.com",
-    "beschr": " Einsatz von Fynn Otto gegen Braunschweig fraglich: Klose entscheidet nach Abschlusstraining &nbsp;&nbsp; Tribuna.com ",
-    "zeit": "2026-11-20T16:05"
-   }
-  ],
-  "archiv_status": "update",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-21T12:01",
-  "archiv": [
-   {
-    "id": "3ed6998be6",
-    "titel": "Braunschweig: Tempelmanns Comeback vor der Winterpause wird eng",
-    "datum": "19.11.",
-    "stufe": "reha",
-    "summary": "Braunschweigs Lino Tempelmann fehlt in Nürnberg und ist noch nicht im Return-to-Play-Prozess. Co-Trainer Stefan Kulovits hält ein Comeback in diesem Jahr für sehr eng."
-   },
-   {
-    "id": "c4eab28eba",
-    "titel": "Braunschweig: Trainer Kornetka krank, Einsatz in Nürnberg offen",
-    "datum": "19.11.",
-    "stufe": "fraglich",
-    "summary": "Braunschweigs Trainer Lars Kornetka ist erkrankt und fehlte bei der Pressekonferenz vor dem Spiel in Nürnberg. Assistent Stefan Kulovits rechnet mit seiner Rückkehr bis Samstag."
-   },
-   {
-    "id": "718ac82055",
-    "titel": "Klose warnt vor Braunschweig: Otto-Einsatz beim Club offen",
-    "datum": "19.11.",
-    "stufe": "fraglich",
-    "summary": "Nürnbergs Trainer Miroslav Klose warnt vor dem ersten Spiel nach der Länderspielpause gegen Braunschweig. Der Einsatz von Innenverteidiger Fynn Otto hängt vom Abschlusstraining ab."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "011dd1f9ad",
-  "schluessel": "bochum|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Bochum",
-  "klubs": [
-   "Bochum",
-   "St. Pauli"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "VfL Bochum: Mets „brauchte Tapetenwechsel“ – darum verließ er St. Pauli",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLVAwTTdHVkVUOWdWdVVXcW9WWWM5UEZmSUV6ekhZYmlEMzhuRjN5VlU2WmFwZjlOQzE1ZjNsbGF5UU4wQTFqMjhrRE1ndTc1N2FmcTNFWUFvWDc2V3M0Smd5MGp0N0pSMnpGRmkzM3hZT3JuTHNLRWE5cWRIV19XQU1nYlM?oc=5",
-    "aid": "ef32c422f3",
-    "titel": "VfL Bochum: Mets „brauchte Tapetenwechsel“ – darum verließ er St. Pauli",
-    "quelle": "WAZ | Westdeutsche Allgemeine Zeitung",
-    "beschr": " VfL Bochum: Mets „brauchte Tapetenwechsel“ – darum verließ er St. Pauli &nbsp;&nbsp; WAZ | Westdeutsche Allgemeine Zeitung ",
-    "zeit": "2026-11-20T15:00"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-21T12:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
   "id": "9534f89fbc",
   "schluessel": "hertha|sonstiges",
   "person": "",
@@ -211,7 +48,7 @@
     "summary": "Herthas Jón Dagur Thorsteinsson erzählt, wie ihm die Leihe zu Brann Bergen wieder Selbstvertrauen gab. Sein Doppelpack in Dresden war sein bisher stärkster Abend im Hertha-Trikot."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "a9e70f9a89",
@@ -241,7 +78,7 @@
   "status": "n",
   "erstmals": "2026-11-21T15:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "2a1795dfda",
@@ -286,6 +123,2220 @@
     "summary": "St. Pauli-Stürmer Martijn Kaars hat nach nur zwei Toren in elf Einsätzen einen schweren Stand. Vor dem Spiel in Magdeburg lässt Trainer Marcel Rapp offen, ob er in der Startelf steht."
    }
   ],
-  "versuche": 1
+  "versuche": 2
+ },
+ {
+  "id": "afcd36a1c8",
+  "schluessel": "darmstadt|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Darmstadt",
+  "klubs": [
+   "Darmstadt"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Kohfeldts Jubellauf: Wichtiger Heimsieg für Darmstadt 98",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY0tVRDJ2cXFiYWlJLThEbUM2TGZtbTdKT2xrSlNLcndnVHhxM18yUjNuYVExRlV4WGNQUWVhdEpXQi1ZaGp0T3RTbVZCenZneHQ1dTFkdnVfQlJDbXhOUUZ6eVVWM3lWN3VGeXBsV3JIYVU5R1ZkcFoySHFZUEFReE5DT2d3c0t5MUxLS0ZjSWNGTWlpUjl1dzNNUEtIYU0?oc=5",
+    "aid": "aa358a5cf8",
+    "titel": "Kohfeldts Jubellauf: Wichtiger Heimsieg für Darmstadt 98",
+    "quelle": "Onetz",
+    "beschr": " Kohfeldts Jubellauf: Wichtiger Heimsieg für Darmstadt 98 &nbsp;&nbsp; Onetz ",
+    "zeit": "2026-11-20T21:24"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": [
+   {
+    "id": "fdf1491864",
+    "titel": "Darmstadt hält an Trainer Florian Kohfeldt fest",
+    "datum": "09.11.",
+    "stufe": "sonstiges",
+    "summary": "Darmstadt 98 hält nach interner Analyse an Trainer Florian Kohfeldt fest. Präsident Markus Pfitzner und Sportchef Paul Fernie sprechen von konstruktiven Lösungen."
+   },
+   {
+    "id": "182900733e",
+    "titel": "Darmstadt: Fernie vermeidet Bekenntnis zu Kohfeldt",
+    "datum": "07.11.",
+    "stufe": "sonstiges",
+    "summary": "Nach der 0:2-Niederlage in Nürnberg vermeidet Darmstadts Geschäftsführer Paul Fernie ein Bekenntnis zu Trainer Florian Kohfeldt. Der Klub steckt tief im Tabellenkeller der 2. Bundesliga."
+   }
+  ]
+ },
+ {
+  "id": "741f8ed581",
+  "schluessel": "heidenheim|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Heidenheim",
+  "klubs": [
+   "Heidenheim",
+   "Darmstadt"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "1. FC Heidenheim zu Gast beim SV Darmstadt",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN2FDWWdwWjRucW9hWm92NURjNENlT2RmbEZFejlfUWc2YXYxMkdFVmY1Zm44Y1lrWnBIZ1hSTlR5QTFHMkpZRHlXaHNweFl0SGxpMG8tbEZTVXBkaUkyWkRhTWhPMmh6LS1ZV3VJRzg0bkg2cmRscWF4ajZ5R0xqek0tT2prWXBk?oc=5",
+    "aid": "9f4f981cb4",
+    "titel": "1. FC Heidenheim zu Gast beim SV Darmstadt",
+    "quelle": "Heidenheimer Zeitung",
+    "beschr": " 1. FC Heidenheim zu Gast beim SV Darmstadt &nbsp;&nbsp; Heidenheimer Zeitung ",
+    "zeit": "2026-11-20T19:57"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": [
+   {
+    "id": "85ad76c6a0",
+    "titel": "Darmstadt empfängt Heidenheim zum Freitagsspiel am Böllenfalltor",
+    "datum": "18.11.",
+    "stufe": "sonstiges",
+    "summary": "Darmstadt empfängt am Freitag um 18:30 Uhr Heidenheim zum 12. Spieltag der 2. Bundesliga. Der SV 98 steht mit neun Punkten auf Rang 17, der FCH ist seit sechs Spielen sieglos und Siebter."
+   }
+  ]
+ },
+ {
+  "id": "9f40c993ac",
+  "schluessel": "kaiserslautern|kader",
+  "person": "",
+  "spieler": [],
+  "klub": "Kaiserslautern",
+  "klubs": [
+   "Kaiserslautern",
+   "Dresden"
+  ],
+  "stufe": "kader",
+  "klasse": "kader",
+  "titel": "1. FC Kaiserslautern - Dynamo Dresden Kader & Aufstellungen: 2. Bundesliga Fußball",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNzd3TWZEZGxCcFZJNHBDaGxvMmVqcnp5RkR2ZGE2Ri1EZEFXX0RMdjMxQ0hDWnZkNW81R0tfVGJHMnVkdmVxbU80bHZmSDhtbkhmSjdDN0pESnNpejEzN0wzcVdsYVgyREJZMXE3dzZxSHl0TFVlck1pYlZmR0FhcHd4YTRFZnpwclg1Q0hWQ2NiVjRqWldKcm5vczV4UUR0a1hUV1NVLVVpMHVqbXBlU3lRb0VCbENRM3RWMTBwNA?oc=5",
+    "aid": "35f80974b1",
+    "titel": "1. FC Kaiserslautern - Dynamo Dresden Kader & Aufstellungen: 2. Bundesliga Fußball",
+    "quelle": "Eurosport",
+    "beschr": " 1. FC Kaiserslautern - Dynamo Dresden Kader & Aufstellungen: 2. Bundesliga Fußball &nbsp;&nbsp; Eurosport ",
+    "zeit": "2026-11-21T10:45"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": []
+ },
+ {
+  "id": "28535e58ad",
+  "schluessel": "dresden|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Dresden",
+  "klubs": [
+   "Dresden"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Trotz längster Distanz: Dresden sorgt für größte Gästekulisse",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSVN3bWd1dlhtS1pSeGhvQ3kyMUxWUGJ5OUh2dXhTdlZKTWxYcFJUR2s2aEo5TnlvQm8wS290VjdsNDk1ZkZVek1keGdEZXA5aDMweVZRWW8yZWVtUEdHSTc1ZWhJckoxWnVDTk02cTE4YTdLSEtVYkZ4a3dQY2M5T1hXUzVreXBKaWI0Z0R4QmZTMWRrS1JLTg?oc=5",
+    "aid": "24f5bc68ae",
+    "titel": "Trotz längster Distanz: Dresden sorgt für größte Gästekulisse",
+    "quelle": "Die falsche 9",
+    "beschr": " Trotz längster Distanz: Dresden sorgt für größte Gästekulisse &nbsp;&nbsp; Die falsche 9 ",
+    "zeit": "2026-11-21T15:32"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": []
+ },
+ {
+  "id": "6344729fa3",
+  "schluessel": "kaiserslautern|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Kaiserslautern",
+  "klubs": [
+   "Kaiserslautern"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Warum Dynamo-Kapitän Hauptmann in Kaiserslautern noch etwas Neues erleben will",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcElXdEppRmdUd3Q5b0toVTJjclRxamFRUUg0TE1KSVpEMjk1Z0N5Zm5GY1l4aDdKVVpfdHJPdWQ5STRJYnZCM1NuOGwzUV9MQ1Jfd2U0Ni1rb0VCLS1xeXUzMkdkc2ktODc5czNETndOUlBkQzFOYjhfaDlRQnpfZjFod29RMzJHOC16YTFsUExlOWw3Z3ROUktGU045QzVPQ2JwTWt0VWdYaU5qNmF5dzdMaUxiMlZqSzZpQ19qTWdtbjhJSXhYSXk1VDlIX0ZCeFBPRU80UF9LTzJuSnfSAfoBQVVfeXFMTnlYbGZjTlpjOHpDVl9rTmlFeFY0N0RMT0U1S3hyYXZmenFaODZGajhXOVFOLWdfOUZENVl2b2ExZTF5TVJDOTNEdDRnYkR4d2k2bkRGMnI2VWxYRlZtZ3VheUNIUXhjbHFtTzNHbVRjM1hXMDJObUd2RUtlTnZqaGlJQ0FHeDZCLVNLcFFnWHNReHdUZWVaT1E2QUtsN19zVmQzNDNLMHBWbjVqRzJfOWszakhhVklXVmtFTlh1dGtwWE5ocFZ6NU1nYkFJV1JydXVtcWFyYXlPMDhHX3pmUm1yVWhzMjFpZC01NDYzM3VXenpjN2xKRVppZw?oc=5",
+    "aid": "7f47f88323",
+    "titel": "Warum Dynamo-Kapitän Hauptmann in Kaiserslautern noch etwas Neues erleben will",
+    "quelle": "DNN - Dresdner Neueste Nachrichten",
+    "beschr": " Warum Dynamo-Kapitän Hauptmann in Kaiserslautern noch etwas Neues erleben will &nbsp;&nbsp; DNN - Dresdner Neueste Nachrichten ",
+    "zeit": "2026-11-21T12:35"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": []
+ },
+ {
+  "id": "b773229041",
+  "schluessel": "kaiserslautern|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Kaiserslautern",
+  "klubs": [
+   "Kaiserslautern"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "1. FC Kaiserslautern - SC Freiburg: Live Stream heute",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWkl6RkxheWlyaVBfQTlSdVcxZ3lLU3BlYzdYem05Q1NLQ3I1V2F1TS1oRXllUnZiakF2MVY1eGJtRFNNSlFFX0Q4MXVnTDRYMVdFUERpSkQ1bDFxQVd0UEkxbWY4cGRVQVpUM0YtOG1SQzdVdGh5ZnNoM3AyV2sxd3FlRUY2NDJ0cF9QT05QRzVFQQ?oc=5",
+    "aid": "95488f8a74",
+    "titel": "1. FC Kaiserslautern - SC Freiburg: Live Stream heute",
+    "quelle": "JustWatch",
+    "beschr": " 1. FC Kaiserslautern - SC Freiburg: Live Stream heute &nbsp;&nbsp; JustWatch ",
+    "zeit": "2026-11-21T16:49"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": []
+ },
+ {
+  "id": "7abdc0808a",
+  "schluessel": "nurnberg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Nürnberg",
+  "klubs": [
+   "Nürnberg",
+   "Braunschweig",
+   "Frankfurt"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "1. FC Nürnberg - Eintracht Braunschweig | 12. Spieltag | Spielbericht | Highlights",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORl94S2MyY3JXTW1wLV9VaFlyRzJ3RXNzcjNCLVg1azlQMGZrN0RfemVIS3FqYUQzUGxmcjdfd2xOMjE3WGhZc3FhTmFQTUIzYnJtWUp0d3RnTEJzTEpBaW05T2FqX0w5a1NfNHBERFo2cHNjNDJzcm5SU2g3YUZpd2FndzAxNkVnZGNlRld3WGJfbDdvT21HdEJIWkFRYzBEVUZkRzVrQ3k3eGg2YzA4SzZiUG8xVlY4OUk2TzVKZ0YtcGFS?oc=5",
+    "aid": "13c8848352",
+    "titel": "1. FC Nürnberg - Eintracht Braunschweig | 12. Spieltag | Spielbericht | Highlights",
+    "quelle": "Bundesliga | official website",
+    "beschr": " 1. FC Nürnberg - Eintracht Braunschweig | 12. Spieltag | Spielbericht | Highlights &nbsp;&nbsp; Bundesliga | official website ",
+    "zeit": "2026-11-21T15:13"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": []
+ },
+ {
+  "id": "b3633e438e",
+  "schluessel": "nurnberg|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Nürnberg",
+  "klubs": [
+   "Nürnberg"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "Nach dem späten Siegtor gibt es bei Sandro Wagner kein Halten mehr – Dämpfer für Nürnberg",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNMklDcDNFbHdQZHg4VldrV20tazljUVNMcFk1X1RCWW5Ra1MwVldYeVFiczFoa2RPUnhxeFJEd0VJY2c0MkNDSWdZQWpKS3VOb3BjejRzVDdsdU9BOGtTM1M4b1l4bEtjNEZoNXh5OVNZbzktWGVtS1lmRnl1M1hXU3FPVktVUjhIX08wNEgzWURZcEdWUWFYQm5IMzA0ZDhrcHdtaEdYQ0R1YXl3cWNDYjIzUDQtYy1XdkQ1UFl3TmtfaFR0cTVXbzFtd0lBVDk3Xy1pTm1CQ1lOZEV4SDhrcUk0M1JvUzVaV1VCY3JDLWlGR3hDQ3ltaVZLVFVOT0xXM0tEMHZB?oc=5",
+    "aid": "54ba476d46",
+    "titel": "Nach dem späten Siegtor gibt es bei Sandro Wagner kein Halten mehr – Dämpfer für Nürnberg",
+    "quelle": "WELT",
+    "beschr": " Nach dem späten Siegtor gibt es bei Sandro Wagner kein Halten mehr – Dämpfer für Nürnberg &nbsp;&nbsp; WELT ",
+    "zeit": "2026-11-21T17:10"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": [
+   {
+    "id": "c2f0479f8c",
+    "titel": "Nürnberg verliert gegen Braunschweig nach Führung mit 1:2",
+    "datum": "21.11.",
+    "stufe": "spielbericht",
+    "summary": "Nürnberg verliert daheim 1:2 gegen Braunschweig, obwohl Julian Justvan früh traf. Nach einem Eigentor von Javier Fernández drehte Yann Sturm die Partie in der 83. Minute."
+   },
+   {
+    "id": "6bff53df7c",
+    "titel": "Darmstadt gewinnt Testspiel in Nürnberg mit 4:1",
+    "datum": "08.11.",
+    "stufe": "spielbericht",
+    "summary": "Darmstadt 98 gewinnt ein nicht öffentliches Testspiel beim 1. FC Nürnberg mit 4:1, Lakenmacher trifft doppelt. Weitere Testspiele in der Länderspielpause sind nicht geplant."
+   },
+   {
+    "id": "12b3d6a07a",
+    "titel": "Nürnberg schlägt Darmstadt dank Scobel und Bøving mit 2:0",
+    "datum": "07.11.",
+    "stufe": "spielbericht",
+    "summary": "Der 1. FC Nürnberg gewinnt am 11. Spieltag mit 2:0 gegen Darmstadt 98. Piet Scobel und William Bøving treffen nach der Pause."
+   }
+  ]
+ },
+ {
+  "id": "447dd2c3bc",
+  "schluessel": "wolfsburg|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Wolfsburg",
+  "klubs": [
+   "Nürnberg",
+   "Wolfsburg"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "Pechvogel Weiner leitet Kiel-Pleite in Wolfsburg ein – Last-Minute-Jubel bei 96",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYzNqNURLeHBHZm5iajRib2U1S2JmdmI5SEFzQzdPWER3LXRoR0hQYThpQTRGU1JvaWFwdks1NjZyMHctai1vd1JPNElvQV90UUVaWUdMaXRzVXdEWDMxc19ZbWo3T0dHS1EwOEIyb0ZCd0diYjIxV3lUZzdrVnhaNzhXLTFZV2tPc1R5aktFd3NMZmZkQUtRQkwxZlIzX3ZONlI1eURDeTEzcTk5SnlWTExMWi1pcnJYT1Z3TjBUdjc?oc=5",
+    "aid": "8be9db695f",
+    "titel": "Pechvogel Weiner leitet Kiel-Pleite in Wolfsburg ein – Last-Minute-Jubel bei 96",
+    "quelle": "Transfermarkt",
+    "beschr": " Pechvogel Weiner leitet Kiel-Pleite in Wolfsburg ein – Last-Minute-Jubel bei 96 &nbsp;&nbsp; Transfermarkt ",
+    "zeit": "2026-11-21T15:05"
+   },
+   {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdDUxX19VOGZuNXRHNG1wVHdrektON0VjSF81LUI4cmg1UFFhSWk5Mm8wY3NjTm1WdzlrSEJCaWlEUWZFbDNaMUUzbDRoeTZrejlJWGtYb0ZUZjlrSXo0M25MYzlDLTRCY2NqZEFBYk1GTVdfemZIZW5FcUxZNnlnV2RUeWcxbVhkRms5R1I2cjU4dEpfX3VBNWt2R2RKVXZoTmtOOHd5YmkzTVAxdVE?oc=5",
+    "aid": "266c998e8a",
+    "titel": "Klose-Pleite in Nürnberg – Wolfsburg nutzt Kieler Pannen eiskalt aus",
+    "quelle": "WEB.DE",
+    "beschr": " Klose-Pleite in Nürnberg – Wolfsburg nutzt Kieler Pannen eiskalt aus &nbsp;&nbsp; WEB.DE ",
+    "zeit": "2026-11-21T15:21"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": [
+   {
+    "id": "1cafddf4f1",
+    "titel": "Wolfsburg schlägt Kiel am 12. Spieltag deutlich mit 3:0",
+    "datum": "21.11.",
+    "stufe": "spielbericht",
+    "summary": "Der VfL Wolfsburg besiegt Holstein Kiel am 12. Spieltag der 2. Bundesliga mit 3:0. Wolfsburg steht mit 22 Punkten auf Rang vier, Kiel mit 8 Punkten auf Platz 18."
+   },
+   {
+    "id": "85e4606aac",
+    "titel": "Wolfsburg hadert nach 1:2 bei Hertha mit verweigertem Elfmeter",
+    "datum": "08.11.",
+    "stufe": "spielbericht",
+    "summary": "Wolfsburg verliert im Spitzenspiel bei Tabellenführer Hertha BSC mit 1:2. Trainer Tobias Strobl und Sportdirektor Pirmin Schwegler kritisieren den nicht gegebenen Elfmeter in der Nachspielzeit."
+   }
+  ]
+ },
+ {
+  "id": "a4fc9266b6",
+  "schluessel": "braunschweig|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Braunschweig",
+  "klubs": [
+   "Braunschweig",
+   "Frankfurt",
+   "Nürnberg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Sturm schießt Eintracht Braunschweig zum Überraschungssieg in Nürnberg",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdE5MNmN0VkRPVWtINFhCTFVfcC1JbDhtbXBtSU84NUh6N2RuZ3FBbEgweFNIZjIwTUZ1REE3UFhnM3RjMDRITU11QUpzVmlYNkM1b1ltbGtGZlNQVlMyMi1iX0FBVHE2VVh1MGhqS1cycU81T05iWFVET0RuMmoxbElLSENQWWFERXo4RGJaSnRad29YUzZ4NFFlekNpTXJMbXVpSHRZelNpS1pUTGc?oc=5",
+    "aid": "bdb7925484",
+    "titel": "Sturm schießt Eintracht Braunschweig zum Überraschungssieg in Nürnberg",
+    "quelle": "NDR.de",
+    "beschr": " Sturm schießt Eintracht Braunschweig zum Überraschungssieg in Nürnberg &nbsp;&nbsp; NDR.de ",
+    "zeit": "2026-11-21T15:40"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": [
+   {
+    "id": "09d22d0393",
+    "titel": "Braunschweig: Tabea Kemme in den Aufsichtsrat gewählt",
+    "datum": "16.11.",
+    "stufe": "sonstiges",
+    "summary": "Eintracht Braunschweig hat die frühere Nationalspielerin Tabea Kemme in den Aufsichtsrat der Profifußballgesellschaft gewählt. Präsidentin Nicole Kumpis wurde im Amt bestätigt."
+   }
+  ]
+ },
+ {
+  "id": "8387675e05",
+  "schluessel": "braunschweig|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Braunschweig",
+  "klubs": [
+   "Braunschweig"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "Bittere Club-Heimpleite gegen Braunschweig",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMi1ncUNiN1pDbG03MzBKTzhhTUpJdERPQU1WanduZEZOYmMyRzl3dEQ2dHNHaXJsV3I1ejNBNWgyeWJhS1NUQTJnV2M2cnpOdnVmSG1rbEZmbDlQancxemU2VTV1Rk56LTdQMG53YkxBMHlWSWVTQVBYMVcxZXpHOTZCaHNQU2ZtMVJ4dm1NV2ZmY1RQdnN5eUE1WjN6eVpJVDQwSFFjeFRQWjRxVVdhTHpzb0tsWHBXWXlsaHFRdU9TSEFtYUE?oc=5",
+    "aid": "9e280661d8",
+    "titel": "Bittere Club-Heimpleite gegen Braunschweig",
+    "quelle": "t-online – Nürnberg",
+    "beschr": " Bittere Club-Heimpleite gegen Braunschweig &nbsp;&nbsp; t-online – Nürnberg ",
+    "zeit": "2026-11-21T15:10"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": [
+   {
+    "id": "c2f0479f8c",
+    "titel": "Nürnberg verliert gegen Braunschweig nach Führung mit 1:2",
+    "datum": "21.11.",
+    "stufe": "spielbericht",
+    "summary": "Nürnberg verliert daheim 1:2 gegen Braunschweig, obwohl Julian Justvan früh traf. Nach einem Eigentor von Javier Fernández drehte Yann Sturm die Partie in der 83. Minute."
+   },
+   {
+    "id": "133c96c002",
+    "titel": "Braunschweig verliert Test beim SC Paderborn mit 1:4",
+    "datum": "10.11.",
+    "stufe": "spielbericht",
+    "summary": "Eintracht Braunschweig hat ein Testspiel beim SC Paderborn mit 1:4 verloren. Lukas Frenkert traf nach der Pause erst ins eigene, dann ins richtige Tor."
+   },
+   {
+    "id": "326a90cf49",
+    "titel": "Cottbus holt 0:0 in Braunschweig: Kinsombi trifft den Pfosten",
+    "datum": "06.11.",
+    "stufe": "spielbericht",
+    "summary": "Energie Cottbus und Eintracht Braunschweig trennen sich am 11. Spieltag 0:0. Kinsombi traf in der 14. Minute den Pfosten, beide Teams haben nun 11 Punkte."
+   }
+  ]
+ },
+ {
+  "id": "433f624499",
+  "schluessel": "nurnberg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Nürnberg",
+  "klubs": [
+   "Nürnberg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "2. Bundesliga: 1. FC Nürnberg verspielt Führung – Rückschlag im Aufstiegsrennen",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNY1lVUVlYcEV2dDNuYjRsekkyVE1DN1BMSl82RU9lQlk1blUxQ0d1ejJidmI1NGtjRUhJOFplVTRpLWl1TFdxeklFWllUR0Z0aENKLUFadGZTRjlQWXRFeGViRmNiNEZQLVJxNjI3WTRGVDRiMlVQOXVXMzdHa1A4RXdpN29CZThyU0FCb3dZLVZ6UW5qSElvelM4NEZTS0V1N3RaUElhN0U1SFFxUE9KSUd4RFZVTUgxaHhBbDh5NEl5eXRfRE9hQ0sxUEhQa25Cb1ZaWmstMFIyZkRzVlpyN0wzZHRpYmlL?oc=5",
+    "aid": "b0146a04a5",
+    "titel": "2. Bundesliga: 1. FC Nürnberg verspielt Führung – Rückschlag im Aufstiegsrennen",
+    "quelle": "Frankenpost",
+    "beschr": " 2. Bundesliga: 1. FC Nürnberg verspielt Führung – Rückschlag im Aufstiegsrennen &nbsp;&nbsp; Frankenpost ",
+    "zeit": "2026-11-21T15:04"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": [
+   {
+    "id": "b9fb86902c",
+    "titel": "Scobel glaubt an Nürnberger Aufstiegschance: „Gut genug“",
+    "datum": "19.11.",
+    "stufe": "sonstiges",
+    "summary": "Nürnbergs Piet Scobel hält sein Team für gut genug, das Niveau zu halten und oben mitzuspielen. Der 21-Jährige hat bisher sechs Tore und eine Vorlage erzielt, Nürnberg ist nach elf Spieltagen Zweiter."
+   }
+  ]
+ },
+ {
+  "id": "df6ddff37a",
+  "schluessel": "nurnberg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Nürnberg",
+  "klubs": [
+   "Nürnberg",
+   "Braunschweig",
+   "Frankfurt"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "1. FC Nürnberg - Eintracht Braunschweig Statistiken: Fußball Ergebnisse & Infos",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQWl1dHhldnVnRDdHRFktN3paSnNVZmNBZmVqZGlyX29MRFBNZW1zN1BxcnRlS0ZUWlIyeWZEQ3hxXzBBOUZUMHBodWU4S2NUcnRNSzRGSnByQXhGdHdlTUJEd2t1VzdtYjlyV1ZYV2xHS1laVTRsVWhPWWotbEd6Ymx1b1NVTnJ6eEQ0YWJoalZyeGk5OHJWZVRVNmQ1TDVtdVE5YVhaaUVxZVVHaFdQNF9TZ3ZpME5qNDVGU0ctQ2pUdw?oc=5",
+    "aid": "76c47fbaee",
+    "titel": "1. FC Nürnberg - Eintracht Braunschweig Statistiken: Fußball Ergebnisse & Infos",
+    "quelle": "Eurosport",
+    "beschr": " 1. FC Nürnberg - Eintracht Braunschweig Statistiken: Fußball Ergebnisse & Infos &nbsp;&nbsp; Eurosport ",
+    "zeit": "2026-11-21T13:00"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": []
+ },
+ {
+  "id": "66571aa914",
+  "schluessel": "frankfurt|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Frankfurt",
+  "klubs": [
+   "Frankfurt"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Eintracht-Keeper Hoffmann: \"Das hat mir imponiert\"",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYlg5VjZ2dWRWVnVIejMyajFxV1Joc2tKYk1hWVJVbmtaeEQxSjhvblJoamdZdzhZQzdkaDI0NVZaOFBIVGNlaWtLWnN3aTdyX2pOTy0tVUVrVkR4RVhrWDJzUk81ZDkxRTdvbTFWLUtLUGluWHVyX2VTWkJBN3Y1Wnl3Q21yYmlGUDNYQ1FmY2wzVEd4emhNeGJqTG1IQWx5cHc?oc=5",
+    "aid": "e57a276795",
+    "titel": "Eintracht-Keeper Hoffmann: \"Das hat mir imponiert\"",
+    "quelle": "NDR.de",
+    "beschr": " Eintracht-Keeper Hoffmann: \"Das hat mir imponiert\" &nbsp;&nbsp; NDR.de ",
+    "zeit": "2026-11-21T15:54"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": []
+ },
+ {
+  "id": "da24eb004b",
+  "schluessel": "braunschweig|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Braunschweig",
+  "klubs": [
+   "Braunschweig",
+   "Nürnberg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Sturm hat das letzte Wort: Braunschweig dreht Rückstand in Nürnberg",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOckxDTkp2QnRsMjdKZFpzbnBFV3JWOFU5VEFWVnhQZmdweHZrdFBWbjlMTWhDSU84cWtfOVBSeHFOYzV0TTZWajVtNUNrMDBsNlVhRC1wSTZVaG1FYmNZZkJRX2l0NDBxUGJMYjViTERrTnFFS1FHQzcwSWJxM2Vxc1J6bXZvVG5CUmsyOHhpaHE?oc=5",
+    "aid": "8c8fdf75c5",
+    "titel": "Sturm hat das letzte Wort: Braunschweig dreht Rückstand in Nürnberg",
+    "quelle": "Kicker",
+    "beschr": " Sturm hat das letzte Wort: Braunschweig dreht Rückstand in Nürnberg &nbsp;&nbsp; Kicker ",
+    "zeit": "2026-11-21T14:36"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": [
+   {
+    "id": "09d22d0393",
+    "titel": "Braunschweig: Tabea Kemme in den Aufsichtsrat gewählt",
+    "datum": "16.11.",
+    "stufe": "sonstiges",
+    "summary": "Eintracht Braunschweig hat die frühere Nationalspielerin Tabea Kemme in den Aufsichtsrat der Profifußballgesellschaft gewählt. Präsidentin Nicole Kumpis wurde im Amt bestätigt."
+   }
+  ]
+ },
+ {
+  "id": "d29aec3ce4",
+  "schluessel": "nurnberg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Nürnberg",
+  "klubs": [
+   "Nürnberg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "2. Fußball-Bundesliga: Sorglose Nürnberger kassieren Rückschlag: «Ein Weckruf»",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObEJZeE9VenZjOGxRbVZ6MElrc3FvZUhQdWpuSTNIUlI0RzlIWXIyUEt5Wkx2dFQzLWs5WEt3dU1vSk1TRm1QbHUyZ0M0VXNpa3Y3dE5Pa0xkYjVZUWlpczZpUHlFOE00TzJHd01tZkVLWU9QNFZHYnNnN2l0S08zeGhMbmNHejR0OTl4UVRNdnA5czJM?oc=5",
+    "aid": "23c153ac17",
+    "titel": "2. Fußball-Bundesliga: Sorglose Nürnberger kassieren Rückschlag: «Ein Weckruf»",
+    "quelle": "DIE ZEIT",
+    "beschr": " 2. Fußball-Bundesliga: Sorglose Nürnberger kassieren Rückschlag: «Ein Weckruf» &nbsp;&nbsp; DIE ZEIT ",
+    "zeit": "2026-11-21T15:45"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": []
+ },
+ {
+  "id": "d3c7fdb075",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover",
+   "Wolfsburg",
+   "Nürnberg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Hannover 96 jubelt ganz spät: Konfuse Kieler schenken Wolfsburg drei Tore, Nürnberg patzt schmerzhaft",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQR0hwajdHVDFkMzBNMlV1dEZDdUFPclU1Z1RFN2tLWWxXVDBkY3JWYlpZeTJsejNIWm5sa1Q0ZXhkRWlPaWtmd2xWNTZUTEgzTGVWak5nWnllM1NYWTdqVjNnRXE1S3Vqa1BlVk5tMGcxRVB4b1VMd0pYUjdrdko0OVprc0N3OXpoSGkyd25iQ0RFelBZZ254Q0FnSUpGYklobDVOZ01sZWx5X1lqSzgzSGVVNHNiUmRCd0FaakxmZw?oc=5",
+    "aid": "dddca10704",
+    "titel": "Hannover 96 jubelt ganz spät: Konfuse Kieler schenken Wolfsburg drei Tore, Nürnberg patzt schmerzhaft",
+    "quelle": "n-tv.de",
+    "beschr": " Hannover 96 jubelt ganz spät: Konfuse Kieler schenken Wolfsburg drei Tore, Nürnberg patzt schmerzhaft &nbsp;&nbsp; n-tv.de ",
+    "zeit": "2026-11-21T15:07"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": []
+ },
+ {
+  "id": "e95770293c",
+  "schluessel": "nurnberg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Nürnberg",
+  "klubs": [
+   "Nürnberg",
+   "Braunschweig"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "2. Fußball-Bundesliga: Sorglose Nürnberger kassieren Rückschlag gegen Braunschweig",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVlVWTlFOd0NCVHhhckZPaVYybGpzSzVGNmszV3NpOENWc0F5VVVheVhDbTJISmltYUY3M1NNZ21MY2ZibGtFZlcyb1N5NGt2T3dmUV9vS1FuUnFLWkZTRHJPNTVmLTE1LXQ5RGtHbHpxcThNVkMzR0s0emdQSEU1RnZiT0djRVNmQmR6M2c0UXpXanUwSGhWWHhWRmVNZFlNNXBmQThOTnJoRE1aY3AzWkJoV2dhMmxKOFVvV1pGWUhmMFptUEZnTXROWmJHUQ?oc=5",
+    "aid": "d7b2fea25b",
+    "titel": "2. Fußball-Bundesliga: Sorglose Nürnberger kassieren Rückschlag gegen Braunschweig",
+    "quelle": "Tagesspiegel",
+    "beschr": " 2. Fußball-Bundesliga: Sorglose Nürnberger kassieren Rückschlag gegen Braunschweig &nbsp;&nbsp; Tagesspiegel ",
+    "zeit": "2026-11-21T15:01"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": [
+   {
+    "id": "b9fb86902c",
+    "titel": "Scobel glaubt an Nürnberger Aufstiegschance: „Gut genug“",
+    "datum": "19.11.",
+    "stufe": "sonstiges",
+    "summary": "Nürnbergs Piet Scobel hält sein Team für gut genug, das Niveau zu halten und oben mitzuspielen. Der 21-Jährige hat bisher sechs Tore und eine Vorlage erzielt, Nürnberg ist nach elf Spieltagen Zweiter."
+   }
+  ]
+ },
+ {
+  "id": "e396f7b14d",
+  "schluessel": "nurnberg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Nürnberg",
+  "klubs": [
+   "Nürnberg",
+   "Braunschweig",
+   "Frankfurt"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "2. Bundesliga - 1. FC Nürnberg 1-2 Eintracht Braunschweig",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORUwxdTJEM25uTDVIQ0R0eGZaNjNmbG51NWxmSzkwRnhMVlpxaUQ5RTI5enA5MWU1SW9seUctNm1Tblk3b1c2ZlJZdXdyM20zaEhuRm1iNWtGQmVjc216YjNqdlA2UjEza3VCQjVwa0pURlc3Y3VYVWFUUDdrWmxVcHpybmFaMUxDY1VqNGNvWkx1MUR3OHN0ZHhIdkE?oc=5",
+    "aid": "198c4ab1fd",
+    "titel": "2. Bundesliga - 1. FC Nürnberg 1-2 Eintracht Braunschweig",
+    "quelle": "OneFootball",
+    "beschr": " 2. Bundesliga - 1. FC Nürnberg 1-2 Eintracht Braunschweig &nbsp;&nbsp; OneFootball ",
+    "zeit": "2026-11-21T12:40"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": []
+ },
+ {
+  "id": "723f38fe20",
+  "schluessel": "nurnberg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Nürnberg",
+  "klubs": [
+   "Nürnberg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "1. FC Nürnberg - SGS Essen",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb2VIMEwzVXBaTlhwY2dPZHZmczJ0RTM4R2l4NU4zalUyd0JjVVBLY3gwbmVMbTN3NEx1Tk41WS1GYm4td1dIMW5RVDNCaGJ3X2tIQmxxbll2YmxwOE9PRHoyTmQtb0E3Sks1alU1REYzcWhwUGxRcHNSZkpMaWtqQXlyQ3VPRkpjVFUzd2Q3aHNyaWk0Q1FIU3haWFJNeHRQRHdYOHB1TjNEY3JN?oc=5",
+    "aid": "eda318fca8",
+    "titel": "1. FC Nürnberg - SGS Essen",
+    "quelle": "Eurosport",
+    "beschr": " 1. FC Nürnberg - SGS Essen &nbsp;&nbsp; Eurosport ",
+    "zeit": "2026-11-20T21:17"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": []
+ },
+ {
+  "id": "3e6496b6e7",
+  "schluessel": "braunschweig|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Braunschweig",
+  "klubs": [
+   "Braunschweig"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "FCN: Ernüchternder Auftritt: FCN stolpert über Braunschweig",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTXdzbURVVVl1N09ENXNtYS00QVhiYl9OZkJVdVBSd3ZpLVJGbzFnNzhHQ3dPdzZ0Mnd6YmlKUW9NWGFLZnhSdlZicUk4cDcyUV82Y3V2MzBuTlB4U3luemxhVVRrcHUyWlpLNEVEemdiTUlQNjNxTHhEV09VTGZleXN6VDU5M3p6c2ZwaXc2SS1jRVR2a0ZPZlp0bTFhUEhWNE1TQXdnbGtNd2dXUkprbU5TdnJjRURTMmJZ?oc=5",
+    "aid": "ef92913c6b",
+    "titel": "FCN: Ernüchternder Auftritt: FCN stolpert über Braunschweig",
+    "quelle": "BILD",
+    "beschr": " FCN: Ernüchternder Auftritt: FCN stolpert über Braunschweig &nbsp;&nbsp; BILD ",
+    "zeit": "2026-11-21T00:51"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": [
+   {
+    "id": "09d22d0393",
+    "titel": "Braunschweig: Tabea Kemme in den Aufsichtsrat gewählt",
+    "datum": "16.11.",
+    "stufe": "sonstiges",
+    "summary": "Eintracht Braunschweig hat die frühere Nationalspielerin Tabea Kemme in den Aufsichtsrat der Profifußballgesellschaft gewählt. Präsidentin Nicole Kumpis wurde im Amt bestätigt."
+   }
+  ]
+ },
+ {
+  "id": "16172a9981",
+  "schluessel": "braunschweig|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Braunschweig",
+  "klubs": [
+   "Braunschweig",
+   "Frankfurt"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Kaum einer erinnerte sich noch: Eintracht Braunschweig beendet rabenschwarze Serie",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc2xIR2xTQ0ItQkpBLU5aWHpPQ1pSZ0YwV3hZRXA3QlRzRWM4eEZWWUZCSTJYYm8yR1Y5eGcta2UzWHRIX3JvRnBPVzgwYzF2ekRyOWJNMldhSDBjdXloTmZnd0VYZjNYM2dBM1pQSU5yUjFDODNNdmh0bndjLTN4eFBwOFBYcTRMNUNQTHo1R3lpY09uVU83NGNoRUE4WEkxMVVHQmhENko5TXlKam13YngyOUVJMUxJWGxN?oc=5",
+    "aid": "611694a65b",
+    "titel": "Kaum einer erinnerte sich noch: Eintracht Braunschweig beendet rabenschwarze Serie",
+    "quelle": "News38",
+    "beschr": " Kaum einer erinnerte sich noch: Eintracht Braunschweig beendet rabenschwarze Serie &nbsp;&nbsp; News38 ",
+    "zeit": "2026-11-21T16:19"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": [
+   {
+    "id": "09d22d0393",
+    "titel": "Braunschweig: Tabea Kemme in den Aufsichtsrat gewählt",
+    "datum": "16.11.",
+    "stufe": "sonstiges",
+    "summary": "Eintracht Braunschweig hat die frühere Nationalspielerin Tabea Kemme in den Aufsichtsrat der Profifußballgesellschaft gewählt. Präsidentin Nicole Kumpis wurde im Amt bestätigt."
+   }
+  ]
+ },
+ {
+  "id": "a4a41decb3",
+  "schluessel": "nurnberg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Nürnberg",
+  "klubs": [
+   "Nürnberg",
+   "Braunschweig",
+   "Frankfurt"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "1. FC Nürnberg - Eintracht Braunschweig Mehr Videos: Fußball Live-Updates",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQTRTNmhEaGtkbWFyZmV5OXFjdGRsNjJqMmdiaFRtZFFEM3ZNQ2F1bXFsSnBXMnA2VnR4cUJCMVNLZDlyQTdxRFpJdE9sM1RqRGVYdDFWckJiMXdmbW5ZaTVjakN5ZHlqZFhPOUN0NUh2S0dVRlExOXp0bWlJYkpSSXEyNUt4WXozT0o4R19ydHUzOHhiOVVRWUd4bXhVbldWWWExajVvZC1LMUJqZTFZNThfcXVPVncwM2V4YkV1aFlUN3M?oc=5",
+    "aid": "11191077f0",
+    "titel": "1. FC Nürnberg - Eintracht Braunschweig Mehr Videos: Fußball Live-Updates",
+    "quelle": "Eurosport",
+    "beschr": " 1. FC Nürnberg - Eintracht Braunschweig Mehr Videos: Fußball Live-Updates &nbsp;&nbsp; Eurosport ",
+    "zeit": "2026-11-21T13:00"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": []
+ },
+ {
+  "id": "d8dfce9035",
+  "schluessel": "braunschweig|verletzung",
+  "person": "",
+  "spieler": [],
+  "klub": "Braunschweig",
+  "klubs": [
+   "Braunschweig",
+   "Frankfurt"
+  ],
+  "stufe": "rueckkehr",
+  "klasse": "verletzung",
+  "titel": "Entrup-Comeback bei Eintracht Braunschweig: Sofort legt er den Sieg auf",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNXE3emxMaDMwQ0c1M1J4c1RtN2lrT0Z5Tkt2YjZQZnU1eFlsajY1Q01ZaE1sMXE2TlBHRWhOcWMyTHZPSmlYaWtKdTJ2UHdQTnpKYldGM1ZoZTg5dWQ2VVJiMUROUEE2VXgxcU8zOTEyMnpibUI4NnAzLU1BZERxTHpRWl84UERIdjNMXzJrMUV1U2VsWEVKaUdqM0hETGJGbGxUQm9ZaTYwcHJ0ZjlGVDVZOTlvaHFHYm5CeTFuS0U?oc=5",
+    "aid": "bfcf7b8395",
+    "titel": "Entrup-Comeback bei Eintracht Braunschweig: Sofort legt er den Sieg auf",
+    "quelle": "News38",
+    "beschr": " Entrup-Comeback bei Eintracht Braunschweig: Sofort legt er den Sieg auf &nbsp;&nbsp; News38 ",
+    "zeit": "2026-11-21T15:02"
+   }
+  ],
+  "archiv_status": "update",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": [
+   {
+    "id": "3ed6998be6",
+    "titel": "Braunschweig: Tempelmanns Comeback vor der Winterpause wird eng",
+    "datum": "19.11.",
+    "stufe": "reha",
+    "summary": "Braunschweigs Lino Tempelmann fehlt in Nürnberg und ist noch nicht im Return-to-Play-Prozess. Co-Trainer Stefan Kulovits hält ein Comeback in diesem Jahr für sehr eng."
+   },
+   {
+    "id": "c4eab28eba",
+    "titel": "Braunschweig: Trainer Kornetka krank, Einsatz in Nürnberg offen",
+    "datum": "19.11.",
+    "stufe": "fraglich",
+    "summary": "Braunschweigs Trainer Lars Kornetka ist erkrankt und fehlte bei der Pressekonferenz vor dem Spiel in Nürnberg. Assistent Stefan Kulovits rechnet mit seiner Rückkehr bis Samstag."
+   },
+   {
+    "id": "718ac82055",
+    "titel": "Klose warnt vor Braunschweig: Otto-Einsatz beim Club offen",
+    "datum": "19.11.",
+    "stufe": "fraglich",
+    "summary": "Nürnbergs Trainer Miroslav Klose warnt vor dem ersten Spiel nach der Länderspielpause gegen Braunschweig. Der Einsatz von Innenverteidiger Fynn Otto hängt vom Abschlusstraining ab."
+   }
+  ]
+ },
+ {
+  "id": "2a49fb5f34",
+  "schluessel": "cottbus|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Cottbus",
+  "klubs": [
+   "Cottbus"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Cottbus-Coach Wollitz wettert gegen Nike-Deal des DFB",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSURqWXlUeTlxdjU0YW9YUGtMTmZFSWw5TGRvaExsUklGcmR3T09zTnVnMDNMR3lhWllDLU9zVnpTTEZkUXd4b01nbl9fUUx2TGVGVDN4VUJxc05xQWJGd1N4Vlk4WGdBQlZ3MDNuZEhkNmhiU0ZLN0o2V0cydnM4X0JqNjRUY1k2OTROQmkwVzdoanQwdnNaem1DMUJJNHdZMTZtTllKYw?oc=5",
+    "aid": "b6b12c8a1f",
+    "titel": "Cottbus-Coach Wollitz wettert gegen Nike-Deal des DFB",
+    "quelle": "Aachener Zeitung",
+    "beschr": " Cottbus-Coach Wollitz wettert gegen Nike-Deal des DFB &nbsp;&nbsp; Aachener Zeitung ",
+    "zeit": "2026-11-20T22:33"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": [
+   {
+    "id": "5b44f3ec62",
+    "titel": "Wollitz traut Hertha vor Duell in Cottbus den Punkterekord zu",
+    "datum": "16.11.",
+    "stufe": "sonstiges",
+    "summary": "Cottbus-Trainer Claus-Dieter Wollitz traut Spitzenreiter Hertha vor dem Duell am Sonntag einen neuen Zweitliga-Punkterekord zu. Cottbus steht mit elf Punkten auf Relegationsrang 16."
+   }
+  ]
+ },
+ {
+  "id": "63d52b07b5",
+  "schluessel": "hertha|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha",
+   "Cottbus"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Vor Hertha-Highlight: Wollitz nimmt Cottbus-Fans in die Pflicht",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTThMWUJDMklTVUhKbHJOS3hXVkhxT2d2TzVPX1VNbGZIa1R1bFZmaUJ0M3Zta0EtYXZyWkpDZ3h3ZU9hTE96REhmbGxnNXFyN0F3V2JFZFV2VmE0eEV2TEZra3N0VmVtWnpVck15Y1gxYXBUcko3OVEzN05MRmtEMzFNU1hhWUNYVDZvRS1YeFdaV0RPX0R2dVlUdmdISllMbEhFRjVQbmlUSF9FbDJydWNRSWdGbHlzQzlwY1JDQjFPdmFTTjQySQ?oc=5",
+    "aid": "63efb154b1",
+    "titel": "Vor Hertha-Highlight: Wollitz nimmt Cottbus-Fans in die Pflicht",
+    "quelle": "TAG24",
+    "beschr": " Vor Hertha-Highlight: Wollitz nimmt Cottbus-Fans in die Pflicht &nbsp;&nbsp; TAG24 ",
+    "zeit": "2026-11-21T15:41"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": [
+   {
+    "id": "aff9dda184",
+    "titel": "Michelbrink vor Derby: Cottbus' Leihgabe von Hertha ist unverzichtbar",
+    "datum": "19.11.",
+    "stufe": "sonstiges",
+    "summary": "Vor dem Derby gegen Hertha BSC am Sonntag gilt Leihspieler Lukas Michelbrink bei Energie Cottbus als unverzichtbar. Cottbus besitzt eine Kaufoption, Hertha eine Rückkaufoption."
+   },
+   {
+    "id": "5b44f3ec62",
+    "titel": "Wollitz traut Hertha vor Duell in Cottbus den Punkterekord zu",
+    "datum": "16.11.",
+    "stufe": "sonstiges",
+    "summary": "Cottbus-Trainer Claus-Dieter Wollitz traut Spitzenreiter Hertha vor dem Duell am Sonntag einen neuen Zweitliga-Punkterekord zu. Cottbus steht mit elf Punkten auf Relegationsrang 16."
+   }
+  ]
+ },
+ {
+  "id": "02c76bf4e3",
+  "schluessel": "st. pauli|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "St. Pauli",
+  "klubs": [
+   "St. Pauli"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "FC St. Pauli",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcERIazAxbGc5Y09VZU5MTHlsRHJGNUtzaTVPUXFadmlZME9sYUpudktabE5qMUhmS09pelJOT21tRmN6bGVpaW14aWluTFlxTzJObk1Ibmt4VlI3QmRIeEVPeThqa0V6WXk0S2NtTWdaUmx6MTZBUS1ub29XY2JRMkdWSnBZeDFwcU84?oc=5",
+    "aid": "0a3f3bb2bb",
+    "titel": "FC St. Pauli",
+    "quelle": "Transfermarkt",
+    "beschr": " FC St. Pauli &nbsp;&nbsp; Transfermarkt ",
+    "zeit": "2026-11-21T09:12"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": []
+ },
+ {
+  "id": "3860bae3de",
+  "schluessel": "st. pauli|verletzung",
+  "person": "",
+  "spieler": [],
+  "klub": "St. Pauli",
+  "klubs": [
+   "St. Pauli"
+  ],
+  "stufe": "ausfall",
+  "klasse": "verletzung",
+  "titel": "Bitteres Update: Wie lange fehlt St. Paulis Hoffnungsträger?",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSi1BV2wtWVRabzZMd2pJUUNiX3YwUk1PQ0lOTVdsWTNtOHJjU3oxb2RIMGlfZnVCMG91M081SHJ5YXlCdlEzTHUtNDZmc1h1eGhUdFY4LU9UMHZlaFBsSnVzNEVFaGJDVjkzeVhaNXJlNUx2QXBKMFdrZ2NqVVh1XzZPQVI3QmNmXzgySi1WRjI0bkJvZjFnTXkwYlpyQmtjTlhQQlFjOUtxNXMzTHlpUEV6LXlfaVFWM1VsSHY2dw?oc=5",
+    "aid": "0209f8dfdc",
+    "titel": "Bitteres Update: Wie lange fehlt St. Paulis Hoffnungsträger?",
+    "quelle": "MOPO",
+    "beschr": " Bitteres Update: Wie lange fehlt St. Paulis Hoffnungsträger? &nbsp;&nbsp; MOPO ",
+    "zeit": "2026-11-21T16:21"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": [
+   {
+    "id": "c14db73d2c",
+    "titel": "St. Pauli ohne Oppie: Rapp hat mehrere Alternativen",
+    "datum": "09.11.",
+    "stufe": "ausfall",
+    "summary": "St. Paulis Louis Oppie fehlt nach seiner Roten Karte beim 1:4 gegen Magdeburg mindestens zwei Wochen. Trainer Marcel Rapp hat mit Lars Ritzka und dem zurückkehrenden Rony Jansson Alternativen."
+   }
+  ]
+ },
+ {
+  "id": "3399d8daef",
+  "schluessel": "st. pauli|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "St. Pauli",
+  "klubs": [
+   "St. Pauli"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Ex-St. Pauli-Profi spricht erstmals über sein bitteres Ende beim Kiezklub",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbWJ5b3RLeXU2X1Vqd0kzRjY3aHduY0dWU2tibGw0LW9DcnhCTFZqaDlfWWZzSGI4X182R3plRkNWNEpfcHVzcEZJWmFvWkItbTJuWkEtX1lCdVVxNklaWEI1X25pZ2Q0R0F5eHFWeXZrckt6T0dBRnJDVWJEVnZpc2VFdHltV3lwajVmUmZpWUNwV0IzZndDcHJNODQzWkladGVKdzhlR3BZSVppaEJLLWxzOHdkQQ?oc=5",
+    "aid": "69c013a386",
+    "titel": "Ex-St. Pauli-Profi spricht erstmals über sein bitteres Ende beim Kiezklub",
+    "quelle": "StPauli24",
+    "beschr": " Ex-St. Pauli-Profi spricht erstmals über sein bitteres Ende beim Kiezklub &nbsp;&nbsp; StPauli24 ",
+    "zeit": "2026-11-21T17:28"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": [
+   {
+    "id": "ceca666738",
+    "titel": "Smith gegen Pyrka: St. Pauli-Profis treffen in der Nations League aufeinander",
+    "datum": "17.11.",
+    "stufe": "sonstiges",
+    "summary": "St. Paulis Eric Smith und Arkadiusz Pyrka treffen in der Nations League mit Schweden und Polen aufeinander. Pyrka hat gute Chancen auf einen Startelfeinsatz, Smith blieb zuletzt ohne Einsatz."
+   }
+  ]
+ },
+ {
+  "id": "26e24acf1e",
+  "schluessel": "st. pauli|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "St. Pauli",
+  "klubs": [
+   "St. Pauli",
+   "Bochum"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Topspiel FC St. Pauli - VfL Bochum im Live-Stream und TV: Bochum gastiert heute, 21.11.2026 in St. Pauli",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZVhvc0V5VGpvcENVWUUzdFFuMk5pN3AzVTBiQ3hkdi1ETGRlbDR1empZcWpqVGswSmd3OHByNWp2SGNabjBzMm9PYk1JTF8tZXNqT0VybFhYOWhDaXhkT04yOFNaUnpnZDBZdkkzc0xnbVRPb1oydzJxM2diLWtUSVV6cWtjSk9UN1lIbTdsNXZab1FuU3hFT1JrYnlUbGsyOEpza2ViSXpuMllQLUppWU5CRkV5TmhILTczSjQ4OUt6dGoxSEQwNV9tMWVJY3dvYkd6NURwQlFzNExWM2RZc1RwZmdyTlRfVFIzZnBpUXhmeU50OTVwNDNxUGJkWmc?oc=5",
+    "aid": "b40f018d5f",
+    "titel": "Topspiel FC St. Pauli - VfL Bochum im Live-Stream und TV: Bochum gastiert heute, 21.11.2026 in St. Pauli",
+    "quelle": "News.de",
+    "beschr": " Topspiel FC St. Pauli - VfL Bochum im Live-Stream und TV: Bochum gastiert heute, 21.11.2026 in St. Pauli &nbsp;&nbsp; News.de ",
+    "zeit": "2026-11-21T15:29"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": []
+ },
+ {
+  "id": "6ce836fe50",
+  "schluessel": "st. pauli|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "St. Pauli",
+  "klubs": [
+   "St. Pauli"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "St.-Pauli-Blog: Zweitliga-Experte Simon Terodde warnt Kiezkicker - \"Das ist verheerend\"",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOb0s2aFJBMmRsRm1CeFZMclJ3SUdoZEJDaGJDQUxUc3dnMWswVzlmSGNySi1sdWV0bWRKVTNYZjB6d3RRTmc0SDQyb3h1RThNaUtEdmJXQU5LaThudkhaRXpkV1BkU2gwWGFwSm5laDd0aE9pOHZRcng3WXhxZGxwX2RNS0tIcWduZkwxOUxybnZOSllkMnNGYXBmMF96cEVUVi1zUmp1YnBQVnZLY29pYXVaNEpZcUxuRGloZWF1ZThxOW9QWVlMdXE2QS0tQWNONGc4TEV4V3laTzJI?oc=5",
+    "aid": "4b1074f527",
+    "titel": "St.-Pauli-Blog: Zweitliga-Experte Simon Terodde warnt Kiezkicker - \"Das ist verheerend\"",
+    "quelle": "TAG24",
+    "beschr": " St.-Pauli-Blog: Zweitliga-Experte Simon Terodde warnt Kiezkicker - \"Das ist verheerend\" &nbsp;&nbsp; TAG24 ",
+    "zeit": "2026-11-21T16:00"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": []
+ },
+ {
+  "id": "a2cf6fa8ee",
+  "schluessel": "hertha|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Hertha-Trainer Stefan Leitl: Hertha-Trainer Leitl: \"Als Glück würde ich das nicht bezeichnen\"",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR1kya3dlQjFZYnhka0NucjdfaVU3Q0pweVo2RkY1WGExRTFfejNaaTk5VnZjZlAtWlFnRGtxQm96a0dGbkpWeHRWbVBXSGZqRVVFTzBaTUN4SzNDQld6LVlHdFNlQXhSckFYeTR0eGNMOFp2bm9jT1JSSnBiLXRpaUI1ck1wTEQxazhiVlVjMkhydWtIcnBXZG9uTUhKVGUyc3hYaEVFenFMNFRubFBYSkZxMTJXQQ?oc=5",
+    "aid": "0b7faf5ad5",
+    "titel": "Hertha-Trainer Stefan Leitl: Hertha-Trainer Leitl: \"Als Glück würde ich das nicht bezeichnen\"",
+    "quelle": "sportschau.de",
+    "beschr": " Hertha-Trainer Stefan Leitl: Hertha-Trainer Leitl: \"Als Glück würde ich das nicht bezeichnen\" &nbsp;&nbsp; sportschau.de ",
+    "zeit": "2026-11-21T12:44"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": [
+   {
+    "id": "5b69f6c8eb",
+    "titel": "Basler lobt Hertha und Leitl: „Die haben es jetzt selbst in der Hand“",
+    "datum": "10.11.",
+    "stufe": "sonstiges",
+    "summary": "Mario Basler lobt in seinem Podcast Herthas Trainer Stefan Leitl und sieht den Tabellenführer im Aufstiegsrennen in der eigenen Hand. Hertha hat nach elf Spieltagen 31 Punkte und spielt am 22. November in Cottbus."
+   },
+   {
+    "id": "008a7a4de7",
+    "titel": "Hertha BSC: Wie Stefan Leitl die Berliner an die Spitze führt",
+    "datum": "08.11.",
+    "stufe": "sonstiges",
+    "summary": "Hertha BSC führt die zweite Liga nach dem 2:1 gegen Wolfsburg mit zehn Punkten Vorsprung auf Rang drei an. Trainer Stefan Leitl setzt auf hohes Pressing, einen klaren Plan und eine funktionierende Gruppe."
+   }
+  ]
+ },
+ {
+  "id": "2c45043544",
+  "schluessel": "wolfsburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Wolfsburg",
+  "klubs": [
+   "Wolfsburg",
+   "Kiel"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "VfL Wolfsburg - Holstein Kiel Statistiken: Fußball Ergebnisse & Infos",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYnFIU2FTM2JETGJVSnZPZ1diOFRPcmwwODhUWkJZUUZGNmtYbTduU0RxckNQQklQV1BkdEt2Ri1ZTXZGRnpHb1drcEItbkhQS3ZTYXV3R0ZpeEtHaTU3TGlTMXZiRFRBaldDdDkwR28zdW9LNGpOZnhuRkRQZkdOUTlOai1QOEp5OVNWaDlzX2FRUmFpTXluNFhvNTNHX3RzWVMyZi05OElhV3NydWstUDBLa3c?oc=5",
+    "aid": "89ab3327d9",
+    "titel": "VfL Wolfsburg - Holstein Kiel Statistiken: Fußball Ergebnisse & Infos",
+    "quelle": "Eurosport",
+    "beschr": " VfL Wolfsburg - Holstein Kiel Statistiken: Fußball Ergebnisse & Infos &nbsp;&nbsp; Eurosport ",
+    "zeit": "2026-11-21T13:50"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": [
+   {
+    "id": "21226d5f23",
+    "titel": "Wolfsburgs Saël Kumbedi erstmals in Frankreichs A-Nationalmannschaft",
+    "datum": "09.11.",
+    "stufe": "sonstiges",
+    "summary": "Wolfsburgs Rechtsverteidiger Saël Kumbedi wurde von Frankreichs Nationaltrainer Zinédine Zidane erstmals für die A-Nationalmannschaft nachnominiert. Er ersetzt den verletzten Pierre Kalulu für die Nations-League-Spiele gegen Italien und die Türkei."
+   }
+  ]
+ },
+ {
+  "id": "1a16b3f09f",
+  "schluessel": "wolfsburg|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Wolfsburg",
+  "klubs": [
+   "Kiel",
+   "Wolfsburg",
+   "Magdeburg"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "Fabian Reese nach dem 3:0-Sieg mit dem VfL Wolfsburg: „Das Tor war für meine Oma, sie ist 92 dreiviertel“",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOb3dRZElJVHFxVWk4MDZFWm1veHc4ck95amhoMXpXY3plWDJGcXBObEt6Q29Nc1B3ZGkxLW9VOXJ4eFhiaWFrNUJQLXJIUzRQTDYyRHB6VUo4Q0laNkU1WHZULUxiSFpZbzR6Y1M3XzJpRVdIclppMkRMbDRFMU5ORlBuc3Jqek5ITWhNQlgxUGZrRjVOZEdkVTdVMXpRaHE5c1doWlpROHA4eFZEdTNiTTdmUkIyYVUxbFllVGZuRTU5aFpRRHhtam5rVE5SMm9POGdJNTRXUWo5MGg1TVpGYmNHRkcxSVZONE1LU3FZcmpJeHZxMmfSAZICQVVfeXFMT21jU2FPRmh4YjdnSWthZEQ0ZkxJY3h3N0VuUnVlRGZqSzFWZ29GUDZsRU0xNlJZZ2lTMnRVVHZhTGEwc1haeXo3WDR3d3RuNjFWcEFUTWJFRzlEU3ZneDNCTlpndXRRR1B3QUo0THFvaW9MMGhibmViN2RPbXgwMmxDRko0bHNQZlR2VmNTUnNsQzI4QVBVRlhjNkc5c0dodXQ2WUN4dmhGdk1QOVZYeURiQ2FEczBQRVU0LTNteXVINFROWFI5bWdITW1Za0x4bWxhRUduc3RzcWtWQmVta2ZjSU9qNUlKNUdPakh4UkRqbTR6MFZfZlVQa1VYVUgzaWRoTTI0NlB4RFYzZTJkaHZCdw?oc=5",
+    "aid": "fcaaaf53e7",
+    "titel": "Fabian Reese nach dem 3:0-Sieg mit dem VfL Wolfsburg: „Das Tor war für meine Oma, sie ist 92 dreiviertel“",
+    "quelle": "WAZ-ONLINE.de",
+    "beschr": " Fabian Reese nach dem 3:0-Sieg mit dem VfL Wolfsburg: „Das Tor war für meine Oma, sie ist 92 dreiviertel“ &nbsp;&nbsp; WAZ-ONLINE.de ",
+    "zeit": "2026-11-21T16:30"
+   },
+   {
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS0ZnSFVHd0dTUy1hT3p2bjRQVl9xZnNRdnI2SXh2THBjVGQtUk90UDB5dV9xT21zVVNRQzZ3ZUNoM1BhTHEtV2dzMzF3cEtFMkEyRFFNMGM1SURPaWNPcUNuODItNXB1N0tsVnpvWkpZdHpiY3lyMElzclZ4Q1JlRVJuNXNMWExueUQ4?oc=5",
+    "aid": "adf873445e",
+    "titel": "Spielschema | 1. FC Magdeburg - Holstein Kiel 2:1 | 12. Spieltag | U-19-DFB-Nachwuchsliga (Vorrunde) 2026/27",
+    "quelle": "Kicker",
+    "beschr": " Spielschema | 1. FC Magdeburg - Holstein Kiel 2:1 | 12. Spieltag | U-19-DFB-Nachwuchsliga (Vorrunde) 2026/27 &nbsp;&nbsp; Kicker ",
+    "zeit": "2026-11-21T17:14"
+   },
+   {
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUXVmTUIzckFYSjR1cnNCMElYMy0zYmVxeTVJX3lfVHk3N3ZBNUdnX3RFU2VUVFYyWURJWC1iSXNDUmVwVl9FZDZKaHFGTmhRRnNaSVNYZmpna2VVNGQ2X3NISmhrNkRyUUpTY2ZCRHpWa294d0hCU0FTVFJWOENBSERLQjlnb19BUHF0aXFHMHBIbmt0QjFTZV91SzFfVGwyVkZuMmt5NnFhclZ0T2tMUWJJcUxLUDJoMGE5eXVRVTlrTWNYZURXdVVvVWhvNjdHRDZQVHl1TERHVzlDUGt5ZDZaZzRPclNLWnNZ0gGHAkFVX3lxTE5OVzdYbEJXVXZ1eURiX2FRU2R1SGZlVmdleVZVMTVXYmdqMkFwN0dqbHFqZ2ZlX2xhcndKZkVlb3JJZVlGd1RxTkFHMVRfalpzbjJqQ2x0dEF0R1pHVk5zWHFIZ3B0STJYcWNJSkhYSGNaSWRFSkxFVkRDZldHcDBFN2xkcUF5RFBjUEE3QXVTeXBtbzlRV1VTM0k5WU9NbWJqeS02dWw5ZDZNdGhlck83XzBFOGZRbjlUdnVHOHhvOGJidEo2TmlGQWlmU2RfYnlPMUdnWk9SX25sbFd3X3N3SHhHYmFWYTJhZXdvUWhJQnlZSTNnQ1NPbXJOejlRR1RHc0M0dHI4?oc=5",
+    "aid": "4f5a357cb7",
+    "titel": "Kommentar: Das 0:3 gegen Wolfsburg ist ein Spiegelbild der Saison für Holstein Kiel",
+    "quelle": "Kieler Nachrichten",
+    "beschr": " Kommentar: Das 0:3 gegen Wolfsburg ist ein Spiegelbild der Saison für Holstein Kiel &nbsp;&nbsp; Kieler Nachrichten ",
+    "zeit": "2026-11-21T17:11"
+   },
+   {
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeGxHZHVwM1RZR1VULUhlNzR3TFB3WXA1VlBjTjdQc04wdUpwejJFVnRiZ3RzREY3eW5RX24zRVd2WDA5VnBvWmxOejZ2THcwUlFXak1UbV90U0NtQ3MyQmdUVUF2WC1TdnpQTHhKZkN2M2RULWQ0Y3FSRU9GUXBKMDNXUkxEYzlPQkxBc0J2X0xZai1Pd0hEcEZNc3dnQkxDNjJYNng1N1NVeDVmY2YwdTRwU3c1ZERfN2dxWlBMQzBVN3BkMEVGc3ZRN2lmT3g4WHBheVA2MzBjaDFsZ2ZSNzl0RzJKMUhCNjFz0gGHAkFVX3lxTE9UQUhWU2VlMmpac3hkNmtYNU92T1dtZ253SklHLVQ5cjJLdlp3X3RRUFlpcTVjU1dpazBGbm5OSUVzUG5lU0JMaTc2SU5KYlRHb1dHa0Fick5Wak5XSTI1OUZPQmVZakRpWWNQMENiNGoyQlZsMXQ2RHE3OEhGb2p6dXdVVUpjUTNsUGRGWTBHR3ZzM3d0Sk9mTkJtVVE2S3pSUE9zaXQ1dm4zczF1YWNobmxhd2xDVWwzNTdRbVVhTS1fNjBwbHU4b0Q2a3hGdkxlYkNhSU53dElKdmF4X1FRYkZQREw5Y0RxSlFKYzBqcFAzd2ZIY1VmRDFKTWFfS3pkSUlIekU4?oc=5",
+    "aid": "f60b03278f",
+    "titel": "Kuriose Tore, klarer Sieg: Der VfL Wolfsburg bleibt mit dem 3:0 gegen Kiel oben dran!",
+    "quelle": "WAZ-ONLINE.de",
+    "beschr": " Kuriose Tore, klarer Sieg: Der VfL Wolfsburg bleibt mit dem 3:0 gegen Kiel oben dran! &nbsp;&nbsp; WAZ-ONLINE.de ",
+    "zeit": "2026-11-21T16:12"
+   },
+   {
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKVnBxT3pQS2JWMlE5dkRQTlREX0Y3MTQzQmNYcGxYMVpDemVQQUJ3ZFp0TmVHdjgwVFdIMF9nTWpvTXY0MHVUTVlhTkpONGh2SklVNXBkaFUzdm1iZEhuQU9Ra0RKenRIcUV3TW5TNmw0SjFMbUdKMUhOZDJaQQ?oc=5",
+    "aid": "6c0efac563",
+    "titel": "Spielschema | VfL Wolfsburg - Holstein Kiel 3:0 | 12. Spieltag | 2. Bundesliga 2026/27",
+    "quelle": "Kicker",
+    "beschr": " Spielschema | VfL Wolfsburg - Holstein Kiel 3:0 | 12. Spieltag | 2. Bundesliga 2026/27 &nbsp;&nbsp; Kicker ",
+    "zeit": "2026-11-21T14:34"
+   },
+   {
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTDludXNUT1ZOTXNkOXlJcExtTzl1NExoTHpRQ3FaV1dNdG4zREFVZkZjcHlDNXNiUW9GSUVSVXZDSUdFU1pqOXdSVXYtYWV1am9oSlNLMlBwQi1Kb3A2Vy1JVmFBbHhFLXZGSEV6enV2aWhJSFIzQTZNQU1oWG9MVU9YQ3Z6R1hBQTNZQnN1QzMwQnNRT01GMTFCNFpySEdfSURCaE44SVBsd2xDMmItYkhnVkdyWjMxazM2OEJ5MmUwNkZlbnBiM0JQd3VScThBQWJJak5XMC03MDRNdTROeG11b1ptZ9IBggJBVV95cUxPZTg1dGZaS2dwTURpdGxaNVd0aEFtRi11S0kwNkJCRVpfdkU3ZG1uLWZnQ1MycTdMWGFvSlJVTzFiRGNBd1Ewem5adkdmR3cyOWQyOHlHV0NfNUNTUUFERkJiNUowOEtuRlNSOGVHMVZBd3BQODlRYnh0SW9Ca2VxZFhvazZJSHZWcUZmUFFITWpSUk04Vk1ZQi1Ec1JPMVlmX1VtaHYzMUllQ2RwQ3Z3UVlCV0NqREJTdTRrSEU4ZGtvNWdQcnNmR196UGFRVXFEdFBsczhzS3ZaVTVoTGhLNUJtS0VNeGZsdXVxQ0ZzZDMyUlBqQUZhWl9oQ0Y3MUg4ckE?oc=5",
+    "aid": "989acb02fe",
+    "titel": "Eine Zwei, eine Fünf: So war der VfL Wolfsburg beim 3:0-Sieg gegen Kiel in Form",
+    "quelle": "WAZ-ONLINE.de",
+    "beschr": " Eine Zwei, eine Fünf: So war der VfL Wolfsburg beim 3:0-Sieg gegen Kiel in Form &nbsp;&nbsp; WAZ-ONLINE.de ",
+    "zeit": "2026-11-21T15:31"
+   },
+   {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWlpNdTI4Z214QVE5RlF4MTdKU3hfMll3SXp1eGZWMHBxWGNRQ3lnekRRY2ZnVUpoNjFWNTRxSTIxVWxnWG0yVVJOLW04RW1ra3d5UWlfeV9yV1o1aU9uQmRwZ2F0N2RnVkhsUmhfX2Q1T1h4VWZRbGFDSDVEOWxiRGNYREpkSlhmck05TVNaTEZCcExZZXNlWXMwYw?oc=5",
+    "aid": "a1bd88b525",
+    "titel": "2. Fußball-Bundesliga: 0:3 in Wolfsburg: Kiel verteilt Geschenke bei Kniat-Einstand",
+    "quelle": "DIE ZEIT",
+    "beschr": " 2. Fußball-Bundesliga: 0:3 in Wolfsburg: Kiel verteilt Geschenke bei Kniat-Einstand &nbsp;&nbsp; DIE ZEIT ",
+    "zeit": "2026-11-21T14:59"
+   },
+   {
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcE9fM2J4Nk5laUJtN2hRU1V2TjNZVmpZWXc0cTF6NE5ldW5RRXQzN3dHUzRxVkd3NDE0MzlLSEVXb1R3QV9wc05LYzR3MGdUa0piR1ZhcXZHOGpyX2FKLUFKeEI2U3hVcElWWHdFU3BnX25tdmdzYWJlQUJyZHFtekNyMk1KUU1fdmV0RW5FN3hKaWFxOWYxQkhmMkk4SnZmNnNvbUdWWEhfWkZfQmw5dkhuTHp2dE51cThhdFJCYXBsWTUzRnNKTmVSeEV2NVFQQ2ZpQ1UwNNIB8wFBVV95cUxPT1JCWHFZRE1tRHJ2ZVpVWTFDUzFNU1NIZ1ByVFI2U1NzWnNBMjY5ZVhNMzdfelJRckJwQjRnbDlLRVc1M2VmaXZNZlVfN3Z3S0VPNTRmX2VuWFN0RWdpaXdzTXFxOEZZeW1yRHRyeDctMEl4YUExd3VjSnlndm1reGZhcERMRlVxSkh0OElLNk5jZXc5dXBPUEhPQ05DNFpHbVhsTEhxTEpJRzNhTTV0ckdEMlBzRmtacjd1aFJMQUE3aHBVemM4OXhFdmxaYkhZZEI3TDhIQzRzb0hlNnROVnJtZENYcHdEakZJQWlJN3lTMU0?oc=5",
+    "aid": "c98fcb3487",
+    "titel": "Kniat-Debüt misslingt: Holstein Kiel verliert 0:3 beim VfL Wolfsburg",
+    "quelle": "Kieler Nachrichten",
+    "beschr": " Kniat-Debüt misslingt: Holstein Kiel verliert 0:3 beim VfL Wolfsburg &nbsp;&nbsp; Kieler Nachrichten ",
+    "zeit": "2026-11-21T16:27"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": [
+   {
+    "id": "1cafddf4f1",
+    "titel": "Wolfsburg schlägt Kiel am 12. Spieltag deutlich mit 3:0",
+    "datum": "21.11.",
+    "stufe": "spielbericht",
+    "summary": "Der VfL Wolfsburg besiegt Holstein Kiel am 12. Spieltag der 2. Bundesliga mit 3:0. Wolfsburg steht mit 22 Punkten auf Rang vier, Kiel mit 8 Punkten auf Platz 18."
+   },
+   {
+    "id": "85e4606aac",
+    "titel": "Wolfsburg hadert nach 1:2 bei Hertha mit verweigertem Elfmeter",
+    "datum": "08.11.",
+    "stufe": "spielbericht",
+    "summary": "Wolfsburg verliert im Spitzenspiel bei Tabellenführer Hertha BSC mit 1:2. Trainer Tobias Strobl und Sportdirektor Pirmin Schwegler kritisieren den nicht gegebenen Elfmeter in der Nachspielzeit."
+   }
+  ]
+ },
+ {
+  "id": "db3aa56e82",
+  "schluessel": "wolfsburg|kader",
+  "person": "",
+  "spieler": [],
+  "klub": "Wolfsburg",
+  "klubs": [
+   "Wolfsburg",
+   "Kiel"
+  ],
+  "stufe": "kader",
+  "klasse": "kader",
+  "titel": "VfL Wolfsburg - Holstein Kiel Kader & Aufstellungen: 2. Bundesliga Fußball",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc1ItZ3p2N0NDdlNYOFRtc2JwSWhmYk9wZ1duLW1NSUR4cFRLbUFUa3dpY3lMUjNhZFlNVkJ0R3p5OUowd0p3VF9NOEp0NnYwdkNMSXl5TVpYNjZJZmtsMFBYOXRMcTZYY2ZubWlDVkw0azNsMVdsVXlQLUhJUGZYOHA2NVR4TmdDczlucm5MVjJNS1ZYc1RyZ01yQk5DRU9NNlhzb0hOV0VBNE5Dc3RheXZmM1VUQQ?oc=5",
+    "aid": "54dd90ece9",
+    "titel": "VfL Wolfsburg - Holstein Kiel Kader & Aufstellungen: 2. Bundesliga Fußball",
+    "quelle": "Eurosport",
+    "beschr": " VfL Wolfsburg - Holstein Kiel Kader & Aufstellungen: 2. Bundesliga Fußball &nbsp;&nbsp; Eurosport ",
+    "zeit": "2026-11-21T13:50"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": []
+ },
+ {
+  "id": "a4fbe91d38",
+  "schluessel": "kiel|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Kiel",
+  "klubs": [
+   "Kiel"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Holstein Kiel: Rabenschwarzer Tag von Weiner und Co. beim Einstand von Mitch Kniat",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdUFtekhURGRnTXM4cUhDakNmYzhTXzc2LUxDWjBTRlJwdG5qYjZkR055MklUbnY5SmtOMENla083dS1TUFUwU3lxdmh6MmpCTUthaTF5bThpUUZEYVI0aVNiWVNNTFNhTkNBNHpXY0UycFRNMU93LTNmd1B4LVl6N0JMdzRUTVQxVFpBdHVlVk9ELXlJQ1lUeUgzZFVOWl81NE5DUURoTEl1cUxuN01iSzZnSm1ZUEh0c1E?oc=5",
+    "aid": "b842a4c10a",
+    "titel": "Holstein Kiel: Rabenschwarzer Tag von Weiner und Co. beim Einstand von Mitch Kniat",
+    "quelle": "shz.de",
+    "beschr": " Holstein Kiel: Rabenschwarzer Tag von Weiner und Co. beim Einstand von Mitch Kniat &nbsp;&nbsp; shz.de ",
+    "zeit": "2026-11-21T15:06"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": []
+ },
+ {
+  "id": "47147d6b84",
+  "schluessel": "wolfsburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Wolfsburg",
+  "klubs": [
+   "Wolfsburg",
+   "Kiel"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "VfL Wolfsburg - Holstein Kiel | Weitere Spiele: Fußball Live-Updates",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ2RVdzRSVFFEMDYzWDROam1XRVNoRTAxUEV3Q3FIUHJWZkVsS1dCeE1QS2tCYjNRVmEtcjlwVzVhZWdPMUFNWnpHUDdTRWh1a3RjcmpVM3NzTFR0VUxya2FCemJHN3FRSjBCcVE3NG45SXZHT2NjaHJpcDB4aUVDRWprQW00djh4aWExT3B5ZUdyc1ZxNkVNTS1kOGNFeFFXQ1VXSVVIUnpmaVluTVZKRS1LYVpZbmc?oc=5",
+    "aid": "b63d61efd6",
+    "titel": "VfL Wolfsburg - Holstein Kiel | Weitere Spiele: Fußball Live-Updates",
+    "quelle": "Eurosport",
+    "beschr": " VfL Wolfsburg - Holstein Kiel | Weitere Spiele: Fußball Live-Updates &nbsp;&nbsp; Eurosport ",
+    "zeit": "2026-11-21T13:00"
+   },
+   {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRVVJc2ZxNXpXeXY2ZlRMZzhCaUd0ZjJOZ2JyYTdXRFg1NjNnN215N2g2dzMyd05XTEk3Skh1YnBoVmpDM3BLZFlmY2NOUUZIOTdBTE40QWlxR2lLM2ljTDZHbmgwc3h3bVN4b082OE1HLW8xWXUyeEY4TXZkdFdkZ1ZabC1uaDdZSDZqdTUtUkRoTVhXZFRhS1lGVl96TDlmWEV2bjJ4dHlEZkx3eV9jLWp0cnNVQQ?oc=5",
+    "aid": "de449c1ec0",
+    "titel": "VfL Wolfsburg - Holstein Kiel Mehr Videos: Fußball Live-Updates",
+    "quelle": "Eurosport",
+    "beschr": " VfL Wolfsburg - Holstein Kiel Mehr Videos: Fußball Live-Updates &nbsp;&nbsp; Eurosport ",
+    "zeit": "2026-11-21T13:50"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": [
+   {
+    "id": "1868a7668d",
+    "titel": "Damar über Elversberg-Anfrage: „Habe mich für Wolfsburg entschieden“",
+    "datum": "11.11.",
+    "stufe": "sonstiges",
+    "summary": "Wolfsburgs Muhammed Damar hat verraten, dass er eine Anfrage der SV Elversberg abgelehnt hat. Der Mittelfeldspieler kommt für die Wölfe nach 13 Einsätzen auf vier Tore und zwei Vorlagen."
+   }
+  ]
+ },
+ {
+  "id": "b5a454e348",
+  "schluessel": "kiel|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Kiel",
+  "klubs": [
+   "Kiel"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "Selbstkritischer Weiner nach Pleite von Holstein Kiel: „Mannschaft in die Scheiße geritten“",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcTFhTUprSzlBdkJmS2ZCVTZMUVJic0FZOVF4SDh5ZjRkZGVWSWNFX25nVjJYZ2pYWlAyakM5VHp0c2tVNXpGT09KWW52N3hvNnZVNGJrOWI5dnFXVGlEY3kwLUljOG54MUJFZHc2OURqZWRad2hWaS05QzFSLVNGTDMyUlgtMmk0Vm9pY0JjaElxendZTU8xdFREQ2twaUxzdkdJazdRd3IwcXJ6ZlB1Sjh1ZUJZbzRJTXc?oc=5",
+    "aid": "dccb080f66",
+    "titel": "Selbstkritischer Weiner nach Pleite von Holstein Kiel: „Mannschaft in die Scheiße geritten“",
+    "quelle": "shz.de",
+    "beschr": " Selbstkritischer Weiner nach Pleite von Holstein Kiel: „Mannschaft in die Scheiße geritten“ &nbsp;&nbsp; shz.de ",
+    "zeit": "2026-11-21T17:50"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": [
+   {
+    "id": "291c94de54",
+    "titel": "Kiel gewinnt bei Kniat-Debüt gegen Odense mit 4:0",
+    "datum": "12.11.",
+    "stufe": "spielbericht",
+    "summary": "Holstein Kiel gewinnt das Testspiel gegen Odense BK beim Debüt von Trainer Mitch Kniat mit 4:0. Lasse Rosenboom kehrt nach einem Syndesmoseriss auf den Platz zurück."
+   },
+   {
+    "id": "b7ac7e3a7a",
+    "titel": "Bielefeld dreht spät auf: 2:1 bei Holstein Kiel",
+    "datum": "07.11.",
+    "stufe": "spielbericht",
+    "summary": "Bielefeld gewinnt am 11. Spieltag 2:1 bei Holstein Kiel. Ein Eigentor von Sekine und der Treffer von Young entscheiden die Partie, Grodowski verschießt einen Elfmeter."
+   }
+  ]
+ },
+ {
+  "id": "013e8b1af2",
+  "schluessel": "wolfsburg|verletzung",
+  "person": "",
+  "spieler": [],
+  "klub": "Wolfsburg",
+  "klubs": [
+   "Wolfsburg",
+   "Kiel"
+  ],
+  "stufe": "fraglich",
+  "klasse": "verletzung",
+  "titel": "Verletzungen nach Wolfsburg-Spiel: Holstein Kiel bangt um Skrzybski und Nekic",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQ1llZjZVaXFQSU9FTXJrVlBPNVZaUk5IbWl3VktuV1hWeEJnMUROZHNSQnJaNWpPWmlYNnpkYUtMclRuWndtV3JCWWRlNlhmVUVGbVpDTjBtendlX2Z4RmVqcWhOazVRczJjSEt3NUZjdk5XcnUySE5yckQ3Qk9sRUlZQ0JxY0d2QU5rQ09JOE91WGZZYkdFbm9rd0k5bkFmaHVucHlwZUl6aVg0ZWROdzNvSWlNNE5rRkZ2LWIzdnFjZ3VadFRPUFVDOW9CNXZCaDVib1lJdFNxaGd4MDE3VGZB0gH-AUFVX3lxTFAxRUt1cWRnOGNVak8wT1pMUVhIWE1CT0h3X2RzdVRkWVRQc0hhS01NM1VYanFTOThkaE9FbzlwV09XOENfNktoNjg5R2x6VHR5dTVmNnlqenN2MVZ4YjlpT19vRnhZZkJDZ01GazhvWDZfcWtVbHdrNzktWXR2Uk5raHB2dUk1UjhMRFdyR1dqRXBHZ1p6VUIzTk5uLTNxVEJhQ29jcW1VU2ZqQW1WOUdIWk9sSUd3cTVjZXo2RHktMkJPUjdiMXQ4ZW8yeFYyQUI3OVVJZm16ZHZ4UDc5VWZUd3NsLTZVLVJEVnYxRjVrN3IwN2VDSzJrdWxMZm5R?oc=5",
+    "aid": "46ebfc8dbe",
+    "titel": "Verletzungen nach Wolfsburg-Spiel: Holstein Kiel bangt um Skrzybski und Nekic",
+    "quelle": "Kieler Nachrichten",
+    "beschr": " Verletzungen nach Wolfsburg-Spiel: Holstein Kiel bangt um Skrzybski und Nekic &nbsp;&nbsp; Kieler Nachrichten ",
+    "zeit": "2026-11-21T16:42"
+   }
+  ],
+  "archiv_status": "update",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": [
+   {
+    "id": "f2ef545c5f",
+    "titel": "Kiel vor Kniat-Debüt: Kaprálik fällt mit Mittelfußbruch aus",
+    "datum": "20.11.",
+    "stufe": "verletzung",
+    "summary": "Kiels Adrián Kaprálik hat sich bei der slowakischen Nationalmannschaft einen Mittelfußbruch zugezogen und fällt voraussichtlich bis zum Jahresende aus. Vor dem Pflichtspieldebüt von Trainer Mitch Kniat in Wolfsburg sind auch Alidou und Schonlau fraglich."
+   }
+  ]
+ },
+ {
+  "id": "7a149b519f",
+  "schluessel": "kiel|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Kiel",
+  "klubs": [
+   "Kiel"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Holstein Kiel: Jonas Meffert bleibt Kapitän – Timon Weiner Stellvertrete",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVUc5V2hjSWc1QV9NTGFPeTZ1Z2M5bS1pSjZsVFVIRnZyMUpSWHdWMHo3YnFrVG9XN0dnaENIWlRia1lqTWZoQV81MENZVmN4QlBtbU14VllRS05USW5tWmR5ZUNXMktOc3c2Z0JuVkxvLVlTWHF1Zk9aVTlJNGRBdmNnR3cwcXFQTkc2SHFvZ1JDRk9obkhSVTViVC1OS25pblZfWGZQNTBTeXNJaVdBWnpRTjVJbGlFVlFYMHBpZ1U3Z1ZNM1BVZmZSdXZOYzRGbk5xUlYyUXctd9IB9gFBVV95cUxONTktSkFSSGRQQmlOanZEbkhyQVI3SmZfNHlNMnNlYW9aOXZXeUUwUTRha2R5Q0swdXhBYXhiaXM3dGtIQWllYy1rTy10amVyQmh0MlVPUGhHeFRUNnMzdVdORXhGWTNMSWZGTGlRckw3NEt1M2hySEZyNV82dWxpOW0wTzdBVFRnYUhfYVBHbmVwTDdMWnpqeFNhd25YNUo2ZnRHQlAzOTJGdDR5T082ZGhtTUhzbkJMakk0T3g2YjJiM1R6QWtDOXRkT1VQMWFfUE14WXJVVnZMZlFLc3JpdktMZ0FaQWFzQnFSdXFKRGwyY2ZMRnc?oc=5",
+    "aid": "7d638af9f0",
+    "titel": "Holstein Kiel: Jonas Meffert bleibt Kapitän – Timon Weiner Stellvertrete",
+    "quelle": "Kieler Nachrichten",
+    "beschr": " Holstein Kiel: Jonas Meffert bleibt Kapitän – Timon Weiner Stellvertrete &nbsp;&nbsp; Kieler Nachrichten ",
+    "zeit": "2026-11-21T12:22"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": []
+ },
+ {
+  "id": "97f7309f23",
+  "schluessel": "wolfsburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Wolfsburg",
+  "klubs": [
+   "Wolfsburg",
+   "Kiel"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "2. Bundesliga - VfL Wolfsburg 3-0 Holstein Kiel",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTW9kejFSay1lSXE5QzVaeVNqUlRJTm1FQm9YNEZOWlBUcERGM29WekRWdjFlNFV2WXVySlQ1M3JHS2tOa0l4ZTd6RFRRdmRUeTZTTk54UVZ1UGNmaEtzbXdiUGV1Z2FOZWQzVmdBRmVuM01CVlV3a0YySGJHNER1bDJNVlFYMHpQRXBad3YxQQ?oc=5",
+    "aid": "3b38ed0312",
+    "titel": "2. Bundesliga - VfL Wolfsburg 3-0 Holstein Kiel",
+    "quelle": "OneFootball",
+    "beschr": " 2. Bundesliga - VfL Wolfsburg 3-0 Holstein Kiel &nbsp;&nbsp; OneFootball ",
+    "zeit": "2026-11-21T15:05"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": []
+ },
+ {
+  "id": "11a36dbae3",
+  "schluessel": "wolfsburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Wolfsburg",
+  "klubs": [
+   "Wolfsburg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "2. Bundesliga: Wolfsburg vermiest Kiel Kniat-Debüt",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTU5NT3lGSk03SWVJdE1DOC1RZ2FLZlFjYjdPanppWjlJNV9EUFVMN2laOWVGb2ZjcW1PeG5pSEgtUGRuTUd6MDk1NGZFbU5LZFdmUHRNc2pKLTBIejNSVVZxSUVwXzRUc3FqaWpUSHM4X2l0Y21oQndVbkswdkdsUHlVdHJBekVsRmduNFExRVdFN09rNnh2MnpObGJfRER0NWdRY1Y1dW1KalVL?oc=5",
+    "aid": "c813782c8d",
+    "titel": "2. Bundesliga: Wolfsburg vermiest Kiel Kniat-Debüt",
+    "quelle": "Oldenburger Online Zeitung",
+    "beschr": " 2. Bundesliga: Wolfsburg vermiest Kiel Kniat-Debüt &nbsp;&nbsp; Oldenburger Online Zeitung ",
+    "zeit": "2026-11-21T14:57"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": [
+   {
+    "id": "50d28cfdd6",
+    "titel": "Wolfsburgs Kumbedi debütiert für Frankreich und beerbt Trezeguet",
+    "datum": "13.11.",
+    "stufe": "sonstiges",
+    "summary": "Wolfsburgs Saël Kumbedi hat beim 1:3 in Italien sein Debüt für Frankreichs A-Nationalmannschaft gegeben. Er ist der erste aktive Zweitliga-Spieler seit fast 20 Jahren im Kader der Equipe Tricolore."
+   },
+   {
+    "id": "1868a7668d",
+    "titel": "Damar über Elversberg-Anfrage: „Habe mich für Wolfsburg entschieden“",
+    "datum": "11.11.",
+    "stufe": "sonstiges",
+    "summary": "Wolfsburgs Muhammed Damar hat verraten, dass er eine Anfrage der SV Elversberg abgelehnt hat. Der Mittelfeldspieler kommt für die Wölfe nach 13 Einsätzen auf vier Tore und zwei Vorlagen."
+   }
+  ]
+ },
+ {
+  "id": "7964a65617",
+  "schluessel": "wolfsburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Wolfsburg",
+  "klubs": [
+   "Wolfsburg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Drei Geschenke für Wolfsburg: Kniats Kiel-Debüt geht schief",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZXZxVWRmallCc3ZiMVh2WnhDVnc4M20ycjVudnREMWJfdGZ6NVJIa0JkSmJFNlF1dVpkdk1mQk1mcjZXdzRfWGZNY0dJRHpZQU1BTkhiVzM1d25tbkdOS3lhZlVXcUJ4TFlURF9MZVpKQWZDWjJUU2gzNHVxNVVTQXUwNDhkUQ?oc=5",
+    "aid": "aadf4424d9",
+    "titel": "Drei Geschenke für Wolfsburg: Kniats Kiel-Debüt geht schief",
+    "quelle": "Kicker",
+    "beschr": " Drei Geschenke für Wolfsburg: Kniats Kiel-Debüt geht schief &nbsp;&nbsp; Kicker ",
+    "zeit": "2026-11-21T15:14"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": [
+   {
+    "id": "50d28cfdd6",
+    "titel": "Wolfsburgs Kumbedi debütiert für Frankreich und beerbt Trezeguet",
+    "datum": "13.11.",
+    "stufe": "sonstiges",
+    "summary": "Wolfsburgs Saël Kumbedi hat beim 1:3 in Italien sein Debüt für Frankreichs A-Nationalmannschaft gegeben. Er ist der erste aktive Zweitliga-Spieler seit fast 20 Jahren im Kader der Equipe Tricolore."
+   },
+   {
+    "id": "1868a7668d",
+    "titel": "Damar über Elversberg-Anfrage: „Habe mich für Wolfsburg entschieden“",
+    "datum": "11.11.",
+    "stufe": "sonstiges",
+    "summary": "Wolfsburgs Muhammed Damar hat verraten, dass er eine Anfrage der SV Elversberg abgelehnt hat. Der Mittelfeldspieler kommt für die Wölfe nach 13 Einsätzen auf vier Tore und zwei Vorlagen."
+   }
+  ]
+ },
+ {
+  "id": "45f561a3dc",
+  "schluessel": "wolfsburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Wolfsburg",
+  "klubs": [
+   "Wolfsburg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Wolfsburg verdirbt Kniat den Einstand",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbWhfR2J2MFgtZjJESzF1R1pPUWlQVTlmUkhoRGhtdVJWV3hqcWFieURzdl9kYlRFcDlCYktMTGxCSTNHVUVXNi1naGR0R1E0WXdkRzhWN0lVQkhMaVg4MlY0b3VuQ3FDZHh6OWJVRDN0R05vYjQwTnRmaTZNVEVoX3pMOXJSRDRGc2lqUnctNE5mcG1P?oc=5",
+    "aid": "7400b882f7",
+    "titel": "Wolfsburg verdirbt Kniat den Einstand",
+    "quelle": "Sky.de",
+    "beschr": " Wolfsburg verdirbt Kniat den Einstand &nbsp;&nbsp; Sky.de ",
+    "zeit": "2026-11-21T15:39"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": [
+   {
+    "id": "d99c3c54b1",
+    "titel": "Kniat vor Debüt in Wolfsburg: „Extreme Vorfreude“ beim Tabellenletzten",
+    "datum": "19.11.",
+    "stufe": "sonstiges",
+    "summary": "Holstein Kiel startet unter Trainer Mitch Kniat als Tabellenletzter mit acht Punkten beim VfL Wolfsburg. Auch der Tabellenfünfte Wolfsburg steht unter Druck und hat zwölf Punkte Rückstand auf Hertha."
+   },
+   {
+    "id": "50d28cfdd6",
+    "titel": "Wolfsburgs Kumbedi debütiert für Frankreich und beerbt Trezeguet",
+    "datum": "13.11.",
+    "stufe": "sonstiges",
+    "summary": "Wolfsburgs Saël Kumbedi hat beim 1:3 in Italien sein Debüt für Frankreichs A-Nationalmannschaft gegeben. Er ist der erste aktive Zweitliga-Spieler seit fast 20 Jahren im Kader der Equipe Tricolore."
+   }
+  ]
+ },
+ {
+  "id": "ebcad41e62",
+  "schluessel": "wolfsburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Wolfsburg",
+  "klubs": [
+   "Wolfsburg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Abpfiff",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbnJfRVBpMkc2OU9oOVl3a3VldnpwM09UcVpNVmQ1bXc1Zjd0RF9xMTEtOThHSmRRN1Z4SW50V2ZMLXFUQzIyUThpU2x2VmtpMWpFYXZlT0RyUkt0MTN1eDVZMHZZNXJpbjh2NVB5VHhrTDQ5MXdLak4zNVZiNUFaVzltd2pVbDRlUm1nUHU0VFgyN09DdlhJVTEyOWhMRGhuVlBNUTA2LVU?oc=5",
+    "aid": "dbf8a95a54",
+    "titel": "Abpfiff",
+    "quelle": "VfL Wolfsburg",
+    "beschr": " Abpfiff &nbsp;&nbsp; VfL Wolfsburg ",
+    "zeit": "2026-11-21T13:00"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": []
+ },
+ {
+  "id": "e585f40ddf",
+  "schluessel": "kiel|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Kiel",
+  "klubs": [
+   "Kiel"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Holstein-Coach Kniat: \"Haben trotzdem ein gutes Spiel gemacht\"",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeHJqd1pGbjRSNkVwSzNUQWQ5QnRMZC1ycXlqZncyMzFmQlhpM09MQ3VtOVFRZnZ2YkFPUHNTNldUdWc1a3BrTXc2ajNhWHB6cHNfWVktajVEMnFaQWFYVGhQY0QzNklST3BGejEtWEZyeWxxT0FUTGdDUHhaTWMtem8zTVhSZ3hOdlM2NXlzSWNNWWpFR1dsZ0NON3dNcnJnNmxxUnJCd3h2cXdxVFJ6elVR?oc=5",
+    "aid": "dcbd5da249",
+    "titel": "Holstein-Coach Kniat: \"Haben trotzdem ein gutes Spiel gemacht\"",
+    "quelle": "NDR.de",
+    "beschr": " Holstein-Coach Kniat: \"Haben trotzdem ein gutes Spiel gemacht\" &nbsp;&nbsp; NDR.de ",
+    "zeit": "2026-11-21T15:31"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": []
+ },
+ {
+  "id": "751b7d7b07",
+  "schluessel": "wolfsburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Wolfsburg",
+  "klubs": [
+   "Wolfsburg",
+   "Kiel"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "VfL Wolfsburg vs. Holstein Kiel heute live sehen: Wer zeigt / überträgt das Spiel im TV und Livestream?",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU1pzTzZDSEUxcV80REVxM0FjZnJfbnduLWtvMDFqcHRJeWhvUmZiZXZJdTNiWXBLWFlPOVgtdFhpMGFjOC1zTHJvbWZBa2ZYdUlqSEN2SDZvMEg0R3Z5aWhaLXNReHp0SVZVTjN3VU1SWnV6dWxUbjc0RVJmQmk3bWhvVXJ1V3NxQm96LVVOREgycjhoWU9aR0dtZmQwRnZCOGtWc1NQelJvZndSODJ3Z3NYY1hxRGJCU2Q2aFlreFFnNzc1c2Q5SXFDTDRVYUIyLVpuRlYzQVlVX0RNalNQQzh0dUh0ZGFOV2c?oc=5",
+    "aid": "2d71ff9199",
+    "titel": "VfL Wolfsburg vs. Holstein Kiel heute live sehen: Wer zeigt / überträgt das Spiel im TV und Livestream?",
+    "quelle": "Goal.com",
+    "beschr": " VfL Wolfsburg vs. Holstein Kiel heute live sehen: Wer zeigt / überträgt das Spiel im TV und Livestream? &nbsp;&nbsp; Goal.com ",
+    "zeit": "2026-11-20T18:33"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": [
+   {
+    "id": "d99c3c54b1",
+    "titel": "Kniat vor Debüt in Wolfsburg: „Extreme Vorfreude“ beim Tabellenletzten",
+    "datum": "19.11.",
+    "stufe": "sonstiges",
+    "summary": "Holstein Kiel startet unter Trainer Mitch Kniat als Tabellenletzter mit acht Punkten beim VfL Wolfsburg. Auch der Tabellenfünfte Wolfsburg steht unter Druck und hat zwölf Punkte Rückstand auf Hertha."
+   }
+  ]
+ },
+ {
+  "id": "e38b8747a4",
+  "schluessel": "karlsruhe|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Karlsruhe",
+  "klubs": [
+   "Karlsruhe"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "In zwei Jahren um die Welt: Kult-Radler Jakob Alberti ist zurück in Karlsruhe",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeUJpajF3RWZvVG1fM0JSNzY3ekQyYlZFZGh1YWktdGlDT3Q4bVZxQ3NFTHhkeTMtSmpQeUxLZ0t4eEUyY2N0OExCcXA5Y0JDWU12ZTY3QVhDWnhWSzY1V2xfOGF6UUYxU1RyaHFVOGpiaEl3Q25GMmUydHIwbkE4RGhnZmktd1RZempNUk96ekVFeW5JaGdmRUpobVo1YzNYMHVZZ19vSjh6aURCT1BlVXhiT0tQd2NZeW84ZDU3dUVLZ1E5UnF0eTByUzY?oc=5",
+    "aid": "e1416263d1",
+    "titel": "In zwei Jahren um die Welt: Kult-Radler Jakob Alberti ist zurück in Karlsruhe",
+    "quelle": "ka-news",
+    "beschr": " In zwei Jahren um die Welt: Kult-Radler Jakob Alberti ist zurück in Karlsruhe &nbsp;&nbsp; ka-news ",
+    "zeit": "2026-11-21T15:20"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": []
+ },
+ {
+  "id": "e3e179fa81",
+  "schluessel": "hertha|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha",
+   "Karlsruhe"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Hertha Berlin vs Karlsruher SC Tipp, Prognose & Quoten - 28. November 2026",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbENQYm1RR2k5a3BWM3lVS2VkbGl6UUtybVh0Z2p6QU5QOUZMUVpoLWVRa1ZDS3ZpWUNwWWc0WHktTXNzOGVnVjV2a042M252T0oxX0ptaVhVOWx2Zi0wT0c3VjVQVWRVR0doSDk2OTNJQm9nWDloRVUyNm43VFJjWQ?oc=5",
+    "aid": "43996ffba2",
+    "titel": "Hertha Berlin vs Karlsruher SC Tipp, Prognose & Quoten - 28. November 2026",
+    "quelle": "Wincomparator",
+    "beschr": " Hertha Berlin vs Karlsruher SC Tipp, Prognose & Quoten - 28. November 2026 &nbsp;&nbsp; Wincomparator ",
+    "zeit": "2026-11-21T13:00"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": []
+ },
+ {
+  "id": "82f3b83e0e",
+  "schluessel": "karlsruhe|verletzung",
+  "person": "",
+  "spieler": [],
+  "klub": "Karlsruhe",
+  "klubs": [
+   "Karlsruhe"
+  ],
+  "stufe": "rueckkehr",
+  "klasse": "verletzung",
+  "titel": "Er strampelte um die Welt: Karlsruhes \"verlorener Sohn\" Jakob Alberti feiert Rückkehr - die schönsten Bilder zum Empfang",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQX24yX2kwZmZPaWo2YV9PTjZkMkRhRnBLT1J3RW80elFfN01DZlBTNjVURmhUQzNVZU85UjJXSXBUVG1YSnhOZldxbWJBUFRlbVJBRHlSbzlDZDdnbFZ3YjNpNGtSblM4MTVsenQydXR4MmZHbldWUG43eHNHRUY2aTZwODhVNkNFRTRlS2NxWHJ5STRjM2dxR0dCT25Nd09mR2Q5T0xyN3dFUzZleFNGaWQwMGlabXpCRkh3Y3laVFI0RzdkQ09tRVNmeGcxMGFXWXhEdTBuUFNOR0FicTRMXzNMbGo2UHI5Nk1ObC1HamdIUQ?oc=5",
+    "aid": "fd52e2c653",
+    "titel": "Er strampelte um die Welt: Karlsruhes \"verlorener Sohn\" Jakob Alberti feiert Rückkehr - die schönsten Bilder zum Empfang",
+    "quelle": "ka-news",
+    "beschr": " Er strampelte um die Welt: Karlsruhes \"verlorener Sohn\" Jakob Alberti feiert Rückkehr - die schönsten Bilder zum Empfang &nbsp;&nbsp; ka-news ",
+    "zeit": "2026-11-21T15:00"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": []
+ },
+ {
+  "id": "ec7e5c30a7",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover",
+   "Fürth"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Lucky Punch und Jubellauf von Wagner - Hannover 96 ringt Greuther Fürth nieder",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcm83dkJjVUhKMnBHa0NaMXF3ZlFGcDhzUVZjQU5iN2xubXBnYmRSRTFuQmVoTktmaDVoQXZyWkV0Tm15Y0FsVEQtSU44Sjh6WC1ESkE0eXExczNyVDBfOGVFdnJTMnRtWlRPeXVSSVJMbHZDd1FpTmd6dGhfalBKcDJFVUV0N1RLTzg2NHBTMHdlR3RaMExoLW10SEtzSTBxc2F1VzE3TzN6RUFrdFBJdWNiSGR0Z3VkSWc?oc=5",
+    "aid": "937813ede5",
+    "titel": "Lucky Punch und Jubellauf von Wagner - Hannover 96 ringt Greuther Fürth nieder",
+    "quelle": "NDR.de",
+    "beschr": " Lucky Punch und Jubellauf von Wagner - Hannover 96 ringt Greuther Fürth nieder &nbsp;&nbsp; NDR.de ",
+    "zeit": "2026-11-21T15:26"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": [
+   {
+    "id": "98f969f271",
+    "titel": "Hannover 96: Franz Roggow überzeugt als Sechser und lobt Wagners Ansatz",
+    "datum": "13.11.",
+    "stufe": "sonstiges",
+    "summary": "Hannovers Sechser Franz Roggow spielte zuletzt gegen Dresden und in Heidenheim eine wichtige Rolle und lobt Sandro Wagners Ansatz. Nach der Länderspielpause kommt Fürth am 21. November nach Hannover."
+   }
+  ]
+ },
+ {
+  "id": "f982407ca7",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover",
+   "Fürth"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Irre Szenen nach Last-Minute-Drama zwischen Hannover 96 und Greuther Fürth",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONVhFXzFkRnJWTWJoWjFBbGNMdGF0M2FOREZQdUZoQ1lpbVc2X21kUW43dC05QXdXSldJMzJQOGZZSnQ5UzZJaWVrSC1kdy15N3RmdGhxa1B1NnB6LUREeUE3alNWRkhRWDBPU0EwbmVmY0Z2MzJzdVJ5TlgySjFuVGFMOEpqcnFyeURRU2hfZlpWLU9uUmZaS2h4cmJNOXVWWncwNFA5d0xLMGZ2R25TdXktN0RobzlBOFV6SUNXTQ?oc=5",
+    "aid": "65a4a4fbbb",
+    "titel": "Irre Szenen nach Last-Minute-Drama zwischen Hannover 96 und Greuther Fürth",
+    "quelle": "Frankfurter Rundschau",
+    "beschr": " Irre Szenen nach Last-Minute-Drama zwischen Hannover 96 und Greuther Fürth &nbsp;&nbsp; Frankfurter Rundschau ",
+    "zeit": "2026-11-21T15:15"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": []
+ },
+ {
+  "id": "2e81323a83",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover",
+   "Fürth"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "2. Bundesliga: Taibi erlöst Hannover spät gegen Fürth",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORklmV1JzaWM5OHRPak9CR1FjVWI3OThBTEc5aXlVRm44YlZjMVFnU3lhOWJDaDMxM3ZRUVJ2THBMZmdYZmdIVzFTcW4wMkFMcWtGMnRGeGdLMkQ4c2ZNUXpLaDRTRnIzdGNFNzBwLXJuSHZPdXZwNTBSNWpXU1ZBelpYaw?oc=5",
+    "aid": "a5ab5f1966",
+    "titel": "2. Bundesliga: Taibi erlöst Hannover spät gegen Fürth",
+    "quelle": "DIE ZEIT",
+    "beschr": " 2. Bundesliga: Taibi erlöst Hannover spät gegen Fürth &nbsp;&nbsp; DIE ZEIT ",
+    "zeit": "2026-11-21T15:07"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": []
+ },
+ {
+  "id": "29360d7993",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover",
+   "Fürth"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Hannover 96 - Spielbericht | SpVgg Greuther Fürth",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTWxaUUVTekRCbll6UG1GTDRmbHZIZjhlMjZPZlJBdVJUcTQweVY5OF9CR0w0VDMwSFEyVjdPWVpnTUtjLXJMSWxRb0VrbzZIWnlOS1JIa1gtMWdldUNOQzM2SE01bk1ieElMcm9GVnVxb2piU0xuMlNBd0ZJT0ZtcVZGU04wZw?oc=5",
+    "aid": "aa322891ca",
+    "titel": "Hannover 96 - Spielbericht | SpVgg Greuther Fürth",
+    "quelle": "SpVgg Greuther Fürth",
+    "beschr": " Hannover 96 - Spielbericht | SpVgg Greuther Fürth &nbsp;&nbsp; SpVgg Greuther Fürth ",
+    "zeit": "2026-11-21T04:00"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": [
+   {
+    "id": "d24281ef99",
+    "titel": "Chatzialexiou soll schon im Frühjahr mit Hannover gesprochen haben",
+    "datum": "10.11.",
+    "stufe": "sonstiges",
+    "summary": "Nürnbergs Sportvorstand Joti Chatzialexiou soll im Frühjahr mit Hannover 96 gesprochen haben, der Wechsel scheiterte laut Neuer Presse an der Ablöse. Er wechselt nun zu Eintracht Frankfurt, Nachfolger Dieter Frey ist im Amt."
+   }
+  ]
+ },
+ {
+  "id": "41681d2bb7",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover",
+   "Fürth"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "BR24 Sport: Sandro Wagner jubelt: Hannover dreht Spiel gegen Fürth",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ0haNjQ2NVlId0xBMzVsdTZQckdrWW94YVgzVlkzV282M1pfd0JyaFFkWVMyOHFqVXhkdXduV2Rua3JyU0I0dkt6SlpiX3luYmpCQ2M5T2JVNmtWcF81V1VXNjlia2RqdXZubzlTbkFFU3ZHNEVCT2E3c25HQlFaV1NKYktMbTZ6VGRVdmh0aHd0bG1qRWdKSnVxSlJtSXpoLXJORFN6cw?oc=5",
+    "aid": "67d89d3f0e",
+    "titel": "BR24 Sport: Sandro Wagner jubelt: Hannover dreht Spiel gegen Fürth",
+    "quelle": "sportschau.de",
+    "beschr": " BR24 Sport: Sandro Wagner jubelt: Hannover dreht Spiel gegen Fürth &nbsp;&nbsp; sportschau.de ",
+    "zeit": "2026-11-21T15:13"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": [
+   {
+    "id": "98f969f271",
+    "titel": "Hannover 96: Franz Roggow überzeugt als Sechser und lobt Wagners Ansatz",
+    "datum": "13.11.",
+    "stufe": "sonstiges",
+    "summary": "Hannovers Sechser Franz Roggow spielte zuletzt gegen Dresden und in Heidenheim eine wichtige Rolle und lobt Sandro Wagners Ansatz. Nach der Länderspielpause kommt Fürth am 21. November nach Hannover."
+   }
+  ]
+ },
+ {
+  "id": "3b967c4c9b",
+  "schluessel": "hannover|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "Wagner feiert Last-Minute-Sieg mit Hannover",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORVg2SV9rckduY2lPWmo2dmw1c2x6QmRuRmR3amRPNWJzNEdfTEFGek1kQTZDelUxU1JQTTJVNm15OGN0R2E2MGhsSDZ5V2JrdXA3STZwSHJPMTNsbTZvU1E1UXpvQVByOGczWXZJdjVOVDVKaGh0d25QcmhQMm0xcEZIejctbmZheURROWw3SU13WVJGVXpzdXF5SVc?oc=5",
+    "aid": "8de5fbadf2",
+    "titel": "Wagner feiert Last-Minute-Sieg mit Hannover",
+    "quelle": "Sky.de",
+    "beschr": " Wagner feiert Last-Minute-Sieg mit Hannover &nbsp;&nbsp; Sky.de ",
+    "zeit": "2026-11-21T15:36"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": [
+   {
+    "id": "c446e6f152",
+    "titel": "Taibi trifft spät: Hannover 96 dreht Spiel gegen Fürth",
+    "datum": "21.11.",
+    "stufe": "spielbericht",
+    "summary": "Hannover 96 gewinnt gegen Greuther Fürth 2:1, Waniss Taibi trifft in der Nachspielzeit. Benjamin Källman verletzte sich früh und musste humpelnd raus."
+   },
+   {
+    "id": "40182b0568",
+    "titel": "Hannover 96: 6:1 gegen Havelse, Wagner überlässt Ünal das Coaching",
+    "datum": "13.11.",
+    "stufe": "spielbericht",
+    "summary": "Hannover 96 gewinnt das Testspiel gegen Havelse 6:1, Tom Hobrecht erzielt einen Hattrick. Trainer Sandro Wagner überlässt Assistent Can Ünal bewusst das Coaching, Lars Gindorf feiert sein Comeback."
+   },
+   {
+    "id": "b557e7ac2b",
+    "titel": "Heidenheim und Hannover trennen sich 2:2",
+    "datum": "08.11.",
+    "stufe": "spielbericht",
+    "summary": "Heidenheim und Hannover 96 trennen sich am 11. Spieltag der 2. Bundesliga 2:2. Der FCH bleibt im sechsten Spiel sieglos und liegt mit 16 Punkten auf Rang sieben, Hannover mit 12 Punkten auf Rang elf."
+   }
+  ]
+ },
+ {
+  "id": "a17f072cdc",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "In der Nachspielzeit: Taibi stürzt Hannover in einen Freudentaumel",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZjk0dWs3b25GdlB3STNuRm1mYTdZRmU5V1h1a05PTW4wd1oxZkRJeG5sblBSWWZQcTFIM1JlYVlZdDJ2ZV9VY3JaQ0hZc2d2cXI3OXVtMGw2OGxuRDRaT2VReFQ1ZkZmREFMVUZYaU90RFBNM3A0Zl9BdWw1MGFPR3IwUkdBams?oc=5",
+    "aid": "881f20b0f0",
+    "titel": "In der Nachspielzeit: Taibi stürzt Hannover in einen Freudentaumel",
+    "quelle": "Kicker",
+    "beschr": " In der Nachspielzeit: Taibi stürzt Hannover in einen Freudentaumel &nbsp;&nbsp; Kicker ",
+    "zeit": "2026-11-21T14:53"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": []
+ },
+ {
+  "id": "6ed5b681f0",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover",
+   "Fürth"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "2. Bundesliga - Hannover 96 2-1 SpVgg Greuther Fürth",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORmM0OTlCeXlmSDhXNUNyQjZHM0pGc1hyYTIyRXN6WHN5Qnl4aTBDRm5IYy1kOXFIaG1MSUdqZmkyb0xHckloMDNMVldXb0gxNV82TkhFNjVlYjRUWEVZVHh2RzVSdmVna3NTUXBhMVdBWGtPOEtTVkJILUdJV0xFVmhiMmJpeEtlYm8tcFZuVWg2cUlKSXYw?oc=5",
+    "aid": "c4b87ffee2",
+    "titel": "2. Bundesliga - Hannover 96 2-1 SpVgg Greuther Fürth",
+    "quelle": "OneFootball",
+    "beschr": " 2. Bundesliga - Hannover 96 2-1 SpVgg Greuther Fürth &nbsp;&nbsp; OneFootball ",
+    "zeit": "2026-11-21T12:40"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": []
+ },
+ {
+  "id": "1a3ddf42bd",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover",
+   "Fürth"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Hannover 96 dreht Spiel gegen Fürth spät",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNajZyb2FPQjZkUW5Dc2o4cHJTdHExcFdBbVotSEFhbC1WRHdzQTh5NGlMLUp5YU9DS2ZWRzMxRDhNRTZpUktidWt5UEZET3Roc3hmc0xjbjVEc1Rad1ZBN0hKalpJSVZPLUVIQldJZ2M5RmtvUWdaUEdZd3U1U3Y1OEZsbEJucHUtcVU5QlR0dGJFMXJPYk1kOTFEN2dxdW1i?oc=5",
+    "aid": "7959654491",
+    "titel": "Hannover 96 dreht Spiel gegen Fürth spät",
+    "quelle": "SPORT1",
+    "beschr": " Hannover 96 dreht Spiel gegen Fürth spät &nbsp;&nbsp; SPORT1 ",
+    "zeit": "2026-11-21T15:05"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": [
+   {
+    "id": "d24281ef99",
+    "titel": "Chatzialexiou soll schon im Frühjahr mit Hannover gesprochen haben",
+    "datum": "10.11.",
+    "stufe": "sonstiges",
+    "summary": "Nürnbergs Sportvorstand Joti Chatzialexiou soll im Frühjahr mit Hannover 96 gesprochen haben, der Wechsel scheiterte laut Neuer Presse an der Ablöse. Er wechselt nun zu Eintracht Frankfurt, Nachfolger Dieter Frey ist im Amt."
+   }
+  ]
+ },
+ {
+  "id": "01241442b9",
+  "schluessel": "wolfsburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Wolfsburg",
+  "klubs": [
+   "Wolfsburg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Besonderer Geniestreich von Fabian Reese: VfL Wolfsburg fertigt Kiel ab",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOczRudVQ5VExOZVFyTEUyWFd2ZlFHcHhObjBqZ0xBbmlqTnMxSWM1dU95ZXE5SlRpbi1Pb2NuQ0ZPQ1JoZjRjSzZEcGxnWmszdktBSmhURXpxay1YbHJ6TXdXalY5eEpVanJ6NGdvQzZjZDNzQVcyaklZRXBjN2lGRUt6aVNnM1dXQ0NPWER5N3dEc0o0Mlh5OGlvd2VFZ1NSY2lMeDNKZF80aS15eWMwNll6bEZuMk1sMk90emtyUGY2SUU?oc=5",
+    "aid": "8737a214ea",
+    "titel": "Besonderer Geniestreich von Fabian Reese: VfL Wolfsburg fertigt Kiel ab",
+    "quelle": "SPOX.com",
+    "beschr": " Besonderer Geniestreich von Fabian Reese: VfL Wolfsburg fertigt Kiel ab &nbsp;&nbsp; SPOX.com ",
+    "zeit": "2026-11-21T15:08"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": [
+   {
+    "id": "d99c3c54b1",
+    "titel": "Kniat vor Debüt in Wolfsburg: „Extreme Vorfreude“ beim Tabellenletzten",
+    "datum": "19.11.",
+    "stufe": "sonstiges",
+    "summary": "Holstein Kiel startet unter Trainer Mitch Kniat als Tabellenletzter mit acht Punkten beim VfL Wolfsburg. Auch der Tabellenfünfte Wolfsburg steht unter Druck und hat zwölf Punkte Rückstand auf Hertha."
+   },
+   {
+    "id": "50d28cfdd6",
+    "titel": "Wolfsburgs Kumbedi debütiert für Frankreich und beerbt Trezeguet",
+    "datum": "13.11.",
+    "stufe": "sonstiges",
+    "summary": "Wolfsburgs Saël Kumbedi hat beim 1:3 in Italien sein Debüt für Frankreichs A-Nationalmannschaft gegeben. Er ist der erste aktive Zweitliga-Spieler seit fast 20 Jahren im Kader der Equipe Tricolore."
+   },
+   {
+    "id": "1868a7668d",
+    "titel": "Damar über Elversberg-Anfrage: „Habe mich für Wolfsburg entschieden“",
+    "datum": "11.11.",
+    "stufe": "sonstiges",
+    "summary": "Wolfsburgs Muhammed Damar hat verraten, dass er eine Anfrage der SV Elversberg abgelehnt hat. Der Mittelfeldspieler kommt für die Wölfe nach 13 Einsätzen auf vier Tore und zwei Vorlagen."
+   }
+  ]
+ },
+ {
+  "id": "637f282580",
+  "schluessel": "st. pauli|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "St. Pauli",
+  "klubs": [
+   "St. Pauli"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "St. Pauli-Fans erwarten heute mehrere Aktionen am Millerntor",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSmN4Wk5rQi1lVHpvbmUxX0w2ekNYbVh2UHhtemlPdlVwSWtYcjJDQ2wyZDQwaWtFZ3V5ZGJyZTc2WlhyQWNHLUtWZXdhVFBXVHdyQ2ZPdnE2VmJBWWNRdHRWVU1rMHlqR1VOZ3BXRW5nWHhJNl80Y184MDZLWlk3aHR5ajNVaEhqaDIteGVXbVZkWV9TRmhzcU9NcndoV2tHWlBz?oc=5",
+    "aid": "0b850e2505",
+    "titel": "St. Pauli-Fans erwarten heute mehrere Aktionen am Millerntor",
+    "quelle": "StPauli24",
+    "beschr": " St. Pauli-Fans erwarten heute mehrere Aktionen am Millerntor &nbsp;&nbsp; StPauli24 ",
+    "zeit": "2026-11-21T16:01"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-21T18:01",
+  "archiv": [
+   {
+    "id": "ceca666738",
+    "titel": "Smith gegen Pyrka: St. Pauli-Profis treffen in der Nations League aufeinander",
+    "datum": "17.11.",
+    "stufe": "sonstiges",
+    "summary": "St. Paulis Eric Smith und Arkadiusz Pyrka treffen in der Nations League mit Schweden und Polen aufeinander. Pyrka hat gute Chancen auf einen Startelfeinsatz, Smith blieb zuletzt ohne Einsatz."
+   }
+  ]
  }
 ]

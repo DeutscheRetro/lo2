@@ -2313,5 +2313,51 @@
   ],
   "alt_titel": "Darmstadt schlägt Heidenheim 3:1: Kehl trifft doppelt, Papela zurück",
   "quelle_gelesen": false
+ },
+ {
+  "zeit": "21.11.2026 18:03",
+  "id": "1cafddf4f1",
+  "pfad": "artikel/wolfsburg-schlaegt-kiel-am-12-spieltag-deutlich-mit-3-0-1cafddf4f1.html",
+  "urteil": "verbessert",
+  "gruende": [
+   "Datum der Niederlage bei Hertha („8. November“) gestrichen, weil es nicht in der Quelle steht",
+   "„Kapitänsbinde-Kandidat“ bei Hauke Wahl gestrichen, weil es nicht in der Quelle steht",
+   "„rückt auf Rang vier vor“ zu „steht auf Rang vier“ korrigiert, weil die Quelle keinen Sprung in der Tabelle nennt",
+   "„Wie berichtet“ entfernt, weil LO darüber nicht nachweislich früher berichtet hat; die Bilanz wird jetzt sachlich eingeordnet",
+   "Anstoßzeit und Datum aus der Quelle ergänzt, Schluss sachlicher formuliert"
+  ],
+  "alt_titel": "Wolfsburg schlägt Kiel am 12. Spieltag deutlich mit 3:0",
+  "quelle_gelesen": true
+ },
+ {
+  "zeit": "21.11.2026 18:03",
+  "id": "c446e6f152",
+  "pfad": "artikel/taibi-trifft-spaet-hannover-96-dreht-spiel-gegen-fuerth-c446e6f152.html",
+  "urteil": "verbessert",
+  "gruende": [
+   "Ich habe die Entstehung des 1:1 gestrichen (Hartel auf die Grundlinie, Querpass nach Zusammenspiel mit Gindorf). Das steht nicht in der Quelle. Die Quelle bricht vorher ab und nennt nur Thordarson als Torschützen (57.).",
+   "Ich habe den Aufbau chronologisch geordnet: zuerst die Verletzung von Källman, dann die Fürther Führung, danach die zweite Halbzeit.",
+   "Ich habe die Zitate von Wagner und Vogel aus der Quelle in den Mittelteil aufgenommen.",
+   "Ich habe den Namen auf Krisztián Keresztes mit Akzent korrigiert.",
+   "Ich habe Vor- und Nachnamen beim ersten Nennen ergänzt: Stefan Thordarson und Ole Pohlmann.",
+   "Der Schluss hat jetzt einen Ausblick auf die Tabelle: Fürth muss sich nach unten orientieren."
+  ],
+  "alt_titel": "Taibi trifft spät: Hannover 96 dreht Spiel gegen Fürth",
+  "quelle_gelesen": true
+ },
+ {
+  "zeit": "21.11.2026 18:03",
+  "id": "c2f0479f8c",
+  "pfad": "artikel/nuernberg-verliert-gegen-braunschweig-nach-fuehrung-mit-1-2-c2f0479f8c.html",
+  "urteil": "verbessert",
+  "gruende": [
+   "Parallelspiele Wolfsburg gegen Kiel und Hannover gegen Fürth gestrichen, weil sie nicht zum Thema gehören",
+   "Mittelteil chronologisch geordnet: Böving (28.) steht jetzt vor den Treffern nach der Pause",
+   "„glaubte Braunschweig an den Ausgleich“ gestrichen, weil das nicht in der Quelle steht",
+   "Schluss mit Tabellenlage als Ausblick verdichtet",
+   "Titel präzisiert"
+  ],
+  "alt_titel": "Nürnberg verliert gegen Braunschweig nach Führung mit 1:2",
+  "quelle_gelesen": true
  }
 ]
