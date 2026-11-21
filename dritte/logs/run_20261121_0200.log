@@ -1,0 +1,171 @@
+2026-11-21 02:00:46,298 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 1 passende Treffer
+2026-11-21 02:00:46,298 INFO S7 Ersatzquelle liefert Text (120 Wörter, 1 Quellen): Kimmich nach Rückkehr: Hier am absolut richtigen Ort
+2026-11-21 02:00:46,298 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 0 passende Treffer
+2026-11-21 02:00:46,298 INFO FinalCheck SKIP: borussia mönchengladbach/{'max muster'} stage=geruecht bereits in Archiv
+2026-11-21 02:00:46,298 INFO FinalCheck SKIP: borussia mönchengladbach/set() stage=geruecht bereits in Archiv
+2026-11-21 02:00:57,836 INFO 💶 Budget: dieser Lauf 0.000 $ | heute 0.00 $ | Monat 0.00 / 0 $
+2026-11-21 02:00:57,839 INFO URL-Cache geladen: 4032 bekannte URLs (letzte 30 Tage)
+2026-11-21 02:00:57,839 INFO === LO Generator startet – max. 50 Artikel ===
+2026-11-21 02:00:57,839 INFO Feed: https://newsfeed.kicker.de/news/3-liga
+2026-11-21 02:00:58,065 INFO S1 Medienseite ohne Artikeltext: Dreierpacker Otto: "Muss erst mit meiner Frau sprechen, wo d
+2026-11-21 02:00:58,065 INFO Feed: https://www.sport.de/rss/news/
+2026-11-21 02:00:58,304 INFO Feed: https://www.11freunde.de/feed
+2026-11-21 02:00:59,594 INFO Feed: https://news.google.com/rss/search?q=%223.+Liga%22&hl=de&gl=DE&ceid=DE:de
+2026-11-21 02:01:00,259 INFO S2 blacklist: 3. Liga: Jahn Regensburg gegen Preußen Münster
+2026-11-21 02:01:00,259 INFO S2 blacklist: Spielereignisse | TSV Altenholz - HC Hamburg II 35:29 | 13. 
+2026-11-21 02:01:00,259 INFO S2 blacklist: Spielereignisse | TuS Vinnhorst - Eintracht Hildesheim 33:29
+2026-11-21 02:01:00,263 WARNING Spielerliste nicht verfügbar: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-21 02:01:00,263 INFO BL-Spielerliste geladen: 0 Namen
+2026-11-21 02:01:00,263 INFO S3 keyword miss: Dreierpacker Otto: "Muss erst mit meiner Frau sprechen, wo d
+2026-11-21 02:01:00,266 INFO S3 keyword miss: 6:1-Kantersieg für Leader Blau-Weiß Linz in 2. Liga bei Rapi
+2026-11-21 02:01:00,268 INFO S3 keyword miss: Re-Live: Die Sportschau vom Freitag mit Bayern gegen Köln
+2026-11-21 02:01:00,269 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Verletzung+Ausfall+gesperrt&hl=de&gl=DE&ceid=DE:de
+2026-11-21 02:01:00,515 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Transfer+Wechsel+verpflichtet&hl=de&gl=DE&ceid=DE:de
+2026-11-21 02:01:00,796 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Ger%C3%BCcht+Interesse+Angebot&hl=de&gl=DE&ceid=DE:de
+2026-11-21 02:01:01,062 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Vertrag+verl%C3%A4ngert+abl%C3%B6sefrei&hl=de&gl=DE&ceid=DE:de
+2026-11-21 02:01:01,291 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Trainer+Entlassung&hl=de&gl=DE&ceid=DE:de
+2026-11-21 02:01:01,576 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Saarbr%C3%BCcken%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 02:01:01,949 INFO Feed: https://news.google.com/rss/search?q=%22Alemannia+Aachen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 02:01:02,213 INFO Feed: https://news.google.com/rss/search?q=%22FC+Ingolstadt%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 02:01:02,476 INFO S3 keyword miss: TOTO-Pokal-Halbfinale
+2026-11-21 02:01:02,476 INFO Feed: https://news.google.com/rss/search?q=%22Fortuna+D%C3%BCsseldorf%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 02:01:02,775 INFO S2 blacklist: (U-17-DFB-Nachwuchsliga (Vorrunde))
+2026-11-21 02:01:02,775 INFO Feed: https://news.google.com/rss/search?q=%22Fortuna+K%C3%B6ln%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 02:01:03,056 INFO Feed: https://news.google.com/rss/search?q=%22Hansa+Rostock%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 02:01:03,361 INFO Feed: https://news.google.com/rss/search?q=%22Jahn+Regensburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 02:01:03,656 INFO Feed: https://news.google.com/rss/search?q=%22MSV+Duisburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 02:01:03,957 INFO Feed: https://news.google.com/rss/search?q=%22Preu%C3%9Fen+M%C3%BCnster%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 02:01:04,249 INFO Feed: https://news.google.com/rss/search?q=%22Rot-Weiss+Essen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 02:01:04,521 INFO S2 kein BL-Klub im Titel: Am Sonntag live: FC Gütersloh empfängt Spitzenreiter Rot-Wei
+2026-11-21 02:01:04,521 INFO Feed: https://news.google.com/rss/search?q=%22SC+Verl%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 02:01:04,753 INFO S2 blacklist: Spielereignisse | SC Verl - Arminia Bielefeld 0:1 | 12. Spie
+2026-11-21 02:01:04,754 INFO Feed: https://news.google.com/rss/search?q=%22Sonnenhof+Gro%C3%9Faspach%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 02:01:05,160 INFO Feed: https://news.google.com/rss/search?q=%22SV+Meppen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 02:01:05,447 INFO S2 kein BL-Klub im Titel: Stuttgart-Stürmer Deniz Undav und Schalke 04: Da war doch ma
+2026-11-21 02:01:05,448 INFO S2 kein BL-Klub im Titel: FC Schalke 04 vs. VfB Stuttgart Tipp-Hilfe
+2026-11-21 02:01:05,448 INFO S2 kein BL-Klub im Titel: 1. FC Nürnberg vs. Eintracht Braunschweig
+2026-11-21 02:01:05,449 INFO S3 keyword miss: Galatasaray Istanbul – Samsunspor Prognose
+2026-11-21 02:01:05,451 INFO S3 keyword miss: Team Manchester – Team Fulham Vorhersage
+2026-11-21 02:01:05,451 INFO Feed: https://news.google.com/rss/search?q=%22Waldhof+Mannheim%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 02:01:05,708 INFO Feed: https://news.google.com/rss/search?q=%22Wehen+Wiesbaden%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 02:01:05,950 INFO S2 blacklist: Die Überflieger reisen nach Saarbrücken! – FCS-Gegnercheck: 
+2026-11-21 02:01:05,950 INFO Feed: https://news.google.com/rss/search?q=%22Hoffenheim+II%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 02:01:06,217 INFO Feed: https://news.google.com/rss/search?q=%22TSV+Havelse%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 02:01:06,510 INFO S2 Liveticker übersprungen: Liveticker TSV Havelse - Viktoria Köln 1:6 | 14. Spieltag, 3
+2026-11-21 02:01:06,512 INFO Feed: https://news.google.com/rss/search?q=%22VfB+Stuttgart+II%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 02:01:06,755 INFO Feed: https://news.google.com/rss/search?q=%22Viktoria+K%C3%B6ln%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 02:01:07,005 INFO Feed: https://news.google.com/rss/search?q=%22W%C3%BCrzburger+Kickers%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-21 02:01:07,272 INFO Feed: https://newsfeed.kicker.de/team/1-fc-saarbruecken
+2026-11-21 02:01:07,544 INFO Feed: https://newsfeed.kicker.de/team/alemannia-aachen
+2026-11-21 02:01:07,744 INFO Feed: https://newsfeed.kicker.de/team/fc-ingolstadt-04
+2026-11-21 02:01:07,959 INFO Feed: https://newsfeed.kicker.de/team/fortuna-duesseldorf
+2026-11-21 02:01:08,323 INFO Feed: https://newsfeed.kicker.de/team/hansa-rostock
+2026-11-21 02:01:08,517 INFO Feed: https://newsfeed.kicker.de/team/jahn-regensburg
+2026-11-21 02:01:08,715 INFO Feed: https://newsfeed.kicker.de/team/msv-duisburg
+2026-11-21 02:01:08,958 INFO Feed: https://newsfeed.kicker.de/team/preussen-muenster
+2026-11-21 02:01:09,304 INFO Feed: https://newsfeed.kicker.de/team/rot-weiss-essen
+2026-11-21 02:01:09,552 INFO Feed: https://newsfeed.kicker.de/team/sc-verl
+2026-11-21 02:01:09,841 INFO Feed: https://newsfeed.kicker.de/team/waldhof-mannheim
+2026-11-21 02:01:10,362 INFO Feed: https://newsfeed.kicker.de/team/sv-wehen-wiesbaden
+2026-11-21 02:01:10,559 INFO Feed: https://newsfeed.kicker.de/team/tsg-hoffenheim-ii
+2026-11-21 02:01:10,863 INFO Feed: https://newsfeed.kicker.de/team/tsv-havelse
+2026-11-21 02:01:11,145 INFO Feed: https://newsfeed.kicker.de/team/vfb-stuttgart-ii
+2026-11-21 02:01:11,435 INFO Feed: https://newsfeed.kicker.de/team/fc-viktoria-koeln
+2026-11-21 02:01:11,703 INFO Eingelesen: 13 Schlagzeilen nach den Gratis-Filtern
+2026-11-21 02:01:11,713 INFO S5: 11 neue Geschichten, 0 schon berichtet, 0 zu wartenden Geschichten ergänzt, 24 warten
+2026-11-21 02:02:14,857 INFO S6 aussortiert (doppelt): Viktoria Köln überrollt Havelse und festigt Tabellenführung
+2026-11-21 02:02:14,857 INFO S6 aussortiert (doppelt): Fußball 3. Liga: TSV Havelse gegen Vikt. Köln - Aufstellung - 14. Spie
+2026-11-21 02:02:14,857 INFO S6 aussortiert (doppelt): Dreierpack von David Otto: Viktoria Köln zerlegt Schlusslicht Havelse
+2026-11-21 02:02:14,857 INFO S6 aussortiert (prio_0): 3. Liga live hören: Hoffenheim II gegen 1. FC Saarbrücken
+2026-11-21 02:02:14,857 INFO S6 aussortiert (prio_0): Klage gegen Saarbahn-Streik in Saarbrücken: Pendler warten auf Urteil
+2026-11-21 02:02:14,857 INFO S6 aussortiert (prio_0): Alemannia Aachen – Waldhof Mannheim Prognose
+2026-11-21 02:02:14,857 INFO S6 aussortiert (prio_0): 3. Liga: Fortuna Köln gegen Hansa Rostock
+2026-11-21 02:02:14,857 INFO S6 aussortiert (prio_0): SC Verl spielt gegen RW Essen, FC Gütersloh gegen RW Oberhausen
+2026-11-21 02:02:14,858 INFO S6 aussortiert (prio_0): Alexander Prass | Spielerprofil 2026/27 | TSG 1899 Hoffenheim II
+2026-11-21 02:02:14,858 INFO S6 aussortiert (doppelt): TSV Havelse - Viktoria Köln: Die Höhepunkte der Partie
+2026-11-21 02:02:15,199 INFO S7 kein Volltext (too_short_75_words): 3. Liga: 1. FC Saarbrücken mit sieben Ausfällen – Abwehrspie
+2026-11-21 02:02:15,468 INFO S7 Ersatzquellen für "3. Liga: 1. FC Saarbrücken mit sieben Ausfällen – ": 0 passende Treffer
+2026-11-21 02:02:15,468 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): 3. Liga: 1. FC Saarbrücken mit sieben Ausfällen – Abwehrspie
+2026-11-21 02:02:16,143 INFO S7 kein Volltext (too_short_28_words): MSV-Trainer gibt vor Rostock-Match Verletzungsupdate bei Jos
+2026-11-21 02:02:16,355 INFO S7 Ersatzquellen für "MSV-Trainer gibt vor Rostock-Match Verletzungsupda": 0 passende Treffer
+2026-11-21 02:02:16,355 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): MSV-Trainer gibt vor Rostock-Match Verletzungsupdate bei Jos
+2026-11-21 02:02:17,099 INFO S7 kein Volltext (too_short_8_words): Hansa Rostock: Coach Breitenreiter legt Torhüter für Duisbur
+2026-11-21 02:02:17,350 INFO S7 Ersatzquellen für "Hansa Rostock: Coach Breitenreiter legt Torhüter f": 0 passende Treffer
+2026-11-21 02:02:17,350 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Hansa Rostock: Coach Breitenreiter legt Torhüter für Duisbur
+2026-11-21 02:02:18,603 INFO S7 kein Volltext (too_short_75_words): Rot-Weiss Essen: Fünf Ausfälle in Verl, Hüning kann spielen,
+2026-11-21 02:02:18,840 INFO S7 Ersatzquellen für "Rot-Weiss Essen: Fünf Ausfälle in Verl, Hüning kan": 0 passende Treffer
+2026-11-21 02:02:18,841 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Rot-Weiss Essen: Fünf Ausfälle in Verl, Hüning kann spielen,
+2026-11-21 02:02:21,436 INFO S7 schreiben (Prio 2, 1 Quellen): Hilfe für die geplagte Abwehr? Saarbrücken testet Ex-Brighto
+2026-11-21 02:02:29,119 INFO   Kandidat: Saarbrücken testet vereinslosen Innenverteidiger Noel Bigo A
+2026-11-21 02:02:29,597 INFO S7 kein Volltext (too_short_30_words): MSV Duisburg: Trainer Dietmar Hirsch wehrt sich mit Brandred
+2026-11-21 02:02:29,812 INFO S7 Ersatzquellen für "MSV Duisburg: Trainer Dietmar Hirsch wehrt sich mi": 0 passende Treffer
+2026-11-21 02:02:29,812 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): MSV Duisburg: Trainer Dietmar Hirsch wehrt sich mit Brandred
+2026-11-21 02:02:31,856 WARNING discarding data: None
+2026-11-21 02:02:31,857 INFO S7 kein Volltext (trafilatura_returned_empty): Pressekonferenz vor Verl | #immeRWEiter #nurderrwe
+2026-11-21 02:02:32,092 INFO S7 Ersatzquellen für "Pressekonferenz vor Verl | #immeRWEiter #nurderrwe": 0 passende Treffer
+2026-11-21 02:02:32,093 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Pressekonferenz vor Verl | #immeRWEiter #nurderrwe
+2026-11-21 02:02:33,552 INFO S7 kein Volltext (too_short_74_words): #MSVHRO | Die PK mit Dietmar Hirsch vor dem Heimspiel gegen 
+2026-11-21 02:02:33,797 INFO S7 Ersatzquellen für "#MSVHRO | Die PK mit Dietmar Hirsch vor dem Heimsp": 0 passende Treffer
+2026-11-21 02:02:33,797 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): #MSVHRO | Die PK mit Dietmar Hirsch vor dem Heimspiel gegen 
+2026-11-21 02:02:34,266 INFO S7 kein Volltext (too_short_36_words): Blick auf MSV-Gegner Hansa Rostock
+2026-11-21 02:02:34,541 INFO S7 Ersatzquellen für "Blick auf MSV-Gegner Hansa Rostock": 0 passende Treffer
+2026-11-21 02:02:34,541 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Blick auf MSV-Gegner Hansa Rostock
+2026-11-21 02:02:34,769 WARNING discarding data: None
+2026-11-21 02:02:34,769 INFO S7 kein Volltext (trafilatura_returned_empty): Mehdi Loune: der kreative Verbindungsmann
+2026-11-21 02:02:34,999 INFO S7 Ersatzquellen für "Mehdi Loune: der kreative Verbindungsmann": 0 passende Treffer
+2026-11-21 02:02:34,999 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Mehdi Loune: der kreative Verbindungsmann
+2026-11-21 02:02:36,353 INFO S7 kein Volltext (too_short_44_words): Mit voller Kapelle zum vierten Sieg? FC Ingolstadt hat beim 
+2026-11-21 02:02:36,618 INFO S7 Ersatzquellen für "Mit voller Kapelle zum vierten Sieg? FC Ingolstadt": 0 passende Treffer
+2026-11-21 02:02:36,618 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Mit voller Kapelle zum vierten Sieg? FC Ingolstadt hat beim 
+2026-11-21 02:02:36,882 INFO S7 kein Volltext (too_short_75_words): "Das ist ein großer Klub" - Ingolstadts Torjäger spricht übe
+2026-11-21 02:02:37,088 INFO S7 Ersatzquellen für ""Das ist ein großer Klub" - Ingolstadts Torjäger s": 0 passende Treffer
+2026-11-21 02:02:37,088 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): "Das ist ein großer Klub" - Ingolstadts Torjäger spricht übe
+2026-11-21 02:02:38,613 WARNING discarding data: None
+2026-11-21 02:02:38,614 INFO S7 kein Volltext (trafilatura_returned_empty): SC Verl: Orest Shala hofft gegen Essen auf ein nachträgliche
+2026-11-21 02:02:38,862 INFO S7 Ersatzquellen für "SC Verl: Orest Shala hofft gegen Essen auf ein nac": 0 passende Treffer
+2026-11-21 02:02:38,862 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): SC Verl: Orest Shala hofft gegen Essen auf ein nachträgliche
+2026-11-21 02:02:39,400 INFO S7 kein Volltext (too_short_38_words): Heimfluch trifft auf Höhenflug: Warum der SV Meppen Fortuna 
+2026-11-21 02:02:39,634 INFO S7 Ersatzquellen für "Heimfluch trifft auf Höhenflug: Warum der SV Meppe": 0 passende Treffer
+2026-11-21 02:02:39,635 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Heimfluch trifft auf Höhenflug: Warum der SV Meppen Fortuna 
+2026-11-21 02:02:39,843 INFO S7 kein Volltext (too_short_75_words): Rot-Weiss Essen: Trotz starker Punktausbeute nur Dritter - K
+2026-11-21 02:02:40,054 INFO S7 Ersatzquellen für "Rot-Weiss Essen: Trotz starker Punktausbeute nur D": 0 passende Treffer
+2026-11-21 02:02:40,054 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Rot-Weiss Essen: Trotz starker Punktausbeute nur Dritter - K
+2026-11-21 02:02:41,587 INFO S7 kein Volltext (too_short_79_words): SV Waldhof Mannheim vor Auswärtsspiel in Aachen
+2026-11-21 02:02:41,809 INFO S7 Ersatzquellen für "SV Waldhof Mannheim vor Auswärtsspiel in Aachen": 0 passende Treffer
+2026-11-21 02:02:41,810 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): SV Waldhof Mannheim vor Auswärtsspiel in Aachen
+2026-11-21 02:02:42,026 INFO S7 Ersatzquellen für "Zwei Spitzenpositionen und ein Haken: Braune überz": 0 passende Treffer
+2026-11-21 02:02:42,026 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Zwei Spitzenpositionen und ein Haken: Braune überzeugt als D
+2026-11-21 02:02:43,163 INFO S7 kein Volltext (too_short_39_words): Verletzte, Taktik, Gegner: Fragen und Antworten vor dem Kick
+2026-11-21 02:02:43,386 INFO S7 Ersatzquellen für "Verletzte, Taktik, Gegner: Fragen und Antworten vo": 0 passende Treffer
+2026-11-21 02:02:43,386 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Verletzte, Taktik, Gegner: Fragen und Antworten vor dem Kick
+2026-11-21 02:02:43,635 WARNING discarding data: None
+2026-11-21 02:02:43,636 INFO S7 kein Volltext (trafilatura_returned_empty): Auf und ab für den Waldhof: Kann Routinier Boyd Alemannias G
+2026-11-21 02:02:43,849 INFO S7 Ersatzquellen für "Auf und ab für den Waldhof: Kann Routinier Boyd Al": 0 passende Treffer
+2026-11-21 02:02:43,849 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Auf und ab für den Waldhof: Kann Routinier Boyd Alemannias G
+2026-11-21 02:02:45,232 INFO S7 kein Volltext (low_unique_content_ratio): Viktoria Köln: Zahlen und Fakten vor dem Spiel gegen TSV Hav
+2026-11-21 02:02:45,550 INFO S7 Ersatzquellen für "Viktoria Köln: Zahlen und Fakten vor dem Spiel geg": 0 passende Treffer
+2026-11-21 02:02:45,550 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Viktoria Köln: Zahlen und Fakten vor dem Spiel gegen TSV Hav
+2026-11-21 02:02:46,796 INFO S7 kein Volltext (low_unique_content_ratio): TSV Havelse: Was Fans vor dem Duell mit Viktoria Köln wissen
+2026-11-21 02:02:47,015 INFO S7 Ersatzquellen für "TSV Havelse: Was Fans vor dem Duell mit Viktoria K": 0 passende Treffer
+2026-11-21 02:02:47,015 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): TSV Havelse: Was Fans vor dem Duell mit Viktoria Köln wissen
+2026-11-21 02:02:47,237 INFO S7 kein Volltext (too_short_75_words): Rot-Weiss Essen: Er spielt jetzt in Verl - Martinovic rechtz
+2026-11-21 02:02:47,478 INFO S7 Ersatzquellen für "Rot-Weiss Essen: Er spielt jetzt in Verl - Martino": 0 passende Treffer
+2026-11-21 02:02:47,478 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Rot-Weiss Essen: Er spielt jetzt in Verl - Martinovic rechtz
+2026-11-21 02:02:47,723 INFO S7 kein Volltext (too_short_75_words): MSV Duisburg: Stahl überzeugt - Christensen: „Glaube nicht, 
+2026-11-21 02:02:47,963 INFO S7 Ersatzquellen für "MSV Duisburg: Stahl überzeugt - Christensen: „Glau": 0 passende Treffer
+2026-11-21 02:02:47,963 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): MSV Duisburg: Stahl überzeugt - Christensen: „Glaube nicht, 
+2026-11-21 02:02:48,337 INFO S7 kein Volltext (too_short_8_words): Hansa Rostock beim MSV Duisburg: Die Zebras sind torhungrig,
+2026-11-21 02:02:48,599 INFO S7 Ersatzquellen für "Hansa Rostock beim MSV Duisburg: Die Zebras sind t": 0 passende Treffer
+2026-11-21 02:02:48,599 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Hansa Rostock beim MSV Duisburg: Die Zebras sind torhungrig,
+2026-11-21 02:02:48,880 INFO S7 kein Volltext (too_short_8_words): Dank Eiseles Doppelpack: Großaspach dreht 0:2 gegen Münster
+2026-11-21 02:02:49,076 INFO S7 Ersatzquellen für "Dank Eiseles Doppelpack: Großaspach dreht 0:2 gege": 0 passende Treffer
+2026-11-21 02:02:49,076 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Dank Eiseles Doppelpack: Großaspach dreht 0:2 gegen Münster
+2026-11-21 02:02:49,078 INFO S9.5 FinalCheck: 1/1 durch
+2026-11-21 02:02:49,736 INFO Veröffentlicht: Saarbrücken testet vereinslosen Innenverteidiger Noel Bigo A
+2026-11-21 02:02:49,738 WARNING Sitemap ohne Spielerseiten: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-21 02:02:49,740 INFO 💶 Kosten: dieser Lauf 0.000 $ (Budget 0.000 $) | heute 0.00 $ | Monat 0.00 / 0 $ | konferenz (abo) 1× 0.000 $, dublette (abo) 1× 0.000 $, schreiben (abo) 1× 0.000 $
+2026-11-21 02:02:49,740 INFO 🎫 Abo-Verbrauch: 10,031 Tokens rein (davon Cache gelesen 0), 9,218 raus, API-Gegenwert 0.09 $ | konferenz 1×: 2,313/7,990, dublette 1×: 1,128/3, schreiben 1×: 6,590/1,225
+2026-11-21 02:02:49,743 INFO Feeds: 45/45 begonnen, nächster Lauf startet bei Nr. 0
+2026-11-21 02:02:49,743 INFO URL-Cache gespeichert: 4065 URLs
+2026-11-21 02:02:49,743 INFO === Fertig. 1 neue Artikel. feed.json: 69 ===
+2026-11-21 02:02:49,743 INFO Stats: {"ts": "20261121_0200", "ingested": 32, "s2_pre_filter": 11, "s3_relevance": 6, "s4_dedup_early": 0, "gesammelt": 13, "geschichten_neu": 11, "s5_archiv_doppelt": 0, "s5_zusammengefuehrt": 0, "s6_aussortiert": 10, "s7_geschrieben": 1, "s7_verworfen": 0, "s5_fulltext_fail": 24, "s8_qa_rejected": 0, "published": 1, "kosten": {"lauf_usd": 0.0, "lauf_budget_usd": 0.0, "heute_usd": 0.0, "monat_usd": 0.0, "monatsbudget_usd": 0.0, "aufrufe": {"konferenz (abo)": {"anzahl": 1, "usd": 0.0}, "dublette (abo)": {"anzahl": 1, "usd": 0.0}, "schreiben (abo)": {"anzahl": 1, "usd": 0.0}}, "guthaben_leer": false, "abo": true, "abo_tokens": {"konferenz": {"aufrufe": 1, "ein": 2313, "cache_schreiben": 0, "cache_lesen": 0, "aus": 7990, "api_wert_usd": 0.0423}, "dublette": {"aufrufe": 1, "ein": 2, "cache_schreiben": 1126, "cache_lesen": 0, "aus": 3, "api_wert_usd": 0.0045}, "schreiben": {"aufrufe": 1, "ein": 2, "cache_schreiben": 6588, "cache_lesen": 0, "aus": 1225, "api_wert_usd": 0.0386}}}}
