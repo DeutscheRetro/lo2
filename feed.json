@@ -1,5 +1,55 @@
 [
   {
+    "id": "ac5b922880",
+    "titel": "Mets nach Rückkehr ans Millerntor: „Wie unter einen Bus geraten“",
+    "kategorie": "interview",
+    "badge": "Interview",
+    "badge_bg": "#1976d2",
+    "badge_fg": "#fff",
+    "datum": "22.11.2026 12:04",
+    "wappen_url": "logos/bochum.png",
+    "vereine": [
+      "Bochum",
+      "St. Pauli"
+    ],
+    "anriss": "Karol Mets ist am Samstagabend mit dem VfL Bochum ans Millerntor zurückgekehrt. Beim FC St. Pauli, wo er dreieinhalb Jahre spielte, verlor Bochum mit 0:2. Mets lobte nach der Partie den Empfang der Fans, räumte aber ein, dass der Gegner klar besser war. „Natürlich versucht",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Bochum",
+    "pfad": "artikel/mets-nach-rueckkehr-ans-millerntor-wie-unter-einen-bus-geraten-ac5b922880.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "9ceecee436",
+    "titel": "Wolfsburg meidet das A-Wort: „Es ist noch keine gute Saison“",
+    "kategorie": "interview",
+    "badge": "Interview",
+    "badge_bg": "#1976d2",
+    "badge_fg": "#fff",
+    "datum": "22.11.2026 12:03",
+    "wappen_url": "logos/wolfsburg.png",
+    "vereine": [
+      "Wolfsburg"
+    ],
+    "anriss": "Der VfL Wolfsburg gilt als Aufstiegskandidat Nummer 1, spricht offiziell aber nicht über das Saisonziel. Nach dem 3:0 gegen Kiel beträgt der Abstand auf Nürnberg und Platz 2 nur noch zwei Punkte. Intern ist der Aufstieg als Ziel klar formuliert und alternativlos. Im Sommer hatte",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Wolfsburg",
+    "pfad": "artikel/wolfsburg-meidet-das-a-wort-es-ist-noch-keine-gute-saison-9ceecee436.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "recht",
+      "frage": "Hat Reese recht: Erst nach vier guten Wochen über Aufstieg reden?",
+      "antworten": [
+        "Ja",
+        "Nein"
+      ]
+    },
+    "n11": false
+  },
+  {
     "id": "7bba51f4f2",
     "titel": "St. Pauli schlägt Bochum 2:0: Niang und Ando mit Premierentoren",
     "kategorie": "news",

@@ -171,3 +171,98 @@
 {"ts": "2026-11-22T09:03:08.011438", "id": "a67affc13f", "title": "LIVE! St. Pauli weiter am Drücker: Horn verhindert 0:2", "stage": "stage7", "reason": "zu_wenig_quelltext"}
 {"ts": "2026-11-22T09:03:08.275872", "id": "9595f24565", "title": "Klartext beim FCN: \"Ein bisschen Larifari, das reicht nicht\"", "stage": "stage7", "reason": "zu_wenig_quelltext"}
 {"ts": "2026-11-22T09:03:09.132265", "id": "7f47f88323", "title": "Warum Dynamo-Kapitän Hauptmann in Kaiserslautern noch etwas Neues erleben will", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-22T12:01:38.519223", "id": "c742bb5d9e", "title": "Torsten Frings und seine schönsten Frisuren: The Lord of the Frings", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-22T12:01:39.252913", "id": "7b6f380810", "title": "„Larifari“ reicht nicht: Lauter „Club“-Weckruf des Kapitäns", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-22T12:01:39.255844", "id": "26f329cc69", "title": "Energie gegen Hertha: Nach 13 Jahren knistert's wieder", "stage": "stage2", "reason": "batch_title_dup_100pct"}
+{"ts": "2026-11-22T12:01:39.256230", "id": "b6222486dd", "title": "Wo läuft 1. FC Kaiserslautern vs. Dynamo Dresden heute live?", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-22T12:01:39.257541", "id": "9cd08f9b6d", "title": "Werder vs. HSV: Übertragung heute live im TV & Stream", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-22T12:01:39.259248", "id": "668456bb60", "title": "\"Als Glück würde ich das nicht bezeichnen\"", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-22T12:01:39.261249", "id": "50764e9e4b", "title": "„Larifari“ reicht nicht: Lauter „Club“-Weckruf des Kapitäns", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-22T12:01:39.263899", "id": "065a2876f3", "title": "KSC vs. Osnabrück Tipp, Quoten, News, Prognose & TV-Übertragung", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-22T12:01:39.264243", "id": "30f5cbf0b1", "title": "Comeback nach \"schwierigen Wochen\": Gindorf rückt bei 96 in den Fokus", "stage": "stage2", "reason": "batch_title_dup_100pct"}
+{"ts": "2026-11-22T12:01:39.267644", "id": "eb4fb90764", "title": "Mit Gladbach gegen Dortmund: Die Sportschau am Samstag in voller Länge", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-22T12:01:39.272656", "id": "e7e57e8722", "title": "Karlsruher SC: Neue Aufgabe gegen VfL Osnabrück am 22.11.2026", "stage": "stage2", "reason": "batch_title_dup_93pct"}
+{"ts": "2026-11-22T12:01:41.756311", "id": "a135789060", "title": "dpa-Meldungen", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-22T12:01:41.760084", "id": "f26de2fe56", "title": "FSV Zwickau nach 17. Spieltagen: „Ein fragiles Gerüst, das beim kleinsten Rücksc", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-22T12:01:41.763776", "id": "4080fe1c2b", "title": "FSV-Trainer Rupf spricht Klartext: \"Das war nicht das, was wir zeigen wollten!\"", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-22T12:01:42.129070", "id": "161dc0701e", "title": "«Larifari» reicht nicht: Lauter «Club»-Weckruf des Kapitäns", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-22T12:01:42.130903", "id": "ffef9419b0", "title": "(k+) Too big to fail? Diese Abstiege sollten ManUnited warnen", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-22T12:01:42.431016", "id": "1d05f13bd7", "title": "Abenteuer mit Togo: Was Henri Koudossou nach dem FCA erlebt", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-22T12:01:42.805996", "id": "5938a3497a", "title": "Dynamo Dresden U23 feiert ersten Auswärtssieg - Freital verliert Erfolgsserie", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-22T12:01:42.807269", "id": "47b2af8ed3", "title": "SG Dynamo Dresden: So ist die Ausgangslage vor 1. FC Kaiserslautern am 22.11.202", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-22T12:01:43.619174", "id": "cdb6709855", "title": "Cottbus gegen Hertha live: Lausitz-Duo begleitet TV-Übertragung", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-22T12:01:44.045904", "id": "ec86b154e0", "title": "FC St. Pauli schickt fünf Profis zur U23 – Trainer Rapp erklärt die Gründe", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-22T12:01:44.047591", "id": "ff29535934", "title": "St.-Pauli-Fans werfen Flaschen auf Polizei", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-22T12:01:44.060581", "id": "28e43e137a", "title": "FC St. Pauli lässt Worten Taten folgen: \"Haben aus unseren Fehlern gelernt\"", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-22T12:01:44.062427", "id": "10ce3b5428", "title": "St.-Pauli-Blog: Karol Mets verliert sein Herz ans Millerntor", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-22T12:01:44.854923", "id": "ffe5295a8e", "title": "Fußball-Derby: Hochrisikospiel in Cottbus - Polizei begleitet Hertha-Fans", "stage": "stage2", "reason": "batch_title_dup_88pct"}
+{"ts": "2026-11-22T12:01:44.855446", "id": "7612b576e2", "title": "Hertha BSC U23 im Berliner Derby gegen Tasmania", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-22T12:01:44.857395", "id": "31c7e96a43", "title": "Spielereignisse | Hertha BSC - Hansa Rostock 1:1 | 12. Spieltag | U-17-DFB-Nachw", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-22T12:01:47.537413", "id": "1b24316b4b", "title": "SSV Kästorf bezwingt Rangzweiten! So machte Trainer Michele Rizzi seine Jungs ri", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-22T12:01:47.538158", "id": "2ea866f426", "title": "RB Leipzig: Ohne Kapitänin Starke - RB-Frauen empfangen Wolfsburg - News vom 22.", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-22T12:01:49.564891", "id": "1e22597ea0", "title": "Drei groteske Gegentore – „Habe die Mannschaft in die Scheiße geritten“, sagt Ki", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-22T12:01:49.565973", "id": "9914623e51", "title": "VfL Bochum: Rösler nach 0:2 bei St. Pauli: \"Leistungsschwankungen, come on\"", "stage": "stage5", "reason": "archiv_doppelt"}
+{"ts": "2026-11-22T12:01:49.566120", "id": "642ddd9ff2", "title": "FC St. Pauli vs. VfL Bochum 2:0 – Der frühe Vogel fängt den Heimsieg", "stage": "stage5", "reason": "archiv_doppelt"}
+{"ts": "2026-11-22T12:01:49.566268", "id": "21c71a942d", "title": "Warum St. Paulis Rapp großen Anteil am Sieg gegen Bochum hat", "stage": "stage5", "reason": "archiv_doppelt"}
+{"ts": "2026-11-22T12:01:49.566386", "id": "606f2a0cd8", "title": "Zweite Bundesliga: FC St. Pauli gewinnt 2:0 gegen VfL Bochum", "stage": "stage5", "reason": "archiv_doppelt"}
+{"ts": "2026-11-22T12:01:49.566484", "id": "a267049aa3", "title": "Sieg gegen Bochum: Der FC St. Pauli hat wieder „den Punch“", "stage": "stage5", "reason": "archiv_doppelt"}
+{"ts": "2026-11-22T12:01:49.567181", "id": "a1bc76fc6a", "title": "Chance für einen Nachwuchsspieler: Wie FCH-Trainer Frank Schmidt die Leistung vo", "stage": "stage5", "reason": "nicht_fuer_uns"}
+{"ts": "2026-11-22T12:01:49.568007", "id": "4e209a8310", "title": "Eintracht Braunschweig: Team-Statistik nach Sieg gegen 1. FC Nürnberg", "stage": "stage5", "reason": "archiv_doppelt"}
+{"ts": "2026-11-22T12:01:49.568878", "id": "e43d23acdf", "title": "Stamm lässt rätseln: Greift der Dynamo-Trainer bei Lautern in die Trickkiste?", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-22T12:01:49.569800", "id": "4ec4e2f54a", "title": "Spielschema | FSV Frankfurt - SpVgg Greuther Fürth 4:0 | 12. Spieltag | U-17-DFB", "stage": "stage5", "reason": "nicht_fuer_uns"}
+{"ts": "2026-11-22T12:01:49.569947", "id": "98ffadac93", "title": "Spielschema | Hamburger SV - FC St. Pauli 3:1 | 12. Spieltag | U-17-DFB-Nachwuch", "stage": "stage5", "reason": "nicht_fuer_uns"}
+{"ts": "2026-11-22T12:01:49.570768", "id": "b936c62c47", "title": "SpVgg Greuther Fürth: So steht Fürth nach dem 2:1 gegen Hannover 96 da", "stage": "stage5", "reason": "archiv_doppelt"}
+{"ts": "2026-11-22T12:01:49.571011", "id": "7666dfa227", "title": "Spielschema | 1. FC Union Berlin - Hertha BSC 3:2 | 12. Spieltag | U-19-DFB-Nach", "stage": "stage5", "reason": "nicht_fuer_uns"}
+{"ts": "2026-11-22T12:01:49.571281", "id": "f706aad9b5", "title": "Nach „Zurück zur SpVgg Fürth“: Martin Bauer aus Vestenbergsgreuth steigt als Spo", "stage": "stage5", "reason": "randthema"}
+{"ts": "2026-11-22T12:01:49.571453", "id": "bb3eb477d8", "title": "Bader: Starkes Comeback eines Abgeschriebenen", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-22T12:01:49.572243", "id": "8b5f700b23", "title": "Kiel-Torwart Weiner nach 0:3 in Wolfsburg: «Das ist mein Ding heute»", "stage": "stage5", "reason": "archiv_doppelt"}
+{"ts": "2026-11-22T12:03:28.158685", "id": "dedb68b4c0", "title": "2. Bundesliga - Kein Geburtstagspräsent für Fürths Trainer - Bayern - SZ.de", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-22T12:03:28.158899", "id": "8712a7aab3", "title": "2. Bundesliga: Kein Geburtstagspräsent für Fürths Trainer", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-22T12:03:28.159029", "id": "b3b36162bd", "title": "Bayern: Kein Geburtstagspräsent für Fürths Trainer", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-22T12:03:28.159261", "id": "6c642bd2e2", "title": "Berlin-Brandenburg-Derby in der Lausitz: Besteht Hertha BSC auch in Cottbus?", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-22T12:03:28.159518", "id": "53d7ea35d9", "title": "Fußball heute live: Kaiserslautern – Dynamo Übertragung im TV & Stream", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-22T12:03:28.159713", "id": "50812ce27f", "title": "FC Energie Cottbus - Hertha BSC im Live-Stream und TV: Gehen die Punkte heute na", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-22T12:03:28.159915", "id": "6c226fe1d6", "title": "2. Bundesliga - Der Punch ist zurück beim FC St. Pauli - Sport - SZ.de", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-22T12:03:28.160038", "id": "6123bdee41", "title": "2. Bundesliga: Der Punch ist zurück beim FC St. Pauli", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-22T12:03:28.160250", "id": "ce5f2ff526", "title": "Kaiserslautern vs. Dynamo Tipp, Quoten, News & Prognose | 22.11.2026", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-22T12:03:28.160374", "id": "e0162527ce", "title": "Cottbus vs. Hertha Tipp, Quoten, News & Prognose | 22.11.2026", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-22T12:03:28.160538", "id": "1a2fa25e14", "title": "Live hören: FC St. Pauli gegen 1. FC Heidenheim 1846 - 2. Bundesliga", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-22T12:03:28.160743", "id": "838cf57527", "title": "Live hören: SV Darmstadt 98 gegen Eintracht Braunschweig - 2. Bundesliga", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-22T12:03:28.160936", "id": "25186db4f7", "title": "1.FC Nürnberg: So steht FCN nach dem 12. Spieltag da", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-22T12:03:28.161127", "id": "96cc414b7f", "title": "VfL Bochum: Team-Statistik nach 12. Spieltag in der 2. Bundesliga", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-22T12:03:28.161348", "id": "ac62e11487", "title": "Hertha BSC: Vor dem Duell gegen die Niederlausitzer - Die Lage für die Hauptstäd", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-22T12:03:28.161549", "id": "335994306a", "title": "Ein alarmierender Auftritt beim SV Darmstadt: Was der 1. FC Heidenheim jetzt zei", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-22T12:03:28.161748", "id": "0338539d07", "title": "FC Energie Cottbus: Was Fans vor dem Duell mit Hertha BSC wissen sollten", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-22T12:03:28.161948", "id": "60930b338c", "title": "Arminia Bielefeld lernt Thülen kennen: Die besten 55 Fotos vom Pokalduell", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-22T12:03:28.162153", "id": "6e75b8a3f5", "title": "Noten für Arminia Bielefeld: Marius Wörl ist beim DSC der Dreh- und Angelpunkt", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-22T12:03:28.162334", "id": "c75d1cad22", "title": "Dynamo in Kaiserslautern live: Hier wird die Partie heute übertragen", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-22T12:03:28.162513", "id": "0b607e6ff5", "title": "Fußball-Derby - Hochrisikospiel in Cottbus - Polizei begleitet Hertha-Fans - Spo", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-22T12:03:28.162685", "id": "da278b77b6", "title": "FC Energie Cottbus - Hertha BSC Kader & Aufstellungen: 2. Bundesliga Fußball", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-22T12:03:28.162865", "id": "137509d2f1", "title": "Cottbus gegen Hertha live: Polizeipräsenz am Bahnhof, Gästefans marschieren zum ", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-22T12:03:28.163039", "id": "1b9fb09823", "title": "Hamburg & Schleswig-Holstein: Der Punch ist zurück beim FC St. Pauli", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-22T12:03:28.163241", "id": "1ad6fb51b7", "title": "FC St. Pauli: Ando tanzt, Niang redet! Die Doppel-Erlöser von St. Pauli", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-22T12:03:28.163420", "id": "6db3493d5e", "title": "St.-Pauli-Fans werfen Flaschen auf Streifenwagen – Polizei flüchtet", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-22T12:03:28.163608", "id": "3913f9c715", "title": "Eskalation nach St. Pauli-Sieg: Fußballfans attackieren Polizisten", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-22T12:03:28.163788", "id": "b23da2e987", "title": "Hamburg & Schleswig-Holstein: Flaschenwürfe auf Streifenwagen nach St.-Pauli-Spi", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-22T12:03:28.163961", "id": "71d83cf1e4", "title": "Großeinsatz in Hamburg: Pauli-Chaoten greifen Polizisten an", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-22T12:03:28.164181", "id": "17eef42776", "title": "Hannover 96: So steht H96 nach dem 12. Spieltag da", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-22T12:03:28.164378", "id": "f318a3bed9", "title": "Jubel nach dem Spiel gegen den VfL Bochum", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-22T12:03:28.164557", "id": "07b79a4541", "title": "St. Pauli - VfL Bochum", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-22T12:03:28.164761", "id": "2a87a7accf", "title": "VfL Wolfsburg: Team-Statistik nach Sieg gegen Holstein Kiel", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-22T12:03:28.164864", "id": "4446c2a1d1", "title": "Holstein Kiel: Was kommt nach dem 3:0 gegen VfL Wolfsburg?", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-22T12:03:28.165019", "id": "8a989eb465", "title": "VfL Wolfsburg: VfL-Star Reese spricht über junge Problem-Fans", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-22T12:03:28.165307", "id": "f7d1c99ca4", "title": "Er saß mal im Knast: Darum stand ein Mann im Eintracht-Braunschweig-Outfit vorm ", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-22T12:03:34.691457", "id": "eb5f0693dd", "title": "Nach Schockmoment: Arminia-Torwart Kersken aus dem Krankenhaus entlassen", "stage": "S7", "reason": "zu_wenig_stoff"}
+{"ts": "2026-11-22T12:03:36.070107", "id": "5fdfcef486", "title": "Mit dieser Startelf beginnt Bochum im Topspiel bei St. Pauli", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-22T12:03:36.927984", "id": "c04c4b89a2", "title": "2. Fußball-Bundesliga: Arminia-Keeper Kersken erleidet Gehirnerschütterung", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-22T12:03:51.749985", "id": "db3cd3fca0", "title": "Viele Fragezeichen in Darmstadt: Vor welche Rätsel die Spieler des 1. FC Heidenh", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-22T12:04:14.382977", "id": "a3b8377dae", "title": "Ahead of the Eastern Derby: Is Magdeburg Already a Contender for Promotion?", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-22T12:04:19.840572", "id": "36bb6f3d6e", "title": "Fußball - Vor dem Ostduell: Magdeburg schon ein Aufstiegs-Kandidat? - Sport - SZ", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-22T12:04:32.518811", "id": "4c5be48ff7", "title": "Schwalben-Ärger und Elfer-Wirbel! St. Paulis Smith ist fassungslos – der Schiri ", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-22T12:04:36.318867", "id": "c5b8ad1ae6", "title": "FCK will gegen Dynamo Dresden Relegationsplatz halten – Gegner nicht unterschätz", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-22T12:04:39.553613", "id": "859dc4e1a7", "title": "VfL Bochum: Timo Horn spricht Klartext - \"... dann bist du wieder in der Verlosu", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-22T12:04:39.972344", "id": "4e9e3b30f9", "title": "Nemeths Worte erzielen ihre Wirkung: \"Können ruhig mal härter zueinander sein\"", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-22T12:04:41.183124", "id": "620e44a803", "title": "Schwalbe oder Elfmeter? St. Paulis Smith versteht Schiri-Entscheidung nicht", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-22T12:04:42.973519", "id": "5927ed90ef", "title": "Niangs erstes Tor zuhause: St. Paulis Niang - \"Ich freue mich der Mannschaft geh", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-22T12:04:44.667063", "id": "eec2408424", "title": "Heimsieg für seine Mannschaft: St. Paulis Trainer Rapp - \"Haben ordentlich Fußba", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-22T12:04:45.476553", "id": "a585ea67d8", "title": "FC St. Pauli: Smith mit Einser-Leistung – anderer Rückkehrer jetzt festgespielt?", "stage": "stage7", "reason": "zu_wenig_quelltext"}
