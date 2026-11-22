@@ -1,228 +1,5 @@
 [
  {
-  "id": "cd883a3d15",
-  "schluessel": "wolfsburg|verletzung",
-  "person": "",
-  "spieler": [],
-  "klub": "Wolfsburg",
-  "klubs": [
-   "Wolfsburg"
-  ],
-  "stufe": "fraglich",
-  "klasse": "verletzung",
-  "titel": "Wolfsburg will mit Breite an die Spitze - Große Sorgen um Shiogai",
-  "quellen": [
-   {
-    "url": "https://www.kicker.de/wolfsburg-will-mit-breite-an-die-spitze-grosse-sorgen-um-shiogai-1273834/artikel#omrss",
-    "aid": "52aeb9deb8",
-    "titel": "Wolfsburg will mit Breite an die Spitze - Große Sorgen um Shiogai",
-    "quelle": "kicker 2. Bundesliga News",
-    "beschr": "\"Du weißt, dass du nicht vom Gas gehen kannst\": Der Konkurrenzkampf beim VfL Wolfsburg verschärft sich, Trainer Tobias Strobl schaut genau hin. Bitter: Stürmer Kento Shiogai droht eine längere Pause.",
-    "zeit": "2026-11-22T14:56"
-   }
-  ],
-  "archiv_status": "update",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-22T15:01",
-  "archiv": [
-   {
-    "id": "f2ef545c5f",
-    "titel": "Kiel vor Kniat-Debüt: Kaprálik fällt mit Mittelfußbruch aus",
-    "datum": "20.11.",
-    "stufe": "verletzung",
-    "summary": "Kiels Adrián Kaprálik hat sich bei der slowakischen Nationalmannschaft einen Mittelfußbruch zugezogen und fällt voraussichtlich bis zum Jahresende aus. Vor dem Pflichtspieldebüt von Trainer Mitch Kniat in Wolfsburg sind auch Alidou und Schonlau fraglich."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "9b1aee7c72",
-  "schluessel": "frankfurt|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Frankfurt",
-  "klubs": [
-   "Frankfurt",
-   "Braunschweig",
-   "Nürnberg"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Eine schwarze Serie, die so alt war wie der Trainer: So motivierte Kornetka das Eintracht-Braunschweig-Team in Nürnberg",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZ3Jfak55VnFJcDhJckZKeXVaQzltQUZ3LVg4dmZ5R1dDWGhZMURQcFpWOEU0dHVrTWdFR2Nwc1d5VUR5cllWN2xBUjliM2hXQm5ZTEtTclpfXzQ4MGlmbTU3UjNDQ25mSlJZOTBIM0FJU29RVEVyUVB0Wi1vc015ZEhUQTEzOTJvSjM2b2c1SlpKNl94RXBFODJTd3lNajV0UVJsMHNDbWRNQkE4dmFIU3BNTXBabGRIVmx3NFA4eGY5eU1zNjJWWWM4cldUdUtuNXh6MVJ4VF96ZDFJb0R2LW1Ia2JkeGxsVWVuTlRITVk0Vi1zM1Z5RlUwWTlSdkw1RUtF0gGfAkFVX3lxTE1rU1FiTlEtbVJiVEdFRUVWMlVWVE1YaDJDMHlLQmwxOEMxS3VidzllME1EZVIyVmhfenc2bERmdThpeDVubkp3RnQyU0poYmNJUFIzbjJud3V2azBoNTQ4NXlfaE45WWx4NUpUeXdRWWJMOWFTWUFCcGwxb1BCSVVxempqcjdXQ0FpQ2dyYVdra005ZnFwRV9tbkp4emhLQTlxOE9EUFBfUHZMN213WDZOQnhGV1l6ZW5BUTZ5N0dvSmNwMkhSeHpZNmwtOFptNEJmYVFaSTRyWHlORUtTRHhLVVNZZGtod0RlejhqX3czYkd1MEt5VGpCM0xNTlNQbHFKcUk2NlRPVEJ6REJQNzdCc1ZkeXhuSUZRdVFSZzFZ?oc=5",
-    "aid": "5ad14dd60a",
-    "titel": "Eine schwarze Serie, die so alt war wie der Trainer: So motivierte Kornetka das Eintracht-Braunschweig-Team in Nürnberg",
-    "quelle": "WAZ-ONLINE.de",
-    "beschr": " Eine schwarze Serie, die so alt war wie der Trainer: So motivierte Kornetka das Eintracht-Braunschweig-Team in Nürnberg &nbsp;&nbsp; WAZ-ONLINE.de ",
-    "zeit": "2026-11-22T14:50"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-22T15:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "5032d94c88",
-  "schluessel": "hannover|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hannover",
-  "klubs": [
-   "Hannover"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Hannover 96: Wie Jekyll & Hyde! Wagners Wende-Wahnsinn bei 96",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZlpVdTh6VS0wSDRsdjk3Q3gwUDQ0U1FvMk44WmxUVnpYTU9RUGRsZXZ6cndNWVNNdTJzaVVPM211c0liRWJhNG5BTmdoWDZ4cnhVNzBvLVFtVFdfbGhpZERmSlBURDBrMGhkVjFISkh1YzlFV28wblIwV0FwQkhsZWJaLTQzbHB1dTduQzQwX3o0ak95dnZaSlBhSTVMZWNtRGw4clBPZ21zem9NUGlQbzFiS0xRMlV3?oc=5",
-    "aid": "924729073d",
-    "titel": "Hannover 96: Wie Jekyll & Hyde! Wagners Wende-Wahnsinn bei 96",
-    "quelle": "BILD",
-    "beschr": " Hannover 96: Wie Jekyll & Hyde! Wagners Wende-Wahnsinn bei 96 &nbsp;&nbsp; BILD ",
-    "zeit": "2026-11-22T14:41"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-22T15:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "32d08dba66",
-  "schluessel": "hannover|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hannover",
-  "klubs": [
-   "Hannover"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Chefsachen bei Hannover 96: Kind in der Kabine, Ruhr am Rohr, Wagner auf Spur",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRUdXaTdhR3htcHlMYlYxMDVuSGx0a2NKdUUteXd2cDR6WVFGdFlwcTBOWDZzQ1ZLZ3pCVUxnQWpCYjRfd3pGN0poY2lkeE9naG92d3JYVURhQXBWS2dtWG84TXM0ajdzdHBMd3hiNUx2WmM1eHdZb3ZQMVhGS1dYRk1WdzlWN1UydmhaLWR2NGNlMDA1RFhlcUxUUXNfamtDbGotenRmaXRqXzhwUEJhbzl1Rlg2SGVQRzBvb2dLQXVuNno1cXlTdFYtQmFwVk1GeXZvYVA2XzlKaDd0ekE?oc=5",
-    "aid": "676b5cf1cf",
-    "titel": "Chefsachen bei Hannover 96: Kind in der Kabine, Ruhr am Rohr, Wagner auf Spur",
-    "quelle": "Neue Presse",
-    "beschr": " Chefsachen bei Hannover 96: Kind in der Kabine, Ruhr am Rohr, Wagner auf Spur &nbsp;&nbsp; Neue Presse ",
-    "zeit": "2026-11-22T14:35"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-22T15:01",
-  "archiv": [
-   {
-    "id": "98f969f271",
-    "titel": "Hannover 96: Franz Roggow überzeugt als Sechser und lobt Wagners Ansatz",
-    "datum": "13.11.",
-    "stufe": "sonstiges",
-    "summary": "Hannovers Sechser Franz Roggow spielte zuletzt gegen Dresden und in Heidenheim eine wichtige Rolle und lobt Sandro Wagners Ansatz. Nach der Länderspielpause kommt Fürth am 21. November nach Hannover."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "62c7fea1e4",
-  "schluessel": "kiel|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Kiel",
-  "klubs": [
-   "Kiel",
-   "Wolfsburg"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Kniats bitterer Einstand bei Holstein Kiel: Was nach der Wolfsburg-Pleite Hoffnung gibt",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTWItOXZsTVZwVXNtdlZtX2tOQmd2eVZXeUlRMG93eEdJYkxBRmhhZTdBUGpqbVM5d3Rmb0pvR3pNemVoQ3NsNWoyS2Y3cUJEaWNKY1ZWblVYMkxONDJKRFZQd0VmVm5wbmR1VS13X1N2eGd3YzV6NjZBMmt0MWFtMnctWUJKbExaaVFmS3VUNW91enFVRkdRd3hkcWwzd0tMSmw2X0I1c2llb1lxRDNEQjZHLUhKa2NrbGc?oc=5",
-    "aid": "de1292b571",
-    "titel": "Kniats bitterer Einstand bei Holstein Kiel: Was nach der Wolfsburg-Pleite Hoffnung gibt",
-    "quelle": "shz.de",
-    "beschr": " Kniats bitterer Einstand bei Holstein Kiel: Was nach der Wolfsburg-Pleite Hoffnung gibt &nbsp;&nbsp; shz.de ",
-    "zeit": "2026-11-22T13:08"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-22T15:01",
-  "archiv": [
-   {
-    "id": "291c94de54",
-    "titel": "Kiel gewinnt bei Kniat-Debüt gegen Odense mit 4:0",
-    "datum": "12.11.",
-    "stufe": "spielbericht",
-    "summary": "Holstein Kiel gewinnt das Testspiel gegen Odense BK beim Debüt von Trainer Mitch Kniat mit 4:0. Lasse Rosenboom kehrt nach einem Syndesmoseriss auf den Platz zurück."
-   },
-   {
-    "id": "b7ac7e3a7a",
-    "titel": "Bielefeld dreht spät auf: 2:1 bei Holstein Kiel",
-    "datum": "07.11.",
-    "stufe": "spielbericht",
-    "summary": "Bielefeld gewinnt am 11. Spieltag 2:1 bei Holstein Kiel. Ein Eigentor von Sekine und der Treffer von Young entscheiden die Partie, Grodowski verschießt einen Elfmeter."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "70f4e164d7",
-  "schluessel": "kiel|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Kiel",
-  "klubs": [
-   "Kiel"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Nach 0:3 in Wolsburg: So sieht Mitch Kniat sein Trainer-Debüt bei Holstein Kiel",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOTk0V3lJOWk3TFQxOUZCZ2dZYmk0UngwSWI4S3M2cG9OVjBLenVSRWFLWlFRcC1BZlZjU1BMeHk4dVNuelFWTG9BNTJQT1pPOVlKcGJ1RFMyMHFGR29mNFVkQ3VpX0lRX3R5Y24tYXR4X1d0NjJNOUJkTllxRnlyWWFNUXBPejdxSkZ1YjZOTnJ1MW1feW5aX0VJbEl3NVctMUF2dWozZV8yLVY2ZkdkYlpwQXVQZGxRU3BjRU9YVWc2ZFVHRFFKYS1mdFlBYUlabC01a2pBNE5ndmR2Ny0ySDVFeGVMd9IBggJBVV95cUxOQ3V2cTc5MXRYVDdrVmtWWDJjQlZabnpqWkF1UmJRTGI3LWRlMHNMVjVVQXc2NFF1ZmxBeTBBNGVfdHhodkYtNGhMdEZfTjl6Qmh2YVpHY0VrMVlkV1F2d3p1b2JWYktKSTdIdE9FUjg4eFMzVV9FcElQU0U5WndCX29fUUIzZVNqUUxZd3R3dkRzanFzUWNGMWV1MzZma0RuMWp5WjNZalgwWkNXaER2MzFSeXJsRXdWb1ZlS3p6Vmc4ZGxOelV3YXNYaWJtSW5TcGs4Q0hRWHFQZnBVUndzUm0wRHozemdVN1BRb1cxTkdRMHhCZE1wdU50ZVdVMUs2blE?oc=5",
-    "aid": "ba922c1774",
-    "titel": "Nach 0:3 in Wolsburg: So sieht Mitch Kniat sein Trainer-Debüt bei Holstein Kiel",
-    "quelle": "Kieler Nachrichten",
-    "beschr": " Nach 0:3 in Wolsburg: So sieht Mitch Kniat sein Trainer-Debüt bei Holstein Kiel &nbsp;&nbsp; Kieler Nachrichten ",
-    "zeit": "2026-11-22T13:59"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-22T15:01",
-  "archiv": [
-   {
-    "id": "291c94de54",
-    "titel": "Kiel gewinnt bei Kniat-Debüt gegen Odense mit 4:0",
-    "datum": "12.11.",
-    "stufe": "spielbericht",
-    "summary": "Holstein Kiel gewinnt das Testspiel gegen Odense BK beim Debüt von Trainer Mitch Kniat mit 4:0. Lasse Rosenboom kehrt nach einem Syndesmoseriss auf den Platz zurück."
-   },
-   {
-    "id": "b7ac7e3a7a",
-    "titel": "Bielefeld dreht spät auf: 2:1 bei Holstein Kiel",
-    "datum": "07.11.",
-    "stufe": "spielbericht",
-    "summary": "Bielefeld gewinnt am 11. Spieltag 2:1 bei Holstein Kiel. Ein Eigentor von Sekine und der Treffer von Young entscheiden die Partie, Grodowski verschießt einen Elfmeter."
-   }
-  ],
-  "versuche": 2
- },
- {
   "id": "9d5108ac9e",
   "schluessel": "bielefeld|sonstiges",
   "person": "",
@@ -257,7 +34,7 @@
     "summary": "Der 1. FC Magdeburg spielt am Freitag, 20. November, um 18:30 Uhr bei Arminia Bielefeld. Magdeburg steht mit 20 Punkten auf Rang vier, Bielefeld mit 17 Punkten auf Platz sechs."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "d706e4fb16",
@@ -295,7 +72,7 @@
     "summary": "Osnabrück tritt am Sonntag um 13:30 Uhr beim punktgleichen Karlsruher SC an und will nach der sechsten Saisonniederlage die Wende schaffen. Karlsruhe stellt mit 24 Gegentoren die schwächste Defensive der 2. Bundesliga."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "64ae7c9890",
@@ -324,7 +101,7 @@
   "status": "n",
   "erstmals": "2026-11-22T18:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "319728779e",
@@ -369,7 +146,7 @@
     "summary": "Der KSC steht nach elf Spieltagen mit elf Punkten auf Relegationsrang 16 und stellt die schlechteste Defensive der Liga. Trainer Maximilian Senft hat System und Spielstil angepasst, Erfolg brachte das bisher nicht."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "80d08c101b",
@@ -398,7 +175,7 @@
   "status": "n",
   "erstmals": "2026-11-22T18:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "c52459df77",
@@ -449,7 +226,7 @@
     "summary": "Herthas Soufian Gouram hat einen auslaufenden Vertrag und weckt laut Bild Interesse von Wolfsburg, Hoffenheim, Augsburg sowie Klubs aus Frankreich und England. Ab 1. Januar 2027 könnte er sich mit einem neuen Verein einigen."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "2c969826f2",
@@ -494,7 +271,7 @@
     "summary": "Cottbus-Trainer Claus-Dieter Wollitz traut Spitzenreiter Hertha vor dem Duell am Sonntag einen neuen Zweitliga-Punkterekord zu. Cottbus steht mit elf Punkten auf Relegationsrang 16."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "1908bbcac5",
@@ -531,7 +308,7 @@
     "summary": "Deyo Zeefuik traf beim 2:1 der Hertha gegen Wolfsburg zum 2:0 und verschärft die Konkurrenz auf den Außenverteidigerpositionen. Mads Pedersen wird wegen Oberschenkelproblemen untersucht, sein Einsatz in Cottbus ist offen."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "5312fe2470",
@@ -575,7 +352,7 @@
     "summary": "Hertha BSC führt die zweite Liga nach dem 2:1 gegen Wolfsburg mit zehn Punkten Vorsprung auf Rang drei an. Trainer Stefan Leitl setzt auf hohes Pressing, einen klaren Plan und eine funktionierende Gruppe."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "3352489609",
@@ -626,7 +403,7 @@
     "summary": "Der VfL Bochum schlägt den Karlsruher SC 3:2 und feiert den ersten Heimsieg der Saison. Philipp Hofmann trifft doppelt, Tim Civeja erzielt für den KSC ein Tor aus 51,6 Metern."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "a2b0b44e28",
@@ -656,7 +433,7 @@
   "status": "n",
   "erstmals": "2026-11-22T18:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "38f3b53dd0",
@@ -700,6 +477,152 @@
     "summary": "Heidenheim und Hannover 96 trennen sich am 11. Spieltag der 2. Bundesliga 2:2. Der FCH bleibt im sechsten Spiel sieglos und liegt mit 16 Punkten auf Rang sieben, Hannover mit 12 Punkten auf Rang elf."
    }
   ],
+  "versuche": 2
+ },
+ {
+  "id": "fe858efd91",
+  "schluessel": "bielefeld|verletzung",
+  "person": "",
+  "spieler": [],
+  "klub": "Bielefeld",
+  "klubs": [
+   "Bielefeld"
+  ],
+  "stufe": "ausfall",
+  "klasse": "verletzung",
+  "titel": "„Eiertor“, Rote Karte, Elfmeter-Frust: Thülen ärgert sich gegen Arminia",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNem8tNVR4NjU0NHlHa3I4TUpKLXlsaGYwUGZfdklaN1lyYktFSG1JWUlCMU5jQmpyMHV6YmEwY2Q5ejJzem1wdmNKV2NOMEY0Tm5iQS1LZDJ0UFk1bmwwNkFoSC15RmZoZExiaVpnQmFQYmlOUjJ5M2RmajRGVlA0VkxGNXgzNVJnd0RXT0p0N0pqamhVQTMzdG4yTzVVZFpySHdjU1BhWHVsZ1FTNXhqQ2hJdTdZeldsV0FVOExXOVM1R0VMYlpaOFM4VGRMTms?oc=5",
+    "aid": "c7171670cc",
+    "titel": "„Eiertor“, Rote Karte, Elfmeter-Frust: Thülen ärgert sich gegen Arminia",
+    "quelle": "WP | Westfalenpost",
+    "beschr": " „Eiertor“, Rote Karte, Elfmeter-Frust: Thülen ärgert sich gegen Arminia &nbsp;&nbsp; WP | Westfalenpost ",
+    "zeit": "2026-11-22T15:31"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-22T21:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "c508b91662",
+  "schluessel": "hertha|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Hertha BSC ist auf dem Weg in die Bundesliga – mit oder ohne Linus Gechter?",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUkVheThMWWozcDhTcExDcDM1NDZleGoyZEVBbVdadVkwRUw3ckJlTm1Za1M1TUNaZVF4UE9MN2w2QVF0OURCTFpOaEU2b180R2Y0TkFoMWxHMGFGWkRBa2ZqTXcyaVBobjExRXJvZmtGeWV4WUttT1NvUUM5cFgtckFVTDdWVS1lZTlqRHVqQ040TGRPYmx4eEVyOVdSTldwbmVzUWFkMkhFUVVXaHhQZFpONmZFZUVHc05jQURPbXdocFVZVkNaYVRaR1NEZw?oc=5",
+    "aid": "fa3de7d079",
+    "titel": "Hertha BSC ist auf dem Weg in die Bundesliga – mit oder ohne Linus Gechter?",
+    "quelle": "Berliner Morgenpost",
+    "beschr": " Hertha BSC ist auf dem Weg in die Bundesliga – mit oder ohne Linus Gechter? &nbsp;&nbsp; Berliner Morgenpost ",
+    "zeit": "2026-11-22T18:00"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-22T21:01",
+  "archiv": [
+   {
+    "id": "5b44f3ec62",
+    "titel": "Wollitz traut Hertha vor Duell in Cottbus den Punkterekord zu",
+    "datum": "16.11.",
+    "stufe": "sonstiges",
+    "summary": "Cottbus-Trainer Claus-Dieter Wollitz traut Spitzenreiter Hertha vor dem Duell am Sonntag einen neuen Zweitliga-Punkterekord zu. Cottbus steht mit elf Punkten auf Relegationsrang 16."
+   },
+   {
+    "id": "b9598870dd",
+    "titel": "Thorsteinsson über Neustart bei Hertha: „Glauben an die eigene Leistung“",
+    "datum": "10.11.",
+    "stufe": "sonstiges",
+    "summary": "Herthas Jón Dagur Thorsteinsson erzählt, wie ihm die Leihe zu Brann Bergen wieder Selbstvertrauen gab. Sein Doppelpack in Dresden war sein bisher stärkster Abend im Hertha-Trikot."
+   },
+   {
+    "id": "5b69f6c8eb",
+    "titel": "Basler lobt Hertha und Leitl: „Die haben es jetzt selbst in der Hand“",
+    "datum": "10.11.",
+    "stufe": "sonstiges",
+    "summary": "Mario Basler lobt in seinem Podcast Herthas Trainer Stefan Leitl und sieht den Tabellenführer im Aufstiegsrennen in der eigenen Hand. Hertha hat nach elf Spieltagen 31 Punkte und spielt am 22. November in Cottbus."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "4586f74d84",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Hannover 96: Nanu! Sandro Wagner kritisiert seine Arbeit",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWlJ4ZC1nYW5qSG5xV0lIaWxTVjB1VzFva0M4cGtHOEV3cEtCdnplOUJhSUFFdExJLTVkdDItWDRwaGhTd2dxMHhzeEdSaEtwalU2dlhEcDJRa1YyeEsybE9jYUhfQjhYcFlZTllxOGhGSUJtS1gzcDN5UThCalVkamlvNVFzUTZHSWsyZ0hCLUJCOFQ1UUpPMVE5MTVWLWplYXh0NEhBTDNQQkdMS3RhOXk0cGU?oc=5",
+    "aid": "48af9eea79",
+    "titel": "Hannover 96: Nanu! Sandro Wagner kritisiert seine Arbeit",
+    "quelle": "BILD",
+    "beschr": " Hannover 96: Nanu! Sandro Wagner kritisiert seine Arbeit &nbsp;&nbsp; BILD ",
+    "zeit": "2026-11-22T16:32"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-22T21:01",
+  "archiv": [
+   {
+    "id": "98f969f271",
+    "titel": "Hannover 96: Franz Roggow überzeugt als Sechser und lobt Wagners Ansatz",
+    "datum": "13.11.",
+    "stufe": "sonstiges",
+    "summary": "Hannovers Sechser Franz Roggow spielte zuletzt gegen Dresden und in Heidenheim eine wichtige Rolle und lobt Sandro Wagners Ansatz. Nach der Länderspielpause kommt Fürth am 21. November nach Hannover."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "ca622b694e",
+  "schluessel": "karlsruhe|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Karlsruhe",
+  "klubs": [
+   "Karlsruhe"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "\"Heute wäre mehr drin gewesen.\"",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ3BFMk5fSjFYX3lWMl9VZjI0WUJJUTVqaUdEcFZFVnI2M3FIN3c0ZnJPcHcyQWpzY0FQdzFvaHRmbGpQaWVqUERmRTlocG9hcFUxX3JuZlBoSU80cFhhYkJJYWVieUxIb3FvYW04LWpTTmFUX2lOWURUbnNnaWhwSnRnTGYwSlItMU5UaA?oc=5",
+    "aid": "604ea5821d",
+    "titel": "\"Heute wäre mehr drin gewesen.\"",
+    "quelle": "Karlsruher SC",
+    "beschr": " \"Heute wäre mehr drin gewesen.\" &nbsp;&nbsp; Karlsruher SC ",
+    "zeit": "2026-11-22T02:34"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-22T21:01",
+  "archiv": [],
   "versuche": 1
  }
 ]
