@@ -2398,5 +2398,45 @@
   ],
   "alt_titel": "Mets nach Rückkehr ans Millerntor: „Wie unter einen Bus geraten“",
   "quelle_gelesen": true
+ },
+ {
+  "zeit": "22.11.2026 18:08",
+  "id": "6e4b1b9af5",
+  "pfad": "artikel/hertha-gewinnt-derby-in-cottbus-4-0-und-bleibt-ungeschlagen-6e4b1b9af5.html",
+  "urteil": "ok",
+  "gruende": [],
+  "alt_titel": null,
+  "quelle_gelesen": true
+ },
+ {
+  "zeit": "22.11.2026 18:09",
+  "id": "a5dbf6d028",
+  "pfad": "artikel/karlsruhe-und-osnabrueck-trennen-sich-torlos-trotz-aluminiumpech-a5dbf6d028.html",
+  "urteil": "verbessert",
+  "gruende": [
+   "„12. Spieltag“ gestrichen, steht nicht in der Quelle",
+   "Schlussabsatz mit „Wie berichtet“, Tabellensituation, sechster Saisonniederlage und 24 Gegentoren gestrichen, nichts davon steht in der Quelle",
+   "Neuer Schluss mit den Match Facts aus der Quelle (xGoals, schnellster Spieler, meistgepresster Spieler)",
+   "Minutenangaben 25. und 66. ergänzt, „aus dem Winkel“ an die Quelle angepasst („aus der Ecke“)",
+   "Langen Absatz zur ersten Halbzeit aufgeteilt",
+   "Titel gestrafft"
+  ],
+  "alt_titel": "Karlsruhe und Osnabrück trennen sich torlos trotz Aluminiumpech",
+  "quelle_gelesen": true
+ },
+ {
+  "zeit": "22.11.2026 18:09",
+  "id": "8b2c2b45c3",
+  "pfad": "artikel/kaiserslautern-rettet-spaet-ein-2-2-gegen-dresden-8b2c2b45c3.html",
+  "urteil": "verbessert",
+  "gruende": [
+   "Floskel „drehte den Spieß um“ gestrichen. Sie passte auch inhaltlich nicht, weil Sauer beim Ausgleich nur die Vorlage gab.",
+   "Spieltag (Sonntag) aus der Quelle ergänzt",
+   "Grill-Zitat vervollständigt, damit das „aber“ einen Bezug hat",
+   "Ausblick präzisiert: Kiel-Spiel am Samstag, Dresden empfängt St. Pauli (beides laut Quelle)",
+   "Zeitangabe zu Kanatés Chance an die Quelle angepasst (gegen Ende der ersten Halbzeit)"
+  ],
+  "alt_titel": "Kaiserslautern rettet spät ein 2:2 gegen Dresden",
+  "quelle_gelesen": true
  }
 ]

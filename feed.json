@@ -1,5 +1,95 @@
 [
   {
+    "id": "8b2c2b45c3",
+    "titel": "Kaiserslautern rettet spät ein 2:2 gegen Dresden",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "22.11.2026 18:07",
+    "wappen_url": "logos/kaiserslautern.png",
+    "vereine": [
+      "Dresden",
+      "Kaiserslautern"
+    ],
+    "anriss": "Der 1. FC Kaiserslautern hat am Sonntag in der 2. Bundesliga ein 2:2 (1:2) gegen Dynamo Dresden erreicht. Paul Joly sicherte den Lauterern in der 84. Minute den Punkt. Zuvor hatte lange alles nach der zweiten Heimniederlage in Folge ausgesehen. Mario Sauer brachte den FCK",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Kaiserslautern",
+    "pfad": "artikel/kaiserslautern-rettet-spaet-ein-2-2-gegen-dresden-8b2c2b45c3.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "6e4b1b9af5",
+    "titel": "Hertha gewinnt Derby in Cottbus 4:0 und bleibt ungeschlagen",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "22.11.2026 18:06",
+    "wappen_url": "logos/hertha.png",
+    "vereine": [
+      "Cottbus",
+      "Hertha"
+    ],
+    "anriss": "Tabellenführer Hertha BSC hat das Berlin-Brandenburg-Derby bei Energie Cottbus mit 4:0 (1:0) gewonnen. Der Traum von einer ungeschlagenen Saison mit einhundert Punkten, wie ihn die Hertha-Fans besingen, lebt damit weiter. Es war der sechste Auswärtssieg der Berliner in dieser Saison. Schon nach fünf Minuten brachte",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Hertha",
+    "pfad": "artikel/hertha-gewinnt-derby-in-cottbus-4-0-und-bleibt-ungeschlagen-6e4b1b9af5.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "a5dbf6d028",
+    "titel": "Karlsruhe und Osnabrück trennen sich trotz Aluminiumtreffern torlos",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "22.11.2026 18:06",
+    "wappen_url": "logos/karlsruhe.png",
+    "vereine": [
+      "Karlsruhe",
+      "Osnabrück"
+    ],
+    "anriss": "Der Karlsruher SC und der VfL Osnabrück haben sich 0:0 getrennt. In einer kurzweiligen Partie trafen beide Teams mehrfach nur Pfosten oder Latte. Karlsruhe bestimmte früh das Geschehen. Kevin Wiethaup setzte in der 6. Minute einen zentralen Abschluss ab, der geblockt wurde. In der 14.",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Karlsruhe",
+    "pfad": "artikel/karlsruhe-und-osnabrueck-trennen-sich-torlos-trotz-aluminiumpech-a5dbf6d028.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    },
+    "n11": false
+  },
+  {
     "id": "ac5b922880",
     "titel": "Mets nach Rückkehr ans Millerntor: „Wie unter einen Bus geraten“",
     "kategorie": "interview",

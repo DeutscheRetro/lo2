@@ -4129,5 +4129,77 @@
     },
     "published_at": "2026-11-22T12:04:47.606857",
     "source": "MOPO"
+  },
+  {
+    "id": "6e4b1b9af5",
+    "generated_title": "Hertha gewinnt Derby in Cottbus 4:0 und bleibt ungeschlagen",
+    "original_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa1JHdzBqejdDQ3JRbWE3QXdsQlN2Vlp6NFB1S29veGdZdUl3Y3l4aVBCSENJRXYtRFJkY2doU252VnNNR3dxVjNLQnV4LUM3Qmd1ak5qRVVPbGZBLVd5UWlFZ1BUQmlNUGZGTTQ2RENORjZsXzFLb0loV1Zza29KckVESDZRbjdqTnl3eTFkZFBqMkhqa2tQX0hyRkhoMEVib0RKWnZSbUs5dlNhU3M0VnNVWGdFNHJaeDRjalFVQ1RKT2VhbkE?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Hertha",
+      "event_stage": "spielbericht",
+      "main_teams": [
+        "Cottbus",
+        "Hertha"
+      ],
+      "main_players": [
+        "Sebastian Grönning",
+        "Linus Gechter",
+        "Stefan Leitl"
+      ],
+      "summary": "Hertha BSC gewinnt das Derby bei Energie Cottbus mit 4:0 und bleibt Tabellenführer der Zweiten Liga. Cottbus' Fousseny Doumbia sah Rot, bei Hertha später Soufian Gouram Gelb-Rot.",
+      "one_sentence_summary": "Hertha BSC gewinnt das Derby bei Energie Cottbus mit 4:0 und bleibt Tabellenführer der Zweiten Liga.",
+      "schluessel": "sebastian gronning|spiel"
+    },
+    "published_at": "2026-11-22T18:08:37.746818",
+    "source": "Tagesspiegel"
+  },
+  {
+    "id": "a5dbf6d028",
+    "generated_title": "Karlsruhe und Osnabrück trennen sich torlos trotz Aluminiumpech",
+    "original_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ2h5VU9pY0RVUTNNaXEtdlh6dm4tdXBScTJMSkV2V19GTldreUhlYkpjNkdzV2UzYXpqZEs4eGJlTkRHc29remliS21od0d3Ri1YMmZHTmJCRkxfMnJOYmVYdWs4UTlsV0RRWjRlZWlacFczdUpXZ0lWaUZJc1ZfUHJHU3lYNi1Ja2RpdVJJcVFBZUd3d2RzMS1BRnB1MmMwUXlGeG84OThQMk1mel80aUxQdXM3RHZS?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Karlsruhe",
+      "event_stage": "spielbericht",
+      "main_teams": [
+        "Karlsruhe",
+        "Osnabrück"
+      ],
+      "main_players": [
+        "Marvin Wanitzek",
+        "Tim Civeja",
+        "Jonas Krumrey"
+      ],
+      "summary": "Der Karlsruher SC und der VfL Osnabrück trennen sich am 12. Spieltag 0:0. Beide Teams scheitern mehrfach an Pfosten und Latte, Karlsruhe hat die besseren Chancen.",
+      "one_sentence_summary": "Der Karlsruher SC und der VfL Osnabrück trennen sich am 12.",
+      "schluessel": "marvin wanitzek|spiel"
+    },
+    "published_at": "2026-11-22T18:08:37.790023",
+    "source": "Bundesliga | official website"
+  },
+  {
+    "id": "8b2c2b45c3",
+    "generated_title": "Kaiserslautern rettet spät ein 2:2 gegen Dresden",
+    "original_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTTBiNnBjSlZQZ25XNG1EQ004QTFpaVZEMjFiYjNmRTRhd1JxV0VPSjE1RkkxU2FwT0RpQ3ZmX1VsTjFjRm5uZm9TVkkxZG5Fakd4UkRHV1JmblVUY00wNFY3c0lBSm9udlVBVXJtdGV2MTJyTmQ3M3dQRWN4X1M2ZWdBR0w1dFo3aFdXN1BLLVp0MnZqbGJxQ2lfNVBqalljSm5oUU82Zll1d3otejlCWHBQZ2M1M0J3cGxodEk4cmIxXzdaT3AxSlFCcU5vaVJTdmlXWnJPaEFYRW5aWlJzMlE0OFBhSDA?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Kaiserslautern",
+      "event_stage": "spielbericht",
+      "main_teams": [
+        "Dresden",
+        "Kaiserslautern"
+      ],
+      "main_players": [
+        "Paul Joly",
+        "Mario Sauer",
+        "Torsten Lieberknecht"
+      ],
+      "summary": "Der 1. FC Kaiserslautern holt gegen Dynamo Dresden nach 1:2-Rückstand durch ein Tor von Paul Joly (84.) ein 2:2. Dresden bleibt auswärts weiter ohne Saisonsieg.",
+      "one_sentence_summary": "Der 1.",
+      "schluessel": "paul joly|spiel"
+    },
+    "published_at": "2026-11-22T18:08:37.832793",
+    "source": "sportschau.de"
   }
 ]
