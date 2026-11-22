@@ -1,5 +1,57 @@
 [
   {
+    "id": "e4bbd8bc68",
+    "titel": "Münster vertagt Entscheidung: Wörle bekommt gegen Verl sein Finale",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "22.11.2026 21:37",
+    "wappen_url": "logos/muenster.png",
+    "vereine": [
+      "Münster",
+      "Verl"
+    ],
+    "anriss": "Preußen Münster hält vorerst an Trainer Thomas Wörle fest. Nach dem 0:4 bei der TSG Hoffenheim II beschlossen die Verantwortlichen nach stundenlangen Beratungen, dass Wörle auch im Heimspiel gegen den SC Verl am Samstag (14 Uhr) auf der Bank sitzt. Bei einer Niederlage soll es",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Münster",
+    "pfad": "artikel/muenster-vertagt-entscheidung-woerle-bekommt-gegen-verl-sein-finale-e4bbd8bc68.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "7000dfabd6",
+    "titel": "Pick trifft in der 90. Minute: Saarbrücken schlägt Wiesbaden 2:1",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "22.11.2026 21:36",
+    "wappen_url": "logos/saarbruecken.png",
+    "vereine": [
+      "Saarbrücken",
+      "Wiesbaden"
+    ],
+    "anriss": "Der 1. FC Saarbrücken hat am 14. Spieltag der 3. Liga den SV Wehen Wiesbaden mit 2:1 besiegt. Florian Pick erzielte in der 90. Minute das Siegtor, nachdem Siemen Voet die Gastgeber schon in der zweiten Minute in Führung gebracht hatte. Voet staubte nach einer",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Saarbrücken",
+    "pfad": "artikel/pick-trifft-in-der-90-minute-saarbruecken-schlaegt-wiesbaden-2-1-7000dfabd6.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    },
+    "n11": false
+  },
+  {
     "id": "032276b53a",
     "titel": "Stuttgart II schlägt Ingolstadt mit 5:0 und zieht vorbei",
     "kategorie": "news",

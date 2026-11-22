@@ -1675,5 +1675,53 @@
     },
     "published_at": "2026-11-22T16:54:06.506510",
     "source": "Stuttgarter Nachrichten"
+  },
+  {
+    "id": "7000dfabd6",
+    "generated_title": "Pick trifft in der 90. Minute: Saarbrücken schlägt Wiesbaden 2:1",
+    "original_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMG9mU1RTZkZmeWNodXV6dDJhSldwYmNoUTJxbk8tOHMzWDgzbXZacFRRWUV1ejVBNFRxRkZSS3BPdFVkOHM1elRRSzNZYlhoanhCZEhmZkdEdjFyQkpZd1BQVEtqWXo1a19kNXgtWkdUT1VWWnhLbERTTmp3Z08zQnlZckZRaXZhaExhRWdsNV90ei01SjFvS05XT1dqRjJWSkhleUZfd1ZUTTUwalE?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Saarbrücken",
+      "event_stage": "spielbericht",
+      "main_teams": [
+        "Saarbrücken",
+        "Wiesbaden"
+      ],
+      "main_players": [
+        "Florian Pick",
+        "Siemen Voet",
+        "Matteo Bignetti"
+      ],
+      "summary": "Saarbrücken gewinnt gegen Wiesbaden 2:1, Florian Pick trifft in der 90. Minute. Der FCS springt mit 23 Punkten auf Rang vier.",
+      "one_sentence_summary": "Saarbrücken gewinnt gegen Wiesbaden 2:1, Florian Pick trifft in der 90.",
+      "schluessel": "florian pick|spiel"
+    },
+    "published_at": "2026-11-22T21:37:18.951914",
+    "source": "sportschau.de"
+  },
+  {
+    "id": "e4bbd8bc68",
+    "generated_title": "Münster vertagt Entscheidung: Wörle bekommt gegen Verl sein Finale",
+    "original_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT2lkREo3dHRCV3pfVUZwQjZIbVZudVRYRGYzby1fUTNIbUF4REpZQUxMZTRLUTU0blJaTldOTEVVa2tkVi1tSDc3el9FNFlxbWE4OGNLRVE0bVBGMWQ1MlpZVXR3eTZYSU1FckRHQjVMTHRVTkNtRjQ3aktsNUc0RTh0R2tHNEh6ZndocmdNeTB5d1hRR3ZiUGRsTEdGZk1selM0S1pCVG5GY3ZSb0EyWEZOajdNeUZoakZ0dEVjakVKNFN3?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Münster",
+      "event_stage": "sonstiges",
+      "main_teams": [
+        "Münster",
+        "Verl"
+      ],
+      "main_players": [
+        "Thomas Wörle",
+        "Ole Kittner",
+        "Jan Uphues"
+      ],
+      "summary": "Münster lässt Trainer Thomas Wörle nach dem 0:4 in Hoffenheim vorerst im Amt. Bei einer Niederlage gegen Verl am Samstag soll es sein letztes Spiel sein.",
+      "one_sentence_summary": "Münster lässt Trainer Thomas Wörle nach dem 0:4 in Hoffenheim vorerst im Amt.",
+      "schluessel": "thomas worle|sonstiges"
+    },
+    "published_at": "2026-11-22T21:37:19.013329",
+    "source": "BILD"
   }
 ]
