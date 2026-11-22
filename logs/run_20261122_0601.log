@@ -1,0 +1,196 @@
+2026-11-22 06:01:24,055 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 1 passende Treffer
+2026-11-22 06:01:24,055 INFO S7 Ersatzquelle liefert Text (120 Wörter, 1 Quellen): Kimmich nach Rückkehr: Hier am absolut richtigen Ort
+2026-11-22 06:01:24,055 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 0 passende Treffer
+2026-11-22 06:01:24,055 INFO FinalCheck SKIP: borussia mönchengladbach/{'max muster'} stage=geruecht bereits in Archiv
+2026-11-22 06:01:24,056 INFO FinalCheck SKIP: borussia mönchengladbach/set() stage=geruecht bereits in Archiv
+2026-11-22 06:01:36,658 INFO 💶 Budget: dieser Lauf 0.177 $ | heute 0.00 $ | Monat 0.22 / 8 $
+2026-11-22 06:01:36,673 INFO URL-Cache geladen: 13322 bekannte URLs (letzte 30 Tage)
+2026-11-22 06:01:36,673 INFO === LO Generator startet – max. 50 Artikel ===
+2026-11-22 06:01:36,673 INFO Feed: https://newsfeed.kicker.de/news/2-bundesliga
+2026-11-22 06:01:36,929 INFO Feed: https://www.sport.de/rss/news/
+2026-11-22 06:01:37,236 INFO Feed: https://www.11freunde.de/feed
+2026-11-22 06:01:38,476 INFO Feed: https://news.google.com/rss/search?q=%222.+Bundesliga%22&hl=de&gl=DE&ceid=DE:de
+2026-11-22 06:01:39,050 INFO S2 blacklist: Hertha BSC: So können Fans das Spiel gegen Energie Cottbus h
+2026-11-22 06:01:39,054 WARNING Spielerliste nicht verfügbar: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-22 06:01:39,054 INFO BL-Spielerliste geladen: 0 Namen
+2026-11-22 06:01:39,054 INFO S3 keyword miss: Fussball: 2 Bundesliga
+2026-11-22 06:01:39,059 INFO S3 keyword miss: Fußball: 2. Bundesliga, alle Spiele, alle Tore am 22. Novemb
+2026-11-22 06:01:39,059 INFO S2 blacklist: Dynamo Dresden: So sehen Fans das Spiel gegen den 1. FC Kais
+2026-11-22 06:01:39,060 INFO S2 Liveticker übersprungen: Liveticker 2. Bundesliga: St. Pauli gewinnt gegen Bochum dan
+2026-11-22 06:01:39,069 INFO S3 keyword miss: Live hören: Die Konferenz - 14. Spieltag | Fußball 2. Bundes
+2026-11-22 06:01:39,076 INFO S3 keyword miss: Fußball: 2. Bundesliga am 22. November 2026 um 13:00 Uhr auf
+2026-11-22 06:01:39,078 INFO S2 Liveticker übersprungen: FC St. Pauli – VfL Bochum: Liveticker zum Spiel der 2. Bunde
+2026-11-22 06:01:39,080 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Verletzung+Ausfall+gesperrt&hl=de&gl=DE&ceid=DE:de
+2026-11-22 06:01:39,382 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Transfer+Wechsel+verpflichtet&hl=de&gl=DE&ceid=DE:de
+2026-11-22 06:01:39,650 INFO S3 keyword miss: Die wichtigsten Transfer-News und Gerüchte aus der weiten Fu
+2026-11-22 06:01:39,651 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Ger%C3%BCcht+Interesse+Angebot&hl=de&gl=DE&ceid=DE:de
+2026-11-22 06:01:40,035 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Vertrag+verl%C3%A4ngert+abl%C3%B6sefrei&hl=de&gl=DE&ceid=DE:de
+2026-11-22 06:01:40,427 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Trainer+Entlassung&hl=de&gl=DE&ceid=DE:de
+2026-11-22 06:01:40,727 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Heidenheim%22+OR+Heidenheim+FCH+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-22 06:01:40,966 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Kaiserslautern%22+OR+%22FCK%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-22 06:01:41,233 INFO S3 keyword miss: Mainz will Ne­ga­tiv­se­rie be­en­den - FCK oben dran­blei­b
+2026-11-22 06:01:41,235 INFO S3 keyword miss: Bundesliga: Mainz will Negativserie beenden - FCK oben dranb
+2026-11-22 06:01:41,237 INFO S2 blacklist: Spielereignisse | SC Freiburg - 1. FC Kaiserslautern 0:2 | 1
+2026-11-22 06:01:41,239 INFO S3 keyword miss: Ulm gewinnt Kellerkracher gegen FCK II
+2026-11-22 06:01:41,241 INFO S3 keyword miss: Ulm gewinnt Kellerkracher gegen FCK II
+2026-11-22 06:01:41,243 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Magdeburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-22 06:01:41,518 INFO S2 blacklist: Spielereignisse | Chemnitzer FC - 1. FC Magdeburg 5:3 | 12. 
+2026-11-22 06:01:41,520 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+N%C3%BCrnberg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-22 06:01:41,850 INFO Feed: https://news.google.com/rss/search?q=%22Arminia+Bielefeld%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-22 06:01:42,139 INFO S2 blacklist: Spielereignisse | Arminia Bielefeld - Hannover 96 6:2 | 12. 
+2026-11-22 06:01:42,144 INFO Feed: https://news.google.com/rss/search?q=%22Dynamo+Dresden%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-22 06:01:42,405 INFO S2 blacklist: Spielereignisse | RB Leipzig - Dynamo Dresden 3:0 | 12. Spie
+2026-11-22 06:01:42,409 INFO S3 keyword miss: Volleyball: Weshalb DSC-Coach Alexander Waibl derzeit unruhi
+2026-11-22 06:01:42,409 INFO S2 blacklist: Spielereignisse | Eintracht Frankfurt - Erzgebirge Aue 6:1 |
+2026-11-22 06:01:42,409 INFO Feed: https://news.google.com/rss/search?q=%22Eintracht+Braunschweig%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-22 06:01:42,862 INFO Feed: https://news.google.com/rss/search?q=%22Energie+Cottbus%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-22 06:01:43,109 INFO S3 keyword miss: U-19-DFB-Nachwuchsliga (Vorrunde) 2026/27, 12. Spieltag
+2026-11-22 06:01:43,110 INFO Feed: https://news.google.com/rss/search?q=%22FC+St.+Pauli%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-22 06:01:43,452 INFO S2 blacklist: FC St. Pauli gegen VfL Bochum jetzt live im TV und Stream: H
+2026-11-22 06:01:43,458 INFO S3 keyword miss: St.-Pauli-Trainer Rapp: "Haben verdient gewonnen"
+2026-11-22 06:01:43,458 INFO S2 blacklist: Spielernoten: 0:2-Niederlage beim FC St. Pauli - Benote jetz
+2026-11-22 06:01:43,466 INFO S2 Liveticker übersprungen: FC St. Pauli – VfL Bochum: Der Liveticker zum Nachlesen
+2026-11-22 06:01:43,471 INFO S3 keyword miss: Schwalben-Ärger und Elfer-Wirbel: Smith versteht die Welt ni
+2026-11-22 06:01:43,485 INFO Feed: https://news.google.com/rss/search?q=%22Hannover+96%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-22 06:01:43,780 INFO Feed: https://news.google.com/rss/search?q=%22Hertha+BSC%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-22 06:01:44,054 INFO S2 Liveticker übersprungen: Liveticker
+2026-11-22 06:01:44,056 INFO S3 keyword miss: Die zwölf ver­rück­ten Mi­nu­ten des FKP bei der Her­tha
+2026-11-22 06:01:44,057 INFO Feed: https://news.google.com/rss/search?q=%22Holstein+Kiel%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-22 06:01:44,408 INFO Feed: https://news.google.com/rss/search?q=%22Karlsruher+SC%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-22 06:01:44,684 INFO S2 blacklist: KSC-Trainer Senft vor Duell gegen Osnabrück: „Letzte Heimspi
+2026-11-22 06:01:44,690 INFO Feed: https://news.google.com/rss/search?q=%22Greuther+F%C3%BCrth%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-22 06:01:44,991 INFO S3 keyword miss: (U-17-DFB-Nachwuchsliga (Vorrunde))
+2026-11-22 06:01:44,995 INFO Feed: https://news.google.com/rss/search?q=%22Darmstadt+98%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-22 06:01:45,260 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Bochum%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-22 06:01:45,582 INFO S2 blacklist: Spielereignisse | VfL Bochum - Preußen Münster 7:2 | 12. Spi
+2026-11-22 06:01:45,587 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Osnabr%C3%BCck%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-22 06:01:46,105 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Wolfsburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-22 06:01:46,438 INFO Feed: https://newsfeed.kicker.de/team/1-fc-heidenheim
+2026-11-22 06:01:46,586 INFO Feed: https://newsfeed.kicker.de/team/1-fc-nuernberg
+2026-11-22 06:01:46,739 INFO Feed: https://newsfeed.kicker.de/team/arminia-bielefeld
+2026-11-22 06:01:46,892 INFO Feed: https://newsfeed.kicker.de/team/dynamo-dresden
+2026-11-22 06:01:47,061 INFO Feed: https://newsfeed.kicker.de/team/eintracht-braunschweig
+2026-11-22 06:01:47,207 INFO Feed: https://newsfeed.kicker.de/team/fc-st-pauli
+2026-11-22 06:01:47,355 INFO Feed: https://newsfeed.kicker.de/team/hannover-96
+2026-11-22 06:01:47,500 INFO Feed: https://newsfeed.kicker.de/team/hertha-bsc
+2026-11-22 06:01:47,541 INFO Feed: https://newsfeed.kicker.de/team/holstein-kiel
+2026-11-22 06:01:47,692 INFO Feed: https://newsfeed.kicker.de/team/vfl-bochum
+2026-11-22 06:01:47,847 INFO Feed: https://newsfeed.kicker.de/team/vfl-osnabrueck
+2026-11-22 06:01:48,002 INFO Eingelesen: 87 Schlagzeilen nach den Gratis-Filtern
+2026-11-22 06:01:48,090 INFO S5 schon berichtet (Nürnberg verliert gegen Braunschweig nach Füh): Fußball heute Ergebnisse: Wie hat Nürnberg gegen Braunschwei
+2026-11-22 06:01:48,091 INFO S5 Fan-Wahl/Nachwuchs: Spielschema | 1. FC Kaiserslautern - FSV Frankfurt 3:1 | 12. Spieltag 
+2026-11-22 06:01:48,092 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: Spitzenspiel: EFCEKA - Dynamo
+2026-11-22 06:01:48,093 INFO S5 Randthema: Arminia-Podcast bald wieder live in Steinhagen
+2026-11-22 06:01:48,093 INFO S5 Sammelartikel: Bielefeld kompakt: Herausforderungen in Brackwede, Kanzlei-Geschichte 
+2026-11-22 06:01:48,094 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: 4. DYNAMISCHER WEIHNACHTSMARKT
+2026-11-22 06:01:48,094 INFO S5 Sammelartikel: VfL Bochum wird beim FC St. Pauli eiskalt erwischt: Ticker zum Nachles
+2026-11-22 06:01:48,096 INFO S5 schon berichtet (Wolfsburg schlägt Kiel am 12. Spieltag deutli): 0:3 in Wolfsburg: Kiel verteilt Geschenke bei Kniat-Einstand
+2026-11-22 06:01:48,096 INFO S5 Sammelartikel: Zweimal pro Woche frische KSC-News: So verpasst du keine Wendung beim 
+2026-11-22 06:01:48,096 INFO S5 Randthema: Gänsehaut garantiert: Alle Infos zum weihnachtlichen KSC-Stadionsingen
+2026-11-22 06:01:48,097 INFO S5 schon berichtet (Taibi trifft spät: Hannover 96 dreht Spiel ge): Übersicht Hannover 96 - SpVgg Greuther Fürth 2:1 | 12. Spiel
+2026-11-22 06:01:48,097 INFO S5 Fan-Wahl/Nachwuchs: Spielschema | VfL Bochum - Bor. Mönchengladbach 1:0 | 12. Spieltag | U
+2026-11-22 06:01:48,098 INFO S5: 56 neue Geschichten, 3 schon berichtet, 1 zu wartenden Geschichten ergänzt, 7 warten
+2026-11-22 06:04:03,251 INFO S6 aussortiert (doppelt): Blitz-Tore in jeder Halbzeit: St. Pauli schlägt Bochum | 2. Bundesliga
+2026-11-22 06:04:03,251 INFO S6 aussortiert (doppelt): Ein früher Treffer in jeder Hälfte: St. Pauli holt gegen Bochum den dr
+2026-11-22 06:04:03,251 INFO S6 aussortiert (prio_0): 2. Fußball-Bundesliga - Erstes Derby seit 2013: Hertha gastiert in Cot
+2026-11-22 06:04:03,252 INFO S6 aussortiert (doppelt): VfL Bochum kassiert 0:2-Pleite auf St. Pauli: Geben Sie den Spielern N
+2026-11-22 06:04:03,253 INFO S6 aussortiert (doppelt): FC St. Pauli - VfL Bochum 1848 | 12. Spieltag | Spielbericht | Highlig
+2026-11-22 06:04:03,253 INFO S6 aussortiert (prio_0): Spielstatistik | FC St. Pauli - VfL Bochum | 12. Spieltag | 2. Bundesl
+2026-11-22 06:04:03,253 INFO S6 aussortiert (doppelt): VfL kassiert zwei Blitz-Treffer: St. Pauli siegt schlechte Stimmung we
+2026-11-22 06:04:03,254 INFO S6 aussortiert (doppelt): Premiere gegen Ex-Kölner: FC-Profi entscheidet Zweitliga-Topspiel
+2026-11-22 06:04:03,254 INFO S6 aussortiert (doppelt): FC St. Pauli - VfL Bochum: FCSP zurück in der Spur - 2. Bundesliga
+2026-11-22 06:04:03,254 INFO S6 aussortiert (prio_0): Live hören: VfL Wolfsburg gegen 1. FC Magdeburg - 2. Bundesliga
+2026-11-22 06:04:03,254 INFO S6 aussortiert (doppelt): Negativserie beendet: St. Paulis Blitzstarter schlagen Bochum
+2026-11-22 06:04:03,255 INFO S6 aussortiert (doppelt): St. Pauli hält Druck stand: Verdienter Sieg im Topspiel gegen den Nega
+2026-11-22 06:04:03,255 INFO S6 aussortiert (prio_0): St. Pauli - Bochum
+2026-11-22 06:04:03,255 INFO S6 aussortiert (prio_0): 1. FC Kaiserslautern - Dynamo Dresden
+2026-11-22 06:04:03,255 INFO S6 aussortiert (prio_0): 12. Spieltag: 1.FC Kaiserslautern - SG Dynamo Dresden - 1. FC Kaisersl
+2026-11-22 06:04:03,255 INFO S6 aussortiert (prio_0): 12. Spieltag: 1.FC Kaiserslautern - SG Dynamo Dresden - SG Dynamo Dres
+2026-11-22 06:04:03,256 INFO S6 aussortiert (prio_0): Kaiserslautern vs Dresden Tipp, Prognose & Quoten 22.11.2026
+2026-11-22 06:04:03,256 INFO S6 aussortiert (doppelt): Club-Noten nach Braunschweig: Ein Solokünstler, ein Chancentod und ein
+2026-11-22 06:04:03,256 INFO S6 aussortiert (doppelt): Sorglose Nürnberger kassieren Rückschlag: „Ein Weckruf“
+2026-11-22 06:04:03,256 INFO S6 aussortiert (doppelt): Sorglose Nürnberger kassieren Rückschlag gegen Braunschweig
+2026-11-22 06:04:03,256 INFO S6 aussortiert (prio_0): Arminia-Kolumne: Ich schaue in dieser Saison nicht nach unten
+2026-11-22 06:04:03,257 INFO S6 aussortiert (prio_0): Das Wichtigste aus OWL: Frau in Bielefeld in Auto gezerrt & Schwänzen 
+2026-11-22 06:04:03,257 INFO S6 aussortiert (doppelt): St. Pauli beendet Negativserie: Wichtiger Befreiungsschlag gegen Bochu
+2026-11-22 06:04:03,257 INFO S6 aussortiert (prio_0): FC St. Pauli - VfL Bochum Kader & Aufstellungen: 2. Bundesliga Fußball
+2026-11-22 06:04:03,257 INFO S6 aussortiert (prio_0): FC St. Pauli - VfL Bochum | Weitere Spiele: Fußball Live-Updates
+2026-11-22 06:04:03,257 INFO S6 aussortiert (doppelt): (+) St. Pauli-Noten gegen Bochum: Starkes Kollektiv, aber drei Kiezkic
+2026-11-22 06:04:03,258 INFO S6 aussortiert (prio_0): 1. FC Phönix Lübeck – FC St. Pauli II
+2026-11-22 06:04:03,258 INFO S6 aussortiert (doppelt): 2. Bundesliga - FC St. Pauli 2-0 VfL Bochum 1848
+2026-11-22 06:04:03,258 INFO S6 aussortiert (doppelt): VfL Bochum verliert bei St.Pauli
+2026-11-22 06:04:03,258 INFO S6 aussortiert (doppelt): VfL Bochum: Schwarzer Tag für Wittek und Meyer – mehrere Fünfen bei Pa
+2026-11-22 06:04:03,258 INFO S6 aussortiert (doppelt): Elfmeter oder Schwalbe? So hat St. Paulis Smith die Szene gesehen
+2026-11-22 06:04:03,259 INFO S6 aussortiert (doppelt): Topspiel FC St. Pauli vs. VfL Bochum: Bochum verabschiedet sich ohne P
+2026-11-22 06:04:03,259 INFO S6 aussortiert (doppelt): Blitztore bringen St. Pauli auf die Siegerstraße! Kiezkicker lassen Vf
+2026-11-22 06:04:03,259 INFO S6 aussortiert (prio_1): Karlsruher SC gegen den VfL Osnabrück: Daten, Fakten und Kurioses zum 
+2026-11-22 06:04:03,259 INFO S6 aussortiert (prio_0): Karlsruher SC - VfL Osnabrück: Prognose, Übertragung, Anstoßzeit und A
+2026-11-22 06:04:03,259 INFO S6 aussortiert (prio_1): KSC bekommt „neue digitale Heimat“: Website und Fanprofil sollen künft
+2026-11-22 06:04:03,260 INFO S6 aussortiert (prio_0): K.o. kurz vor Schluss: KSC II verliert gegen Tabellenführer Backnang
+2026-11-22 06:04:03,260 INFO S6 aussortiert (prio_1): KSC-Heimspiel am Sonntag: Shuttlebusse bringen Fans ins Stadion
+2026-11-22 06:04:03,260 INFO S6 aussortiert (prio_0): Karlsruher SC - Holstein Kiel: Live Stream & Übertragung
+2026-11-22 06:04:03,260 INFO S6 aussortiert (doppelt): HIGHLIGHTS | Hannover 96 – SpVgg Greuther Fürth | 12. Spieltag
+2026-11-22 06:04:03,260 INFO S6 aussortiert (doppelt): 2. Bundesliga: Taibi erlöst Hannover spät gegen Fürth
+2026-11-22 06:04:03,261 INFO S6 aussortiert (prio_0): FC St. Pauli - VfL Bochum Statistiken: Fußball Ergebnisse & Infos
+2026-11-22 06:04:03,261 INFO S6 aussortiert (prio_0): Wolfsburg macht mit Schlusslicht kurzen Prozess, Nürnberg patzt
+2026-11-22 06:04:04,677 WARNING discarding data: None
+2026-11-22 06:04:04,679 INFO S7 kein Volltext (trafilatura_returned_empty): Update: Arminia Bielefelds Torwart Jonas Kersken aus dem Kra
+2026-11-22 06:04:07,432 INFO S7 schreiben (Prio 3, 1 Quellen): Update: Arminia Bielefelds Torwart Jonas Kersken aus dem Kra
+2026-11-22 06:04:10,363 INFO S7 verworfen (zu_wenig_stoff): Update: Arminia Bielefelds Torwart Jonas Kersken aus dem Kra
+2026-11-22 06:04:14,567 INFO S6.5 schon berichtet (Magdeburg gewinnt in Bielefeld, Kersken verle): Noten für Arminia Bielefeld: Marius Wörl ist beim DSC der Dr
+2026-11-22 06:04:15,656 INFO S7 kein Volltext (too_short_45_words): Mit dieser Startelf beginnt Bochum im Topspiel bei St. Pauli
+2026-11-22 06:04:15,876 INFO S7 Ersatzquellen für "Mit dieser Startelf beginnt Bochum im Topspiel bei": 0 passende Treffer
+2026-11-22 06:04:15,876 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Mit dieser Startelf beginnt Bochum im Topspiel bei St. Pauli
+2026-11-22 06:04:16,102 INFO S7 Ersatzquellen für "Nach Zusammenprall: Arminia gibt leichte Entwarnun": 0 passende Treffer
+2026-11-22 06:04:16,102 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Nach Zusammenprall: Arminia gibt leichte Entwarnung bei Kers
+2026-11-22 06:04:16,586 INFO S7 kein Volltext (too_short_15_words): 2. Fußball-Bundesliga: Arminia-Keeper Kersken erleidet Gehir
+2026-11-22 06:04:16,823 INFO S7 Ersatzquellen für "2. Fußball-Bundesliga: Arminia-Keeper Kersken erle": 0 passende Treffer
+2026-11-22 06:04:16,823 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): 2. Fußball-Bundesliga: Arminia-Keeper Kersken erleidet Gehir
+2026-11-22 06:04:17,593 INFO S7 kein Volltext (too_short_8_words): Verletzungen nach Wolfsburg-Spiel: Holstein Kiel bangt um Sk
+2026-11-22 06:04:17,817 INFO S7 Ersatzquellen für "Verletzungen nach Wolfsburg-Spiel: Holstein Kiel b": 0 passende Treffer
+2026-11-22 06:04:17,817 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Verletzungen nach Wolfsburg-Spiel: Holstein Kiel bangt um Sk
+2026-11-22 06:04:18,527 INFO S7 kein Volltext (too_short_8_words): Fabian Reese nach dem 3:0-Sieg mit dem VfL Wolfsburg: „Das T
+2026-11-22 06:04:19,119 INFO S7 kein Volltext (too_short_8_words): Kommentar: Das 0:3 gegen Wolfsburg ist ein Spiegelbild der S
+2026-11-22 06:04:19,490 INFO S7 kein Volltext (too_short_8_words): Kuriose Tore, klarer Sieg: Der VfL Wolfsburg bleibt mit dem 
+2026-11-22 06:04:19,962 INFO S7 Ersatzquellen für "Fabian Reese nach dem 3:0-Sieg mit dem VfL Wolfsbu": 0 passende Treffer
+2026-11-22 06:04:19,962 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Fabian Reese nach dem 3:0-Sieg mit dem VfL Wolfsburg: „Das T
+2026-11-22 06:04:20,301 INFO S7 kein Volltext (too_short_75_words): VfL Bochum: Timo Horn spricht Klartext - "... dann bist du w
+2026-11-22 06:04:20,510 INFO S7 Ersatzquellen für "VfL Bochum: Timo Horn spricht Klartext - "... dann": 0 passende Treffer
+2026-11-22 06:04:20,510 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): VfL Bochum: Timo Horn spricht Klartext - "... dann bist du w
+2026-11-22 06:04:23,135 INFO S7 schreiben (Prio 2, 1 Quellen): Top oder Flop: Wie schlagen sich die Neuzugänge beim KSC?
+2026-11-22 06:04:28,036 INFO S7 verworfen (nicht_relevant): Top oder Flop: Wie schlagen sich die Neuzugänge beim KSC?
+2026-11-22 06:04:30,323 INFO S7 schreiben (Prio 2, 1 Quellen): „Ging für einige zu schnell“: So erklären die Profis des VfL
+2026-11-22 06:04:33,515 INFO S7 verworfen (zu_wenig_stoff): „Ging für einige zu schnell“: So erklären die Profis des VfL
+2026-11-22 06:04:33,756 INFO S7 Ersatzquellen für "Nemeths Worte erzielen ihre Wirkung: "Können ruhig": 0 passende Treffer
+2026-11-22 06:04:33,757 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Nemeths Worte erzielen ihre Wirkung: "Können ruhig mal härte
+2026-11-22 06:04:36,256 INFO S7 schreiben (Prio 2, 1 Quellen): Nach Hymnen-Check: Starkes St. Pauli feiert eine Debütanten-
+2026-11-22 06:04:44,598 INFO   Kandidat: St. Pauli schlägt Bochum 2:0: Niang und Ando mit Premierento
+2026-11-22 06:04:45,359 INFO S7 kein Volltext (too_short_30_words): Schwalbe oder Elfmeter? St. Paulis Smith versteht Schiri-Ent
+2026-11-22 06:04:45,570 INFO S7 Ersatzquellen für "Schwalbe oder Elfmeter? St. Paulis Smith versteht ": 0 passende Treffer
+2026-11-22 06:04:45,570 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Schwalbe oder Elfmeter? St. Paulis Smith versteht Schiri-Ent
+2026-11-22 06:04:47,051 INFO S7 kein Volltext (seite_zu_alt): Niangs erstes Tor zuhause: St. Paulis Niang - "Ich freue mic
+2026-11-22 06:04:47,275 INFO S7 Ersatzquellen für "Niangs erstes Tor zuhause: St. Paulis Niang - "Ich": 0 passende Treffer
+2026-11-22 06:04:47,275 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Niangs erstes Tor zuhause: St. Paulis Niang - "Ich freue mic
+2026-11-22 06:04:48,564 INFO S7 kein Volltext (seite_zu_alt): Heimsieg für seine Mannschaft: St. Paulis Trainer Rapp - "Ha
+2026-11-22 06:04:48,808 INFO S7 Ersatzquellen für "Heimsieg für seine Mannschaft: St. Paulis Trainer ": 0 passende Treffer
+2026-11-22 06:04:48,808 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Heimsieg für seine Mannschaft: St. Paulis Trainer Rapp - "Ha
+2026-11-22 06:04:49,246 INFO S7 kein Volltext (too_short_37_words): FC St. Pauli: Smith mit Einser-Leistung – anderer Rückkehrer
+2026-11-22 06:04:49,477 INFO S7 Ersatzquellen für "FC St. Pauli: Smith mit Einser-Leistung – anderer ": 0 passende Treffer
+2026-11-22 06:04:49,477 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): FC St. Pauli: Smith mit Einser-Leistung – anderer Rückkehrer
+2026-11-22 06:04:55,343 INFO S6.5 schon berichtet (Nürnberg verliert gegen Braunschweig nach Füh): Herber Dämpfer für 1. FC Nürnberg gegen Braunschweig: Justva
+2026-11-22 06:04:55,555 INFO S7 Ersatzquellen für "LIVE! St. Pauli weiter am Drücker: Horn verhindert": 0 passende Treffer
+2026-11-22 06:04:55,555 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): LIVE! St. Pauli weiter am Drücker: Horn verhindert 0:2
+2026-11-22 06:04:55,754 INFO S7 Ersatzquellen für "Klartext beim FCN: "Ein bisschen Larifari, das rei": 0 passende Treffer
+2026-11-22 06:04:55,754 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Klartext beim FCN: "Ein bisschen Larifari, das reicht nicht"
+2026-11-22 06:04:56,275 INFO S7 kein Volltext (too_short_8_words): Warum Dynamo-Kapitän Hauptmann in Kaiserslautern noch etwas 
+2026-11-22 06:04:56,548 INFO S7 Ersatzquellen für "Warum Dynamo-Kapitän Hauptmann in Kaiserslautern n": 0 passende Treffer
+2026-11-22 06:04:56,548 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Warum Dynamo-Kapitän Hauptmann in Kaiserslautern noch etwas 
+2026-11-22 06:04:56,550 INFO S9.5 FinalCheck: 1/1 durch
+2026-11-22 06:04:57,630 INFO Veröffentlicht: St. Pauli schlägt Bochum 2:0: Niang und Ando mit Premierento
+2026-11-22 06:04:57,635 WARNING Sitemap ohne Spielerseiten: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-22 06:04:57,639 INFO 💶 Kosten: dieser Lauf 0.000 $ (Budget 0.177 $) | heute 0.00 $ | Monat 0.22 / 8 $ | konferenz (abo) 1× 0.000 $, dublette (abo) 6× 0.000 $, schreiben (abo) 4× 0.000 $
+2026-11-22 06:04:57,639 INFO 🎫 Abo-Verbrauch: 46,668 Tokens rein (davon Cache gelesen 11,547), 22,447 raus, API-Gegenwert 0.26 $ | konferenz 1×: 4,864/19,229, dublette 6×: 6,802/602, schreiben 4×: 35,002/2,616
+2026-11-22 06:04:57,652 INFO Feeds: 38/38 begonnen, nächster Lauf startet bei Nr. 0
+2026-11-22 06:04:57,652 INFO URL-Cache gespeichert: 13457 URLs
+2026-11-22 06:04:57,652 INFO === Fertig. 1 neue Artikel. feed.json: 182 ===
+2026-11-22 06:04:57,652 INFO Stats: {"ts": "20261122_0601", "ingested": 135, "s2_pre_filter": 28, "s3_relevance": 15, "s4_dedup_early": 0, "gesammelt": 87, "geschichten_neu": 56, "s5_archiv_doppelt": 3, "s5_zusammengefuehrt": 1, "s6_aussortiert": 43, "s7_geschrieben": 4, "s7_verworfen": 5, "s5_fulltext_fail": 14, "s8_qa_rejected": 0, "published": 1, "s5_randthema": 7, "s5_ohne_bezug": 2, "kosten": {"lauf_usd": 0.0, "lauf_budget_usd": 0.1767, "heute_usd": 0.0, "monat_usd": 0.2247, "monatsbudget_usd": 8.0, "aufrufe": {"konferenz (abo)": {"anzahl": 1, "usd": 0.0}, "dublette (abo)": {"anzahl": 6, "usd": 0.0}, "schreiben (abo)": {"anzahl": 4, "usd": 0.0}}, "guthaben_leer": false, "abo": true, "abo_tokens": {"konferenz": {"aufrufe": 1, "ein": 10, "cache_schreiben": 4854, "cache_lesen": 0, "aus": 19229, "api_wert_usd": 0.1059}, "dublette": {"aufrufe": 6, "ein": 12, "cache_schreiben": 6790, "cache_lesen": 0, "aus": 602, "api_wert_usd": 0.0333}, "schreiben": {"aufrufe": 4, "ein": 10, "cache_schreiben": 23445, "cache_lesen": 11547, "aus": 2616, "api_wert_usd": 0.1211}}}}

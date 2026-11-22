@@ -26,7 +26,7 @@
   "status": "n",
   "erstmals": "2026-11-21T18:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "1a16b3f09f",
@@ -128,7 +128,7 @@
     "summary": "Wolfsburg verliert im Spitzenspiel bei Tabellenführer Hertha BSC mit 1:2. Trainer Tobias Strobl und Sportdirektor Pirmin Schwegler kritisieren den nicht gegebenen Elfmeter in der Nachspielzeit."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "013e8b1af2",
@@ -166,7 +166,7 @@
     "summary": "Kiels Adrián Kaprálik hat sich bei der slowakischen Nationalmannschaft einen Mittelfußbruch zugezogen und fällt voraussichtlich bis zum Jahresende aus. Vor dem Pflichtspieldebüt von Trainer Mitch Kniat in Wolfsburg sind auch Alidou und Schonlau fraglich."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "312079ec8a",
@@ -217,7 +217,7 @@
     "summary": "St. Pauli verzichtet in der Länderspielpause auf ein Testspiel, weil kein passender Gegner an einem Freitag gefunden wurde. Trainer Marcel Rapp kündigt intensives Training und Konkurrenzkampf vor dem Heimspiel gegen Bochum an."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "9fef00d8cc",
@@ -247,7 +247,7 @@
   "status": "n",
   "erstmals": "2026-11-21T21:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "8dc004096e",
@@ -276,35 +276,265 @@
   "status": "u",
   "erstmals": "2026-11-21T21:01",
   "archiv": [],
+  "versuche": 2
+ },
+ {
+  "id": "9353ebf8d3",
+  "schluessel": "st. pauli|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "St. Pauli",
+  "klubs": [
+   "St. Pauli",
+   "Magdeburg",
+   "Bochum"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Nemeths Worte erzielen ihre Wirkung: \"Können ruhig mal härter zueinander sein\"",
+  "quellen": [
+   {
+    "url": "https://www.kicker.de/nemeths-worte-erzielen-ihre-wirkung-koennen-ruhig-mal-haerter-zueinander-sein-1273695/artikel#omrss",
+    "aid": "4e9e3b30f9",
+    "titel": "Nemeths Worte erzielen ihre Wirkung: \"Können ruhig mal härter zueinander sein\"",
+    "quelle": "kicker 2. Bundesliga News",
+    "beschr": "\"Gespräche\" hatte David Nemeth als Kapitän vom FC St. Pauli nach dem 1:4 beim 1. FC Magdeburg angekündigt. Was daraus medial gemacht wurde, überraschte den Österreicher - gleichwohl war die Wirkung im Heimspiel gegen den VfL Bochum nicht zu übersehen.",
+    "zeit": "2026-11-21T23:59"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-22T06:01",
+  "archiv": [],
   "versuche": 1
  },
  {
-  "id": "65eca07747",
-  "schluessel": "bielefeld|trainer",
+  "id": "bc5c2f1423",
+  "schluessel": "st. pauli|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "St. Pauli",
+  "klubs": [
+   "St. Pauli"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Niangs erstes Tor zuhause: St. Paulis Niang - \"Ich freue mich der Mannschaft geholfen zu haben\"",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOWtLZHp0a21KOTBMd1FUMFg5LW9QUU5MOHduZGYzVlRFLWtLajBJY2tvcGtuOFdNSWpENEFiUzFEYjZRYjYzVFVzM3FKejM1bFJxQkZGYjk0cWUyLXhmRlJabm1TV05XaURvdjZhNTQ3RVlucTMwenM3MlltZ3dmNnMzeVlRT0RWUXhDS3pYVVlMRFRCMWtIRGM3Rk1GLVp2eDREU1FDWUg1bklMRGw0WV9EbEdsR1pfMjlfMXYzVFhhOFBTTE9TRkYwUE1BR2lE?oc=5",
+    "aid": "5927ed90ef",
+    "titel": "Niangs erstes Tor zuhause: St. Paulis Niang - \"Ich freue mich der Mannschaft geholfen zu haben\"",
+    "quelle": "sportschau.de",
+    "beschr": " Niangs erstes Tor zuhause: St. Paulis Niang - \"Ich freue mich der Mannschaft geholfen zu haben\" &nbsp;&nbsp; sportschau.de ",
+    "zeit": "2026-11-21T23:26"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-22T06:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "3afea79848",
+  "schluessel": "st. pauli|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "St. Pauli",
+  "klubs": [
+   "St. Pauli"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Heimsieg für seine Mannschaft: St. Paulis Trainer Rapp - \"Haben ordentlich Fußball gespielt\"",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdXY1bENxSGJtMXQtWXBTcEhUSG1zWUNEQ2t3ZHNXSDVsSGNOb2NBRU1LeG5GM01DUHl3dHhCS09TQ1otOGtNQTVoVnI1VFN6VmU4b082bkN5UDRYXzdGN1B1TTJtY25LWFl5U2FxQll1XzVFR1lVNF9nM0FST3dqd3lSNkFVOTZXWlRKQXR5c0UySWQwM0hUOWFTU25HUmxCejVEcWR4aDRYUGgyZEJJSEpra0xqelJRdnNvREJXNUxab3d6VWpyN1laMmVVOEk?oc=5",
+    "aid": "eec2408424",
+    "titel": "Heimsieg für seine Mannschaft: St. Paulis Trainer Rapp - \"Haben ordentlich Fußball gespielt\"",
+    "quelle": "sportschau.de",
+    "beschr": " Heimsieg für seine Mannschaft: St. Paulis Trainer Rapp - \"Haben ordentlich Fußball gespielt\" &nbsp;&nbsp; sportschau.de ",
+    "zeit": "2026-11-21T23:26"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-22T06:01",
+  "archiv": [
+   {
+    "id": "ceca666738",
+    "titel": "Smith gegen Pyrka: St. Pauli-Profis treffen in der Nations League aufeinander",
+    "datum": "17.11.",
+    "stufe": "sonstiges",
+    "summary": "St. Paulis Eric Smith und Arkadiusz Pyrka treffen in der Nations League mit Schweden und Polen aufeinander. Pyrka hat gute Chancen auf einen Startelfeinsatz, Smith blieb zuletzt ohne Einsatz."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "52a3e52d2d",
+  "schluessel": "bielefeld|sonstiges",
   "person": "",
   "spieler": [],
   "klub": "Bielefeld",
   "klubs": [
    "Bielefeld"
   ],
-  "stufe": "entlassung",
-  "klasse": "trainer",
-  "titel": "Update: Arminia Bielefelds Torwart Jonas Kersken aus dem Krankenhaus entlassen",
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "2. Fußball-Bundesliga: Arminia-Keeper Kersken erleidet Gehirnerschütterung",
   "quellen": [
    {
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYkdmMDFiQkVMYXl2MnlKQ1dnTm5HQmJpajc5WUFPakZ6aWpWV29ZMG5tQ2F4bHBMMzdsTkJYcVNKNUR0YnlTX2Y2VE1qLUxXQzM1OGNMVjdBNG14TTVUR0pWaTVhNHpZRTVnQ1lRTVkxVHhqU1JvaUNMcWNGdGZuV0RTUklFbHBBWlA0U2o5WWpmQVZtT25BZ0RkRUVQTjZjTFBpVUxiNllBclJNSDlidHVTVUpHY1RiaXUwX3V2bHF6Yld3MnNPREhYdUFSQQ?oc=5",
-    "aid": "d8aa668db0",
-    "titel": "Update: Arminia Bielefelds Torwart Jonas Kersken aus dem Krankenhaus entlassen",
-    "quelle": "Mindener Tageblatt",
-    "beschr": " Update: Arminia Bielefelds Torwart Jonas Kersken aus dem Krankenhaus entlassen &nbsp;&nbsp; Mindener Tageblatt ",
-    "zeit": "2026-11-21T15:17"
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTVA3U3I0WmQzUEhCTzFIUjZKZ2VXTWR1djdjV05sNDJOZXptRzlvMnY4dDdKWFlTN2RRVFpXT1BFS0tPbmgxYzFrTDBQb19BbFFXWk9fWHd1cU9oSEl0MDg2U3lwaEtpSkY0dnRfaGx1MGotQVA2Y1E2RHpnb0Q3dU41c1NIOFVYWHRuYndUVFFmUkZWZEl3cXBWWXZLRHBIc2dIdjdsbXY2YlNEQWVFSkZfenpiT2o0cUxZX2JTWk1zRy1qZndSWGx6TnhWb2gxQ3k4TjFrcDZLSGRaOU1yTTVjdFFGSGNx?oc=5",
+    "aid": "c04c4b89a2",
+    "titel": "2. Fußball-Bundesliga: Arminia-Keeper Kersken erleidet Gehirnerschütterung",
+    "quelle": "STERN.de",
+    "beschr": " 2. Fußball-Bundesliga: Arminia-Keeper Kersken erleidet Gehirnerschütterung &nbsp;&nbsp; STERN.de ",
+    "zeit": "2026-11-21T17:31"
    }
   ],
   "archiv_status": "neu",
   "prio": 3,
-  "status": "u",
-  "erstmals": "2026-11-21T21:01",
+  "status": "n",
+  "erstmals": "2026-11-22T06:01",
   "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "d33ab5e99f",
+  "schluessel": "st. pauli|verletzung",
+  "person": "",
+  "spieler": [],
+  "klub": "St. Pauli",
+  "klubs": [
+   "St. Pauli"
+  ],
+  "stufe": "rueckkehr",
+  "klasse": "verletzung",
+  "titel": "FC St. Pauli: Smith mit Einser-Leistung – anderer Rückkehrer jetzt festgespielt?",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU0NPdUJMQnM1SlZOYzlXS0RuMjkzWHBMdlZjS0tXUDg0UkFMS01ieWF0QTJuVUNYd2FIbkRqbGpFaFl2cTZxSnVmd2d1ekdoSUhDY2JZZUNCNlpSaTdBWW1OanRnQlpuQU4xN25NXzI4bVZlSjNzc0Z4a1FQTG5mQjVxU2pKVkh6TVVRRnlpQW4yelFsSHVMdDYxT1c0bzNlWTV3aUV0cWRHTzFIRnlRbEstaGw0VjRVNFJncmZER3luNGFxMEl2UHZKVEg3Z3A4LWFQRUx3?oc=5",
+    "aid": "a585ea67d8",
+    "titel": "FC St. Pauli: Smith mit Einser-Leistung – anderer Rückkehrer jetzt festgespielt?",
+    "quelle": "Hamburger Abendblatt",
+    "beschr": " FC St. Pauli: Smith mit Einser-Leistung – anderer Rückkehrer jetzt festgespielt? &nbsp;&nbsp; Hamburger Abendblatt ",
+    "zeit": "2026-11-21T22:26"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-22T06:01",
+  "archiv": [
+   {
+    "id": "c14db73d2c",
+    "titel": "St. Pauli ohne Oppie: Rapp hat mehrere Alternativen",
+    "datum": "09.11.",
+    "stufe": "ausfall",
+    "summary": "St. Paulis Louis Oppie fehlt nach seiner Roten Karte beim 1:4 gegen Magdeburg mindestens zwei Wochen. Trainer Marcel Rapp hat mit Lars Ritzka und dem zurückkehrenden Rony Jansson Alternativen."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "cf4d693e4b",
+  "schluessel": "st. pauli|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "St. Pauli",
+  "klubs": [
+   "St. Pauli"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Schwalbe oder Elfmeter? St. Paulis Smith versteht Schiri-Entscheidung nicht",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcnRtaUl4ZkE3MUxjQzNPdUJCdHdIT0ZVdHBSS1FEVzlKZXhaOEdHZ1lVdUw0cW1Ba095c2RMczFUT2owaURENlVPNEFyLUlZWjc3Z2x0c0JoVEFrMlItUlRibktUTmdiaGtta1VIcy0wbFlzNUwzOGFlU05VQXZGT0puNzhicjJjczBmeEJVaTRsZTFxdkRiNWpibUtrM2RHb1NqVGIyaG81cGJiLWd4MDVQX2IxSVZPTG96TEZnUUplcjl0UFQwLUV2aU5XanNFWGV3?oc=5",
+    "aid": "620e44a803",
+    "titel": "Schwalbe oder Elfmeter? St. Paulis Smith versteht Schiri-Entscheidung nicht",
+    "quelle": "Hamburger Abendblatt",
+    "beschr": " Schwalbe oder Elfmeter? St. Paulis Smith versteht Schiri-Entscheidung nicht &nbsp;&nbsp; Hamburger Abendblatt ",
+    "zeit": "2026-11-21T23:49"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-22T06:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "8bac15360b",
+  "schluessel": "bochum|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Bochum",
+  "klubs": [
+   "Bochum"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "VfL Bochum: Timo Horn spricht Klartext - \"... dann bist du wieder in der Verlosung drin\"",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRG82MGFhOWhWTUc1RDBJNmZhWUxBc0pHVXB5UUl0WmtHSHBXeV94a29hbXdpS2NNYWRfUHlDRDRmVXJid0ZJYTB0RFZmbUd4QWxaREh4dkJyRlJqeWt3bGU4bndfQXlyajd4dk05R0JoenNwWWxtTS1BWVRrUXh5OEw4eTgtSUczNVdUTFBVTEdBT2V4WUJmTURsWXhmWlQzZVVzakxNLWswUzVoMXhWdXd1NlhGMUxUUTVYcTVtdWRfb0dvbk94UU0tQUJkLWln?oc=5",
+    "aid": "859dc4e1a7",
+    "titel": "VfL Bochum: Timo Horn spricht Klartext - \"... dann bist du wieder in der Verlosung drin\"",
+    "quelle": "RevierSport online",
+    "beschr": " VfL Bochum: Timo Horn spricht Klartext - \"... dann bist du wieder in der Verlosung drin\" &nbsp;&nbsp; RevierSport online ",
+    "zeit": "2026-11-22T05:37"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-22T06:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "c4566bfc3b",
+  "schluessel": "bochum|kader",
+  "person": "",
+  "spieler": [],
+  "klub": "Bochum",
+  "klubs": [
+   "Bochum",
+   "St. Pauli"
+  ],
+  "stufe": "kader",
+  "klasse": "kader",
+  "titel": "Mit dieser Startelf beginnt Bochum im Topspiel bei St. Pauli",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNalI3YnhhV3lKQlk2UEplNlJvdDFYOUEzTnpsYTFTNFZaQTgwRmoyM1NiZFpYVjZNTXppOWdyaTU3LThkZldzQmFsQmZTeGxwTGtWNU5BN29wTm1vZFRVdk1DOEJtM1hSQ1dnaEZ4Q0xyMEZhRUxlOW5idUdiWkhISTNYMHNNR1cyZWZGQVV3TWRweGpwdGZlRVNWUTU4T3lmMzFJ?oc=5",
+    "aid": "5fdfcef486",
+    "titel": "Mit dieser Startelf beginnt Bochum im Topspiel bei St. Pauli",
+    "quelle": "StPauli24",
+    "beschr": " Mit dieser Startelf beginnt Bochum im Topspiel bei St. Pauli &nbsp;&nbsp; StPauli24 ",
+    "zeit": "2026-11-21T19:32"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-22T06:01",
+  "archiv": [
+   {
+    "id": "2a54c93071",
+    "titel": "Bochum vor St. Pauli: Drei Rückkehrer nach langer Pause",
+    "datum": "19.11.",
+    "stufe": "kader",
+    "summary": "Bochum tritt am Samstagabend beim FC St. Pauli an. Die zuletzt länger verletzten Cokaj, Mbom und Olsen gaben im Testspiel ihr Comeback, Cokaj soll in den Kader zurückkehren."
+   }
+  ],
   "versuche": 1
  }
 ]
