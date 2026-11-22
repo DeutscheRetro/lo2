@@ -1,271 +1,5 @@
 [
  {
-  "id": "58b40d8e25",
-  "schluessel": "dusseldorf|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Düsseldorf",
-  "klubs": [
-   "Düsseldorf",
-   "Großaspach"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Trotz Öztunalis Traumtor: Düsseldorf gelingt Befreiungsschlag gegen Großaspach",
-  "quellen": [
-   {
-    "url": "https://www.kicker.de/duesseldorf-gegen-grossaspach-2026-liga-5233342/spielbericht#omrss",
-    "aid": "2365cb6115",
-    "titel": "Trotz Öztunalis Traumtor: Düsseldorf gelingt Befreiungsschlag gegen Großaspach",
-    "quelle": "kicker 3. Liga News",
-    "beschr": "Dank 14 furioser Minuten siegte Fortuna Düsseldorf souverän gegen die SG Sonnenhof Großaspach. Da half auch das Traumtor von Debütant Levin Öztunali nichts.",
-    "zeit": "2026-11-21T16:08"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-21T16:51",
-  "archiv": [
-   {
-    "id": "b317ca2504",
-    "titel": "Düsseldorf gegen Großaspach: Zwei Teams suchen den Erfolg",
-    "datum": "18.11.",
-    "stufe": "sonstiges",
-    "summary": "Fortuna Düsseldorf trifft am Samstag auf Großaspach und sucht nach vier Spielen ohne Sieg einen Erfolg. Beide Teams sind formschwach und liegen vier Punkte auseinander."
-   },
-   {
-    "id": "ce458dfa26",
-    "titel": "Fortuna Düsseldorf: Egouli nach Gelb-Rot außer Form",
-    "datum": "11.11.",
-    "stufe": "sonstiges",
-    "summary": "Düsseldorfs Verteidiger Elias Egouli ist seit seinem Platzverweis in Aachen außer Form. Fortuna holte seither sechs Punkte aus sieben Spielen und kassierte elf Gegentore."
-   },
-   {
-    "id": "cb0451fabc",
-    "titel": "Gerezgiher verzichtet auf Länderspielreise und bleibt in Düsseldorf",
-    "datum": "10.11.",
-    "stufe": "sonstiges",
-    "summary": "Düsseldorfs Flügelspieler Filimon Gerezgiher sagt die Länderspielreise mit Eritrea ab und bleibt in Düsseldorf. Anas Slimani ist für das Derby gegen Duisburg fraglich, Jordi Paulina lief mit Krücken."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "787e2f5f0b",
-  "schluessel": "rw essen|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "RW Essen",
-  "klubs": [
-   "RW Essen"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Vierter Sieg in Folge: Essen bleibt bei dezimierten Verlern oben dran",
-  "quellen": [
-   {
-    "url": "https://www.kicker.de/verl-gegen-essen-2026-liga-5233341/spielbericht#omrss",
-    "aid": "84c86bb903",
-    "titel": "Vierter Sieg in Folge: Essen bleibt bei dezimierten Verlern oben dran",
-    "quelle": "kicker 3. Liga News",
-    "beschr": "Rot-Weiss Essen gewinnt hochverdient mit 3:0 beim SC Verl. Die Hausherren zeigten sich defensiv anfällig, offensiv harmlos und schwächten sich durch eine Rote Karte auch noch selbst. RWE belohnt sich derweil für einen dominanten Auftritt und bleibt durch den Sieg oben dran.",
-    "zeit": "2026-11-21T16:02"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-21T16:51",
-  "archiv": [
-   {
-    "id": "9d292ef115",
-    "titel": "RWE zieht mit 4:0 bei Ratingen ins Pokal-Halbfinale ein",
-    "datum": "16.11.",
-    "stufe": "spielbericht",
-    "summary": "Rot-Weiss Essen gewinnt das Viertelfinale im Niederrheinpokal bei Ratingen 04/19 mit 4:0. Trainer Uwe Koschinat lobt die Organisation des Oberligisten auf „Top-Niveau“."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "3daa680cb4",
-  "schluessel": "meppen|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Meppen",
-  "klubs": [
-   "Meppen"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Serien gerissen: Fortuna sendet gegen Meppen ein Lebenszeichen",
-  "quellen": [
-   {
-    "url": "https://www.kicker.de/f-koeln-gegen-meppen-2026-liga-5233350/spielbericht#omrss",
-    "aid": "feb1d73e48",
-    "titel": "Serien gerissen: Fortuna sendet gegen Meppen ein Lebenszeichen",
-    "quelle": "kicker 3. Liga News",
-    "beschr": "Fortuna Köln hat den SV Meppen mit 2:1 knapp bezwungen und damit seine Negativserie gestoppt. Am Ende war es Aigbekaen, der den goldenen Treffer beisteuerte.",
-    "zeit": "2026-11-21T15:50"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-21T16:51",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "19c743ba91",
-  "schluessel": "rostock|verletzung",
-  "person": "",
-  "spieler": [],
-  "klub": "Rostock",
-  "klubs": [
-   "Rostock",
-   "Duisburg"
-  ],
-  "stufe": "verletzung",
-  "klasse": "verletzung",
-  "titel": "\"Das hat mich verletzt\" – Hansa-Kapitän packt vor MSV-Duell aus",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbFFRUFRHZElQQllUVFNfVkh4UDB0Y1VCNHNpeWZtZlBQWkNzU0djeUhSTzZGMEpjVXBrcjR0R0N5M3ZyQUJuMjZyb2pJV3BMNnBTR0NQcUFocTdOeHp0cXVTQkMtTHZaRVNCaFVmR2ZfRkc1WVYzNG5ENGJOcmJBcG9nRXdhZnNhbXRwaWFFaXVPSDhCRG1xTGpsYUpiT2oxUS1vclRXeEJjSWtNa2UzWDI5cFRhd2tZUjBJXw?oc=5",
-    "aid": "7187605f5b",
-    "titel": "\"Das hat mich verletzt\" – Hansa-Kapitän packt vor MSV-Duell aus",
-    "quelle": "RevierSport online",
-    "beschr": " \"Das hat mich verletzt\" – Hansa-Kapitän packt vor MSV-Duell aus &nbsp;&nbsp; RevierSport online ",
-    "zeit": "2026-11-21T11:07"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-21T16:51",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "0090f02aaa",
-  "schluessel": "viktoria koln|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Viktoria Köln",
-  "klubs": [
-   "Viktoria Köln"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "3. Liga: 42 Tore in 14 Spielen - \"Brutale Qualität!\" Trainer verneigt sich vor Viktoria Köln",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWWhXbVo2TlVydGpnajZVczRlYkdIdlNlVEdHcDhUeHB3cHdRZlFrbjFjSlk4MXNxN25oZk1HZlpzTjNmZ2h5S2VDQmF3dEttNmtBdUx0ZWI5WlFqQnhSTEJ4ZzVLdzd5N1BtbWlyWU5WRk9XN1VlS25tbFdQdnpLdFRPTzVwMzhFcVVyZmFxTkdUZFFySVBGRW4ySzdiWG8tM3NfbU9ndmt6T1RKaHpmZGZjT25kV2Rncko5UWp2bUY4YTliLU81bno5Q2drZHJaTmc?oc=5",
-    "aid": "072381f6c0",
-    "titel": "3. Liga: 42 Tore in 14 Spielen - \"Brutale Qualität!\" Trainer verneigt sich vor Viktoria Köln",
-    "quelle": "RevierSport online",
-    "beschr": " 3. Liga: 42 Tore in 14 Spielen - \"Brutale Qualität!\" Trainer verneigt sich vor Viktoria Köln &nbsp;&nbsp; RevierSport online ",
-    "zeit": "2026-11-21T07:07"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-21T16:51",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "c903eb4b33",
-  "schluessel": "rw essen|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "RW Essen",
-  "klubs": [
-   "RW Essen",
-   "Aachen",
-   "Großaspach"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Rot-Weiss Essen: Nicht Aachen oder Großaspach: An diesen Zu-null-Siegen orientiert sich Koschinat",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbGJ1OUx1RXNsV2VBSEtaWldDWkxNc2VScWQxOW5YY3dyTzJIWmRMbjh0VGNqQjBwbjVZQWd2X0VhMzV0VFJGQXJJWkdjQVdlUW03TG92Z1pTMEQ5OGpRTzgtZmdqbE5GdjgxcXpRUWxUSldHdnV3QWJmVXUzdkJZSUlJd0FLOVRNTDU2d1RQQ2RjVVkwdTNfRXZoa2NpVzRuV2ZUbDZWOXFaWnRtWmdDRHRPMjZGODJDeVBacFRWUVJENzNuTlRIdG9FanY5WXVBd2c?oc=5",
-    "aid": "657a223a3f",
-    "titel": "Rot-Weiss Essen: Nicht Aachen oder Großaspach: An diesen Zu-null-Siegen orientiert sich Koschinat",
-    "quelle": "RevierSport online",
-    "beschr": " Rot-Weiss Essen: Nicht Aachen oder Großaspach: An diesen Zu-null-Siegen orientiert sich Koschinat &nbsp;&nbsp; RevierSport online ",
-    "zeit": "2026-11-21T10:13"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-21T16:51",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "2b8b13876a",
-  "schluessel": "duisburg|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Duisburg",
-  "klubs": [
-   "Duisburg"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "MSV Duisburg: 23.000 Fans erwartet, Bulic zeigt Einsicht – so steht es um Joshua Bitter",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2NHVnVrTU1HN3JWdFFKTFBSamNtaWtqQzhCd0dXTEdnRkZXM0RrZzBhMWVfYThpREt2NUpjZTJ5bzFCbmlfTk5oNElSa24yczhSNTVyMWFWOGZDN19jN0cxSFlnWDVOTFlTNDlhS09MbU9WaktVQm1ucDBlVDNlaGlvTTNRcmVyYlRkbGFpZHM5WHZlbkZNLU5ldnZXb0I1Z0Zud2sxLWRLdUpsYThUQWduYmx0aFZ3V2hhTkJyY1pTRGN2aGJiZlhLVFZVS1U?oc=5",
-    "aid": "c734c1b9f1",
-    "titel": "MSV Duisburg: 23.000 Fans erwartet, Bulic zeigt Einsicht – so steht es um Joshua Bitter",
-    "quelle": "RevierSport online",
-    "beschr": " MSV Duisburg: 23.000 Fans erwartet, Bulic zeigt Einsicht – so steht es um Joshua Bitter &nbsp;&nbsp; RevierSport online ",
-    "zeit": "2026-11-21T10:12"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-21T16:51",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "905c40eec2",
-  "schluessel": "rw essen|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "RW Essen",
-  "klubs": [
-   "RW Essen"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "\"Wir haben den Gegner komplett beherrscht\" – Koschinat feiert RWE-Auftritt",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPblN1N3ZGTFV1NDFKdDlSWURYdTRzVGFZanh0U09yTjl4dEVOeXRTaTByUHVZVW41eGtESnVSMHM2dFY0YTRyTW9hUkl1U2hFZTJWRkdsSkMtcUlKbXVRWXpDSUpJLWl6eWIyeDhGaUJ1UDJPTnhjc3JKTjNDMmRhUjFwc05UVDJHVXhDRnVYbzRwcXdRaTZUemNCTEpqek1xQ3ZaQ2kyX2FGYTMyV3YtOFZqQ0VkOHM2Sm94STBlQjF1SXNaWHRpejNITWYtSGtIdU1ncXdn?oc=5",
-    "aid": "b455026c6d",
-    "titel": "\"Wir haben den Gegner komplett beherrscht\" – Koschinat feiert RWE-Auftritt",
-    "quelle": "RevierSport online",
-    "beschr": " \"Wir haben den Gegner komplett beherrscht\" – Koschinat feiert RWE-Auftritt &nbsp;&nbsp; RevierSport online ",
-    "zeit": "2026-11-21T16:36"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "u",
-  "erstmals": "2026-11-21T16:51",
-  "archiv": [],
-  "versuche": 2
- },
- {
   "id": "4d613fa1b1",
   "schluessel": "viktoria koln|sonstiges",
   "person": "",
@@ -300,7 +34,7 @@
     "summary": "Viktoria Köln spielt am Donnerstagabend im Achtelfinale des Mittelrheinpokals beim Siegburger SV in Troisdorf. Im Viertelfinale der Vorsaison hatte sich Köln mit 2:1 durchgesetzt."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "9b8f6736d5",
@@ -338,7 +72,7 @@
     "summary": "Alemannia Aachen empfängt am Samstag den SV Waldhof Mannheim, beide Teams trennt ein Punkt. Aachen verlor zuletzt 0:1 in Essen, Mannheim siegte 2:1 gegen Fortuna Köln."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "75b046ab11",
@@ -368,7 +102,7 @@
   "status": "n",
   "erstmals": "2026-11-21T21:21",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "fb91c90c32",
@@ -420,7 +154,7 @@
     "summary": "Düsseldorfs Flügelspieler Filimon Gerezgiher sagt die Länderspielreise mit Eritrea ab und bleibt in Düsseldorf. Anas Slimani ist für das Derby gegen Duisburg fraglich, Jordi Paulina lief mit Krücken."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "1526f92153",
@@ -464,7 +198,7 @@
     "summary": "Fortuna Düsseldorf verliert gegen den FC Ingolstadt nach 2:0 Führung mit 2:3. Torhüter Louis Lord musste mit einer Rippenverletzung raus."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "d2c813afe5",
@@ -493,7 +227,7 @@
   "status": "n",
   "erstmals": "2026-11-21T21:21",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "ee9697971e",
@@ -522,7 +256,7 @@
   "status": "n",
   "erstmals": "2026-11-21T21:21",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "705d94b531",
@@ -551,7 +285,7 @@
   "status": "u",
   "erstmals": "2026-11-21T21:21",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "c5c9fe70e7",
@@ -580,7 +314,7 @@
   "status": "n",
   "erstmals": "2026-11-21T21:21",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "fa1f82ef33",
@@ -609,7 +343,7 @@
   "status": "u",
   "erstmals": "2026-11-21T21:21",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "b2e5be03b1",
@@ -646,7 +380,7 @@
     "summary": "Münsters Geschäftsführer Ole Kittner spricht bei der Mitgliederversammlung von einem kritischen Moment, schließt den Abstieg aber aus. Der Klub hält an Trainer Thomas Wörle fest."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "708f0a4ebf",
@@ -676,7 +410,7 @@
   "status": "n",
   "erstmals": "2026-11-21T21:21",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "21175b8fe2",
@@ -705,7 +439,7 @@
   "status": "u",
   "erstmals": "2026-11-21T21:21",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "10a401e838",
@@ -735,6 +469,6 @@
   "status": "n",
   "erstmals": "2026-11-21T21:21",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  }
 ]

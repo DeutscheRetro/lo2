@@ -807,5 +807,74 @@
   "gruende": [],
   "alt_titel": null,
   "quelle_gelesen": true
+ },
+ {
+  "zeit": "22.11.2026 01:03",
+  "id": "45eca3fee5",
+  "pfad": "artikel/hermes-trifft-doppelt-regensburg-schlaegt-wuerzburg-2-1-45eca3fee5.html",
+  "urteil": "verbessert",
+  "gruende": [
+   "„Wie berichtet“ gestrichen, weil der Rückblick auf die Meppen-Niederlage nur Vorgeschichte ist und keine frühere Entwicklung einordnet",
+   "Die Floskel „laut Bericht“ im Intro durch eine sachliche Formulierung ersetzt",
+   "Ergänzt, dass Würzburg gegen Hoffenheim II zu Hause verloren hat (steht so in der Quelle)"
+  ],
+  "alt_titel": "Hermes trifft doppelt: Regensburg schlägt Würzburg 2:1",
+  "quelle_gelesen": true
+ },
+ {
+  "zeit": "22.11.2026 01:03",
+  "id": "212305520f",
+  "pfad": "artikel/hoffenheim-ii-ueberrollt-muenster-mit-4-0-212305520f.html",
+  "urteil": "verbessert",
+  "gruende": [
+   "Nicht belegte Wertung „steht weiter unter Druck“ gestrichen, weil die Quelle nicht prüfbar ist",
+   "Floskel „Damit war Münster früh geschlagen“ durch eine sachliche Formulierung ersetzt",
+   "Intro und Satzbau leicht gestrafft, Fakten unverändert",
+   "Hinweis: Bei „Fields“ fehlt der Vorname. Ohne Quelle kann er nicht ergänzt werden"
+  ],
+  "alt_titel": "Hoffenheim II überrollt Münster mit 4:0",
+  "quelle_gelesen": false
+ },
+ {
+  "zeit": "22.11.2026 01:03",
+  "id": "0bbdc5b416",
+  "pfad": "artikel/rwe-siegt-3-0-in-verl-und-springt-auf-rang-zwei-0bbdc5b416.html",
+  "urteil": "verbessert",
+  "gruende": [
+   "Titel: Aus „springt auf Rang zwei“ wird „vorerst auf Rang zwei“. Die Quelle sagt nur „vorerst auf Rang zwei“, eine Verbesserung in der Tabelle nennt sie nicht.",
+   "Gestrichen, weil es in keiner Quelle steht: Sietans Gelbsperre laut Radio Essen, der letzte Essener Sieg in Verl 2013 und das Heimspiel am 28. November gegen Hoffenheim II.",
+   "„köpfte nicht Janssen, sondern Hofmann“ gestrichen. Laut Quelle setzte Hofmann den Ball ins lange Eck, von einem Kopfball steht dort nichts.",
+   "„den enteilten Brumme“ durch die Angaben der Quelle ersetzt: Konter nach einer Verler Ecke, Brumme war auf dem Weg nach vorn.",
+   "Das Koschinat-Zitat zum Etappenziel steht jetzt wörtlich und vollständig nach der Quelle drin und bildet den Schluss. Der Text endet nicht mehr mit Aufstellungsdetails.",
+   "Die Startelf-Wechsel stehen jetzt im Mittelteil, ergänzt um die Verler Wechsel aus Quelle 2. Vollständige Namen beim ersten Nennen (Nick Bätzner, Timo Schlieck)."
+  ],
+  "alt_titel": "RWE siegt 3:0 in Verl und springt auf Rang zwei",
+  "quelle_gelesen": true
+ },
+ {
+  "zeit": "22.11.2026 01:04",
+  "id": "67356ac209",
+  "pfad": "artikel/meppen-verliert-bei-fortuna-koeln-nach-puent-patzer-1-2-67356ac209.html",
+  "urteil": "verbessert",
+  "gruende": [
+   "Torszene zum 1:0 an die Quelle angepasst: Ehlers legte an den Sechzehner auf, von einem Abschluss „aus dem Rückraum“ steht dort nichts",
+   "Mittelteil chronologisch geordnet: Pünts Parade (2.) jetzt vor dem 1:0 (11.)",
+   "Elfmeterszene wie in der Quelle als Glück für Meppen eingeordnet"
+  ],
+  "alt_titel": "Meppen verliert bei Fortuna Köln nach Pünt-Patzer 1:2",
+  "quelle_gelesen": true
+ },
+ {
+  "zeit": "22.11.2026 01:04",
+  "id": "ee9a36d563",
+  "pfad": "artikel/schroers-trifft-doppelt-aachen-schlaegt-mannheim-3-0-ee9a36d563.html",
+  "urteil": "verbessert",
+  "gruende": [
+   "Angabe zum Halbfinaleinzug im badischen Verbandspokal gestrichen, weil sie nicht in der Quelle steht",
+   "Holprigen Satz zum Doppelpack im Intro klarer formuliert und in zwei Sätze aufgeteilt",
+   "Die erneute Auswärtsniederlage aus der Quelle ins Intro übernommen"
+  ],
+  "alt_titel": "Schroers trifft doppelt: Aachen schlägt Mannheim 3:0",
+  "quelle_gelesen": true
  }
 ]

@@ -1604,5 +1604,52 @@
     },
     "published_at": "2026-11-21T21:24:26.420830",
     "source": "Liga 3 News"
+  },
+  {
+    "id": "67356ac209",
+    "generated_title": "Meppen verliert bei Fortuna Köln nach Pünt-Patzer 1:2",
+    "original_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNckVObFZScGMyVlJpVlVlb0dtTlduLVFHX2dOZVZOMW1SaEstRzZsSEI2VXNSc1p5VmtRZ1pWQW9lMkdoMXBkWDBxeWkweVJHVk9jalEtanVxSllrZTNYQVM3ZkZqZ3c5aWNaOVY1bVQ3Q2dNZEM2Y3VvaWNEVkJ5UTBvY3lXUzZ5YkJWeTJUYXdGdDhqc3RqaFd6UElVQlRja3d2aWFVSktnTUxScnpVSXFfb2JFd0t4MFE?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Meppen",
+      "event_stage": "spielbericht",
+      "main_teams": [
+        "Fortuna Köln",
+        "Meppen"
+      ],
+      "main_players": [
+        "Julius Pünt",
+        "Kasra Ghawilu",
+        "Lucas Beniermann"
+      ],
+      "summary": "Der SV Meppen verliert bei Fortuna Köln 1:2 und beendet eine Serie von sechs ungeschlagenen Spielen. Nach Kasra Ghawilus Führung leitet ein Patzer von Torwart Julius Pünt die Wende ein.",
+      "one_sentence_summary": "Der SV Meppen verliert bei Fortuna Köln 1:2 und beendet eine Serie von sechs ungeschlagenen Spielen.",
+      "schluessel": "julius punt|spiel"
+    },
+    "published_at": "2026-11-22T01:02:45.598312",
+    "source": "NDR.de"
+  },
+  {
+    "id": "ee9a36d563",
+    "generated_title": "Schroers trifft doppelt: Aachen schlägt Mannheim 3:0",
+    "original_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbUVNOWoxQkJZM3hzZzlJdEc3bk1oSzJnVVFBZGxUZF8weFg3a00wc0cwWnRzUXltcHBFT2JFT21wZTFfaW5UX01WSTQ5cml0WVY2OWRPMVpjRW5pbjNOUzQ0NkxsZnpwMjIzeG5PRkdNRUlqemF4T1ppd3ZVZWZYclppXzkza3AxSXBLWXlqMV9ubm1YLWFJNHpYLVlTRUMzUG84R2hpeGJmVTNfWUx2WXlR?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Aachen",
+      "event_stage": "spielbericht",
+      "main_teams": [
+        "Aachen",
+        "Mannheim"
+      ],
+      "main_players": [
+        "Mika Schroers",
+        "Ken Izekor"
+      ],
+      "summary": "Alemannia Aachen gewinnt gegen Waldhof Mannheim 3:0, Mika Schroers trifft doppelt, Ken Izekor in der Nachspielzeit. Mannheim fällt auf Platz neun und empfängt am Samstag Stuttgart II.",
+      "one_sentence_summary": "Alemannia Aachen gewinnt gegen Waldhof Mannheim 3:0, Mika Schroers trifft doppelt, Ken Izekor in der Nachspielzeit.",
+      "schluessel": "mika schroers|spiel"
+    },
+    "published_at": "2026-11-22T01:02:45.647753",
+    "source": "n-tv.de"
   }
 ]

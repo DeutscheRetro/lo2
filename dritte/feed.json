@@ -1,7 +1,67 @@
 [
   {
+    "id": "67356ac209",
+    "titel": "Meppen verliert bei Fortuna Köln nach Pünt-Patzer 1:2",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "22.11.2026 01:02",
+    "wappen_url": "logos/meppen.png",
+    "vereine": [
+      "Fortuna Köln",
+      "Meppen"
+    ],
+    "anriss": "Der SV Meppen hat bei Fortuna Köln mit 1:2 verloren und damit nach sechs ungeschlagenen Spielen erstmals wieder eine Niederlage kassiert. Die Emsländer führten im Aufsteiger-Duell durch Kasra Ghawilu, ehe ein Fehler von Torwart Julius Pünt die Wende einleitete. Zunächst bewahrte Pünt seine Mannschaft vor",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Meppen",
+    "pfad": "artikel/meppen-verliert-bei-fortuna-koeln-nach-puent-patzer-1-2-67356ac209.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "ee9a36d563",
+    "titel": "Schroers trifft doppelt: Aachen schlägt Mannheim 3:0",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "22.11.2026 01:02",
+    "wappen_url": "logos/aachen.png",
+    "vereine": [
+      "Aachen",
+      "Mannheim"
+    ],
+    "anriss": "Alemannia Aachen hat in der 3. Liga den SV Waldhof Mannheim mit 3:0 (0:0) besiegt. Mika Schroers traf per Foulelfmeter (50. Minute) und zwei Minuten später erneut (52.). Ken Izekor erhöhte in der Nachspielzeit (90.+3). Für Mannheim ist es eine weitere Auswärtsniederlage. Vor den Sonntagsspielen",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Aachen",
+    "pfad": "artikel/schroers-trifft-doppelt-aachen-schlaegt-mannheim-3-0-ee9a36d563.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    },
+    "n11": false
+  },
+  {
     "id": "0bbdc5b416",
-    "titel": "RWE siegt 3:0 in Verl und springt auf Rang zwei",
+    "titel": "RWE gewinnt 3:0 in Verl und steht vorerst auf Rang zwei",
     "kategorie": "news",
     "badge": "News",
     "badge_bg": "#e8c000",
@@ -12,7 +72,7 @@
       "RW Essen",
       "Verl"
     ],
-    "anriss": "Rot-Weiss Essen hat beim SC Verl 3:0 (1:0) gewonnen und damit den vierten Ligasieg in Folge gefeiert. Die Tore erzielten Marek Janssen, Jannik Hofmann und der zurückgekehrte Jaka Potočnik. Essen steht mit 30 Punkten vorerst auf Rang zwei. Janssen brachte die Gäste in der 23.",
+    "anriss": "Rot-Weiss Essen hat beim SC Verl 3:0 (1:0) gewonnen und den vierten Ligasieg in Folge gefeiert. Die Tore erzielten Marek Janssen, Jannik Hofmann und Rückkehrer Jaka Potočnik. Essen steht mit 30 Punkten vorerst auf Rang zwei. Beide Trainer veränderten ihre Startelf im Vergleich zum letzten",
     "spielerstatus": [],
     "formation": "",
     "hauptklub": "RW Essen",
@@ -42,7 +102,7 @@
       "Regensburg",
       "Würzburg"
     ],
-    "anriss": "Der SSV Jahn Regensburg hat am 14. Spieltag der 3. Liga den FC Würzburger Kickers mit 2:1 geschlagen. Lucas Hermes erzielte beide Treffer der Gastgeber im Jahnstadion. Die Partie am Samstag war laut Bericht ein knapper und glücklicher Heimsieg. Trainer Sascha Hildmann hatte Hermes im",
+    "anriss": "Der SSV Jahn Regensburg hat am 14. Spieltag der 3. Liga den FC Würzburger Kickers mit 2:1 geschlagen. Lucas Hermes erzielte am Samstag im Jahnstadion beide Treffer der Gastgeber. Der Heimsieg fiel knapp und glücklich aus. Trainer Sascha Hildmann hatte Hermes im Angriff neben Marco",
     "spielerstatus": [],
     "formation": "",
     "hauptklub": "Regensburg",
@@ -61,7 +121,7 @@
   },
   {
     "id": "212305520f",
-    "titel": "Hoffenheim II überrollt Münster mit 4:0",
+    "titel": "Hoffenheim II schlägt Münster mit 4:0",
     "kategorie": "news",
     "badge": "News",
     "badge_bg": "#e8c000",
@@ -72,7 +132,7 @@
       "Hoffenheim II",
       "Münster"
     ],
-    "anriss": "Hoffenheim II hat Preußen Münster in der 3. Liga mit 4:0 besiegt. Die Reserve der TSG entschied die Partie im Dietmar-Hopp-Stadion mit drei Toren zwischen der 47. und 53. Minute. Sean Dulic brachte die Gastgeber in der 32. Minute in Führung, mit diesem knappen Vorsprung",
+    "anriss": "Hoffenheim II hat Preußen Münster in der 3. Liga mit 4:0 besiegt. Die Reserve der TSG entschied die Partie im Dietmar-Hopp-Stadion mit drei Toren zwischen der 47. und der 53. Minute. Sean Dulic brachte die Gastgeber in der 32. Minute in Führung. Mit diesem knappen",
     "spielerstatus": [],
     "formation": "",
     "hauptklub": "Hoffenheim II",
