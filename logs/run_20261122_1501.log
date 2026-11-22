@@ -1,0 +1,184 @@
+2026-11-22 15:01:27,591 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 1 passende Treffer
+2026-11-22 15:01:27,591 INFO S7 Ersatzquelle liefert Text (120 Wörter, 1 Quellen): Kimmich nach Rückkehr: Hier am absolut richtigen Ort
+2026-11-22 15:01:27,591 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 0 passende Treffer
+2026-11-22 15:01:27,591 INFO FinalCheck SKIP: borussia mönchengladbach/{'max muster'} stage=geruecht bereits in Archiv
+2026-11-22 15:01:27,591 INFO FinalCheck SKIP: borussia mönchengladbach/set() stage=geruecht bereits in Archiv
+2026-11-22 15:01:38,235 INFO 💶 Budget: dieser Lauf 0.190 $ | heute 0.00 $ | Monat 0.22 / 8 $
+2026-11-22 15:01:38,245 INFO URL-Cache geladen: 13601 bekannte URLs (letzte 30 Tage)
+2026-11-22 15:01:38,245 INFO === LO Generator startet – max. 50 Artikel ===
+2026-11-22 15:01:38,245 INFO Feed: https://newsfeed.kicker.de/news/2-bundesliga
+2026-11-22 15:01:38,426 INFO Feed: https://www.sport.de/rss/news/
+2026-11-22 15:01:38,533 INFO Feed: https://www.11freunde.de/feed
+2026-11-22 15:01:39,043 INFO Feed: https://news.google.com/rss/search?q=%222.+Bundesliga%22&hl=de&gl=DE&ceid=DE:de
+2026-11-22 15:01:39,687 INFO S2 Liveticker übersprungen: Liveticker | 1. FC Kaiserslautern - Dynamo Dresden : | 12. S
+2026-11-22 15:01:39,687 INFO S2 Liveticker übersprungen: Liveticker: K'lautern vs Dynamo Dresden – Anpfiff 2. Halbzei
+2026-11-22 15:01:39,687 INFO S2 Liveticker übersprungen: 2. Bundesliga - 1. FC Kaiserslautern vs. Dynamo Dresden heut
+2026-11-22 15:01:39,687 INFO S2 Liveticker übersprungen: 2. Bundesliga - Karlsruher SC vs. VfL Osnabrück heute live i
+2026-11-22 15:01:39,687 INFO S2 Liveticker übersprungen: Liveticker | Karlsruher SC - VfL Osnabrück : | 12. Spieltag 
+2026-11-22 15:01:39,690 INFO S2 blacklist: Fußball heute: Übertragung der Spiele im Free-TV und Stream
+2026-11-22 15:01:39,691 WARNING Spielerliste nicht verfügbar: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-22 15:01:39,691 INFO BL-Spielerliste geladen: 0 Namen
+2026-11-22 15:01:39,691 INFO S3 keyword miss: Fußball – 2. Bundesliga: Ergebnisse heute live & Tabelle am 
+2026-11-22 15:01:39,692 INFO S2 Liveticker übersprungen: Liveticker: K'lautern vs Dynamo Dresden – Dynamo trifft kurz
+2026-11-22 15:01:39,692 INFO S2 blacklist: Diese Spiele werden heute live im Free-TV oder Stream übertr
+2026-11-22 15:01:39,694 INFO S2 Liveticker übersprungen: 2. Fußball-Bundesliga: Energie Cottbus vs. Hertha: Das Derby
+2026-11-22 15:01:39,694 INFO S2 blacklist: Hertha BSC: So können Fans das Spiel gegen Energie Cottbus j
+2026-11-22 15:01:39,695 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Verletzung+Ausfall+gesperrt&hl=de&gl=DE&ceid=DE:de
+2026-11-22 15:01:40,016 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Transfer+Wechsel+verpflichtet&hl=de&gl=DE&ceid=DE:de
+2026-11-22 15:01:40,291 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Ger%C3%BCcht+Interesse+Angebot&hl=de&gl=DE&ceid=DE:de
+2026-11-22 15:01:40,599 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Vertrag+verl%C3%A4ngert+abl%C3%B6sefrei&hl=de&gl=DE&ceid=DE:de
+2026-11-22 15:01:41,003 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Trainer+Entlassung&hl=de&gl=DE&ceid=DE:de
+2026-11-22 15:01:41,334 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Heidenheim%22+OR+Heidenheim+FCH+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-22 15:01:41,558 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Kaiserslautern%22+OR+%22FCK%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-22 15:01:41,819 INFO S3 keyword miss: FCK-U21 spielt zum Hinrundenabschluss in Ulm
+2026-11-22 15:01:41,819 INFO S2 blacklist: Ein Warn­schuss zur rech­ten Zeit für die U19 des FCK
+2026-11-22 15:01:41,820 INFO S3 keyword miss: Auch im Kel­ler­du­ell nichts zu holen: FCK II schei­tert in
+2026-11-22 15:01:41,821 INFO S2 blacklist: 12. Spieltag: 1.FC Kaiserslautern - SG Dynamo Dresden - SG D
+2026-11-22 15:01:41,822 INFO S3 keyword miss: Erst Schock um Gölz, dann Jubel im Donaustadion: Ulm holt zw
+2026-11-22 15:01:41,822 INFO S2 Liveticker übersprungen: Liveticker: K'lautern vs Dynamo Dresden – Dynamo gewinnt 1. 
+2026-11-22 15:01:41,823 INFO S2 kein BL-Klub im Titel: SSV Ulm feiert Befreiungsschlag vor großer Kulisse im Keller
+2026-11-22 15:01:41,825 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Magdeburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-22 15:01:42,084 INFO S3 keyword miss: FCM spielt und siegt im Stile einer Spitzenmannschaft
+2026-11-22 15:01:42,085 INFO S2 Liveticker übersprungen: Liveticker 1. FC Kaiserslautern - Dynamo Dresden | 12. Spiel
+2026-11-22 15:01:42,086 INFO S3 keyword miss: Nemeths Worte erzielen ihre Wirkung: "Können ruhig mal härte
+2026-11-22 15:01:42,086 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+N%C3%BCrnberg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-22 15:01:42,383 INFO S3 keyword miss: FCN leistet sich Patzer im Aufstiegskampf – doch es gibt ein
+2026-11-22 15:01:42,384 INFO Feed: https://news.google.com/rss/search?q=%22Arminia+Bielefeld%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-22 15:01:42,710 INFO Feed: https://news.google.com/rss/search?q=%22Dynamo+Dresden%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-22 15:01:43,022 INFO S2 blacklist: Spielereignisse | RB Leipzig - Dynamo Dresden 3:0 | 12. Spie
+2026-11-22 15:01:43,022 INFO Feed: https://news.google.com/rss/search?q=%22Eintracht+Braunschweig%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-22 15:01:43,284 INFO S3 keyword miss: U-17-DFB-Nachwuchsliga (Vorrunde) 2026/27, 12. Spieltag
+2026-11-22 15:01:43,284 INFO Feed: https://news.google.com/rss/search?q=%22Energie+Cottbus%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-22 15:01:43,582 INFO S2 Liveticker übersprungen: Liveticker - FC Energie Cottbus : Hertha BSC
+2026-11-22 15:01:43,587 INFO Feed: https://news.google.com/rss/search?q=%22FC+St.+Pauli%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-22 15:01:43,963 INFO S3 keyword miss: Fussball Nationalmannschaft - Die Mannschaft, Bilder, Fußbal
+2026-11-22 15:01:43,964 INFO Feed: https://news.google.com/rss/search?q=%22Hannover+96%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-22 15:01:44,307 INFO S2 blacklist: Spielereignisse | Werder Bremen II - Hannover 96 6:1 | 12. S
+2026-11-22 15:01:44,310 INFO Feed: https://news.google.com/rss/search?q=%22Hertha+BSC%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-22 15:01:44,564 INFO S3 keyword miss: Die zwölf ver­rück­ten Mi­nu­ten des FKP bei der Her­tha [pl
+2026-11-22 15:01:44,565 INFO Feed: https://news.google.com/rss/search?q=%22Holstein+Kiel%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-22 15:01:44,916 INFO S2 blacklist: Holstein Kiel II - U23 triumphiert in Lübeck
+2026-11-22 15:01:44,918 INFO Feed: https://news.google.com/rss/search?q=%22Karlsruher+SC%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-22 15:01:45,200 INFO S2 Liveticker übersprungen: Liveticker - Karlsruher SC : VfL Osnabrück
+2026-11-22 15:01:45,202 INFO S2 Liveticker übersprungen: Karlsruher SC - VfL Osnabrück Liveticker, 22.11.2026
+2026-11-22 15:01:45,202 INFO Feed: https://news.google.com/rss/search?q=%22Greuther+F%C3%BCrth%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-22 15:01:45,468 INFO Feed: https://news.google.com/rss/search?q=%22Darmstadt+98%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-22 15:01:45,916 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Bochum%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-22 15:01:46,247 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Osnabr%C3%BCck%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-22 15:01:46,536 INFO S2 blacklist: Spielereignisse | Wuppertaler SV - VfL Osnabrück 3:1 | 12. S
+2026-11-22 15:01:46,537 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Wolfsburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-22 15:01:46,860 INFO S2 blacklist: Spielinfo | Eimsbütteler TV - VfL Wolfsburg II : | 12. Spiel
+2026-11-22 15:01:46,860 INFO Feed: https://newsfeed.kicker.de/team/1-fc-heidenheim
+2026-11-22 15:01:46,882 INFO Feed: https://newsfeed.kicker.de/team/1-fc-nuernberg
+2026-11-22 15:01:47,007 INFO Feed: https://newsfeed.kicker.de/team/arminia-bielefeld
+2026-11-22 15:01:47,131 INFO Feed: https://newsfeed.kicker.de/team/dynamo-dresden
+2026-11-22 15:01:47,373 INFO Feed: https://newsfeed.kicker.de/team/eintracht-braunschweig
+2026-11-22 15:01:47,494 INFO Feed: https://newsfeed.kicker.de/team/fc-st-pauli
+2026-11-22 15:01:47,518 INFO Feed: https://newsfeed.kicker.de/team/hannover-96
+2026-11-22 15:01:47,638 INFO Feed: https://newsfeed.kicker.de/team/hertha-bsc
+2026-11-22 15:01:47,759 INFO Feed: https://newsfeed.kicker.de/team/holstein-kiel
+2026-11-22 15:01:47,880 INFO Feed: https://newsfeed.kicker.de/team/vfl-bochum
+2026-11-22 15:01:48,008 INFO Feed: https://newsfeed.kicker.de/team/vfl-osnabrueck
+2026-11-22 15:01:48,034 INFO Eingelesen: 51 Schlagzeilen nach den Gratis-Filtern
+2026-11-22 15:01:48,067 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: Franke und Meffert erreichen Meilenstein: Die aktuellen Rekordspieler 
+2026-11-22 15:01:48,068 INFO S5 Sammelartikel: 2. Bundesliga - Energie Cottbus vs. Hertha BSC Berlin heute live im Ti
+2026-11-22 15:01:48,068 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: Stamm lässt rätseln: Greift der Dynamo-Trainer bei Lautern in die Tric
+2026-11-22 15:01:48,068 INFO S5 Fan-Wahl/Nachwuchs: Zukowski erzielt FCM-Tor des Monats Oktober
+2026-11-22 15:01:48,068 INFO S5 schon berichtet (Nürnberg verliert gegen Braunschweig nach Füh): FCN: Darum wütete Kapitän Jan Reichert nach dem 1:2 gegen Br
+2026-11-22 15:01:48,070 INFO S5 Fan-Wahl/Nachwuchs: Spielschema | Werder Bremen - Hannover 96 5:6 | 12. Spieltag | U-17-DF
+2026-11-22 15:01:48,070 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: Wetter Kiel: 3-Tage Übersicht
+2026-11-22 15:01:48,070 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: «In die Scheiße geritten»: Kiel-Torwart gibt sich die Schuld
+2026-11-22 15:01:48,070 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: Neuer Juniorenclub darf die sportlichen Möglichkeiten in Lentföhrden n
+2026-11-22 15:01:48,070 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: Bei den Handballerinnen des SV Henstedt-Ulzburg läuft es rund
+2026-11-22 15:01:48,071 INFO S5: 38 neue Geschichten, 1 schon berichtet, 0 zu wartenden Geschichten ergänzt, 10 warten
+2026-11-22 15:03:23,558 INFO S6 aussortiert (prio_0): LIVE! Cottbus in Unterzahl gegen Hertha - FCK arbeitet am Ausgleich
+2026-11-22 15:03:23,559 INFO S6 aussortiert (prio_0): Karlsruher SC vs. VfL Osnabrück jetzt live: Ergebnis & Tabelle | 22.11
+2026-11-22 15:03:23,559 INFO S6 aussortiert (prio_0): (k+) St. Paulis Leben zwischen Träumen und Realität
+2026-11-22 15:03:23,559 INFO S6 aussortiert (prio_0): 1. FC Kaiserslautern vs. Dynamo Dresden jetzt live: Ergebnis & Tabelle
+2026-11-22 15:03:23,559 INFO S6 aussortiert (doppelt): Energie Cottbus vs. Hertha BSC jetzt live: Ergebnis & Tabelle | 22.11.
+2026-11-22 15:03:23,559 INFO S6 aussortiert (prio_0): 2. Bundesliga: Kein Geburtstagspräsent für Fürths Trainer
+2026-11-22 15:03:23,559 INFO S6 aussortiert (prio_0): So ist das Dynamo-Spiel gegen Kaiserslautern im TV zu sehen
+2026-11-22 15:03:23,559 INFO S6 aussortiert (prio_0): Dynamo in Kaiserslautern live: Schock nach sechs Minuten! Der FCK führ
+2026-11-22 15:03:23,559 INFO S6 aussortiert (prio_0): 1. FC Magdeburg: Bayern-Juwel Chávez zaubert und lässt die Fans vom Au
+2026-11-22 15:03:23,559 INFO S6 aussortiert (doppelt): Erst saß er meist auf der Bank: Jetzt mischt Bayern-Juwel Chavez mit M
+2026-11-22 15:03:23,560 INFO S6 aussortiert (prio_0): Dynamo Dresden: Knaller! Raschl spielt trotz Verletzung
+2026-11-22 15:03:23,560 INFO S6 aussortiert (doppelt): 2. Bundesliga: FC Kaiserslautern gegen Dynamo Dresden ab 13:30 live
+2026-11-22 15:03:23,560 INFO S6 aussortiert (prio_0): Dynamo Dresden informiert über Auswärtsfahrt nach Kaiserslautern
+2026-11-22 15:03:23,560 INFO S6 aussortiert (doppelt): 2. Bundesliga: Energie Cottbus gegen Hertha Berlin ab 13:30 live
+2026-11-22 15:03:23,560 INFO S6 aussortiert (doppelt): Energie Cottbus - Hertha BSC: Energie Cottbus vs. Hertha BSC live: GTA
+2026-11-22 15:03:23,560 INFO S6 aussortiert (prio_0): Fußball: Vor dem Ostduell – Magdeburg schon ein Aufstiegs-Kandidat?
+2026-11-22 15:03:23,560 INFO S6 aussortiert (doppelt): Cottbus gegen Hertha live: Hier läuft das Spiel im TV, Lausitz-Duo mod
+2026-11-22 15:03:23,560 INFO S6 aussortiert (doppelt): Cottbus gegen Hertha live: Spitzenreiter führt, Energie sieht Rot
+2026-11-22 15:03:23,560 INFO S6 aussortiert (doppelt): Cottbus gegen Hertha live: Derby-Vorgeplänkel auf den Rängen, Fans sti
+2026-11-22 15:03:23,560 INFO S6 aussortiert (doppelt): Cottbus gegen Hertha live: Einlass läuft, Polizei mit Pferden im Einsa
+2026-11-22 15:03:23,560 INFO S6 aussortiert (prio_0): Hertha BSC fordert Energie Cottbus am 22. November heraus
+2026-11-22 15:03:23,560 INFO S6 aussortiert (prio_0): St. Paulis neue Hymne schon fix? Millerntor-Publikum zeigt klare Reakt
+2026-11-22 15:03:23,561 INFO S6 aussortiert (prio_0): Niangs erstes St. Pauli-Tor: Was ihn am Millerntor so beflügelt
+2026-11-22 15:03:23,561 INFO S6 aussortiert (prio_0): Angriff auf Fans des VfL Bochum: Ultras stellten Support auf St. Pauli
+2026-11-22 15:03:23,561 INFO S6 aussortiert (prio_0): St. Paulis Erfolg von der Ersatzbank – die Gründe für die Ergebniswend
+2026-11-22 15:03:23,561 INFO S6 aussortiert (doppelt): Sieg hochverdient? Das sagen die Statistiken zum St. Pauli-Erfolg
+2026-11-22 15:03:23,561 INFO S6 aussortiert (doppelt): Cottbus gegen Hertha live: Viele Nickligkeiten, viele Ecken, ein Tor
+2026-11-22 15:03:23,561 INFO S6 aussortiert (doppelt): News, Sport: 2. Bundesliga: Wolfsburg vermiest Kiel Kniat-Debüt
+2026-11-22 15:03:23,561 INFO S6 aussortiert (prio_0): 2. Bundesliga: Karlsruher SC gegen VfL Osnabruck ab 13:30 live
+2026-11-22 15:03:23,561 INFO S6 aussortiert (doppelt): Noch steht es 0 zu 0 zwischen dem KSC und Osnabrück
+2026-11-22 15:03:23,561 INFO S6 aussortiert (doppelt): FC St. Pauli gegen VfL Bochum im Datenvergleich | 12. Spieltag | 2. Bu
+2026-11-22 15:03:23,810 INFO S7 Ersatzquellen für "Wolfsburg will mit Breite an die Spitze - Große So": 0 passende Treffer
+2026-11-22 15:03:23,810 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Wolfsburg will mit Breite an die Spitze - Große Sorgen um Sh
+2026-11-22 15:03:24,373 INFO S7 kein Volltext (too_short_8_words): Eine schwarze Serie, die so alt war wie der Trainer: So moti
+2026-11-22 15:03:24,604 INFO S7 Ersatzquellen für "Eine schwarze Serie, die so alt war wie der Traine": 0 passende Treffer
+2026-11-22 15:03:24,604 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Eine schwarze Serie, die so alt war wie der Trainer: So moti
+2026-11-22 15:03:25,182 INFO S7 kein Volltext (too_short_38_words): Kniats bitterer Einstand bei Holstein Kiel: Was nach der Wol
+2026-11-22 15:03:25,463 INFO S7 Ersatzquellen für "Kniats bitterer Einstand bei Holstein Kiel: Was na": 0 passende Treffer
+2026-11-22 15:03:25,463 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Kniats bitterer Einstand bei Holstein Kiel: Was nach der Wol
+2026-11-22 15:03:27,091 INFO S7 kein Volltext (too_short_5_words): Hannover 96 - Fürth - Heimsieg -
+2026-11-22 15:03:27,380 INFO S7 Ersatzquellen für "Hannover 96 - Fürth - Heimsieg -": 4 passende Treffer
+2026-11-22 15:03:30,110 INFO S7 kein Volltext (seite_zu_alt): 12. Spieltag: Hannover 96 - SpVgg Greuther Fürth - Hannover 
+2026-11-22 15:03:31,009 INFO S7 kein Volltext (low_unique_content_ratio): SpVgg Greuther Fürth: So steht Fürth nach dem 2:1 gegen Hann
+2026-11-22 15:03:31,010 INFO S7 Ersatzquelle liefert Text (732 Wörter, 2 Quellen): Hannover 96 - Fürth - Heimsieg -
+2026-11-22 15:03:32,650 INFO S6.5 schon berichtet (Taibi trifft spät: Hannover 96 dreht Spiel ge): Hannover 96 - Fürth - Heimsieg -
+2026-11-22 15:03:33,199 INFO S7 kein Volltext (too_short_40_words): Hannover 96: Wie Jekyll & Hyde! Wagners Wende-Wahnsinn bei 9
+2026-11-22 15:03:33,416 INFO S7 Ersatzquellen für "Hannover 96: Wie Jekyll & Hyde! Wagners Wende-Wahn": 0 passende Treffer
+2026-11-22 15:03:33,416 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Hannover 96: Wie Jekyll & Hyde! Wagners Wende-Wahnsinn bei 9
+2026-11-22 15:03:33,818 INFO S7 kein Volltext (too_short_8_words): Chefsachen bei Hannover 96: Kind in der Kabine, Ruhr am Rohr
+2026-11-22 15:03:34,061 INFO S7 Ersatzquellen für "Chefsachen bei Hannover 96: Kind in der Kabine, Ru": 0 passende Treffer
+2026-11-22 15:03:34,061 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Chefsachen bei Hannover 96: Kind in der Kabine, Ruhr am Rohr
+2026-11-22 15:03:34,357 INFO S7 kein Volltext (too_short_8_words): Nach 0:3 in Wolsburg: So sieht Mitch Kniat sein Trainer-Debü
+2026-11-22 15:03:34,660 INFO S7 Ersatzquellen für "Nach 0:3 in Wolsburg: So sieht Mitch Kniat sein Tr": 0 passende Treffer
+2026-11-22 15:03:34,660 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Nach 0:3 in Wolsburg: So sieht Mitch Kniat sein Trainer-Debü
+2026-11-22 15:03:34,887 INFO S7 Ersatzquellen für "Comeback nach "schwierigen Wochen": Gindorf rückt ": 0 passende Treffer
+2026-11-22 15:03:34,887 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Comeback nach "schwierigen Wochen": Gindorf rückt bei 96 in 
+2026-11-22 15:03:35,457 INFO S7 kein Volltext (too_short_37_words): Zwei Leistungsträger fehlen: Fürth steht vor schwieriger Auf
+2026-11-22 15:03:35,719 INFO S7 Ersatzquellen für "Zwei Leistungsträger fehlen: Fürth steht vor schwi": 0 passende Treffer
+2026-11-22 15:03:35,719 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Zwei Leistungsträger fehlen: Fürth steht vor schwieriger Auf
+2026-11-22 15:03:35,970 INFO S7 Ersatzquellen für "Energie gegen Hertha: Nach 13 Jahren knistert's wi": 0 passende Treffer
+2026-11-22 15:03:35,970 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Energie gegen Hertha: Nach 13 Jahren knistert's wieder
+2026-11-22 15:03:36,884 INFO S7 kein Volltext (low_unique_content_ratio): VfL Osnabrück: Neue Aufgabe gegen Karlsruher SC am 22.11.202
+2026-11-22 15:03:37,124 INFO S7 Ersatzquellen für "VfL Osnabrück: Neue Aufgabe gegen Karlsruher SC am": 1 passende Treffer
+2026-11-22 15:03:38,046 INFO S7 kein Volltext (low_unique_content_ratio): Karlsruher SC: Neue Aufgabe gegen VfL Osnabrück am 22.11.202
+2026-11-22 15:03:38,046 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): VfL Osnabrück: Neue Aufgabe gegen Karlsruher SC am 22.11.202
+2026-11-22 15:03:38,948 INFO S7 kein Volltext (low_unique_content_ratio): 1.FC Kaiserslautern: Zahlen und Fakten vor dem Spiel gegen S
+2026-11-22 15:03:39,241 INFO S7 Ersatzquellen für "1.FC Kaiserslautern: Zahlen und Fakten vor dem Spi": 0 passende Treffer
+2026-11-22 15:03:39,241 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): 1.FC Kaiserslautern: Zahlen und Fakten vor dem Spiel gegen S
+2026-11-22 15:03:40,005 INFO S7 kein Volltext (likely_paywall): Dynamo in Kaiserslautern live: Personalalarm! Wie viel Mut b
+2026-11-22 15:03:40,212 INFO S7 Ersatzquellen für "Dynamo in Kaiserslautern live: Personalalarm! Wie ": 0 passende Treffer
+2026-11-22 15:03:40,212 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Dynamo in Kaiserslautern live: Personalalarm! Wie viel Mut b
+2026-11-22 15:03:40,670 INFO S7 kein Volltext (too_short_52_words): Einmal Glück, einmal Pech: Welcher Schiri-Pfiff Bochums Rösl
+2026-11-22 15:03:40,916 INFO S7 Ersatzquellen für "Einmal Glück, einmal Pech: Welcher Schiri-Pfiff Bo": 0 passende Treffer
+2026-11-22 15:03:40,916 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Einmal Glück, einmal Pech: Welcher Schiri-Pfiff Bochums Rösl
+2026-11-22 15:03:41,743 INFO S7 kein Volltext (likely_paywall): Dynamo in Kaiserslautern live: Emotionaler Leader! Der FCK m
+2026-11-22 15:03:41,994 INFO S7 Ersatzquellen für "Dynamo in Kaiserslautern live: Emotionaler Leader!": 0 passende Treffer
+2026-11-22 15:03:41,994 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Dynamo in Kaiserslautern live: Emotionaler Leader! Der FCK m
+2026-11-22 15:03:42,384 INFO S7 kein Volltext (too_short_8_words): Dynamo Dresden: Torhüter Lennart Grill kehrt nach Kaiserslau
+2026-11-22 15:03:42,632 INFO S7 Ersatzquellen für "Dynamo Dresden: Torhüter Lennart Grill kehrt nach ": 0 passende Treffer
+2026-11-22 15:03:42,633 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Dynamo Dresden: Torhüter Lennart Grill kehrt nach Kaiserslau
+2026-11-22 15:03:42,989 INFO S7 kein Volltext (too_short_8_words): Nach dem Källman-Schock: Hannover 96 gewinnt das Spiel ohne 
+2026-11-22 15:03:43,338 INFO S7 Ersatzquellen für "Nach dem Källman-Schock: Hannover 96 gewinnt das S": 0 passende Treffer
+2026-11-22 15:03:43,338 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Nach dem Källman-Schock: Hannover 96 gewinnt das Spiel ohne 
+2026-11-22 15:03:43,340 INFO S9.5 FinalCheck: 0/0 durch
+2026-11-22 15:03:43,343 WARNING Sitemap ohne Spielerseiten: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-22 15:03:43,345 INFO 💶 Kosten: dieser Lauf 0.000 $ (Budget 0.190 $) | heute 0.00 $ | Monat 0.22 / 8 $ | konferenz (abo) 1× 0.000 $, dublette (abo) 1× 0.000 $
+2026-11-22 15:03:43,345 INFO 🎫 Abo-Verbrauch: 5,098 Tokens rein (davon Cache gelesen 0), 13,621 raus, API-Gegenwert 0.08 $ | konferenz 1×: 3,995/13,618, dublette 1×: 1,103/3
+2026-11-22 15:03:43,356 INFO Feeds: 38/38 begonnen, nächster Lauf startet bei Nr. 0
+2026-11-22 15:03:43,356 INFO URL-Cache gespeichert: 13690 URLs
+2026-11-22 15:03:43,356 INFO === Fertig. 0 neue Artikel. feed.json: 184 ===
+2026-11-22 15:03:43,356 INFO Stats: {"ts": "20261122_1501", "ingested": 89, "s2_pre_filter": 15, "s3_relevance": 10, "s4_dedup_early": 0, "gesammelt": 51, "geschichten_neu": 38, "s5_archiv_doppelt": 1, "s5_zusammengefuehrt": 0, "s6_aussortiert": 31, "s7_geschrieben": 0, "s7_verworfen": 1, "s5_fulltext_fail": 16, "s8_qa_rejected": 0, "published": 0, "s5_ohne_bezug": 6, "s5_randthema": 3, "kosten": {"lauf_usd": 0.0, "lauf_budget_usd": 0.1896, "heute_usd": 0.0, "monat_usd": 0.2247, "monatsbudget_usd": 8.0, "aufrufe": {"konferenz (abo)": {"anzahl": 1, "usd": 0.0}, "dublette (abo)": {"anzahl": 1, "usd": 0.0}}, "guthaben_leer": false, "abo": true, "abo_tokens": {"konferenz": {"aufrufe": 1, "ein": 3995, "cache_schreiben": 0, "cache_lesen": 0, "aus": 13618, "api_wert_usd": 0.0721}, "dublette": {"aufrufe": 1, "ein": 2, "cache_schreiben": 1101, "cache_lesen": 0, "aus": 3, "api_wert_usd": 0.0044}}}}

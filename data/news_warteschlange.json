@@ -1,43 +1,5 @@
 [
  {
-  "id": "17b95c2db0",
-  "schluessel": "dresden|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Dresden",
-  "klubs": [
-   "Dresden",
-   "Kaiserslautern"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Dynamo Dresden: Torhüter Lennart Grill kehrt nach Kaiserslautern zurück",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbHlYMk9zUUZjVU54amU3eVJIZnplS0pHNnFmOXNoeUJ2YmRPQW1NS2tyOXBTU1U2RE1ORXR3WWhqLVBFSVExOU80bV8yOHlhSDdud05kNklsZWJaN2xuZ1RTaG9hUXpNRzlsSmN6MEFHQ3FrVnZzMHZIMUI2bmlTWEpKRjJNVVlxYmJhcTVqOEI1VW5iMDZhM0ZsLW9KLUtzNDVIa2ZQNE5iSjU4MHdFZXZTa1hzQzhSa1JSVXZBUF9NOFJaLXRnYzdicjY1Z3hWQ1hGOG1qb0hweUFDWXBv0gH7AUFVX3lxTFBOcmdtQmRPczA2b0dWcjdpeVpoQUZtREpQWmZfZlhYeWxYNEdPRjhjeDUyUjF3MDdKN0FucElHNnljdXl2SVJqeTdpdXlxMjVfSklIV2RickpFWTh6UjhfVnp4b0F5MzltdEZUT1JrYmhWcnBxWDVlNXBVakljWlZtVk9uYXpiUlNvSWJ5emdsbGs0SnVvTzNFeGh0RWxrdXhPbU9UMGRkSEg0Sy12SXhOekpqOUJUQlo2VkdUSXhWNm1QV0JRbzJMYXFSd1FXa01TQ2Eta2taM2ZjRHNPaWJ1QV9DUmhvRW9YZWxBYlJ3ZXNiLWI1Q1VNemxj?oc=5",
-    "aid": "0af1b2c245",
-    "titel": "Dynamo Dresden: Torhüter Lennart Grill kehrt nach Kaiserslautern zurück",
-    "quelle": "Sächsische Zeitung",
-    "beschr": " Dynamo Dresden: Torhüter Lennart Grill kehrt nach Kaiserslautern zurück &nbsp;&nbsp; Sächsische Zeitung ",
-    "zeit": "2026-11-22T06:43"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-22T09:01",
-  "archiv": [
-   {
-    "id": "f0aba761aa",
-    "titel": "Dynamo gegen Fürth: Polizei ermittelt nach Pyrotechnik und Belästigung",
-    "datum": "10.11.",
-    "stufe": "sonstiges",
-    "summary": "Nach dem Heimspiel von Dynamo Dresden gegen Fürth ermittelt die Polizei wegen sexueller Belästigung einer 16-Jährigen. Zwei Menschen wurden durch Pyrotechnik verletzt, dazu gibt es Anzeigen."
-   }
-  ],
-  "versuche": 2
- },
- {
   "id": "22eadf7a54",
   "schluessel": "hannover|verletzung",
   "person": "",
@@ -79,7 +41,7 @@
     "summary": "Hannover 96 droht gegen Fürth der Ausfall von Kapitän Stefan Thordarson (Oberschenkel) und Waniss Taibi (Wade). Trainer Sandro Wagner muss umbauen, Maurice Neubauer und Mustapha Bundu kehren in den Kreis der Startelf-Kandidaten zurück."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "956aea47d7",
@@ -130,7 +92,7 @@
     "summary": "Hertha BSC führt die zweite Liga nach dem 2:1 gegen Wolfsburg mit zehn Punkten Vorsprung auf Rang drei an. Trainer Stefan Leitl setzt auf hohes Pressing, einen klaren Plan und eine funktionierende Gruppe."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "269f9c4483",
@@ -168,7 +130,7 @@
     "summary": "Osnabrück tritt am Sonntag um 13:30 Uhr beim punktgleichen Karlsruher SC an und will nach der sechsten Saisonniederlage die Wende schaffen. Karlsruhe stellt mit 24 Gegentoren die schwächste Defensive der 2. Bundesliga."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "eac819e20e",
@@ -198,7 +160,7 @@
   "status": "n",
   "erstmals": "2026-11-22T12:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "e6e199a469",
@@ -227,7 +189,7 @@
   "status": "n",
   "erstmals": "2026-11-22T12:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "a53c725efb",
@@ -264,7 +226,7 @@
     "summary": "Dynamo Dresden muss in Kaiserslautern länger auf Tobias Raschl verzichten. Trainer Thomas Stamm hat mit Lukas Boeder, Friedrich Müller, Nicolai Rapp, Patrice Covic und Aaron Riedel mehrere Optionen."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "71d406eda9",
@@ -293,7 +255,7 @@
   "status": "n",
   "erstmals": "2026-11-22T12:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "1e41479d9a",
@@ -344,7 +306,7 @@
     "summary": "Heidenheim und Hannover 96 trennen sich am 11. Spieltag der 2. Bundesliga 2:2. Der FCH bleibt im sechsten Spiel sieglos und liegt mit 16 Punkten auf Rang sieben, Hannover mit 12 Punkten auf Rang elf."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "52ac640ae4",
@@ -374,6 +336,229 @@
   "status": "n",
   "erstmals": "2026-11-22T12:01",
   "archiv": [],
+  "versuche": 2
+ },
+ {
+  "id": "cd883a3d15",
+  "schluessel": "wolfsburg|verletzung",
+  "person": "",
+  "spieler": [],
+  "klub": "Wolfsburg",
+  "klubs": [
+   "Wolfsburg"
+  ],
+  "stufe": "fraglich",
+  "klasse": "verletzung",
+  "titel": "Wolfsburg will mit Breite an die Spitze - Große Sorgen um Shiogai",
+  "quellen": [
+   {
+    "url": "https://www.kicker.de/wolfsburg-will-mit-breite-an-die-spitze-grosse-sorgen-um-shiogai-1273834/artikel#omrss",
+    "aid": "52aeb9deb8",
+    "titel": "Wolfsburg will mit Breite an die Spitze - Große Sorgen um Shiogai",
+    "quelle": "kicker 2. Bundesliga News",
+    "beschr": "\"Du weißt, dass du nicht vom Gas gehen kannst\": Der Konkurrenzkampf beim VfL Wolfsburg verschärft sich, Trainer Tobias Strobl schaut genau hin. Bitter: Stürmer Kento Shiogai droht eine längere Pause.",
+    "zeit": "2026-11-22T14:56"
+   }
+  ],
+  "archiv_status": "update",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-22T15:01",
+  "archiv": [
+   {
+    "id": "f2ef545c5f",
+    "titel": "Kiel vor Kniat-Debüt: Kaprálik fällt mit Mittelfußbruch aus",
+    "datum": "20.11.",
+    "stufe": "verletzung",
+    "summary": "Kiels Adrián Kaprálik hat sich bei der slowakischen Nationalmannschaft einen Mittelfußbruch zugezogen und fällt voraussichtlich bis zum Jahresende aus. Vor dem Pflichtspieldebüt von Trainer Mitch Kniat in Wolfsburg sind auch Alidou und Schonlau fraglich."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "9b1aee7c72",
+  "schluessel": "frankfurt|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Frankfurt",
+  "klubs": [
+   "Frankfurt",
+   "Braunschweig",
+   "Nürnberg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Eine schwarze Serie, die so alt war wie der Trainer: So motivierte Kornetka das Eintracht-Braunschweig-Team in Nürnberg",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZ3Jfak55VnFJcDhJckZKeXVaQzltQUZ3LVg4dmZ5R1dDWGhZMURQcFpWOEU0dHVrTWdFR2Nwc1d5VUR5cllWN2xBUjliM2hXQm5ZTEtTclpfXzQ4MGlmbTU3UjNDQ25mSlJZOTBIM0FJU29RVEVyUVB0Wi1vc015ZEhUQTEzOTJvSjM2b2c1SlpKNl94RXBFODJTd3lNajV0UVJsMHNDbWRNQkE4dmFIU3BNTXBabGRIVmx3NFA4eGY5eU1zNjJWWWM4cldUdUtuNXh6MVJ4VF96ZDFJb0R2LW1Ia2JkeGxsVWVuTlRITVk0Vi1zM1Z5RlUwWTlSdkw1RUtF0gGfAkFVX3lxTE1rU1FiTlEtbVJiVEdFRUVWMlVWVE1YaDJDMHlLQmwxOEMxS3VidzllME1EZVIyVmhfenc2bERmdThpeDVubkp3RnQyU0poYmNJUFIzbjJud3V2azBoNTQ4NXlfaE45WWx4NUpUeXdRWWJMOWFTWUFCcGwxb1BCSVVxempqcjdXQ0FpQ2dyYVdra005ZnFwRV9tbkp4emhLQTlxOE9EUFBfUHZMN213WDZOQnhGV1l6ZW5BUTZ5N0dvSmNwMkhSeHpZNmwtOFptNEJmYVFaSTRyWHlORUtTRHhLVVNZZGtod0RlejhqX3czYkd1MEt5VGpCM0xNTlNQbHFKcUk2NlRPVEJ6REJQNzdCc1ZkeXhuSUZRdVFSZzFZ?oc=5",
+    "aid": "5ad14dd60a",
+    "titel": "Eine schwarze Serie, die so alt war wie der Trainer: So motivierte Kornetka das Eintracht-Braunschweig-Team in Nürnberg",
+    "quelle": "WAZ-ONLINE.de",
+    "beschr": " Eine schwarze Serie, die so alt war wie der Trainer: So motivierte Kornetka das Eintracht-Braunschweig-Team in Nürnberg &nbsp;&nbsp; WAZ-ONLINE.de ",
+    "zeit": "2026-11-22T14:50"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-22T15:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "5032d94c88",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Hannover 96: Wie Jekyll & Hyde! Wagners Wende-Wahnsinn bei 96",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZlpVdTh6VS0wSDRsdjk3Q3gwUDQ0U1FvMk44WmxUVnpYTU9RUGRsZXZ6cndNWVNNdTJzaVVPM211c0liRWJhNG5BTmdoWDZ4cnhVNzBvLVFtVFdfbGhpZERmSlBURDBrMGhkVjFISkh1YzlFV28wblIwV0FwQkhsZWJaLTQzbHB1dTduQzQwX3o0ak95dnZaSlBhSTVMZWNtRGw4clBPZ21zem9NUGlQbzFiS0xRMlV3?oc=5",
+    "aid": "924729073d",
+    "titel": "Hannover 96: Wie Jekyll & Hyde! Wagners Wende-Wahnsinn bei 96",
+    "quelle": "BILD",
+    "beschr": " Hannover 96: Wie Jekyll & Hyde! Wagners Wende-Wahnsinn bei 96 &nbsp;&nbsp; BILD ",
+    "zeit": "2026-11-22T14:41"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-22T15:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "32d08dba66",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Chefsachen bei Hannover 96: Kind in der Kabine, Ruhr am Rohr, Wagner auf Spur",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRUdXaTdhR3htcHlMYlYxMDVuSGx0a2NKdUUteXd2cDR6WVFGdFlwcTBOWDZzQ1ZLZ3pCVUxnQWpCYjRfd3pGN0poY2lkeE9naG92d3JYVURhQXBWS2dtWG84TXM0ajdzdHBMd3hiNUx2WmM1eHdZb3ZQMVhGS1dYRk1WdzlWN1UydmhaLWR2NGNlMDA1RFhlcUxUUXNfamtDbGotenRmaXRqXzhwUEJhbzl1Rlg2SGVQRzBvb2dLQXVuNno1cXlTdFYtQmFwVk1GeXZvYVA2XzlKaDd0ekE?oc=5",
+    "aid": "676b5cf1cf",
+    "titel": "Chefsachen bei Hannover 96: Kind in der Kabine, Ruhr am Rohr, Wagner auf Spur",
+    "quelle": "Neue Presse",
+    "beschr": " Chefsachen bei Hannover 96: Kind in der Kabine, Ruhr am Rohr, Wagner auf Spur &nbsp;&nbsp; Neue Presse ",
+    "zeit": "2026-11-22T14:35"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-22T15:01",
+  "archiv": [
+   {
+    "id": "98f969f271",
+    "titel": "Hannover 96: Franz Roggow überzeugt als Sechser und lobt Wagners Ansatz",
+    "datum": "13.11.",
+    "stufe": "sonstiges",
+    "summary": "Hannovers Sechser Franz Roggow spielte zuletzt gegen Dresden und in Heidenheim eine wichtige Rolle und lobt Sandro Wagners Ansatz. Nach der Länderspielpause kommt Fürth am 21. November nach Hannover."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "62c7fea1e4",
+  "schluessel": "kiel|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Kiel",
+  "klubs": [
+   "Kiel",
+   "Wolfsburg"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "Kniats bitterer Einstand bei Holstein Kiel: Was nach der Wolfsburg-Pleite Hoffnung gibt",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTWItOXZsTVZwVXNtdlZtX2tOQmd2eVZXeUlRMG93eEdJYkxBRmhhZTdBUGpqbVM5d3Rmb0pvR3pNemVoQ3NsNWoyS2Y3cUJEaWNKY1ZWblVYMkxONDJKRFZQd0VmVm5wbmR1VS13X1N2eGd3YzV6NjZBMmt0MWFtMnctWUJKbExaaVFmS3VUNW91enFVRkdRd3hkcWwzd0tMSmw2X0I1c2llb1lxRDNEQjZHLUhKa2NrbGc?oc=5",
+    "aid": "de1292b571",
+    "titel": "Kniats bitterer Einstand bei Holstein Kiel: Was nach der Wolfsburg-Pleite Hoffnung gibt",
+    "quelle": "shz.de",
+    "beschr": " Kniats bitterer Einstand bei Holstein Kiel: Was nach der Wolfsburg-Pleite Hoffnung gibt &nbsp;&nbsp; shz.de ",
+    "zeit": "2026-11-22T13:08"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-22T15:01",
+  "archiv": [
+   {
+    "id": "291c94de54",
+    "titel": "Kiel gewinnt bei Kniat-Debüt gegen Odense mit 4:0",
+    "datum": "12.11.",
+    "stufe": "spielbericht",
+    "summary": "Holstein Kiel gewinnt das Testspiel gegen Odense BK beim Debüt von Trainer Mitch Kniat mit 4:0. Lasse Rosenboom kehrt nach einem Syndesmoseriss auf den Platz zurück."
+   },
+   {
+    "id": "b7ac7e3a7a",
+    "titel": "Bielefeld dreht spät auf: 2:1 bei Holstein Kiel",
+    "datum": "07.11.",
+    "stufe": "spielbericht",
+    "summary": "Bielefeld gewinnt am 11. Spieltag 2:1 bei Holstein Kiel. Ein Eigentor von Sekine und der Treffer von Young entscheiden die Partie, Grodowski verschießt einen Elfmeter."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "70f4e164d7",
+  "schluessel": "kiel|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Kiel",
+  "klubs": [
+   "Kiel"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "Nach 0:3 in Wolsburg: So sieht Mitch Kniat sein Trainer-Debüt bei Holstein Kiel",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOTk0V3lJOWk3TFQxOUZCZ2dZYmk0UngwSWI4S3M2cG9OVjBLenVSRWFLWlFRcC1BZlZjU1BMeHk4dVNuelFWTG9BNTJQT1pPOVlKcGJ1RFMyMHFGR29mNFVkQ3VpX0lRX3R5Y24tYXR4X1d0NjJNOUJkTllxRnlyWWFNUXBPejdxSkZ1YjZOTnJ1MW1feW5aX0VJbEl3NVctMUF2dWozZV8yLVY2ZkdkYlpwQXVQZGxRU3BjRU9YVWc2ZFVHRFFKYS1mdFlBYUlabC01a2pBNE5ndmR2Ny0ySDVFeGVMd9IBggJBVV95cUxOQ3V2cTc5MXRYVDdrVmtWWDJjQlZabnpqWkF1UmJRTGI3LWRlMHNMVjVVQXc2NFF1ZmxBeTBBNGVfdHhodkYtNGhMdEZfTjl6Qmh2YVpHY0VrMVlkV1F2d3p1b2JWYktKSTdIdE9FUjg4eFMzVV9FcElQU0U5WndCX29fUUIzZVNqUUxZd3R3dkRzanFzUWNGMWV1MzZma0RuMWp5WjNZalgwWkNXaER2MzFSeXJsRXdWb1ZlS3p6Vmc4ZGxOelV3YXNYaWJtSW5TcGs4Q0hRWHFQZnBVUndzUm0wRHozemdVN1BRb1cxTkdRMHhCZE1wdU50ZVdVMUs2blE?oc=5",
+    "aid": "ba922c1774",
+    "titel": "Nach 0:3 in Wolsburg: So sieht Mitch Kniat sein Trainer-Debüt bei Holstein Kiel",
+    "quelle": "Kieler Nachrichten",
+    "beschr": " Nach 0:3 in Wolsburg: So sieht Mitch Kniat sein Trainer-Debüt bei Holstein Kiel &nbsp;&nbsp; Kieler Nachrichten ",
+    "zeit": "2026-11-22T13:59"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-22T15:01",
+  "archiv": [
+   {
+    "id": "291c94de54",
+    "titel": "Kiel gewinnt bei Kniat-Debüt gegen Odense mit 4:0",
+    "datum": "12.11.",
+    "stufe": "spielbericht",
+    "summary": "Holstein Kiel gewinnt das Testspiel gegen Odense BK beim Debüt von Trainer Mitch Kniat mit 4:0. Lasse Rosenboom kehrt nach einem Syndesmoseriss auf den Platz zurück."
+   },
+   {
+    "id": "b7ac7e3a7a",
+    "titel": "Bielefeld dreht spät auf: 2:1 bei Holstein Kiel",
+    "datum": "07.11.",
+    "stufe": "spielbericht",
+    "summary": "Bielefeld gewinnt am 11. Spieltag 2:1 bei Holstein Kiel. Ein Eigentor von Sekine und der Treffer von Young entscheiden die Partie, Grodowski verschießt einen Elfmeter."
+   }
+  ],
   "versuche": 1
  }
 ]
