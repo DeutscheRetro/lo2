@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://3liga.ligaoutsider.de/artikel/stuttgart-ii-schlaegt-ingolstadt-mit-5-0-und-zieht-vorbei-032276b53a.html</loc>
+    <news:news>
+      <news:publication><news:name>Ligaoutsider</news:name><news:language>de</news:language></news:publication>
+      <news:publication_date>2026-11-22T16:52:00+01:00</news:publication_date>
+      <news:title>Stuttgart II schlägt Ingolstadt mit 5:0 und zieht vorbei</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://3liga.ligaoutsider.de/artikel/meppen-verliert-bei-fortuna-koeln-nach-puent-patzer-1-2-67356ac209.html</loc>
     <news:news>
       <news:publication><news:name>Ligaoutsider</news:name><news:language>de</news:language></news:publication>
@@ -21,7 +29,7 @@
     <news:news>
       <news:publication><news:name>Ligaoutsider</news:name><news:language>de</news:language></news:publication>
       <news:publication_date>2026-11-21T21:23:00+01:00</news:publication_date>
-      <news:title>RWE siegt 3:0 in Verl und springt auf Rang zwei</news:title>
+      <news:title>RWE gewinnt 3:0 in Verl und steht vorerst auf Rang zwei</news:title>
     </news:news>
   </url>
   <url>
@@ -37,7 +45,7 @@
     <news:news>
       <news:publication><news:name>Ligaoutsider</news:name><news:language>de</news:language></news:publication>
       <news:publication_date>2026-11-21T16:54:00+01:00</news:publication_date>
-      <news:title>Hoffenheim II überrollt Münster mit 4:0</news:title>
+      <news:title>Hoffenheim II schlägt Münster mit 4:0</news:title>
     </news:news>
   </url>
   <url>
@@ -62,30 +70,6 @@
       <news:publication><news:name>Ligaoutsider</news:name><news:language>de</news:language></news:publication>
       <news:publication_date>2026-11-20T22:41:00+01:00</news:publication_date>
       <news:title>FCS vor Wiesbaden: Rizzuto setzt auf „breite Brust“, Brünker gesperrt</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://3liga.ligaoutsider.de/artikel/hansa-rostock-stuetzt-kompass-modell-und-kritisiert-verbandsinteressen-f8d08b8cb5.html</loc>
-    <news:news>
-      <news:publication><news:name>Ligaoutsider</news:name><news:language>de</news:language></news:publication>
-      <news:publication_date>2026-11-20T02:37:00+01:00</news:publication_date>
-      <news:title>Hansa Rostock stützt Kompass-Modell und kritisiert Verbandsinteressen</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://3liga.ligaoutsider.de/artikel/saarbruecken-will-im-winter-nachlegen-thiele-plant-transfers-ohne-89d0ecaaaa.html</loc>
-    <news:news>
-      <news:publication><news:name>Ligaoutsider</news:name><news:language>de</news:language></news:publication>
-      <news:publication_date>2026-11-20T02:37:00+01:00</news:publication_date>
-      <news:title>Saarbrücken will im Winter nachlegen: Thiele plant Transfers ohne Schnellschuss</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://3liga.ligaoutsider.de/artikel/hansa-rostock-vor-dem-spiel-der-wahrheit-in-duisburg-3a2191f044.html</loc>
-    <news:news>
-      <news:publication><news:name>Ligaoutsider</news:name><news:language>de</news:language></news:publication>
-      <news:publication_date>2026-11-20T02:37:00+01:00</news:publication_date>
-      <news:title>Hansa Rostock vor dem Spiel der Wahrheit in Duisburg</news:title>
     </news:news>
   </url>
 </urlset>

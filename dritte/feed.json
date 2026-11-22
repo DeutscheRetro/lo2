@@ -1,5 +1,35 @@
 [
   {
+    "id": "032276b53a",
+    "titel": "Stuttgart II schlägt Ingolstadt mit 5:0 und zieht vorbei",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "22.11.2026 16:52",
+    "wappen_url": "logos/stuttgart2.png",
+    "vereine": [
+      "Ingolstadt",
+      "Stuttgart II"
+    ],
+    "anriss": "Der VfB Stuttgart II hat in der 3. Liga den FC Ingolstadt mit 5:0 (1:0) besiegt. Mit den Leihgaben Leonidas Stergiou, Dan-Axel Zagadou und Justin Diehl aus dem Bundesligakader gewann das Team von Trainer Nico Willig ungefährdet. Den Führungstreffer erzielte Stürmer Jarzinho Malanga in der",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Stuttgart II",
+    "pfad": "artikel/stuttgart-ii-schlaegt-ingolstadt-mit-5-0-und-zieht-vorbei-032276b53a.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    },
+    "n11": false
+  },
+  {
     "id": "67356ac209",
     "titel": "Meppen verliert bei Fortuna Köln nach Pünt-Patzer 1:2",
     "kategorie": "news",
