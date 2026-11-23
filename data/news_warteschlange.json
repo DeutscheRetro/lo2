@@ -1,242 +1,5 @@
 [
  {
-  "id": "06a6c10fa8",
-  "schluessel": "braunschweig|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Braunschweig",
-  "klubs": [
-   "Braunschweig"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Club-Noten nach Braunschweig: Ein Solokünstler, ein Chancentod und eine kleine Wutrede",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcVFNUU9CLWJwRzd5VU9iMW1DVUZpYTdQeXg4bmJVb2g0VWtOQ0tOVUIwalBZYlo2UnhUYUFkMXlncWhERmVQSm4xVVJkQXB3eFhpTHhYc0hHTVZxTmVpWmF6MUllR1VLS3RmZ0VsNmZlb3ZOOTNQV2lhZ1VLLTVPTXN2N25sZmV4NzJNQ1ExQVh4TUJoTy1jaEVwOUo2SktnWktwc1JXeGRuNUpjbDZaVkNLWXFvTDE0aF9fazh1S2NwNU9wUkxrYVQtWVRYTGg0eEtXcHQySQ?oc=5",
-    "aid": "977b01219c",
-    "titel": "Club-Noten nach Braunschweig: Ein Solokünstler, ein Chancentod und eine kleine Wutrede",
-    "quelle": "NN.de",
-    "beschr": " Club-Noten nach Braunschweig: Ein Solokünstler, ein Chancentod und eine kleine Wutrede &nbsp;&nbsp; NN.de ",
-    "zeit": "2026-11-23T08:06"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-23T09:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "37df6d3e2e",
-  "schluessel": "hertha|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hertha",
-  "klubs": [
-   "Hertha"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Hertha BSC lebt den Traum: „Wenn wir das machen, erreichen wir 100 Punkte“",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeHdTMXE1RlBLVEY0cGZFZV9TZjI5YUFqYW1CdWdDRlh6cFpLYjg5NDB1bTR5X2NWaGJkem96U0hyN0hxTXZQVFBoVk9SQkVTZnEzZjVrSFNMME9oOGNRbFdFTngxWVRza2t0cUtwMGl4bXEtYUhZemFYcXk5c3BmUQ?oc=5",
-    "aid": "3633ce09de",
-    "titel": "Hertha BSC lebt den Traum: „Wenn wir das machen, erreichen wir 100 Punkte“",
-    "quelle": "Berliner Morgenpost",
-    "beschr": " Hertha BSC lebt den Traum: „Wenn wir das machen, erreichen wir 100 Punkte“ &nbsp;&nbsp; Berliner Morgenpost ",
-    "zeit": "2026-11-23T06:00"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-23T09:01",
-  "archiv": [
-   {
-    "id": "5b44f3ec62",
-    "titel": "Wollitz traut Hertha vor Duell in Cottbus den Punkterekord zu",
-    "datum": "16.11.",
-    "stufe": "sonstiges",
-    "summary": "Cottbus-Trainer Claus-Dieter Wollitz traut Spitzenreiter Hertha vor dem Duell am Sonntag einen neuen Zweitliga-Punkterekord zu. Cottbus steht mit elf Punkten auf Relegationsrang 16."
-   },
-   {
-    "id": "2ab310d211",
-    "titel": "Hertha: Adewumi trifft alle 126 Minuten und überzeugt als Leihgabe",
-    "datum": "12.11.",
-    "stufe": "sonstiges",
-    "summary": "Herthas Leihspieler Oluwaseun Adewumi hat in elf Spielen fünf Tore erzielt und trifft im Schnitt alle 126 Minuten. Seine Zukunft ist offen, da Hertha keine Kaufoption besitzt und er bis 2028 bei Burnley unter Vertrag steht."
-   },
-   {
-    "id": "b9598870dd",
-    "titel": "Thorsteinsson über Neustart bei Hertha: „Glauben an die eigene Leistung“",
-    "datum": "10.11.",
-    "stufe": "sonstiges",
-    "summary": "Herthas Jón Dagur Thorsteinsson erzählt, wie ihm die Leihe zu Brann Bergen wieder Selbstvertrauen gab. Sein Doppelpack in Dresden war sein bisher stärkster Abend im Hertha-Trikot."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "759ec57db8",
-  "schluessel": "hertha|transfer",
-  "person": "",
-  "spieler": [],
-  "klub": "Hertha",
-  "klubs": [
-   "Hertha"
-  ],
-  "stufe": "geplatzt",
-  "klasse": "transfer",
-  "titel": "Hertha BSC: Linus Gechter: Coach Leitl erteilt dem BVB eine Absage",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbVN5c1ZKa3pzdkh6LWdyT0l3RUxVQUNhbERmdXpTNTU3YVk0cnlUVnFueU9samFFaTJLRzlCWkplc19aVGRNXy1uRmM1bzIyN0JkRzQ0QU1YSTJkNjZfRHIxdU56b19VT29Wbm4tc3lMWXdWYVF4M2NZM2FUcWF6d0Z5dlRuWkRBMUFLcTNTR3NtbDl5MjRIQUlPak1CbnZCSWx1UWI1V1RXU0h5Nmh6SFhORWxJd1pRZlh6bHJnOWdrMXU5enpfTkRjUDJDalJlVmRDMQ?oc=5",
-    "aid": "6411760a11",
-    "titel": "Hertha BSC: Linus Gechter: Coach Leitl erteilt dem BVB eine Absage",
-    "quelle": "B.Z.Berlin",
-    "beschr": " Hertha BSC: Linus Gechter: Coach Leitl erteilt dem BVB eine Absage &nbsp;&nbsp; B.Z.Berlin ",
-    "zeit": "2026-11-23T07:27"
-   }
-  ],
-  "archiv_status": "update",
-  "prio": 2,
-  "status": "u",
-  "erstmals": "2026-11-23T09:01",
-  "archiv": [
-   {
-    "id": "a8ba66d6fb",
-    "titel": "BVB hat Herthas Abwehrchef Linus Gechter im Visier",
-    "datum": "19.11.",
-    "stufe": "geruecht",
-    "summary": "Borussia Dortmund hat laut kicker Herthas Innenverteidiger Linus Gechter im Blick, dessen Vertrag 2027 endet. Auch die Nürnberger Fynn Otto und Alexios Kalogeropoulos sind ein Thema."
-   },
-   {
-    "id": "8b69f7a5d4",
-    "titel": "Hertha will Leihspieler Adewumi fest verpflichten",
-    "datum": "15.11.",
-    "stufe": "geruecht",
-    "summary": "Hertha BSC will Leihspieler Oluwaseun Adewumi vom FC Burnley fest verpflichten. Eine Kaufoption besteht nicht, auch andere Klubs zeigen Interesse."
-   },
-   {
-    "id": "b8eb277b0c",
-    "titel": "Herthas Soufian Gouram: Vertrag läuft aus, mehrere Klubs interessiert",
-    "datum": "09.11.",
-    "stufe": "geruecht",
-    "summary": "Herthas Soufian Gouram hat einen auslaufenden Vertrag und weckt laut Bild Interesse von Wolfsburg, Hoffenheim, Augsburg sowie Klubs aus Frankreich und England. Ab 1. Januar 2027 könnte er sich mit einem neuen Verein einigen."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "1ba3ee4454",
-  "schluessel": "wolfsburg|kader",
-  "person": "",
-  "spieler": [],
-  "klub": "Wolfsburg",
-  "klubs": [
-   "Wolfsburg",
-   "Braunschweig",
-   "Frankfurt"
-  ],
-  "stufe": "kader",
-  "klasse": "kader",
-  "titel": "VfL Wolfsburg - Fraser Hornby: Startelf-Ansage und Vorfreude auf Eintracht Braunschweig",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTkNfS0MtY2NaMEtGODdDU3lvZk1XLVVrak1SMWpnZDl2bTBQcndxaC04Z3dITnJ4b0JjODVYakV6V2Y0bGxwUWtjSjZFcjgxaFlTekl0cWY3QnA1N0lEcDc4N1RtWkh1UjBVdW5RX0sxTnpyU01mdUh1NjVDR3B3Z2luV2FuMnYyYUtFZG1ZX1cwNUNnOUgzNlpaUVd1TENqQmFDTk5GTmROdm43MG10UkE4Ul9tNld2djYwdjBENlFFOEdFODFXZURtTWxfX01Ldzh3QmI0amVBMmplU2ZwcXRmbmlUak5BeENtZ1dR0gGKAkFVX3lxTE9sdjlwZjJRY1I3VlkyOUhnM1FQQjdrOTZGak5CcmpibmQ5WGlvaWRlREpXRUpJRTU1YzQzOEZxOUpDZmVrTFE3M0RFQlRfWlo0TktyX2w0akJvV0NFRGhrTVA3WlZqcC1CNERSYmo0LU94N3FzeV9VOVlrMUtOZF9maTVldFdYZGR2QlhDLUNpTmlpNHM2bHBSM2t0aVZBVDg1aklIY0Z6ZVk1R1FwdlU1QVY5QzVmbmp5QjNMR0l0ZUVBUlg4RlFVYVBnVTh2VnNDYkpGVGo2UGFSUmtPa2Z0ZVNpdjhKcHVQdmN3anNfZURaS0Uwc3BSUFR1Z2pUeUVnYzBLdEx4b2FR?oc=5",
-    "aid": "1814260399",
-    "titel": "VfL Wolfsburg - Fraser Hornby: Startelf-Ansage und Vorfreude auf Eintracht Braunschweig",
-    "quelle": "WAZ-ONLINE.de",
-    "beschr": " VfL Wolfsburg - Fraser Hornby: Startelf-Ansage und Vorfreude auf Eintracht Braunschweig &nbsp;&nbsp; WAZ-ONLINE.de ",
-    "zeit": "2026-11-23T06:10"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-23T09:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "431f2b30c6",
-  "schluessel": "osnabruck|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Osnabrück",
-  "klubs": [
-   "Osnabrück"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "VfL Osnabrück: Hinten ein starker Torhüter und etwas Glück, vorne zweimal Aluminiumpech",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcUlqVnpRcnZNYkpIVC10Vk9sb3F4RUtuajJJZDRsYjJmUWVPUGJFOTN3eWIzakxReXg0aWM5bHVVS19YaU1hXzg3bGZVV3F3el81U0UydXpiU2dnWldmZEdkRVNRQ2Y0bGZOU1hvcmlvT00tdXNFaXFHcnZsXzB5YlhKR1k2bjNtbDdxdlZMdWJKLUdJbVYyYURsd2N1a0RvczVFOUtBS3M4dmp3bzBpVHl5YjFKQjVuZUs0QURHaw?oc=5",
-    "aid": "d7d4991ecf",
-    "titel": "VfL Osnabrück: Hinten ein starker Torhüter und etwas Glück, vorne zweimal Aluminiumpech",
-    "quelle": "noz.de",
-    "beschr": " VfL Osnabrück: Hinten ein starker Torhüter und etwas Glück, vorne zweimal Aluminiumpech &nbsp;&nbsp; noz.de ",
-    "zeit": "2026-11-23T06:00"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-23T09:01",
-  "archiv": [
-   {
-    "id": "955684ce9f",
-    "titel": "Osnabrück will in Karlsruhe die Trendwende schaffen",
-    "datum": "19.11.",
-    "stufe": "sonstiges",
-    "summary": "Osnabrück tritt am Sonntag um 13:30 Uhr beim punktgleichen Karlsruher SC an und will nach der sechsten Saisonniederlage die Wende schaffen. Karlsruhe stellt mit 24 Gegentoren die schwächste Defensive der 2. Bundesliga."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "bcc9d78156",
-  "schluessel": "wolfsburg|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Wolfsburg",
-  "klubs": [
-   "Wolfsburg",
-   "Bayern"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Popps Kritik gen Wolfsburg: \"Gefühlt eine Liga Unterschied\" zu Bayern",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd195d2ZLalhaWi00TW5wVlRPV3BiVkRKa1lEamRXRW1KcnppOWtfbmVtaEw1NU9mNUxfT3JKZ1Rsc2RpY0J1bUtwN2NrUEtrZDl5SGNjV0lWQlByRXhHSnNaOFpzMTlPS1BLbEw2UVJzYk54RUI4eXJsTG0yRnAwY29wNENGd3VmX2V0SGRmQ1pETzUzQzU1ZEhwckZpOVhNOEhkcHd0aWE?oc=5",
-    "aid": "64f9acbf86",
-    "titel": "Popps Kritik gen Wolfsburg: \"Gefühlt eine Liga Unterschied\" zu Bayern",
-    "quelle": "https://www.kicker.ch/",
-    "beschr": " Popps Kritik gen Wolfsburg: \"Gefühlt eine Liga Unterschied\" zu Bayern &nbsp;&nbsp; https://www.kicker.ch/ ",
-    "zeit": "2026-11-22T18:22"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-23T09:01",
-  "archiv": [
-   {
-    "id": "1868a7668d",
-    "titel": "Damar über Elversberg-Anfrage: „Habe mich für Wolfsburg entschieden“",
-    "datum": "11.11.",
-    "stufe": "sonstiges",
-    "summary": "Wolfsburgs Muhammed Damar hat verraten, dass er eine Anfrage der SV Elversberg abgelehnt hat. Der Mittelfeldspieler kommt für die Wölfe nach 13 Einsätzen auf vier Tore und zwei Vorlagen."
-   }
-  ],
-  "versuche": 2
- },
- {
   "id": "5eac600874",
   "schluessel": "nurnberg|sonstiges",
   "person": "",
@@ -264,7 +27,7 @@
   "status": "n",
   "erstmals": "2026-11-23T12:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "9e64a3c29d",
@@ -293,7 +56,7 @@
   "status": "n",
   "erstmals": "2026-11-23T12:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "87f76a3cf7",
@@ -338,7 +101,7 @@
     "summary": "KSC-Innenverteidiger Christoph Kobald hat in der Länderspielpause seine B-Lizenz als Trainer erworben. Im Interview lobt er die klare Struktur unter dem neuen Trainer Maximilian Senft."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "52349ecbb7",
@@ -376,7 +139,7 @@
     "summary": "Cottbus-Trainer Claus-Dieter Wollitz traut Spitzenreiter Hertha vor dem Duell am Sonntag einen neuen Zweitliga-Punkterekord zu. Cottbus steht mit elf Punkten auf Relegationsrang 16."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "53da2d6208",
@@ -405,7 +168,7 @@
   "status": "n",
   "erstmals": "2026-11-23T12:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "6a47a7fc88",
@@ -450,7 +213,7 @@
     "summary": "St. Paulis Eric Smith und Arkadiusz Pyrka treffen in der Nations League mit Schweden und Polen aufeinander. Pyrka hat gute Chancen auf einen Startelfeinsatz, Smith blieb zuletzt ohne Einsatz."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "4956c3b790",
@@ -501,7 +264,7 @@
     "summary": "Wolfsburgs Muhammed Damar hat verraten, dass er eine Anfrage der SV Elversberg abgelehnt hat. Der Mittelfeldspieler kommt für die Wölfe nach 13 Einsätzen auf vier Tore und zwei Vorlagen."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "3fa50cb5a9",
@@ -530,6 +293,250 @@
   "status": "n",
   "erstmals": "2026-11-23T12:01",
   "archiv": [],
+  "versuche": 2
+ },
+ {
+  "id": "7d273bec38",
+  "schluessel": "st. pauli|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "St. Pauli",
+  "klubs": [
+   "St. Pauli"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "St. Paulis neue Tiefe mit Niang",
+  "quellen": [
+   {
+    "url": "https://www.kicker.de/st-paulis-neue-tiefe-mit-niang-1273811/artikel#omrss",
+    "aid": "d7c99e1191",
+    "titel": "St. Paulis neue Tiefe mit Niang",
+    "quelle": "kicker 2. Bundesliga News",
+    "beschr": "Nach vier sieglosen Partien hat St. Pauli gegen den VfL Bochum einen wichtigen 2:0-Sieg errungen - auch dank gezielter Veränderungen durch Trainer Marcel Rapp.",
+    "zeit": "2026-11-23T14:10"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-23T15:01",
+  "archiv": [
+   {
+    "id": "042071a195",
+    "titel": "Göttlich sieht bei St. Pauli keinen „riesigen Bedarf“ im Winter",
+    "datum": "19.11.",
+    "stufe": "sonstiges",
+    "summary": "St. Pauli-Präsident Oke Göttlich sieht keinen riesigen Bedarf für Winter-Transfers, schließt aber nichts aus. Rony Jansson könnte gegen Bochum nach Muskelverletzung zurückkehren."
+   },
+   {
+    "id": "ceca666738",
+    "titel": "Smith gegen Pyrka: St. Pauli-Profis treffen in der Nations League aufeinander",
+    "datum": "17.11.",
+    "stufe": "sonstiges",
+    "summary": "St. Paulis Eric Smith und Arkadiusz Pyrka treffen in der Nations League mit Schweden und Polen aufeinander. Pyrka hat gute Chancen auf einen Startelfeinsatz, Smith blieb zuletzt ohne Einsatz."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "279ea961f7",
+  "schluessel": "osnabruck|verletzung",
+  "person": "",
+  "spieler": [],
+  "klub": "Osnabrück",
+  "klubs": [
+   "Osnabrück"
+  ],
+  "stufe": "ausfall",
+  "klasse": "verletzung",
+  "titel": "Das Knie: Wagner fehlt Osnabrück \"bis auf Weiteres\"",
+  "quellen": [
+   {
+    "url": "https://www.kicker.de/das-knie-wagner-fehlt-osnabrueck-bis-auf-weiteres-1274237/artikel#omrss",
+    "aid": "e06c73d62a",
+    "titel": "Das Knie: Wagner fehlt Osnabrück \"bis auf Weiteres\"",
+    "quelle": "kicker 2. Bundesliga News",
+    "beschr": "Der VfL Osnabrück hatte im Wildpark gleich zwei Verletzte zu beklagen. Fridolin Wagner und Robin Meißner mussten beim Auswärtsspiel gegen den Karlsruher SC am Sonntag ausgewechselt werden.",
+    "zeit": "2026-11-23T11:54"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-23T15:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "a987c5607d",
+  "schluessel": "dresden|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Dresden",
+  "klubs": [
+   "Dresden"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Dynamo-Dresden-Blog: SGD testet gegen Drittligisten und Spitzenclub",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNREV5YzN2eUtuWWFFSUF4VkRGWVBtVUwtUmRzMDk2Nm00d0JydHBPZXhmdEcyendXYjZvQVJVNXhJTXh0Q3NUbjJ3c0o4OFZUdDAtZnlVdW1ZLTJ4SlpRVFVVekRIR2FmLWNMUXF4U05aREV6N2FOc2VxeW4wd0NEU0JFQ3AxZXN1ZG50Unp3a0l1RWs4NnBPR1RJeHpQcUc1YnpMM3ZOZ0F1Ungya1dKQU1KdUl5VkVwUDNxOTZQdE90X0trSHJaU051ZjNPQ3Fk?oc=5",
+    "aid": "2786630b6b",
+    "titel": "Dynamo-Dresden-Blog: SGD testet gegen Drittligisten und Spitzenclub",
+    "quelle": "TAG24",
+    "beschr": " Dynamo-Dresden-Blog: SGD testet gegen Drittligisten und Spitzenclub &nbsp;&nbsp; TAG24 ",
+    "zeit": "2026-11-23T12:15"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-23T15:01",
+  "archiv": [
+   {
+    "id": "f0aba761aa",
+    "titel": "Dynamo gegen Fürth: Polizei ermittelt nach Pyrotechnik und Belästigung",
+    "datum": "10.11.",
+    "stufe": "sonstiges",
+    "summary": "Nach dem Heimspiel von Dynamo Dresden gegen Fürth ermittelt die Polizei wegen sexueller Belästigung einer 16-Jährigen. Zwei Menschen wurden durch Pyrotechnik verletzt, dazu gibt es Anzeigen."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "f3a458b5e5",
+  "schluessel": "braunschweig|kader",
+  "person": "",
+  "spieler": [],
+  "klub": "Braunschweig",
+  "klubs": [
+   "Braunschweig",
+   "Frankfurt"
+  ],
+  "stufe": "kader",
+  "klasse": "kader",
+  "titel": "Eintracht Braunschweig: Sonderlob für Startelf-Debüt Wagner – er empfiehlt sich für mehr",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbThrNF9tRVpYREJ2b3h3WHNKRkEySzNzZUJaWUxXVHpxT3FhUWZRME5sUHlMY0NGZm1WMzRWTFBUMkx2djdieGp6LUdNNlJKd3lLQWZfcWRnVGYwR3YyRXBTeUtPRUZuVkpJV0MwZ1l4N1JNa2VVOXRaWmFyZW9QQmEwRllFdmJPNUxtWlNMUlh1Ri1NVll2Qjh0MmpWUkc2THpSLUFmckFnUjc3SzlWYTFHQXc0QmhFOHJhNDVZZjl0c1VSQnUzekp4dUxxMWpiYUJJTm0ta1N1aWcxcXdiOGptZ0VtR1hWXzRaNUNrYWZvT1HSAY8CQVVfeXFMT181bjBJdGE2ZVNRVXVmc0hieFNrNDg1VkdZdERqUEJoOEl4di04TVEwRDM5T3U3amtWTjdQV29fX2FWVlo0cTZZbjA4b2VQMmVMZWc5U0VYSHNYZHZsWVdmYlRjWkVSd2VUSWhDeE1TUjZzUjBhc24xNEY1ajNMektsS0JzWHQxNk9lcGYzQ2RsMWZVVDZuX2szSmlxUS1VMXowZDZoaXJXeEE3QVZkUjRhMWFFdU1OWkFOZ1R4SGdfbi1rcGJCcUhCZDFHRk1aaXZQalplTHdOVzZySWtPVEF5V2IzZ0hRMm04ODBmNHpVVFhXajdqUHN0bTFNS0RkNVltb1RTbklJOVBoTnEyWQ?oc=5",
+    "aid": "41ff9d1e88",
+    "titel": "Eintracht Braunschweig: Sonderlob für Startelf-Debüt Wagner – er empfiehlt sich für mehr",
+    "quelle": "WAZ-ONLINE.de",
+    "beschr": " Eintracht Braunschweig: Sonderlob für Startelf-Debüt Wagner – er empfiehlt sich für mehr &nbsp;&nbsp; WAZ-ONLINE.de ",
+    "zeit": "2026-11-23T10:36"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-23T15:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "decef7247f",
+  "schluessel": "osnabruck|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Osnabrück",
+  "klubs": [
+   "Osnabrück",
+   "Karlsruhe"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Gegen Osnabrück gingen einige KSC-Profis gegen Ende wieder auf dem Zahnfleisch",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVU1ONGlRWU5xSXJ5aWpaY3JpMEFaWXhDZmNFUHhSazVFc1Z6YUNUb3djMGR3VnlKZkxwcXppQkRybGZiUmpodkVqdWtSTkdNNkpDNm9zNll2MFlCWTJYdjBVQmNaWVA2WHNOX0hhbWVfV0NmRW1fMHFZUm94UHowZ0FJRTNjTEotV1JObW5RVFJFdUFQ?oc=5",
+    "aid": "3f630fbac8",
+    "titel": "Gegen Osnabrück gingen einige KSC-Profis gegen Ende wieder auf dem Zahnfleisch",
+    "quelle": "Badische Neueste Nachrichten",
+    "beschr": " Gegen Osnabrück gingen einige KSC-Profis gegen Ende wieder auf dem Zahnfleisch &nbsp;&nbsp; Badische Neueste Nachrichten ",
+    "zeit": "2026-11-23T12:48"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-23T15:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "c355b577af",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Hannover 96 ohne Benjamin Källman: Kein Stürmer auf der Bank – außer Sandro Wagner",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNGl4OG9tTUVIVkg3d251ekprWWRtbE5WRWNtNm5iNjNOc3F1OVBDQUx3R1Uzdy01QmM3bTRyejU3NlpQRGVnM3E4N0lvWmNxNG5MS0UxM0MxNEl6eGY1WWp4X0ZLYTFYb2FhWWxVdG5nQWlyQXVlNkV1bDdmcktkSmdRREJDZXd2WTB0VkhBcmFVN3NRMHpINjdnaGw3OHpydVFmM2NPUjBJa19pWUxhLVI2TGtRbmtTR1dfdVh3QVJGYmlhQ2JhcmhsSjN6OXhWeUdmb29fQWkzWkxuRmJYMFlzdjFCckxUMUVJ?oc=5",
+    "aid": "688d28632f",
+    "titel": "Hannover 96 ohne Benjamin Källman: Kein Stürmer auf der Bank – außer Sandro Wagner",
+    "quelle": "Neue Presse",
+    "beschr": " Hannover 96 ohne Benjamin Källman: Kein Stürmer auf der Bank – außer Sandro Wagner &nbsp;&nbsp; Neue Presse ",
+    "zeit": "2026-11-23T14:23"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-23T15:01",
+  "archiv": [
+   {
+    "id": "98f969f271",
+    "titel": "Hannover 96: Franz Roggow überzeugt als Sechser und lobt Wagners Ansatz",
+    "datum": "13.11.",
+    "stufe": "sonstiges",
+    "summary": "Hannovers Sechser Franz Roggow spielte zuletzt gegen Dresden und in Heidenheim eine wichtige Rolle und lobt Sandro Wagners Ansatz. Nach der Länderspielpause kommt Fürth am 21. November nach Hannover."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "e910275408",
+  "schluessel": "osnabruck|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Osnabrück",
+  "klubs": [
+   "Osnabrück"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Osnabrück-Torwart Krumrey: \"Jeder Punkt zählt\"",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbzBwRU5yZm1zRlZqTmNIOWtWT2hIaDVoOHZWRG9jYU94OEx0Mi1VN0gzcGkxTmc3N2gyVjN1ckxlVnBDX0ZmVF9jODFxaFZHNVV3NUpLQVJWQnhROWlOMEs0S1JZM3BfUzRLYkZZMFpsSEk0OF9wZnBMQnJ1MjlJVzZWWmEtRkZMWVVBSEZFWTBEWE1iMmVJUV9abmNPTXB3OU1MdUxn?oc=5",
+    "aid": "edcadf6227",
+    "titel": "Osnabrück-Torwart Krumrey: \"Jeder Punkt zählt\"",
+    "quelle": "sportschau.de",
+    "beschr": " Osnabrück-Torwart Krumrey: \"Jeder Punkt zählt\" &nbsp;&nbsp; sportschau.de ",
+    "zeit": "2026-11-22T16:00"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-23T15:01",
+  "archiv": [
+   {
+    "id": "955684ce9f",
+    "titel": "Osnabrück will in Karlsruhe die Trendwende schaffen",
+    "datum": "19.11.",
+    "stufe": "sonstiges",
+    "summary": "Osnabrück tritt am Sonntag um 13:30 Uhr beim punktgleichen Karlsruher SC an und will nach der sechsten Saisonniederlage die Wende schaffen. Karlsruhe stellt mit 24 Gegentoren die schwächste Defensive der 2. Bundesliga."
+   }
+  ],
   "versuche": 1
  }
 ]

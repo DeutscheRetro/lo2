@@ -1,5 +1,76 @@
 [
   {
+    "id": "f40e44c74a",
+    "titel": "Dresdens Raschl erklärt seine schnelle Rückkehr nach Muskelfaserriss",
+    "kategorie": "verletzung",
+    "badge": "Verletzung",
+    "badge_bg": "#e53935",
+    "badge_fg": "#fff",
+    "datum": "23.11.2026 15:04",
+    "wappen_url": "logos/dresden.png",
+    "vereine": [
+      "Dresden"
+    ],
+    "anriss": "Dynamo Dresdens Mittelfeldspieler Tobias Raschl stand nur sechs Tage nach seiner Hüftverletzung am Sonntag in Kaiserslautern wieder auf dem Platz. Der Verein hatte zuvor eine mehrwöchige Pause angekündigt. Nun erklärt der 26-Jährige, wie die schnelle Rückkehr gelang. „Wir dachten erst, es wäre schlimmer“, sagt Raschl",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Dresden",
+    "pfad": "artikel/dresdens-raschl-erklaert-seine-schnelle-rueckkehr-nach-muskelfaserriss-f40e44c74a.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "d175585d49",
+    "titel": "Osnabrück vor Verpflichtung von Schalkes Finn Porath",
+    "kategorie": "transfer",
+    "badge": "Transfer",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "23.11.2026 15:04",
+    "wappen_url": "logos/osnabrueck.png",
+    "vereine": [
+      "Osnabrück"
+    ],
+    "anriss": "Der VfL Osnabrück steht offenbar kurz vor der Verpflichtung von Finn Porath. Nach Sky-Informationen führt der Zweitligist weit fortgeschrittene Gespräche mit dem 29-jährigen Mittelfeldspieler des FC Schalke 04. Eine vollständige Einigung gibt es noch nicht. Die Verhandlungen sind laut Sky deutlich weiter als bei anderen",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Osnabrück",
+    "pfad": "artikel/osnabrueck-vor-verpflichtung-von-schalkes-finn-porath-d175585d49.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "deal",
+      "frage": "Wäre Porath ein guter Deal für Osnabrück?",
+      "antworten": [
+        "👍 Guter Deal",
+        "👎 Fehler"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "e165d2864b",
+    "titel": "Braunschweig: Kornetka lobt Comeback-Mann Entrup überschwänglich",
+    "kategorie": "interview",
+    "badge": "Interview",
+    "badge_bg": "#1976d2",
+    "badge_fg": "#fff",
+    "datum": "23.11.2026 15:03",
+    "wappen_url": "logos/braunschweig.png",
+    "vereine": [
+      "Braunschweig",
+      "Nürnberg"
+    ],
+    "anriss": "Braunschweigs Stürmer Maximilian Entrup hat beim 2:1-Auswärtssieg beim 1. FC Nürnberg nach mehr als zwei Monaten Pause sein Comeback gefeiert. Trainer Lars Kornetka lobte den Österreicher danach ausdrücklich für dessen Rolle in der Mannschaft. „Er ist einfach ein Supertyp in der Kabine. Auch wie er",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Braunschweig",
+    "pfad": "artikel/braunschweig-kornetka-lobt-comeback-mann-entrup-ueberschwaenglich-e165d2864b.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
     "id": "aa0149e207",
     "titel": "Zivzivadze trifft nach nur einer Einheit: Heidenheims Stürmer Nummer eins",
     "kategorie": "analyse",
