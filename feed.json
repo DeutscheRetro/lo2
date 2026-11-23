@@ -1,5 +1,74 @@
 [
   {
+    "id": "dafc45a4d8",
+    "titel": "Osnabrück: Wagner fällt aus, Meißner könnte gegen Hannover spielen",
+    "kategorie": "verletzung",
+    "badge": "Verletzung",
+    "badge_bg": "#e53935",
+    "badge_fg": "#fff",
+    "datum": "23.11.2026 21:03",
+    "wappen_url": "logos/osnabrueck.png",
+    "vereine": [
+      "Hannover",
+      "Osnabrück"
+    ],
+    "anriss": "Der VfL Osnabrück muss nach dem Auswärtsspiel beim Karlsruher SC auf Mittelfeldspieler Fridolin Wagner verzichten. Angreifer Robin Meißner hat dagegen Hoffnung auf einen Einsatz im nächsten Heimspiel gegen Hannover 96. Beide Profis mussten am Sonntag verletzt ausgewechselt werden. Wagner zog sich in der ersten Halbzeit",
+    "spielerstatus": [
+      {
+        "spieler": "Wagner",
+        "klub": "Osnabrück",
+        "status": "faellt_aus",
+        "grund": "Knieblessur, Ausfalldauer unbekannt"
+      },
+      {
+        "spieler": "Meißner",
+        "klub": "Osnabrück",
+        "status": "fraglich",
+        "grund": "leichte Sprunggelenksverletzung"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Osnabrück",
+    "pfad": "artikel/osnabrueck-wagner-faellt-aus-meissner-koennte-gegen-hannover-spielen-dafc45a4d8.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "reaktion",
+      "frage": "",
+      "antworten": [
+        "💚 Gute Besserung"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "1f007afd7d",
+    "titel": "Hertha hat offenbar Südtirols Simone Davi wieder auf dem Zettel",
+    "kategorie": "transfer",
+    "badge": "Transfer",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "23.11.2026 21:03",
+    "wappen_url": "logos/hertha.png",
+    "vereine": [
+      "Hertha"
+    ],
+    "anriss": "Hertha BSC beschäftigt sich laut dem italienischen Transfer-Journalisten Gianluca Di Marzio erneut mit Linksverteidiger Simone Davi vom FC Südtirol. Der Spieler soll bereits im Sommer ein Thema in Berlin gewesen sein und könnte im Winter wieder in den Fokus rücken. Im Sommer bekamen die Berliner",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Hertha",
+    "pfad": "artikel/hertha-hat-offenbar-suedtirols-simone-davi-wieder-auf-dem-zettel-1f007afd7d.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "deal",
+      "frage": "Wäre Simone Davi ein guter Deal für Hertha?",
+      "antworten": [
+        "👍 Guter Deal",
+        "👎 Fehler"
+      ]
+    },
+    "n11": false
+  },
+  {
     "id": "550ea7b251",
     "titel": "St. Pauli: Vier Profis vor Dresden eine Gelbe Karte von der Sperre",
     "kategorie": "news",

@@ -4382,5 +4382,51 @@
     },
     "published_at": "2026-11-23T18:05:03.435544",
     "source": "BILD"
+  },
+  {
+    "id": "dafc45a4d8",
+    "generated_title": "Osnabrück: Wagner fällt aus, Meißner könnte gegen Hannover spielen",
+    "original_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYW5oMGpUcl9kTXAtYW5LWTVBdEVTZFNXVmZNbUMzbzlyVTNsTlNCRkswd1hPQmR6Y05KVVJ6M3RvZ1NKeHNvWUJRSnl3M0dYM0RzSzNJTUlZYjZRRGRpcmRiTHBUTUZ4ai1TLVhIRV83VGtELUZRWDNNMXdocmNJeGdOYm5kaUUzTlA5U1pKd2lNZw?oc=5",
+    "fingerprint": {
+      "event_type": "verletzung",
+      "main_club": "Osnabrück",
+      "event_stage": "ausfall",
+      "main_teams": [
+        "Hannover",
+        "Osnabrück"
+      ],
+      "main_players": [
+        "Fridolin Wagner",
+        "Robin Meißner"
+      ],
+      "summary": "Osnabrücks Mittelfeldspieler Fridolin Wagner fällt nach einer Knieblessur beim KSC bis auf Weiteres aus. Angreifer Robin Meißner hat eine leichte Sprunggelenksverletzung, ein Einsatz gegen Hannover 96 ist nicht ausgeschlossen.",
+      "one_sentence_summary": "Osnabrücks Mittelfeldspieler Fridolin Wagner fällt nach einer Knieblessur beim KSC bis auf Weiteres aus.",
+      "schluessel": "fridolin wagner|verletzung"
+    },
+    "published_at": "2026-11-23T21:04:11.288260",
+    "source": "FuPa ⚽️"
+  },
+  {
+    "id": "1f007afd7d",
+    "generated_title": "Hertha hat offenbar Südtirols Simone Davi wieder auf dem Zettel",
+    "original_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQckNKYW8yQXVtQ2VuNFVUZjBTaG1iOGt1a3g2TVc0cURtQ2ZFSEVLSWZLRzdCOTVLc0dkaC1sNXRSYkpJOGJwOWNLNXd5RDRlUHdBb1A2OWpFSmhtbkhldC1XRXA3WWZfNUZGalJwc2tHZTZjWHNxbUNkWERCazVDZ2NCQmxPbXQzM3BqUXB3?oc=5",
+    "fingerprint": {
+      "event_type": "transfer",
+      "main_club": "Hertha",
+      "event_stage": "geruecht",
+      "main_teams": [
+        "Hertha"
+      ],
+      "main_players": [
+        "Simone Davi",
+        "Deyovaisio Zeefuik",
+        "Mads Pedersen"
+      ],
+      "summary": "Hertha BSC hat laut Gianluca Di Marzio weiter Linksverteidiger Simone Davi vom FC Südtirol im Blick. Der Vertrag des 27-Jährigen endet im Sommer, ein Vorstoß im Winter ist möglich.",
+      "one_sentence_summary": "Hertha BSC hat laut Gianluca Di Marzio weiter Linksverteidiger Simone Davi vom FC Südtirol im Blick.",
+      "schluessel": "simone davi|transfer"
+    },
+    "published_at": "2026-11-23T21:04:11.352568",
+    "source": "90min.de"
   }
 ]
