@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://2liga.ligaoutsider.de/artikel/zivzivadze-trifft-nach-nur-einer-einheit-heidenheims-stuermer-nummer-aa0149e207.html</loc>
+    <news:news>
+      <news:publication><news:name>Ligaoutsider</news:name><news:language>de</news:language></news:publication>
+      <news:publication_date>2026-11-23T09:03:00+01:00</news:publication_date>
+      <news:title>Zivzivadze trifft nach nur einer Einheit: Heidenheims Stürmer Nummer eins</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://2liga.ligaoutsider.de/artikel/bochum-laesst-roesler-warten-vertragsfrage-wieder-offen-927f72975e.html</loc>
     <news:news>
       <news:publication><news:name>Ligaoutsider</news:name><news:language>de</news:language></news:publication>
@@ -86,14 +94,6 @@
       <news:publication><news:name>Ligaoutsider</news:name><news:language>de</news:language></news:publication>
       <news:publication_date>2026-11-21T15:03:00+01:00</news:publication_date>
       <news:title>Taibi trifft spät: Hannover 96 dreht Spiel gegen Fürth</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://2liga.ligaoutsider.de/artikel/darmstadt-schlaegt-heidenheim-3-1-kehl-trifft-doppelt-papela-zurueck-9fb3196583.html</loc>
-    <news:news>
-      <news:publication><news:name>Ligaoutsider</news:name><news:language>de</news:language></news:publication>
-      <news:publication_date>2026-11-21T09:04:00+01:00</news:publication_date>
-      <news:title>Darmstadt schlägt Heidenheim 3:1: Kehl trifft doppelt, Papela zurück</news:title>
     </news:news>
   </url>
 </urlset>

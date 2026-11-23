@@ -113,3 +113,55 @@
 {"ts": "2026-11-23T06:03:57.936684", "id": "90b0291309", "title": "SGD-Keeper glänzt mehrfach: Dresdens Grill - \"Hätte schlimmer laufen können\"", "stage": "stage7", "reason": "zu_wenig_quelltext"}
 {"ts": "2026-11-23T06:04:01.936498", "id": "05e95f19bc", "title": "Die Pressekonferenz nach dem Lilien-Sieg gegen Heidenheim", "stage": "stage7", "reason": "zu_wenig_quelltext"}
 {"ts": "2026-11-23T06:04:04.828212", "id": "43ed3529a0", "title": "Der BVB zeigt Interesse an Linus Gechter: Hertha-Trainer Stefan Leitl reagiert a", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-23T09:01:33.719993", "id": "ed651b839e", "title": "BVB klopft an: Zweitliga-Profi bestätigt Interesse von Borussia Dortmund", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-23T09:01:34.929625", "id": "3b35ad0ae1", "title": "Lenn­art Grills emo­tio­na­le Rück­kehr, und was Ehr­mann dazu sagt", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-23T09:01:35.544755", "id": "87179c4c09", "title": "Ewiges Bündnis, Polizei-Eklat, Europa-Drama: Die vielen Fan-Freundschaften des F", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-23T09:01:38.012045", "id": "f2648a428e", "title": "Gechter reagiert auf BVB-Interesse", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-23T09:01:38.015039", "id": "d01e4f4567", "title": "BVB heiß auf Zweitliga-Star: Erste Gechter-Entscheidung gefallen", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-23T09:01:38.705713", "id": "1efc7b982b", "title": "Mario Eggimann (Geschäftsführer Sport) - Karlsruher SC - Forum | Seite 232", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-23T09:01:39.291858", "id": "cf7bdc166c", "title": "Schalke: Viele Fans gehen leer aus - S04 kann Stadion in Paderborn alleine fülle", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-23T09:01:39.293560", "id": "72300f108e", "title": "Fußball: SG Langstadt/Babenhausen und SV Münster mit Remis im Topspiel", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-23T09:01:39.666696", "id": "5ba591b192", "title": "Spielschema | SV Meppen - VfL Bochum 1:1 | 13. Spieltag | 2. Frauen-Bundesliga 2", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-23T09:01:39.667443", "id": "b4bbf1a203", "title": "Sechs Punkte mehr als im Vorjahr: Ist die U23 des VfL Bochum auf dem richtigen W", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-23T09:01:39.667861", "id": "f739e6d54d", "title": "Spielereignisse | SV Meppen - VfL Bochum 1:1 | 13. Spieltag | 2. Frauen-Bundesli", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-23T09:01:40.291417", "id": "657f2c1158", "title": "VfL-Frauen melden sich zurück: Wolfsburg siegt ungefährdet in Leipzig", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-23T09:01:42.309451", "id": "b5f4dcfb27", "title": "Highlights Kompakt: Doppelter Blitzstart: St. Pauli schlägt Bochum", "stage": "stage5", "reason": "sammelartikel"}
+{"ts": "2026-11-23T09:01:42.310351", "id": "ae078d4ba6", "title": "Cottbus verliert historisch hoch gegen Hertha - und ein Stück weit seine Identit", "stage": "stage5", "reason": "archiv_doppelt"}
+{"ts": "2026-11-23T09:01:42.310468", "id": "f9d4bc0a1b", "title": "Vier „Kirschen“: Hertha BSC siegt auch in Cottbus", "stage": "stage5", "reason": "archiv_doppelt"}
+{"ts": "2026-11-23T09:01:42.310901", "id": "30e0393e92", "title": "Highlights kompakt: Nächster Sieg - Hertha marschiert weiter", "stage": "stage5", "reason": "sammelartikel"}
+{"ts": "2026-11-23T09:01:42.311476", "id": "dab54da773", "title": "Ankermann macht's vor: Kiels Nachwuchs wird zum Faustpfand", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-23T09:01:42.311638", "id": "3b99a94032", "title": "Verkehrslage aktuell in Kiel: Stau-Warnungen für A7, A20, A21, A210 und A215 am ", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-23T09:01:42.311824", "id": "6a880af33e", "title": "Protest erfolgreich: Kiel und Lübeck verhindern Zwangsverkleinerung ihrer Parlam", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-23T09:01:42.311969", "id": "e9d4ede80d", "title": "Eisbahnen in SH 2026/27: Übersicht zu Preisen, Öffnungszeiten und Standorten", "stage": "stage5", "reason": "kein_bl_bezug"}
+{"ts": "2026-11-23T09:01:42.312184", "id": "2b3f622b6a", "title": "VfL Osnabrück spielt 0:0 gegen Karlsruher SC", "stage": "stage5", "reason": "archiv_doppelt"}
+{"ts": "2026-11-23T09:01:42.313016", "id": "f37f5030a2", "title": "Gänsehaut garantiert: Alle Infos zum weihnachtlichen KSC-Stadionsingen 2026", "stage": "stage5", "reason": "randthema"}
+{"ts": "2026-11-23T09:01:42.313287", "id": "f36d87f5fa", "title": "Kein Geschenk für den Trainer: So bewertet Heiko Vogel das Fürther 1:2 bei Hanno", "stage": "stage5", "reason": "archiv_doppelt"}
+{"ts": "2026-11-23T09:03:16.674815", "id": "5ab761dd7b", "title": "KSC-Fans können planen: Das sind die nächsten Spieltage bis Januar 2027", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-23T09:03:16.675090", "id": "86c17906dc", "title": "Dynamo Dresden verpasst ersten Auswärtsdreier der Saison", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-23T09:03:16.675258", "id": "b88850edb3", "title": "Dynamo-Dresden-Blog: Elias Bethke hält ersten Auswärtssieg der U21 fest", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-23T09:03:16.675410", "id": "d14f12ca2b", "title": "VfL Bochum: Zoller nach Rückkehr zu St. Pauli: \"Uns hat die Gier gefehlt\"", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-23T09:03:16.675559", "id": "20b90a3664", "title": "VfL Osnabrück gegen FC St. Pauli: Statistik & direkter Vergleich", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-23T09:03:16.675717", "id": "c70f9f84b2", "title": "Kurioser Zusammenprall: Schiri rennt Hertha-Star über den Haufen", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-23T09:03:16.675898", "id": "82c12d21f7", "title": "„Linus muss bleiben“: Hertha-Trainer reagiert auf BVB-Gerüchte", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-23T09:03:16.676054", "id": "6a4612903c", "title": "Berlin & Brandenburg: Hochrisikospiel in Cottbus - Polizei begleitet Hertha-Fans", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-23T09:03:16.676202", "id": "a8256893ed", "title": "Ex-Hertha-Star Ascacibar räumt für Maradona-Klub die Titel ab", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-23T09:03:16.676349", "id": "0c7001b69d", "title": "Lizenzierung ohne Makel: KSC trotzt Krisen und bleibt wirtschaftlich auf festem ", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-23T09:03:16.676496", "id": "7cb53d4bdf", "title": "KSC bekommt „neue digitale Heimat“: Website und Fanprofil sollen künftig zusamme", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-23T09:03:16.676646", "id": "8f5951cec6", "title": "Wechsel-Beben beim KSC: Das sind alle Transfers der Saison 2026/2027", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-23T09:03:16.676802", "id": "b50ff47e1d", "title": "KSC-Talente überraschen mit Millionen-Plus: Jungstars sorgen für Marktwert-Boom", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-23T09:03:16.676951", "id": "c031b44504", "title": "In zwei Jahren um die Welt: Kult-Radler Jakob Alberti ist zurück in Karlsruhe", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-23T09:03:16.677085", "id": "20bedf1674", "title": "Torloser Dämpfer für den KSC: Senft hadert nach Osnabrück-Spiel", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-23T09:03:16.677230", "id": "19fde71d1f", "title": "Er strampelte um die Welt: Karlsruhes \"verlorener Sohn\" Jakob Alberti feiert Rüc", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-23T09:03:16.677367", "id": "744685c9d6", "title": "RB Leipzig v VfL Wolfsburg", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-23T09:03:16.677510", "id": "21437e2558", "title": "LIVE! Findet Wolfsburg in Leipzig zurück in die Erfolgsspur?", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-23T09:03:19.444488", "id": "202d7b67b4", "title": "Youssoupha Niang feiert Premieren-Tor für St. Pauli: Platzt jetzt der Knoten?", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-23T09:03:46.574997", "id": "7a87472166", "title": "Sandro Wagner jubelt: Hannover dreht Spiel gegen Fürth", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-23T09:03:59.689298", "id": "a0cd397841", "title": "Rapps Überraschung sticht: Dieser St. Pauli-Profi überzeugt", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-23T09:04:19.878345", "id": "b68493f02c", "title": "Arminia-Trainer Kirch ist \"gefühlsdurcheinander\"", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-23T09:04:27.759737", "id": "20ddfbf1a6", "title": "Top oder Flop: Wie schlagen sich die Neuzugänge beim KSC?", "stage": "S7", "reason": "nicht_relevant"}
+{"ts": "2026-11-23T09:04:35.720892", "id": "d4d9ef9f4b", "title": "Kein Coup: RB Leipzig verliert gegen Wolfsburg", "stage": "S7", "reason": "nicht_relevant"}
+{"ts": "2026-11-23T09:04:36.714121", "id": "fa3de7d079", "title": "Hertha BSC ist auf dem Weg in die Bundesliga – mit oder ohne Linus Gechter?", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-23T09:04:38.749988", "id": "48af9eea79", "title": "Hannover 96: Nanu! Sandro Wagner kritisiert seine Arbeit", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-23T09:04:39.802731", "id": "c7171670cc", "title": "„Eiertor“, Rote Karte, Elfmeter-Frust: Thülen ärgert sich gegen Arminia", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-23T09:04:41.393520", "id": "604ea5821d", "title": "\"Heute wäre mehr drin gewesen.\"", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-23T09:04:41.396550", "id": "7823d1e89d", "title": "Leitl über Gechter: „Linus muss bleiben“", "stage": "s9.5", "reason": "final_pre_publish_duplicate"}
