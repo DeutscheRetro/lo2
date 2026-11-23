@@ -1,5 +1,80 @@
 [
   {
+    "id": "4771e9628f",
+    "titel": "Fortuna in Würzburg: Offene Frage um Arden, Anhari vor Rückkehrern",
+    "kategorie": "aufstellung",
+    "badge": "Aufstellung",
+    "badge_bg": "#2e7d32",
+    "badge_fg": "#fff",
+    "datum": "23.11.2026 20:48",
+    "wappen_url": "logos/duesseldorf.png",
+    "vereine": [
+      "Düsseldorf",
+      "Großaspach",
+      "Würzburg"
+    ],
+    "anriss": "Fortuna Düsseldorf reist nach den Heimsiegen gegen Duisburg und Großaspach zum Auswärtsspiel nach Würzburg. Die größte offene Frage in der Startelf betrifft Elias Arden, für den aktuell kaum Platz zu sein scheint. Der 17-jährige Arden hat sich laut RP Online nichts zuschulden kommen lassen, rutschte",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Düsseldorf",
+    "pfad": "artikel/fortuna-in-wuerzburg-offene-frage-um-arden-anhari-vor-rueckkehrern-4771e9628f.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "9c6d8314ed",
+    "titel": "David Otto führt Torjägerliste an: Viktoria bangt um Kapitän",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "23.11.2026 20:47",
+    "wappen_url": "logos/viktoriakoeln.png",
+    "vereine": [
+      "Fortuna Köln",
+      "Viktoria Köln"
+    ],
+    "anriss": "Viktoria Kölns Kapitän David Otto spielt die Saison seines Lebens. Mit zwölf Toren, 45 Torschüssen und 17 Scorerpunkten führt der Angreifer die Drittliga-Statistik in allen drei Wertungen an. Sein Vertrag läuft nach der Saison aus. Zuletzt zweistellig getroffen hatte der frühere Junioren-Nationalspieler 2017/18 in der",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Viktoria Köln",
+    "pfad": "artikel/david-otto-fuehrt-torjaegerliste-an-viktoria-bangt-um-kapitaen-9c6d8314ed.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "2ea9afced6",
+    "titel": "Hansa verliert in Duisburg nach Gelb-Rot und Pyro-Pause 0:2",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "23.11.2026 20:46",
+    "wappen_url": "logos/rostock.png",
+    "vereine": [
+      "Duisburg",
+      "Rostock"
+    ],
+    "anriss": "Hansa Rostock hat beim MSV Duisburg mit 0:2 (0:0) verloren. Die Mecklenburger spielten nach der Gelb-Roten Karte für Florian Bohnert kurz vor der Pause die komplette zweite Hälfte in Unterzahl. Dominik Kother (68.) und Lex-Tyger Lobinger (90.) trafen für die Gastgeber. Die Partie begann mit",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Rostock",
+    "pfad": "artikel/hansa-verliert-in-duisburg-nach-gelb-rot-und-pyro-pause-0-2-2ea9afced6.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    },
+    "n11": false
+  },
+  {
     "id": "e4bbd8bc68",
     "titel": "Münster vertagt Entscheidung: Wörle bekommt gegen Verl sein Finale",
     "kategorie": "news",
