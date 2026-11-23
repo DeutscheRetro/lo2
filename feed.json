@@ -1,5 +1,58 @@
 [
   {
+    "id": "550ea7b251",
+    "titel": "St. Pauli: Vier Profis vor Dresden eine Gelbe Karte von der Sperre",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "23.11.2026 18:04",
+    "wappen_url": "logos/stpauli.png",
+    "vereine": [
+      "Dresden",
+      "Heidenheim",
+      "St. Pauli"
+    ],
+    "anriss": "Beim FC St. Pauli droht gleich vier Profis eine Sperre. Eric Smith, David Nemeth, Arkadiusz Pyrka und Joel Chima Fujita stehen seit dem vergangenen Spieltag bei jeweils vier Gelben Karten. Die nächste Verwarnung würde für sie eine Sperre von einem Spiel bedeuten. Nach dem 2:0",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "St. Pauli",
+    "pfad": "artikel/st-pauli-vier-profis-vor-dresden-eine-gelbe-karte-von-der-sperre-550ea7b251.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "850c8da753",
+    "titel": "Wollitz kritisiert Cottbus bei Standards: „Sperren, blocken, schubsen“",
+    "kategorie": "analyse",
+    "badge": "Analyse",
+    "badge_bg": "#6a1fbf",
+    "badge_fg": "#fff",
+    "datum": "23.11.2026 18:04",
+    "wappen_url": "logos/cottbus.png",
+    "vereine": [
+      "Cottbus",
+      "Hertha"
+    ],
+    "anriss": "Energie Cottbus ist nach der 0:4-Niederlage gegen Tabellenführer Hertha auf den direkten Abstiegsplatz abgerutscht. Trainer Claus-Dieter Wollitz kritisierte nach dem Spiel vor allem das Verhalten seiner Mannschaft bei Standardsituationen. Diese hatte er schon vor der Partie bemängelt, eine Besserung blieb aus. Auf die Frage, was",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Cottbus",
+    "pfad": "artikel/wollitz-kritisiert-cottbus-bei-standards-sperren-blocken-schubsen-850c8da753.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    },
+    "n11": false
+  },
+  {
     "id": "f40e44c74a",
     "titel": "Dresdens Raschl erklärt seine schnelle Rückkehr nach Muskelfaserriss",
     "kategorie": "verletzung",

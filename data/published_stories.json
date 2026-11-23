@@ -4335,5 +4335,52 @@
     },
     "published_at": "2026-11-23T15:04:53.584910",
     "source": "n-tv.de"
+  },
+  {
+    "id": "550ea7b251",
+    "generated_title": "St. Pauli: Vier Profis vor Dresden eine Gelbe Karte von der Sperre",
+    "original_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWV9Mc1k5TFBNbkgzd2dMaGowdXk5UmpEVUtySkdRMTRiZ2c3Nnp2a3Jral9vSlVxT3hwSXNoZk5kdnVrVVA0NENrSVVOMWlLMW42UVpBak5BUFNIaC14bFAxN3NoTmVENTNYUW1ScV9HUV9pMFdzNFVwN2ZMaHZ4bDVidWdITTZNZDR2SXY1T2lBZ0UyTTZIZi04ZFU3X3FhT0R4Qkc3d2hFTXM?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "St. Pauli",
+      "event_stage": "fraglich",
+      "main_teams": [
+        "Dresden",
+        "Heidenheim",
+        "St. Pauli"
+      ],
+      "main_players": [
+        "Eric Smith",
+        "David Nemeth",
+        "Arkadiusz Pyrka"
+      ],
+      "summary": "Vier Profis des FC St. Pauli stehen bei vier Gelben Karten: Smith, Nemeth, Pyrka und Fujita. Sehen sie in Dresden Gelb, fehlen sie gegen Heidenheim.",
+      "one_sentence_summary": "Vier Profis des FC St.",
+      "schluessel": "eric smith|verletzung"
+    },
+    "published_at": "2026-11-23T18:05:03.384489",
+    "source": "StPauli24"
+  },
+  {
+    "id": "850c8da753",
+    "generated_title": "Wollitz kritisiert Cottbus bei Standards: „Sperren, blocken, schubsen“",
+    "original_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbTh6NTg3dE4yaUo1UEZZemZpRUcxbUtUdmhGZEZROFlqTGtkRTFITjNHaUl0emNxLVZHa2xDWTJtSHdjbVVtcHdjYm52VHZ3SnNPRjFYc2d3M3FWeGluQnlmOTZSU1VPQkZKRDJ1VzYtd3JhX1FUZkhqRlNZdlFzTjNFRWRqTVFsWDhyc3BXMFVKc2NNNHFCLUtuMFYzMWdBbDFCVk1aYzB0QVVUaUo4Q1FwLWF4cmFndk1JSVdYVXZ2U2EzVXkw?oc=5",
+    "fingerprint": {
+      "event_type": "analyse",
+      "main_club": "Cottbus",
+      "event_stage": "spielbericht",
+      "main_teams": [
+        "Cottbus",
+        "Hertha"
+      ],
+      "main_players": [
+        "Claus-Dieter Wollitz"
+      ],
+      "summary": "Nach dem 0:4 gegen Hertha kritisiert Cottbus-Trainer Claus-Dieter Wollitz das Verhalten bei Standardsituationen und die Schiedsrichterentscheidungen. Cottbus steht auf einem direkten Abstiegsplatz und spielt am Sonntag in Magdeburg.",
+      "one_sentence_summary": "Nach dem 0:4 gegen Hertha kritisiert Cottbus-Trainer Claus-Dieter Wollitz das Verhalten bei Standardsituationen und die Schiedsrichterentscheidungen.",
+      "schluessel": "claus-dieter wollitz|spiel"
+    },
+    "published_at": "2026-11-23T18:05:03.435544",
+    "source": "BILD"
   }
 ]
