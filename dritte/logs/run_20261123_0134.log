@@ -1,0 +1,223 @@
+2026-11-23 01:34:25,919 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 1 passende Treffer
+2026-11-23 01:34:25,919 INFO S7 Ersatzquelle liefert Text (120 Wörter, 1 Quellen): Kimmich nach Rückkehr: Hier am absolut richtigen Ort
+2026-11-23 01:34:25,920 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 0 passende Treffer
+2026-11-23 01:34:25,920 INFO FinalCheck SKIP: borussia mönchengladbach/{'max muster'} stage=geruecht bereits in Archiv
+2026-11-23 01:34:25,920 INFO FinalCheck SKIP: borussia mönchengladbach/set() stage=geruecht bereits in Archiv
+2026-11-23 01:34:37,092 INFO 💶 Budget: dieser Lauf 0.000 $ | heute 0.00 $ | Monat 0.00 / 0 $
+2026-11-23 01:34:37,096 INFO URL-Cache geladen: 4711 bekannte URLs (letzte 30 Tage)
+2026-11-23 01:34:37,096 INFO === LO Generator startet – max. 50 Artikel ===
+2026-11-23 01:34:37,096 INFO Feed: https://newsfeed.kicker.de/news/3-liga
+2026-11-23 01:34:37,326 INFO S1 Medienseite ohne Artikeltext: Trainerstreit und Platzverweis: Duisburg gewinnt in Überzahl
+2026-11-23 01:34:37,327 INFO S1 Medienseite ohne Artikeltext: Hirsch über Streit mit Breitenreiter: "Das ist mir völlig eg
+2026-11-23 01:34:37,330 INFO S1 Medienseite ohne Artikeltext: Lucky Punch in der Nachspielzeit: Pick schießt Saarbrücken g
+2026-11-23 01:34:37,330 INFO S1 Medienseite ohne Artikeltext: Zagadou stochert, Sessa schlenzt: VfB II zerlegt Inglostadt 
+2026-11-23 01:34:37,331 INFO S1 Medienseite ohne Artikeltext: Doppelpack in zwei Minuten: Schroers schießt Aachen zum Sieg
+2026-11-23 01:34:37,331 INFO S1 Medienseite ohne Artikeltext: Zwei Traumtore bei Fortuna-Sieg: Hendrix in den Winkel, Öztu
+2026-11-23 01:34:37,331 INFO S1 Medienseite ohne Artikeltext: Jubel-Salto von Hofmann: RWE spaziert in Verl zum Dreier
+2026-11-23 01:34:37,331 INFO S1 Medienseite ohne Artikeltext: Von der Sonne geblendet: Meppen-Keeper schenkt Köln den Sieg
+2026-11-23 01:34:37,331 INFO S1 Medienseite ohne Artikeltext: Torwart-Ausflug endet böse: Regensburg jubelt dank Hermes
+2026-11-23 01:34:37,331 INFO S1 Medienseite ohne Artikeltext: Makanda mit überragendem Solo: Hoffenheim II fertigt Münster
+2026-11-23 01:34:37,331 INFO S1 Medienseite ohne Artikeltext: Sieben-Tore-Spektakel: Viktoria überrollt Havelse
+2026-11-23 01:34:37,331 INFO Feed: https://www.sport.de/rss/news/
+2026-11-23 01:34:37,480 INFO Feed: https://www.11freunde.de/feed
+2026-11-23 01:34:38,748 INFO Feed: https://news.google.com/rss/search?q=%223.+Liga%22&hl=de&gl=DE&ceid=DE:de
+2026-11-23 01:34:39,409 WARNING Spielerliste nicht verfügbar: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-23 01:34:39,409 INFO BL-Spielerliste geladen: 0 Namen
+2026-11-23 01:34:39,409 INFO S3 keyword miss: Nach 0:4-Klatsche: Fans verbrennen eigene Fahne
+2026-11-23 01:34:39,412 INFO S3 keyword miss: Hirsch über Streit mit Breitenreiter: "Das ist mir völlig eg
+2026-11-23 01:34:39,417 INFO S3 keyword miss: Santander - San Sebastian: Tor zum 3:2 durch Canales in der 
+2026-11-23 01:34:39,417 INFO S2 blacklist: Lucky Punch in der Nachspielzeit: Pick schießt Saarbrücken g
+2026-11-23 01:34:39,421 INFO S3 keyword miss: Regionalliga: RWO besteht in Gütersloh - Gunkel stolz, Hesse
+2026-11-23 01:34:39,422 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Verletzung+Ausfall+gesperrt&hl=de&gl=DE&ceid=DE:de
+2026-11-23 01:34:39,766 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Transfer+Wechsel+verpflichtet&hl=de&gl=DE&ceid=DE:de
+2026-11-23 01:34:40,033 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Ger%C3%BCcht+Interesse+Angebot&hl=de&gl=DE&ceid=DE:de
+2026-11-23 01:34:40,301 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Vertrag+verl%C3%A4ngert+abl%C3%B6sefrei&hl=de&gl=DE&ceid=DE:de
+2026-11-23 01:34:40,541 INFO Feed: https://news.google.com/rss/search?q=3.+Liga+Trainer+Entlassung&hl=de&gl=DE&ceid=DE:de
+2026-11-23 01:34:40,876 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Saarbr%C3%BCcken%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-23 01:34:41,265 INFO S3 keyword miss: FCS: Endstände bei FUSSBALL.DE bis 22.11.2026
+2026-11-23 01:34:41,267 INFO S3 keyword miss: Ex-Bundesliga Spieler sorgt für Last-Minute-Sieg
+2026-11-23 01:34:41,269 INFO Feed: https://news.google.com/rss/search?q=%22Alemannia+Aachen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-23 01:34:41,617 INFO Feed: https://news.google.com/rss/search?q=%22FC+Ingolstadt%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-23 01:34:41,967 INFO S3 keyword miss: Heftige Klatsche gegen Stuttgart
+2026-11-23 01:34:41,967 INFO Feed: https://news.google.com/rss/search?q=%22Fortuna+D%C3%BCsseldorf%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-23 01:34:42,220 INFO S2 kein BL-Klub im Titel: Ex-HSV Profi trifft – und verliert doch
+2026-11-23 01:34:42,220 INFO Feed: https://news.google.com/rss/search?q=%22Fortuna+K%C3%B6ln%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-23 01:34:42,482 INFO Feed: https://news.google.com/rss/search?q=%22Hansa+Rostock%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-23 01:34:42,797 INFO S3 keyword miss: 3. Liga: Viel los beim 2:0 - Raketen, Unterbrechung, verscho
+2026-11-23 01:34:42,800 INFO Feed: https://news.google.com/rss/search?q=%22Jahn+Regensburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-23 01:34:43,032 INFO Feed: https://news.google.com/rss/search?q=%22MSV+Duisburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-23 01:34:43,403 INFO S2 Liveticker übersprungen: Liveticker MSV Duisburg - Hansa Rostock 2:0 | 14. Spieltag, 
+2026-11-23 01:34:43,403 INFO Feed: https://news.google.com/rss/search?q=%22Preu%C3%9Fen+M%C3%BCnster%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-23 01:34:43,681 INFO Feed: https://news.google.com/rss/search?q=%22Rot-Weiss+Essen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-23 01:34:43,952 INFO Feed: https://news.google.com/rss/search?q=%22SC+Verl%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-23 01:34:44,184 INFO Feed: https://news.google.com/rss/search?q=%22Sonnenhof+Gro%C3%9Faspach%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-23 01:34:44,457 INFO Feed: https://news.google.com/rss/search?q=%22SV+Meppen%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-23 01:34:44,742 INFO S3 keyword miss: Kurios! Plötzlich fällt der Torwart mit Ball ins Tor
+2026-11-23 01:34:44,742 INFO Feed: https://news.google.com/rss/search?q=%22Waldhof+Mannheim%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-23 01:34:45,050 INFO S3 keyword miss: U-17-DFB-Nachwuchsliga (Vorrunde) 2026/27, 12. Spieltag
+2026-11-23 01:34:45,053 INFO S3 keyword miss: Martin Willig folgte gerne: Dichterlesung in der Pauluskirch
+2026-11-23 01:34:45,055 INFO S3 keyword miss: 3. Liga Tabellenrechner 2026/27: Tabelle selbst berechnen
+2026-11-23 01:34:45,055 INFO Feed: https://news.google.com/rss/search?q=%22Wehen+Wiesbaden%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-23 01:34:45,355 INFO Feed: https://news.google.com/rss/search?q=%22Hoffenheim+II%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-23 01:34:45,610 INFO Feed: https://news.google.com/rss/search?q=%22TSV+Havelse%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-23 01:34:45,859 INFO S3 keyword miss: Köln durch Kantersieg weiter Spitzenreiter
+2026-11-23 01:34:45,859 INFO Feed: https://news.google.com/rss/search?q=%22VfB+Stuttgart+II%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-23 01:34:46,093 INFO Feed: https://news.google.com/rss/search?q=%22Viktoria+K%C3%B6ln%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-23 01:34:46,323 INFO Feed: https://news.google.com/rss/search?q=%22W%C3%BCrzburger+Kickers%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-23 01:34:46,562 INFO Feed: https://newsfeed.kicker.de/team/1-fc-saarbruecken
+2026-11-23 01:34:46,880 INFO Feed: https://newsfeed.kicker.de/team/alemannia-aachen
+2026-11-23 01:34:47,076 INFO Feed: https://newsfeed.kicker.de/team/fc-ingolstadt-04
+2026-11-23 01:34:47,425 INFO Feed: https://newsfeed.kicker.de/team/fortuna-duesseldorf
+2026-11-23 01:34:47,691 INFO Feed: https://newsfeed.kicker.de/team/hansa-rostock
+2026-11-23 01:34:47,996 INFO Feed: https://newsfeed.kicker.de/team/jahn-regensburg
+2026-11-23 01:34:48,311 INFO Feed: https://newsfeed.kicker.de/team/msv-duisburg
+2026-11-23 01:34:48,511 INFO Feed: https://newsfeed.kicker.de/team/preussen-muenster
+2026-11-23 01:34:48,714 INFO Feed: https://newsfeed.kicker.de/team/rot-weiss-essen
+2026-11-23 01:34:49,007 INFO Feed: https://newsfeed.kicker.de/team/sc-verl
+2026-11-23 01:34:49,376 INFO Feed: https://newsfeed.kicker.de/team/waldhof-mannheim
+2026-11-23 01:34:49,578 INFO Feed: https://newsfeed.kicker.de/team/sv-wehen-wiesbaden
+2026-11-23 01:34:49,773 INFO Feed: https://newsfeed.kicker.de/team/tsg-hoffenheim-ii
+2026-11-23 01:34:49,981 INFO Feed: https://newsfeed.kicker.de/team/tsv-havelse
+2026-11-23 01:34:50,268 INFO Feed: https://newsfeed.kicker.de/team/vfb-stuttgart-ii
+2026-11-23 01:34:50,631 INFO Feed: https://newsfeed.kicker.de/team/fc-viktoria-koeln
+2026-11-23 01:34:50,891 INFO Eingelesen: 50 Schlagzeilen nach den Gratis-Filtern
+2026-11-23 01:34:50,915 INFO S5 schon berichtet (Pick trifft in der 90. Minute: Saarbrücken sc): Aufstellung 1. FC Saarbrücken - SV Wehen Wiesbaden 2:1 | 14.
+2026-11-23 01:34:50,916 INFO S5 schon berichtet (Pick trifft in der 90. Minute: Saarbrücken sc): 3. Liga: Saarbrücken siegt im Verfolgerduell
+2026-11-23 01:34:50,917 INFO S5: 41 neue Geschichten, 2 schon berichtet, 0 zu wartenden Geschichten ergänzt, 22 warten
+2026-11-23 01:36:41,175 INFO S6 aussortiert (prio_1): 3. Liga: MagentaSport greift ein! Havelse nach Kabinenrede verspottet
+2026-11-23 01:36:41,175 INFO S6 aussortiert (doppelt): Die Bilder des 14. Spieltags: Viktoria Köln bleibt nach Kantersieg vor
+2026-11-23 01:36:41,175 INFO S6 aussortiert (doppelt): Spielernoten: Duisburg besiegt Hansa Rostock - Benote jetzt die MSV-El
+2026-11-23 01:36:41,175 INFO S6 aussortiert (doppelt): MSV Duisburg - FC Hansa Rostock: Bohnert fliegt – und es geht dahin mi
+2026-11-23 01:36:41,176 INFO S6 aussortiert (doppelt): Schützenfest! Stuttgart überrollt Ingolstadt
+2026-11-23 01:36:41,176 INFO S6 aussortiert (doppelt): 3. Liga - MSV Duisburg 2 - 0 Hasna Rostock
+2026-11-23 01:36:41,176 INFO S6 aussortiert (doppelt): Duisburg festigt seine Position in der Spitzengruppe
+2026-11-23 01:36:41,176 INFO S6 aussortiert (doppelt): Kother bricht den Bann, Braune hält den Kasten sauber: MSV schlägt Ros
+2026-11-23 01:36:41,176 INFO S6 aussortiert (doppelt): MSV Duisburg schließt gegen Hansa Rostock zur Tabellenspitze auf
+2026-11-23 01:36:41,176 INFO S6 aussortiert (doppelt): Hansa Rostock stolpert: Pyro-Chaos, Gelb-Rot und 13 Punkte Rückstand z
+2026-11-23 01:36:41,176 INFO S6 aussortiert (doppelt): Zagadou stochert, Sessa schlenzt: VfB II zerlegt Inglostadt mit 5:0 | 
+2026-11-23 01:36:41,176 INFO S6 aussortiert (doppelt): 3. Liga: Stuttgart II und Saarbrücken siegen wie der MSV Duisburg
+2026-11-23 01:36:41,176 INFO S6 aussortiert (doppelt): „Der Schiedsrichter ist darauf reingefallen“: Hansa verliert erneut
+2026-11-23 01:36:41,176 INFO S6 aussortiert (doppelt): Fußball: 1. FC Saarbrücken gegen SV Wehen Wiesbaden am Sonntag, 22. No
+2026-11-23 01:36:41,176 INFO S6 aussortiert (prio_0): 1. FCS Tischtennis unterliegt Borussia Düsseldorf
+2026-11-23 01:36:41,176 INFO S6 aussortiert (prio_0): Spitzenduell gegen Düsseldorf: So lief das Wiedersehen vom FCS Tischte
+2026-11-23 01:36:41,176 INFO S6 aussortiert (doppelt): SVWW verliert durch spätes Eigentor-Pech
+2026-11-23 01:36:41,176 INFO S6 aussortiert (prio_0): Schöllkrippener Phi­l­ipp Sch­rei­ber trifft doppelt für Mainz gegen F
+2026-11-23 01:36:41,177 INFO S6 aussortiert (doppelt): Dritte Liga: MSV Duisburg bezwingt Hansa Rostock und bleibt Zweiter
+2026-11-23 01:36:41,177 INFO S6 aussortiert (doppelt): MSV Duisburg schlägt Hansa Rostock und hält im Aufstiegsrennen Schritt
+2026-11-23 01:36:41,177 INFO S6 aussortiert (doppelt): MSV Duisburg – Hansa Rostock (Highlights)
+2026-11-23 01:36:41,177 INFO S6 aussortiert (doppelt): „Dosenöffner“ Dominik Kother ist der MSV-Spieler des Spiels gegen Rost
+2026-11-23 01:36:41,177 INFO S6 aussortiert (doppelt): Echte Fan-Liebe! 100 Fotos von den MSV-Anhängern vor dem Spiel gegen R
+2026-11-23 01:36:41,177 INFO S6 aussortiert (doppelt): "Das sind wir" - Hirsch mit Klartext, Breitenreiter poltert gegen MSV-
+2026-11-23 01:36:41,177 INFO S6 aussortiert (doppelt): Wichtiger Heimsieg: MSV Duisburg schlägt Hansa nach langer Pyro-Unterb
+2026-11-23 01:36:41,177 INFO S6 aussortiert (doppelt): MSV Duisburg vs. F.C. Hansa Rostock: Nichts zu holen für Rostock beim 
+2026-11-23 01:36:41,177 INFO S6 aussortiert (doppelt): Duisburg empfängt Rostock als Tabellenzweiter der 3. Liga
+2026-11-23 01:36:41,177 INFO S6 aussortiert (doppelt): #MSVHRO | "Endlich mal zu null": Die Mixedzone mit Braune, Lobinger un
+2026-11-23 01:36:41,177 INFO S6 aussortiert (doppelt): #MSVHRO | Die Medienrunde nach dem Heimsieg gegen Rostock
+2026-11-23 01:36:41,177 INFO S6 aussortiert (doppelt): Preußen Münster in der Krise
+2026-11-23 01:36:41,177 INFO S6 aussortiert (doppelt): Keinesfalls der Alleinschuldige, doch Wörle hat kaum noch Argumente
+2026-11-23 01:36:41,177 INFO S6 aussortiert (doppelt): Das gelingt Verl erstmals seit 2013
+2026-11-23 01:36:41,177 INFO S6 aussortiert (prio_0): Sport im Westen live: Fußball 3. Liga, SV Meppen - Rot-Weiss Essen
+2026-11-23 01:36:41,178 INFO S6 aussortiert (prio_0): Spielschema | SC Paderborn 07 - SV Meppen 5:1 | 12. Spieltag | U-19-DF
+2026-11-23 01:36:41,178 INFO S6 aussortiert (prio_0): Adler Mannheim gewinnen DEL-Klassiker gegen die Kölner Haie
+2026-11-23 01:36:41,848 INFO S7 kein Volltext (too_short_25_words): Dieser Treffer schockt Würzburg spät
+2026-11-23 01:36:42,102 INFO S7 Ersatzquellen für "Dieser Treffer schockt Würzburg spät": 0 passende Treffer
+2026-11-23 01:36:42,102 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Dieser Treffer schockt Würzburg spät
+2026-11-23 01:36:42,375 INFO S7 kein Volltext (too_short_27_words): Dank Blitz-Doppelpack: Alemannia feiert Heimsieg
+2026-11-23 01:36:42,613 INFO S7 Ersatzquellen für "Dank Blitz-Doppelpack: Alemannia feiert Heimsieg": 0 passende Treffer
+2026-11-23 01:36:42,613 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Dank Blitz-Doppelpack: Alemannia feiert Heimsieg
+2026-11-23 01:36:42,991 INFO S7 Ersatzquellen für "In Überzahl: Duisburg ringt Rostock nieder und fes": 0 passende Treffer
+2026-11-23 01:36:42,991 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): In Überzahl: Duisburg ringt Rostock nieder und festigt Aufst
+2026-11-23 01:36:43,561 INFO S7 kein Volltext (too_short_26_words): MSV Duisburg zieht in Winnekendonk locker ins Pokal-Viertelf
+2026-11-23 01:36:43,790 INFO S7 Ersatzquellen für "MSV Duisburg zieht in Winnekendonk locker ins Poka": 0 passende Treffer
+2026-11-23 01:36:43,791 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): MSV Duisburg zieht in Winnekendonk locker ins Pokal-Viertelf
+2026-11-23 01:36:43,997 INFO S7 Ersatzquellen für "LIVE! Lobinger macht für Duisburg alles klar": 0 passende Treffer
+2026-11-23 01:36:43,997 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): LIVE! Lobinger macht für Duisburg alles klar
+2026-11-23 01:36:44,983 WARNING discarding data: None
+2026-11-23 01:36:44,984 INFO S7 kein Volltext (trafilatura_returned_empty): wdr-essen-gewinnt-souveraen-gegen-dezimierte-verler-100
+2026-11-23 01:36:45,192 INFO S7 Ersatzquellen für "wdr-essen-gewinnt-souveraen-gegen-dezimierte-verle": 2 passende Treffer
+2026-11-23 01:36:45,879 WARNING discarding data: None
+2026-11-23 01:36:45,880 INFO S7 kein Volltext (trafilatura_returned_empty): wdr-essen-gewinnt-souveraen-gegen-dezimierte-verler-100
+2026-11-23 01:36:46,563 WARNING discarding data: None
+2026-11-23 01:36:46,564 INFO S7 kein Volltext (trafilatura_returned_empty): wdr-essen-gewinnt-souveraen-gegen-dezimierte-verler-100
+2026-11-23 01:36:46,564 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): wdr-essen-gewinnt-souveraen-gegen-dezimierte-verler-100
+2026-11-23 01:36:47,343 WARNING discarding data: None
+2026-11-23 01:36:47,344 INFO S7 kein Volltext (trafilatura_returned_empty): wdr-drei-schnelle-treffer-helfen-duesseldorf-gegen-grossaspa
+2026-11-23 01:36:47,604 INFO S7 Ersatzquellen für "wdr-drei-schnelle-treffer-helfen-duesseldorf-gegen": 1 passende Treffer
+2026-11-23 01:36:48,271 WARNING discarding data: None
+2026-11-23 01:36:48,272 INFO S7 kein Volltext (trafilatura_returned_empty): wdr-drei-schnelle-treffer-helfen-duesseldorf-gegen-grossaspa
+2026-11-23 01:36:48,272 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): wdr-drei-schnelle-treffer-helfen-duesseldorf-gegen-grossaspa
+2026-11-23 01:36:49,812 INFO S7 kein Volltext (too_short_27_words): "Woche für Woche die gleiche Kassette": Großaspachs Reinhard
+2026-11-23 01:36:51,825 INFO S7 kein Volltext (too_short_27_words): "Woche für Woche die gleiche Kassette": Großaspachs Reinhard
+2026-11-23 01:36:52,148 INFO S7 kein Volltext (too_short_8_words): Spielschema | Fortuna Düsseldorf - SG Sonnenhof Großaspach 3
+2026-11-23 01:36:53,582 INFO S7 kein Volltext (low_unique_content_ratio): SG Sonnenhof Großaspach: Was kommt nach dem 3:1 gegen Fortun
+2026-11-23 01:36:54,562 INFO S7 kein Volltext (seite_zu_alt): Rot-Weiss Essen gewinnt umkämpftes Spiel bei der SG Sonnenho
+2026-11-23 01:36:54,724 INFO S7 Ersatzquellen für ""Woche für Woche die gleiche Kassette": Großaspach": 0 passende Treffer
+2026-11-23 01:36:54,724 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): "Woche für Woche die gleiche Kassette": Großaspachs Reinhard
+2026-11-23 01:36:55,867 INFO S7 kein Volltext (too_short_67_words): Fußball: 3. Liga: Die Würzburger Kickers hadern mit einer „s
+2026-11-23 01:36:56,724 INFO S7 kein Volltext (too_short_68_words): Meinung: Trotz Niederlage: Die Würzburger Kickers zeigen end
+2026-11-23 01:36:56,942 INFO S7 Ersatzquellen für "Fußball: 3. Liga: Die Würzburger Kickers hadern mi": 0 passende Treffer
+2026-11-23 01:36:56,942 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Fußball: 3. Liga: Die Würzburger Kickers hadern mit einer „s
+2026-11-23 01:36:57,160 INFO S7 Ersatzquellen für ""Für solche Werte stehe ich nicht": Breitenreiters": 0 passende Treffer
+2026-11-23 01:36:57,160 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): "Für solche Werte stehe ich nicht": Breitenreiters harsche K
+2026-11-23 01:36:57,382 INFO S7 Ersatzquellen für "Kopflos in die Krise: Wörle bekommt in Münster sei": 0 passende Treffer
+2026-11-23 01:36:57,382 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Kopflos in die Krise: Wörle bekommt in Münster sein persönli
+2026-11-23 01:36:58,486 INFO S7 kein Volltext (too_short_22_words): Jahn Regensburg beweist: Schöne Fußballer können äußerst uns
+2026-11-23 01:36:58,695 INFO S7 Ersatzquellen für "Jahn Regensburg beweist: Schöne Fußballer können ä": 0 passende Treffer
+2026-11-23 01:36:58,696 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Jahn Regensburg beweist: Schöne Fußballer können äußerst uns
+2026-11-23 01:37:00,747 INFO S6.5 schon berichtet (Münster vertagt Entscheidung: Wörle bekommt g): Wörle vor dem Endspiel? Münsters Krise spitzt sich zu
+2026-11-23 01:37:01,579 INFO S7 kein Volltext (too_short_16_words): Pressekonferenz nach dem Spiel gegen die Blau-Schwarzen
+2026-11-23 01:37:01,874 INFO S7 Ersatzquellen für "Pressekonferenz nach dem Spiel gegen die Blau-Schw": 0 passende Treffer
+2026-11-23 01:37:01,874 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Pressekonferenz nach dem Spiel gegen die Blau-Schwarzen
+2026-11-23 01:37:02,594 INFO S7 kein Volltext (too_short_52_words): Rot-Weiss Essen: Unterschiedsspieler wieder in Topform – was
+2026-11-23 01:37:02,815 INFO S7 Ersatzquellen für "Rot-Weiss Essen: Unterschiedsspieler wieder in Top": 0 passende Treffer
+2026-11-23 01:37:02,815 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Rot-Weiss Essen: Unterschiedsspieler wieder in Topform – was
+2026-11-23 01:37:03,338 INFO Google-News-Link nicht auflösbar: HTTP 429, keine Signatur
+2026-11-23 01:37:03,607 INFO S7 Ersatzquellen für "Rot-Weiss Essen: Gefühl für den Körper zurück - Br": 0 passende Treffer
+2026-11-23 01:37:03,608 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Rot-Weiss Essen: Gefühl für den Körper zurück - Brumme und R
+2026-11-23 01:37:03,873 INFO S7 Ersatzquellen für "Kopflos in die Krise: Wörle wackelt in Münster": 0 passende Treffer
+2026-11-23 01:37:03,873 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Kopflos in die Krise: Wörle wackelt in Münster
+2026-11-23 01:37:05,383 WARNING discarding data: None
+2026-11-23 01:37:05,385 INFO S7 kein Volltext (trafilatura_returned_empty): Preußen Münster: Krisensitzung am Sonntag - Antwerpen als mö
+2026-11-23 01:37:05,606 INFO S7 Ersatzquellen für "Preußen Münster: Krisensitzung am Sonntag - Antwer": 0 passende Treffer
+2026-11-23 01:37:05,606 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Preußen Münster: Krisensitzung am Sonntag - Antwerpen als mö
+2026-11-23 01:37:07,220 INFO S7 kein Volltext (too_short_32_words): "Das tut weh. Das nagt an einem": Preußen Münster-Kapitän Ko
+2026-11-23 01:37:07,406 INFO S7 Ersatzquellen für ""Das tut weh. Das nagt an einem": Preußen Münster-": 0 passende Treffer
+2026-11-23 01:37:07,407 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): "Das tut weh. Das nagt an einem": Preußen Münster-Kapitän Ko
+2026-11-23 01:37:09,237 INFO S7 kein Volltext (too_short_25_words): "Ein runder Nachmittag": Coach Langeneke lobt Fortuna Düssel
+2026-11-23 01:37:09,447 INFO S7 Ersatzquellen für ""Ein runder Nachmittag": Coach Langeneke lobt Fort": 0 passende Treffer
+2026-11-23 01:37:09,447 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): "Ein runder Nachmittag": Coach Langeneke lobt Fortuna Düssel
+2026-11-23 01:37:15,468 INFO S7 kein Volltext (too_short_26_words): "Das hat das Spiel komplett verändert": Waldhof-Trainer Mota
+2026-11-23 01:37:15,662 INFO S7 Ersatzquellen für ""Das hat das Spiel komplett verändert": Waldhof-Tr": 1 passende Treffer
+2026-11-23 01:37:17,400 INFO S7 kein Volltext (too_short_26_words): "Das hat das Spiel komplett verändert": Waldhof-Trainer Mota
+2026-11-23 01:37:17,400 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): "Das hat das Spiel komplett verändert": Waldhof-Trainer Mota
+2026-11-23 01:37:19,791 INFO S7 kein Volltext (too_short_26_words): "Das hat das Spiel komplett verändert": Waldhof-Trainer Mota
+2026-11-23 01:37:19,829 INFO S7 Ersatzquellen für ""Das hat das Spiel komplett verändert": Waldhof-Tr": 1 passende Treffer
+2026-11-23 01:37:21,314 INFO S7 kein Volltext (too_short_26_words): "Das hat das Spiel komplett verändert": Waldhof-Trainer Mota
+2026-11-23 01:37:21,314 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): "Das hat das Spiel komplett verändert": Waldhof-Trainer Mota
+2026-11-23 01:37:21,620 INFO S7 kein Volltext (too_short_75_words): MSV Duisburg: Hirsch über Erfolgsdruck, kippende Stimmung, H
+2026-11-23 01:37:21,835 INFO S7 Ersatzquellen für "MSV Duisburg: Hirsch über Erfolgsdruck, kippende S": 0 passende Treffer
+2026-11-23 01:37:21,835 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): MSV Duisburg: Hirsch über Erfolgsdruck, kippende Stimmung, H
+2026-11-23 01:37:22,050 INFO S7 kein Volltext (too_short_75_words): Rot-Weiss Essen: Vom Abstellgleis in die Startelf - "Habe ic
+2026-11-23 01:37:22,302 INFO S7 Ersatzquellen für "Rot-Weiss Essen: Vom Abstellgleis in die Startelf ": 0 passende Treffer
+2026-11-23 01:37:22,302 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Rot-Weiss Essen: Vom Abstellgleis in die Startelf - "Habe ic
+2026-11-23 01:37:22,567 INFO S7 kein Volltext (too_short_75_words): "Nicht immer so eine Show" – Alemannia-Aachen-Trainer bremst
+2026-11-23 01:37:22,822 INFO S7 Ersatzquellen für ""Nicht immer so eine Show" – Alemannia-Aachen-Trai": 0 passende Treffer
+2026-11-23 01:37:22,822 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): "Nicht immer so eine Show" – Alemannia-Aachen-Trainer bremst
+2026-11-23 01:37:23,043 INFO S7 kein Volltext (too_short_75_words): "Das war herausragend" - Fortuna Köln beendet Heimfluch
+2026-11-23 01:37:23,228 INFO S7 Ersatzquellen für ""Das war herausragend" - Fortuna Köln beendet Heim": 0 passende Treffer
+2026-11-23 01:37:23,228 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): "Das war herausragend" - Fortuna Köln beendet Heimfluch
+2026-11-23 01:37:23,874 INFO S7 kein Volltext (too_short_37_words): SV Meppens Sprekelmeyer: „Ich bin ein bisschen irritiert übe
+2026-11-23 01:37:24,123 INFO S7 Ersatzquellen für "SV Meppens Sprekelmeyer: „Ich bin ein bisschen irr": 0 passende Treffer
+2026-11-23 01:37:24,123 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): SV Meppens Sprekelmeyer: „Ich bin ein bisschen irritiert übe
+2026-11-23 01:37:25,041 INFO S7 kein Volltext (too_short_26_words): RWE-Trainer Koschinat - "Die Mannschaft hatte die Bereitscha
+2026-11-23 01:37:25,244 INFO S7 Ersatzquellen für "RWE-Trainer Koschinat - "Die Mannschaft hatte die ": 1 passende Treffer
+2026-11-23 01:37:26,801 INFO S7 kein Volltext (too_short_9_words): RWE-Trainer Koschinat - "Die Mannschaft hatte die Bereitscha
+2026-11-23 01:37:26,801 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): RWE-Trainer Koschinat - "Die Mannschaft hatte die Bereitscha
+2026-11-23 01:37:26,802 INFO S9.5 FinalCheck: 0/0 durch
+2026-11-23 01:37:26,804 WARNING Sitemap ohne Spielerseiten: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-23 01:37:26,806 INFO 💶 Kosten: dieser Lauf 0.000 $ (Budget 0.000 $) | heute 0.00 $ | Monat 0.00 / 0 $ | konferenz (abo) 1× 0.000 $, dublette (abo) 1× 0.000 $
+2026-11-23 01:37:26,806 INFO 🎫 Abo-Verbrauch: 5,033 Tokens rein (davon Cache gelesen 0), 16,660 raus, API-Gegenwert 0.09 $ | konferenz 1×: 3,966/16,657, dublette 1×: 1,067/3
+2026-11-23 01:37:26,809 INFO Feeds: 45/45 begonnen, nächster Lauf startet bei Nr. 0
+2026-11-23 01:37:26,809 INFO URL-Cache gespeichert: 4794 URLs
+2026-11-23 01:37:26,809 INFO === Fertig. 0 neue Artikel. feed.json: 77 ===
+2026-11-23 01:37:26,809 INFO Stats: {"ts": "20261123_0134", "ingested": 72, "s2_pre_filter": 7, "s3_relevance": 13, "s4_dedup_early": 0, "gesammelt": 50, "geschichten_neu": 41, "s5_archiv_doppelt": 2, "s5_zusammengefuehrt": 0, "s6_aussortiert": 35, "s7_geschrieben": 0, "s7_verworfen": 1, "s5_fulltext_fail": 27, "s8_qa_rejected": 0, "published": 0, "kosten": {"lauf_usd": 0.0, "lauf_budget_usd": 0.0, "heute_usd": 0.0, "monat_usd": 0.0, "monatsbudget_usd": 0.0, "aufrufe": {"konferenz (abo)": {"anzahl": 1, "usd": 0.0}, "dublette (abo)": {"anzahl": 1, "usd": 0.0}}, "guthaben_leer": false, "abo": true, "abo_tokens": {"konferenz": {"aufrufe": 1, "ein": 3966, "cache_schreiben": 0, "cache_lesen": 0, "aus": 16657, "api_wert_usd": 0.0873}, "dublette": {"aufrufe": 1, "ein": 2, "cache_schreiben": 1065, "cache_lesen": 0, "aus": 3, "api_wert_usd": 0.0043}}}}
