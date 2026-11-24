@@ -1,114 +1,5 @@
 [
  {
-  "id": "04a1f781e5",
-  "schluessel": "braunschweig|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Braunschweig",
-  "klubs": [
-   "Braunschweig"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "\"Gut reingeschraubt, aber Sonntag …\": Reese über Braunschweig, Berlin und was ihn stolz macht",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcUdJb1ZXdHFfc05HMmR0TF9nekZnQnhsWEpVYk1PZ3V2R2VVeTYwcnpNTm5ZcEtKTFlnbHhIUXdoMExHbFlIUHBDX1lKMGN1XzdEOHE0VkVQYVQtNEZXa1ZqeWpSd2RJbV9PVmJwMkw5Sy1neWpCcmNTa0VzbjZSNHZ4VkJoeUxHQzVETGJ6eUpRRjBWMS1TX1lrelc4dEJUOUxwaWl4WGNWeVAxcUJKN0p3UTJUWFNGRVZLendJajA4UkU?oc=5",
-    "aid": "8623103c59",
-    "titel": "\"Gut reingeschraubt, aber Sonntag …\": Reese über Braunschweig, Berlin und was ihn stolz macht",
-    "quelle": "Kicker",
-    "beschr": " \"Gut reingeschraubt, aber Sonntag …\": Reese über Braunschweig, Berlin und was ihn stolz macht &nbsp;&nbsp; Kicker ",
-    "zeit": "2026-11-24T08:00"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-24T09:02",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "ce9599e9a2",
-  "schluessel": "hertha|transfer",
-  "person": "",
-  "spieler": [],
-  "klub": "Hertha",
-  "klubs": [
-   "Hertha"
-  ],
-  "stufe": "geruecht",
-  "klasse": "transfer",
-  "titel": "Was es in 59 Jahren nicht gab: Bei Hertha sitzt ein Königstransfer auf der Bank",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTEVudVpfaDBHVHJZOU9aR0E5ZVptN2NzZ2pGTmxqWDJuakN0MkhFVXJlYjRrWi01cjNtMVhWaHV0U1hXZmU0OVlFYkw3LUo1c3BqWURSQVlObldBMXRBODZvUWlMelFEREZKc0FfODBKYm53SlJjcHN6eFViOWNQTkZwbi14SzU0MkR4elBtVmU3aXZwWTdjMGM4cGVObGREVHFhcmxXazNOZ2xuQS1Jd0s3MjZrbjIyelVZWkZwZ1g4UmtVcFZyNG9MTjVCcDE4dzJ0Vm4tNA?oc=5",
-    "aid": "9988766ebc",
-    "titel": "Was es in 59 Jahren nicht gab: Bei Hertha sitzt ein Königstransfer auf der Bank",
-    "quelle": "Berliner Morgenpost",
-    "beschr": " Was es in 59 Jahren nicht gab: Bei Hertha sitzt ein Königstransfer auf der Bank &nbsp;&nbsp; Berliner Morgenpost ",
-    "zeit": "2026-11-24T06:00"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "u",
-  "erstmals": "2026-11-24T09:02",
-  "archiv": [
-   {
-    "id": "1f007afd7d",
-    "titel": "Hertha hat offenbar Südtirols Simone Davi wieder auf dem Zettel",
-    "datum": "23.11.",
-    "stufe": "geruecht",
-    "summary": "Hertha BSC hat laut Gianluca Di Marzio weiter Linksverteidiger Simone Davi vom FC Südtirol im Blick. Der Vertrag des 27-Jährigen endet im Sommer, ein Vorstoß im Winter ist möglich."
-   },
-   {
-    "id": "a8ba66d6fb",
-    "titel": "BVB hat Herthas Abwehrchef Linus Gechter im Visier",
-    "datum": "19.11.",
-    "stufe": "geruecht",
-    "summary": "Borussia Dortmund hat laut kicker Herthas Innenverteidiger Linus Gechter im Blick, dessen Vertrag 2027 endet. Auch die Nürnberger Fynn Otto und Alexios Kalogeropoulos sind ein Thema."
-   },
-   {
-    "id": "8b69f7a5d4",
-    "titel": "Hertha will Leihspieler Adewumi fest verpflichten",
-    "datum": "15.11.",
-    "stufe": "geruecht",
-    "summary": "Hertha BSC will Leihspieler Oluwaseun Adewumi vom FC Burnley fest verpflichten. Eine Kaufoption besteht nicht, auch andere Klubs zeigen Interesse."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "26d5763a42",
-  "schluessel": "furth|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Fürth",
-  "klubs": [
-   "Fürth"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Wutrede mit ruhiger Stimme: Abwehrchef Jannis Heuer über fehlenden Mut beim Kleeblatt",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeUVzT2JXLXMzY2QxLXF0R0VWeV9TTHBfRjR0dlFlWGxVWkl3cjd5NndjNGRFM3E2UFdvYUhOVHNJUG9kS08xQ0NxWE0zeGhPZEdaMWtLSkFkMG1OblRWMkJJWlg4cUdjaTFTOURLamxmN0s0TlV4aE91RjFDTkdMZ2VuTUY3aU84LXJraks4dVY3MGZhWHdCc3B2RUhaNmhIVkU0bDRORVVZRzJsb1MtbG5aUm1xZDZOOVBlejNvcVNhQUFJWGtOYndrZk1kY2VhYVdVOEFfRkg?oc=5",
-    "aid": "2480197109",
-    "titel": "Wutrede mit ruhiger Stimme: Abwehrchef Jannis Heuer über fehlenden Mut beim Kleeblatt",
-    "quelle": "NN.de",
-    "beschr": " Wutrede mit ruhiger Stimme: Abwehrchef Jannis Heuer über fehlenden Mut beim Kleeblatt &nbsp;&nbsp; NN.de ",
-    "zeit": "2026-11-24T08:00"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-24T09:02",
-  "archiv": [],
-  "versuche": 2
- },
- {
   "id": "e601edd15a",
   "schluessel": "braunschweig|sonstiges",
   "person": "",
@@ -143,7 +34,7 @@
     "summary": "Eintracht Braunschweig hat die frühere Nationalspielerin Tabea Kemme in den Aufsichtsrat der Profifußballgesellschaft gewählt. Präsidentin Nicole Kumpis wurde im Amt bestätigt."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "3c36029508",
@@ -180,7 +71,7 @@
     "summary": "Eintracht Braunschweig hat die frühere Nationalspielerin Tabea Kemme in den Aufsichtsrat der Profifußballgesellschaft gewählt. Präsidentin Nicole Kumpis wurde im Amt bestätigt."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "b512d846e0",
@@ -218,7 +109,7 @@
     "summary": "Dynamo Dresden muss in Kaiserslautern länger auf Tobias Raschl verzichten. Trainer Thomas Stamm hat mit Lukas Boeder, Friedrich Müller, Nicolai Rapp, Patrice Covic und Aaron Riedel mehrere Optionen."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "a8aaccdb5f",
@@ -255,7 +146,7 @@
     "summary": "Hannovers Sechser Franz Roggow spielte zuletzt gegen Dresden und in Heidenheim eine wichtige Rolle und lobt Sandro Wagners Ansatz. Nach der Länderspielpause kommt Fürth am 21. November nach Hannover."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "3650259842",
@@ -292,7 +183,7 @@
     "summary": "Nürnbergs Sportvorstand Joti Chatzialexiou soll im Frühjahr mit Hannover 96 gesprochen haben, der Wechsel scheiterte laut Neuer Presse an der Ablöse. Er wechselt nun zu Eintracht Frankfurt, Nachfolger Dieter Frey ist im Amt."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "464948f657",
@@ -321,7 +212,7 @@
   "status": "n",
   "erstmals": "2026-11-24T12:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "92ce69d44d",
@@ -359,6 +250,139 @@
     "summary": "Darmstadt 98 gewinnt 3:1 gegen Heidenheim, Lars Kehl trifft doppelt und Marco Richter legt zwei Tore auf. Merveille Papela feiert nach langer Knieverletzung sein Comeback."
    }
   ],
+  "versuche": 2
+ },
+ {
+  "id": "9e92e3e250",
+  "schluessel": "wolfsburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Wolfsburg",
+  "klubs": [
+   "Wolfsburg",
+   "Braunschweig",
+   "Frankfurt"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Vor diesen Wolfsburger Braunschweig-Spezialisten zittert die Eintracht",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSFRMZXVMUGJyZFQ0UFlJcm1XVnhtUjdFTngweFR6MVI4N0N4Qksya21lc1pLSWdkM2IxU29sd0xack9jd1RpQ3ZUR1VNNnBEVzFzOGlkSVhNdm8xV0N6bUZwMk93aTlteHhCV2FLa0ZRemNON1pVc2lIckNPMnJmeWhjeDJNUlVBNzY2QkxlZFZKSG45N21ORWc5Wjl1Tm5IRVNUMllGd0R2SkZGaEtJRUhlQ1ZKOEZ4N0JVOGdMTk1IV1dqR2t3WC15bmNfbmZ5ajZMZzhmaXI5SFU3UHhDX0g5LS0?oc=5",
+    "aid": "b5ef330193",
+    "titel": "Vor diesen Wolfsburger Braunschweig-Spezialisten zittert die Eintracht",
+    "quelle": "Braunschweiger Zeitung",
+    "beschr": " Vor diesen Wolfsburger Braunschweig-Spezialisten zittert die Eintracht &nbsp;&nbsp; Braunschweiger Zeitung ",
+    "zeit": "2026-11-24T13:47"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-24T15:01",
+  "archiv": [
+   {
+    "id": "9ceecee436",
+    "titel": "Wolfsburg meidet das A-Wort: „Es ist noch keine gute Saison“",
+    "datum": "22.11.",
+    "stufe": "sonstiges",
+    "summary": "Wolfsburg spricht trotz Rang 3 und nur zwei Punkten Rückstand auf Platz 2 nicht offiziell über den Aufstieg. Trainer Tobi Strobl und Fabian Reese mahnen zur Geduld."
+   },
+   {
+    "id": "d99c3c54b1",
+    "titel": "Kniat vor Debüt in Wolfsburg: „Extreme Vorfreude“ beim Tabellenletzten",
+    "datum": "19.11.",
+    "stufe": "sonstiges",
+    "summary": "Holstein Kiel startet unter Trainer Mitch Kniat als Tabellenletzter mit acht Punkten beim VfL Wolfsburg. Auch der Tabellenfünfte Wolfsburg steht unter Druck und hat zwölf Punkte Rückstand auf Hertha."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "ea73966875",
+  "schluessel": "cottbus|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Cottbus",
+  "klubs": [
+   "Cottbus"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Sport - Cottbus: Wiedersehen mit Petrik Sander",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYjhhTUVoMG45U0lNMW0zV1IxdUpDYVZvM0RQaTRxWDdlbGF2Y1REYVNZTlhzMDE0UHRmXzNHNGhMdFdtdEpicVBBZDFicElKSHFpTlA2OGNCUlRnb0RJaWpQTkI2QWJPSk9SVWpSMVZvSG01aVByaWttUlVJU3JCZjV6dlNvZTJ5MWM0bDk2X1RVYnllSUFzaWhNcV8tOU5GZUpGMUM5ZGdPMndGOVFVaQ?oc=5",
+    "aid": "4efd6d0ed6",
+    "titel": "Sport - Cottbus: Wiedersehen mit Petrik Sander",
+    "quelle": "Inforadio",
+    "beschr": " Sport - Cottbus: Wiedersehen mit Petrik Sander &nbsp;&nbsp; Inforadio ",
+    "zeit": "2026-11-24T12:15"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-24T15:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "d9c8e34b6e",
+  "schluessel": "kiel|verletzung",
+  "person": "",
+  "spieler": [],
+  "klub": "Kiel",
+  "klubs": [
+   "Kiel"
+  ],
+  "stufe": "verletzung",
+  "klasse": "verletzung",
+  "titel": "Verletzungsmisere und Qualitätsfrage bei Holstein Kiel: Warum die KSV nachrüsten muss",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbFc1ZWN0S3RyYXllYXQyaERtUkJ1VDZ1OHh2Z3J4VGtvRVhsTEVGeHM4UEdZejBfMEE2MFd2Y1c5SDF5RVhSUG02d0ZuWnlGQkp1djBPTTJwWGNpc0thVlc1R0R2aVZ4R2EtZGZrNmtQbUl6MG9WVllodmFWMGpVNm5wek5xVmZmTGJNTzZjTlFHNjNzcUdLWWZHa1B3VnJyU0FqM2tlVUlKX1pwZXlQUHFWM05yTUlM?oc=5",
+    "aid": "2a96a14fb9",
+    "titel": "Verletzungsmisere und Qualitätsfrage bei Holstein Kiel: Warum die KSV nachrüsten muss",
+    "quelle": "shz.de",
+    "beschr": " Verletzungsmisere und Qualitätsfrage bei Holstein Kiel: Warum die KSV nachrüsten muss &nbsp;&nbsp; shz.de ",
+    "zeit": "2026-11-24T14:29"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-24T15:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "9994efcfac",
+  "schluessel": "furth|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Fürth",
+  "klubs": [
+   "Fürth"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Nach Geburtstagsfeier: Für Philipp Heinrich vom Kleeblatt Fürth kommt erstes Spiel zu früh",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSUhGWnNLY291Q0lkODBCTzQyaTJ5bi0zSnlkQ3NDVlJpUWhTOGw3a3IxZHJ4MUEyNWlqbDhhUG1yUlFsQi03cEJBdkxsNkVsQVA0emhSYjZSZUtKY1laenpCRzI2WlN6WHRqcTJNal80LTVYRXJqLUVxQXNzQ3ZoZC1rSjMtUFNPeFVyTFVHak9nd0EycDVocjE3cklEVWx3YlhCcVIwanVpMklqSVJROE5jemVtM1JyYjBselRnNjM3aGtSZUVEOVV0QTdlNFMy?oc=5",
+    "aid": "c1a3ed53f1",
+    "titel": "Nach Geburtstagsfeier: Für Philipp Heinrich vom Kleeblatt Fürth kommt erstes Spiel zu früh",
+    "quelle": "NN.de",
+    "beschr": " Nach Geburtstagsfeier: Für Philipp Heinrich vom Kleeblatt Fürth kommt erstes Spiel zu früh &nbsp;&nbsp; NN.de ",
+    "zeit": "2026-11-24T12:19"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-24T15:01",
+  "archiv": [],
   "versuche": 1
  }
 ]
