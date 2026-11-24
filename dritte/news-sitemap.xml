@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://3liga.ligaoutsider.de/artikel/hansa-rostock-gegen-havelse-beide-teams-suchen-die-wende-053754865d.html</loc>
+    <news:news>
+      <news:publication><news:name>Ligaoutsider</news:name><news:language>de</news:language></news:publication>
+      <news:publication_date>2026-11-25T00:24:00+01:00</news:publication_date>
+      <news:title>Hansa Rostock gegen Havelse: Beide Teams suchen die Wende</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://3liga.ligaoutsider.de/artikel/hansa-rostock-13-punkte-rueckstand-auf-die-direkten-aufstiegsplaetze-318e4a7d63.html</loc>
     <news:news>
       <news:publication><news:name>Ligaoutsider</news:name><news:language>de</news:language></news:publication>
@@ -70,22 +78,6 @@
       <news:publication><news:name>Ligaoutsider</news:name><news:language>de</news:language></news:publication>
       <news:publication_date>2026-11-23T20:46:00+01:00</news:publication_date>
       <news:title>Hansa verliert in Duisburg nach Gelb-Rot und Pyro-Pause 0:2</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://3liga.ligaoutsider.de/artikel/muenster-vertagt-entscheidung-woerle-bekommt-gegen-verl-sein-finale-e4bbd8bc68.html</loc>
-    <news:news>
-      <news:publication><news:name>Ligaoutsider</news:name><news:language>de</news:language></news:publication>
-      <news:publication_date>2026-11-22T21:37:00+01:00</news:publication_date>
-      <news:title>Münster vertagt Entscheidung: Wörle bekommt gegen Verl sein Finale</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://3liga.ligaoutsider.de/artikel/pick-trifft-in-der-90-minute-saarbruecken-schlaegt-wiesbaden-2-1-7000dfabd6.html</loc>
-    <news:news>
-      <news:publication><news:name>Ligaoutsider</news:name><news:language>de</news:language></news:publication>
-      <news:publication_date>2026-11-22T21:36:00+01:00</news:publication_date>
-      <news:title>Pick trifft in der 90. Minute: Saarbrücken schlägt Wiesbaden 2:1</news:title>
     </news:news>
   </url>
 </urlset>
