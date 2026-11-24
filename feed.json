@@ -1,5 +1,108 @@
 [
   {
+    "id": "99f798f8a9",
+    "titel": "KSC zeigt Interesse an Stuttgarts Innenverteidiger Maximilian Herwerth",
+    "kategorie": "transfer",
+    "badge": "Transfer",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "24.11.2026 12:04",
+    "wappen_url": "logos/karlsruhe.png",
+    "vereine": [
+      "Karlsruhe"
+    ],
+    "anriss": "Der Karlsruher SC soll sich für Maximilian Herwerth vom VfB Stuttgart interessieren. Laut Sky-Informationen zeigt neben dem KSC auch Union Berlin Interesse an dem 20 Jahre alten Innenverteidiger. Herwerths Vertrag in Stuttgart läuft im Sommer 2027 aus. Aktuell gehört er zum Kader der Stuttgarter U21",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Karlsruhe",
+    "pfad": "artikel/ksc-zeigt-interesse-an-stuttgarts-innenverteidiger-maximilian-herwerth-99f798f8a9.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "deal",
+      "frage": "Wäre Herwerth ein guter Deal für den KSC?",
+      "antworten": [
+        "👍 Guter Deal",
+        "👎 Fehler"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "4ead61d51a",
+    "titel": "Hannover 96: Kommt Davie Selke im Winter wieder ins Gespräch?",
+    "kategorie": "transfer",
+    "badge": "Transfer",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "24.11.2026 12:04",
+    "wappen_url": "logos/hannover.png",
+    "vereine": [
+      "Hannover"
+    ],
+    "anriss": "Hannover 96 dürfte im Winter einen treffsicheren Stürmer suchen. Laut Hannoverscher Allgemeiner Zeitung gibt es Gerüchte, dass Davie Selke von Istanbul Basaksehir FK dabei wieder ein Thema werden könnte. Der neue Sportchef Gabor Ruhr hat am Montag seinen Dienst angetreten. Der 38-Jährige war zuletzt für",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Hannover",
+    "pfad": "artikel/hannover-96-kommt-davie-selke-im-winter-wieder-ins-gespraech-4ead61d51a.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "deal",
+      "frage": "Wäre Davie Selke ein guter Deal für Hannover 96?",
+      "antworten": [
+        "👍 Guter Deal",
+        "👎 Fehler"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "967dbd06e4",
+    "titel": "Hannover 96 muss lange auf Benjamin Källman verzichten",
+    "kategorie": "verletzung",
+    "badge": "Verletzung",
+    "badge_bg": "#e53935",
+    "badge_fg": "#fff",
+    "datum": "24.11.2026 12:03",
+    "wappen_url": "logos/hannover.png",
+    "vereine": [
+      "Fürth",
+      "Hannover"
+    ],
+    "anriss": "Hannover 96 muss in diesem Jahr ohne Stürmer Benjamin Källman auskommen. Der finnische Nationalspieler zog sich im Spiel gegen Fürth „eine strukturelle Muskelverletzung“ zu, wie der Zweitligist am Dienstag mitteilte. Källman verpasst damit die letzten vier Partien des Jahres. Der 28-Jährige war beim 2:1 gegen",
+    "spielerstatus": [
+      {
+        "spieler": "Källman",
+        "klub": "Hannover",
+        "status": "faellt_aus",
+        "grund": "strukturelle Muskelverletzung"
+      },
+      {
+        "spieler": "Pichler",
+        "klub": "Hannover",
+        "status": "faellt_aus",
+        "grund": "Wadenverletzung"
+      },
+      {
+        "spieler": "Etcibasi",
+        "klub": "Hannover",
+        "status": "faellt_aus",
+        "grund": "Knieverletzung"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Hannover",
+    "pfad": "artikel/hannover-96-muss-lange-auf-benjamin-kaellman-verzichten-967dbd06e4.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "reaktion",
+      "frage": "",
+      "antworten": [
+        "💚 Gute Besserung"
+      ]
+    },
+    "n11": false
+  },
+  {
     "id": "dafc45a4d8",
     "titel": "Osnabrück: Wagner fällt aus, Meißner könnte gegen Hannover spielen",
     "kategorie": "verletzung",
