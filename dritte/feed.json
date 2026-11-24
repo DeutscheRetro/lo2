@@ -1,5 +1,148 @@
 [
   {
+    "id": "318e4a7d63",
+    "titel": "Hansa Rostock: 13 Punkte Rückstand auf die direkten Aufstiegsplätze",
+    "kategorie": "analyse",
+    "badge": "Analyse",
+    "badge_bg": "#6a1fbf",
+    "badge_fg": "#fff",
+    "datum": "24.11.2026 20:19",
+    "wappen_url": "logos/rostock.png",
+    "vereine": [
+      "Duisburg",
+      "Rostock"
+    ],
+    "anriss": "Hansa Rostock hat nach dem 0:2 beim MSV Duisburg als Zwölfter der 3. Liga elf Punkte Rückstand auf den Relegations-Aufstiegsplatz. Zu den direkten Aufstiegsrängen fehlen dem Klub 13 Zähler. Die Top-Teams Viktoria Köln, MSV Duisburg und Rot-Weiss Essen enteilen den Rostockern. Die Ausgangslage ist schwieriger",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Rostock",
+    "pfad": "artikel/hansa-rostock-13-punkte-rueckstand-auf-die-direkten-aufstiegsplaetze-318e4a7d63.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "dbd2b3b5d9",
+    "titel": "Krauß nach Kopfverletzung zurück im Training von Hansa Rostock",
+    "kategorie": "verletzung",
+    "badge": "Verletzung",
+    "badge_bg": "#e53935",
+    "badge_fg": "#fff",
+    "datum": "24.11.2026 20:19",
+    "wappen_url": "logos/rostock.png",
+    "vereine": [
+      "Duisburg",
+      "Rostock"
+    ],
+    "anriss": "Hansa Rostocks Flügelspieler Maximilian Krauß ist nach seiner Kopfverletzung aus dem Spiel beim MSV Duisburg wieder auf dem Trainingsplatz. Der 30-Jährige war am Dienstag bereits wieder dabei und gab per Videobotschaft auf Instagram Entwarnung. Die Verletzung hatte sich beim 0:2 in Duisburg ereignet. In der",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Rostock",
+    "pfad": "artikel/krauss-nach-kopfverletzung-zurueck-im-training-von-hansa-rostock-dbd2b3b5d9.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "56b4f4abe2",
+    "titel": "Düsseldorfs Risch erklärt die Wende unter Langeneke",
+    "kategorie": "interview",
+    "badge": "Interview",
+    "badge_bg": "#1976d2",
+    "badge_fg": "#fff",
+    "datum": "24.11.2026 20:19",
+    "wappen_url": "logos/duesseldorf.png",
+    "vereine": [
+      "Düsseldorf"
+    ],
+    "anriss": "Fortuna Düsseldorf hat sich unter dem neuen Trainer Jens Langeneke mit zwei Siegen zurückgemeldet. Linksverteidiger Sascha Risch erklärt die Wende vor allem mit der Einstellung der Mannschaft und sieht noch Möglichkeiten in dieser Saison. Düsseldorf gewann im Niederrheinpokal gegen den Tabellenführer der 3. Liga, den",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Düsseldorf",
+    "pfad": "artikel/duesseldorfs-risch-erklaert-die-wende-unter-langeneke-56b4f4abe2.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "60769bc93c",
+    "titel": "Duisburg in Großaspach: Bulic gesperrt, Noß fraglich",
+    "kategorie": "aufstellung",
+    "badge": "Aufstellung",
+    "badge_bg": "#2e7d32",
+    "badge_fg": "#fff",
+    "datum": "24.11.2026 20:18",
+    "wappen_url": "logos/duisburg.png",
+    "vereine": [
+      "Duisburg",
+      "Großaspach",
+      "Rostock"
+    ],
+    "anriss": "Der MSV Duisburg ist am Samstag (16.30 Uhr) in der 3. Liga bei der SG Sonnenhof Großaspach zu Gast. Trainer Dietmar Hirsch muss dabei auf Kapitän Rasim Bulic verzichten, der seine fünfte gelbe Karte gesehen hat und gesperrt fehlt. Im zentralen Mittelfeld kommt Christian Viet",
+    "spielerstatus": [
+      {
+        "spieler": "Bulic",
+        "klub": "Duisburg",
+        "status": "faellt_aus",
+        "grund": "Gesperrt nach fünfter gelber Karte"
+      },
+      {
+        "spieler": "Noß",
+        "klub": "Duisburg",
+        "status": "fraglich",
+        "grund": "Gegen Rostock früh verletzt ausgewechselt"
+      }
+    ],
+    "formation": "\"",
+    "hauptklub": "Duisburg",
+    "pfad": "artikel/duisburg-in-grossaspach-bulic-gesperrt-noss-fraglich-60769bc93c.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "15c70a6feb",
+    "titel": "Duisburg ohne Noß und Bulic nach Großaspach",
+    "kategorie": "verletzung",
+    "badge": "Verletzung",
+    "badge_bg": "#e53935",
+    "badge_fg": "#fff",
+    "datum": "24.11.2026 20:18",
+    "wappen_url": "logos/duisburg.png",
+    "vereine": [
+      "Duisburg",
+      "Großaspach",
+      "Rostock"
+    ],
+    "anriss": "Der MSV Duisburg muss im Auswärtsspiel bei der SG Sonnenhof Großaspach auf zwei Spieler verzichten. Offensivspieler Conor Noß fällt nach körperlichen Problemen aus, Kapitän Rasim Bulic ist wegen einer Gelbsperre nicht dabei. Die Partie findet am Samstag um 16:30 Uhr statt. Noß war beim 2:0-Erfolg",
+    "spielerstatus": [
+      {
+        "spieler": "Noß",
+        "klub": "Duisburg",
+        "status": "faellt_aus",
+        "grund": "körperliche Probleme nach Auswechslung gegen Rostock"
+      },
+      {
+        "spieler": "Bulic",
+        "klub": "Duisburg",
+        "status": "faellt_aus",
+        "grund": "Gelbsperre nach fünfter Gelber Karte"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Duisburg",
+    "pfad": "artikel/duisburg-ohne-noss-und-bulic-nach-grossaspach-15c70a6feb.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "reaktion",
+      "frage": "",
+      "antworten": [
+        "💚 Gute Besserung"
+      ]
+    },
+    "n11": false
+  },
+  {
     "id": "d90f00b258",
     "titel": "Langeneke rüffelt Hottmann und kritisiert Fortunas Schiri-Klagen",
     "kategorie": "news",
