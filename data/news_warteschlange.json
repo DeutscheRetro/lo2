@@ -1,219 +1,5 @@
 [
  {
-  "id": "d5b42dd2fc",
-  "schluessel": "kaiserslautern|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Kaiserslautern",
-  "klubs": [
-   "Kaiserslautern"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Der Betze-Blick auf #FCKSGD",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1yZENSMHRpNVhFM0pQN3NBMFdWeGdFdjNKemlmeEtuT2Zpb1VaeTczTVdCSnBHa19lVktYQThaZE9KWTllUVhRMlN0Y3VKblpHWTZTMm1hdkI3OWdZR3c?oc=5",
-    "aid": "294ba4461f",
-    "titel": "Der Betze-Blick auf #FCKSGD",
-    "quelle": "1. FC Kaiserslautern",
-    "beschr": " Der Betze-Blick auf #FCKSGD &nbsp;&nbsp; 1. FC Kaiserslautern ",
-    "zeit": "2026-11-23T19:17"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-23T21:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "e62ef08f57",
-  "schluessel": "hertha|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Hertha",
-  "klubs": [
-   "Hertha"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Elfter Sieg: Hertha baut Tabellenführung aus",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNkV5Wm9Lcll0ckhfa3VFd1BfLTd0ODNlc3k5a2pKaUNmNVJwN2labnRxQVFnSU5KN3VQX2hDRzEybVpUTWVGdjRWSjdDOVUyS2dCdExYMU40R0NzLVo3SU0wV0w1SWRmSk1EZE1ocXlUbFpxU2o2OXJNXzFVb09fSk5LZG5waXVIV1VXbFNOb2lDT2l5d2t6WUhqa3hlMnNHTDZn?oc=5",
-    "aid": "920b162505",
-    "titel": "Elfter Sieg: Hertha baut Tabellenführung aus",
-    "quelle": "MSN",
-    "beschr": " Elfter Sieg: Hertha baut Tabellenführung aus &nbsp;&nbsp; MSN ",
-    "zeit": "2026-11-23T05:55"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-23T21:01",
-  "archiv": [
-   {
-    "id": "6e4b1b9af5",
-    "titel": "Hertha gewinnt Derby in Cottbus 4:0 und bleibt ungeschlagen",
-    "datum": "22.11.",
-    "stufe": "spielbericht",
-    "summary": "Hertha BSC gewinnt das Derby bei Energie Cottbus mit 4:0 und bleibt Tabellenführer der Zweiten Liga. Cottbus' Fousseny Doumbia sah Rot, bei Hertha später Soufian Gouram Gelb-Rot."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "b274ff4202",
-  "schluessel": "osnabruck|transfer",
-  "person": "",
-  "spieler": [],
-  "klub": "Osnabrück",
-  "klubs": [
-   "Osnabrück"
-  ],
-  "stufe": "vollzogen",
-  "klasse": "transfer",
-  "titel": "VfL Osnabrück: Kommt der erste Winterneuzugang aus der Bundesliga?",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR0RWZzNZMDN4RkN5bzlmTXpIUUVlanh2OTNJUV9ncVpJMjZKT1VfRlJzUjI3REtqYkYxX0hXYXRSOFdieEU1OGlNWHlJWlpiSXJUd0sxRXJWNUgwenZxRkppTy14QVA0ZkZtZGQwTkRBWE1Nb1pONFYtazJwNDgzODhOLWR3QUtzMXdNVXJhYm5rNk9ZekhtS0FiYUhvTTluQ1RRakdjRVlSdVRLa2Z3MXM2NEg5M0FMd1Roeg?oc=5",
-    "aid": "476813d2e3",
-    "titel": "VfL Osnabrück: Kommt der erste Winterneuzugang aus der Bundesliga?",
-    "quelle": "noz.de",
-    "beschr": " VfL Osnabrück: Kommt der erste Winterneuzugang aus der Bundesliga? &nbsp;&nbsp; noz.de ",
-    "zeit": "2026-11-23T19:30"
-   }
-  ],
-  "archiv_status": "update",
-  "prio": 2,
-  "status": "u",
-  "erstmals": "2026-11-23T21:01",
-  "archiv": [
-   {
-    "id": "d175585d49",
-    "titel": "Osnabrück vor Verpflichtung von Schalkes Finn Porath",
-    "datum": "23.11.",
-    "stufe": "geruecht",
-    "summary": "Der VfL Osnabrück führt nach Sky-Informationen weit fortgeschrittene Gespräche mit Schalkes Finn Porath. Ein Wechsel im Winter gilt als realistisch, eine Einigung steht aber noch aus."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "94a89be7ac",
-  "schluessel": "osnabruck|verletzung",
-  "person": "",
-  "spieler": [],
-  "klub": "Osnabrück",
-  "klubs": [
-   "Osnabrück",
-   "Karlsruhe"
-  ],
-  "stufe": "verletzung",
-  "klasse": "verletzung",
-  "titel": "VfL Osnabrück beklagt nach Remis in Karlsruhe zwei verletzte Stammkräfte",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVEdBSmEzTnlEZy1aVTFXVWREUC1jdzJVMlhRNUJlYXUzX2t1Y0lpQTVMa3MxMDE4OVM0dFo2LXBIWHJBdzVkZkxZa1hqTEltUW9mMU1EWWV5aV9kTm9xa3hvV0tNVUpUcURBeW5lT2U5WmVSaVVTM28tenVBbDVEdDMxemVLb3JlV21XUkpEZ0t3LVlnWWxSYjZqU2tFQ0I5OHhnTFd2LW9vdUZNTDNGX1NR0gG3AUFVX3lxTE5GajZ4aFgta1RoRS1HOGdiSlBMOUNDQmNmaXZrVHpIYzJnWXpPdmhwVGQ5cW5TTktvVlNDYTZMYW11VmhjeXZtbFFrVEwyWFAtMmx0bTJ4bmp2Z0pJaTJXQ1ZHYjZ0bmJleEVPd1NZb2NaV09RN09fYThQRjRJOFlaNW9OWkh1blFIYkNjVGhfd0JQU0V6ZmNxb19qN3FrOEVPVHlzanZ2Wk9BY0FZU2JsMk1VNjljTQ?oc=5",
-    "aid": "184adab1f7",
-    "titel": "VfL Osnabrück beklagt nach Remis in Karlsruhe zwei verletzte Stammkräfte",
-    "quelle": "Tribuna.com",
-    "beschr": " VfL Osnabrück beklagt nach Remis in Karlsruhe zwei verletzte Stammkräfte &nbsp;&nbsp; Tribuna.com ",
-    "zeit": "2026-11-23T14:38"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-23T21:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "b1ee89869b",
-  "schluessel": "wolfsburg|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Wolfsburg",
-  "klubs": [
-   "Wolfsburg"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Ausgerechnet jetzt: Kento Shiogai wird dem VfL Wolfsburg lange fehlen!",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSUVaUklMX0tQZUZGbm5UVmZwTXNpQVhxNXFjbHBqYUxTTmg5VjE3RVppWXE4czF0TVpLOTRTLUc0T0J5Z0tHZmhwZ0JLLWlhMFBTemMxc1R0ekNuOEw5cm5fcExiUnZmZDU2by1jQjdJU2FRTUN6ZDBjbWlSbndHN3dKc2NPRDg1VTBGdmVjSExKOWJsUlFLVXZPSklYNVlRYVQyV1ZpLUxlMk1NbG52Q2ZZVm04RUFRNnU4NXhDLTlXSXBiR0ZMQ1JDbk5jVWVmdEYyQVI4MzDSAfQBQVVfeXFMTUNCUVA3TmVBN3FwdDdzZ0FCMWp3Qmhub0lVS2MxbUt1QnZ2dkpUa2JaTWQtTnh5THpMSmxIWlRySHg4MEswb2QzN1JUOXRnSWo3eVdJTE5EaGdMalh2SWxDTFh0Tk50WUowVVkxdlZYSTZ3RE5ISnFJWlh1c3BtQ0I2UlVxMXdLNmlublNoMVFNaHd0WlJsaG1taGZHSTV0R09KOEZfV2xXSXU3dFZwRDFuODd1Ul9ZV2dOREhLZXE1ODRkVC1pNkY4WmFwblZqWmIzVk1IUjdtS25XQ0h1MHBpZzdWTEJySERmNHhRdlRLWUJiaA?oc=5",
-    "aid": "361fb2fdb9",
-    "titel": "Ausgerechnet jetzt: Kento Shiogai wird dem VfL Wolfsburg lange fehlen!",
-    "quelle": "WAZ-ONLINE.de",
-    "beschr": " Ausgerechnet jetzt: Kento Shiogai wird dem VfL Wolfsburg lange fehlen! &nbsp;&nbsp; WAZ-ONLINE.de ",
-    "zeit": "2026-11-23T16:52"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-23T21:01",
-  "archiv": [
-   {
-    "id": "9ceecee436",
-    "titel": "Wolfsburg meidet das A-Wort: „Es ist noch keine gute Saison“",
-    "datum": "22.11.",
-    "stufe": "sonstiges",
-    "summary": "Wolfsburg spricht trotz Rang 3 und nur zwei Punkten Rückstand auf Platz 2 nicht offiziell über den Aufstieg. Trainer Tobi Strobl und Fabian Reese mahnen zur Geduld."
-   },
-   {
-    "id": "d99c3c54b1",
-    "titel": "Kniat vor Debüt in Wolfsburg: „Extreme Vorfreude“ beim Tabellenletzten",
-    "datum": "19.11.",
-    "stufe": "sonstiges",
-    "summary": "Holstein Kiel startet unter Trainer Mitch Kniat als Tabellenletzter mit acht Punkten beim VfL Wolfsburg. Auch der Tabellenfünfte Wolfsburg steht unter Druck und hat zwölf Punkte Rückstand auf Hertha."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "16be174ae4",
-  "schluessel": "wolfsburg|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Wolfsburg",
-  "klubs": [
-   "Wolfsburg"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Kapitän Hensel trifft, Adjetey stabilisiert: Drittes Spiel, dritter Sieg für den VfL Wolfsburg in der Geheimliga",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOZzlhQzUzMER4d3BfRmN4VDdWZnluamR0SHJJczM5aFZvZEJVb2xYQzRsY2JlUHl0dWJ4eVZjdXJ0YkFzV1Ewa0lyUDlIcFloZ3lIS3J4U0M5am1PeE1VR3ZGMUVkR3Zra01LYlMyazRfbEsyRGh6VDZucm0xVUpFN2xERDVaclMwb0ZFTGhWLXNMUFR1UDBkWFpZc0dNbDhqdTlyNnM5ZUJ0QjlWR3Vod1U1c1ZZcW10UV8xbDJBSHlFZEluelpGdzNfbWhBa1NCbXVISi1OdW9ybldYWFozRkZXejduNTV6UzdnNm9fSUR5N3BsU2hBZURPMU44eG1YazBn0gGfAkFVX3lxTE13N2hTOXg1VHlHcTJrQzV6R0xxMGRMUW5TRjllYmljbVhGaGk1YzNPVHJSTjdDaHVJX3o2YzRram5YQlNPLTNQenR6NWljcTBpTHJCaDBuMnhIRkt3RlZ6MnFPT1ZObzR0ZnRQSXBtNzRHUExrcExXRlJFWWdIcUo0TF82ckQzTTdIcHc4ZDR3bm93UkJzNk0zTVU0akRPakczVHhHTmVjSFE3SmVTRnBTYlBVZmIxeElxWEs3ekoyNldNclJkd055ZGNXY0NVUGY0S3p1bTA3YVpCMF9RRWlzTkJOYkdIQm51S2huUl91UkFobnpKcGNwWEJSYldHbjBfOW1reUk2TUhOMUxzZ04weFBjd2o1ZHVReV8wR0w4?oc=5",
-    "aid": "94e12c2ab0",
-    "titel": "Kapitän Hensel trifft, Adjetey stabilisiert: Drittes Spiel, dritter Sieg für den VfL Wolfsburg in der Geheimliga",
-    "quelle": "WAZ-ONLINE.de",
-    "beschr": " Kapitän Hensel trifft, Adjetey stabilisiert: Drittes Spiel, dritter Sieg für den VfL Wolfsburg in der Geheimliga &nbsp;&nbsp; WAZ-ONLINE.de ",
-    "zeit": "2026-11-23T17:19"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-23T21:01",
-  "archiv": [
-   {
-    "id": "1cafddf4f1",
-    "titel": "Wolfsburg schlägt Kiel am 12. Spieltag deutlich mit 3:0",
-    "datum": "21.11.",
-    "stufe": "spielbericht",
-    "summary": "Der VfL Wolfsburg besiegt Holstein Kiel am 12. Spieltag der 2. Bundesliga mit 3:0. Wolfsburg steht mit 22 Punkten auf Rang vier, Kiel mit 8 Punkten auf Platz 18."
-   }
-  ],
-  "versuche": 2
- },
- {
   "id": "ee65dd564e",
   "schluessel": "magdeburg|sonstiges",
   "person": "",
@@ -248,7 +34,7 @@
     "summary": "Der 1. FC Magdeburg spielt am Freitag, 20. November, um 18:30 Uhr bei Arminia Bielefeld. Magdeburg steht mit 20 Punkten auf Rang vier, Bielefeld mit 17 Punkten auf Platz sechs."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "4a973e10c4",
@@ -286,7 +72,7 @@
     "summary": "Eintracht Braunschweig hat die frühere Nationalspielerin Tabea Kemme in den Aufsichtsrat der Profifußballgesellschaft gewählt. Präsidentin Nicole Kumpis wurde im Amt bestätigt."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "76164a0e10",
@@ -330,7 +116,7 @@
     "summary": "Cottbus-Trainer Claus-Dieter Wollitz traut Spitzenreiter Hertha vor dem Duell am Sonntag einen neuen Zweitliga-Punkterekord zu. Cottbus steht mit elf Punkten auf Relegationsrang 16."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "4422db4d70",
@@ -359,7 +145,7 @@
   "status": "n",
   "erstmals": "2026-11-24T06:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "cf7bed0263",
@@ -396,7 +182,7 @@
     "summary": "Kiels Adrián Kaprálik hat sich bei der slowakischen Nationalmannschaft einen Mittelfußbruch zugezogen und fällt voraussichtlich bis zum Jahresende aus. Vor dem Pflichtspieldebüt von Trainer Mitch Kniat in Wolfsburg sind auch Alidou und Schonlau fraglich."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "719a3c93c9",
@@ -415,6 +201,14 @@
    {
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaXJVSWlmam1xZmdXWnpPcExMaGJxYVNvOU0tLVNjYjZZUzNjamJQMFpKNms1TzRaWTZ0ZWY0ekxjZS1qenZ3dmV5RlBFQzVlcWhBTER4NHB3OEVlTzRZM0pXY3ROeW95M2paR0VkWkg4aDQ4Z1haNXVMNW9VYXBTZzg4Tllad2dxWU03ZTFuamlyd0dkWmJYRFBvNG1adnJwMG1LbHNURGQyUkdWdzBGR2QtVDF1T0VuUGJXaDktOGN3aVFKeDdZ0gHMAUFVX3lxTFBkcTRNcWJybWhENkxsdkswajhCWEhUb3FsbDlBd052SkVvMDlXV2xZU25iRm9Nb0F2VUtHMTlIa3pDSXlCZmR5bmhJUDExX1otUlNCM3BVU0tqU2EwblE3Qm1vUHo1VTkzT3I5UHFvUUJBVXVqdFpfZDlSdlRFRUktRWhiWFpyTHJyc3JWdi1zZnFkbWVaZ2tjeUtXTHROOUVtTUg2V09kcE5acUVCOUFtTXVXWUZ3dGhGZkVPWnh6aHRKSFdJN3dyR25sYQ?oc=5",
     "aid": "5fb04c4111",
+    "titel": "Maximilian Entrup kehrt nach Verletzung zurück und leitet Braunschweigs Sieg in Nürnberg ein",
+    "quelle": "Tribuna.com",
+    "beschr": " Maximilian Entrup kehrt nach Verletzung zurück und leitet Braunschweigs Sieg in Nürnberg ein &nbsp;&nbsp; Tribuna.com ",
+    "zeit": "2026-11-23T15:22"
+   },
+   {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZHE0TXFicm1oRDZMbHZLMGo4QlhIVG9xbGw5QXdOdkpFbzA5V1dsWVNuYkZvTW9BdlVLRzE5SGt6Q0l5QmZkeW5oSVAxMV9aLVJTQjNwVVNLalNhMG5RN0Jtb1B6NVU5M09yOVBxb1FCQVV1anRaX2Q5UnZURUVJLUVoYlhackxycnNyVnYtc2ZxZG1lWmdrY3lLV0x0TjlFbU1INldPZHBOWnFFQjlBbU11V1lGd3RoRmZFT1p4emh0SkhXSTd3ckdubGHSAcwBQVVfeXFMUGRxNE1xYnJtaEQ2TGx2SzBqOEJYSFRvcWxsOUF3TnZKRW8wOVdXbFlTbmJGb01vQXZVS0cxOUhrekNJeUJmZHluaElQMTFfWi1SU0IzcFVTS2pTYTBuUTdCbW9QejVVOTNPcjlQcW9RQkFVdWp0Wl9kOVJ2VEVFSS1FaGJYWnJMcnJzclZ2LXNmcWRtZVpna2N5S1dMdE45RW1NSDZXT2RwTlpxRUI5QW1NdVdZRnd0aEZmRU9aeHpodEpIV0k3d3JHbmxh?oc=5",
+    "aid": "0d28ad7ff1",
     "titel": "Maximilian Entrup kehrt nach Verletzung zurück und leitet Braunschweigs Sieg in Nürnberg ein",
     "quelle": "Tribuna.com",
     "beschr": " Maximilian Entrup kehrt nach Verletzung zurück und leitet Braunschweigs Sieg in Nürnberg ein &nbsp;&nbsp; Tribuna.com ",
@@ -448,7 +242,7 @@
     "summary": "Braunschweigs Trainer Lars Kornetka ist erkrankt und fehlte bei der Pressekonferenz vor dem Spiel in Nürnberg. Assistent Stefan Kulovits rechnet mit seiner Rückkehr bis Samstag."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "84436c341a",
@@ -485,7 +279,7 @@
     "summary": "Der VfL Wolfsburg besiegt Holstein Kiel am 12. Spieltag der 2. Bundesliga mit 3:0. Wolfsburg steht mit 22 Punkten auf Rang vier, Kiel mit 8 Punkten auf Platz 18."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "65d56979b0",
@@ -523,6 +317,115 @@
     "summary": "Der VfL Wolfsburg verhandelt laut „Sky“ über einen Winter-Transfer von Gabriel Wesseh von Fredrikstad FK. Der 18-Jährige hat dort noch Vertrag bis 2030 und kommt auf fünf Torbeteiligungen in zwölf Spielen."
    }
   ],
+  "versuche": 2
+ },
+ {
+  "id": "04a1f781e5",
+  "schluessel": "braunschweig|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Braunschweig",
+  "klubs": [
+   "Braunschweig"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "\"Gut reingeschraubt, aber Sonntag …\": Reese über Braunschweig, Berlin und was ihn stolz macht",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcUdJb1ZXdHFfc05HMmR0TF9nekZnQnhsWEpVYk1PZ3V2R2VVeTYwcnpNTm5ZcEtKTFlnbHhIUXdoMExHbFlIUHBDX1lKMGN1XzdEOHE0VkVQYVQtNEZXa1ZqeWpSd2RJbV9PVmJwMkw5Sy1neWpCcmNTa0VzbjZSNHZ4VkJoeUxHQzVETGJ6eUpRRjBWMS1TX1lrelc4dEJUOUxwaWl4WGNWeVAxcUJKN0p3UTJUWFNGRVZLendJajA4UkU?oc=5",
+    "aid": "8623103c59",
+    "titel": "\"Gut reingeschraubt, aber Sonntag …\": Reese über Braunschweig, Berlin und was ihn stolz macht",
+    "quelle": "Kicker",
+    "beschr": " \"Gut reingeschraubt, aber Sonntag …\": Reese über Braunschweig, Berlin und was ihn stolz macht &nbsp;&nbsp; Kicker ",
+    "zeit": "2026-11-24T08:00"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-24T09:02",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "ce9599e9a2",
+  "schluessel": "hertha|transfer",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha"
+  ],
+  "stufe": "geruecht",
+  "klasse": "transfer",
+  "titel": "Was es in 59 Jahren nicht gab: Bei Hertha sitzt ein Königstransfer auf der Bank",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTEVudVpfaDBHVHJZOU9aR0E5ZVptN2NzZ2pGTmxqWDJuakN0MkhFVXJlYjRrWi01cjNtMVhWaHV0U1hXZmU0OVlFYkw3LUo1c3BqWURSQVlObldBMXRBODZvUWlMelFEREZKc0FfODBKYm53SlJjcHN6eFViOWNQTkZwbi14SzU0MkR4elBtVmU3aXZwWTdjMGM4cGVObGREVHFhcmxXazNOZ2xuQS1Jd0s3MjZrbjIyelVZWkZwZ1g4UmtVcFZyNG9MTjVCcDE4dzJ0Vm4tNA?oc=5",
+    "aid": "9988766ebc",
+    "titel": "Was es in 59 Jahren nicht gab: Bei Hertha sitzt ein Königstransfer auf der Bank",
+    "quelle": "Berliner Morgenpost",
+    "beschr": " Was es in 59 Jahren nicht gab: Bei Hertha sitzt ein Königstransfer auf der Bank &nbsp;&nbsp; Berliner Morgenpost ",
+    "zeit": "2026-11-24T06:00"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "u",
+  "erstmals": "2026-11-24T09:02",
+  "archiv": [
+   {
+    "id": "1f007afd7d",
+    "titel": "Hertha hat offenbar Südtirols Simone Davi wieder auf dem Zettel",
+    "datum": "23.11.",
+    "stufe": "geruecht",
+    "summary": "Hertha BSC hat laut Gianluca Di Marzio weiter Linksverteidiger Simone Davi vom FC Südtirol im Blick. Der Vertrag des 27-Jährigen endet im Sommer, ein Vorstoß im Winter ist möglich."
+   },
+   {
+    "id": "a8ba66d6fb",
+    "titel": "BVB hat Herthas Abwehrchef Linus Gechter im Visier",
+    "datum": "19.11.",
+    "stufe": "geruecht",
+    "summary": "Borussia Dortmund hat laut kicker Herthas Innenverteidiger Linus Gechter im Blick, dessen Vertrag 2027 endet. Auch die Nürnberger Fynn Otto und Alexios Kalogeropoulos sind ein Thema."
+   },
+   {
+    "id": "8b69f7a5d4",
+    "titel": "Hertha will Leihspieler Adewumi fest verpflichten",
+    "datum": "15.11.",
+    "stufe": "geruecht",
+    "summary": "Hertha BSC will Leihspieler Oluwaseun Adewumi vom FC Burnley fest verpflichten. Eine Kaufoption besteht nicht, auch andere Klubs zeigen Interesse."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "26d5763a42",
+  "schluessel": "furth|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Fürth",
+  "klubs": [
+   "Fürth"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Wutrede mit ruhiger Stimme: Abwehrchef Jannis Heuer über fehlenden Mut beim Kleeblatt",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeUVzT2JXLXMzY2QxLXF0R0VWeV9TTHBfRjR0dlFlWGxVWkl3cjd5NndjNGRFM3E2UFdvYUhOVHNJUG9kS08xQ0NxWE0zeGhPZEdaMWtLSkFkMG1OblRWMkJJWlg4cUdjaTFTOURLamxmN0s0TlV4aE91RjFDTkdMZ2VuTUY3aU84LXJraks4dVY3MGZhWHdCc3B2RUhaNmhIVkU0bDRORVVZRzJsb1MtbG5aUm1xZDZOOVBlejNvcVNhQUFJWGtOYndrZk1kY2VhYVdVOEFfRkg?oc=5",
+    "aid": "2480197109",
+    "titel": "Wutrede mit ruhiger Stimme: Abwehrchef Jannis Heuer über fehlenden Mut beim Kleeblatt",
+    "quelle": "NN.de",
+    "beschr": " Wutrede mit ruhiger Stimme: Abwehrchef Jannis Heuer über fehlenden Mut beim Kleeblatt &nbsp;&nbsp; NN.de ",
+    "zeit": "2026-11-24T08:00"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-24T09:02",
+  "archiv": [],
   "versuche": 1
  }
 ]
