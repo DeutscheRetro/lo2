@@ -1,5 +1,40 @@
 [
   {
+    "id": "aa48c68953",
+    "titel": "Wolfsburg ohne Shiogai: Schwere Muskelverletzung im Oberschenkel",
+    "kategorie": "verletzung",
+    "badge": "Verletzung",
+    "badge_bg": "#e53935",
+    "badge_fg": "#fff",
+    "datum": "24.11.2026 18:03",
+    "wappen_url": "logos/wolfsburg.png",
+    "vereine": [
+      "Hertha",
+      "Wolfsburg"
+    ],
+    "anriss": "Der VfL Wolfsburg muss bis auf Weiteres auf Offensivspieler Kento Shiogai verzichten. Der Klub bestätigte eine „schwere Muskelverletzung im hinteren linken Oberschenkel“. Der Japaner hatte sich beim 3:0 gegen Holstein Kiel verletzt. In der 85. Minute war Shiogai zu Boden gegangen und hatte sich an",
+    "spielerstatus": [
+      {
+        "spieler": "Shiogai",
+        "klub": "Wolfsburg",
+        "status": "faellt_aus",
+        "grund": "Schwere Muskelverletzung im Oberschenkel"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Wolfsburg",
+    "pfad": "artikel/wolfsburg-ohne-shiogai-schwere-muskelverletzung-im-oberschenkel-aa48c68953.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "reaktion",
+      "frage": "",
+      "antworten": [
+        "💚 Gute Besserung"
+      ]
+    },
+    "n11": false
+  },
+  {
     "id": "9ca8228072",
     "titel": "Mathisen nach Bank-Pause: „Ich war scharf“ beim St.-Pauli-Comeback",
     "kategorie": "interview",
