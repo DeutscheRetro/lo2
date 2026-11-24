@@ -3,11 +3,6 @@
   functions = "netlify/functions"
 
 [[redirects]]
-  from = "/chefred.html"
-  to = "/chefred.html"
-  status = 200
-
-[[redirects]]
   from = "/forum.html"
   to = "/forum.html"
   status = 200

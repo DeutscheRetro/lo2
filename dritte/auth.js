@@ -415,7 +415,7 @@ window.LO_SAISON = (d => d.getMonth() >= 6 ? d.getFullYear() : d.getFullYear() -
       const w = await window.loWerBinIch(u);
       if (!w.darfLoeschen || document.getElementById('admin-link')) return;
       const a = document.createElement('a');
-      a.id = 'admin-link'; a.href = 'https://ligaoutsider.de/chefred.html'; a.textContent = '⚙ Admin';   // Redaktion und Konto liegen auf der Hauptseite
+      a.id = 'admin-link'; a.href = 'https://ligaoutsider.de/andreas.html'; a.textContent = '⚙ Admin';   // Redaktion und Konto liegen auf der Hauptseite
       a.style.cssText = 'margin-right:8px;text-decoration:none;font-weight:700;color:var(--accent,#e8c000)';
       ui.prepend(a);
     } catch (e) { /* ohne Link weiterarbeiten */ }
