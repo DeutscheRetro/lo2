@@ -1,5 +1,152 @@
 [
   {
+    "id": "73d04959c8",
+    "titel": "Kiel gegen Kaiserslautern: Schlusslicht vor schwerer Aufgabe",
+    "kategorie": "analyse",
+    "badge": "Analyse",
+    "badge_bg": "#6a1fbf",
+    "badge_fg": "#fff",
+    "datum": "25.11.2026 15:04",
+    "wappen_url": "logos/kiel.png",
+    "vereine": [
+      "Kaiserslautern",
+      "Kiel"
+    ],
+    "anriss": "Holstein Kiel empfängt am Samstag den 1. FC Kaiserslautern und steht dabei unter Druck. Die KSV hat die letzten drei Spiele verloren, zuletzt gab es ein 0:3 gegen den VfL Wolfsburg. Mit acht Punkten liegt Kiel auf Platz 18. Nach zwölf Spielen stehen für die",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Kiel",
+    "pfad": "artikel/kiel-gegen-kaiserslautern-schlusslicht-vor-schwerer-aufgabe-73d04959c8.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "b71e14f8fb",
+    "titel": "Hertha will Serie gegen Karlsruhe ausbauen",
+    "kategorie": "analyse",
+    "badge": "Analyse",
+    "badge_bg": "#6a1fbf",
+    "badge_fg": "#fff",
+    "datum": "25.11.2026 15:04",
+    "wappen_url": "logos/hertha.png",
+    "vereine": [
+      "Hertha",
+      "Karlsruhe"
+    ],
+    "anriss": "Tabellenführer Hertha BSC geht als klarer Favorit in das Heimspiel gegen den Karlsruher SC. Die Berliner haben zuletzt vier Spiele in Folge gewonnen, am Sonntag gelang ein 4:0 gegen Energie Cottbus. Mit 34 Punkten führt Hertha die 2. Bundesliga an, die Bilanz lautet elf Siege,",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Hertha",
+    "pfad": "artikel/hertha-will-serie-gegen-karlsruhe-ausbauen-b71e14f8fb.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "1440adca65",
+    "titel": "Bochum vor Darmstadt: Hofmann trifft gerne gegen die Lilien",
+    "kategorie": "analyse",
+    "badge": "Analyse",
+    "badge_bg": "#6a1fbf",
+    "badge_fg": "#fff",
+    "datum": "25.11.2026 15:04",
+    "wappen_url": "logos/bochum.png",
+    "vereine": [
+      "Bochum",
+      "Darmstadt"
+    ],
+    "anriss": "Der VfL Bochum empfängt am 27. November den SV Darmstadt 98. Im Mittelpunkt des Gegnerchecks steht Bochums Mittelstürmer Philipp Hofmann, der in seiner Karriere gegen Darmstadt zehnmal getroffen hat. Hofmann kam gegen die Lilien 14-mal zum Einsatz. In der laufenden Saison erzielte der Stürmer in",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Bochum",
+    "pfad": "artikel/bochum-vor-darmstadt-hofmann-trifft-gerne-gegen-die-lilien-1440adca65.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "e7f3f61fef",
+    "titel": "Magdeburg: Falko Michel vor Rückkehr gegen Cottbus",
+    "kategorie": "verletzung",
+    "badge": "Verletzung",
+    "badge_bg": "#e53935",
+    "badge_fg": "#fff",
+    "datum": "25.11.2026 15:04",
+    "wappen_url": "logos/magdeburg.png",
+    "vereine": [
+      "Bielefeld",
+      "Cottbus",
+      "Magdeburg"
+    ],
+    "anriss": "Der 1. FC Magdeburg kann im Heimspiel gegen Energie Cottbus womöglich wieder auf Mittelfeldspieler Falko Michel zurückgreifen. Der 25-Jährige steht nach hartnäckigen Muskelproblemen wieder auf dem Trainingsplatz und mischt voll mit. Das Ostduell in der Avnet Arena steigt am Sonntag um 13.30 Uhr und wird",
+    "spielerstatus": [
+      {
+        "spieler": "Müsel",
+        "klub": "Magdeburg",
+        "status": "faellt_aus",
+        "grund": "Muskelfaserriss"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Magdeburg",
+    "pfad": "artikel/magdeburg-falko-michel-vor-rueckkehr-gegen-cottbus-e7f3f61fef.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "2d0d40516c",
+    "titel": "Nürnbergs Mathenia schließt B-Lizenz ab und strebt Torwarttrainer-Job an",
+    "kategorie": "interview",
+    "badge": "Interview",
+    "badge_bg": "#1976d2",
+    "badge_fg": "#fff",
+    "datum": "25.11.2026 15:04",
+    "wappen_url": "logos/nuernberg.png",
+    "vereine": [
+      "Nürnberg"
+    ],
+    "anriss": "Christian Mathenia, Ersatztorwart des 1. FC Nürnberg, hat die B-Lizenz des Bayerischen Fußball-Verbandes erworben. Der 34-Jährige gehörte zu den 23 Absolventen des dritten BFV-Trainerlizenz-Sonderlehrgangs. Sein Ziel führt zurück zum Club. Für den Lehrgang absolvierten die Teilnehmer sechs zweitägige Präsenzblöcke in der Sportschule Oberhaching. Neben Mathenia",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Nürnberg",
+    "pfad": "artikel/nuernbergs-mathenia-schliesst-b-lizenz-ab-und-strebt-torwarttrainer-2d0d40516c.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "f343be17a6",
+    "titel": "Nürnbergs Porstner: „In dieser Liga hilft nicht immer Tiki-Taka“",
+    "kategorie": "interview",
+    "badge": "Interview",
+    "badge_bg": "#1976d2",
+    "badge_fg": "#fff",
+    "datum": "25.11.2026 15:03",
+    "wappen_url": "logos/nuernberg.png",
+    "vereine": [
+      "Braunschweig",
+      "Heidenheim",
+      "Nürnberg"
+    ],
+    "anriss": "Nürnbergs Linksverteidiger Eric Porstner fordert nach der 1:2-Niederlage gegen Braunschweig mehr Robustheit und Einsatz. Der 19-Jährige sagt: „In dieser Liga hilft nicht immer Tiki-Taka.“ Am Freitag (18.30 Uhr) tritt der Club beim 1. FC Heidenheim an. Nach den ersten sechs Saisonspielen hatte der FCN 16",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Nürnberg",
+    "pfad": "artikel/nuernbergs-porstner-in-dieser-liga-hilft-nicht-immer-tiki-taka-f343be17a6.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "recht",
+      "frage": "Hat Porstner recht mit seiner Kritik am Tiki-Taka des Clubs?",
+      "antworten": [
+        "Ja",
+        "Nein"
+      ]
+    },
+    "n11": false
+  },
+  {
     "id": "e09451d220",
     "titel": "Cottbus: Wollitz setzt Cigerci auf die Bank, Fans sind skeptisch",
     "kategorie": "analyse",
