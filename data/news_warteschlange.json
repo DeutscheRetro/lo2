@@ -1,153 +1,5 @@
 [
  {
-  "id": "c16bffff88",
-  "schluessel": "frankfurt|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Frankfurt",
-  "klubs": [
-   "Frankfurt"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Beim Treffen unter Freunden: Fans von Hauptstadt-Klub haben absolut verrückte Marke im Blick",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNTc2dk9jVmllRnctclNpV2Z4d0VVSTZLWm9hQ3dRdEpVLUdTUXBzdG1jdTZNa1NsYXdJLU9HN0pPYWNpNVhmRnlFdm8xN0N3OEE3UmxZMC1UaXlrMmt6dFpkWl90enZOUHlydGZ0Wm1BNjNhcE1HcnRqdzdMSC13ZllPdVZvTGRyUHI5MkRDd0dhRm1CWEJoVWx2a2h1azJ4VmVqSlA0SDdDTHpXUGRrMi04MTFzdlF4ZGpXNHBxSm5kUTI0SEU3Yw?oc=5",
-    "aid": "5dc7353605",
-    "titel": "Beim Treffen unter Freunden: Fans von Hauptstadt-Klub haben absolut verrückte Marke im Blick",
-    "quelle": "Frankfurter Rundschau",
-    "beschr": " Beim Treffen unter Freunden: Fans von Hauptstadt-Klub haben absolut verrückte Marke im Blick &nbsp;&nbsp; Frankfurter Rundschau ",
-    "zeit": "2026-11-25T08:30"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-25T09:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "ba8fd1a56d",
-  "schluessel": "bochum|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Bochum",
-  "klubs": [
-   "Bochum",
-   "Darmstadt",
-   "Nürnberg"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "VfL Bochum: Darmstadt, Augsburg, Nürnberg – Hofmann erklärt, worauf es jetzt ankommt",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQc3hWWFhIOGdKWURnMTd2VFRPUWE5cVdicHUtdEcwVGU1NkV6MGhBbnJ5clNTdXBGSk5fakg4Z01kbDZlcGVWYzNoMjVIX2pTZHcweElBRHZVd2I1a0pvdGIzUFlHMklwdE11Tzk2YlplVjlraDNhOW9nZDA2MWlubzItOFNjV1pTcFJ1WmxxSnZxdmtycmdFUGIwdXktUTR5Q1EtQVh1V25oRFBvanh4QnJlSGQ2X2h5Tm96YWJVZ3IzdzJwSzJmZnhNWTkzMXdOV3cwcGNONA?oc=5",
-    "aid": "30a27ae9cb",
-    "titel": "VfL Bochum: Darmstadt, Augsburg, Nürnberg – Hofmann erklärt, worauf es jetzt ankommt",
-    "quelle": "RevierSport online",
-    "beschr": " VfL Bochum: Darmstadt, Augsburg, Nürnberg – Hofmann erklärt, worauf es jetzt ankommt &nbsp;&nbsp; RevierSport online ",
-    "zeit": "2026-11-25T06:37"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-25T09:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "1ce1ddad90",
-  "schluessel": "bochum|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Bochum",
-  "klubs": [
-   "Bochum"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Nur ein Lückenfüller? Bochums Neubesetzung der Zentrale",
-  "quellen": [
-   {
-    "url": "https://www.kicker.de/nur-ein-lueckenfueller-bochums-neubesetzung-der-zentrale-1274791/artikel#omrss",
-    "aid": "4fc206e107",
-    "titel": "Nur ein Lückenfüller? Bochums Neubesetzung der Zentrale",
-    "quelle": "kicker 2. Bundesliga News",
-    "beschr": "Durch die Gelbsperre von Tom Meyer ist der VfL Bochum zu Veränderungen auf der Doppel-Sechs gezwungen. Gegen Darmstadt steht einiges auf dem Spiel.",
-    "zeit": "2026-11-25T11:18"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-25T12:01",
-  "archiv": [
-   {
-    "id": "6e8bcc3add",
-    "titel": "Rasmussen trifft und trifft: Bochums Däne in Topform",
-    "datum": "12.11.",
-    "stufe": "sonstiges",
-    "summary": "Christian Rasmussen hat in drei Pflichtspielen drei Tore erzielt und zwei vorbereitet. Bochum gewann alle Partien und spielt unter Uwe Rösler nun mit Viererkette und Doppelspitze."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "a26d189319",
-  "schluessel": "darmstadt|verletzung",
-  "person": "",
-  "spieler": [],
-  "klub": "Darmstadt",
-  "klubs": [
-   "Darmstadt"
-  ],
-  "stufe": "rueckkehr",
-  "klasse": "verletzung",
-  "titel": "Comeback eines Abgeschriebenen: Baders eindrucksvolle Lilien-Rückkehr",
-  "quellen": [
-   {
-    "url": "https://www.kicker.de/comeback-eines-abgeschriebenen-baders-eindrucksvolle-lilien-rueckkehr-1274812/artikel#omrss",
-    "aid": "4604d95fad",
-    "titel": "Comeback eines Abgeschriebenen: Baders eindrucksvolle Lilien-Rückkehr",
-    "quelle": "kicker 2. Bundesliga News",
-    "beschr": "Nach langer Verletzungsmisere schien Matthias Bader beim SV Darmstadt 98 auf dem Abstellgleis gelandet zu sein. Im Frühherbst war er nur noch Rechtsverteidiger Nummer drei. Doch nun meldet sich der 29-Jährige eindrucksvoll zurück.",
-    "zeit": "2026-11-25T09:55"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-25T12:01",
-  "archiv": [
-   {
-    "id": "1c828f8434",
-    "titel": "Schmidt schildert Föhrenbachs Verletzung: „In dem Moment war es ein Schock“",
-    "datum": "19.11.",
-    "stufe": "ausfall",
-    "summary": "Heidenheims Jonas Föhrenbach brach sich im Training nach einem Zweikampf mit Tim Siersleben das linke Schienbein und fällt monatelang aus. Trainer Frank Schmidt schildert den Hergang, in Darmstadt könnte Julian Niehues ihn ersetzen."
-   },
-   {
-    "id": "7bd70e33a7",
-    "titel": "Darmstadt gegen Heidenheim wohl ohne Schuhen, Lee und Pfeiffer",
-    "datum": "17.11.",
-    "stufe": "fraglich",
-    "summary": "Darmstadt muss gegen Heidenheim voraussichtlich auf Torhüter Marcel Schuhen, Lee und Pfeiffer verzichten. Alexander Brunst dürfte im Tor stehen, Sickinger ist zurück im Mannschaftstraining."
-   },
-   {
-    "id": "7cb0555180",
-    "titel": "Darmstadt: Nürnberger, Papela und Sickinger trainieren wieder",
-    "datum": "11.11.",
-    "stufe": "rueckkehr",
-    "summary": "Darmstadts Fabian Nürnberger, Merveille Papela, Luca Marseiler und Carlo Sickinger sind zurück auf dem Trainingsplatz. Gleichzeitig ist der Einsatz von Marcel Schuhen, Patric Pfeiffer und Hojae Lee gegen Heidenheim fraglich."
-   }
-  ],
-  "versuche": 2
- },
- {
   "id": "9145b038c4",
   "schluessel": "hertha|sonstiges",
   "person": "",
@@ -174,7 +26,7 @@
   "status": "n",
   "erstmals": "2026-11-25T12:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "ea95d1648e",
@@ -203,7 +55,7 @@
   "status": "n",
   "erstmals": "2026-11-25T12:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "61e603d35f",
@@ -234,7 +86,7 @@
   "status": "n",
   "erstmals": "2026-11-25T15:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "d272bf9ec5",
@@ -286,7 +138,7 @@
     "summary": "Herthas Jón Dagur Thorsteinsson erzählt, wie ihm die Leihe zu Brann Bergen wieder Selbstvertrauen gab. Sein Doppelpack in Dresden war sein bisher stärkster Abend im Hertha-Trikot."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "bc4db48644",
@@ -323,7 +175,7 @@
     "summary": "Christian Rasmussen hat in drei Pflichtspielen drei Tore erzielt und zwei vorbereitet. Bochum gewann alle Partien und spielt unter Uwe Rösler nun mit Viererkette und Doppelspitze."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "86c15ad3d2",
@@ -351,7 +203,8 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-25T15:01",
-  "archiv": []
+  "archiv": [],
+  "versuche": 1
  },
  {
   "id": "8e11f8a99b",
@@ -401,7 +254,8 @@
     "stufe": "sonstiges",
     "summary": "St. Paulis Connor Metcalfe bereitet beim 3:0 Australiens gegen Katar zwei Tore vor. Sam Klein feiert sein Länderspieldebüt nach Einwechslung in der 65. Minute."
    }
-  ]
+  ],
+  "versuche": 1
  },
  {
   "id": "1c7c770349",
@@ -429,6 +283,315 @@
   "prio": 3,
   "status": "n",
   "erstmals": "2026-11-25T15:01",
+  "archiv": [],
+  "versuche": 2
+ },
+ {
+  "id": "108eab8185",
+  "schluessel": "hertha|vertrag",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha"
+  ],
+  "stufe": "vertrag",
+  "klasse": "vertrag",
+  "titel": "Mit Hertha in die Bundesliga? Seguins Vertrag hat sich automatisch verlängert",
+  "quellen": [
+   {
+    "url": "https://www.kicker.de/mit-hertha-in-die-bundesliga-seguins-vertrag-hat-sich-automatisch-verlaengert-1275018/artikel#omrss",
+    "aid": "a48a9a1494",
+    "titel": "Mit Hertha in die Bundesliga? Seguins Vertrag hat sich automatisch verlängert",
+    "quelle": "kicker 2. Bundesliga News",
+    "beschr": "Paul Seguin ist in der derzeit überragenden Mannschaft von Hertha BSC ein elementares Puzzleteil im Mittelfeld - und bleibt der Alten Dame über den Sommer hinaus und damit vielleicht in der Bundesliga erhalten.",
+    "zeit": "2026-11-25T17:56"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-25T18:01",
+  "archiv": [
+   {
+    "id": "86f32b7d18",
+    "titel": "Cottbus hat Kaufoption auf Michelbrink, Hertha mit Rückkaufrecht",
+    "datum": "15.11.",
+    "stufe": "vertrag",
+    "summary": "Cottbus besitzt laut Trainer Pele Wollitz eine Kaufoption auf Leihspieler Lukas Michelbrink. Hertha BSC hat zugleich eine Rückkaufoption, Details sind unbekannt."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "51ab69f811",
+  "schluessel": "wolfsburg|transfer",
+  "person": "",
+  "spieler": [],
+  "klub": "Wolfsburg",
+  "klubs": [
+   "Wolfsburg"
+  ],
+  "stufe": "geruecht",
+  "klasse": "transfer",
+  "titel": "Wolfsburger Winterpläne: Bayers Oermann ist ein heißer Kandidat",
+  "quellen": [
+   {
+    "url": "https://www.kicker.de/wolfsburger-winterplaene-bayers-oermann-ist-ein-heisser-kandidat-1274973/artikel#omrss",
+    "aid": "d69df5cfe1",
+    "titel": "Wolfsburger Winterpläne: Bayers Oermann ist ein heißer Kandidat",
+    "quelle": "kicker 2. Bundesliga News",
+    "beschr": "Der VfL Wolfsburg fahndet nach Verstärkung für den Winter und könnte dabei in der Bundesliga fündig werden. Bayer Leverkusens Tim Oermann ist nach kicker-Informationen ein heißer Kandidat für die Defensive.",
+    "zeit": "2026-11-25T16:13"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-25T18:01",
+  "archiv": [
+   {
+    "id": "6ea3e275e3",
+    "titel": "Wolfsburg prüft Winter-Verpflichtung von Gabriel Wesseh",
+    "datum": "13.11.",
+    "stufe": "geruecht",
+    "summary": "Der VfL Wolfsburg verhandelt laut „Sky“ über einen Winter-Transfer von Gabriel Wesseh von Fredrikstad FK. Der 18-Jährige hat dort noch Vertrag bis 2030 und kommt auf fünf Torbeteiligungen in zwölf Spielen."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "561c1045ac",
+  "schluessel": "hertha|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Marco Richter beeindruckt von Hertha BSC",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZWttUlRRNjhLdVhnTG0wVDNKYk5RaXpvYzhCc2NyNzAyUXhjei1VbFNKbWRCajJKY2p1R05WNUNVMHZoSlJaZHkxMHJyQXgxNGFMUGUzdHI4TzI4ZVk2cVUwcUNHSWRHMVNRVGFhSmt6Y2tEbTRkSnY1czEyUXhLTG5UMjg2emhYbzhfUldVbEVVWjVBeURUTQ?oc=5",
+    "aid": "0f4761b608",
+    "titel": "Marco Richter beeindruckt von Hertha BSC",
+    "quelle": "Sky.de",
+    "beschr": " Marco Richter beeindruckt von Hertha BSC &nbsp;&nbsp; Sky.de ",
+    "zeit": "2026-11-25T16:35"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-25T18:01",
+  "archiv": [
+   {
+    "id": "b71e14f8fb",
+    "titel": "Hertha will Serie gegen Karlsruhe ausbauen",
+    "datum": "25.11.",
+    "stufe": "sonstiges",
+    "summary": "Tabellenführer Hertha BSC empfängt nach vier Siegen in Folge den Karlsruher SC. Der KSC steht mit zwölf Punkten auf Rang 15 und hat 24 Gegentore kassiert."
+   },
+   {
+    "id": "aff9dda184",
+    "titel": "Michelbrink vor Derby: Cottbus' Leihgabe von Hertha ist unverzichtbar",
+    "datum": "19.11.",
+    "stufe": "sonstiges",
+    "summary": "Vor dem Derby gegen Hertha BSC am Sonntag gilt Leihspieler Lukas Michelbrink bei Energie Cottbus als unverzichtbar. Cottbus besitzt eine Kaufoption, Hertha eine Rückkaufoption."
+   },
+   {
+    "id": "c3f01185bf",
+    "titel": "Hertha BSC: Opta-Daten belegen die Tabellenführung der Berliner",
+    "datum": "19.11.",
+    "stufe": "sonstiges",
+    "summary": "Hertha BSC führt die 2. Bundesliga nach elf Spielen mit 31 Punkten an. Opta-Daten zeigen deutliche Steigerungen bei Intensität und Defensive gegenüber der Vorsaison."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "94af828b8b",
+  "schluessel": "dresden|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Dresden",
+  "klubs": [
+   "Dresden"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Dynamo Dresden: Verteidiger fordert: „Wir müssen erwachsener werden“",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS3J1b1c4SjIxT3l6cmxFUFliZEk4OW8zVm5UYmMtTUh6czVfSG9uZ094UzJ2c0Y4T1ltR1gyZmppQVFKdDBpWGg1alBwM2pkdmxYWVBRM1k2T0R4MmF3d20yblViRXBGdUdNT0hyd25jT0hCYVlnNENSRWZQazNtZjlueUZMQThNYVgxMDhacTJhRkhWMGJlTXd4SHYydlBfVV9jQ29OczFzOFA2S1gzRzBudjMwT2ktcnlRNUVTdHlZTXkwa3FXMG5VckFfS1piZG50OThB0gHyAUFVX3lxTE1PSXZ4N0dtQVhCb281dkgyejF3TnpRcjh1b3FlbUJjYU9STEFkRjFDdXZOMWJJUlp2QUhzbzk4YUlwYWlycUxRdUp3dEh1X2NNRFBHMFVrX0JQUjc2bjFieTM3TzVoLUNrX2x3VV9ESG1LRWNjWG02Z25rdjlQOENMTTBOMFVvNm5LMFA5Q3VYOW41NmtRcG9EUVNhMUVwaXN2UjlMNW56X1VPTi1leGtXazl5dzUwTGRTQ2VYcEU5YzFqcnRwM0x5RXVFamExNWdWSzd4ZDZrQUk2RmJvbzk4dnpHUjItNkoxblNnU2NaelRB?oc=5",
+    "aid": "8affe7b5ab",
+    "titel": "Dynamo Dresden: Verteidiger fordert: „Wir müssen erwachsener werden“",
+    "quelle": "Sächsische Zeitung",
+    "beschr": " Dynamo Dresden: Verteidiger fordert: „Wir müssen erwachsener werden“ &nbsp;&nbsp; Sächsische Zeitung ",
+    "zeit": "2026-11-25T15:50"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-25T18:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "2298b21e1f",
+  "schluessel": "wolfsburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Wolfsburg",
+  "klubs": [
+   "Wolfsburg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "BTSV-Kapitän Hoffmann: \"Anreiz, Wolfsburg auch zu ärgern\"",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcGpWUVhlWFR4eWw3SVJMQjRaX3VidGFXN3l5VENnN0l5UmkzYTM0T3pCTmlWV1VoYVR3NHNPeEhSN0E1enR0SzFnbF9pd2ltR0xOY21xY2w3VDhDYTFEWU13XzEtb3h1QlpHZWJqX3g0NExnVEs1YnpyOS10SUNqbkM5Sm94aWRNRGU4dGVFNEV3WDJWSUU4SDZ4NGVQTS1XZUFIcmFrZUFyNVJSS29LeE9aZw?oc=5",
+    "aid": "5057a53269",
+    "titel": "BTSV-Kapitän Hoffmann: \"Anreiz, Wolfsburg auch zu ärgern\"",
+    "quelle": "NDR.de",
+    "beschr": " BTSV-Kapitän Hoffmann: \"Anreiz, Wolfsburg auch zu ärgern\" &nbsp;&nbsp; NDR.de ",
+    "zeit": "2026-11-25T16:14"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-25T18:01",
+  "archiv": [
+   {
+    "id": "9ceecee436",
+    "titel": "Wolfsburg meidet das A-Wort: „Es ist noch keine gute Saison“",
+    "datum": "22.11.",
+    "stufe": "sonstiges",
+    "summary": "Wolfsburg spricht trotz Rang 3 und nur zwei Punkten Rückstand auf Platz 2 nicht offiziell über den Aufstieg. Trainer Tobi Strobl und Fabian Reese mahnen zur Geduld."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "988dd7b4d4",
+  "schluessel": "hertha|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Bei Hertha überzeugt ein überraschender Goalgetter, bringt aber ein neues Dilemma",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRVFuV0pKNWphcnFsNHM1aFVlc3ZhbnJJVGpXSWpmaVdaOGxzSHIxWnFVd2dRbnJORDRLS3haYkxLN2tOcE91dVdSRlQ1ZzVDeXhEOGpPZ1g2Z3g4YXBja3ZyTWk5S0lxVXo3UzdaOGthZDctV0Fld2w4Sy1OdUxKVHpacWk3RTgwZl9lQWp3Wnh1MUtidHptZ3JaWlBHcWstbjRDUk9RcnFJRm1Hb3JkTEMtZ2dETmpIYUxqb2loQTI4ZFBFUW5Za0JBTQ?oc=5",
+    "aid": "6797d73f9d",
+    "titel": "Bei Hertha überzeugt ein überraschender Goalgetter, bringt aber ein neues Dilemma",
+    "quelle": "Berliner Morgenpost",
+    "beschr": " Bei Hertha überzeugt ein überraschender Goalgetter, bringt aber ein neues Dilemma &nbsp;&nbsp; Berliner Morgenpost ",
+    "zeit": "2026-11-25T16:00"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-25T18:01",
+  "archiv": [
+   {
+    "id": "2ab310d211",
+    "titel": "Hertha: Adewumi trifft alle 126 Minuten und überzeugt als Leihgabe",
+    "datum": "12.11.",
+    "stufe": "sonstiges",
+    "summary": "Herthas Leihspieler Oluwaseun Adewumi hat in elf Spielen fünf Tore erzielt und trifft im Schnitt alle 126 Minuten. Seine Zukunft ist offen, da Hertha keine Kaufoption besitzt und er bis 2028 bei Burnley unter Vertrag steht."
+   },
+   {
+    "id": "b9598870dd",
+    "titel": "Thorsteinsson über Neustart bei Hertha: „Glauben an die eigene Leistung“",
+    "datum": "10.11.",
+    "stufe": "sonstiges",
+    "summary": "Herthas Jón Dagur Thorsteinsson erzählt, wie ihm die Leihe zu Brann Bergen wieder Selbstvertrauen gab. Sein Doppelpack in Dresden war sein bisher stärkster Abend im Hertha-Trikot."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "11fcac7bbb",
+  "schluessel": "wolfsburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Wolfsburg",
+  "klubs": [
+   "Wolfsburg",
+   "Braunschweig"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "VfL Wolfsburg: Warum der neue Co-Trainer erst in Braunschweig erstmals dabei ist",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSTMwWlpOQlBsQmhvSWVyR0xWWVdxVHF3MGZQT1RNVlZHZFE0eTViVUU5OHppLTNWTnFnXzM1c09tdndzLWlya3JRWm9qMXliUVRvNGxWdEV4aTdaRHhCemUxM2FHVXVMNTdnLTIxWXFrM3JNYWNadXQ1TzhsTU53ZFg2ZDVNbHdQR1lQUGpvaE5XYjQ3R19PSUJCcVJINDJoRTcwV09yVTBwNmdXMWlsWDJzaGVGTG5sM1N6aklGbXhyNUJfWUlmM3NiUjBENnRJeUMxSGtZVm1ZY3RnMTJRWEFBM1pqUGPSAYMCQVVfeXFMT05Fam9BVzc2ZE1LbFRpejNvWlRDUG5oQzMxTHB4c2xlMmMxWmVxY3Z5c2loTmc3VFk1aWdOLS0tSkJmY3dPcmVFT01RcVFFSUlRcV9jdmo1MjFqZ2kwdEpBMFFxdEcxaDVQMHByLWo3Q0tsVEpDR1g3STJVd2NjcGdIZ05VazRqSm5FUnlzTUItMXlGcnAyVUN2bnJ4X1V2dl84dFZLWWFEWjE0cDhRZnpQWjFpNVFXdmwxaldWYkEwa1NMOVZLaWpzajN6WDY4SXFSSVc5aFg4T2RlNnFRVW5zanc0ZUtad1JoVEprLWtRZVFrVW0wXzBrWC1meUdxbm9vUQ?oc=5",
+    "aid": "07a4f98d70",
+    "titel": "VfL Wolfsburg: Warum der neue Co-Trainer erst in Braunschweig erstmals dabei ist",
+    "quelle": "WAZ-ONLINE.de",
+    "beschr": " VfL Wolfsburg: Warum der neue Co-Trainer erst in Braunschweig erstmals dabei ist &nbsp;&nbsp; WAZ-ONLINE.de ",
+    "zeit": "2026-11-25T16:23"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-25T18:01",
+  "archiv": [
+   {
+    "id": "9ceecee436",
+    "titel": "Wolfsburg meidet das A-Wort: „Es ist noch keine gute Saison“",
+    "datum": "22.11.",
+    "stufe": "sonstiges",
+    "summary": "Wolfsburg spricht trotz Rang 3 und nur zwei Punkten Rückstand auf Platz 2 nicht offiziell über den Aufstieg. Trainer Tobi Strobl und Fabian Reese mahnen zur Geduld."
+   },
+   {
+    "id": "50d28cfdd6",
+    "titel": "Wolfsburgs Kumbedi debütiert für Frankreich und beerbt Trezeguet",
+    "datum": "13.11.",
+    "stufe": "sonstiges",
+    "summary": "Wolfsburgs Saël Kumbedi hat beim 1:3 in Italien sein Debüt für Frankreichs A-Nationalmannschaft gegeben. Er ist der erste aktive Zweitliga-Spieler seit fast 20 Jahren im Kader der Equipe Tricolore."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "90a89053a7",
+  "schluessel": "kiel|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Kiel",
+  "klubs": [
+   "Kiel"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Holstein Kiel: Noah Madsen ist Konstante in der Innenverteidigung",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZEpqNGdFYTdwVGw5dWNDbWJWZ2Q2M2RvX3BldWhqTEY1Rkp2eU5la2hZYmhManJfTndMQVdfblg1V1pzNFJXVWtvMmQzOWJTRl9wWXVBaEk1eUdVSmNNRGZIM0phRnpORmF5Z3BPeTRNYzRBaS10RDRvOFNRb2lZRzdSVEc3WHNNWWhsVS1KYzhZY09pY0ctWkxnUm5EOXJSSV9KMlFWQmRzSWNNZTRZYWZxWHF2U0JaS2ZlVFF3UFlKNFV0Q0dmc3NFNWUyLU1KSVHSAe4BQVVfeXFMTkZYRHlrbk9Oa3ozdU9JSXhKN3J5SXR2ZmhwazVhQzRoSFo1OTRzTDVHQ1hsQXZCY0lmNVpHWWlWeWJjNDg2dDZPbWRHc1ZHdGh3djlzS2d3amJFWHBJeU1vUktwVDR4YmwwN09NZUcyQU03QVZhNkFNeWxQeTI4YUpjb2pxZ01ZeTRQdS1PU2NmNFBQLXkyeFVtRnBxV2ZEdGd0ZkJKVTJid3dZVFZtbGVfeTdscXNNUDZxWlE5cnNmMTNDYld2ME1CZ3A0VnVXcTAwdkc1WGQ1WGo0ZEQtTlhzR1BrZlhDcG13Zl96dw?oc=5",
+    "aid": "f07875fede",
+    "titel": "Holstein Kiel: Noah Madsen ist Konstante in der Innenverteidigung",
+    "quelle": "Kieler Nachrichten",
+    "beschr": " Holstein Kiel: Noah Madsen ist Konstante in der Innenverteidigung &nbsp;&nbsp; Kieler Nachrichten ",
+    "zeit": "2026-11-25T16:41"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-25T18:01",
   "archiv": [],
   "versuche": 1
  }

@@ -1,5 +1,34 @@
 [
   {
+    "id": "dbeb1ae296",
+    "titel": "Wolfsburg wirbt um Leverkusens Innenverteidiger Tim Oermann",
+    "kategorie": "transfer",
+    "badge": "Transfer",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "25.11.2026 18:04",
+    "wappen_url": "logos/wolfsburg.png",
+    "vereine": [
+      "Bochum",
+      "Wolfsburg"
+    ],
+    "anriss": "Der VfL Wolfsburg gilt als ganz heißer Kandidat auf eine Verpflichtung von Tim Oermann. Wie der „Kicker“ berichtet, sollen bereits erste Gespräche mit dem Innenverteidiger von Bayer 04 Leverkusen über einen Wechsel im Winter stattgefunden haben. Eine Spur zum FC Schalke 04 ist nach Informationen",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Wolfsburg",
+    "pfad": "artikel/wolfsburg-wirbt-um-leverkusens-innenverteidiger-tim-oermann-dbeb1ae296.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "deal",
+      "frage": "Wäre Oermann ein guter Deal für Wolfsburg?",
+      "antworten": [
+        "👍 Guter Deal",
+        "👎 Fehler"
+      ]
+    },
+    "n11": false
+  },
+  {
     "id": "73d04959c8",
     "titel": "Kiel gegen Kaiserslautern: Schlusslicht vor schwerer Aufgabe",
     "kategorie": "analyse",
@@ -23,7 +52,7 @@
   },
   {
     "id": "b71e14f8fb",
-    "titel": "Hertha will Serie gegen Karlsruhe ausbauen",
+    "titel": "Hertha will Siegesserie gegen Karlsruhe ausbauen",
     "kategorie": "analyse",
     "badge": "Analyse",
     "badge_bg": "#6a1fbf",
@@ -34,7 +63,7 @@
       "Hertha",
       "Karlsruhe"
     ],
-    "anriss": "Tabellenführer Hertha BSC geht als klarer Favorit in das Heimspiel gegen den Karlsruher SC. Die Berliner haben zuletzt vier Spiele in Folge gewonnen, am Sonntag gelang ein 4:0 gegen Energie Cottbus. Mit 34 Punkten führt Hertha die 2. Bundesliga an, die Bilanz lautet elf Siege,",
+    "anriss": "Tabellenführer Hertha BSC geht als Favorit in das Heimspiel gegen den Karlsruher SC. Die Berliner haben zuletzt vier Spiele in Folge gewonnen, am Sonntag gelang ein 4:0 gegen Energie Cottbus. Mit 34 Punkten führt Hertha die 2. Bundesliga an. Die Bilanz lautet elf Siege, ein",
     "spielerstatus": [],
     "formation": "",
     "hauptklub": "Hertha",
@@ -45,7 +74,7 @@
   },
   {
     "id": "1440adca65",
-    "titel": "Bochum vor Darmstadt: Hofmann trifft gerne gegen die Lilien",
+    "titel": "Bochum gegen Darmstadt: Hofmann trifft gerne gegen die Lilien",
     "kategorie": "analyse",
     "badge": "Analyse",
     "badge_bg": "#6a1fbf",
@@ -56,7 +85,7 @@
       "Bochum",
       "Darmstadt"
     ],
-    "anriss": "Der VfL Bochum empfängt am 27. November den SV Darmstadt 98. Im Mittelpunkt des Gegnerchecks steht Bochums Mittelstürmer Philipp Hofmann, der in seiner Karriere gegen Darmstadt zehnmal getroffen hat. Hofmann kam gegen die Lilien 14-mal zum Einsatz. In der laufenden Saison erzielte der Stürmer in",
+    "anriss": "Der SV Darmstadt 98 gastiert am 27. November beim VfL Bochum. Der Gegnercheck der Lilien rückt dabei Bochums Mittelstürmer Philipp Hofmann in den Mittelpunkt. Er erzielte in seiner Karriere in 14 Spielen gegen Darmstadt zehn Tore. Bochum stand nach zwölf Spieltagen mit 14 Punkten auf",
     "spielerstatus": [],
     "formation": "",
     "hauptklub": "Bochum",
@@ -79,7 +108,7 @@
       "Cottbus",
       "Magdeburg"
     ],
-    "anriss": "Der 1. FC Magdeburg kann im Heimspiel gegen Energie Cottbus womöglich wieder auf Mittelfeldspieler Falko Michel zurückgreifen. Der 25-Jährige steht nach hartnäckigen Muskelproblemen wieder auf dem Trainingsplatz und mischt voll mit. Das Ostduell in der Avnet Arena steigt am Sonntag um 13.30 Uhr und wird",
+    "anriss": "Der 1. FC Magdeburg kann im Heimspiel gegen Energie Cottbus womöglich wieder auf Mittelfeldspieler Falko Michel zurückgreifen. Wie die „Volksstimme“ berichtet, steht der 25-Jährige nach hartnäckigen Muskelproblemen wieder auf dem Trainingsplatz und mischt voll mit. Michel hat sich sportlich längst etabliert, war zuletzt aber ein",
     "spielerstatus": [
       {
         "spieler": "Müsel",
@@ -130,7 +159,7 @@
       "Heidenheim",
       "Nürnberg"
     ],
-    "anriss": "Nürnbergs Linksverteidiger Eric Porstner fordert nach der 1:2-Niederlage gegen Braunschweig mehr Robustheit und Einsatz. Der 19-Jährige sagt: „In dieser Liga hilft nicht immer Tiki-Taka.“ Am Freitag (18.30 Uhr) tritt der Club beim 1. FC Heidenheim an. Nach den ersten sechs Saisonspielen hatte der FCN 16",
+    "anriss": "Nürnbergs Linksverteidiger Eric Porstner fordert nach der 1:2-Niederlage gegen Braunschweig mehr Einsatz. Der 19-Jährige sagt: „In dieser Liga hilft nicht immer Tiki-Taka.“ Am Freitag, 27. November (18.30 Uhr), tritt der Club beim 1. FC Heidenheim an. Nach den ersten sechs Saisonspielen hatte der FCN 16",
     "spielerstatus": [],
     "formation": "",
     "hauptklub": "Nürnberg",
