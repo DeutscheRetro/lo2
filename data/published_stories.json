@@ -4561,5 +4561,73 @@
     },
     "published_at": "2026-11-24T21:03:50.365225",
     "source": "MDR.de"
+  },
+  {
+    "id": "7a44a04119",
+    "generated_title": "Osnabrück verlängert mit Trainer Timo Schultz",
+    "original_url": "https://www.ndr.de/sport/fussball/trainer-schultz-verlaengert-beim-vfl-osnabrueck,osnabrueck-952.html",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Osnabrück",
+      "event_stage": "vertrag",
+      "main_teams": [
+        "Osnabrück"
+      ],
+      "main_players": [
+        "Timo Schultz"
+      ],
+      "summary": "Der VfL Osnabrück verlängert den Vertrag mit Trainer Timo Schultz. Unter ihm gelang im Mai der Aufstieg in die 2. Bundesliga, aktuell ist der Club Zwölfter.",
+      "one_sentence_summary": "Der VfL Osnabrück verlängert den Vertrag mit Trainer Timo Schultz.",
+      "schluessel": "timo schultz|vertrag"
+    },
+    "published_at": "2026-11-25T06:04:31.977881",
+    "source": "NDR.de"
+  },
+  {
+    "id": "ab0b5b8cce",
+    "generated_title": "Nürnberg: Fynn Otto zurück im Training, Startelf in Heidenheim möglich",
+    "original_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUjBrbWhXRkg2cFZRaUd4QVpGUXlnRDgwRmtKY1p0NXRJUTJZa3BpV3dHT1ZtczlZTXBZZTROeDVKb1ZzRnN0enRxZ3RuVmFzZmNCV21LQkdqYS1YZnZ4YW1LNFNtclg1QlVMYll0MjFCcFdPemUxb2ZMRWRBRjJQb3N2Y3JVbGJMazh0dWNKdjkwZlQ0d0I4ZWVkam9kM0F6SWYxM0ZIQWRFOU1JODVoY1Ffc1NJQWdZdmdjTFFB?oc=5",
+    "fingerprint": {
+      "event_type": "verletzung",
+      "main_club": "Nürnberg",
+      "event_stage": "rueckkehr",
+      "main_teams": [
+        "Braunschweig",
+        "Heidenheim",
+        "Nürnberg"
+      ],
+      "main_players": [
+        "Fynn Otto",
+        "Miroslav Klose"
+      ],
+      "summary": "Nürnbergs Abwehrchef Fynn Otto trainiert nach muskulären Problemen wieder voll mit. Er dürfte am Freitag in Heidenheim wohl wieder in die Startelf rücken.",
+      "one_sentence_summary": "Nürnbergs Abwehrchef Fynn Otto trainiert nach muskulären Problemen wieder voll mit.",
+      "schluessel": "fynn otto|verletzung"
+    },
+    "published_at": "2026-11-25T06:04:32.017080",
+    "source": "BILD"
+  },
+  {
+    "id": "e09451d220",
+    "generated_title": "Cottbus: Wollitz setzt Cigerci auf die Bank, Fans sind skeptisch",
+    "original_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMlRMdDJaUUJpVjI3YlNFSXl2QTdOeFpUU1BMdS15bGIxMVl5WEhzQmZDZTVtdFJSRnFyVEM2Yk9PSWZVWUY5cGlIaDcwYnNFbjdLTDRGMWNHY1hLS3NCZUxuZnF3ZkRlODczWk04WEk5Y21qZG8wSHROSzJjdUlyX0dnZVY1QkNNZTlSN1Q5enRaeEtnNVFRU1ZQTENVVUJmRGFJMTI4NGlXVEZycmpuUVpOUm1XdS1lZTJ0Z2lLM3VGcHRfaFpGUTVYNUdUV1U?oc=5",
+    "fingerprint": {
+      "event_type": "analyse",
+      "main_club": "Cottbus",
+      "event_stage": "sonstiges",
+      "main_teams": [
+        "Cottbus",
+        "Hertha"
+      ],
+      "main_players": [
+        "Tolcay Cigerci",
+        "Pele Wollitz"
+      ],
+      "summary": "Cottbus-Trainer Pele Wollitz setzt beim 0:4 gegen Hertha nicht auf Tolcay Cigerci und forciert einen defensiveren Kurs. Nach sieben sieglosen Spielen steht der Aufsteiger auf Rang 17, bei Fans wächst die Skepsis.",
+      "one_sentence_summary": "Cottbus-Trainer Pele Wollitz setzt beim 0:4 gegen Hertha nicht auf Tolcay Cigerci und forciert einen defensiveren Kurs.",
+      "schluessel": "tolcay cigerci|sonstiges"
+    },
+    "published_at": "2026-11-25T06:04:32.055725",
+    "source": "TAG24"
   }
 ]

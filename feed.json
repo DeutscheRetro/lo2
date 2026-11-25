@@ -1,5 +1,85 @@
 [
   {
+    "id": "e09451d220",
+    "titel": "Cottbus: Wollitz setzt Cigerci auf die Bank, Fans sind skeptisch",
+    "kategorie": "analyse",
+    "badge": "Analyse",
+    "badge_bg": "#6a1fbf",
+    "badge_fg": "#fff",
+    "datum": "25.11.2026 06:04",
+    "wappen_url": "logos/cottbus.png",
+    "vereine": [
+      "Cottbus",
+      "Hertha"
+    ],
+    "anriss": "Energie Cottbus muss ohne seinen Publikumsliebling auskommen. Tolcay Cigerci (31) stand beim 0:4 gegen Hertha nicht in der Startelf. Trainer Pele Wollitz (61) hatte die Entscheidung zuvor quasi angekündigt und begründet. Wollitz geht es nach eigener Linie nicht um Namen, sondern um defensive Stabilität. Diese",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Cottbus",
+    "pfad": "artikel/cottbus-wollitz-setzt-cigerci-auf-die-bank-fans-sind-skeptisch-e09451d220.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "7a44a04119",
+    "titel": "Osnabrück verlängert mit Trainer Timo Schultz",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "25.11.2026 06:03",
+    "wappen_url": "logos/osnabrueck.png",
+    "vereine": [
+      "Osnabrück"
+    ],
+    "anriss": "Der VfL Osnabrück hat den Vertrag mit Trainer Timo Schultz verlängert. Das teilte der Club in einer Pressemitteilung mit. Beide Seiten seien überzeugt, die sportliche Entwicklung gemeinsam weiter vorantreiben zu können. Direktor Fußball Joe Enochs sagte: „Beide haben großen Anteil an unserer sportlichen Entwicklung. Dass",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Osnabrück",
+    "pfad": "artikel/osnabrueck-verlaengert-mit-trainer-timo-schultz-7a44a04119.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "deal",
+      "frage": "Ist die Verlängerung mit Schultz ein guter Deal für Osnabrück?",
+      "antworten": [
+        "👍 Guter Deal",
+        "👎 Fehler"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "ab0b5b8cce",
+    "titel": "Nürnberg: Fynn Otto zurück im Training, Startelf in Heidenheim möglich",
+    "kategorie": "verletzung",
+    "badge": "Verletzung",
+    "badge_bg": "#e53935",
+    "badge_fg": "#fff",
+    "datum": "25.11.2026 06:03",
+    "wappen_url": "logos/nuernberg.png",
+    "vereine": [
+      "Braunschweig",
+      "Heidenheim",
+      "Nürnberg"
+    ],
+    "anriss": "Nürnbergs Abwehrchef Fynn Otto ist zurück im Mannschaftstraining. Der 24-Jährige absolvierte die erste Einheit der Woche voll und könnte am Freitag (18.30 Uhr) beim Auswärtsspiel in Heidenheim wieder in die Startelf rücken. Otto hatte wegen muskulärer Probleme gegen Darmstadt (2:0) und Braunschweig (1:2) gefehlt. Laut",
+    "spielerstatus": [
+      {
+        "spieler": "Otto",
+        "klub": "Nürnberg",
+        "status": "spielt",
+        "grund": "wieder voll im Training, schmerzfrei"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Nürnberg",
+    "pfad": "artikel/nuernberg-fynn-otto-zurueck-im-training-startelf-in-heidenheim-ab0b5b8cce.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
     "id": "12ea66ed08",
     "titel": "Chávez nach erstem FCM-Tor: „Am Ende haben wir gewonnen“",
     "kategorie": "interview",
