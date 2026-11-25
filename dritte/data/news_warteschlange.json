@@ -1,42 +1,5 @@
 [
  {
-  "id": "537a92d315",
-  "schluessel": "rostock|verletzung",
-  "person": "",
-  "spieler": [],
-  "klub": "Rostock",
-  "klubs": [
-   "Rostock"
-  ],
-  "stufe": "verletzung",
-  "klasse": "verletzung",
-  "titel": "Nach Kopfverletzung: Hansa Rostocks Maxi Krauß meldet sich per Video – mit Versprechen",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZ2NvMlQtYU05MnFVYzZaczY1WGF5b3NSblF2YURsVzFLVFZUWGcydkVqbGZKamZvdENXdG9DM3ktUmZEb1BwQ19ETW9Rb25jSEFSRTRkRXdpOXdvaGYtOUhJOVFMMDlUQlRZYmQydWNlNkFQLTk3SC1XNEk5d0g3SVE0QkV6VDdMX1FTbm1hMEYyckktbmppZ1pRZkZWelc0SEdrakhhbDk5aGZLc1ZZcTlRY181TlpKN2VyUGlSLWpqMVNPNUpGQWhUR243bEtOdkhCaHdtSlREaloydmMwOEpIT2QzZmcwazFjaExFazZFWVHSAY8CQVVfeXFMTnZhNUFfMjlSZ3luUHJFdDkwbThKT25mRGFEdk41OVhBc1luMXhxSHNjbFJRU05MUDlXT0Y2d0o0T2l4bFNHNm0tcmxSY185OXZsY040cUhLUnFMTThocC1GeUhfMEtUdkpGQ3hTWE4zQVVHTTdmNjNOeElEZWJYeEVOTlRpT2NFRi1PVUVOeV9PR2tHQk85U09ldEpJRlFVMzYtNlNIUUlxanF1OGRQNGFWVXpaUjE1cC10MnhmNUZLMGVfZGNSOTJWeklZYXZ4ZXFEOEMwZmlZSHQ1VXVYOVZEb0dvODZtSXhvSkgyS2VBY1gwejl5ZE1UNHphSHhobW5DZ3g1bzVuS1Y2bU05TQ?oc=5",
-    "aid": "88509690e7",
-    "titel": "Nach Kopfverletzung: Hansa Rostocks Maxi Krauß meldet sich per Video – mit Versprechen",
-    "quelle": "Ostsee Zeitung",
-    "beschr": " Nach Kopfverletzung: Hansa Rostocks Maxi Krauß meldet sich per Video – mit Versprechen &nbsp;&nbsp; Ostsee Zeitung ",
-    "zeit": "2026-11-24T15:51"
-   }
-  ],
-  "archiv_status": "update",
-  "prio": 3,
-  "status": "u",
-  "erstmals": "2026-11-25T04:18",
-  "archiv": [
-   {
-    "id": "dbd2b3b5d9",
-    "titel": "Krauß nach Kopfverletzung zurück im Training von Hansa Rostock",
-    "datum": "24.11.",
-    "stufe": "rueckkehr",
-    "summary": "Hansa Rostocks Maximilian Krauß ist nach seiner Kopfverletzung beim 0:2 in Duisburg wieder im Training. Er gab per Videobotschaft Entwarnung und warb für das Heimspiel gegen Havelse am Freitag."
-   }
-  ],
-  "versuche": 2
- },
- {
   "id": "90ab436ea9",
   "schluessel": "grossaspach|sonstiges",
   "person": "",
@@ -63,7 +26,7 @@
   "status": "n",
   "erstmals": "2026-11-25T19:20",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "f7179c36c3",
@@ -114,7 +77,7 @@
     "summary": "Fortuna Düsseldorfs Vorstandschef Alexander Jobst wurde bei der Mitgliederversammlung nicht entlastet. Er zeigt Verständnis und will dem neuen Aufsichtsrat zur Verfügung stehen."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "90532e6b55",
@@ -144,7 +107,7 @@
   "status": "u",
   "erstmals": "2026-11-25T19:20",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "0554c635e8",
@@ -173,7 +136,7 @@
   "status": "n",
   "erstmals": "2026-11-25T19:20",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "1a126fa92c",
@@ -202,7 +165,7 @@
   "status": "n",
   "erstmals": "2026-11-25T19:20",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "67f3d83584",
@@ -231,7 +194,7 @@
   "status": "n",
   "erstmals": "2026-11-25T19:20",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "bdb016afc8",
@@ -275,6 +238,333 @@
     "summary": "Waldhof Mannheim spielt im Landespokal-Viertelfinale um 13 Uhr beim Kreisklassisten SpVgg Neckarsteinach, der 64 Siege in Folge feierte. Tim Sechelmann und Arlind Rexhepi trainieren nach Verletzungen wieder mit."
    }
   ],
+  "versuche": 2
+ },
+ {
+  "id": "761db57c4c",
+  "schluessel": "rostock|kader",
+  "person": "",
+  "spieler": [],
+  "klub": "Rostock",
+  "klubs": [
+   "Rostock",
+   "Havelse"
+  ],
+  "stufe": "kader",
+  "klasse": "kader",
+  "titel": "Aufstellung | Hansa Rostock - TSV Havelse : | 15. Spieltag | 3. Liga 2026/27",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oNDRVVEVaOFI0NXdncEdrSGhNUi13azZRNnZjRzZxUU5HdVdPTlh4Q3k3aDRhQkNKUzBvak9LLXFScEVvcGE0bzd6TDhPb2lOZkpEaW1xclhNTG1nVTZRNk40eXk4QzdsUzhTYzR2cnV0VEZ5c3BlMnM5LVItUQ?oc=5",
+    "aid": "3eeed81e82",
+    "titel": "Aufstellung | Hansa Rostock - TSV Havelse : | 15. Spieltag | 3. Liga 2026/27",
+    "quelle": "Kicker",
+    "beschr": " Aufstellung | Hansa Rostock - TSV Havelse : | 15. Spieltag | 3. Liga 2026/27 &nbsp;&nbsp; Kicker ",
+    "zeit": "2026-11-25T20:03"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-25T23:55",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "9e7b1a13c1",
+  "schluessel": "grossaspach|kader",
+  "person": "",
+  "spieler": [],
+  "klub": "Großaspach",
+  "klubs": [
+   "Großaspach",
+   "Duisburg"
+  ],
+  "stufe": "kader",
+  "klasse": "kader",
+  "titel": "Aufstellung | SG Sonnenhof Großaspach - MSV Duisburg : | 15. Spieltag | 3. Liga 2026/27",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaGNJOG9WeUZjWTFoZGxDT2NJZlZlejE5QUhSV0pZV0ZKLV9VSmJJTTVQWjNONzg2dzYyVWNCNmxJSUhkVDNWdVhLb2JPV2NqbmQzUnN6dmp2R0hJMUlGeHdZT3pUOV9GTlBSOEo3UTQ3QU55bHhuWHU0MEs0RUNJa1hOSUI?oc=5",
+    "aid": "b5251434d6",
+    "titel": "Aufstellung | SG Sonnenhof Großaspach - MSV Duisburg : | 15. Spieltag | 3. Liga 2026/27",
+    "quelle": "Kicker",
+    "beschr": " Aufstellung | SG Sonnenhof Großaspach - MSV Duisburg : | 15. Spieltag | 3. Liga 2026/27 &nbsp;&nbsp; Kicker ",
+    "zeit": "2026-11-25T20:03"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-25T23:55",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "376d46167e",
+  "schluessel": "rw essen|kader",
+  "person": "",
+  "spieler": [],
+  "klub": "RW Essen",
+  "klubs": [
+   "RW Essen",
+   "Hoffenheim II"
+  ],
+  "stufe": "kader",
+  "klasse": "kader",
+  "titel": "Aufstellung | Rot-Weiss Essen - TSG Hoffenheim II : | 15. Spieltag | 3. Liga 2026/27",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVWN0SXpHZDRaMEdkQm42cmNReWlnYkdidDVCQnlDQmZ6aVZwV0VyYnJBbjhXWkQ2NTUyWXZIZ3dBWko4ZE9taXRqaVljQnhFUGM2SWYtNWdES3VjbTNLR25vV3dzY3UtRmZKQy1IN2RCQlRZd2pwbHlfWTl5VU9qc2tmSQ?oc=5",
+    "aid": "ce9decf15f",
+    "titel": "Aufstellung | Rot-Weiss Essen - TSG Hoffenheim II : | 15. Spieltag | 3. Liga 2026/27",
+    "quelle": "Kicker",
+    "beschr": " Aufstellung | Rot-Weiss Essen - TSG Hoffenheim II : | 15. Spieltag | 3. Liga 2026/27 &nbsp;&nbsp; Kicker ",
+    "zeit": "2026-11-25T20:03"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-25T23:55",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "b055cd59c9",
+  "schluessel": "saarbrucken|kader",
+  "person": "",
+  "spieler": [],
+  "klub": "Saarbrücken",
+  "klubs": [
+   "Saarbrücken",
+   "Aachen"
+  ],
+  "stufe": "kader",
+  "klasse": "kader",
+  "titel": "Aufstellung | 1. FC Saarbrücken - Alemannia Aachen : | 15. Spieltag | 3. Liga 2026/27",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNVpFX2dDeEdzUnFWdmFQbHhCdTNaTFZOV0hSUElocnJPZGZZVnBLeTNaekNHbHA4U0daZ0hlTFppZ0xpaWhNajlTdm9yS1pEWm5DNXREdC1jWDJhNEh4UGJUVm1WTGZtUktvM0lSYmdMbG5EREcwcDlsazdibko5MjliZw?oc=5",
+    "aid": "caa3f800be",
+    "titel": "Aufstellung | 1. FC Saarbrücken - Alemannia Aachen : | 15. Spieltag | 3. Liga 2026/27",
+    "quelle": "Kicker",
+    "beschr": " Aufstellung | 1. FC Saarbrücken - Alemannia Aachen : | 15. Spieltag | 3. Liga 2026/27 &nbsp;&nbsp; Kicker ",
+    "zeit": "2026-11-25T20:03"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-25T23:55",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "0554c8c68e",
+  "schluessel": "ingolstadt|kader",
+  "person": "",
+  "spieler": [],
+  "klub": "Ingolstadt",
+  "klubs": [
+   "Ingolstadt",
+   "Regensburg"
+  ],
+  "stufe": "kader",
+  "klasse": "kader",
+  "titel": "Aufstellung | FC Ingolstadt 04 - Jahn Regensburg : | 15. Spieltag | 3. Liga 2026/27",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTS11amJaWlU0OWhJZm1Hd0VkazdEUDNtWFNSMlpLNzVZdFF4OXdFSFRiaERSdV96bU5ISFZLTGdTaklGRFRma29WaEQ4TEptTnlZTEtSY2RGZEx1UlBYdkk1UjNleHloSWpOREpReVNvYkp2d2FIcTlybUF2Q0JlaVJLUGJnUQ?oc=5",
+    "aid": "b775d0d448",
+    "titel": "Aufstellung | FC Ingolstadt 04 - Jahn Regensburg : | 15. Spieltag | 3. Liga 2026/27",
+    "quelle": "Kicker",
+    "beschr": " Aufstellung | FC Ingolstadt 04 - Jahn Regensburg : | 15. Spieltag | 3. Liga 2026/27 &nbsp;&nbsp; Kicker ",
+    "zeit": "2026-11-25T20:03"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-25T23:55",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "2cad19569d",
+  "schluessel": "wurzburg|kader",
+  "person": "",
+  "spieler": [],
+  "klub": "Würzburg",
+  "klubs": [
+   "Würzburg",
+   "Düsseldorf"
+  ],
+  "stufe": "kader",
+  "klasse": "kader",
+  "titel": "Aufstellung | Würzburger Kickers - Fortuna Düsseldorf : | 15. Spieltag | 3. Liga 2026/27",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRl95aDZKcFNOcUJPZXF6WU41bG9LVEw3X0lPanV4U0xHN2IwVDhYendqRWpoU0FUcTNJSE9ka0Q4WlJXR1FxSng4V3NWR0ItTjlfVUpVcmZ4eDlVY29Wb1hkTXBrX1haWGYwOHVVc0pkVmRTTTc5ajBaeXJmMUdIdVRTWFBKdw?oc=5",
+    "aid": "4e719100df",
+    "titel": "Aufstellung | Würzburger Kickers - Fortuna Düsseldorf : | 15. Spieltag | 3. Liga 2026/27",
+    "quelle": "Kicker",
+    "beschr": " Aufstellung | Würzburger Kickers - Fortuna Düsseldorf : | 15. Spieltag | 3. Liga 2026/27 &nbsp;&nbsp; Kicker ",
+    "zeit": "2026-11-25T20:03"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-25T23:55",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "436e1f5f2a",
+  "schluessel": "rw essen|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "RW Essen",
+  "klubs": [
+   "RW Essen"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Rot-Weiss Essen: Wann spielt Nader Jindaoui? Hoffenheims Social-Media-Star in der sportlichen Krise",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcG9ERnRtY1pGWXVDd3lJMVQ1Z3VyeUFTT2NpeUV3OHllb0JKY2FCaDJBQ2hncnBQUlQ5WlR5QVp6SzVYeFFyUExpMUVBTVB1eWViRUN0MV9mRDMtVmFZQmVVQm5RWHNkaS12WWRscjktZ1pieWp2S3ZHWmExVzRhcXRZTzBMMkZDYk4xT3JHNEtkZVhBR0MwYTFQSXpyeVZwemRHM3ctZDc3RnZEM2dZaEVqRkVoMWgwUjV4YjBybXdsX0FKZjFnRU5iSjIzdjBONEE?oc=5",
+    "aid": "e9cc0c08f5",
+    "titel": "Rot-Weiss Essen: Wann spielt Nader Jindaoui? Hoffenheims Social-Media-Star in der sportlichen Krise",
+    "quelle": "WAZ | Westdeutsche Allgemeine Zeitung",
+    "beschr": " Rot-Weiss Essen: Wann spielt Nader Jindaoui? Hoffenheims Social-Media-Star in der sportlichen Krise &nbsp;&nbsp; WAZ | Westdeutsche Allgemeine Zeitung ",
+    "zeit": "2026-11-25T19:59"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-25T23:55",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "c44c543b19",
+  "schluessel": "rw essen|verletzung",
+  "person": "",
+  "spieler": [],
+  "klub": "RW Essen",
+  "klubs": [
+   "RW Essen"
+  ],
+  "stufe": "ausfall",
+  "klasse": "verletzung",
+  "titel": "Gladbach ist schon durch, RWE verpasst Coup - doch bleibt auf Kurs",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUVNCT0dobmlxTEhEZmlZX3I4eTlLRUxUeWRCTnNXTkVPUXp4YWU3OXdWa1JYWS10OE4xaWJ0eDZDR1dxRWtPcUE3WlZ4LWhSbllSaEl5R3huU1lrbmt6MUZudlBpa3JWTFR2LWVVVkR3bTBsbjM0SHRLaGNUMDVDa1N1d1g5d095Y2xFVGt1Vm5WNml4WHkyQ05MLUFDUQ?oc=5",
+    "aid": "4205493e46",
+    "titel": "Gladbach ist schon durch, RWE verpasst Coup - doch bleibt auf Kurs",
+    "quelle": "FuPa ⚽️",
+    "beschr": " Gladbach ist schon durch, RWE verpasst Coup - doch bleibt auf Kurs &nbsp;&nbsp; FuPa ⚽️ ",
+    "zeit": "2026-11-25T14:16"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-25T23:55",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "970ce185d8",
+  "schluessel": "viktoria koln|kader",
+  "person": "",
+  "spieler": [],
+  "klub": "Viktoria Köln",
+  "klubs": [
+   "Viktoria Köln",
+   "Fortuna Köln"
+  ],
+  "stufe": "kader",
+  "klasse": "kader",
+  "titel": "Aufstellung | FC Viktoria Köln - Fortuna Köln : | 15. Spieltag | 3. Liga 2026/27",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWTlLVU10bUZ0LVhaTU5YVnhDMWs3VkNzVTQ4WXBBV1lzTkhoR250a253eGl3djcxTThVQmFsY3JNaGZwREtXZXp4enZtLVl3ZEdkN1AtUEw4WFhuRE81NlpYdWd6dHZCZDdHSGlUT2ZmWjBELXVkcEJYOC1aa1hoWVpR?oc=5",
+    "aid": "82468350e9",
+    "titel": "Aufstellung | FC Viktoria Köln - Fortuna Köln : | 15. Spieltag | 3. Liga 2026/27",
+    "quelle": "Kicker",
+    "beschr": " Aufstellung | FC Viktoria Köln - Fortuna Köln : | 15. Spieltag | 3. Liga 2026/27 &nbsp;&nbsp; Kicker ",
+    "zeit": "2026-11-25T20:03"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-25T23:55",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "bf72df656e",
+  "schluessel": "rostock|vertrag",
+  "person": "",
+  "spieler": [],
+  "klub": "Rostock",
+  "klubs": [
+   "Rostock",
+   "Havelse"
+  ],
+  "stufe": "vertrag",
+  "klasse": "vertrag",
+  "titel": "Hansa Rostock verlängert mit w.Holz – 1965 Freibiere zum Havelse-Spiel",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZUROS1VyVkg4dHNUcm0yMFVWai1HM0I3TUlGN08wRnJMWGZRNlFZS3dxYngwUDh5VXNvZXRacFprU3BqT0kwRnR4aWxWejFVRzU2VjltZU5JUXZzM0lLRkpVcHRKem1yd205UDBNU1p0cGthdjJ2Y2pvcDJoSzUyRWM0OWw1bnlSTHB5ck9WM01yYW95NndkMmhyajVYdFlJbFFsYm5DcFBBV05SN3RVdHhtZTNKREM5RDFNbXhfRTN0SkpQaGd4eU9JZlliQlZ4NHp3UHlSTEFMcjFvenRB0gH7AUFVX3lxTFAzemgzcVRRc0RLVnFrdGhpVldRZU5TZUo2SDJnSDNEY1NmYlBtdWI2RThTc0VuMmhsN2JXbjNUcGwwblcxd2xwWkJ5b1ZsNTU4Nmk0MEZERzB2MzVKQU5Ydy16UXZGQXZVLXNWUlBkQkpPZjlXUDd6WDlicU9ZMVBzTEFESWNkR2NJT0JJdGpsTzNXLXRVcF96emNiaVJzaldvZlNYTWw4RlZtY1FsM0FkYUxtUkFaQk55WEZLWUdrRk5WRVhwMkVnU1VSZmItRTg3SGhIZTNUd1FudE1KNzNEdi1ldFlqMFRCdTN3b2p6TjBrZGs0Q3d3c3I0?oc=5",
+    "aid": "8c1d4da7ac",
+    "titel": "Hansa Rostock verlängert mit w.Holz – 1965 Freibiere zum Havelse-Spiel",
+    "quelle": "Ostsee Zeitung",
+    "beschr": " Hansa Rostock verlängert mit w.Holz – 1965 Freibiere zum Havelse-Spiel &nbsp;&nbsp; Ostsee Zeitung ",
+    "zeit": "2026-11-25T18:13"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-25T23:55",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "547556e691",
+  "schluessel": "rw essen|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "RW Essen",
+  "klubs": [
+   "RW Essen"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Rot-Weiss Essen: Warum Bätzner für RWE noch sehr wertvoll werden könnte",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORk9BaFFXLTBJcHoyNjlYd28zMG0tdy1Ia3VGWDYyRTUwcXZ6QUxZVlhvN0NlNWVmcHZ6UUFHTW1QZXBhbEczVXQ0aTk3aTB6SnZvU2NCeTRuYjk0Sm1RUkNySU84ZHlLb3dkNTZGdkZEX2JuNE1EbDM4SXFNXzNZbkd5dFB5akwxLV9PQzJ4U0xzQjZuV1poWlBuX3lEb283NmdXMUltZWRSZnJHY2FWREtvWXpmOWg5VHFoaDVuSnNtWjZvNThmSHItRGtPMk8ycUFBclRic2o?oc=5",
+    "aid": "b819537f95",
+    "titel": "Rot-Weiss Essen: Warum Bätzner für RWE noch sehr wertvoll werden könnte",
+    "quelle": "WAZ | Westdeutsche Allgemeine Zeitung",
+    "beschr": " Rot-Weiss Essen: Warum Bätzner für RWE noch sehr wertvoll werden könnte &nbsp;&nbsp; WAZ | Westdeutsche Allgemeine Zeitung ",
+    "zeit": "2026-11-25T20:31"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-25T23:55",
+  "archiv": [],
   "versuche": 1
  }
 ]
