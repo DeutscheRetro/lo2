@@ -2618,5 +2618,55 @@
   "gruende": [],
   "alt_titel": null,
   "quelle_gelesen": true
+ },
+ {
+  "zeit": "25.11.2026 12:03",
+  "id": "12ea66ed08",
+  "pfad": "artikel/chavez-nach-erstem-fcm-tor-am-ende-haben-wir-gewonnen-12ea66ed08.html",
+  "urteil": "verbessert",
+  "gruende": [
+   "Doppelte Nennung von Magdeburg im ersten Satz entfernt",
+   "Abschnitt zu Expected Goals umgestellt: erst die Zahlen, dann Chávez' Einordnung samt Quellenzitat, damit das Zitat verständlich ist",
+   "Belegtes Zitat zum ersten Tor im neuen Verein ergänzt, Anekdote zur Runde präzisiert",
+   "Spielort Avnet Arena aus der Quelle im Ausblick ergänzt"
+  ],
+  "alt_titel": "Chávez nach erstem FCM-Tor: „Am Ende haben wir gewonnen“",
+  "quelle_gelesen": true
+ },
+ {
+  "zeit": "25.11.2026 12:03",
+  "id": "7a44a04119",
+  "pfad": "artikel/osnabrueck-verlaengert-mit-trainer-timo-schultz-7a44a04119.html",
+  "urteil": "verbessert",
+  "gruende": [
+   "Enochs-Zitat gekürzt: Das „Beide“ im Originalzitat bezieht sich auf zwei Personen, die weder Artikel noch Quelle nennen. Ohne Erklärung verwirrt es die Leser.",
+   "Alle übrigen Angaben (Alter, Aufstieg, Tabellenstand, Zitate von Schultz) passen zur Quelle. Aufbau, Sprache und Titel sind in Ordnung."
+  ],
+  "alt_titel": "Osnabrück verlängert mit Trainer Timo Schultz",
+  "quelle_gelesen": true
+ },
+ {
+  "zeit": "25.11.2026 12:04",
+  "id": "ab0b5b8cce",
+  "pfad": "artikel/nuernberg-fynn-otto-zurueck-im-training-startelf-in-heidenheim-ab0b5b8cce.html",
+  "urteil": "ok",
+  "gruende": [],
+  "alt_titel": null,
+  "quelle_gelesen": true
+ },
+ {
+  "zeit": "25.11.2026 12:04",
+  "id": "e09451d220",
+  "pfad": "artikel/cottbus-wollitz-setzt-cigerci-auf-die-bank-fans-sind-skeptisch-e09451d220.html",
+  "urteil": "verbessert",
+  "gruende": [
+   "Intro korrigiert: Cigerci fehlte nicht, er stand nur nicht in der Startelf und kam in den letzten 15 Minuten",
+   "Falsche Angabe gestrichen: „wartet auf Punkte“ stimmt wegen des 0:0 gegen Braunschweig nicht, jetzt „wartet auf einen Sieg“",
+   "Schluss an die Quelle angepasst: Nicht nur die Personalie Cigerci könnte zum Politikum werden",
+   "Ungenaue Formulierungen geglättet („nach eigener Linie“, Konjunktiv „wirke“)",
+   "Heldenstatus und die Abwägung des Trainers als Einordnung aus der Quelle ergänzt"
+  ],
+  "alt_titel": "Cottbus: Wollitz setzt Cigerci auf die Bank, Fans sind skeptisch",
+  "quelle_gelesen": true
  }
 ]
