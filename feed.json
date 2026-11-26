@@ -1,5 +1,119 @@
 [
   {
+    "id": "3498f0401c",
+    "titel": "Ben Farhat: KSC-Stürmer soll schon im Winter nach Freiburg wechseln",
+    "kategorie": "transfer",
+    "badge": "Transfer",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "26.11.2026 18:06",
+    "wappen_url": "logos/karlsruhe.png",
+    "vereine": [
+      "Karlsruhe"
+    ],
+    "anriss": "Karlsruhes Angreifer Louey Ben Farhat soll laut Medienberichten schon nach dem Jahreswechsel für den Bundesligisten SC Freiburg spielen. Die beiden Klubs hätten sich darauf geeinigt, die im Sommer vereinbarte Leihe zum Jahresende abzubrechen, meldeten unter anderem die „Badischen Neuesten Nachrichten“. KSC-Trainer Maximilian Senft bestätigte die",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Karlsruhe",
+    "pfad": "artikel/ben-farhat-ksc-stuermer-soll-schon-im-winter-nach-freiburg-wechseln-3498f0401c.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "deal",
+      "frage": "Wäre Ben Farhats Winterwechsel zu Freiburg ein guter Deal für den KSC?",
+      "antworten": [
+        "👍 Guter Deal",
+        "👎 Fehler"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "db9079552e",
+    "titel": "St. Paulis Rapp warnt vor Dresden: Wenig Qualität, aber guter Spirit",
+    "kategorie": "interview",
+    "badge": "Interview",
+    "badge_bg": "#1976d2",
+    "badge_fg": "#fff",
+    "datum": "26.11.2026 18:05",
+    "wappen_url": "logos/stpauli.png",
+    "vereine": [
+      "Dresden",
+      "St. Pauli"
+    ],
+    "anriss": "St. Paulis Trainer Marcel Rapp hat vor dem Auswärtsspiel bei Dynamo Dresden am Samstag (13 Uhr/Sky) vor dem Gegner gewarnt. Dresden verfüge zwar nicht über individuelle Qualität, sei aber eine Mannschaft mit gutem Spirit, sagte er bei der Pressekonferenz am Donnerstag. „Dynamo Dresden ist keine",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "St. Pauli",
+    "pfad": "artikel/rapp-vor-dresden-keine-mannschaft-mit-individueller-qualitaet-db9079552e.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "recht",
+      "frage": "Hat Rapp recht mit seiner Einschätzung zu Dynamo Dresden?",
+      "antworten": [
+        "Ja",
+        "Nein"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "c086a6c95d",
+    "titel": "Hertha: Nilsson trifft nach langer Wartezeit erstmals",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "26.11.2026 18:05",
+    "wappen_url": "logos/hertha.png",
+    "vereine": [
+      "Cottbus",
+      "Hertha"
+    ],
+    "anriss": "Herthas Stürmer Gustaf Nilsson hat am vergangenen Sonntag beim Aufsteiger Energie Cottbus sein erstes Tor für die Berliner erzielt. Der Schwede schoss in der Nachspielzeit den 4:0-Endstand, nachdem er in der 66. Minute für Sebastian Grönning eingewechselt worden war. Der Zweitligist hatte Nilsson Ende August",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Hertha",
+    "pfad": "artikel/hertha-nilsson-trifft-nach-langer-wartezeit-erstmals-c086a6c95d.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "4433177d08",
+    "titel": "Heidenheim will gegen Nürnberg defensiv wieder stabiler stehen",
+    "kategorie": "interview",
+    "badge": "Interview",
+    "badge_bg": "#1976d2",
+    "badge_fg": "#fff",
+    "datum": "26.11.2026 18:04",
+    "wappen_url": "logos/heidenheim.png",
+    "vereine": [
+      "Heidenheim",
+      "Nürnberg"
+    ],
+    "anriss": "Der 1. FC Heidenheim will im nächsten Heimspiel gegen den 1. FC Nürnberg wieder sicherer verteidigen. Trainer Frank Schmidt sieht in der Defensive zuletzt zu große Lücken. „Zuletzt haben wir den Gegnern die Tür zu weit geöffnet“, sagte er. Gegen Nürnberg fehlen Thomas Dähne und",
+    "spielerstatus": [
+      {
+        "spieler": "Dähne",
+        "klub": "Heidenheim",
+        "status": "faellt_aus",
+        "grund": "steht nicht zur Verfügung"
+      },
+      {
+        "spieler": "Föhrenbach",
+        "klub": "Heidenheim",
+        "status": "faellt_aus",
+        "grund": "steht nicht zur Verfügung"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Heidenheim",
+    "pfad": "artikel/heidenheim-will-gegen-nuernberg-defensiv-wieder-stabiler-stehen-4433177d08.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
     "id": "dc598ddc84",
     "titel": "Heidenheim steckt nach 1:3 in Darmstadt in der Krise",
     "kategorie": "analyse",
