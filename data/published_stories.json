@@ -4802,5 +4802,70 @@
     },
     "published_at": "2026-11-25T21:04:15.113350",
     "source": "HSV24"
+  },
+  {
+    "id": "86b35ed02a",
+    "generated_title": "Hertha verlängert mit Paul Seguin bis 2028",
+    "original_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOFJHNlBybnZfLW82cXVFcDUxRHhNWGpTUUh1NjZ5RDJCd3UtUWd4WnV2TmVXSUhUZEJTWVdhYXlCZUI3ejJzbzV3YklOQTYxTzAtamxxN2JDZlUyQ3hCZm5WRjhaSDAwS1RXd1ZKTGw5SGk0Y1UtUEdFTWJlZXplX05kcVRtV192bFpkTzFKS3FtUk5jcXp2NFJ6b0tkVEFURVppclk4dw?oc=5",
+    "fingerprint": {
+      "event_type": "transfer",
+      "main_club": "Hertha",
+      "event_stage": "vertrag",
+      "main_teams": [
+        "Hertha"
+      ],
+      "main_players": [
+        "Paul Seguin"
+      ],
+      "summary": "Hertha BSC hat den Vertrag mit Mittelfeldspieler Paul Seguin durch eine Klausel bis 2028 verlängert. Der 31-Jährige kam seit seinem Wechsel 41-mal zum Einsatz.",
+      "one_sentence_summary": "Hertha BSC hat den Vertrag mit Mittelfeldspieler Paul Seguin durch eine Klausel bis 2028 verlängert.",
+      "schluessel": "paul seguin|vertrag"
+    },
+    "published_at": "2026-11-26T12:05:09.915499",
+    "source": "Wochenblatt Reporter"
+  },
+  {
+    "id": "1ce36475d4",
+    "generated_title": "Heidenheim gegen Nürnberg: Zoma fehlt dem Tabellenzweiten",
+    "original_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUGRTZWpZREZuUjlKOHk3NU9LQzZDcXJiUFNaRlJvRWFOOW5fWnJWYm14UjQtTDFtd1dBZG9Ia0FNMlItUTIyWll0dDdZTjZwQTVXRG54enlLMDgxYktCQ0Jla3hBMVZYUXB6MkNjQ2xrOWRMTTRUaGRvS04tU0c5cnJXMFZ5WnF3Ml9iME0xeTNXY2loNmRabmJ3NDRweW90aFB4VDdn?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Heidenheim",
+      "event_stage": "sonstiges",
+      "main_teams": [
+        "Heidenheim",
+        "Nürnberg"
+      ],
+      "main_players": [
+        "Mohamed Ali Zoma",
+        "Miroslav Klose"
+      ],
+      "summary": "Heidenheim empfängt in der Voith-Arena den Tabellenzweiten Nürnberg, Anstoß ist um 18.30 Uhr. Nürnbergs Torjäger Mohamed Ali Zoma fällt mit einer Schulterverletzung aus.",
+      "one_sentence_summary": "Heidenheim empfängt in der Voith-Arena den Tabellenzweiten Nürnberg, Anstoß ist um 18.30 Uhr.",
+      "schluessel": "mohamed ali zoma|sonstiges"
+    },
+    "published_at": "2026-11-26T12:05:09.984142",
+    "source": "Wochenblatt Reporter"
+  },
+  {
+    "id": "0cafd35445",
+    "generated_title": "Hertha: Leitl fehlen drei Siege zum Babbel-Rekord",
+    "original_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV0x2UndTdk5UaFRBekVFcGFZd2lpQUR2Q0taSFdIT1M0a1dSYVI1T0hSN0d1VHJzZmdlQ3RlamJjY0pYbENFRnRUb3hVRjRDSkR1dnRraFJjb0dPOWxXYWxHZDNHRmZ3WHdHZ2tlMm5EZ3NrRHdUVWFqa0dYeERMY2JfZHN6VTRPMmx5RVA5VWtpOXl6RlRSWkljQi1JT1ZWNGc?oc=5",
+    "fingerprint": {
+      "event_type": "analyse",
+      "main_club": "Hertha",
+      "event_stage": "sonstiges",
+      "main_teams": [
+        "Hertha"
+      ],
+      "main_players": [
+        "Stefan Leitl"
+      ],
+      "summary": "Herthas Trainer Stefan Leitl hat seit Februar 2025 einen Punkteschnitt von 1,79 und liegt hinter Markus Babbel (1,84) auf Rang zwei. Mit drei Siegen gegen Karlsruhe, Hannover und Darmstadt würde er den Rekord übertreffen.",
+      "one_sentence_summary": "Herthas Trainer Stefan Leitl hat seit Februar 2025 einen Punkteschnitt von 1,79 und liegt hinter Markus Babbel (1,84) auf Rang zwei.",
+      "schluessel": "stefan leitl|sonstiges"
+    },
+    "published_at": "2026-11-26T12:05:10.049068",
+    "source": "Berliner Kurier"
   }
 ]

@@ -1,5 +1,83 @@
 [
   {
+    "id": "1ce36475d4",
+    "titel": "Heidenheim gegen Nürnberg: Zoma fehlt dem Tabellenzweiten",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "26.11.2026 12:04",
+    "wappen_url": "logos/heidenheim.png",
+    "vereine": [
+      "Heidenheim",
+      "Nürnberg"
+    ],
+    "anriss": "Der 1. FC Heidenheim empfängt in der Voith-Arena den Tabellenzweiten 1. FC Nürnberg. Anstoß der Partie in der 2. Bundesliga ist um 18.30 Uhr. Beim Gast fehlt Torjäger Mohamed Ali Zoma wegen einer Schulterverletzung. Die Nürnberger reisen mit 24 Punkten aus zwölf Spieltagen an. Sie",
+    "spielerstatus": [
+      {
+        "spieler": "Zoma",
+        "klub": "Nürnberg",
+        "status": "faellt_aus",
+        "grund": "Schulterverletzung"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Heidenheim",
+    "pfad": "artikel/heidenheim-gegen-nuernberg-zoma-fehlt-dem-tabellenzweiten-1ce36475d4.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "0cafd35445",
+    "titel": "Hertha: Leitl fehlen drei Siege zum Babbel-Rekord",
+    "kategorie": "analyse",
+    "badge": "Analyse",
+    "badge_bg": "#6a1fbf",
+    "badge_fg": "#fff",
+    "datum": "26.11.2026 12:04",
+    "wappen_url": "logos/hertha.png",
+    "vereine": [
+      "Hertha"
+    ],
+    "anriss": "Herthas Trainer Stefan Leitl steht vor einem Vereinsrekord. Seit seinem Amtsantritt im Februar 2025 holte er 104 Punkte aus 58 Ligaspielen, ein Schnitt von 1,79 Punkten pro Spiel. Damit ist er seit Einführung der Drei-Punkte-Regel der zweitbeste Hertha-Coach. Nur Markus Babbel war besser. Er holte",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Hertha",
+    "pfad": "artikel/hertha-leitl-fehlen-drei-siege-zum-babbel-rekord-0cafd35445.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "86b35ed02a",
+    "titel": "Hertha verlängert mit Paul Seguin bis 2028",
+    "kategorie": "transfer",
+    "badge": "Transfer",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "26.11.2026 12:03",
+    "wappen_url": "logos/hertha.png",
+    "vereine": [
+      "Hertha"
+    ],
+    "anriss": "Hertha BSC hat den Vertrag mit Mittelfeldspieler Paul Seguin verlängert. Eine Klausel griff nach dessen jüngsten Einsätzen und bindet den 31-Jährigen ein weiteres Jahr an den Berliner Verein. Seguin steht damit bis 2028 unter Vertrag. Sportdirektor Benjamin Weber bezeichnete Seguin als wichtigen Taktgeber und Führungsspieler.",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Hertha",
+    "pfad": "artikel/hertha-verlaengert-mit-paul-seguin-bis-2028-86b35ed02a.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "deal",
+      "frage": "Ist Seguins Verlängerung ein guter Deal für Hertha?",
+      "antworten": [
+        "👍 Guter Deal",
+        "👎 Fehler"
+      ]
+    },
+    "n11": false
+  },
+  {
     "id": "6a0e79b8ab",
     "titel": "Hannover 96 stellt Gabor Ruhr als neuen Sportdirektor vor",
     "kategorie": "news",
@@ -11,7 +89,7 @@
     "vereine": [
       "Hannover"
     ],
-    "anriss": "Hannover 96 hat Gabor Ruhr als neuen Sportdirektor präsentiert. Der 38-Jährige war zuvor Chefscout bei Norwich City und beim 1. FC Köln. Die Personalbeben der vergangenen Monate schrecken ihn nicht ab. „Um auf die Stühle vor mir einzugehen: Das ist für mich nicht relevant“, sagte",
+    "anriss": "Hannover 96 hat Gabor Ruhr als neuen Sportdirektor präsentiert. Der 38-Jährige ist ehemaliger Chefscout von Norwich City und des 1. FC Köln. Die Personalbeben der vergangenen Monate schrecken ihn nicht ab. „Um auf die Stühle vor mir einzugehen: Das ist für mich nicht relevant“, sagte",
     "spielerstatus": [],
     "formation": "",
     "hauptklub": "Hannover",
