@@ -1,5 +1,34 @@
 [
   {
+    "id": "de523acd0d",
+    "titel": "Paetow vor Verl-Spiel: „Ich bin topfit und bereit“",
+    "kategorie": "interview",
+    "badge": "Interview",
+    "badge_bg": "#1976d2",
+    "badge_fg": "#fff",
+    "datum": "26.11.2026 23:49",
+    "wappen_url": "logos/muenster.png",
+    "vereine": [
+      "Münster",
+      "Verl"
+    ],
+    "anriss": "Preußen Münsters Innenverteidiger Torge Paetow hofft im Heimspiel gegen den SC Verl am Samstag (14 Uhr, LVM-Stadion) auf seine Rückkehr in die Startelf. „Ich bin topfit und bereit, wenn der Trainer mir vertraut“, sagt der 31-Jährige. Zuletzt in Hoffenheim (0:4) stand er ohne Einsatz im",
+    "spielerstatus": [
+      {
+        "spieler": "Paetow",
+        "klub": "Münster",
+        "status": "spielt",
+        "grund": "nach eigener Aussage topfit und bereit"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Münster",
+    "pfad": "artikel/paetow-vor-verl-spiel-ich-bin-topfit-und-bereit-de523acd0d.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
     "id": "95a6db990a",
     "titel": "Düsseldorf: Heizung fällt aus, Frost erschwert das Training",
     "kategorie": "news",
