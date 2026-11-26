@@ -1,215 +1,81 @@
 [
  {
-  "id": "761db57c4c",
-  "schluessel": "rostock|kader",
+  "id": "3754b42b4d",
+  "schluessel": "dusseldorf|sonstiges",
   "person": "",
   "spieler": [],
-  "klub": "Rostock",
+  "klub": "Düsseldorf",
   "klubs": [
-   "Rostock",
-   "Havelse"
+   "Düsseldorf",
+   "Würzburg"
   ],
-  "stufe": "kader",
-  "klasse": "kader",
-  "titel": "Aufstellung | Hansa Rostock - TSV Havelse : | 15. Spieltag | 3. Liga 2026/27",
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "\"Bitter\": Düsseldorfs Anhari muss in Würzburg passen",
   "quellen": [
    {
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oNDRVVEVaOFI0NXdncEdrSGhNUi13azZRNnZjRzZxUU5HdVdPTlh4Q3k3aDRhQkNKUzBvak9LLXFScEVvcGE0bzd6TDhPb2lOZkpEaW1xclhNTG1nVTZRNk40eXk4QzdsUzhTYzR2cnV0VEZ5c3BlMnM5LVItUQ?oc=5",
-    "aid": "3eeed81e82",
-    "titel": "Aufstellung | Hansa Rostock - TSV Havelse : | 15. Spieltag | 3. Liga 2026/27",
-    "quelle": "Kicker",
-    "beschr": " Aufstellung | Hansa Rostock - TSV Havelse : | 15. Spieltag | 3. Liga 2026/27 &nbsp;&nbsp; Kicker ",
-    "zeit": "2026-11-25T20:03"
+    "url": "https://www.kicker.de/bitter-duesseldorfs-anhari-muss-in-wuerzburg-passen-1275336/artikel#omrss",
+    "aid": "015036e439",
+    "titel": "\"Bitter\": Düsseldorfs Anhari muss in Würzburg passen",
+    "quelle": "kicker 3. Liga News",
+    "beschr": "Hamza Anhari wird Fortuna Düsseldorf im Auswärtsspiel bei den Würzburger Kickers fehlen. Coach Jens Langeneke bedauert den Ausfall, hat aber gleichzeitig wieder mehr Optionen.",
+    "zeit": "2026-11-26T15:21"
    }
   ],
-  "archiv_status": "neu",
+  "archiv_status": "aehnlich",
   "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-25T23:55",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "9e7b1a13c1",
-  "schluessel": "grossaspach|kader",
-  "person": "",
-  "spieler": [],
-  "klub": "Großaspach",
-  "klubs": [
-   "Großaspach",
-   "Duisburg"
-  ],
-  "stufe": "kader",
-  "klasse": "kader",
-  "titel": "Aufstellung | SG Sonnenhof Großaspach - MSV Duisburg : | 15. Spieltag | 3. Liga 2026/27",
-  "quellen": [
+  "status": "u",
+  "erstmals": "2026-11-26T19:01",
+  "archiv": [
    {
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaGNJOG9WeUZjWTFoZGxDT2NJZlZlejE5QUhSV0pZV0ZKLV9VSmJJTTVQWjNONzg2dzYyVWNCNmxJSUhkVDNWdVhLb2JPV2NqbmQzUnN6dmp2R0hJMUlGeHdZT3pUOV9GTlBSOEo3UTQ3QU55bHhuWHU0MEs0RUNJa1hOSUI?oc=5",
-    "aid": "b5251434d6",
-    "titel": "Aufstellung | SG Sonnenhof Großaspach - MSV Duisburg : | 15. Spieltag | 3. Liga 2026/27",
-    "quelle": "Kicker",
-    "beschr": " Aufstellung | SG Sonnenhof Großaspach - MSV Duisburg : | 15. Spieltag | 3. Liga 2026/27 &nbsp;&nbsp; Kicker ",
-    "zeit": "2026-11-25T20:03"
+    "id": "b317ca2504",
+    "titel": "Düsseldorf gegen Großaspach: Zwei Teams suchen den Erfolg",
+    "datum": "18.11.",
+    "stufe": "sonstiges",
+    "summary": "Fortuna Düsseldorf trifft am Samstag auf Großaspach und sucht nach vier Spielen ohne Sieg einen Erfolg. Beide Teams sind formschwach und liegen vier Punkte auseinander."
    }
   ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-25T23:55",
-  "archiv": [],
-  "versuche": 2
+  "versuche": 1
  },
  {
-  "id": "376d46167e",
-  "schluessel": "rw essen|kader",
-  "person": "",
-  "spieler": [],
-  "klub": "RW Essen",
-  "klubs": [
-   "RW Essen",
-   "Hoffenheim II"
-  ],
-  "stufe": "kader",
-  "klasse": "kader",
-  "titel": "Aufstellung | Rot-Weiss Essen - TSG Hoffenheim II : | 15. Spieltag | 3. Liga 2026/27",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVWN0SXpHZDRaMEdkQm42cmNReWlnYkdidDVCQnlDQmZ6aVZwV0VyYnJBbjhXWkQ2NTUyWXZIZ3dBWko4ZE9taXRqaVljQnhFUGM2SWYtNWdES3VjbTNLR25vV3dzY3UtRmZKQy1IN2RCQlRZd2pwbHlfWTl5VU9qc2tmSQ?oc=5",
-    "aid": "ce9decf15f",
-    "titel": "Aufstellung | Rot-Weiss Essen - TSG Hoffenheim II : | 15. Spieltag | 3. Liga 2026/27",
-    "quelle": "Kicker",
-    "beschr": " Aufstellung | Rot-Weiss Essen - TSG Hoffenheim II : | 15. Spieltag | 3. Liga 2026/27 &nbsp;&nbsp; Kicker ",
-    "zeit": "2026-11-25T20:03"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-25T23:55",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "b055cd59c9",
-  "schluessel": "saarbrucken|kader",
+  "id": "a4de62f335",
+  "schluessel": "saarbrucken|sonstiges",
   "person": "",
   "spieler": [],
   "klub": "Saarbrücken",
   "klubs": [
-   "Saarbrücken",
-   "Aachen"
-  ],
-  "stufe": "kader",
-  "klasse": "kader",
-  "titel": "Aufstellung | 1. FC Saarbrücken - Alemannia Aachen : | 15. Spieltag | 3. Liga 2026/27",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNVpFX2dDeEdzUnFWdmFQbHhCdTNaTFZOV0hSUElocnJPZGZZVnBLeTNaekNHbHA4U0daZ0hlTFppZ0xpaWhNajlTdm9yS1pEWm5DNXREdC1jWDJhNEh4UGJUVm1WTGZtUktvM0lSYmdMbG5EREcwcDlsazdibko5MjliZw?oc=5",
-    "aid": "caa3f800be",
-    "titel": "Aufstellung | 1. FC Saarbrücken - Alemannia Aachen : | 15. Spieltag | 3. Liga 2026/27",
-    "quelle": "Kicker",
-    "beschr": " Aufstellung | 1. FC Saarbrücken - Alemannia Aachen : | 15. Spieltag | 3. Liga 2026/27 &nbsp;&nbsp; Kicker ",
-    "zeit": "2026-11-25T20:03"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-25T23:55",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "0554c8c68e",
-  "schluessel": "ingolstadt|kader",
-  "person": "",
-  "spieler": [],
-  "klub": "Ingolstadt",
-  "klubs": [
-   "Ingolstadt",
-   "Regensburg"
-  ],
-  "stufe": "kader",
-  "klasse": "kader",
-  "titel": "Aufstellung | FC Ingolstadt 04 - Jahn Regensburg : | 15. Spieltag | 3. Liga 2026/27",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTS11amJaWlU0OWhJZm1Hd0VkazdEUDNtWFNSMlpLNzVZdFF4OXdFSFRiaERSdV96bU5ISFZLTGdTaklGRFRma29WaEQ4TEptTnlZTEtSY2RGZEx1UlBYdkk1UjNleHloSWpOREpReVNvYkp2d2FIcTlybUF2Q0JlaVJLUGJnUQ?oc=5",
-    "aid": "b775d0d448",
-    "titel": "Aufstellung | FC Ingolstadt 04 - Jahn Regensburg : | 15. Spieltag | 3. Liga 2026/27",
-    "quelle": "Kicker",
-    "beschr": " Aufstellung | FC Ingolstadt 04 - Jahn Regensburg : | 15. Spieltag | 3. Liga 2026/27 &nbsp;&nbsp; Kicker ",
-    "zeit": "2026-11-25T20:03"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-25T23:55",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "2cad19569d",
-  "schluessel": "wurzburg|kader",
-  "person": "",
-  "spieler": [],
-  "klub": "Würzburg",
-  "klubs": [
-   "Würzburg",
-   "Düsseldorf"
-  ],
-  "stufe": "kader",
-  "klasse": "kader",
-  "titel": "Aufstellung | Würzburger Kickers - Fortuna Düsseldorf : | 15. Spieltag | 3. Liga 2026/27",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRl95aDZKcFNOcUJPZXF6WU41bG9LVEw3X0lPanV4U0xHN2IwVDhYendqRWpoU0FUcTNJSE9ka0Q4WlJXR1FxSng4V3NWR0ItTjlfVUpVcmZ4eDlVY29Wb1hkTXBrX1haWGYwOHVVc0pkVmRTTTc5ajBaeXJmMUdIdVRTWFBKdw?oc=5",
-    "aid": "4e719100df",
-    "titel": "Aufstellung | Würzburger Kickers - Fortuna Düsseldorf : | 15. Spieltag | 3. Liga 2026/27",
-    "quelle": "Kicker",
-    "beschr": " Aufstellung | Würzburger Kickers - Fortuna Düsseldorf : | 15. Spieltag | 3. Liga 2026/27 &nbsp;&nbsp; Kicker ",
-    "zeit": "2026-11-25T20:03"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-25T23:55",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "436e1f5f2a",
-  "schluessel": "rw essen|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "RW Essen",
-  "klubs": [
-   "RW Essen"
+   "Saarbrücken"
   ],
   "stufe": "sonstiges",
   "klasse": "sonstiges",
-  "titel": "Rot-Weiss Essen: Wann spielt Nader Jindaoui? Hoffenheims Social-Media-Star in der sportlichen Krise",
+  "titel": "(k+) Weniger reif, dafür deutlich attraktiver: So soll Giannikis Saarbrücken in die 2. Liga bringen",
   "quellen": [
    {
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcG9ERnRtY1pGWXVDd3lJMVQ1Z3VyeUFTT2NpeUV3OHllb0JKY2FCaDJBQ2hncnBQUlQ5WlR5QVp6SzVYeFFyUExpMUVBTVB1eWViRUN0MV9mRDMtVmFZQmVVQm5RWHNkaS12WWRscjktZ1pieWp2S3ZHWmExVzRhcXRZTzBMMkZDYk4xT3JHNEtkZVhBR0MwYTFQSXpyeVZwemRHM3ctZDc3RnZEM2dZaEVqRkVoMWgwUjV4YjBybXdsX0FKZjFnRU5iSjIzdjBONEE?oc=5",
-    "aid": "e9cc0c08f5",
-    "titel": "Rot-Weiss Essen: Wann spielt Nader Jindaoui? Hoffenheims Social-Media-Star in der sportlichen Krise",
-    "quelle": "WAZ | Westdeutsche Allgemeine Zeitung",
-    "beschr": " Rot-Weiss Essen: Wann spielt Nader Jindaoui? Hoffenheims Social-Media-Star in der sportlichen Krise &nbsp;&nbsp; WAZ | Westdeutsche Allgemeine Zeitung ",
-    "zeit": "2026-11-25T19:59"
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVTFwUW1OSXkwbzc1N1FrX3dDWF9TX0ZCR3JSZWNJZDR2MUEzdHBGRkN6WVVTZDRGc3d2Zkp6SjFBcXVMaUlFazdubmRrZTV1eExiZHlHajdXekYwaURkdWJMWGw3Rk4wZHhrY0paREdFT09CVnZoLWdVMVA2Smg1YkhZTkItN0ZKRWpuUk1venRvWHdxUjM2UmcyNG91Und2eWRvTmE3dlFTVWctN1hkWmZJekpSRFhBSS15bkRLeVc1ak1LMjFQNkJtWQ?oc=5",
+    "aid": "86ccea5b3f",
+    "titel": "(k+) Weniger reif, dafür deutlich attraktiver: So soll Giannikis Saarbrücken in die 2. Liga bringen",
+    "quelle": "Kicker",
+    "beschr": " (k+) Weniger reif, dafür deutlich attraktiver: So soll Giannikis Saarbrücken in die 2. Liga bringen &nbsp;&nbsp; Kicker ",
+    "zeit": "2026-11-26T06:32"
    }
   ],
-  "archiv_status": "neu",
+  "archiv_status": "aehnlich",
   "prio": 2,
   "status": "n",
-  "erstmals": "2026-11-25T23:55",
-  "archiv": [],
-  "versuche": 2
+  "erstmals": "2026-11-26T19:01",
+  "archiv": [
+   {
+    "id": "8bdbd472d4",
+    "titel": "Saarbrücken empfängt Aachen: Topspiel mit zwei formstarken Teams",
+    "datum": "25.11.",
+    "stufe": "sonstiges",
+    "summary": "Der 1. FC Saarbrücken empfängt Alemannia Aachen zum Topspiel der 3. Liga. Beide Teams haben 23 Punkte und sieben Siege auf dem Konto."
+   }
+  ],
+  "versuche": 1
  },
  {
-  "id": "c44c543b19",
+  "id": "f07cfbe117",
   "schluessel": "rw essen|verletzung",
   "person": "",
   "spieler": [],
@@ -219,140 +85,95 @@
   ],
   "stufe": "ausfall",
   "klasse": "verletzung",
-  "titel": "Gladbach ist schon durch, RWE verpasst Coup - doch bleibt auf Kurs",
+  "titel": "Rot-Weiss Essen: Bangen um zwei Spieler, Janssen gesperrt, Mittelfeldmann zurück",
   "quellen": [
    {
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUVNCT0dobmlxTEhEZmlZX3I4eTlLRUxUeWRCTnNXTkVPUXp4YWU3OXdWa1JYWS10OE4xaWJ0eDZDR1dxRWtPcUE3WlZ4LWhSbllSaEl5R3huU1lrbmt6MUZudlBpa3JWTFR2LWVVVkR3bTBsbjM0SHRLaGNUMDVDa1N1d1g5d095Y2xFVGt1Vm5WNml4WHkyQ05MLUFDUQ?oc=5",
-    "aid": "4205493e46",
-    "titel": "Gladbach ist schon durch, RWE verpasst Coup - doch bleibt auf Kurs",
-    "quelle": "FuPa ⚽️",
-    "beschr": " Gladbach ist schon durch, RWE verpasst Coup - doch bleibt auf Kurs &nbsp;&nbsp; FuPa ⚽️ ",
-    "zeit": "2026-11-25T14:16"
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNN2U0S1ZxQUhKYXhLdDBZUFZZUFFKNEFQZVd4Q2p2eFFhVzhZMFJsc3U3U0hvZWhZb19HckxTVGVwa2M4WE84UTFCRkJ1X2ZkSk03dVZIb0hFTXFFSWViUWtveEtXSmRBY3V1TFc5aTBpcVFKX05EWE1iWEpRM2ZtRXVhbjdZd2JTeW1BUW9IbUFYRGt6NHFZdzZJNWdyQ01jbGpsNVBPS2VVWVpwMm9ZUDA4WFhST2ljS2dURjVPYlJsTkVoSFRtZEdJRENjX3hl?oc=5",
+    "aid": "0465a0f60a",
+    "titel": "Rot-Weiss Essen: Bangen um zwei Spieler, Janssen gesperrt, Mittelfeldmann zurück",
+    "quelle": "RevierSport online",
+    "beschr": " Rot-Weiss Essen: Bangen um zwei Spieler, Janssen gesperrt, Mittelfeldmann zurück &nbsp;&nbsp; RevierSport online ",
+    "zeit": "2026-11-26T13:38"
    }
   ],
   "archiv_status": "neu",
   "prio": 3,
   "status": "n",
-  "erstmals": "2026-11-25T23:55",
+  "erstmals": "2026-11-26T19:01",
   "archiv": [],
-  "versuche": 2
+  "versuche": 1
  },
  {
-  "id": "970ce185d8",
-  "schluessel": "viktoria koln|kader",
+  "id": "97f83afda6",
+  "schluessel": "duisburg|verletzung",
   "person": "",
   "spieler": [],
-  "klub": "Viktoria Köln",
+  "klub": "Duisburg",
   "klubs": [
-   "Viktoria Köln",
-   "Fortuna Köln"
+   "Duisburg"
   ],
-  "stufe": "kader",
-  "klasse": "kader",
-  "titel": "Aufstellung | FC Viktoria Köln - Fortuna Köln : | 15. Spieltag | 3. Liga 2026/27",
+  "stufe": "ausfall",
+  "klasse": "verletzung",
+  "titel": "MSV Duisburg: Lazarett wächst! Neben Noß und Bulic fehlt mindestens noch ein Leistungsträger",
   "quellen": [
    {
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWTlLVU10bUZ0LVhaTU5YVnhDMWs3VkNzVTQ4WXBBV1lzTkhoR250a253eGl3djcxTThVQmFsY3JNaGZwREtXZXp4enZtLVl3ZEdkN1AtUEw4WFhuRE81NlpYdWd6dHZCZDdHSGlUT2ZmWjBELXVkcEJYOC1aa1hoWVpR?oc=5",
-    "aid": "82468350e9",
-    "titel": "Aufstellung | FC Viktoria Köln - Fortuna Köln : | 15. Spieltag | 3. Liga 2026/27",
-    "quelle": "Kicker",
-    "beschr": " Aufstellung | FC Viktoria Köln - Fortuna Köln : | 15. Spieltag | 3. Liga 2026/27 &nbsp;&nbsp; Kicker ",
-    "zeit": "2026-11-25T20:03"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-25T23:55",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "bf72df656e",
-  "schluessel": "rostock|vertrag",
-  "person": "",
-  "spieler": [],
-  "klub": "Rostock",
-  "klubs": [
-   "Rostock",
-   "Havelse"
-  ],
-  "stufe": "vertrag",
-  "klasse": "vertrag",
-  "titel": "Hansa Rostock verlängert mit w.Holz – 1965 Freibiere zum Havelse-Spiel",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZUROS1VyVkg4dHNUcm0yMFVWai1HM0I3TUlGN08wRnJMWGZRNlFZS3dxYngwUDh5VXNvZXRacFprU3BqT0kwRnR4aWxWejFVRzU2VjltZU5JUXZzM0lLRkpVcHRKem1yd205UDBNU1p0cGthdjJ2Y2pvcDJoSzUyRWM0OWw1bnlSTHB5ck9WM01yYW95NndkMmhyajVYdFlJbFFsYm5DcFBBV05SN3RVdHhtZTNKREM5RDFNbXhfRTN0SkpQaGd4eU9JZlliQlZ4NHp3UHlSTEFMcjFvenRB0gH7AUFVX3lxTFAzemgzcVRRc0RLVnFrdGhpVldRZU5TZUo2SDJnSDNEY1NmYlBtdWI2RThTc0VuMmhsN2JXbjNUcGwwblcxd2xwWkJ5b1ZsNTU4Nmk0MEZERzB2MzVKQU5Ydy16UXZGQXZVLXNWUlBkQkpPZjlXUDd6WDlicU9ZMVBzTEFESWNkR2NJT0JJdGpsTzNXLXRVcF96emNiaVJzaldvZlNYTWw4RlZtY1FsM0FkYUxtUkFaQk55WEZLWUdrRk5WRVhwMkVnU1VSZmItRTg3SGhIZTNUd1FudE1KNzNEdi1ldFlqMFRCdTN3b2p6TjBrZGs0Q3d3c3I0?oc=5",
-    "aid": "8c1d4da7ac",
-    "titel": "Hansa Rostock verlängert mit w.Holz – 1965 Freibiere zum Havelse-Spiel",
-    "quelle": "Ostsee Zeitung",
-    "beschr": " Hansa Rostock verlängert mit w.Holz – 1965 Freibiere zum Havelse-Spiel &nbsp;&nbsp; Ostsee Zeitung ",
-    "zeit": "2026-11-25T18:13"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-25T23:55",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "547556e691",
-  "schluessel": "rw essen|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "RW Essen",
-  "klubs": [
-   "RW Essen"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Rot-Weiss Essen: Warum Bätzner für RWE noch sehr wertvoll werden könnte",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORk9BaFFXLTBJcHoyNjlYd28zMG0tdy1Ia3VGWDYyRTUwcXZ6QUxZVlhvN0NlNWVmcHZ6UUFHTW1QZXBhbEczVXQ0aTk3aTB6SnZvU2NCeTRuYjk0Sm1RUkNySU84ZHlLb3dkNTZGdkZEX2JuNE1EbDM4SXFNXzNZbkd5dFB5akwxLV9PQzJ4U0xzQjZuV1poWlBuX3lEb283NmdXMUltZWRSZnJHY2FWREtvWXpmOWg5VHFoaDVuSnNtWjZvNThmSHItRGtPMk8ycUFBclRic2o?oc=5",
-    "aid": "b819537f95",
-    "titel": "Rot-Weiss Essen: Warum Bätzner für RWE noch sehr wertvoll werden könnte",
-    "quelle": "WAZ | Westdeutsche Allgemeine Zeitung",
-    "beschr": " Rot-Weiss Essen: Warum Bätzner für RWE noch sehr wertvoll werden könnte &nbsp;&nbsp; WAZ | Westdeutsche Allgemeine Zeitung ",
-    "zeit": "2026-11-25T20:31"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-25T23:55",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "486a92242a",
-  "schluessel": "rostock|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Rostock",
-  "klubs": [
-   "Rostock",
-   "Havelse"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "F.C. Hansa Rostock - TSV Havelse im Live-Stream und TV: Havelse am 27.11.2026 mit Mammutaufgabe gegen die Hanseaten",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nR1JVQ3hVcTJZLTA1eTk5QU1OLWdPT0IyWl9MSnZESkl5dERwQmF1dFRNSEZOcnN1S1pUeW5Ud2ZPcmFqdHZvcjE4eGV2eWZYVjJRblJ1dEdWYUxYU2NUU2sxRFBrbXkzZURPcmFFRERTQQ?oc=5",
-    "aid": "541931fd09",
-    "titel": "F.C. Hansa Rostock - TSV Havelse im Live-Stream und TV: Havelse am 27.11.2026 mit Mammutaufgabe gegen die Hanseaten",
-    "quelle": "AOL.de",
-    "beschr": " F.C. Hansa Rostock - TSV Havelse im Live-Stream und TV: Havelse am 27.11.2026 mit Mammutaufgabe gegen die Hanseaten &nbsp;&nbsp; AOL.de ",
-    "zeit": "2026-11-25T18:04"
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWmVHdHJPSFlDZkdQVlV1NGNTMnMyLUF6WkdKa3pyVUdiLWxDZDFlTjF1LWdPQmVrUGVpZU9CZTlaYmF3R3RiZVV6MktobHR5a2p5Nlo0dXlJamFqeXdKR1pnMjgtbXZEeFZnUllGcXN5RW5LT2hhenBmeFAxLVM3TTc5ZWtNN1BBTmVORTgzRkktMDNsNHFCXzlmQ29aNEttWUJMd0dvcmtmdEw4U0FhM21MbXR0cllWZlNxREJ3dG9SM0lpRzdaaktpdGdBTlZPdS0zYkhCRG9pZw?oc=5",
+    "aid": "519348408d",
+    "titel": "MSV Duisburg: Lazarett wächst! Neben Noß und Bulic fehlt mindestens noch ein Leistungsträger",
+    "quelle": "RevierSport online",
+    "beschr": " MSV Duisburg: Lazarett wächst! Neben Noß und Bulic fehlt mindestens noch ein Leistungsträger &nbsp;&nbsp; RevierSport online ",
+    "zeit": "2026-11-26T14:21"
    }
   ],
   "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-26T03:36",
+  "prio": 3,
+  "status": "u",
+  "erstmals": "2026-11-26T19:01",
+  "archiv": [
+   {
+    "id": "15c70a6feb",
+    "titel": "Duisburg ohne Noß und Bulic nach Großaspach",
+    "datum": "24.11.",
+    "stufe": "ausfall",
+    "summary": "Duisburg reist ohne den angeschlagenen Conor Noß und den gelbgesperrten Kapitän Rasim Bulic nach Großaspach. Noß war gegen Rostock ausgewechselt worden, Bulic sah seine fünfte Gelbe Karte."
+   },
+   {
+    "id": "edd5889c4c",
+    "titel": "Düsseldorf: Wekesser verletzt sich im Pokalderby gegen Duisburg",
+    "datum": "19.11.",
+    "stufe": "verletzung",
+    "summary": "Düsseldorfs Erik Wekesser musste im Landespokal-Viertelfinale gegen Duisburg nach 20 Minuten ohne gegnerische Einwirkung raus. Die Schwere der Verletzung ist unklar."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "2a7660fdfd",
+  "schluessel": "havelse|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Havelse",
+  "klubs": [
+   "Havelse",
+   "Rostock"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Fußball: Schickt TSV Havelse Breitenreiter und Hansa Rostock noch tiefer in die Krise in der 3. Liga?",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSDBzTG1RQVg0NVpaVkpvLWdaNXNmRXBBM2N5dHp6enJ2T3JadnhMUG5tZ25VdWdxNFJraWJTTUF4c2VTMXVFZFBVSjZTZnRmbU5kcy1BNGtKTHRoSEM2aFFvSEFCMU9WM0ZEVWd4M0dKTXIzNXloU0k5bFZaemxPZVk2UkJDUzhfbmctOHlPT0FrU0lVY3B1UTM3N3RFMXVTRHUxbWw5NVAyVmhZZVNPSDNCTTdzYURTdWRIU2VUV09POG13TE9XUFpIVXRmT01sRE5NV3RydXRmZUxKOFlwcE5Vd2UxSHJYMjBvLUNMdllBdG16b3l5NFgyTmhQbi03dEE?oc=5",
+    "aid": "092170dd9e",
+    "titel": "Fußball: Schickt TSV Havelse Breitenreiter und Hansa Rostock noch tiefer in die Krise in der 3. Liga?",
+    "quelle": "Neue Presse",
+    "beschr": " Fußball: Schickt TSV Havelse Breitenreiter und Hansa Rostock noch tiefer in die Krise in der 3. Liga? &nbsp;&nbsp; Neue Presse ",
+    "zeit": "2026-11-26T11:51"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-26T19:01",
   "archiv": [
    {
     "id": "053754865d",
@@ -361,10 +182,114 @@
     "stufe": "sonstiges",
     "summary": "Hansa Rostock trifft als Tabellenzwölfter mit 19 Punkten auf den TSV Havelse, der nach der 1:6-Niederlage gegen Viktoria Köln auf Rang 20 steht. Beide Teams gewannen aus den letzten fünf Partien nur einmal."
    }
-  ]
+  ],
+  "versuche": 1
  },
  {
-  "id": "805f5f9466",
+  "id": "24c0e1d36a",
+  "schluessel": "wurzburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Würzburg",
+  "klubs": [
+   "Würzburg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Schon wieder ein Gegner von der Schwäbischen Alb: Die Wölfe Würzburg verspüren Rückenwind",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOOWw1aEEzN3VqN3RQbE9mdVNCaFV0Y3hMbUdXY1JXT0txTjZzVDJRZ0tNdk8yWFpEdnAwMC00aGg0YU5hdkZfcHFienpPUWdpV3pjU1EwQm5nZmRBakpYTU9yTkNldzFDUWVGamktS1B3RDlZNUNBRF82a011VzN6bExReGFYMmdzZUZMckVPRmZvQzNhSmRzNlBrRlNvTXVwREVLVEJoZ0g0Z3piUWZZdzVqTlFIUmsxWEkxa2dXclpwWWxJaVdDaU9HamZSU1NLM28wcEljZ3RhM0VBc0xSM0xianozdDl4QVlwenN1VkpuS0t2bzkw?oc=5",
+    "aid": "95a26d8f5f",
+    "titel": "Schon wieder ein Gegner von der Schwäbischen Alb: Die Wölfe Würzburg verspüren Rückenwind",
+    "quelle": "Main-Post",
+    "beschr": " Schon wieder ein Gegner von der Schwäbischen Alb: Die Wölfe Würzburg verspüren Rückenwind &nbsp;&nbsp; Main-Post ",
+    "zeit": "2026-11-26T17:00"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-26T19:01",
+  "archiv": [
+   {
+    "id": "a1cdb75fed",
+    "titel": "Regensburg gegen Würzburg: Zwei Teams in der Tabellenmitte treffen aufeinander",
+    "datum": "18.11.",
+    "stufe": "sonstiges",
+    "summary": "Regensburg empfängt am Samstag um 14:00 Uhr Würzburg. Beide Teams verloren zuletzt und liegen in der Tabelle nah beieinander."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "244a0a50b6",
+  "schluessel": "viktoria koln|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Viktoria Köln",
+  "klubs": [
+   "Viktoria Köln"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Viktoria Köln: Vor Fortuna-Derby – „Werden uns von der Tabelle nicht blenden lassen!“",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSGNWZ2I4VDcwNHZfRVpoNFQ3MTQxd182NkQ0X1RqYktUNGtKMXdzNnRuR1ljVGlZcVlUTzhpa0p4SVBlS3pXWFFoN2JmMHVDWUtpM3hRWGNlZTMzWVdobHNLUkl3QjNpYy03STF2bFVqREV3ZkpaTzJkTUx2VXV0dGtfdjlaWDVxWWYyeHB6Zzdxc29ZVXVYb3JPb0wwajlDZWRyZXEzV09tbnAzektEN1lnYkpHYmJIY2lRWWxENFE?oc=5",
+    "aid": "eac9203c46",
+    "titel": "Viktoria Köln: Vor Fortuna-Derby – „Werden uns von der Tabelle nicht blenden lassen!“",
+    "quelle": "RevierSport online",
+    "beschr": " Viktoria Köln: Vor Fortuna-Derby – „Werden uns von der Tabelle nicht blenden lassen!“ &nbsp;&nbsp; RevierSport online ",
+    "zeit": "2026-11-26T12:27"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-26T19:01",
+  "archiv": [
+   {
+    "id": "ba4a757623",
+    "titel": "Havelse empfängt Tabellenführer Viktoria Köln zum Freitagsspiel",
+    "datum": "17.11.",
+    "stufe": "sonstiges",
+    "summary": "Havelse empfängt am Freitag Tabellenführer Viktoria Köln. Das Schlusslicht stellt mit 29 Gegentoren die schwächste Defensive der Liga, Köln holte elf Punkte aus fünf Spielen."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "24a3c10cdc",
+  "schluessel": "aachen|kader",
+  "person": "",
+  "spieler": [],
+  "klub": "Aachen",
+  "klubs": [
+   "Aachen"
+  ],
+  "stufe": "kader",
+  "klasse": "kader",
+  "titel": "Ansturm auf Alemannias Kaderplätze",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ2UwWHoxNW1Jd09BRW4xOG5lMWVGNFlyUk5OQWRXZ1JlbVZfWFBzTWFUOWN6MUFZcC1sV3lydkFiYU45d2lMelhNYnV4dEFFb2dUWU0xZGZod0thVGRHelFXdGxXVEVmeG1tUzhlTDF5bmhxQ2Q0ZWlkSldmbW5vdnRMNHlYdmF5Q3NYWGVzcnE0TlVvTWhMakV5cjhyeEkxRVJPelZUY1Zwa3JYd000Yg?oc=5",
+    "aid": "fe9ada3b59",
+    "titel": "Ansturm auf Alemannias Kaderplätze",
+    "quelle": "Aachener Zeitung",
+    "beschr": " Ansturm auf Alemannias Kaderplätze &nbsp;&nbsp; Aachener Zeitung ",
+    "zeit": "2026-11-26T16:04"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-26T19:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "4ac9722942",
   "schluessel": "dusseldorf|sonstiges",
   "person": "",
   "spieler": [],
@@ -374,25 +299,48 @@
   ],
   "stufe": "sonstiges",
   "klasse": "sonstiges",
-  "titel": "Aufsteiger auf der Suche nach Konstanz",
+  "titel": "Fortuna Düsseldorf: Langeneke blendet Tabellensituation aus - \"Keine Gedanken über Szenarien machen\"",
   "quellen": [
    {
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NTXB0aFpGbFRUOS1aZ3hyNS1IZS1ZenhPSXdWOEZManJCWFlUcFhnamVsSmFxanBMdWtjdGxLbzRETmZ0V19CRE9ReFBlZXNYQkQyMXp0ZWRKalAtWVNKUmNmb21YMkg3bU1lTHdtcw?oc=5",
-    "aid": "5beee8e064",
-    "titel": "Aufsteiger auf der Suche nach Konstanz",
-    "quelle": "f95.de",
-    "beschr": " Aufsteiger auf der Suche nach Konstanz &nbsp;&nbsp; f95.de ",
-    "zeit": "2026-11-25T14:23"
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSXA4aVhuNmVPYlVHTnc5SHFfVFBXNkU3NXc4Y3VJQWtISTFmeUpvb3FRek1NSDNESW1HaWQ3akZVRTNXbFNvcjRWSUN5Rk1ta0tSaG9CQmpHRzZ1U0sxQ0NfNWxlQWRBc3dQOFJ1ZGpfRlhNOWlNYkttNTJlVEF3cThYRk1OZ1p5anVGb1lKWDEwenYxbk15S01hdFZsUWthSFNqMzducVoxV2lub3pSUzNmcGd1Y2VsYlM2Zll2OTcwbWZBbGh1NHZDVW5lc0hydW56WXRaTG9iRXZjVVpmQ1VpdnVIRTJOOGc?oc=5",
+    "aid": "1984fea96e",
+    "titel": "Fortuna Düsseldorf: Langeneke blendet Tabellensituation aus - \"Keine Gedanken über Szenarien machen\"",
+    "quelle": "RevierSport online",
+    "beschr": " Fortuna Düsseldorf: Langeneke blendet Tabellensituation aus - \"Keine Gedanken über Szenarien machen\" &nbsp;&nbsp; RevierSport online ",
+    "zeit": "2026-11-26T16:53"
    }
   ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-26T03:36",
-  "archiv": []
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-26T19:01",
+  "archiv": [
+   {
+    "id": "56b4f4abe2",
+    "titel": "Düsseldorfs Risch erklärt die Wende unter Langeneke",
+    "datum": "24.11.",
+    "stufe": "sonstiges",
+    "summary": "Düsseldorfs Linksverteidiger Sascha Risch führt die zwei Siege unter Trainer Jens Langeneke auf eine bessere Grundeinstellung zurück. Die Fortuna ist nach 14 Spielen Elfter mit elf Punkten Rückstand auf die Top 3."
+   },
+   {
+    "id": "b317ca2504",
+    "titel": "Düsseldorf gegen Großaspach: Zwei Teams suchen den Erfolg",
+    "datum": "18.11.",
+    "stufe": "sonstiges",
+    "summary": "Fortuna Düsseldorf trifft am Samstag auf Großaspach und sucht nach vier Spielen ohne Sieg einen Erfolg. Beide Teams sind formschwach und liegen vier Punkte auseinander."
+   },
+   {
+    "id": "1e0343b822",
+    "titel": "Fortuna Düsseldorf verzichtet auf Probekeeper Phillip Menzel",
+    "datum": "14.11.",
+    "stufe": "sonstiges",
+    "summary": "Fortuna Düsseldorf gibt Probekeeper Phillip Menzel keinen Vertrag, da Louis Lord in einigen Wochen zurückerwartet wird. Bis dahin hütet Lasse Rieß das Tor."
+   }
+  ],
+  "versuche": 1
  },
  {
-  "id": "6ae6607250",
+  "id": "3471625ee5",
   "schluessel": "rostock|sonstiges",
   "person": "",
   "spieler": [],
@@ -402,96 +350,41 @@
   ],
   "stufe": "sonstiges",
   "klasse": "sonstiges",
-  "titel": "Hansa-Coach Breitenreiter vor Duell mit Ex-Club krank",
+  "titel": "Weniger Drama, mehr Klarheit: Wie Hansa Rostock wieder auf Kurs kommen kann",
   "quellen": [
    {
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRUDBsRlBnMEtsUGpWVXNuOXpMNHdyOHpwN1o4OVhkU1d5WW56RWJ1aXR0WktOUlQxOWI5LXNmdGhxamVDdGx4M0RaQnVhZm5TUmpRZkh6OERKWWF2MEF6T05vcDEwSnF1cHVBUzRRMVQ4REk1dVE?oc=5",
-    "aid": "46bfabd5c6",
-    "titel": "Hansa-Coach Breitenreiter vor Duell mit Ex-Club krank",
-    "quelle": "MV online",
-    "beschr": " Hansa-Coach Breitenreiter vor Duell mit Ex-Club krank &nbsp;&nbsp; MV online ",
-    "zeit": "2026-11-25T07:43"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-26T03:36",
-  "archiv": []
- },
- {
-  "id": "2e12c45708",
-  "schluessel": "duisburg|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Duisburg",
-  "klubs": [
-   "Duisburg"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Regionalliga-Reform: Duisburg und West-Klubs stärken das Kompassmodell",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObUFtMkRiZExKdWt0RGtMcGZ4OTh0T251NXFkQVBNZU9VNzVaUnY1UXFpZlV3MmFYakJHTXNGbkxKSVNranlxX1RZZ1g1NFVZS0lnYTMxazM1RjZ6WVQ2OVkxdHpscnhfT3dEcVhkc1c4LVJmcXhBV0psYXEtb01yWFh3aWZZb2ZSdmR6a1BscXBuYlBEbl9vbGhZQnNpTDZWaVVvR3VKRdIBrAFBVV95cUxOZl9yUFAwMjRpVG1oSmZJUy12bjBlcjVpcmRral9WQ1BXcnFpcjl4ZlhhOVZGY0hEeWUzYkU1azJmT2FCVGdUZmFObTZSTWxKQ0xXT25ISUV6MDNwTlBpcy04cEx4U0RJYS10VVVmRGFkelQ2d0xnZ3NObjZKMnRscnRFSHlKa09lSmxmWWlEdXZYOEd1MVdQcmVjRDFEcEZDMzJ5ay1vZmQzZ2Qy?oc=5",
-    "aid": "6da83d981d",
-    "titel": "Regionalliga-Reform: Duisburg und West-Klubs stärken das Kompassmodell",
-    "quelle": "Liga 3 News",
-    "beschr": " Regionalliga-Reform: Duisburg und West-Klubs stärken das Kompassmodell &nbsp;&nbsp; Liga 3 News ",
-    "zeit": "2026-11-25T16:25"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-26T03:36",
-  "archiv": []
- },
- {
-  "id": "78d925e1ab",
-  "schluessel": "munster|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Münster",
-  "klubs": [
-   "Münster"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Spielschema | Preußen Münster - Hannover 96 3:3 | 9. Spieltag | U-19-DFB-Nachwuchsliga (Vorrunde) 2026/27",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeHVrV09oRFBEX3YwV2hDRjd1QURIYWEtSmZYSUlqclFheTJGWlZjcHltUnRISXJxaV9tS09XZTktRXJ4X1F0UkhBakY4dVZ0ZC1udnVRZDhVekVmZ0F2UGJLRkNtUUZaMVJ3NURTYnREVjJUaEhKa1BybW12YzNJSDE3ck16VmdWLTU1VVdBUQ?oc=5",
-    "aid": "80cb6895b3",
-    "titel": "Spielschema | Preußen Münster - Hannover 96 3:3 | 9. Spieltag | U-19-DFB-Nachwuchsliga (Vorrunde) 2026/27",
-    "quelle": "Kicker",
-    "beschr": " Spielschema | Preußen Münster - Hannover 96 3:3 | 9. Spieltag | U-19-DFB-Nachwuchsliga (Vorrunde) 2026/27 &nbsp;&nbsp; Kicker ",
-    "zeit": "2026-11-26T00:31"
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQc3V3d0JQRk4wQzMtdnNSN3BRNUxIdjJaVURjeUhSZ216WXZSd1pfY3VHdGNCZmstY1E5UlFIZ0lIelNkdVU1ZU5QNFF5aXUyNFFkNU02dUJFM3BiMWJxUVlGODh3THVfQTlrU1A0b0FTWHo4NmdMdDRISXl1TmJhNEU2Y1k3T0ZTTnNwTl9UNEZRWlJJY2EzaHEzT3VXMmR3X0lTY1JnTEM0YzFlVjc2N0lHU01vYW5vZlUyYkhWcHpvTHdzb1JpQ2RaMFI4T2daekwtV1ZuY0hDaTlmNXV0UzI5alrSAYACQVVfeXFMUFdBWVpXX19FUXUzOGxreVJNMVJkRFRobGpzRTF2b2xSMXNMQ0huZ205YWZwRTRpNjBsbzVFOE0waU43MHpPMTJ3VUdQM3IxTUEtRElNaUpFVEhIeDBtcnJ4T2RjSW5Ua2Z0cnNuc1h2OGRqdDNkSXVQeGJUeG1oVFRSa3FDYVgzTFVudTNfUWxtOTk4Z1cwS0s2YzZYY3V4N19mWlJDN0xmYUdfNHNSU1JzT3NOZjgyb2dYRzhyeGlfcTdkekpTRE01bThkQ3g2emNCLWxNRlpCUXMwQ21GSmR3LUZVNzFPeU5heVQzaF9NcWxKMWMwRHd1Zjc1MGNtWA?oc=5",
+    "aid": "aba6e3b36b",
+    "titel": "Weniger Drama, mehr Klarheit: Wie Hansa Rostock wieder auf Kurs kommen kann",
+    "quelle": "Ostsee Zeitung",
+    "beschr": " Weniger Drama, mehr Klarheit: Wie Hansa Rostock wieder auf Kurs kommen kann &nbsp;&nbsp; Ostsee Zeitung ",
+    "zeit": "2026-11-26T17:02"
    }
   ],
   "archiv_status": "aehnlich",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-26T03:36",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-26T19:01",
   "archiv": [
    {
-    "id": "212305520f",
-    "titel": "Hoffenheim II überrollt Münster mit 4:0",
-    "datum": "21.11.",
-    "stufe": "spielbericht",
-    "summary": "Hoffenheim II besiegt Preußen Münster in der 3. Liga mit 4:0. Dulic, Makanda, Fields und Zor treffen für die Gastgeber."
+    "id": "053754865d",
+    "titel": "Hansa Rostock gegen Havelse: Beide Teams suchen die Wende",
+    "datum": "25.11.",
+    "stufe": "sonstiges",
+    "summary": "Hansa Rostock trifft als Tabellenzwölfter mit 19 Punkten auf den TSV Havelse, der nach der 1:6-Niederlage gegen Viktoria Köln auf Rang 20 steht. Beide Teams gewannen aus den letzten fünf Partien nur einmal."
    },
    {
-    "id": "32ccffc4b7",
-    "titel": "Münster zieht ins Halbfinale ein, Scherder feiert Comeback",
+    "id": "0f82484d68",
+    "titel": "Hansa Rostock tritt im Pokal-Achtelfinale beim Penzliner SV an",
     "datum": "12.11.",
-    "stufe": "spielbericht",
-    "summary": "Preußen Münster schlägt den BSV Schüren im Viertelfinale des Westfalenpokals 3:0 und steht im Halbfinale. Simon Scherder feiert nach 385 Tagen Verletzungspause sein Comeback."
+    "stufe": "sonstiges",
+    "summary": "Hansa Rostock spielt am 14. November im Landespokal-Achtelfinale beim Sechstligisten Penzliner SV. Der Einsatz von Luca Unbehaun ist fraglich, Benno Dietze und Emil Holten fehlen wohl."
    }
-  ]
+  ],
+  "versuche": 1
  },
  {
-  "id": "5d3d29e7ce",
+  "id": "91f8b5873e",
   "schluessel": "grossaspach|sonstiges",
   "person": "",
   "spieler": [],
@@ -501,21 +394,274 @@
   ],
   "stufe": "sonstiges",
   "klasse": "sonstiges",
-  "titel": "Nach Schieber-Trennung: Großaspach holt Benedikt Röcker zurück",
+  "titel": "#SGSMSV | Die Medienrunde mit Dietmar Hirsch vor dem Spiel in Großaspach",
   "quellen": [
    {
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVkJ3NU1YUUJ6aEJCRXFpYVZlNHNCbHBWT0MwSkhQNzlUVlBKNVVnaEN3eXFNRk95S084ZTZnQkd4ZXdrWl94dXl6OTNuTFRDYk51d21TbUNtWU90aUJfNEg4ZFhmY2MyTFI2c21tWElpYlZWUjF6UmJQSUNOSkdJT21IU29jZW9SRG8xbHFuUFNzemh1WHfSAZsBQVVfeXFMUG9NaVp4TWJzY01HUnJwODNIbjJSY0QtZG1CUUVKdDNxWTZPdjhabUVpRHhXTzBfQWpELU5uLWFMblJLLUpvNXI0SmhOV0dzMzBhOGFyVXpIaXJieF8xM2k2ekwzdUlWU3NsSzhmdlZtYnpNZ1hiVWZsSWx6ZklwU1c3WnpSNTN1bkl1ZG1yTHVCS0ZGQlpvMXR3Y1k?oc=5",
-    "aid": "3fd400b25a",
-    "titel": "Nach Schieber-Trennung: Großaspach holt Benedikt Röcker zurück",
-    "quelle": "Liga 3 News",
-    "beschr": " Nach Schieber-Trennung: Großaspach holt Benedikt Röcker zurück &nbsp;&nbsp; Liga 3 News ",
-    "zeit": "2026-11-25T19:14"
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORGpyaXczaFB4TXBDdjFfYkNnWWNtajVzcXlPUTV1cklNNkxELVpsd1FvVmVfLTJSZUlicGRwT084dDd0SjMxbkpSZWJlaUhPU1VqZHRFTXNEX2wzUkRsYWtHVTM2dEhHcl91V3oyRG1zblVYZ1pjQUJNdkpZMU8xTDlPbnBxQ1FxeUxLT19VcWFxeFZ1NTlyaXp4d181MFVwTTJOb0FnbmZUTDdhanQ4VktMTnp1Y0Y4?oc=5",
+    "aid": "a86d72a8de",
+    "titel": "#SGSMSV | Die Medienrunde mit Dietmar Hirsch vor dem Spiel in Großaspach",
+    "quelle": "MSV Duisburg",
+    "beschr": " #SGSMSV | Die Medienrunde mit Dietmar Hirsch vor dem Spiel in Großaspach &nbsp;&nbsp; MSV Duisburg ",
+    "zeit": "2026-11-26T14:39"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-26T19:01",
+  "archiv": [
+   {
+    "id": "b317ca2504",
+    "titel": "Düsseldorf gegen Großaspach: Zwei Teams suchen den Erfolg",
+    "datum": "18.11.",
+    "stufe": "sonstiges",
+    "summary": "Fortuna Düsseldorf trifft am Samstag auf Großaspach und sucht nach vier Spielen ohne Sieg einen Erfolg. Beide Teams sind formschwach und liegen vier Punkte auseinander."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "89989feb2d",
+  "schluessel": "duisburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Duisburg",
+  "klubs": [
+   "Duisburg",
+   "Großaspach"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Der MSV muss am Samstag in Großaspach mindestens sechs Spieler ersetzen",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWDJSbkxUSnh0T1pfdGFEMzlpUkZFdV94ZGNDTGpHRERqbGdTN2h4SXl0Tl9ITmVPR3RJN090SlVGNEJjV0pJTkNrNFg4UVI0cUxRdjBpbzUwYXd6Wnk5Ml9PUGNTcjQtcUxHZUFoclJpbEx1TnZWWnltSGVXMm1pa2hVYVdpSU40OUdYeHJXZUNnTW95WEVtTXhNTTFrU3JVeldSY3JsUlFPdWRiOTBWZzVFZWUzZEZraWExU1ZXUklTWDhxZmhybzR3RU0?oc=5",
+    "aid": "ac4718cc92",
+    "titel": "Der MSV muss am Samstag in Großaspach mindestens sechs Spieler ersetzen",
+    "quelle": "NRZ",
+    "beschr": " Der MSV muss am Samstag in Großaspach mindestens sechs Spieler ersetzen &nbsp;&nbsp; NRZ ",
+    "zeit": "2026-11-26T15:18"
    }
   ],
   "archiv_status": "neu",
-  "prio": null,
-  "status": "",
-  "erstmals": "2026-11-26T03:36",
-  "archiv": []
+  "prio": 3,
+  "status": "u",
+  "erstmals": "2026-11-26T19:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "cedf1d75ed",
+  "schluessel": "munster|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Münster",
+  "klubs": [
+   "Münster",
+   "Verl"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Preußen Münster gegen SC Verl: Paetow bleibt positiv vor Krisenduell voller Brisanz",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQ29maXRldE9tSGpSNUlESFRQREx0RlNXRlAtaVl1WHp3NkZ5X0Uyel9SeVZoYnl6WXFFRVBUd3locHduaWxsYS1uT19HUVU5NUFCcEZ6cVNBZjllWmY5b0JwZjI4Zjl3Qi1fOXVKTktnVGJFNlRXOWxaci1hZzk4S09sdmV4UjFicHhzbWdBR1N3elVTVlBINlpsRUVxOURJbk15ZTR3NEh5UGZEYWVwbm9vTlowa0pNV0hzekYzcC1XSUU5NnpjTlg0UmxndTBFcUU1YmpkNVhOYlJGZFdiYVV4eUFYZm9EREZOVA?oc=5",
+    "aid": "d17a7e2d9b",
+    "titel": "Preußen Münster gegen SC Verl: Paetow bleibt positiv vor Krisenduell voller Brisanz",
+    "quelle": "Die Glocke",
+    "beschr": " Preußen Münster gegen SC Verl: Paetow bleibt positiv vor Krisenduell voller Brisanz &nbsp;&nbsp; Die Glocke ",
+    "zeit": "2026-11-26T16:41"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-26T19:01",
+  "archiv": [
+   {
+    "id": "e4bbd8bc68",
+    "titel": "Münster vertagt Entscheidung: Wörle bekommt gegen Verl sein Finale",
+    "datum": "22.11.",
+    "stufe": "sonstiges",
+    "summary": "Münster lässt Trainer Thomas Wörle nach dem 0:4 in Hoffenheim vorerst im Amt. Bei einer Niederlage gegen Verl am Samstag soll es sein letztes Spiel sein."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "f0d1219699",
+  "schluessel": "munster|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Münster",
+  "klubs": [
+   "Münster"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Krisen-Gipfel bei Preußen Münster: Keine Jobgarantie für Verls Trainer Orest Shala",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNanR4VGZGSkM5aFFXeGxLTERVNEs1N04yb2w1Q1hvYzl0b0lUOUVfanIwbWFobjFCSEtZcEgteDF2N25tSkd6d0Y1Qkl6V1Bld3ZiM0p0Ql9FY01tT3NjNVpyR05CODZxeUFibFBTWmVja3Ryb2N6QmRhdmJBSmRvVkdHM2NkM2R6YjZQQVl5SG9uNnNla2x6dEl1a3RVeVRaX2FsSHJkLXBPOGhnS1R1dXlYWE9ycmVQaUt0bXZMb3ZNTmUzSHl1U0dNOVRkNmZ1Qld2MXVoVnUyV0I1dHFaXzVpTDRBcllVb0EwSHhR?oc=5",
+    "aid": "9660b4d65d",
+    "titel": "Krisen-Gipfel bei Preußen Münster: Keine Jobgarantie für Verls Trainer Orest Shala",
+    "quelle": "Die Glocke",
+    "beschr": " Krisen-Gipfel bei Preußen Münster: Keine Jobgarantie für Verls Trainer Orest Shala &nbsp;&nbsp; Die Glocke ",
+    "zeit": "2026-11-26T13:30"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "u",
+  "erstmals": "2026-11-26T19:01",
+  "archiv": [
+   {
+    "id": "e4bbd8bc68",
+    "titel": "Münster vertagt Entscheidung: Wörle bekommt gegen Verl sein Finale",
+    "datum": "22.11.",
+    "stufe": "sonstiges",
+    "summary": "Münster lässt Trainer Thomas Wörle nach dem 0:4 in Hoffenheim vorerst im Amt. Bei einer Niederlage gegen Verl am Samstag soll es sein letztes Spiel sein."
+   },
+   {
+    "id": "af269a4411",
+    "titel": "Hoffenheim II empfängt Münster: Duell der Plätze neun und 14",
+    "datum": "19.11.",
+    "stufe": "sonstiges",
+    "summary": "Hoffenheim II trifft am 21. November um 14:00 Uhr im Dietmar-Hopp-Stadion auf Preußen Münster. Die Gastgeber liegen mit 19 Punkten auf Rang neun, Münster mit 15 Zählern auf Platz 14."
+   },
+   {
+    "id": "3e805f076d",
+    "titel": "Kittner: Münster hält trotz Krise an Wörle fest",
+    "datum": "16.11.",
+    "stufe": "sonstiges",
+    "summary": "Münsters Geschäftsführer Ole Kittner spricht bei der Mitgliederversammlung von einem kritischen Moment, schließt den Abstieg aber aus. Der Klub hält an Trainer Thomas Wörle fest."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "c7b6b37b5e",
+  "schluessel": "rw essen|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "RW Essen",
+  "klubs": [
+   "RW Essen"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Rot-Weiss Essen: Gute Nachrichten von Menzel – das ist der Stand bei Hofmann und Brumme",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeHlGNjJ3SjFIMGNPQ212RDBWeVRBTGFZS0xYV25BeWVpS2swemt4ZE15dDNiOTdLLUFCQTNHQXhlaHdPNjVDWUlHZjNGZTd0alJ4WW1XRVpvYzF1c2djNFM5RmlVRldJSVV2NVkwNFozVjItT2lkREtYRzZSSVJtQk1oYTZJemg0ZHZFcmhKcEs3a3JVQ1F2Q25icTk1cmtmUnJsVE96d1lUNkR5cFo4ZGQzUkNuZFlRQUx3M0JkQ0lUZlIzZ2ZtTlJMSXFnVUNjTVBINjRYZ3VIVXpud2QxVg?oc=5",
+    "aid": "4367b1673c",
+    "titel": "Rot-Weiss Essen: Gute Nachrichten von Menzel – das ist der Stand bei Hofmann und Brumme",
+    "quelle": "WAZ | Westdeutsche Allgemeine Zeitung",
+    "beschr": " Rot-Weiss Essen: Gute Nachrichten von Menzel – das ist der Stand bei Hofmann und Brumme &nbsp;&nbsp; WAZ | Westdeutsche Allgemeine Zeitung ",
+    "zeit": "2026-11-26T12:14"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "u",
+  "erstmals": "2026-11-26T19:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "484ad64ddd",
+  "schluessel": "rw essen|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "RW Essen",
+  "klubs": [
+   "RW Essen"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Rot-Weiss Essen: Noch gibt es einige Karten im Heimbereich für das Hoffenheim-Spiel",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ0tEY0dGQkNDc0J0NTY0R1o0MGw4OU5ucWxoRUVKUFZxT09TNVI4a3pPQmdWYkQ1cE9wZ3U4V214QzVOamZKeUQ5MFFBeGx4Y3R1Z1FjTklfZ3ZYMU1FTnZaaEVyUHFKS0hvRWJUalBOUVlUdjNGdHZESkc3MHdfR1F3dXV6dGFkV0tJSXFzd3BhRmhRQVNFN1ltVWh4ak1GNVVQeU0wOXBHWUg1TkVoaVc0aDUwQy1lcTRzenA1R1hWWDhU?oc=5",
+    "aid": "b643d0cb21",
+    "titel": "Rot-Weiss Essen: Noch gibt es einige Karten im Heimbereich für das Hoffenheim-Spiel",
+    "quelle": "RevierSport online",
+    "beschr": " Rot-Weiss Essen: Noch gibt es einige Karten im Heimbereich für das Hoffenheim-Spiel &nbsp;&nbsp; RevierSport online ",
+    "zeit": "2026-11-26T10:22"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-26T19:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "6fabde4aed",
+  "schluessel": "hoffenheim ii|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hoffenheim II",
+  "klubs": [
+   "Hoffenheim II",
+   "RW Essen"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "TSG Hoffenheim II: TSG stellt ältesten und jüngsten Torschützen der Saison - beide fehlen in Essen",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcXB3Y0Q2QUpjQnR1UXZvSndENXNsQlRKb3RGN1dPejQ5R182TTlQTU9IVzJSbDVvNURuMkw4bFFPZDJwbDJ4SUlaZkhmTkw4TGFWZnVLMWJiYTRtSkVVeFZfdl83N2ZodzdacEdhVFBmOTVwazNtcU1uRjFRc2hGaWE4V0JmTDgydy1GbGVIMUJ2clZ3dGZLVGhFRnNPbFk2ZXctV29qSDV3Z3ExWnZBU3R3ZGVVN1ZUaEpPNUxHNXZTeDhlWlZGMWx1MnQyOW1GLW1BLS1ndDJ6TWpm?oc=5",
+    "aid": "ed8ab6d053",
+    "titel": "TSG Hoffenheim II: TSG stellt ältesten und jüngsten Torschützen der Saison - beide fehlen in Essen",
+    "quelle": "RevierSport online",
+    "beschr": " TSG Hoffenheim II: TSG stellt ältesten und jüngsten Torschützen der Saison - beide fehlen in Essen &nbsp;&nbsp; RevierSport online ",
+    "zeit": "2026-11-26T08:27"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-26T19:01",
+  "archiv": [
+   {
+    "id": "af269a4411",
+    "titel": "Hoffenheim II empfängt Münster: Duell der Plätze neun und 14",
+    "datum": "19.11.",
+    "stufe": "sonstiges",
+    "summary": "Hoffenheim II trifft am 21. November um 14:00 Uhr im Dietmar-Hopp-Stadion auf Preußen Münster. Die Gastgeber liegen mit 19 Punkten auf Rang neun, Münster mit 15 Zählern auf Platz 14."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "925c327993",
+  "schluessel": "wiesbaden|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Wiesbaden",
+  "klubs": [
+   "Wiesbaden"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Elfmeter-Dilemma: SV Wehen Wiesbaden sucht einen sicheren Schützen",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWTN5aHU5VEZzUVNSRVp2anBzRmFUbHQtRDI4N1psczYxRzdQQmRlT3VGc3dqc3lxaGVhYXFKWnNyMHpZMS1Ub09mWXc3al9FUnR5RjBERmg0RUdfRWlVQkxhSHNwU25qWFQ1cWNWTGJ1RnoxajhBNWtMOGdBMnhzVjMwSE1aSV9CMHYyb19TSU5yWnFwdTdqd2FoQjAwdGY0TjBOdVI5ZHEwZ0phTnBIYXh0SXBPa2pIVklncXFPVjE?oc=5",
+    "aid": "f20ff0b191",
+    "titel": "Elfmeter-Dilemma: SV Wehen Wiesbaden sucht einen sicheren Schützen",
+    "quelle": "Wiesbadener Kurier",
+    "beschr": " Elfmeter-Dilemma: SV Wehen Wiesbaden sucht einen sicheren Schützen &nbsp;&nbsp; Wiesbadener Kurier ",
+    "zeit": "2026-11-25T21:49"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-26T19:01",
+  "archiv": [],
+  "versuche": 1
  }
 ]

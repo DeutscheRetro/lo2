@@ -1,5 +1,103 @@
 [
   {
+    "id": "95a6db990a",
+    "titel": "Düsseldorf: Heizung fällt aus, Frost erschwert das Training",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "26.11.2026 19:04",
+    "wappen_url": "logos/duesseldorf.png",
+    "vereine": [
+      "Düsseldorf",
+      "Würzburg"
+    ],
+    "anriss": "Fortuna Düsseldorf hat vor dem Auswärtsspiel beim FC Würzburg ein Problem mit der Kälte. Auf dem Trainingsgelände im Schatten der Arena fiel die Heizung in der Kabine einen Tag lang aus. Die Warmwasserversorgung funktionierte nach BILD-Angaben weiter. Trainer Jens Langeneke sagte grinsend: „Also ich habe",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Düsseldorf",
+    "pfad": "artikel/duesseldorf-heizung-faellt-aus-frost-erschwert-das-training-95a6db990a.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "e50656d602",
+    "titel": "Düsseldorf: Anhari fällt vor Würzburg-Spiel erneut aus",
+    "kategorie": "verletzung",
+    "badge": "Verletzung",
+    "badge_bg": "#e53935",
+    "badge_fg": "#fff",
+    "datum": "26.11.2026 19:03",
+    "wappen_url": "logos/duesseldorf.png",
+    "vereine": [
+      "Düsseldorf",
+      "Würzburg"
+    ],
+    "anriss": "Fortuna Düsseldorf muss im Drittliga-Spiel bei den Würzburger Kickers am Samstag auf Offensivspieler Hamza Anhari verzichten. Der 22-Jährige hat sich am Mittwoch im Training eine muskuläre Verletzung zugezogen, wie Cheftrainer Jens Langeneke auf der Pressekonferenz mitteilte. Für Anhari ist es nach zahlreichen Verletzungen in der",
+    "spielerstatus": [
+      {
+        "spieler": "Anhari",
+        "klub": "Düsseldorf",
+        "status": "faellt_aus",
+        "grund": "Muskuläre Verletzung im Training"
+      },
+      {
+        "spieler": "Slimani",
+        "klub": "Düsseldorf",
+        "status": "spielt",
+        "grund": "Zurück im Mannschaftstraining"
+      },
+      {
+        "spieler": "Wekesser",
+        "klub": "Düsseldorf",
+        "status": "spielt",
+        "grund": "Zurück im Mannschaftstraining"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Düsseldorf",
+    "pfad": "artikel/duesseldorf-anhari-faellt-vor-wuerzburg-spiel-erneut-aus-e50656d602.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "reaktion",
+      "frage": "",
+      "antworten": [
+        "💚 Gute Besserung"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "3fd400b25a",
+    "titel": "Großaspach holt Benedikt Röcker als Leiter Sport zurück",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "26.11.2026 19:03",
+    "wappen_url": "logos/grossaspach.png",
+    "vereine": [
+      "Duisburg",
+      "Großaspach"
+    ],
+    "anriss": "Die SG Sonnenhof Großaspach hat die Nachfolge von Julian Schieber geregelt. Benedikt Röcker übernimmt mit sofortiger Wirkung als Leiter Sport und Organisation. Der Rückkehrer trifft auf einen Drittligisten, der vor dem Heimspiel gegen den MSV Duisburg auf einem Abstiegsplatz steht. Die Zusammenarbeit mit Schieber war",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Großaspach",
+    "pfad": "artikel/grossaspach-holt-benedikt-roecker-als-leiter-sport-zurueck-3fd400b25a.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "deal",
+      "frage": "Ist Röckers Rückkehr ein guter Deal für Großaspach?",
+      "antworten": [
+        "👍 Guter Deal",
+        "👎 Fehler"
+      ]
+    },
+    "n11": false
+  },
+  {
     "id": "6c8403c1aa",
     "titel": "Stuttgart II reist mit Rückenwind zum SV Waldhof Mannheim",
     "kategorie": "analyse",
