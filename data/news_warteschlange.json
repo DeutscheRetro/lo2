@@ -26,7 +26,7 @@
   "status": "n",
   "erstmals": "2026-11-26T12:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "480af7d1df",
@@ -55,7 +55,7 @@
   "status": "n",
   "erstmals": "2026-11-26T12:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "bc6630b629",
@@ -84,7 +84,7 @@
   "status": "n",
   "erstmals": "2026-11-26T12:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "b2ff67a06b",
@@ -113,7 +113,7 @@
   "status": "n",
   "erstmals": "2026-11-26T12:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "5da88d14f3",
@@ -143,7 +143,7 @@
   "status": "n",
   "erstmals": "2026-11-26T12:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "b0ed11c3cb",
@@ -182,7 +182,7 @@
     "summary": "Eintracht Braunschweig hat die frühere Nationalspielerin Tabea Kemme in den Aufsichtsrat der Profifußballgesellschaft gewählt. Präsidentin Nicole Kumpis wurde im Amt bestätigt."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "a22ff03196",
@@ -212,7 +212,7 @@
   "status": "n",
   "erstmals": "2026-11-26T12:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "6ab9aa63d3",
@@ -241,6 +241,275 @@
   "status": "n",
   "erstmals": "2026-11-26T12:01",
   "archiv": [],
+  "versuche": 2
+ },
+ {
+  "id": "a1adcdd584",
+  "schluessel": "dresden|verletzung",
+  "person": "",
+  "spieler": [],
+  "klub": "Dresden",
+  "klubs": [
+   "Dresden",
+   "Cottbus",
+   "St. Pauli"
+  ],
+  "stufe": "rueckkehr",
+  "klasse": "verletzung",
+  "titel": "Dynamo Dresden 2. Liga: Keller nach Comeback gegen Energie Cottbus bereit für St. Pauli",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZjh5Z3NHRWUxcm5NSFRmYUtPSzgtcnJvMF9XLVpuZEtYTkpJeU0xX19mb05BZTFBbmVwaUpOUm5uV0dyVjZ3bmZYNlJkMktZajdFMllPQjJlZUp2c1JhMkJORXR0RWdwMmhzNWxFODVzenNEbVJrVFFBWTlPd1dVbF84d1JkT21TU0VJLWRYUGpNNVRkNnRmMUwwcDhEYVJmY3Yxc0hMN0NiV3J5YjRZMDdUSHVudFZuZzVPQlVOd3FJdkY4X3BwTUlkcmdrZzZ3S1A3ODBmcENFRE1HaDBRRktWYjY?oc=5",
+    "aid": "9ca99a0ad9",
+    "titel": "Dynamo Dresden 2. Liga: Keller nach Comeback gegen Energie Cottbus bereit für St. Pauli",
+    "quelle": "Lausitzer Rundschau",
+    "beschr": " Dynamo Dresden 2. Liga: Keller nach Comeback gegen Energie Cottbus bereit für St. Pauli &nbsp;&nbsp; Lausitzer Rundschau ",
+    "zeit": "2026-11-26T14:30"
+   }
+  ],
+  "archiv_status": "update",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-26T15:01",
+  "archiv": [
+   {
+    "id": "550ea7b251",
+    "titel": "St. Pauli: Vier Profis vor Dresden eine Gelbe Karte von der Sperre",
+    "datum": "23.11.",
+    "stufe": "fraglich",
+    "summary": "Vier Profis des FC St. Pauli stehen bei vier Gelben Karten: Smith, Nemeth, Pyrka und Fujita. Sehen sie in Dresden Gelb, fehlen sie gegen Heidenheim."
+   },
+   {
+    "id": "f40e44c74a",
+    "titel": "Dresdens Raschl erklärt seine schnelle Rückkehr nach Muskelfaserriss",
+    "datum": "23.11.",
+    "stufe": "rueckkehr",
+    "summary": "Dresdens Tobias Raschl spielte sechs Tage nach seiner Verletzung in Kaiserslautern wieder. Er erklärt, wie er nach dem Muskelfaserriss mit Kraftraum und individuellem Training schnell fit wurde."
+   },
+   {
+    "id": "77fb292d2c",
+    "titel": "Dresdens Keller nach Gehirnerschütterung zurück im Mannschaftstraining",
+    "datum": "20.11.",
+    "stufe": "rueckkehr",
+    "summary": "Dresdens Abwehrchef Thomas Keller trainiert nach zehn Wochen Pause wegen Nachwirkungen einer Gehirnerschütterung wieder mit der Mannschaft. Für das Spiel in Kaiserslautern ist er noch kein Thema."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "8e6fb9545b",
+  "schluessel": "bielefeld|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Bielefeld",
+  "klubs": [
+   "Bielefeld"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Arminia Bielefeld: Marius Wörl sieht frühen Klassenerhalt",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTnpYb0U2aHB0NnN5bFltZURrYXFrVEpINXRaaWFkLUlJR21xQ0FudEpjREJiMURDektFUFZQNktRcU1ORlVTZWltN0hITFhJSG8xVE5RZXVFU3RDZV9ycXVuVm1GLW9DNHM2MTRGdlgxTVc3SzNVSUt5V2dfVDhOb3lOY09hQzNGOTItV01qNmhjTEZTcGRfRHpmZ0NESnliWkhlLUhOcUlIajllQ0JyMFFVcVRHcE5ELVhjTHNQOXc?oc=5",
+    "aid": "ac6d432d5d",
+    "titel": "Arminia Bielefeld: Marius Wörl sieht frühen Klassenerhalt",
+    "quelle": "Westfalen-Blatt",
+    "beschr": " Arminia Bielefeld: Marius Wörl sieht frühen Klassenerhalt &nbsp;&nbsp; Westfalen-Blatt ",
+    "zeit": "2026-11-26T13:15"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-26T15:01",
+  "archiv": [
+   {
+    "id": "b2de7a13cd",
+    "titel": "Magdeburg gastiert am Freitagabend bei Arminia Bielefeld",
+    "datum": "19.11.",
+    "stufe": "sonstiges",
+    "summary": "Der 1. FC Magdeburg spielt am Freitag, 20. November, um 18:30 Uhr bei Arminia Bielefeld. Magdeburg steht mit 20 Punkten auf Rang vier, Bielefeld mit 17 Punkten auf Platz sechs."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "4d9b5809b1",
+  "schluessel": "cottbus|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Cottbus",
+  "klubs": [
+   "Cottbus"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Energie Cottbus 2. Liga: FCE trifft auf Ex-Trainer Sander und ein Spitzenteam",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWkFGZXAwWVE4c2NYc0JFSTc4NWtXT0Y3aWxMRnp2SFNRY3AxODQ4bEdDTGM0dWJBT0gyc19EZUtTa2lERldmQkZJWkhxdVFiTlZjNnhnVzhFaWNqSFdoblVzM2doZ3Exbk1nNFl3alhGcHFBX0xpclRTSVVrc3BITlRUeE0xUU85d1FlbElpamZGeWFuSk84dzVYeFA5cTAxZEV3UDFGRks3UzE0cGZCU09XU0FsanJnYlpDRkZpWEN4YnVoOFNGZ2hR?oc=5",
+    "aid": "560279b38d",
+    "titel": "Energie Cottbus 2. Liga: FCE trifft auf Ex-Trainer Sander und ein Spitzenteam",
+    "quelle": "Lausitzer Rundschau",
+    "beschr": " Energie Cottbus 2. Liga: FCE trifft auf Ex-Trainer Sander und ein Spitzenteam &nbsp;&nbsp; Lausitzer Rundschau ",
+    "zeit": "2026-11-26T14:00"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-26T15:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "1d721a7974",
+  "schluessel": "bochum|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Bochum",
+  "klubs": [
+   "Bochum"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Die gesamte Lilien-Pk vor dem Bochum-Spiel",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVGpyeWFGeGdlRnFpVWFCcU5tbWxxazhJR1lvOFpSREM1MUp5ZUpYQVRpZ1hmR1hqSnJwOXVUMFhYNk5JN2c1U3BDWUpVeVFuMFVTUDd6bWNsRU9tYnZEZGItZ29uNE9IYUVqdWM4bG9NZEZNbGNyR2xVbnhrNmlEVTM1cTFjTWFHbko5MVhlUzJ5QUdNMllxeXVWNkh2YTVGTmFUWHgzdUJfSUx1dnpJZGt0UmxROVU?oc=5",
+    "aid": "5236c48fc1",
+    "titel": "Die gesamte Lilien-Pk vor dem Bochum-Spiel",
+    "quelle": "hessenschau.de",
+    "beschr": " Die gesamte Lilien-Pk vor dem Bochum-Spiel &nbsp;&nbsp; hessenschau.de ",
+    "zeit": "2026-11-26T14:52"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-26T15:01",
+  "archiv": [
+   {
+    "id": "1440adca65",
+    "titel": "Bochum vor Darmstadt: Hofmann trifft gerne gegen die Lilien",
+    "datum": "25.11.",
+    "stufe": "sonstiges",
+    "summary": "Vor dem Heimspiel gegen Darmstadt am 27. November rückt Bochums Stürmer Philipp Hofmann in den Fokus, der gegen die Lilien zehnmal traf. Bochum hat die Liga-Bestwerte in der Defensive nach der Pause, aber nur elf Saisontore."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "f992235194",
+  "schluessel": "bochum|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Bochum",
+  "klubs": [
+   "Bochum"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "VfL Bochum: Rösler über den Meyer-Ersatz, Strompf spielt das U21-Derby gegen den BVB",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQWdib3B3UHpCb2x6VFVLbkdBVGxJTm42bkFBVTZGNFFVRFVWYXNiZDJwSmoxTjI0d3VjNnltNy1KMDZhOFd0VkhvWTFwU2k3Y29MMFhOV2ZoZUd3R0NjbldicF9DUUN6WXNGeDlCcGo5SER6Ti1hUmJNZzRmMndvRjUyejFSV2JURDBqMmRiSDJaeUZpdlJaZUVEUzY0aXJxTUUxR3lqOGhCRDJzamRlWF9Nc1k4blZtZ0h3T2REdDcwTklVWVFXeG1nd3dRb3BV?oc=5",
+    "aid": "bfc5532ab5",
+    "titel": "VfL Bochum: Rösler über den Meyer-Ersatz, Strompf spielt das U21-Derby gegen den BVB",
+    "quelle": "RevierSport online",
+    "beschr": " VfL Bochum: Rösler über den Meyer-Ersatz, Strompf spielt das U21-Derby gegen den BVB &nbsp;&nbsp; RevierSport online ",
+    "zeit": "2026-11-26T13:38"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-26T15:01",
+  "archiv": [
+   {
+    "id": "1440adca65",
+    "titel": "Bochum vor Darmstadt: Hofmann trifft gerne gegen die Lilien",
+    "datum": "25.11.",
+    "stufe": "sonstiges",
+    "summary": "Vor dem Heimspiel gegen Darmstadt am 27. November rückt Bochums Stürmer Philipp Hofmann in den Fokus, der gegen die Lilien zehnmal traf. Bochum hat die Liga-Bestwerte in der Defensive nach der Pause, aber nur elf Saisontore."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "6a90673957",
+  "schluessel": "osnabruck|transfer",
+  "person": "",
+  "spieler": [],
+  "klub": "Osnabrück",
+  "klubs": [
+   "Osnabrück"
+  ],
+  "stufe": "geruecht",
+  "klasse": "transfer",
+  "titel": "Schalke-Gerüchte um Neun-Tore-Stürmer, was läuft mit Osnabrück und Porath?",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcDh1dGRPcjVmbjdzd0tsRy02YTlkOGlnWkVlbWlZeXBZMU9KcGF6NFZIUjV2TjNncUsxQ0RhZXFJb0pNRUM0MHdneUZuOHY5WWRFVC1hTHVNQzhwcU10RU9aUGdZbTlYYVE4RnhUdFZTb3hOZEZMOXJMeVY1dDFEMHZlT0pVeGJpZkJHZ2Y2OXgyV3RGMTF1OVlUTmt4SnFkbWpYdXVnaS1XRGpwcVJMdlp2enlzQkRYMWYyWWhEUFcwTGRUZW11SFpTZnpEQ0NPUGFn?oc=5",
+    "aid": "934d678768",
+    "titel": "Schalke-Gerüchte um Neun-Tore-Stürmer, was läuft mit Osnabrück und Porath?",
+    "quelle": "WAZ | Westdeutsche Allgemeine Zeitung",
+    "beschr": " Schalke-Gerüchte um Neun-Tore-Stürmer, was läuft mit Osnabrück und Porath? &nbsp;&nbsp; WAZ | Westdeutsche Allgemeine Zeitung ",
+    "zeit": "2026-11-26T12:08"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "u",
+  "erstmals": "2026-11-26T15:01",
+  "archiv": [
+   {
+    "id": "d175585d49",
+    "titel": "Osnabrück vor Verpflichtung von Schalkes Finn Porath",
+    "datum": "23.11.",
+    "stufe": "geruecht",
+    "summary": "Der VfL Osnabrück führt nach Sky-Informationen weit fortgeschrittene Gespräche mit Schalkes Finn Porath. Ein Wechsel im Winter gilt als realistisch, eine Einigung steht aber noch aus."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "efbdcc8bd3",
+  "schluessel": "wolfsburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Wolfsburg",
+  "klubs": [
+   "Wolfsburg",
+   "Braunschweig",
+   "Frankfurt"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Vorm Spiel des VfL Wolfsburg bei Eintracht Braunschweig: Das hier ist wirklich ein Derby!",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPd3ZSbjB3REd3QU1mOVdzUnRxNmNXczNfRFFGSG5SYjE5QURXT29wVGtmSG5uMzBRbTFTNFAxU1BIRFpQaEQtVGNsUlg1WWJYLXkwZXQxTV9Nc25mTld4X3dqUlJaa3BCa1BxNXgxSXVUcUZwalRvY3dfU1ZUS0FKNlpVQ0dVa1JubWV5WjJRTlFTaVBJcm5RdHoxZDBrTWhpenpZa0lPX0ptZG1WMjIyelN3c3R4Q3RqenRkRFZoLVV6R3BRYUVGWkFpR1g1RU9hOUZMMF9XYTd4Qm5nMmlhdHJ3S09uUjk1aE5WUVR0bmdNZ9IBjgJBVV95cUxNY0xOeUNsOXJXc0NuWXNhaGpwV2t2U0s1U0JyUV9OOUF0U3lVMW5vRGE5OEh2bGl0M0ktQjRRM3VNWXNZZXNBWEJSNXZnQTFSSkFXYnZDcHlab2VkaEhJZjJsSjlWR3ZOWUF6Umx6SlUxUFF0YlBXb1JFQkFXV3lIWHEtNVBqVmJ0UmtsNGtvZXJwNXJETnFOdWV4R0hyRU1sNTZ2SVdrWE00dVRBY2ZCc3J3Z0R4eExsQ2pxZmNaRzM0dFVRN3hPLXd5MVlpcFJoUGhxWTI2cU1CVGpCSDlyZk9xanRkYm5pVERuOWRyTXZoV2RTNFRaRWMzT3p0UFI5bVFFbDVrSUt6cEpfc2c?oc=5",
+    "aid": "6d87904ebc",
+    "titel": "Vorm Spiel des VfL Wolfsburg bei Eintracht Braunschweig: Das hier ist wirklich ein Derby!",
+    "quelle": "WAZ-ONLINE.de",
+    "beschr": " Vorm Spiel des VfL Wolfsburg bei Eintracht Braunschweig: Das hier ist wirklich ein Derby! &nbsp;&nbsp; WAZ-ONLINE.de ",
+    "zeit": "2026-11-26T13:28"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-26T15:01",
+  "archiv": [
+   {
+    "id": "9ceecee436",
+    "titel": "Wolfsburg meidet das A-Wort: „Es ist noch keine gute Saison“",
+    "datum": "22.11.",
+    "stufe": "sonstiges",
+    "summary": "Wolfsburg spricht trotz Rang 3 und nur zwei Punkten Rückstand auf Platz 2 nicht offiziell über den Aufstieg. Trainer Tobi Strobl und Fabian Reese mahnen zur Geduld."
+   }
+  ],
   "versuche": 1
  }
 ]

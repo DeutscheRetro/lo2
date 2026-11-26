@@ -4867,5 +4867,50 @@
     },
     "published_at": "2026-11-26T12:05:10.049068",
     "source": "Berliner Kurier"
+  },
+  {
+    "id": "4ae24b0782",
+    "generated_title": "Fürth erwägt vorzeitiges Leihende von Mika Wallentowitz",
+    "original_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5veC1PR1RJWE1uUmFPQnRlZmphbjZ2dzhscWwyQ0FQbi1hUEpEZUNmNFVBOHBBTks0UlFvYkpDTkZVcjFEaXRNNnpYTzRydGl2MEtTa0tnVnpYdnBZSndiUHg4Ry14R0taeGVtQ2sxOA?oc=5",
+    "fingerprint": {
+      "event_type": "transfer",
+      "main_club": "Fürth",
+      "event_stage": "geruecht",
+      "main_teams": [
+        "Fürth"
+      ],
+      "main_players": [
+        "Mika Wallentowitz"
+      ],
+      "summary": "Greuther Fürth erwägt, die Leihe des 18-jährigen Mika Wallentowitz vom FC Schalke 04 im Winter vorzeitig zu beenden. Der Spieler kam bislang nur zu drei Kurzeinsätzen.",
+      "one_sentence_summary": "Greuther Fürth erwägt, die Leihe des 18-jährigen Mika Wallentowitz vom FC Schalke 04 im Winter vorzeitig zu beenden.",
+      "schluessel": "mika wallentowitz|transfer"
+    },
+    "published_at": "2026-11-26T15:04:39.759152",
+    "source": "SuaraGarut.ID"
+  },
+  {
+    "id": "dc598ddc84",
+    "generated_title": "Heidenheim steckt nach 1:3 in Darmstadt in der Krise",
+    "original_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZzFWSnQ0TGZuVlRhNVZUQlpHNlNBUXVMWXV1YmhvaG5Sek1GZUJFOVhUUVJWZkl4WlVLcjNmYXIzanJpb0JVUG1MeEsyY01tSEhHSUlFZTlFU29lUW9jS2I4R2JIb1VDNFFkYUNmZmxvZ3c4c3ZZMFU2SkFSblg0UWJCWHlTbjd6VjFjeXotRlJOSUNLV0RsS2JudkZUTHFBY0E?oc=5",
+    "fingerprint": {
+      "event_type": "analyse",
+      "main_club": "Heidenheim",
+      "event_stage": "sonstiges",
+      "main_teams": [
+        "Darmstadt",
+        "Heidenheim"
+      ],
+      "main_players": [
+        "Frank Schmidt",
+        "Patrick Mainka",
+        "Jan Schöppner"
+      ],
+      "summary": "Heidenheim verlor 1:3 in Darmstadt und wartet seit dem 13. September auf einen Sieg. Trainer Frank Schmidt sieht Probleme in der Stabilität und auf der Sechserposition.",
+      "one_sentence_summary": "Heidenheim verlor 1:3 in Darmstadt und wartet seit dem 13.",
+      "schluessel": "frank schmidt|sonstiges"
+    },
+    "published_at": "2026-11-26T15:04:39.827389",
+    "source": "SWR"
   }
 ]
