@@ -5115,5 +5115,75 @@
     },
     "published_at": "2026-11-26T21:06:30.718996",
     "source": "Stuttgarter Nachrichten"
+  },
+  {
+    "id": "537e10ceaa",
+    "generated_title": "Cottbus vor Magdeburg: Abwehr dezimiert, drei Profis fraglich",
+    "original_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdnNXckVnWWcxT1RhLVVGLVZNSmFuY0dsb1VoeXlocHJHRjl0SGYxYWpzQzlpVUpOY0pJbGdBYnNha2lFLXJsM1EyTUIzYUdnVXZoNFJDTE5WUGVhT1k0Wk55bVl4ME5vVzVEMkVfU3pYQWZ6QWp4UUNHLXRrWVB4cU5DRUlWaXF5d2hfbjhyNU9IUW9jckxOMkUyN1JaaUtMYXYyM0pRSW9uWEJyUEJmMlBaTk4zSTY5TUs5YURXYVpvV1ZCQ3pPUUFZOVFrRGxlNm8w?oc=5",
+    "fingerprint": {
+      "event_type": "aufstellung",
+      "main_club": "Cottbus",
+      "event_stage": "fraglich",
+      "main_teams": [
+        "Cottbus",
+        "Magdeburg"
+      ],
+      "main_players": [
+        "Pele Wollitz",
+        "Leon Guwara",
+        "Luca Erlein"
+      ],
+      "summary": "Cottbus fehlen vor dem Ostderby in Magdeburg zwei Abwehrspieler gesperrt, Guwara, Erlein und Copado sind fraglich. Trainer Wollitz lässt Formation und Ausrichtung offen.",
+      "one_sentence_summary": "Cottbus fehlen vor dem Ostderby in Magdeburg zwei Abwehrspieler gesperrt, Guwara, Erlein und Copado sind fraglich.",
+      "schluessel": "pele wollitz|verletzung"
+    },
+    "published_at": "2026-11-27T15:04:44.937653",
+    "source": "TAG24"
+  },
+  {
+    "id": "2a90e6449b",
+    "generated_title": "Braunschweig vor Wolfsburg: Kornetka tüftelt, sieben Spieler fehlen",
+    "original_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVTk3MWxDMUlhaEFKM1h3WVZxM2Noa0dBV2Y2Ykk3Wno5Ti1BTUwyRmJrYUVNVWNxaGh4N2l3ZF9YYzc4Yk94UGtMcGhOQnFFRFFkeEI1d2l0LXhvMDdIaWREUFZTRzliM212UnduZWRKdXNBWm8zNzh4TWxERFRSa1lUWnI3aklZTFV3bDJmay1VQUNQMnV2NWJTUXZ1UHF1elNleXpibmJqdTFyWDEwb0V3?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Braunschweig",
+      "event_stage": "sonstiges",
+      "main_teams": [
+        "Braunschweig",
+        "Nürnberg",
+        "Wolfsburg"
+      ],
+      "main_players": [
+        "Lars Kornetka",
+        "Ron-Thorben Hoffmann",
+        "Kevin Ehlers"
+      ],
+      "summary": "Braunschweig empfängt am Sonntag Wolfsburg zum Niedersachsenderby und muss auf sieben Verletzte verzichten. Trainer Lars Kornetka setzt wieder auf psychologische Tricks, vor dem Spiel wurden 22 Wolfsburger Busse besprüht.",
+      "one_sentence_summary": "Braunschweig empfängt am Sonntag Wolfsburg zum Niedersachsenderby und muss auf sieben Verletzte verzichten.",
+      "schluessel": "lars kornetka|sonstiges"
+    },
+    "published_at": "2026-11-27T15:04:44.980038",
+    "source": "NDR.de"
+  },
+  {
+    "id": "d4f6d9c873",
+    "generated_title": "Ayhan will Galatasaray verlassen: Wolfsburg gilt als Interessent",
+    "original_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05M0FqbTA4a05TM3FicGxIOHRDR2c0YWluWFR1Q0RveGpIYmI2cndQamFQdTVNMXZLZ0kzbkxOMzFZUzF2TGtjZ01tcXJzS0cwaFppS2pOYzBDQkZqb2tVMzNMMFFKblVzbkNaZHdNVnZGcV95SUxYMXJrakdabXM?oc=5",
+    "fingerprint": {
+      "event_type": "transfer",
+      "main_club": "Wolfsburg",
+      "event_stage": "geruecht",
+      "main_teams": [
+        "Wolfsburg"
+      ],
+      "main_players": [
+        "Kaan Ayhan"
+      ],
+      "summary": "Kaan Ayhan will Galatasaray wegen fehlender Einsatzzeit im Januar verlassen. Der VfL Wolfsburg gilt als heißester Interessent für den Innenverteidiger.",
+      "one_sentence_summary": "Kaan Ayhan will Galatasaray wegen fehlender Einsatzzeit im Januar verlassen.",
+      "schluessel": "kaan ayhan|transfer"
+    },
+    "published_at": "2026-11-27T15:04:45.021779",
+    "source": "LIGABlatt"
   }
 ]

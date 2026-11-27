@@ -1,155 +1,5 @@
 [
  {
-  "id": "9db09ae2bd",
-  "schluessel": "darmstadt|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Darmstadt",
-  "klubs": [
-   "Darmstadt"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Zweiter Anlauf in Darmstadt: Marco Richter zwischen Neustart & großen Träumen",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUEdJdU9DRFBpWk9Ianp0UW9JNFZTbFZ2ejREMTVqN1VyaWlNWEM1MTFtejhSbWVWQlVBeUJ0VWxWMkFOcllfU3BoelA5ZHY1NDZpYk51ekVBUl9IZW5TWDQ1NWk4S3U1YXdtbjhTR2lVTThST2duczVNYUdiQkRZeEphOG05NDFmZzVFaFV2MW01bEc4OHBoQ0R3WmtGY0lNbFR6SFNydkctWktoWWcxU09KVVpuX2tMdjFqR3l0akdUel9Obkk0dA?oc=5",
-    "aid": "73d9269423",
-    "titel": "Zweiter Anlauf in Darmstadt: Marco Richter zwischen Neustart & großen Träumen",
-    "quelle": "Sky.de",
-    "beschr": " Zweiter Anlauf in Darmstadt: Marco Richter zwischen Neustart & großen Träumen &nbsp;&nbsp; Sky.de ",
-    "zeit": "2026-11-27T08:58"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-27T09:01",
-  "archiv": [
-   {
-    "id": "1440adca65",
-    "titel": "Bochum vor Darmstadt: Hofmann trifft gerne gegen die Lilien",
-    "datum": "25.11.",
-    "stufe": "sonstiges",
-    "summary": "Vor dem Heimspiel gegen Darmstadt am 27. November rückt Bochums Stürmer Philipp Hofmann in den Fokus, der gegen die Lilien zehnmal traf. Bochum hat die Liga-Bestwerte in der Defensive nach der Pause, aber nur elf Saisontore."
-   },
-   {
-    "id": "c23a312d35",
-    "titel": "Darmstadt: Fernie warnt vor dem Schlafwandeln im Abstiegskampf",
-    "datum": "20.11.",
-    "stufe": "sonstiges",
-    "summary": "Darmstadts Sportchef Paul Fernie stellt sich vor dem Heimspiel gegen Heidenheim hinter Trainer Florian Kohfeldt. Er warnt vor Schlafwandeln im Abstiegskampf, der Klub steht auf Rang 17."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "67ac8341f3",
-  "schluessel": "osnabruck|kader",
-  "person": "",
-  "spieler": [],
-  "klub": "Osnabrück",
-  "klubs": [
-   "Osnabrück",
-   "Hannover"
-  ],
-  "stufe": "kader",
-  "klasse": "kader",
-  "titel": "VfL Osnabrück vs. Hannover 96: voraussichtliche Aufstellungen",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd2lXMW40NllRbUpqZWdFZHNEMjNaQ2JMVkxOWGlLM01WbGdycF9GNmtWUjkxUm11NHNlaGVQNmxYbGI3aEhNMUFvQS1mUnliZTd0R2w3czJ6NU1RXzR6MTdnWGpjLXB3cXRpRThtRURGUENTdURPRGwxTXo4U0daZ2tib0l6UUpWUDdUSGN1dmRDQzl1WURmWTdvVkRWd1planBvU29lRXVBXzBTRy1j?oc=5",
-    "aid": "ff0162bfb8",
-    "titel": "VfL Osnabrück vs. Hannover 96: voraussichtliche Aufstellungen",
-    "quelle": "Tipico",
-    "beschr": " VfL Osnabrück vs. Hannover 96: voraussichtliche Aufstellungen &nbsp;&nbsp; Tipico ",
-    "zeit": "2026-11-27T08:21"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-27T09:01",
-  "archiv": [
-   {
-    "id": "8722fa6e26",
-    "titel": "Hannover 96 reist mit Rückenwind nach Osnabrück, Källmann fehlt",
-    "datum": "26.11.",
-    "stufe": "kader",
-    "summary": "Hannover 96 spielt am Samstag um 20:30 Uhr in Osnabrück und muss auf den verletzten Källmann verzichten. Zuletzt gewann 96 durch ein spätes Tor von Taibi und liegt auf Rang neun."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "c266f8d3fa",
-  "schluessel": "wolfsburg|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Wolfsburg",
-  "klubs": [
-   "Wolfsburg",
-   "Braunschweig",
-   "Frankfurt"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Das rät Derby-Held Vieirinha dem VfL Wolfsburg für den Kracher bei Eintracht Braunschweig",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPV2xpR3ZZVG5LTEFQM3V3eW92SmhwRDFyWnpkMFVTOWxhbDBGblVQMEhzNkEteVR3V09rejRZRWExaW55dnljdGZUYVl2VWpJeV96RmFrc0ZrNm9Uc2VEZS1jbC1RZW8zQ0cwdFhMU1Z6eGVDWHZxdW9jdTFvOTMwcnJDeTFmcVp4OG1fUkthaERFXzV5TzlSYXQybVJRRUM0Uy0zVDdsRTE5VVN5QVJvdVJ1Y3lCTEJFcHhfZG8zTFd1UmxGNG5NNllfdDVmdEx0VVpPYzgyT2wyMlhta2sxb2xtLWotOC1PdzRnNzEzZkxiOWVmcGR30gGTAkFVX3lxTE1IQUE0YmgyelZpYmZTVjV3WmJoZWpfdG5MaEQ0a1daWC1pZUZMdWJVUFZjVU1BY05jc2RtTlF0ZVVjSzZ6UGRHY0FEUnNGMkJIdUNSNVpvdDRVTTAxRU5Rc3R4UFJSYmhVQ2pmMWtDVnBmWWM1bTNUY2ZGaFVuRjdaTEFmdDNHTzdrRXE5RWRaOVRzaGVESDU2Z1l6eGxhcEpnNkgzekQ2NmQzOE1ad1htN1liNHhxeFNfdjQwU0szenlrbzY3T2lNejBKMloxWlhTNjRpNVpUempzZ0U3dHV1aGRxOWNTLXdKM0h6Q0Q3LXlqbXoxRDl4MndsbzVwZ01iTGFzTm1IUzFaVjNVcU1aeEZV?oc=5",
-    "aid": "f302372f01",
-    "titel": "Das rät Derby-Held Vieirinha dem VfL Wolfsburg für den Kracher bei Eintracht Braunschweig",
-    "quelle": "WAZ-ONLINE.de",
-    "beschr": " Das rät Derby-Held Vieirinha dem VfL Wolfsburg für den Kracher bei Eintracht Braunschweig &nbsp;&nbsp; WAZ-ONLINE.de ",
-    "zeit": "2026-11-27T06:07"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-27T09:01",
-  "archiv": [
-   {
-    "id": "50d28cfdd6",
-    "titel": "Wolfsburgs Kumbedi debütiert für Frankreich und beerbt Trezeguet",
-    "datum": "13.11.",
-    "stufe": "sonstiges",
-    "summary": "Wolfsburgs Saël Kumbedi hat beim 1:3 in Italien sein Debüt für Frankreichs A-Nationalmannschaft gegeben. Er ist der erste aktive Zweitliga-Spieler seit fast 20 Jahren im Kader der Equipe Tricolore."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "269a927c93",
-  "schluessel": "hannover|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hannover",
-  "klubs": [
-   "Hannover"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Nur die Ruhe? Hannover 96 befindet sich im Aufwind – und doch noch mitten im Chaos",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLXVXS0lBLXJISm9LVGExM0dKckF1UkxDMXlOUWR0bkFkSXlOc21GbllzbzJ0dm1GTFo3QmVxUWJTMGRveVB6SS1hZUt2VkczOEViQVVKOEwtVVhST3FsM250a1VGbHdsdE5GYzg0bUx5dGtZUDhuel81bDVNMTdCMGJYcTJBcTN4ZFN1eG5hdnJUcVFGVGUxQTRuMEozeDcxT25QLXVUQW5tbkV1NUh2d1FlQTZnUQ?oc=5",
-    "aid": "056355aea7",
-    "titel": "Nur die Ruhe? Hannover 96 befindet sich im Aufwind – und doch noch mitten im Chaos",
-    "quelle": "noz.de",
-    "beschr": " Nur die Ruhe? Hannover 96 befindet sich im Aufwind – und doch noch mitten im Chaos &nbsp;&nbsp; noz.de ",
-    "zeit": "2026-11-27T06:00"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-27T09:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
   "id": "4602efbf98",
   "schluessel": "nurnberg|sonstiges",
   "person": "",
@@ -198,7 +48,7 @@
     "summary": "Dieter Frey hat bei der Jahreshauptversammlung des 1. FC Nürnberg seinen ersten Auftritt als Sportvorstand absolviert und die Mannschaft zum Weitermachen aufgefordert. Beim Stadionprojekt setzt der Club auf ein Genossenschaftsmodell, der Zeitplan ist kaum zu halten."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "b14f7c02eb",
@@ -243,36 +93,7 @@
     "summary": "Kiels Adrián Kaprálik hat sich bei der slowakischen Nationalmannschaft einen Mittelfußbruch zugezogen und fällt voraussichtlich bis zum Jahresende aus. Vor dem Pflichtspieldebüt von Trainer Mitch Kniat in Wolfsburg sind auch Alidou und Schonlau fraglich."
    }
   ],
-  "versuche": 1
- },
- {
-  "id": "050516c58a",
-  "schluessel": "heidenheim|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Heidenheim",
-  "klubs": [
-   "Heidenheim"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Miro Klose vor dem Auswärtsspiel in Heidenheim",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDc5RVhaUjk2dzdYci0xVko2QnFlOFUxTVhSQmNsMlhnU0oxTHRnMEdfVjJDYzd6OUlkN1FpUl9aSUtET1EtSUJYMmR5U3Q0bVRwcTYtYU1lYmZrYjQyNldFXzZ5S3Atc3djZXJQQkdOYjZHcG9jclhTMEpPU1Q4R1pRVXNZNmE0alRHV2drYTI4R2JOcXc2N0FHOGh0amx4aHc?oc=5",
-    "aid": "996c71c012",
-    "titel": "Miro Klose vor dem Auswärtsspiel in Heidenheim",
-    "quelle": "Sky.de",
-    "beschr": " Miro Klose vor dem Auswärtsspiel in Heidenheim &nbsp;&nbsp; Sky.de ",
-    "zeit": "2026-11-27T10:00"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-27T12:01",
-  "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "1a4bf6b145",
@@ -301,7 +122,7 @@
   "status": "n",
   "erstmals": "2026-11-27T12:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "6e86707ea1",
@@ -330,7 +151,7 @@
   "status": "n",
   "erstmals": "2026-11-27T12:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "06b2551d11",
@@ -381,7 +202,7 @@
     "summary": "Nürnberg bereitet sich in der Länderspielpause auf defensive Gegner in den restlichen Heimspielen vor. Der Club will die Dominanz gegen tief stehende Teams besser in Tore ummünzen."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "0b99d94139",
@@ -418,7 +239,7 @@
     "summary": "Nürnbergs Ersatzkeeper Christian Mathenia hat die B-Lizenz des BFV erworben. Er strebt die Torwarttrainer-Scheine an und will im Nachwuchsleistungszentrum des Clubs arbeiten."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "256ecab755",
@@ -462,7 +283,7 @@
     "summary": "Hannovers Sechser Franz Roggow spielte zuletzt gegen Dresden und in Heidenheim eine wichtige Rolle und lobt Sandro Wagners Ansatz. Nach der Länderspielpause kommt Fürth am 21. November nach Hannover."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "818a9632bd",
@@ -491,7 +312,7 @@
   "status": "n",
   "erstmals": "2026-11-27T12:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "bf6563d9d7",
@@ -535,6 +356,303 @@
     "summary": "Darmstadt empfängt am Freitag um 18:30 Uhr Heidenheim zum 12. Spieltag der 2. Bundesliga. Der SV 98 steht mit neun Punkten auf Rang 17, der FCH ist seit sechs Spielen sieglos und Siebter."
    }
   ],
+  "versuche": 2
+ },
+ {
+  "id": "7ff0cc9c89",
+  "schluessel": "magdeburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Magdeburg",
+  "klubs": [
+   "Magdeburg",
+   "Wolfsburg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Nächstes Heimspiel gegen Magdeburg: Wovor der VfL Wolfsburg die Fans schon jetzt warnt",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUEpOcWxBM1k2bXdDRm90VDQ0RzY2YlZCak4wQUVzOXNjVS1tbEtfOFoxaWMzdk42cHdzNlo0NXNMMy00NHB5cXJCRERER2JLdlhmc2tOMlpkR3BsU0JpYXZjNHFmdnd4WmdOZ0hBTmNUUUNMMGZEbEdKN3FYaU9BYlg3ZDl4T2tDVEZNYXUxcmVZNGhmLWdGU3BZUEJmX21OYzliMTBhSFBRUnJMVjk3TTVpVXpMUFhYQ2czazFSRW1jaGxtcm9mSmRzaEs3b2Y2djFPWHlvalRwSVZUWlQyaVgxRXhENWh3aVFubHRMWW3SAYwCQVVfeXFMTzZZTVl1X2duR2t1S3VFRWY5dFBJeU9MNndZcm5OLU5mX010S2I5VE9LdldIbktjSkZ6S2lVRGszN2d5eC1hSGJDSlM5UWJwZkEtU3c3bElFdGtNLUJkYlNnRHRnUWJRNmo2UHlGWE5RNExucjRmZlU3LUtlSGwzamJZdnJaejIySXhOdk51eXpKSzFqQXhoYnI3SGVrdkl3Y0lEOG9KMmI0NVY0NXlBdEdjSGl1ZWxSUjdkeUhBMExWajh5WEF5WGNGZWphNUc0Y1Rwd01ONUdCSEpydHpTQnhvV2ppTEdLZVVDeGh2QVpsMjVzbUJvcFNmb3A3M1M4cmNxMTNwRFJWX0F6Mg?oc=5",
+    "aid": "c977ac0faa",
+    "titel": "Nächstes Heimspiel gegen Magdeburg: Wovor der VfL Wolfsburg die Fans schon jetzt warnt",
+    "quelle": "WAZ-ONLINE.de",
+    "beschr": " Nächstes Heimspiel gegen Magdeburg: Wovor der VfL Wolfsburg die Fans schon jetzt warnt &nbsp;&nbsp; WAZ-ONLINE.de ",
+    "zeit": "2026-11-27T13:52"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-27T15:01",
+  "archiv": [
+   {
+    "id": "be8b4b5295",
+    "titel": "Magdeburg: Vier Nationalspieler kehren vor Bielefeld-Spiel spät zurück",
+    "datum": "17.11.",
+    "stufe": "sonstiges",
+    "summary": "Magdeburg muss vor dem Spiel in Bielefeld am Freitag auf vier Nationalspieler verzichten, die erst spät zurückkehren. Trainer Sander kritisiert die Freitagsansetzung nach der Länderspielpause."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "bc9ff9304c",
+  "schluessel": "kiel|kader",
+  "person": "",
+  "spieler": [],
+  "klub": "Kiel",
+  "klubs": [
+   "Kiel",
+   "Kaiserslautern"
+  ],
+  "stufe": "kader",
+  "klasse": "kader",
+  "titel": "Holstein Kiel empfängt Kaiserslautern – Kniat trotz ausgedünntem Kader locker",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPX21pbWk1RDhvRnVyWVRISjMyS0xzd3Z2MS1ESk9vakR2TmpoVmRSdDVQcUVKM1NCUjRlREc1Z1hDSWRoRFp4WUZDckQ3TFA4YXVERGoxVDBrNG5mZnNxallVcVlMMUhDZFBLNGJ4aGpKd0YtVko2YXQ4Zm1ySVdndGZwa25SQzVQVWg5TzBWMm52QmhzdTJYdUozSUcwRWpxWXlyR2k5MDR4TDRfdjR5ZDBrNDJEbkd0X1d6TzBqQjBqcy1GMlNWcEtWS3VrNFd0RWdkRFU0WjR4bEN1ek0ydmxxb9IB_wFBVV95cUxQZWIydXhmczBSR3NNbmNYYjgyZ2JZVUxvRnBXcUJNQUxMU1dMRHRPZjdTa1dTMmNQMEExbHFUVlhSNFlIekpSM1QyYnRUYlJKYmFITVZfTDVhd3c3cUZoNG5wc1FhbXRHS3VVMkMzTy1YVHNoVVBCdHVJbzUtcHQ3NkRpRFZqN3ZlVXg1QkVRSEVDT0NLU1docUhrUGF4X2UxSmVTMmVjRFphVE42a0NybkhpYUdZV3hCeHlnVVk5X1E2WFpVcXIyMENqWnNsQnoyN3Y0N2NPV3R4OXBLbDNlaDdfYWIwMDRSRDNkTFJEUGd3aFNUc3FYczJiRS1DNnM?oc=5",
+    "aid": "a840ff6d96",
+    "titel": "Holstein Kiel empfängt Kaiserslautern – Kniat trotz ausgedünntem Kader locker",
+    "quelle": "Kieler Nachrichten",
+    "beschr": " Holstein Kiel empfängt Kaiserslautern – Kniat trotz ausgedünntem Kader locker &nbsp;&nbsp; Kieler Nachrichten ",
+    "zeit": "2026-11-27T13:54"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-27T15:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "840a12f207",
+  "schluessel": "cottbus|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Cottbus",
+  "klubs": [
+   "Cottbus",
+   "Magdeburg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Energie Cottbus gegen 1. FC Magdeburg: Sorgen in der FCE-Abwehr wachsen weiter",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUW1hRENhVDYxek1RdEZ5Q1J0UktJZUhTbS1tX2JHYXJCT3VLQ0FJMnNjTlE5dmRNel8tbUhlZmZmQnlodjBjYzctdVpvY19NWkJPdnpNTnNMZjlkWUF2VEFJeHdCcnVYbGhNNm15ZjJXd0dZMGo0SkJMZVdNV0xfNDNhMVNqdHA1cHVNTHBPa2pnQ0ZVaHZHQ2Y0STdERV9DelcxT1FGc2pPWXFORU9SUTZqNjRkcEc1WmM2c1FDT1BOTmtlSDQ0MU9sVQ?oc=5",
+    "aid": "7f770a5f97",
+    "titel": "Energie Cottbus gegen 1. FC Magdeburg: Sorgen in der FCE-Abwehr wachsen weiter",
+    "quelle": "Lausitzer Rundschau",
+    "beschr": " Energie Cottbus gegen 1. FC Magdeburg: Sorgen in der FCE-Abwehr wachsen weiter &nbsp;&nbsp; Lausitzer Rundschau ",
+    "zeit": "2026-11-27T13:27"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-27T15:01",
+  "archiv": [
+   {
+    "id": "12ea66ed08",
+    "titel": "Chávez nach erstem FCM-Tor: „Am Ende haben wir gewonnen“",
+    "datum": "24.11.",
+    "stufe": "sonstiges",
+    "summary": "Der von Bayern ausgeliehene Felipe Chávez erzielte beim Sieg in Bielefeld sein erstes Tor für Magdeburg. Am Sonntag empfängt der FCM Cottbus."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "62e54c2198",
+  "schluessel": "bielefeld|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Bielefeld",
+  "klubs": [
+   "Bielefeld"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Wird Armina Bielefelds Torhüter Kersken rechtzeitig fit?",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVnBndkpaZC01NzNaLU9fRlZUTmV3cVhjOFZGcEtiS3ppaVZOR0E5Ml9ManNublU5VHJuaU9LSkMtWDBGMzBlbDVXWG0taVVSNmtnbV9NbDBMMGk4MG9nT1RNdGM3T21FVTNmU3R0QURkbFdFS25kYkZ0MUs3bzZhdnd3ZmhrQkdxSUpGNHZHX3Jxbno1a0pGMlB3a0tOYU81MERNYmtZbUYxZzRISXBIY2NNMlA0QVREbXFFemtqMzhMUlQ3VzM1Rw?oc=5",
+    "aid": "451bd80866",
+    "titel": "Wird Armina Bielefelds Torhüter Kersken rechtzeitig fit?",
+    "quelle": "Die Glocke",
+    "beschr": " Wird Armina Bielefelds Torhüter Kersken rechtzeitig fit? &nbsp;&nbsp; Die Glocke ",
+    "zeit": "2026-11-27T10:00"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "u",
+  "erstmals": "2026-11-27T15:01",
+  "archiv": [
+   {
+    "id": "b2de7a13cd",
+    "titel": "Magdeburg gastiert am Freitagabend bei Arminia Bielefeld",
+    "datum": "19.11.",
+    "stufe": "sonstiges",
+    "summary": "Der 1. FC Magdeburg spielt am Freitag, 20. November, um 18:30 Uhr bei Arminia Bielefeld. Magdeburg steht mit 20 Punkten auf Rang vier, Bielefeld mit 17 Punkten auf Platz sechs."
+   },
+   {
+    "id": "be8b4b5295",
+    "titel": "Magdeburg: Vier Nationalspieler kehren vor Bielefeld-Spiel spät zurück",
+    "datum": "17.11.",
+    "stufe": "sonstiges",
+    "summary": "Magdeburg muss vor dem Spiel in Bielefeld am Freitag auf vier Nationalspieler verzichten, die erst spät zurückkehren. Trainer Sander kritisiert die Freitagsansetzung nach der Länderspielpause."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "cce6873755",
+  "schluessel": "osnabruck|kader",
+  "person": "",
+  "spieler": [],
+  "klub": "Osnabrück",
+  "klubs": [
+   "Osnabrück",
+   "Hannover"
+  ],
+  "stufe": "kader",
+  "klasse": "kader",
+  "titel": "VfL Osnabrück gegen Hannover 96: Aufstellung, Tipp & Statistik",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeWtRdlBsYnlDcVpWUlVnZGVEbzdfUjIxbUhmTDBjYTVWWDhTNE83R2ZjbFYxeFhVajY4SXlkd1ZwSzFoczB6Y3BWQjBQam5SUzVZTDVweG44ckdodFN0WnZWMW5xUFFyU1pESHlqd2xQLTJOeWc1MkpUR1NhcFBiamVR?oc=5",
+    "aid": "7d6a1650e4",
+    "titel": "VfL Osnabrück gegen Hannover 96: Aufstellung, Tipp & Statistik",
+    "quelle": "Bundesliga Tipphilfe",
+    "beschr": " VfL Osnabrück gegen Hannover 96: Aufstellung, Tipp & Statistik &nbsp;&nbsp; Bundesliga Tipphilfe ",
+    "zeit": "2026-11-27T10:06"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-27T15:01",
+  "archiv": [
+   {
+    "id": "8722fa6e26",
+    "titel": "Hannover 96 reist mit Rückenwind nach Osnabrück, Källmann fehlt",
+    "datum": "26.11.",
+    "stufe": "kader",
+    "summary": "Hannover 96 spielt am Samstag um 20:30 Uhr in Osnabrück und muss auf den verletzten Källmann verzichten. Zuletzt gewann 96 durch ein spätes Tor von Taibi und liegt auf Rang neun."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "d598c985c2",
+  "schluessel": "hertha|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Leitl und Seguin: Aufstiegspaar bei Hertha wiedervereint",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdEhPLXUzZ0dwaFRKU25HQ1ZBZmhIMWNORndVejd1ZzUyRjZBS0gxb1lFY1FfaGZ2WmpNenlXcERWTmwzc1NiS1Z2OGtUU2NibmlQZUhnZlo5Y2xCVmc4Q29ibFNBZVY4dzc4OTVmSFI4Y1BOSllFeVlfanlheklqZUFJekM4NzBSQmpVTkZycG1OR2JqVUFkOF9LZ0NReUZWNWlobXFYYTR3RlFjUXYxSUFZemlIa1M3d29pZTQ3OGhwQmZNampsVw?oc=5",
+    "aid": "7889300f72",
+    "titel": "Leitl und Seguin: Aufstiegspaar bei Hertha wiedervereint",
+    "quelle": "BZ Berlin",
+    "beschr": " Leitl und Seguin: Aufstiegspaar bei Hertha wiedervereint &nbsp;&nbsp; BZ Berlin ",
+    "zeit": "2026-11-27T10:43"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-27T15:01",
+  "archiv": [
+   {
+    "id": "c086a6c95d",
+    "titel": "Hertha: Nilsson trifft nach langer Wartezeit erstmals",
+    "datum": "26.11.",
+    "stufe": "sonstiges",
+    "summary": "Herthas Stürmer Gustaf Nilsson erzielte in Cottbus beim 4:0 sein erstes Tor für die Berliner. Trainer Stefan Leitl muss im Heimspiel gegen Karlsruhe zwischen ihm und Sebastian Grönning entscheiden."
+   },
+   {
+    "id": "0cafd35445",
+    "titel": "Hertha: Leitl fehlen drei Siege zum Babbel-Rekord",
+    "datum": "26.11.",
+    "stufe": "sonstiges",
+    "summary": "Herthas Trainer Stefan Leitl hat seit Februar 2025 einen Punkteschnitt von 1,79 und liegt hinter Markus Babbel (1,84) auf Rang zwei. Mit drei Siegen gegen Karlsruhe, Hannover und Darmstadt würde er den Rekord übertreffen."
+   },
+   {
+    "id": "b71e14f8fb",
+    "titel": "Hertha will Serie gegen Karlsruhe ausbauen",
+    "datum": "25.11.",
+    "stufe": "sonstiges",
+    "summary": "Tabellenführer Hertha BSC empfängt nach vier Siegen in Folge den Karlsruher SC. Der KSC steht mit zwölf Punkten auf Rang 15 und hat 24 Gegentore kassiert."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "2f72607f3f",
+  "schluessel": "kiel|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Kiel",
+  "klubs": [
+   "Kiel"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Aggressive-Leader bei Holstein Kiel? Kniats Suche nach „fiesen Hunden“",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTkVJUE9MYndaSTVYcEh3VFltTFN6ZUJ5NFdEVURSWXdnMkhFRWNPVjBJM000cHd2Ym85dHg2MjFEMmd4RXpfVi00OVRJU1p6Q3htYXRQZ2Fxa21xYVNlZzJXXy04NGtoS09NQkM1dWlMa24yRHB6cWtYcFFtSXNBNldVUHlwMFFKa0RyUUNiY2U1bGdOdkxFbTBqX1FINXQ1cDZDbDk0bUc?oc=5",
+    "aid": "fce6e4c706",
+    "titel": "Aggressive-Leader bei Holstein Kiel? Kniats Suche nach „fiesen Hunden“",
+    "quelle": "shz.de",
+    "beschr": " Aggressive-Leader bei Holstein Kiel? Kniats Suche nach „fiesen Hunden“ &nbsp;&nbsp; shz.de ",
+    "zeit": "2026-11-27T13:50"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-27T15:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "70ed963e5a",
+  "schluessel": "furth|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Fürth",
+  "klubs": [
+   "Fürth"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Er spielt kaum in Fürth: Was das für Schalke-Leihgabe Wallentowitz bedeutet",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZGhPa1NNQjgzVnY2c3R1TnpPdmdFTmZLSXNLLXdMZVE0ckQ1ZUp1ZnB3WEpMUzl0YzRkdzNYUTROSjNNU3ZRakE0azIxRDhVWFlPbkFhckdvbU9jVjZsTlF6NGFycVByQzBqZXJsNDlfYUtWNnhVT0FxeDBtNkpPVE44cWpmT29IOEQyY2xNODFjYlp5LXNRN2NrdUNaVUhmVWJFV3dPbjdNRlRNVG13cll3ZTVXb2FqUVpGTmVpazZhV1lWSmx3aDB6ZkN4ODVGa1lv?oc=5",
+    "aid": "e364b8eb12",
+    "titel": "Er spielt kaum in Fürth: Was das für Schalke-Leihgabe Wallentowitz bedeutet",
+    "quelle": "WAZ | Westdeutsche Allgemeine Zeitung",
+    "beschr": " Er spielt kaum in Fürth: Was das für Schalke-Leihgabe Wallentowitz bedeutet &nbsp;&nbsp; WAZ | Westdeutsche Allgemeine Zeitung ",
+    "zeit": "2026-11-27T14:00"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "u",
+  "erstmals": "2026-11-27T15:01",
+  "archiv": [],
   "versuche": 1
  }
 ]

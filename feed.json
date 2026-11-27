@@ -1,5 +1,115 @@
 [
   {
+    "id": "d4f6d9c873",
+    "titel": "Ayhan will Galatasaray verlassen: Wolfsburg gilt als Interessent",
+    "kategorie": "transfer",
+    "badge": "Transfer",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "27.11.2026 15:04",
+    "wappen_url": "logos/wolfsburg.png",
+    "vereine": [
+      "Wolfsburg"
+    ],
+    "anriss": "Kaan Ayhan will Galatasaray im Januar verlassen. Der 32 Jahre alte Abwehrspieler soll die Vereinsführung um die Freigabe gebeten haben. Als heißester Interessent gilt der VfL Wolfsburg. Hintergrund ist die fehlende Spielzeit. Laut Fotomaç kommt Ayhan in der Süper Lig auf nur 91 Spielminuten. Am",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Wolfsburg",
+    "pfad": "artikel/ayhan-will-galatasaray-verlassen-wolfsburg-gilt-als-interessent-d4f6d9c873.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "deal",
+      "frage": "Wäre Ayhan ein guter Deal für Wolfsburg?",
+      "antworten": [
+        "👍 Guter Deal",
+        "👎 Fehler"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "537e10ceaa",
+    "titel": "Cottbus vor Magdeburg: Abwehr dezimiert, drei Profis fraglich",
+    "kategorie": "aufstellung",
+    "badge": "Aufstellung",
+    "badge_bg": "#2e7d32",
+    "badge_fg": "#fff",
+    "datum": "27.11.2026 15:03",
+    "wappen_url": "logos/cottbus.png",
+    "vereine": [
+      "Cottbus",
+      "Magdeburg"
+    ],
+    "anriss": "Energie Cottbus geht personell stark geschwächt ins Ostderby beim 1. FC Magdeburg am Sonntag (13.30 Uhr). Trainer Pele Wollitz fehlen in der Defensive zwei Spieler gesperrt, zwei weitere sind angeschlagen. Cottbus ist seit sieben Spielen sieglos. King Manu fehlt nach seiner fünften Gelben Karte, Fousseny",
+    "spielerstatus": [
+      {
+        "spieler": "Manu",
+        "klub": "Cottbus",
+        "status": "faellt_aus",
+        "grund": "Gelbsperre nach fünfter Gelber Karte"
+      },
+      {
+        "spieler": "Doumbia",
+        "klub": "Cottbus",
+        "status": "faellt_aus",
+        "grund": "Rotsperre"
+      },
+      {
+        "spieler": "Guwara",
+        "klub": "Cottbus",
+        "status": "fraglich",
+        "grund": "Training ausgesetzt, Chance 50:50"
+      },
+      {
+        "spieler": "Erlein",
+        "klub": "Cottbus",
+        "status": "fraglich",
+        "grund": "Training ausgesetzt, Chance 50:50"
+      },
+      {
+        "spieler": "Copado",
+        "klub": "Cottbus",
+        "status": "fraglich",
+        "grund": "Fehlte am Freitag im Training"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Cottbus",
+    "pfad": "artikel/cottbus-vor-magdeburg-abwehr-dezimiert-drei-profis-fraglich-537e10ceaa.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "reaktion",
+      "frage": "",
+      "antworten": [
+        "💚 Gute Besserung"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "2a90e6449b",
+    "titel": "Braunschweig vor Wolfsburg: Kornetka tüftelt, sieben Spieler fehlen",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "27.11.2026 15:03",
+    "wappen_url": "logos/braunschweig.png",
+    "vereine": [
+      "Braunschweig",
+      "Nürnberg",
+      "Wolfsburg"
+    ],
+    "anriss": "Eintracht Braunschweig empfängt am Sonntag (13.30 Uhr) den VfL Wolfsburg zum „kleinen“ Niedersachsenderby in der 2. Bundesliga. Trainer Lars Kornetka muss dabei auf sieben verletzte Spieler verzichten und hat mit Kevin Ehlers nur noch einen gelernten Innenverteidiger. Zur Motivation greift Kornetka gern zu ungewöhnlichen Mitteln.",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Braunschweig",
+    "pfad": "artikel/braunschweig-vor-wolfsburg-kornetka-tueftelt-sieben-spieler-fehlen-2a90e6449b.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
     "id": "e8250e72eb",
     "titel": "Cottbus nach 0:4 gegen Hertha erstmals auf direktem Abstiegsplatz",
     "kategorie": "analyse",
