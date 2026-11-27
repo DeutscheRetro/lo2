@@ -1,546 +1,5 @@
 [
  {
-  "id": "ec891bad97",
-  "schluessel": "kaiserslautern|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Kaiserslautern",
-  "klubs": [
-   "Kaiserslautern"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Ein Spieler, zwei Rollen: Wie Sauers Position das FCK-Spiel beeinflusst",
-  "quellen": [
-   {
-    "url": "https://www.kicker.de/ein-spieler-zwei-rollen-wie-sauers-position-das-fck-spiel-beeinflusst-1275334/artikel#omrss",
-    "aid": "b69fe77dca",
-    "titel": "Ein Spieler, zwei Rollen: Wie Sauers Position das FCK-Spiel beeinflusst",
-    "quelle": "kicker 2. Bundesliga News",
-    "beschr": "Vorn oder hinten? Mario Sauer bietet auf beiden Positionen im Mittelfeld einen Mehrwert für das Spiel des 1. FC Kaiserslautern. Es ist eine Frage der jeweiligen Ausrichtung.",
-    "zeit": "2026-11-26T16:06"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-26T18:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "2933d34f82",
-  "schluessel": "hannover|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hannover",
-  "klubs": [
-   "Hannover"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Wagners Zauberkünste gefragt: Sahiti droht Hannover länger zu fehlen",
-  "quellen": [
-   {
-    "url": "https://www.kicker.de/wagners-zauberkuenste-gefragt-sahiti-droht-hannover-laenger-zu-fehlen-1275349/artikel#omrss",
-    "aid": "6aef094a76",
-    "titel": "Wagners Zauberkünste gefragt: Sahiti droht Hannover länger zu fehlen",
-    "quelle": "kicker 2. Bundesliga News",
-    "beschr": "Hannover 96 gehen im Jahresendspurt die Spieler aus - besonders in der Offensive. Nun droht einer weiteren Alternative sogar ein längerfristiger Ausfall.",
-    "zeit": "2026-11-26T15:40"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-26T18:01",
-  "archiv": [
-   {
-    "id": "6a0e79b8ab",
-    "titel": "Hannover 96 stellt Gabor Ruhr als neuen Sportdirektor vor",
-    "datum": "25.11.",
-    "stufe": "sonstiges",
-    "summary": "Hannover 96 hat Gabor Ruhr als neuen Sportdirektor vorgestellt, den früheren Chefscout von Norwich City und des 1. FC Köln. Er folgt auf eine Reihe von Abgängen in der Sportführung, ein Sport-Geschäftsführer wird nicht mehr besetzt."
-   },
-   {
-    "id": "98f969f271",
-    "titel": "Hannover 96: Franz Roggow überzeugt als Sechser und lobt Wagners Ansatz",
-    "datum": "13.11.",
-    "stufe": "sonstiges",
-    "summary": "Hannovers Sechser Franz Roggow spielte zuletzt gegen Dresden und in Heidenheim eine wichtige Rolle und lobt Sandro Wagners Ansatz. Nach der Länderspielpause kommt Fürth am 21. November nach Hannover."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "0e3e6e2c4e",
-  "schluessel": "hertha|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hertha",
-  "klubs": [
-   "Hertha"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Hertha BSC: Trotz Tabellenführung gibt es zwei Schwachstellen",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVk1tcGhhSTdneU5mdDJPd3JRLWk5bk1OZDlHVC1QWEdKemNpLUtTY1AzZjNjR0ZzeW91WUhwckhjM3prOG91dFVTS3hHRFowWFpGX01weTBTSS13RzN5OFcwZHFPSUtGQy1DaVMxdC1Na1ZmZDU5Y1NnREFseXRTMVdreGFOSjJmdXM4WDhoU2c1NmRlR1Q5SWtRQ2U5a2JwVU1EUVgtdGpJb1d2Q3Y3NA?oc=5",
-    "aid": "c67a9296f8",
-    "titel": "Hertha BSC: Trotz Tabellenführung gibt es zwei Schwachstellen",
-    "quelle": "Tipico",
-    "beschr": " Hertha BSC: Trotz Tabellenführung gibt es zwei Schwachstellen &nbsp;&nbsp; Tipico ",
-    "zeit": "2026-11-26T16:56"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-26T18:01",
-  "archiv": [
-   {
-    "id": "c3f01185bf",
-    "titel": "Hertha BSC: Opta-Daten belegen die Tabellenführung der Berliner",
-    "datum": "19.11.",
-    "stufe": "sonstiges",
-    "summary": "Hertha BSC führt die 2. Bundesliga nach elf Spielen mit 31 Punkten an. Opta-Daten zeigen deutliche Steigerungen bei Intensität und Defensive gegenüber der Vorsaison."
-   },
-   {
-    "id": "7f04e49f33",
-    "titel": "Hertha: Drescher mahnt trotz Euphorie, Huschen meldet Gewinn",
-    "datum": "14.11.",
-    "stufe": "sonstiges",
-    "summary": "Hertha BSC meldet auf der Mitgliederversammlung erstmals seit 2018/19 ein positives Netto-Jahresergebnis von 1,2 Millionen Euro. Präsident Fabian Drescher mahnt trotz der Euphorie, es sei nur eine Momentaufnahme."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "5685ed5361",
-  "schluessel": "cottbus|kader",
-  "person": "",
-  "spieler": [],
-  "klub": "Cottbus",
-  "klubs": [
-   "Cottbus"
-  ],
-  "stufe": "kader",
-  "klasse": "kader",
-  "titel": "(k+) Die Personalie Cigerci entwickelt sich bei Cottbus immer mehr zur Grundsatzfrage",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWjAtWUU2STJJS0FxVGFKb3BlZUVJVndpSVhwZTRnZE9NU1pqTHBVS0hHTW1jTzFZbzZubEhUemVYUmRINlozRWVPaGlRWDJqcEhkdF9QXzA3UkhzbFpVa09WYzZ5QnNqeWdKYzBDREttQTZ4TU9TVm9VWVFvMFZUOWJQT0VQb2dpWVA2RWZza1FNaU95YnI4TUFDc2pKNlM5SzNQZjVVcndFazM1SFNoYTFpUFVGM1lvaUE?oc=5",
-    "aid": "2ee2a4da35",
-    "titel": "(k+) Die Personalie Cigerci entwickelt sich bei Cottbus immer mehr zur Grundsatzfrage",
-    "quelle": "Kicker",
-    "beschr": " (k+) Die Personalie Cigerci entwickelt sich bei Cottbus immer mehr zur Grundsatzfrage &nbsp;&nbsp; Kicker ",
-    "zeit": "2026-11-26T14:06"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "u",
-  "erstmals": "2026-11-26T18:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "5b84d00e78",
-  "schluessel": "cottbus|verletzung",
-  "person": "",
-  "spieler": [],
-  "klub": "Cottbus",
-  "klubs": [
-   "Cottbus"
-  ],
-  "stufe": "rueckkehr",
-  "klasse": "verletzung",
-  "titel": "Wiedersehen mit Energie Cottbus: Petrik Sanders Comeback - von Bautzen bis Bundesliga",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNblBsY2Y3NFVSWlMwQ1FSRUl3U2ZWX2VYenpoWmhrbWRjQnY0ZVRaVHZqMGxDMklQT0pHc0hydng5ck5FQnVMZ1gzVkNLMTJOQktvMVJfaDZOYXdqNG5XamlQS2JXZFpjMmw0RGVsOElZUWFPbFdLdVNFYklLNUxPYkt6akZ1OF8tNmlodEptVjNZeGwtMFJEdXJPNWpmYkVtRk1mc1lWTDdTVGlGZTRnRERsVFNUSm9Uc1ptaG9UMXE4SWlQcTdtaE5GS1U0SDEyNWFSSThzV01VMnF5amNGOXpKYThGYzJNS25UN1Jhaw?oc=5",
-    "aid": "7e58d712d7",
-    "titel": "Wiedersehen mit Energie Cottbus: Petrik Sanders Comeback - von Bautzen bis Bundesliga",
-    "quelle": "Lausitzer Rundschau",
-    "beschr": " Wiedersehen mit Energie Cottbus: Petrik Sanders Comeback - von Bautzen bis Bundesliga &nbsp;&nbsp; Lausitzer Rundschau ",
-    "zeit": "2026-11-26T16:40"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-26T18:01",
-  "archiv": [
-   {
-    "id": "e7f3f61fef",
-    "titel": "Magdeburg: Falko Michel vor Rückkehr gegen Cottbus",
-    "datum": "25.11.",
-    "stufe": "rueckkehr",
-    "summary": "Magdeburgs Mittelfeldspieler Falko Michel trainiert nach Muskelproblemen wieder voll mit und könnte gegen Cottbus zurückkehren. Torben Müsel fällt mit einem Muskelfaserriss weiter aus."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "2d466de004",
-  "schluessel": "bielefeld|kader",
-  "person": "",
-  "spieler": [],
-  "klub": "Bielefeld",
-  "klubs": [
-   "Bielefeld",
-   "Magdeburg"
-  ],
-  "stufe": "kader",
-  "klasse": "kader",
-  "titel": "Arminia Bielefeld gegen 1. FC Magdeburg Aufstellung - 2. Bundesliga 12. Spieltag 2026/2027",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORnBzUkdOUS1EWUlIeEFmZ3pxeERMSHdXS2tZbU5KMUtJSHd0M0QxZENFNjFDM3kybDJfT1Q5NmZGbGNwd1h6X1VsWHJBS1g1RTR1eTVSRG1mZWdma2ZWcFR5R0oydmVnV0c0LWZfQXpWTGZHZzgxVnI1TGw2cTNMZTZUMGdBM1lKeVMtTlExSTN1VnkzRE4zQzVnMHN2cVBaakE?oc=5",
-    "aid": "ae3186286e",
-    "titel": "Arminia Bielefeld gegen 1. FC Magdeburg Aufstellung - 2. Bundesliga 12. Spieltag 2026/2027",
-    "quelle": "BILD",
-    "beschr": " Arminia Bielefeld gegen 1. FC Magdeburg Aufstellung - 2. Bundesliga 12. Spieltag 2026/2027 &nbsp;&nbsp; BILD ",
-    "zeit": "2026-11-26T15:33"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-26T18:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "063d65467e",
-  "schluessel": "st. pauli|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "St. Pauli",
-  "klubs": [
-   "St. Pauli"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "2. Fußball-Bundesliga: Dynamo will gegen St. Pauli dritten Heimsieg in Folge",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOV3YxWm9WTGRRaXVRRWNyWEstVUk2clVUbUVacWk5ZkRPWUo2d3E5Y09lT3ZFOWFoeUpMQWZsWk13dk83cnZVUmRMR0o2cmVzci1oeFNQWXE3UzdMdFU3b296SzlzckZDeDc1Ry1kREtiSWhicW83Qm1jMmNpUHY3Qks5X19EZ3ZRVFlqU3FiN1djLTVsaHV3UXE0NGFWR2s0SlZiUHhCMW55Zk1DX1dDTmctMEloajRDM1RQTkFwbjJWMGxBS1BPMGJjWVQ?oc=5",
-    "aid": "1024c73d05",
-    "titel": "2. Fußball-Bundesliga: Dynamo will gegen St. Pauli dritten Heimsieg in Folge",
-    "quelle": "Freie Presse",
-    "beschr": " 2. Fußball-Bundesliga: Dynamo will gegen St. Pauli dritten Heimsieg in Folge &nbsp;&nbsp; Freie Presse ",
-    "zeit": "2026-11-26T15:27"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-26T18:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "bdc3ebeaf3",
-  "schluessel": "st. pauli|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "St. Pauli",
-  "klubs": [
-   "St. Pauli"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "FC St. Pauli: Eric Smith auf Abschiedstournee? So ist der aktuelle Stand",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRkw1MWRPUEpNR0Y5em1TMHd0WTdfdnQ2UDBfNy15dG15SnVfaVBQaXNWdnNQamduUXAzeFctN0V2VVR2RWVvY2dHb0U2LXpvcHZGdnhrd3VELWZ2RHgtMEJ2UVdhUlNrSWMxWFZwTzc5a1Q2ZUxyRUxnc0VZNzNXS19OUHA5OEFSdkdUWjRWcUJkWUlUVTNQZDJkajdJX1B2TUtEa0dHeVRsSzktTW93WUtmTW5mMTllRG53cEI1QmtfYVh6VDlxNU5BRTM?oc=5",
-    "aid": "f65d3b7f96",
-    "titel": "FC St. Pauli: Eric Smith auf Abschiedstournee? So ist der aktuelle Stand",
-    "quelle": "Hamburger Abendblatt",
-    "beschr": " FC St. Pauli: Eric Smith auf Abschiedstournee? So ist der aktuelle Stand &nbsp;&nbsp; Hamburger Abendblatt ",
-    "zeit": "2026-11-26T16:28"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "u",
-  "erstmals": "2026-11-26T18:01",
-  "archiv": [
-   {
-    "id": "ceca666738",
-    "titel": "Smith gegen Pyrka: St. Pauli-Profis treffen in der Nations League aufeinander",
-    "datum": "17.11.",
-    "stufe": "sonstiges",
-    "summary": "St. Paulis Eric Smith und Arkadiusz Pyrka treffen in der Nations League mit Schweden und Polen aufeinander. Pyrka hat gute Chancen auf einen Startelfeinsatz, Smith blieb zuletzt ohne Einsatz."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "01b3379be2",
-  "schluessel": "braunschweig|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Braunschweig",
-  "klubs": [
-   "Braunschweig",
-   "Frankfurt"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "„Nur Peine-Ost“: VfL-Kapitän Arnold stichelt vor dem Derby gegen Eintracht Braunschweig",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVTM3M2Vxcnh5ZWR5MHh2U3ltQ2FjZlRkVjhWQ1kzdjMyZU5GWTV4TnRZeTgtYjBfOGpZM1V0WkFvUGV1cDYtNnRwei1KaUFRNmhFMUVUNDNwYnhycDkwRElsbzB5SnctbllwaFlLQzBvLUMyM1ZwWjc0cHVVZzFGS19zYjZrbnN1dExJeVJxc0QxOEREVENYb05TbGMyYi1aX1FiUEU4YzRTcnZQcjAxWHpOV09UdGJzTUNxN25NN3k1M09fSGIzMGVrSlZ6Nld6NHRJcjExSURCdnNleUdLNmxwdmw3aElnQjV4QVF4RdIBiwJBVV95cUxPRFFKaEdRZ2h3M2Y1QTBmVDVmZEw0SXdkMlh4bzR1cHRzUkkzRXRGeGxBd2ZfZ2M2Wk5iUmlHeUhZU1pwUlViWXdTc1JzYkJial9qbEkxNzRmUzU4WUhNbXF3UzByQ1hKZDAxd2o4SUJHS2tTXzF6MU1JLU1oTXZRcDZIVkJTaHRseFdNZ1dhTHpyN2J3Q3c4a18yTlVfTVIxejNYVzZhdVdlUjFyZFpPd1hGb0VjOG5lX1l4WmFRZzVmSWFpcUl0VklibkpBVnhFV0ZLWGQ5eGs0UnZ0MVhZeTktRHgyN0R3NEtQNmRoZk1YeDdwdE45Z1l5b1loTXdKRDNDN283ZkNSTzQ?oc=5",
-    "aid": "6ac5046b11",
-    "titel": "„Nur Peine-Ost“: VfL-Kapitän Arnold stichelt vor dem Derby gegen Eintracht Braunschweig",
-    "quelle": "WAZ-ONLINE.de",
-    "beschr": " „Nur Peine-Ost“: VfL-Kapitän Arnold stichelt vor dem Derby gegen Eintracht Braunschweig &nbsp;&nbsp; WAZ-ONLINE.de ",
-    "zeit": "2026-11-26T15:45"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-26T18:01",
-  "archiv": [
-   {
-    "id": "09d22d0393",
-    "titel": "Braunschweig: Tabea Kemme in den Aufsichtsrat gewählt",
-    "datum": "16.11.",
-    "stufe": "sonstiges",
-    "summary": "Eintracht Braunschweig hat die frühere Nationalspielerin Tabea Kemme in den Aufsichtsrat der Profifußballgesellschaft gewählt. Präsidentin Nicole Kumpis wurde im Amt bestätigt."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "a6d7bc2ec0",
-  "schluessel": "osnabruck|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Osnabrück",
-  "klubs": [
-   "Osnabrück"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Spieltagsinterview vor #OSNH96",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZR3p5OTd6WVRzTTh0Y1BiREJuS1ctTUdBMnN6Z28zQ1dSTlBpcUJiRWpMN0lqa3dDNEFnZG5UUVEtWUNFX2lsRzNWdHN6elEzUGlicHZlbmNWaVc4N2RMLWluOA?oc=5",
-    "aid": "788ada5de1",
-    "titel": "Spieltagsinterview vor #OSNH96",
-    "quelle": "VfL Osnabrück",
-    "beschr": " Spieltagsinterview vor #OSNH96 &nbsp;&nbsp; VfL Osnabrück ",
-    "zeit": "2026-11-26T16:23"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-26T18:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "41dfc9e725",
-  "schluessel": "karlsruhe|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Karlsruhe",
-  "klubs": [
-   "Karlsruhe",
-   "Hertha"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Tremoulet meldet sich für KSC-Gastspiel bei Spitzenreiter Hertha BSC zurück",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ3J1eHdDb3p0N05iVXJqQnpid010TWhXcGpfNENCZGxRbEVneHN2Qm9zMXUwN0kzSGItVDZsNGI5SGZLVm9aaGxwUTRINVAxMDh1T3pIbEZ4VjJrTU5PNnJiTEtyYU5uMF95RFhiQ252dVozSHhxWWdzc0txZVBxNkNIMWFQazRDcWFlQy1iOXIydnJ1Y18zZEZWSTRiQTYxdHV0aA?oc=5",
-    "aid": "27a82d27ff",
-    "titel": "Tremoulet meldet sich für KSC-Gastspiel bei Spitzenreiter Hertha BSC zurück",
-    "quelle": "Badische Neueste Nachrichten",
-    "beschr": " Tremoulet meldet sich für KSC-Gastspiel bei Spitzenreiter Hertha BSC zurück &nbsp;&nbsp; Badische Neueste Nachrichten ",
-    "zeit": "2026-11-26T14:32"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-26T18:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "cafd0accd8",
-  "schluessel": "hertha|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hertha",
-  "klubs": [
-   "Hertha",
-   "Karlsruhe"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Hertha gegen KSC: Leitl hat „keine Freunde in Karlsruhe“",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXFYalNoZTIyeGlHYV92MTBQdEVRcExjUmx3MG1JRlEwY3UwSWI5Z3N0SE9BZTJoRjJ5NTBVUk9JcHkydm1pSGwtcV9nR19hRzQxSFF6UW9MbV9hNDNxS0ZoOUlCdjJGTHIzRVFaNlFMeGF3YnpqZFNqVWI0Smo5LUg2Y0VDWGFNRmFacjRrbzhiWm5sQ1lGOXFtSElJYlB4M3RreWZKSUZBNC1RUEpSUF91Mm9aUW1HMTJDZVU5aVBGanJjMUE?oc=5",
-    "aid": "0cc3565d88",
-    "titel": "Hertha gegen KSC: Leitl hat „keine Freunde in Karlsruhe“",
-    "quelle": "BZ Berlin",
-    "beschr": " Hertha gegen KSC: Leitl hat „keine Freunde in Karlsruhe“ &nbsp;&nbsp; BZ Berlin ",
-    "zeit": "2026-11-26T15:27"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-26T18:01",
-  "archiv": [
-   {
-    "id": "0cafd35445",
-    "titel": "Hertha: Leitl fehlen drei Siege zum Babbel-Rekord",
-    "datum": "26.11.",
-    "stufe": "sonstiges",
-    "summary": "Herthas Trainer Stefan Leitl hat seit Februar 2025 einen Punkteschnitt von 1,79 und liegt hinter Markus Babbel (1,84) auf Rang zwei. Mit drei Siegen gegen Karlsruhe, Hannover und Darmstadt würde er den Rekord übertreffen."
-   },
-   {
-    "id": "b71e14f8fb",
-    "titel": "Hertha will Serie gegen Karlsruhe ausbauen",
-    "datum": "25.11.",
-    "stufe": "sonstiges",
-    "summary": "Tabellenführer Hertha BSC empfängt nach vier Siegen in Folge den Karlsruher SC. Der KSC steht mit zwölf Punkten auf Rang 15 und hat 24 Gegentore kassiert."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "6e1db3d638",
-  "schluessel": "darmstadt|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Darmstadt",
-  "klubs": [
-   "Darmstadt",
-   "Bochum"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Darmstadt vor Bochum: Über ein Jahr kein Auswärtssieg in der Liga - Kohfeldt als Psychologe gefragt",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbGpjWXh3YU83eXA1UHVISTlSQTZFUmFXS29yVGlsQjhxeEpXYU5FRGpBOTE5SDF6ZkNGQ20xRFdBdlh3X1F1TGkxaERnbmdIME9tX25zTmpYN05hS0dnSUdsSUFCX2NkWlhzVGk5VHY0NDFZTXF5RW5SWEo5TUktcVBKNWcxZzlkcWYxWFV0Q0tDcE9pN2c1UktmajVyZ0ZxQi1nYldoUmRwbkdhSmFueWpYemUwZUxCYWNMalZCckNaYWdsOGl4d0JnQWVsZDRhaFV0cEI4MXJ4b1VqUGxB?oc=5",
-    "aid": "e96b1ef0de",
-    "titel": "Darmstadt vor Bochum: Über ein Jahr kein Auswärtssieg in der Liga - Kohfeldt als Psychologe gefragt",
-    "quelle": "RevierSport online",
-    "beschr": " Darmstadt vor Bochum: Über ein Jahr kein Auswärtssieg in der Liga - Kohfeldt als Psychologe gefragt &nbsp;&nbsp; RevierSport online ",
-    "zeit": "2026-11-26T17:37"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-26T18:01",
-  "archiv": [
-   {
-    "id": "1440adca65",
-    "titel": "Bochum vor Darmstadt: Hofmann trifft gerne gegen die Lilien",
-    "datum": "25.11.",
-    "stufe": "sonstiges",
-    "summary": "Vor dem Heimspiel gegen Darmstadt am 27. November rückt Bochums Stürmer Philipp Hofmann in den Fokus, der gegen die Lilien zehnmal traf. Bochum hat die Liga-Bestwerte in der Defensive nach der Pause, aber nur elf Saisontore."
-   },
-   {
-    "id": "c23a312d35",
-    "titel": "Darmstadt: Fernie warnt vor dem Schlafwandeln im Abstiegskampf",
-    "datum": "20.11.",
-    "stufe": "sonstiges",
-    "summary": "Darmstadts Sportchef Paul Fernie stellt sich vor dem Heimspiel gegen Heidenheim hinter Trainer Florian Kohfeldt. Er warnt vor Schlafwandeln im Abstiegskampf, der Klub steht auf Rang 17."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "254ed50692",
-  "schluessel": "darmstadt|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Darmstadt",
-  "klubs": [
-   "Darmstadt",
-   "Bochum"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Spieltagstipp: Was ist drin für die Lilien gegen Bochum?",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZXQ2aUp4WVpYMTQ3Y1RhUDhqcXJmQVcyUnRJUGxpQkZkZFFNYUdzQmtnNHU4UEdqZFdWMFVQY0VabTV4YmhBUWRiWFBUZ21wdlp3YmlXZXdDX01jdTh4QkRlTUVKekRFTzV1RVRJUThQS1lLdUYxZ2JWb3pud1NfcVNmRjdKRWR3MWcyN3J0Q2JDV2RGSG5SMGZjcnFmbDdXTTlXNkU5QTVFLWQwTWx0NHUtRE5QY3hoNmxwRkxGOXTSAcYBQVVfeXFMTmZ6S2xxeXYwV0FFRlVnTUNYR3phYWxkTnJxdFAwZ2pHTWJjdW9rRGNQb0FibDVZZVQzQlRIdlhPaTFIcEhvc0hkci1wTW1WQjMwMktrQnhhVTEzSXBDenUzQ3N2UVJkdHdQSS1JWGdFbXp2NERyQjNZMmdtaDhEd0pva0d1RzNnWG5jVXVLX3RnbFlJN3Mwb3lJbzU5WjFKa1k2OU52eGJhLTdIVURLeThNbW00eWZkOVE3cjVjaFZTUmtHRVNB?oc=5",
-    "aid": "a768f58532",
-    "titel": "Spieltagstipp: Was ist drin für die Lilien gegen Bochum?",
-    "quelle": "Lilienblog",
-    "beschr": " Spieltagstipp: Was ist drin für die Lilien gegen Bochum? &nbsp;&nbsp; Lilienblog ",
-    "zeit": "2026-11-26T17:35"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-26T18:01",
-  "archiv": [
-   {
-    "id": "1440adca65",
-    "titel": "Bochum vor Darmstadt: Hofmann trifft gerne gegen die Lilien",
-    "datum": "25.11.",
-    "stufe": "sonstiges",
-    "summary": "Vor dem Heimspiel gegen Darmstadt am 27. November rückt Bochums Stürmer Philipp Hofmann in den Fokus, der gegen die Lilien zehnmal traf. Bochum hat die Liga-Bestwerte in der Defensive nach der Pause, aber nur elf Saisontore."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "17cd1f6404",
-  "schluessel": "wolfsburg|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Wolfsburg",
-  "klubs": [
-   "Wolfsburg"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Kommentar zu den Spitzen von VfL-Wolfsburg-Kapitän Arnold: Genau so muss ein Derby sein!",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeU5oZWkyTGJXdXZMVWlkTkFvaDlTSjk0UzhQa2lkdlhsRllpMnJScGs0MTJRY3EzZ0Vpd1dYLTh1V3hMNzNad0Rib1NEZXoxVWJPbVVSZm9DM05CUWpXLWx2QnY4OHh2Z1BpelFWYl81VUhoX0p0dFdabUJaaVI2ZlJHaGhCUWJNN09MOVpOZzFSMDVacUxPV3NoUHhubGpDazFjNlBramhmcUdnX1ZiTlFxVGkzbnF1SHdjbWp4YTJjaVJvT1k0YkVXS0E4aHZwYmw2NnFBeUlPX1dUUmtBODhLVWwyeXNRVDQ1all6bWY0UdIBjgJBVV95cUxNdkg1b0szTWRXRWtkZzZ5dEZLclMyVmo4ZlZqdVlfdl92SThpNGRudTF0NnJVa01FekJIQ18zell1c2k5aEpKVHN0VDZmUmpsdWhxbHZ6WWlpMkhUWkVEWllGRFhHTjU0QV9YTVIxNVItOWNsSURfcV9pcEZ6Tnp3LW9UTFEwTzU2N2k3ZkhWaC1ORGRuaUk2d0N1RnZKWHRGamJJSkFfeGptWWk3S2p6MHZtV3JGV20wQW5STlhDcF9YOWU4UnFxbThjT0R2dkRfdklvQXdKb2g5T1ZKa1hXdUhXVloyV0ZmUUpzQXFCLU1tU3E3NHNFMXp0eVphU180Q0FER2owazR3Z05DLXc?oc=5",
-    "aid": "f9b39d9f8b",
-    "titel": "Kommentar zu den Spitzen von VfL-Wolfsburg-Kapitän Arnold: Genau so muss ein Derby sein!",
-    "quelle": "WAZ-ONLINE.de",
-    "beschr": " Kommentar zu den Spitzen von VfL-Wolfsburg-Kapitän Arnold: Genau so muss ein Derby sein! &nbsp;&nbsp; WAZ-ONLINE.de ",
-    "zeit": "2026-11-26T17:26"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-26T18:01",
-  "archiv": [
-   {
-    "id": "9ceecee436",
-    "titel": "Wolfsburg meidet das A-Wort: „Es ist noch keine gute Saison“",
-    "datum": "22.11.",
-    "stufe": "sonstiges",
-    "summary": "Wolfsburg spricht trotz Rang 3 und nur zwei Punkten Rückstand auf Platz 2 nicht offiziell über den Aufstieg. Trainer Tobi Strobl und Fabian Reese mahnen zur Geduld."
-   }
-  ],
-  "versuche": 2
- },
- {
   "id": "fb7165d37d",
   "schluessel": "hertha|sonstiges",
   "person": "",
@@ -589,7 +48,7 @@
     "summary": "Cottbus-Trainer Claus-Dieter Wollitz traut Spitzenreiter Hertha vor dem Duell am Sonntag einen neuen Zweitliga-Punkterekord zu. Cottbus steht mit elf Punkten auf Relegationsrang 16."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "de5b5d07f5",
@@ -628,7 +87,7 @@
     "summary": "Nürnberg verliert daheim 1:2 gegen Braunschweig, obwohl Julian Justvan früh traf. Nach einem Eigentor von Javier Fernández drehte Yann Sturm die Partie in der 83. Minute."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "38af7bcfe2",
@@ -657,7 +116,7 @@
   "status": "n",
   "erstmals": "2026-11-26T21:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "279e33095b",
@@ -694,7 +153,7 @@
     "summary": "St. Paulis Trainer Marcel Rapp attestiert Dynamo Dresden vor dem Duell am Samstag fehlende individuelle Qualität, warnt aber vor dem Gegner. St. Pauli wartet noch auf den ersten Auswärtssieg der Saison."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "31c022b679",
@@ -724,7 +183,7 @@
   "status": "n",
   "erstmals": "2026-11-26T21:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "8d85271f3c",
@@ -754,7 +213,7 @@
   "status": "n",
   "erstmals": "2026-11-26T21:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "17a6e5f546",
@@ -784,7 +243,7 @@
   "status": "n",
   "erstmals": "2026-11-26T21:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "91e25064dc",
@@ -813,7 +272,7 @@
   "status": "n",
   "erstmals": "2026-11-26T21:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "222fe0daf8",
@@ -842,7 +301,7 @@
   "status": "u",
   "erstmals": "2026-11-26T21:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "30dfb2e611",
@@ -870,6 +329,191 @@
   "prio": 2,
   "status": "u",
   "erstmals": "2026-11-26T21:01",
+  "archiv": [],
+  "versuche": 2
+ },
+ {
+  "id": "f24b280ed4",
+  "schluessel": "karlsruhe|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Karlsruhe",
+  "klubs": [
+   "Karlsruhe"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Freiburg will Ben Farhats Rückleihe zum KSC abbrechen – „Noch gar nichts entschieden“",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaVJ0LWllUkdZR0V0aW92aDJ2QWxpZldyVlhKSVVYS05CV0lVeXNSU0tGaFAwWlVqakFLekpCQ2dsdGhOWE0wTlFSeDNaR3M0dkZkdGtNZ0pBLW1tODh4aVVPQVJiSUFJTkZ0dm1JUmpVRGg0dWZnZEpFZk1Db0pwcnZZN19iRDdHSnlCVFhxbW5TX1E2UmU3LWtpNnNlZzEwdllLOWRPdDBKUGxlaGV4bEd3WUV5bEdkQ1JGeWtyNmkzQUdodndTNXNfR1BLUQ?oc=5",
+    "aid": "0aac98dd92",
+    "titel": "Freiburg will Ben Farhats Rückleihe zum KSC abbrechen – „Noch gar nichts entschieden“",
+    "quelle": "Transfermarkt",
+    "beschr": " Freiburg will Ben Farhats Rückleihe zum KSC abbrechen – „Noch gar nichts entschieden“ &nbsp;&nbsp; Transfermarkt ",
+    "zeit": "2026-11-26T11:04"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "u",
+  "erstmals": "2026-11-27T06:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "fcf7e9795a",
+  "schluessel": "dresden|kader",
+  "person": "",
+  "spieler": [],
+  "klub": "Dresden",
+  "klubs": [
+   "Dresden",
+   "St. Pauli"
+  ],
+  "stufe": "kader",
+  "klasse": "kader",
+  "titel": "Aufstellung | Dynamo Dresden - FC St. Pauli : | 13. Spieltag | 2. Bundesliga 2026/27",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS3JocTlJVTd1WklNMTdLSGJjMHZvSllDRHVZT2JGNVlTaENCUGY3R3haU29zeFdFS2ZBc3h2SE84bTNfMG5oU05MMmx2cDRpY1V4TXpxWG05RWh3bVpRcmdCUDJXMjRUUFE5ZFNEWUFXSTVhVHJrblpXdVVja0JhVE5xUjJWakU?oc=5",
+    "aid": "a372ed7b23",
+    "titel": "Aufstellung | Dynamo Dresden - FC St. Pauli : | 13. Spieltag | 2. Bundesliga 2026/27",
+    "quelle": "Kicker",
+    "beschr": " Aufstellung | Dynamo Dresden - FC St. Pauli : | 13. Spieltag | 2. Bundesliga 2026/27 &nbsp;&nbsp; Kicker ",
+    "zeit": "2026-11-25T20:04"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-27T06:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "0c28a8ab9e",
+  "schluessel": "dresden|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Dresden",
+  "klubs": [
+   "Dresden"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Dynamo Dresden 2. Liga: St.-Pauli-Coach Rapp kennt Stamm und Dynamos Schwäche",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMWlLOXJBUFE1SmxIVF9oYUJTeHRneWNoSlE4eVM2SjAtRDg3d1hhd0tqZ1pTc25QNTZLdmkxNHBBUm44VUhEeXZYRk5QQl92VG1WUUszbGV6MFlwMUpMUlB2Z2VqSVJWYnpMc2hCYzRKUnBMNWtmbXUzRzJzbkEzN0NlZU1BOHpDTVhjMG1iMm0yRW94OGplWmt4LTNjZTlXQ1BjOU1FRWhLYzU4R2p1eWJadmZtZE91Rkd0My1DZkNVUUFwQ0NDaWZxN0NySTRfN0xOTkhhOA?oc=5",
+    "aid": "5c326f4156",
+    "titel": "Dynamo Dresden 2. Liga: St.-Pauli-Coach Rapp kennt Stamm und Dynamos Schwäche",
+    "quelle": "Lausitzer Rundschau",
+    "beschr": " Dynamo Dresden 2. Liga: St.-Pauli-Coach Rapp kennt Stamm und Dynamos Schwäche &nbsp;&nbsp; Lausitzer Rundschau ",
+    "zeit": "2026-11-27T05:00"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "u",
+  "erstmals": "2026-11-27T06:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "b9f423084e",
+  "schluessel": "bielefeld|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Bielefeld",
+  "klubs": [
+   "Bielefeld"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Arminia bindet Luis Allmeroth",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZFBNbnRoakI3TWh0VHVGeXFOSmZoeXZaWnN1b2NIUHB5MW55OXRtNFdsck9RLXlWek5PeFp4a19Ta2RuT3k2aml5eEpVWW9xZDJqdF9yaE1Tdkp0ZUlFRTIzRlFuY0xQcE03bS1QbGdrN2wzSzd6TXlfVTBRdzZzZ2FzQV8?oc=5",
+    "aid": "6310ce3f85",
+    "titel": "Arminia bindet Luis Allmeroth",
+    "quelle": "Arminia Bielefeld",
+    "beschr": " Arminia bindet Luis Allmeroth &nbsp;&nbsp; Arminia Bielefeld ",
+    "zeit": "2026-11-26T15:03"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-27T06:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "92bc4fc3fc",
+  "schluessel": "bochum|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Bochum",
+  "klubs": [
+   "Bochum",
+   "Darmstadt"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "VfL Bochum: Rösler warnt vor Darmstadt – und vermisst Meyer aus speziellem Grund",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ2w0SDZwWTBIYmtRaERtd3RrYWJwb1BGVmhaeWg4NXZfWlpzN05LVnZPazFFUmZWX0NsVDN4WVlBcU4zUGU4Sy1rUFB6cXhHSHU5MzNzNmZqTkh4d2MtdnhNR3dWb2JOR0sxT2hYVnpIQlZzR1dyU0lJNkpXc09jaEFVaXY5VHNVQmtEUWljaWZhc2txMEhVMll2MnZUTEY2YS1sd29ZUU9FNzIxR0hkbVhhZDEyby05RWFNS1pxMGI3ZmJNdkNGLXQ5cG9ibXlSN3c?oc=5",
+    "aid": "fef678176d",
+    "titel": "VfL Bochum: Rösler warnt vor Darmstadt – und vermisst Meyer aus speziellem Grund",
+    "quelle": "WAZ | Westdeutsche Allgemeine Zeitung",
+    "beschr": " VfL Bochum: Rösler warnt vor Darmstadt – und vermisst Meyer aus speziellem Grund &nbsp;&nbsp; WAZ | Westdeutsche Allgemeine Zeitung ",
+    "zeit": "2026-11-27T05:00"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "u",
+  "erstmals": "2026-11-27T06:01",
+  "archiv": [
+   {
+    "id": "1440adca65",
+    "titel": "Bochum vor Darmstadt: Hofmann trifft gerne gegen die Lilien",
+    "datum": "25.11.",
+    "stufe": "sonstiges",
+    "summary": "Vor dem Heimspiel gegen Darmstadt am 27. November rückt Bochums Stürmer Philipp Hofmann in den Fokus, der gegen die Lilien zehnmal traf. Bochum hat die Liga-Bestwerte in der Defensive nach der Pause, aber nur elf Saisontore."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "1b0220b845",
+  "schluessel": "bayern|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Bayern",
+  "klubs": [
+   "Bayern",
+   "Osnabrück"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Ex-FCB-Trainer Schultz liefert in Osnabrück ab und wird dafür belohnt",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORnF5TGhBcEdSLU5SNGtpRTFTM2Q0QlpPOHM3MG9uMTVTb0c2c3Ytblp5RXFHeFVtdjdITmdhdjF0QzdRdnh6SWt0cVhQclZZZG5vUGROV2NXaVhPdm9FMkRLM2Z4cmM0bFU2bDRrLVo1QXRSbnR2RUVHSkpIUF9VTU9rMm95akd1NVVLY1BZSVBLZVladWVUS0VCQkJYNUhMYUJmcXZ4Q2tBRGRJaUE?oc=5",
+    "aid": "2cb7dc2c67",
+    "titel": "Ex-FCB-Trainer Schultz liefert in Osnabrück ab und wird dafür belohnt",
+    "quelle": "https://www.kicker.ch/",
+    "beschr": " Ex-FCB-Trainer Schultz liefert in Osnabrück ab und wird dafür belohnt &nbsp;&nbsp; https://www.kicker.ch/ ",
+    "zeit": "2026-11-26T09:46"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-27T06:01",
   "archiv": [],
   "versuche": 1
  }
