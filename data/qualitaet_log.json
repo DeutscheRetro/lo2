@@ -2880,5 +2880,73 @@
   "gruende": [],
   "alt_titel": null,
   "quelle_gelesen": true
+ },
+ {
+  "zeit": "27.11.2026 12:04",
+  "id": "62b2a3ee1e",
+  "pfad": "artikel/kiel-ohne-skrzybski-und-nekic-hinrunde-fuer-zwei-stammkraefte-beendet-62b2a3ee1e.html",
+  "urteil": "verbessert",
+  "gruende": [
+   "Akzente korrigiert: Ivan Nekić, Adrián Kaprálik",
+   "Wortwiederholung „bestätigte … bestätigt“ im Intro entfernt",
+   "Schonlau-Ausfall in einen eigenen Absatz gesetzt, damit der Mittelteil klarer gegliedert ist",
+   "Kleine sprachliche Glättungen; Fakten nicht verändert, weil die Quelle nicht abrufbar ist"
+  ],
+  "alt_titel": "Kiel ohne Skrzybski und Nekic: Hinrunde für zwei Stammkräfte beendet",
+  "quelle_gelesen": false
+ },
+ {
+  "zeit": "27.11.2026 12:05",
+  "id": "8722fa6e26",
+  "pfad": "artikel/hannover-96-reist-mit-rueckenwind-nach-osnabrueck-kaellmann-fehlt-8722fa6e26.html",
+  "urteil": "verbessert",
+  "gruende": [
+   "Unklare Formulierung „Gegen Osnabrücks Vorgänger im Spielplan“ ersetzt durch „Im vergangenen Spiel“, weil der Gegner im Text nicht genannt wird",
+   "Floskelhaften Schluss mit der bloßen Wiederholung der Personalie Källmann gestrichen. Der Artikel endet jetzt mit den Fakten zu Osnabrück als Ausblick auf den Gegner",
+   "Den Absatz zur Form von 96 sprachlich gestrafft",
+   "Titel präzisiert, die Floskel „Rückenwind“ ist raus",
+   "Hinweis: Für Källmann, Thordarson, Hartel, Gindorf und Taibi fehlen die Vornamen. Weil die Quelle nicht verfügbar ist, wurden sie nicht ergänzt"
+  ],
+  "alt_titel": "Hannover 96 reist mit Rückenwind nach Osnabrück, Källmann fehlt",
+  "quelle_gelesen": false
+ },
+ {
+  "zeit": "27.11.2026 12:05",
+  "id": "8afb1b8b35",
+  "pfad": "artikel/darmstadt-plant-winter-transfers-fernie-warnt-vor-emotionalen-8afb1b8b35.html",
+  "urteil": "ok",
+  "gruende": [],
+  "alt_titel": null,
+  "quelle_gelesen": false
+ },
+ {
+  "zeit": "27.11.2026 12:05",
+  "id": "e8250e72eb",
+  "pfad": "artikel/cottbus-im-abwaertstrend-wollitz-setzt-auf-stabilitaet-statt-spektakel-e8250e72eb.html",
+  "urteil": "verbessert",
+  "gruende": [
+   "Nicht belegte Fakten gestrichen: Kapitänsamt von Cigerci, Einwechslungen und 0:0 in Braunschweig, Justin Butler, je fünf Tore, Jannis Boziaris mit Alter und Einsätzen, frühere Ergebnisse und Platz sieben, Torbilanz, fehlende Kommunikation",
+   "Wollitz-Zitat gestrichen, es steht nicht in der Quelle",
+   "Titel ersetzt: „Stabilität statt Spektakel“ ist nicht belegt, neuer Titel nennt die Kernnachricht",
+   "Mittelteil und Schluss nur mit Angaben aus der Quelle neu aufgebaut: ungeschlagener Spitzenreiter, zu deutliche Niederlage, Zweitliga-Realität, sieben Spiele ohne Sieg, Fokus auf Wollitz und Joker Cigerci",
+   "Liga ergänzt (2. Liga, steht als Zweitliga in der Quelle)",
+   "Umfrage passt nicht: Boziaris kommt im Text nicht mehr vor, die Quelle belegt keine Bank-Entscheidung gegen ihn"
+  ],
+  "alt_titel": "Cottbus im Abwärtstrend: Wollitz setzt auf Stabilität statt Spektakel",
+  "quelle_gelesen": true
+ },
+ {
+  "zeit": "27.11.2026 12:06",
+  "id": "69b5e28bc8",
+  "pfad": "artikel/herwerth-lehnt-vfb-angebot-ab-ksc-unter-den-interessenten-69b5e28bc8.html",
+  "urteil": "verbessert",
+  "gruende": [
+   "„Wie berichtet“ gestrichen, weil die Quelle keine frühere Berichterstattung nennt; stattdessen „dem Vernehmen nach“ wie in der Quelle",
+   "Grammatik korrigiert: „sollen … Union Berlin interessiert sein“ zu „ist … Union Berlin interessiert“",
+   "Ligazugehörigkeit aus der Quelle ergänzt (KSC Zweitligist, Union Erstligist)",
+   "Letzten Satz in zwei Sätze geteilt"
+  ],
+  "alt_titel": "Herwerth lehnt VfB-Angebot ab: KSC unter den Interessenten",
+  "quelle_gelesen": true
  }
 ]
