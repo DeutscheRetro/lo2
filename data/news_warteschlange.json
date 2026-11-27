@@ -1,338 +1,5 @@
 [
  {
-  "id": "fb7165d37d",
-  "schluessel": "hertha|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hertha",
-  "klubs": [
-   "Hertha"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Herthas Nilsson unternimmt den zweiten Anlauf",
-  "quellen": [
-   {
-    "url": "https://www.kicker.de/herthas-nilsson-unternimmt-den-zweiten-anlauf-1275316/artikel#omrss",
-    "aid": "a9e892f482",
-    "titel": "Herthas Nilsson unternimmt den zweiten Anlauf",
-    "quelle": "kicker 2. Bundesliga News",
-    "beschr": "Neuzugang Gustaf Nilsson ringt bei Hertha BSC - auch aus Verletzungsgründen - noch um einen festen Platz im Team. Zuletzt in Cottbus hat der Stürmer ein erstes deutliches Ausrufezeichen gesetzt.",
-    "zeit": "2026-11-26T18:25"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "u",
-  "erstmals": "2026-11-26T21:01",
-  "archiv": [
-   {
-    "id": "c086a6c95d",
-    "titel": "Hertha: Nilsson trifft nach langer Wartezeit erstmals",
-    "datum": "26.11.",
-    "stufe": "sonstiges",
-    "summary": "Herthas Stürmer Gustaf Nilsson erzielte in Cottbus beim 4:0 sein erstes Tor für die Berliner. Trainer Stefan Leitl muss im Heimspiel gegen Karlsruhe zwischen ihm und Sebastian Grönning entscheiden."
-   },
-   {
-    "id": "b71e14f8fb",
-    "titel": "Hertha will Serie gegen Karlsruhe ausbauen",
-    "datum": "25.11.",
-    "stufe": "sonstiges",
-    "summary": "Tabellenführer Hertha BSC empfängt nach vier Siegen in Folge den Karlsruher SC. Der KSC steht mit zwölf Punkten auf Rang 15 und hat 24 Gegentore kassiert."
-   },
-   {
-    "id": "5b44f3ec62",
-    "titel": "Wollitz traut Hertha vor Duell in Cottbus den Punkterekord zu",
-    "datum": "16.11.",
-    "stufe": "sonstiges",
-    "summary": "Cottbus-Trainer Claus-Dieter Wollitz traut Spitzenreiter Hertha vor dem Duell am Sonntag einen neuen Zweitliga-Punkterekord zu. Cottbus steht mit elf Punkten auf Relegationsrang 16."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "de5b5d07f5",
-  "schluessel": "braunschweig|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Braunschweig",
-  "klubs": [
-   "Braunschweig",
-   "Nürnberg",
-   "Heidenheim"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Nach Heinmpleite gegen Braunschweig: 1. FC Nürnberg zurück in die Erfolgsspur gegen Heidenheim?",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUUo4aVhWUF9WejN1c0RYY01aN0xLejJuS1A1Z1BUNlBDYTlKWnlhWDBEaHp5NFBjX2FYVjI5bkgzQUZoaFZpTFlCLVozNUtkSXRURG1xeVlSSUpEcnpESWJlSnFDZjhiU0R3dUphOWNEUV8xWWk0elc1dzNxN0pvZndMRGVDRXl6TUhxNWNFSFo2ck8yY2tCOURJQ2RrNWVaZ2pzdG8yT1VEVExEZ1VaWHJ4b0c3Mmo2ODBiQ1dwamRpd2lMVkV6SGY0UTVmdGNTVEZ5RWZHOFR0SVE?oc=5",
-    "aid": "b22d6f524e",
-    "titel": "Nach Heinmpleite gegen Braunschweig: 1. FC Nürnberg zurück in die Erfolgsspur gegen Heidenheim?",
-    "quelle": "Franken Fernsehen",
-    "beschr": " Nach Heinmpleite gegen Braunschweig: 1. FC Nürnberg zurück in die Erfolgsspur gegen Heidenheim? &nbsp;&nbsp; Franken Fernsehen ",
-    "zeit": "2026-11-26T15:47"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-26T21:01",
-  "archiv": [
-   {
-    "id": "c2f0479f8c",
-    "titel": "Nürnberg verliert gegen Braunschweig nach Führung mit 1:2",
-    "datum": "21.11.",
-    "stufe": "spielbericht",
-    "summary": "Nürnberg verliert daheim 1:2 gegen Braunschweig, obwohl Julian Justvan früh traf. Nach einem Eigentor von Javier Fernández drehte Yann Sturm die Partie in der 83. Minute."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "38af7bcfe2",
-  "schluessel": "dresden|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Dresden",
-  "klubs": [
-   "Dresden"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Dynamo Dresden: Darum sagt Aufstiegsheld Justin Eilers beim VfB Krieschow ab",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT285SGFTSFhpVG9PQnZSUjY1MWV1TEtkZTVqY3QwbG5UT3pBemlHX0VJNTBNbWlydmpVcWJSTVZYTVBYQ0lyTzd5WEd2SVE5UXRWNXNiNEQ1R0U5Z25mSmhpX3hUd1l2MXgwREhNem1nMUNxX2FKMmxUSlkyNVFPcTFib0NoUnQyZjZGZU0yUUlmV19jNmxvcEJhVVc0MXVUbTVURmdHa0xPLVFRX1J1ZWgzc1JZM3RkVjduY0NuY01FUUtraDN3VzlmalZpNmNVWXZqTFd4cw?oc=5",
-    "aid": "0e3587e7f4",
-    "titel": "Dynamo Dresden: Darum sagt Aufstiegsheld Justin Eilers beim VfB Krieschow ab",
-    "quelle": "Lausitzer Rundschau",
-    "beschr": " Dynamo Dresden: Darum sagt Aufstiegsheld Justin Eilers beim VfB Krieschow ab &nbsp;&nbsp; Lausitzer Rundschau ",
-    "zeit": "2026-11-26T18:15"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-26T21:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "279e33095b",
-  "schluessel": "dresden|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Dresden",
-  "klubs": [
-   "Dresden"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Dynamo Dresden hat ein Problem mit der zweiten Halbzeit",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOT1c5VVdvUXhNdThoaWhVZ3ZORlU1MnJTN3pJOTh0QkJMN1R5eGJRTUVDZm5hcHROcmJLX2VHeEZqakZUenUwc1pLdHZKZ2dmM2x1VU85REhHSlMtN0h6anFnUDVpZUsyNk4yaXEwMzdqNVNzZlFOdHUwWHl4aXUwbEdvNExBWXBodm0tYWs3aWZmUGpaUmN5RmUxTE43VFRCSzFicjdWSnN4dTgzazV1WE9VdXFQSUJjV1NYY1JxbTI1UlJOaFB0MdIB5AFBVV95cUxOcFFaQWdtYlVWdHNuREdnZEhCRFVWYmVxY3FRWmlSN3RVRnVMLXZZeEZSZmJMWlc4VzJfNXhoZjRwYXVXX1FoQ1RObTU1akhRamgySktDenltY0lhTzBLZnpYU01CcjRyQUdra3A2VnZSRmpKVDlrSEN5YUtaQUVYcUI1MENKNlhHU0NRd3VEbDY0R29GeW5yc0I0QW5iS2FOdjFGTGVwYjNxV28zcjF1ZDdDY1lkVHRibDJIMkxXV0hiSXNrWjI2aTFmMzFtU1VGSzhOTkdNMklSTTVURmxQUERYRHk?oc=5",
-    "aid": "8390beca13",
-    "titel": "Dynamo Dresden hat ein Problem mit der zweiten Halbzeit",
-    "quelle": "Sächsische Zeitung",
-    "beschr": " Dynamo Dresden hat ein Problem mit der zweiten Halbzeit &nbsp;&nbsp; Sächsische Zeitung ",
-    "zeit": "2026-11-26T20:24"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-26T21:01",
-  "archiv": [
-   {
-    "id": "db9079552e",
-    "titel": "Rapp vor Dresden: „Keine Mannschaft mit individueller Qualität“",
-    "datum": "26.11.",
-    "stufe": "sonstiges",
-    "summary": "St. Paulis Trainer Marcel Rapp attestiert Dynamo Dresden vor dem Duell am Samstag fehlende individuelle Qualität, warnt aber vor dem Gegner. St. Pauli wartet noch auf den ersten Auswärtssieg der Saison."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "31c022b679",
-  "schluessel": "dresden|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Dresden",
-  "klubs": [
-   "Dresden",
-   "St. Pauli"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Dynamo Dresden: Bundesliga-Absteiger St. Pauli sucht in Dresden nach Konstanz",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOckRrOG95eFd2U3MxMXoyTVlFM2JHT0I3bVRMeGl6TU1fcVNTSVZUMWluTFFVT0g2NnVHdGVNeEtBNTNXN1BsODUzZHBGWHdBMDJxa2JpcW5UbWJjNTlVUU9oeW9MckZocDAteDdpRmFuUHpBMm1UZmdSclFiS2lRcUNLWjdzbml5T0dDMDVENFI3Z296R3RTUUw5NzV6TFRfSkRtVHZHMnc1YWhTbnV1SnY5V082WTVfVkVUd0pRZDRWUU1PUmhhYk4wR3Fqc1htNTFRQkV4TQ?oc=5",
-    "aid": "ab7e74d33d",
-    "titel": "Dynamo Dresden: Bundesliga-Absteiger St. Pauli sucht in Dresden nach Konstanz",
-    "quelle": "Lausitzer Rundschau",
-    "beschr": " Dynamo Dresden: Bundesliga-Absteiger St. Pauli sucht in Dresden nach Konstanz &nbsp;&nbsp; Lausitzer Rundschau ",
-    "zeit": "2026-11-26T18:00"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-26T21:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "8d85271f3c",
-  "schluessel": "hannover|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hannover",
-  "klubs": [
-   "Hannover",
-   "Osnabrück"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Hannover will in Osnabrück Aufwärtstrend fortsetzen",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZE84NzAyRFhSZE1hMmV3Z05YeTIyYjFOX3F0TW9iM0hNRFZRdTliQVppZE9qTDRCNlVxS3ZmUVZuWXBGTElJcVpEUGZiYXhaRE9BNjVGaTl4R0RIY2ZneFJlS0RKZFZXc1Voc0l1aGdkU0pXUE9mOHFvbzZHeUtwcy14OEVEVEtvWGxNRmhidVdDZmFxZlFnUzNiUnE?oc=5",
-    "aid": "a16eef69ce",
-    "titel": "Hannover will in Osnabrück Aufwärtstrend fortsetzen",
-    "quelle": "NDR.de",
-    "beschr": " Hannover will in Osnabrück Aufwärtstrend fortsetzen &nbsp;&nbsp; NDR.de ",
-    "zeit": "2026-11-26T15:21"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-26T21:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "17a6e5f546",
-  "schluessel": "kiel|transfer",
-  "person": "",
-  "spieler": [],
-  "klub": "Kiel",
-  "klubs": [
-   "Kiel",
-   "Kaiserslautern"
-  ],
-  "stufe": "geruecht",
-  "klasse": "transfer",
-  "titel": "Ausfälle, Abstieg und Transfers: Heiße Eisen bei Holstein Kiel vor Duell mit Kaiserslautern",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT2FqMGFZbUhEZW1tZVRwUzFKNjMtUFUwY28tUGE1bXp6TDNfR2owbFZpZC1mVGthekx6TTBoVC01ZDBJQVNFOEFGWTU3N213akhsVl8wRUxRbmRSZlJ3Z1htdUFMT1V6OWp3aXhoVm44eFFaZVZEczZTcW5XcDVFdFc3SXRJQXJuaGdfNnYwMVp3eWltVzVpUFJUeUZGRUdlT3B5MDBubUxKSmIyb3hnTXdfbU9VSEd1UlVR?oc=5",
-    "aid": "eaa0e135c6",
-    "titel": "Ausfälle, Abstieg und Transfers: Heiße Eisen bei Holstein Kiel vor Duell mit Kaiserslautern",
-    "quelle": "shz.de",
-    "beschr": " Ausfälle, Abstieg und Transfers: Heiße Eisen bei Holstein Kiel vor Duell mit Kaiserslautern &nbsp;&nbsp; shz.de ",
-    "zeit": "2026-11-26T18:17"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-26T21:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "91e25064dc",
-  "schluessel": "karlsruhe|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Karlsruhe",
-  "klubs": [
-   "Karlsruhe"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Beim KSC kündigen sich Neuigkeiten zu Louey Ben Farhat an",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZFdpc0llWjhhVU1BTWZxenIyc1NmMUU0SjJBYTVjSHQyWlRUbWljQ19yOHRGb2FiaEhsODhLVXRkQWt6ZkxkSUVncWl6aVI3eU5NVmlTbkJaVGhrRmd4aEtjYmJIVm1hc1FQSnVDaFlZbWlBLTdTOHJxU0JlLU9vQUpzWG05RGFnUnBnS25kOGIzRjRkdDB0NWtn?oc=5",
-    "aid": "7b7ed19585",
-    "titel": "Beim KSC kündigen sich Neuigkeiten zu Louey Ben Farhat an",
-    "quelle": "Badische Neueste Nachrichten",
-    "beschr": " Beim KSC kündigen sich Neuigkeiten zu Louey Ben Farhat an &nbsp;&nbsp; Badische Neueste Nachrichten ",
-    "zeit": "2026-11-26T13:15"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-26T21:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "222fe0daf8",
-  "schluessel": "karlsruhe|verletzung",
-  "person": "",
-  "spieler": [],
-  "klub": "Karlsruhe",
-  "klubs": [
-   "Karlsruhe"
-  ],
-  "stufe": "rueckkehr",
-  "klasse": "verletzung",
-  "titel": "KSC-Leihe soll vorzeitig enden – Louey Ben Farhat vor Rückkehr zum SC Freiburg",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR25iMHpQRE9zMDdueFFJMC1JaExsdDJZcVNjaEJsdzc1YkpLRS1mNDRRMGJXdXdaSXZFSFBOaVlESmtQNnZBLXNNQm1XOVhuSC11SFV5X2pWTWZmQWFoWGFSR2o3MWdjd0hwekhFNHF5Q3FKTnp6bW1DZFBUT0hqVnV3VQ?oc=5",
-    "aid": "ca18740219",
-    "titel": "KSC-Leihe soll vorzeitig enden – Louey Ben Farhat vor Rückkehr zum SC Freiburg",
-    "quelle": "die neue welle",
-    "beschr": " KSC-Leihe soll vorzeitig enden – Louey Ben Farhat vor Rückkehr zum SC Freiburg &nbsp;&nbsp; die neue welle ",
-    "zeit": "2026-11-26T11:32"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "u",
-  "erstmals": "2026-11-26T21:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "30dfb2e611",
-  "schluessel": "karlsruhe|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Karlsruhe",
-  "klubs": [
-   "Karlsruhe"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Leih-Abbruch beim KSC für Ben Farhat? \"Noch nichts entschieden\"",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd2pyY0RYQ1BpVm01Mjh4N2JjQlJpd05HWF9pNkVzR3c5ak1lT2xOa3dnOEpaWS1Lb2IwbmNLTm1GZ2hIRjEzUEJRMlZBV0Q2NTdIaGpYVVNvdXZnMzBfRlV5MzZjYlVtQTl3LUlBSGFyOWd0bHJJTFVyS212M2lyT1k4enRsS0MwMFBLLXNRZUhDVFZhVVRTLUlmS3JvR2lk?oc=5",
-    "aid": "014c038f82",
-    "titel": "Leih-Abbruch beim KSC für Ben Farhat? \"Noch nichts entschieden\"",
-    "quelle": "Kicker",
-    "beschr": " Leih-Abbruch beim KSC für Ben Farhat? \"Noch nichts entschieden\" &nbsp;&nbsp; Kicker ",
-    "zeit": "2026-11-26T16:55"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "u",
-  "erstmals": "2026-11-26T21:01",
-  "archiv": [],
-  "versuche": 2
- },
- {
   "id": "f24b280ed4",
   "schluessel": "karlsruhe|sonstiges",
   "person": "",
@@ -359,7 +26,7 @@
   "status": "u",
   "erstmals": "2026-11-27T06:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "fcf7e9795a",
@@ -389,7 +56,7 @@
   "status": "n",
   "erstmals": "2026-11-27T06:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "0c28a8ab9e",
@@ -418,7 +85,7 @@
   "status": "u",
   "erstmals": "2026-11-27T06:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "b9f423084e",
@@ -447,7 +114,7 @@
   "status": "n",
   "erstmals": "2026-11-27T06:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "92bc4fc3fc",
@@ -485,7 +152,7 @@
     "summary": "Vor dem Heimspiel gegen Darmstadt am 27. November rückt Bochums Stürmer Philipp Hofmann in den Fokus, der gegen die Lilien zehnmal traf. Bochum hat die Liga-Bestwerte in der Defensive nach der Pause, aber nur elf Saisontore."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "1b0220b845",
@@ -514,6 +181,156 @@
   "prio": 2,
   "status": "n",
   "erstmals": "2026-11-27T06:01",
+  "archiv": [],
+  "versuche": 2
+ },
+ {
+  "id": "9db09ae2bd",
+  "schluessel": "darmstadt|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Darmstadt",
+  "klubs": [
+   "Darmstadt"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Zweiter Anlauf in Darmstadt: Marco Richter zwischen Neustart & großen Träumen",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUEdJdU9DRFBpWk9Ianp0UW9JNFZTbFZ2ejREMTVqN1VyaWlNWEM1MTFtejhSbWVWQlVBeUJ0VWxWMkFOcllfU3BoelA5ZHY1NDZpYk51ekVBUl9IZW5TWDQ1NWk4S3U1YXdtbjhTR2lVTThST2duczVNYUdiQkRZeEphOG05NDFmZzVFaFV2MW01bEc4OHBoQ0R3WmtGY0lNbFR6SFNydkctWktoWWcxU09KVVpuX2tMdjFqR3l0akdUel9Obkk0dA?oc=5",
+    "aid": "73d9269423",
+    "titel": "Zweiter Anlauf in Darmstadt: Marco Richter zwischen Neustart & großen Träumen",
+    "quelle": "Sky.de",
+    "beschr": " Zweiter Anlauf in Darmstadt: Marco Richter zwischen Neustart & großen Träumen &nbsp;&nbsp; Sky.de ",
+    "zeit": "2026-11-27T08:58"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-27T09:01",
+  "archiv": [
+   {
+    "id": "1440adca65",
+    "titel": "Bochum vor Darmstadt: Hofmann trifft gerne gegen die Lilien",
+    "datum": "25.11.",
+    "stufe": "sonstiges",
+    "summary": "Vor dem Heimspiel gegen Darmstadt am 27. November rückt Bochums Stürmer Philipp Hofmann in den Fokus, der gegen die Lilien zehnmal traf. Bochum hat die Liga-Bestwerte in der Defensive nach der Pause, aber nur elf Saisontore."
+   },
+   {
+    "id": "c23a312d35",
+    "titel": "Darmstadt: Fernie warnt vor dem Schlafwandeln im Abstiegskampf",
+    "datum": "20.11.",
+    "stufe": "sonstiges",
+    "summary": "Darmstadts Sportchef Paul Fernie stellt sich vor dem Heimspiel gegen Heidenheim hinter Trainer Florian Kohfeldt. Er warnt vor Schlafwandeln im Abstiegskampf, der Klub steht auf Rang 17."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "67ac8341f3",
+  "schluessel": "osnabruck|kader",
+  "person": "",
+  "spieler": [],
+  "klub": "Osnabrück",
+  "klubs": [
+   "Osnabrück",
+   "Hannover"
+  ],
+  "stufe": "kader",
+  "klasse": "kader",
+  "titel": "VfL Osnabrück vs. Hannover 96: voraussichtliche Aufstellungen",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd2lXMW40NllRbUpqZWdFZHNEMjNaQ2JMVkxOWGlLM01WbGdycF9GNmtWUjkxUm11NHNlaGVQNmxYbGI3aEhNMUFvQS1mUnliZTd0R2w3czJ6NU1RXzR6MTdnWGpjLXB3cXRpRThtRURGUENTdURPRGwxTXo4U0daZ2tib0l6UUpWUDdUSGN1dmRDQzl1WURmWTdvVkRWd1planBvU29lRXVBXzBTRy1j?oc=5",
+    "aid": "ff0162bfb8",
+    "titel": "VfL Osnabrück vs. Hannover 96: voraussichtliche Aufstellungen",
+    "quelle": "Tipico",
+    "beschr": " VfL Osnabrück vs. Hannover 96: voraussichtliche Aufstellungen &nbsp;&nbsp; Tipico ",
+    "zeit": "2026-11-27T08:21"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-27T09:01",
+  "archiv": [
+   {
+    "id": "8722fa6e26",
+    "titel": "Hannover 96 reist mit Rückenwind nach Osnabrück, Källmann fehlt",
+    "datum": "26.11.",
+    "stufe": "kader",
+    "summary": "Hannover 96 spielt am Samstag um 20:30 Uhr in Osnabrück und muss auf den verletzten Källmann verzichten. Zuletzt gewann 96 durch ein spätes Tor von Taibi und liegt auf Rang neun."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "c266f8d3fa",
+  "schluessel": "wolfsburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Wolfsburg",
+  "klubs": [
+   "Wolfsburg",
+   "Braunschweig",
+   "Frankfurt"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Das rät Derby-Held Vieirinha dem VfL Wolfsburg für den Kracher bei Eintracht Braunschweig",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPV2xpR3ZZVG5LTEFQM3V3eW92SmhwRDFyWnpkMFVTOWxhbDBGblVQMEhzNkEteVR3V09rejRZRWExaW55dnljdGZUYVl2VWpJeV96RmFrc0ZrNm9Uc2VEZS1jbC1RZW8zQ0cwdFhMU1Z6eGVDWHZxdW9jdTFvOTMwcnJDeTFmcVp4OG1fUkthaERFXzV5TzlSYXQybVJRRUM0Uy0zVDdsRTE5VVN5QVJvdVJ1Y3lCTEJFcHhfZG8zTFd1UmxGNG5NNllfdDVmdEx0VVpPYzgyT2wyMlhta2sxb2xtLWotOC1PdzRnNzEzZkxiOWVmcGR30gGTAkFVX3lxTE1IQUE0YmgyelZpYmZTVjV3WmJoZWpfdG5MaEQ0a1daWC1pZUZMdWJVUFZjVU1BY05jc2RtTlF0ZVVjSzZ6UGRHY0FEUnNGMkJIdUNSNVpvdDRVTTAxRU5Rc3R4UFJSYmhVQ2pmMWtDVnBmWWM1bTNUY2ZGaFVuRjdaTEFmdDNHTzdrRXE5RWRaOVRzaGVESDU2Z1l6eGxhcEpnNkgzekQ2NmQzOE1ad1htN1liNHhxeFNfdjQwU0szenlrbzY3T2lNejBKMloxWlhTNjRpNVpUempzZ0U3dHV1aGRxOWNTLXdKM0h6Q0Q3LXlqbXoxRDl4MndsbzVwZ01iTGFzTm1IUzFaVjNVcU1aeEZV?oc=5",
+    "aid": "f302372f01",
+    "titel": "Das rät Derby-Held Vieirinha dem VfL Wolfsburg für den Kracher bei Eintracht Braunschweig",
+    "quelle": "WAZ-ONLINE.de",
+    "beschr": " Das rät Derby-Held Vieirinha dem VfL Wolfsburg für den Kracher bei Eintracht Braunschweig &nbsp;&nbsp; WAZ-ONLINE.de ",
+    "zeit": "2026-11-27T06:07"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-27T09:01",
+  "archiv": [
+   {
+    "id": "50d28cfdd6",
+    "titel": "Wolfsburgs Kumbedi debütiert für Frankreich und beerbt Trezeguet",
+    "datum": "13.11.",
+    "stufe": "sonstiges",
+    "summary": "Wolfsburgs Saël Kumbedi hat beim 1:3 in Italien sein Debüt für Frankreichs A-Nationalmannschaft gegeben. Er ist der erste aktive Zweitliga-Spieler seit fast 20 Jahren im Kader der Equipe Tricolore."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "269a927c93",
+  "schluessel": "hannover|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hannover",
+  "klubs": [
+   "Hannover"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Nur die Ruhe? Hannover 96 befindet sich im Aufwind – und doch noch mitten im Chaos",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLXVXS0lBLXJISm9LVGExM0dKckF1UkxDMXlOUWR0bkFkSXlOc21GbllzbzJ0dm1GTFo3QmVxUWJTMGRveVB6SS1hZUt2VkczOEViQVVKOEwtVVhST3FsM250a1VGbHdsdE5GYzg0bUx5dGtZUDhuel81bDVNMTdCMGJYcTJBcTN4ZFN1eG5hdnJUcVFGVGUxQTRuMEozeDcxT25QLXVUQW5tbkV1NUh2d1FlQTZnUQ?oc=5",
+    "aid": "056355aea7",
+    "titel": "Nur die Ruhe? Hannover 96 befindet sich im Aufwind – und doch noch mitten im Chaos",
+    "quelle": "noz.de",
+    "beschr": " Nur die Ruhe? Hannover 96 befindet sich im Aufwind – und doch noch mitten im Chaos &nbsp;&nbsp; noz.de ",
+    "zeit": "2026-11-27T06:00"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-27T09:01",
   "archiv": [],
   "versuche": 1
  }
