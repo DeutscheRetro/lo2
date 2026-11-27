@@ -5252,5 +5252,29 @@
     },
     "published_at": "2026-11-27T18:05:44.192286",
     "source": "MOPO"
+  },
+  {
+    "id": "a6f7ff271f",
+    "generated_title": "Bochum siegt spät gegen Darmstadt und setzt sich von der Zone ab",
+    "original_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONkdtYUJ6dFFfS0w3R0NHMTBfRVd5R0ppcF9tQ0dZRkkxTEkwMUxVcDNaX1ljOUFGRUxFSlpwQzk5U3BsVDZiQnNrV3QyX0ZlX3U2MnpDS1haT2FscXJSam5Id1k5cUFzb3NmU1pWek50bzVzck5aME5FSG02VnJGNnVWVGxrdmxlak5KY2t5ODB4RFBvYjZjX2hZcDQtc0RjSGxsYVNQZEJ4QQ?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Bochum",
+      "event_stage": "spielbericht",
+      "main_teams": [
+        "Bochum",
+        "Darmstadt"
+      ],
+      "main_players": [
+        "Philipp Hofmann",
+        "Berkan Taz",
+        "Timo Horn"
+      ],
+      "summary": "Der VfL Bochum besiegt Darmstadt 98 mit 2:0 durch späte Tore von Philipp Hofmann und Berkan Taz. Darmstadt bleibt nach der sechsten Auswärtsniederlage auf dem Relegationsplatz.",
+      "one_sentence_summary": "Der VfL Bochum besiegt Darmstadt 98 mit 2:0 durch späte Tore von Philipp Hofmann und Berkan Taz.",
+      "schluessel": "philipp hofmann|spiel"
+    },
+    "published_at": "2026-11-27T21:03:45.944835",
+    "source": "SPORT1"
   }
 ]

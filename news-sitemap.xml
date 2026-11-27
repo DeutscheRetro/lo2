@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://2liga.ligaoutsider.de/artikel/bochum-siegt-spaet-gegen-darmstadt-und-setzt-sich-von-der-zone-ab-a6f7ff271f.html</loc>
+    <news:news>
+      <news:publication><news:name>Ligaoutsider</news:name><news:language>de</news:language></news:publication>
+      <news:publication_date>2026-11-27T21:03:00+01:00</news:publication_date>
+      <news:title>Bochum siegt spät gegen Darmstadt und setzt sich von der Zone ab</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://2liga.ligaoutsider.de/artikel/nuernberg-erwaegt-oeffentlichere-rolle-fuer-technischen-direktor-487950c114.html</loc>
     <news:news>
       <news:publication><news:name>Ligaoutsider</news:name><news:language>de</news:language></news:publication>
@@ -158,14 +166,6 @@
       <news:publication><news:name>Ligaoutsider</news:name><news:language>de</news:language></news:publication>
       <news:publication_date>2026-11-26T12:03:00+01:00</news:publication_date>
       <news:title>Hertha verlängert mit Paul Seguin bis 2028</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://2liga.ligaoutsider.de/artikel/hannover-96-stellt-gabor-ruhr-als-neuen-sportdirektor-vor-6a0e79b8ab.html</loc>
-    <news:news>
-      <news:publication><news:name>Ligaoutsider</news:name><news:language>de</news:language></news:publication>
-      <news:publication_date>2026-11-25T21:03:00+01:00</news:publication_date>
-      <news:title>Hannover 96 stellt Gabor Ruhr als neuen Sportdirektor vor</news:title>
     </news:news>
   </url>
 </urlset>

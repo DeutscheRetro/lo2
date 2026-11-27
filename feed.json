@@ -1,5 +1,35 @@
 [
   {
+    "id": "a6f7ff271f",
+    "titel": "Bochum siegt spät gegen Darmstadt und setzt sich von der Zone ab",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "27.11.2026 21:03",
+    "wappen_url": "logos/bochum.png",
+    "vereine": [
+      "Bochum",
+      "Darmstadt"
+    ],
+    "anriss": "Der VfL Bochum hat sich mit einem 2:0 (0:0) gegen Darmstadt 98 vorerst von der Abstiegszone verabschiedet. Philipp Hofmann (81.) und Berkan Taz (90.+4) erzielten die späten Tore zum zweiten Heimsieg der Westfalen. Bochum liegt nun fünf Punkte vor den Lilien. Darmstadt verlor die sechste",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Bochum",
+    "pfad": "artikel/bochum-siegt-spaet-gegen-darmstadt-und-setzt-sich-von-der-zone-ab-a6f7ff271f.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    },
+    "n11": false
+  },
+  {
     "id": "487950c114",
     "titel": "Nürnberg erwägt öffentlichere Rolle für Technischen Direktor Bischof",
     "kategorie": "news",
