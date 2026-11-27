@@ -5185,5 +5185,72 @@
     },
     "published_at": "2026-11-27T15:04:45.021779",
     "source": "LIGABlatt"
+  },
+  {
+    "id": "436815e56b",
+    "generated_title": "Fürths Kapitän Klaus vor Comeback gegen Bielefeld",
+    "original_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSVFJNGNPWHNib3NZVXJXaHFWZW1Bb2lvODN4RnVGV2V3UXhRVjRhTVZFUlA1LW1IX3JYNFRNVGJ5a3FhNk5CYkJGRkN0eFJUbm9CWUNXUmtOMTE1SkdIU2YxZzdOVEQzMnV0bWtWVWNVMUVpWC1HS2xBc1J4OHdBeVRNZFlZaUJVcXA2M19XZXgwdnpPbG9JRW1JM1RBY21GVGplN2JpZnRtdEN1a28wa3daZDdDMkNYUTdkNDlSWnVnV0dTZGlCQ0lUWE9WRnRTSTA2TW81QUd4LXF3Z0lDYldXU0Q?oc=5",
+    "fingerprint": {
+      "event_type": "verletzung",
+      "main_club": "Fürth",
+      "event_stage": "rueckkehr",
+      "main_teams": [
+        "Bielefeld",
+        "Fürth",
+        "Hannover"
+      ],
+      "main_players": [
+        "Felix Klaus",
+        "Heiko Vogel"
+      ],
+      "summary": "Fürths Kapitän Felix Klaus steht nach einer Sehnenreizung im Fuß vor dem Comeback und ist laut Trainer Heiko Vogel eine „sehr wahrscheinliche Option“ gegen Bielefeld. Klaus hat die Hälfte aller Fürther Saisontore erzielt.",
+      "one_sentence_summary": "Fürths Kapitän Felix Klaus steht nach einer Sehnenreizung im Fuß vor dem Comeback und ist laut Trainer Heiko Vogel eine „sehr wahrscheinliche Option“ gegen Bielefeld.",
+      "schluessel": "felix klaus|verletzung"
+    },
+    "published_at": "2026-11-27T18:05:44.071691",
+    "source": "SZ.de"
+  },
+  {
+    "id": "487950c114",
+    "generated_title": "Nürnberg erwägt öffentlichere Rolle für Technischen Direktor Bischof",
+    "original_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYjd2Tkt0Q0NxSGlkcUsxakR1TnpGcS00NDRUVm1fS3VsajY5ZllROENVUmJNMGw1RHhHU0M4b0NuS1NkdlhtM09udkpsX1pqakZSeC0zSl9rMERVczBnX2t2NFlDb2hxcjEtYjU1SHZDeE1mUXN6ZWlhaS1vVUJsZDJpN0RhdG1qNF9SbERZWVVkWHprY3U2VG9aM1hVRW9jZHRSMEZPQlpETFFkUGxuQVhqcGNOemVuRUQyRlF4UXEwNWpFN1NV?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Nürnberg",
+      "event_stage": "sonstiges",
+      "main_teams": [
+        "Nürnberg"
+      ],
+      "main_players": [
+        "Michael Bischof"
+      ],
+      "summary": "Nürnberg erwägt, Technischen Direktor Michael Bischof nach dem Wechsel an der Sportspitze öffentlich stärker einzubinden. Trotz Frankfurter Interesses ist ein Wechsel laut „Bild“ noch nicht konkret.",
+      "one_sentence_summary": "Nürnberg erwägt, Technischen Direktor Michael Bischof nach dem Wechsel an der Sportspitze öffentlich stärker einzubinden.",
+      "schluessel": "michael bischof|sonstiges"
+    },
+    "published_at": "2026-11-27T18:05:44.131576",
+    "source": "BILD"
+  },
+  {
+    "id": "01f2acb69c",
+    "generated_title": "St. Pauli: Smith und Fujita überzeugen und wecken wieder Begehrlichkeiten",
+    "original_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMzZUdmRuMzlPVnhGQlFGS2ZYeVdVQlNKQWpHNzNOWFl2TkhvaENzMTl1NV9mb2JxWGc4TDVHLWp2V3laUlFreXl6bWd6aTNGdk1FMkpya0JXOFdtZ0F0SzJleUFMOTZ5d0x4VTU4MHhjempOTjVJOHlCQVlTTFY1RHlYQi1GRVlBbkVBd0RXSVNpcTFzRG50amItUXp1V3paMko3aXR0NU1Mc1UxVlVMdDR2OEhsTlEzcm5j?oc=5",
+    "fingerprint": {
+      "event_type": "analyse",
+      "main_club": "St. Pauli",
+      "event_stage": "sonstiges",
+      "main_teams": [
+        "St. Pauli"
+      ],
+      "main_players": [
+        "Eric Smith",
+        "Joel Chima Fujita"
+      ],
+      "summary": "Eric Smith und Joel Chima Fujita überzeugen beim FC St. Pauli wieder und wecken damit erneut Wechselgedanken. Smiths Vertrag läuft im Sommer aus, das Wechselfenster öffnet im Januar.",
+      "one_sentence_summary": "Eric Smith und Joel Chima Fujita überzeugen beim FC St.",
+      "schluessel": "eric smith|sonstiges"
+    },
+    "published_at": "2026-11-27T18:05:44.192286",
+    "source": "MOPO"
   }
 ]
