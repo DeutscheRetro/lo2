@@ -1,67 +1,7 @@
 [
  {
-  "id": "1c576b7a2c",
-  "schluessel": "ingolstadt|kader",
-  "person": "",
-  "spieler": [],
-  "klub": "Ingolstadt",
-  "klubs": [
-   "Ingolstadt",
-   "Regensburg"
-  ],
-  "stufe": "kader",
-  "klasse": "kader",
-  "titel": "Aufstellung | FC Ingolstadt 04 - Jahn Regensburg : | 15. Spieltag | 3. Liga 2026/27",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUlZNdWpEZnc4NENnQ1NraTUtLUZrcEliUEt2WWx4Y0R5SUlUUzRYbE5QR3ZFQ1BnVmw0SmV0dGlKMnFFVnl5VHBaZFBxNVFXZFVDeXI3MlFycHltM3JEV1ZIWnhYV0JDZWxLcEVsS0F3ajBEay01SXY0VnlOOWJKd0lVMFlwZw?oc=5",
-    "aid": "4848a09c3f",
-    "titel": "Aufstellung | FC Ingolstadt 04 - Jahn Regensburg : | 15. Spieltag | 3. Liga 2026/27",
-    "quelle": "kicker",
-    "beschr": " Aufstellung | FC Ingolstadt 04 - Jahn Regensburg : | 15. Spieltag | 3. Liga 2026/27 &nbsp;&nbsp; kicker ",
-    "zeit": "2026-11-26T03:20"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-26T23:47",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "02a0d6d5d2",
-  "schluessel": "wurzburg|kader",
-  "person": "",
-  "spieler": [],
-  "klub": "Würzburg",
-  "klubs": [
-   "Würzburg",
-   "Düsseldorf"
-  ],
-  "stufe": "kader",
-  "klasse": "kader",
-  "titel": "Aufstellung | Würzburger Kickers - Fortuna Düsseldorf : | 15. Spieltag | 3. Liga 2026/27",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVjFkd09fWEc0SXJNUU5yWlVBaTZFaWhzdTVuRTdUV3ZGQlRJWjhRZmdqRGVkdzl2ejVlQnhmeFUtMHdYaW1MajF5a2p3b011Q0g3VkxfUGJOZE5wMXJReThrelo4aHAyVV9TazBJQTEzaFNYYV9FdS1GWWI3dXlZTThSN0lzdw?oc=5",
-    "aid": "8a7de4e6ad",
-    "titel": "Aufstellung | Würzburger Kickers - Fortuna Düsseldorf : | 15. Spieltag | 3. Liga 2026/27",
-    "quelle": "kicker",
-    "beschr": " Aufstellung | Würzburger Kickers - Fortuna Düsseldorf : | 15. Spieltag | 3. Liga 2026/27 &nbsp;&nbsp; kicker ",
-    "zeit": "2026-11-26T00:23"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-26T23:47",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "f10fa6f9e4",
-  "schluessel": "rostock|kader",
+  "id": "3556c40414",
+  "schluessel": "rostock|sonstiges",
   "person": "",
   "spieler": [],
   "klub": "Rostock",
@@ -69,54 +9,564 @@
    "Rostock",
    "Havelse"
   ],
-  "stufe": "kader",
-  "klasse": "kader",
-  "titel": "Aufstellung | Hansa Rostock - TSV Havelse : | 15. Spieltag | 3. Liga 2026/27",
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "LIVE! Duell der Sorgenkinder: Rostock gegen Schlusslicht Havelse gefordert",
   "quellen": [
    {
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ubHVPbG5hVGprazFPOWNvb09OS1hzakhIMkpmVHdhMHFydTE1UmVsQUpHMTVmNFVVX0lZeGNpcmNxRUphRU9kZFhyeTBjTzg2R2diWElRaXNEMDN3eFZ0X2dPeVl1aDFKam1lOU9RVG1iY3R4akYxQkNCTmVLZw?oc=5",
-    "aid": "19842b6477",
-    "titel": "Aufstellung | Hansa Rostock - TSV Havelse : | 15. Spieltag | 3. Liga 2026/27",
-    "quelle": "kicker",
-    "beschr": " Aufstellung | Hansa Rostock - TSV Havelse : | 15. Spieltag | 3. Liga 2026/27 &nbsp;&nbsp; kicker ",
-    "zeit": "2026-11-26T00:12"
+    "url": "https://www.kicker.de/rostock-gegen-havelse-2026-liga-5233354/spielbericht#omrss",
+    "aid": "012fde0936",
+    "titel": "LIVE! Duell der Sorgenkinder: Rostock gegen Schlusslicht Havelse gefordert",
+    "quelle": "kicker 3. Liga News",
+    "beschr": "Zum Auftakt des 15. Spieltags gastiert Schlusslicht TSV Havelse am Freitagabend ab 19 Uhr bei Hansa Rostock, das zuletzt nur einen Sieg aus den letzten sechs Partien holte.",
+    "zeit": "2026-11-27T18:00"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-27T18:46",
+  "archiv": [
+   {
+    "id": "053754865d",
+    "titel": "Hansa Rostock gegen Havelse: Beide Teams suchen die Wende",
+    "datum": "25.11.",
+    "stufe": "sonstiges",
+    "summary": "Hansa Rostock trifft als Tabellenzwölfter mit 19 Punkten auf den TSV Havelse, der nach der 1:6-Niederlage gegen Viktoria Köln auf Rang 20 steht. Beide Teams gewannen aus den letzten fünf Partien nur einmal."
+   },
+   {
+    "id": "3a2191f044",
+    "titel": "Hansa Rostock vor dem Spiel der Wahrheit in Duisburg",
+    "datum": "20.11.",
+    "stufe": "sonstiges",
+    "summary": "Hansa Rostock spielt am Sonntag beim MSV Duisburg und hat gegen die aktuellen Top-5-Teams bislang nur zwei Punkte aus drei Spielen geholt. Gegentore fielen mehrfach über den zweiten Pfosten."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "31a6790203",
+  "schluessel": "wurzburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Würzburg",
+  "klubs": [
+   "Würzburg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "DFB verhängt Geldstrafe: Die Würzburger Kickers müssen zum zweiten Mal für Zuspätkommen bezahlen",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQM0QwbDR1cXV4dFh6WGs5dVVwQUlLeUZBbFpRc1R4YzhKamx5LXE1dEFLcURmSkpVelp4aVlmZDJJRGRXQVJyZ1Q3UXNyTlVteDVITGJPNFpqbk1uYUM4WTBUTHFPalEtRDhMRjcxUGFtZjAza2tTdGcyNlV2NHJoMldwRmp0WklXVml1TGxPaEZ3aHk5dDMyZmpPOHJnUi1hRThPV3E1N2ZkMjRiRVVKVmVLMHdSeFpNOXRWb3pxSThJUkE5SENiQUNHSEhyS2FyRFlsVEJuWDlzblk3emdoLTlRTXFyLUNPaDN4cXRJUGNFODN4eU1mLVIxMko?oc=5",
+    "aid": "a5f4213f34",
+    "titel": "DFB verhängt Geldstrafe: Die Würzburger Kickers müssen zum zweiten Mal für Zuspätkommen bezahlen",
+    "quelle": "Main-Post",
+    "beschr": " DFB verhängt Geldstrafe: Die Würzburger Kickers müssen zum zweiten Mal für Zuspätkommen bezahlen &nbsp;&nbsp; Main-Post ",
+    "zeit": "2026-11-27T06:33"
    }
   ],
   "archiv_status": "neu",
-  "prio": 3,
+  "prio": 2,
   "status": "n",
-  "erstmals": "2026-11-26T23:47",
+  "erstmals": "2026-11-27T18:46",
   "archiv": [],
-  "versuche": 2
+  "versuche": 1
  },
  {
-  "id": "c5225e1d2c",
-  "schluessel": "rw essen|kader",
+  "id": "f1828b5d81",
+  "schluessel": "wurzburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Würzburg",
+  "klubs": [
+   "Würzburg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "„Zwei Schritte nach vorn entwickelt“: Trainer Michael Schiele sieht die Würzburger Kickers im Aufwind",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQU0ZoUkhMTmtYMWlIbDljYnd6ZTFpdzFIMUk0djZ6aHc1djVXVGpjSnNjN01XTTBoaGVxZXl4Sl82LWFUUnNJcEc4YjRjLThyaXJmSmJma1p5ZEp0OGtWZnRkc05OaDNVd25LNmM1alhGRG1Pa3I1RVc0OS05cW1UWHpidm5RZEFldHFaaS1qS2NocnFodGVzVWpWamp0NXFtdlowTFllbS1UbUpPNTc5QndXakYxV2ZGb1puQTRjUnFsZnh4RkU3MDhPSGFwTmNvUHQ5Ums4bTVxT2l5UGFSSjYxNlVxSFB4WE5RenZpQlMwRTFkQV9jQg?oc=5",
+    "aid": "6b0845aea6",
+    "titel": "„Zwei Schritte nach vorn entwickelt“: Trainer Michael Schiele sieht die Würzburger Kickers im Aufwind",
+    "quelle": "Main-Post",
+    "beschr": " „Zwei Schritte nach vorn entwickelt“: Trainer Michael Schiele sieht die Würzburger Kickers im Aufwind &nbsp;&nbsp; Main-Post ",
+    "zeit": "2026-11-27T15:07"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-27T18:46",
+  "archiv": [
+   {
+    "id": "a1cdb75fed",
+    "titel": "Regensburg gegen Würzburg: Zwei Teams in der Tabellenmitte treffen aufeinander",
+    "datum": "18.11.",
+    "stufe": "sonstiges",
+    "summary": "Regensburg empfängt am Samstag um 14:00 Uhr Würzburg. Beide Teams verloren zuletzt und liegen in der Tabelle nah beieinander."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "ba5a2df625",
+  "schluessel": "rw essen|sonstiges",
   "person": "",
   "spieler": [],
   "klub": "RW Essen",
   "klubs": [
-   "RW Essen",
-   "Hoffenheim II"
+   "RW Essen"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "RWE: Koschinat adelt Ben Hüning – im Sommer möchte der Abwehrchef raus aus Liga 3",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQWRCaER0aGc5N0QyRVJUZDhuVWpKUTVhMFlPb0hMVXNER3RsZk9ucTh5Ni1BY3NBcXBaUVdPeUZzV2E5S2gzb1NMWEI1X2VMQ1NzNWpKVnlfczNSWkdGcGxjZDRQMk9jNENlaENKd3prTU9iRHEydXlla052OEFyRkFKNUhpQW1IYWNGQjB6azNIUXh2c0VhRzVJdFpCc1FZeXVsOVpkM3dJVDN5di13dVNSVTB1MlFaTmo4Mm0xQ1J6bFVkdXRvSU9zc19JOWVJWnpaVERWU2RrcVE?oc=5",
+    "aid": "fb67afc94d",
+    "titel": "RWE: Koschinat adelt Ben Hüning – im Sommer möchte der Abwehrchef raus aus Liga 3",
+    "quelle": "WAZ | Westdeutsche Allgemeine Zeitung",
+    "beschr": " RWE: Koschinat adelt Ben Hüning – im Sommer möchte der Abwehrchef raus aus Liga 3 &nbsp;&nbsp; WAZ | Westdeutsche Allgemeine Zeitung ",
+    "zeit": "2026-11-27T17:44"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-27T18:46",
+  "archiv": [
+   {
+    "id": "f8aabd22db",
+    "titel": "Verl vor Essen: Schwächste Abwehr trifft auf beste Defensive",
+    "datum": "18.11.",
+    "stufe": "sonstiges",
+    "summary": "Der SC Verl empfängt Rot-Weiss Essen mit vier Niederlagen in Folge und der schwächsten Abwehr im direkten Vergleich. Essen stellt mit 13 Gegentoren die beste Defensive der 3. Liga."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "7050d160c0",
+  "schluessel": "duisburg|kader",
+  "person": "",
+  "spieler": [],
+  "klub": "Duisburg",
+  "klubs": [
+   "Duisburg"
   ],
   "stufe": "kader",
   "klasse": "kader",
-  "titel": "Aufstellung | Rot-Weiss Essen - TSG Hoffenheim II : | 15. Spieltag | 3. Liga 2026/27",
+  "titel": "MSV-Trainer Dietmar Hirsch arbeitet nach dem Aufstehen am Startelf-Puzzle",
   "quellen": [
    {
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZnZXdjFQOGxVV0JyUklOelU1T1pVdDdOS3pZNzRuVTRwN3hpbnZHQWkycjRCUWp5NmhUTHRYajJxNGVmaFg2TzFfQzBYNnhHTDRVdmVjV1k0QUdxd3I0MVdHc3VlellfNWJkWVYybm5iczI1YlNKTmxxYVlNT3BidTJqQQ?oc=5",
-    "aid": "af851122ac",
-    "titel": "Aufstellung | Rot-Weiss Essen - TSG Hoffenheim II : | 15. Spieltag | 3. Liga 2026/27",
-    "quelle": "kicker",
-    "beschr": " Aufstellung | Rot-Weiss Essen - TSG Hoffenheim II : | 15. Spieltag | 3. Liga 2026/27 &nbsp;&nbsp; kicker ",
-    "zeit": "2026-11-26T00:21"
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZDAxWmZOaC1IRzBMY3pkSF9vZUk4QlE2SkpJUk4xZHl6S3N4Y0RHZER1X0NjczVzelNFVDZxd1R1ZE1vM0JkM2tOc3NJTmhIb3p3SG1xZk1RdWR4a0I2WEdTZF9SSXV2Z20tUWNWLTNWOFJDSHg5WHlFVU5wZG93bXlnenV0RW5LS0NEd081dDFjVmtoemU5bGNKSF8wSnRWQ2JBWUJoakRvTHlRLXh4OUZVMzZnUjd4S2RoX0FPRDgxTFFUaS05bjBvR0hUUQ?oc=5",
+    "aid": "64b813464a",
+    "titel": "MSV-Trainer Dietmar Hirsch arbeitet nach dem Aufstehen am Startelf-Puzzle",
+    "quelle": "NRZ",
+    "beschr": " MSV-Trainer Dietmar Hirsch arbeitet nach dem Aufstehen am Startelf-Puzzle &nbsp;&nbsp; NRZ ",
+    "zeit": "2026-11-27T13:56"
    }
   ],
   "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-27T18:46",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "b3bc3b605a",
+  "schluessel": "rw essen|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "RW Essen",
+  "klubs": [
+   "RW Essen"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "RWE: Kommt Youtube-Star Nader Jindaoui nach Essen? In Hoffenheim hat er Probleme",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdGVnNUZjUDRvOTV6Tmk4VGpORFV2aTFKSHlBelpCYUpJM0tJWEdXM015SlgzbTlGUm1OdVpxd3BqZFVVSmU2dFk2ZHFFdjFCWkZnZ2ZwOFRYZmoyaWstSjRQcDk1NVFxdnRLcGVlR2RBMXREQmJsVXdGVkppYXFqaHlKZmhwby1aQVp6YnVMTHBtZ3llbjJYZGpMMFpxWUlXZjZmaDlWczVxcU9DRUxtdzY1WnNMY3REejAyWk81Sy1XTjZDdzNkbVRSeHFQc1p1YktSdUdCZFE?oc=5",
+    "aid": "d32ec5f7fa",
+    "titel": "RWE: Kommt Youtube-Star Nader Jindaoui nach Essen? In Hoffenheim hat er Probleme",
+    "quelle": "WAZ | Westdeutsche Allgemeine Zeitung",
+    "beschr": " RWE: Kommt Youtube-Star Nader Jindaoui nach Essen? In Hoffenheim hat er Probleme &nbsp;&nbsp; WAZ | Westdeutsche Allgemeine Zeitung ",
+    "zeit": "2026-11-27T08:27"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-27T18:46",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "4566fc3684",
+  "schluessel": "rostock|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Rostock",
+  "klubs": [
+   "Rostock",
+   "Havelse"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "F.C. Hansa Rostock: Vor dem Duell gegen die Mannen aus Havelse - Die Lage bei Rostock",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcXlTMEJyZ2p1NFhXblRsczR1YkR5WEFHaG1ZSW94el9DT3EzSW40cHRyZGsxekoxZVlCdjNSdVRMMGNCUF9zX050aVV0RnhrMDg2cjNrSnVvaUs2bnU3MFljaGZZaWpoVGd5OUVCdkcyNmFJZm5QLVQ0RmFoYWxKVHQ0bmRZaGRVREp2Qi1EWUpxcWp5dHl6cVNxNTBhRmJVaHRIWkh2aEFqeTBxejNIem1uQzlGMlBtTktN?oc=5",
+    "aid": "36fc3eb610",
+    "titel": "F.C. Hansa Rostock: Vor dem Duell gegen die Mannen aus Havelse - Die Lage bei Rostock",
+    "quelle": "News.de",
+    "beschr": " F.C. Hansa Rostock: Vor dem Duell gegen die Mannen aus Havelse - Die Lage bei Rostock &nbsp;&nbsp; News.de ",
+    "zeit": "2026-11-27T09:46"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-27T18:46",
+  "archiv": [
+   {
+    "id": "053754865d",
+    "titel": "Hansa Rostock gegen Havelse: Beide Teams suchen die Wende",
+    "datum": "25.11.",
+    "stufe": "sonstiges",
+    "summary": "Hansa Rostock trifft als Tabellenzwölfter mit 19 Punkten auf den TSV Havelse, der nach der 1:6-Niederlage gegen Viktoria Köln auf Rang 20 steht. Beide Teams gewannen aus den letzten fünf Partien nur einmal."
+   },
+   {
+    "id": "318e4a7d63",
+    "titel": "Hansa Rostock: 13 Punkte Rückstand auf die direkten Aufstiegsplätze",
+    "datum": "24.11.",
+    "stufe": "sonstiges",
+    "summary": "Hansa Rostock liegt als Zwölfter 13 Punkte hinter den direkten Aufstiegsplätzen. Trainer André Breitenreiter verweist nach dem 0:2 in Duisburg auf fehlende Key Moments, am Sonnabend kommt Schlusslicht Havelse."
+   },
+   {
+    "id": "3a2191f044",
+    "titel": "Hansa Rostock vor dem Spiel der Wahrheit in Duisburg",
+    "datum": "20.11.",
+    "stufe": "sonstiges",
+    "summary": "Hansa Rostock spielt am Sonntag beim MSV Duisburg und hat gegen die aktuellen Top-5-Teams bislang nur zwei Punkte aus drei Spielen geholt. Gegentore fielen mehrfach über den zweiten Pfosten."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "dc315771f6",
+  "schluessel": "rostock|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Rostock",
+  "klubs": [
+   "Rostock",
+   "Havelse"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Hansa Rostock: Breitenreiter erkrankt – Einsatz gegen Havelse am Freitag offen",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQem5VMy1IbXRQeHgtelNJM2d2VFhLUzB5V2xTUElWaHpHUVMzTkRNYmU3cDZYME9ZZHh6Qm90TExaeWQ1LVUxSnlUZTBZSVhBX0RFZmdaUDNfYTZCbFptWllrSWRxLXo5a1d2R0VmS3BXNUx5WkRON2hlM3NPMVA1LVV1dHVYZHc1NlhETTBDQW42MHdITnktS3hyZEpObTZfZ0kzSHZNTjltdDdOZzZfUXRVelVrbDhQMUtJa2NBY2psWWlnQThwRDdiaWI0SmRJM1FWM1YwVGxKX2NYX19WX3dEeVVxa1Jm0gGEAkFVX3lxTE1seE9PX2lZYXNITk5LYmQwVUZMdHpCNVlqZkxwZzlyWHl6NDhfN2JIUjI4aFgwUzlib0RWWVJzOFF0b3d5SEljWVRHOTM3TVUzUTEtSTAwSThPUml3R3Q2bDFWN1czcklJZTFPcWh5ZUx0Z3dzZjZneXUwbUNOSC1zOGNVTlZWQXVWRlphNUR1TW12cjNfZzZBcXVtTGZIVU1RM05ReXVuYVRzZDFUVDNsVFNnTVBFZlNUamIyQ20zLU4wS3d6TE9Ha0hrVThxTjIxUWdXcU9qLWVGTUpIb2pzSlA5WnBxbnJBck5yTHlQckJ2NEhyRUNSS2RhQWlzdDQxQk9v?oc=5",
+    "aid": "d6e17283a0",
+    "titel": "Hansa Rostock: Breitenreiter erkrankt – Einsatz gegen Havelse am Freitag offen",
+    "quelle": "Ostsee Zeitung",
+    "beschr": " Hansa Rostock: Breitenreiter erkrankt – Einsatz gegen Havelse am Freitag offen &nbsp;&nbsp; Ostsee Zeitung ",
+    "zeit": "2026-11-27T14:56"
+   }
+  ],
+  "archiv_status": "aehnlich",
   "prio": 3,
   "status": "n",
-  "erstmals": "2026-11-26T23:47",
+  "erstmals": "2026-11-27T18:46",
+  "archiv": [
+   {
+    "id": "053754865d",
+    "titel": "Hansa Rostock gegen Havelse: Beide Teams suchen die Wende",
+    "datum": "25.11.",
+    "stufe": "sonstiges",
+    "summary": "Hansa Rostock trifft als Tabellenzwölfter mit 19 Punkten auf den TSV Havelse, der nach der 1:6-Niederlage gegen Viktoria Köln auf Rang 20 steht. Beide Teams gewannen aus den letzten fünf Partien nur einmal."
+   },
+   {
+    "id": "318e4a7d63",
+    "titel": "Hansa Rostock: 13 Punkte Rückstand auf die direkten Aufstiegsplätze",
+    "datum": "24.11.",
+    "stufe": "sonstiges",
+    "summary": "Hansa Rostock liegt als Zwölfter 13 Punkte hinter den direkten Aufstiegsplätzen. Trainer André Breitenreiter verweist nach dem 0:2 in Duisburg auf fehlende Key Moments, am Sonnabend kommt Schlusslicht Havelse."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "5e26bc20db",
+  "schluessel": "duisburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Duisburg",
+  "klubs": [
+   "Duisburg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "\"Nicht kleiner machen als wir sind\" - Der Plan gegen den MSV Duisburg",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ2xKa1V5VkJjVjRkN0l1dmJyQXZEaGFKMUtnbmdFS1V3U0pOQ2JWTDVCMmtmekhMNGpmS08xYkxib25vMWhCdUlyNmJjUXNGbG5mTjF6SHl0YjdpaHM5WHkxa19FSGZ3b3p6bzBjSTFIc3FYQ2dWU2ZRa1VQOEQyZFJzNEJpVDctOTZZM2VjR2tzdHhna3dIVGZHYnFvZjdXcGVCN25yZFpXUmNwMW5nMUs4eXJVa0VsN3BJdlJLQll6SkRrUkM1aw?oc=5",
+    "aid": "265b66999d",
+    "titel": "\"Nicht kleiner machen als wir sind\" - Der Plan gegen den MSV Duisburg",
+    "quelle": "RevierSport online",
+    "beschr": " \"Nicht kleiner machen als wir sind\" - Der Plan gegen den MSV Duisburg &nbsp;&nbsp; RevierSport online ",
+    "zeit": "2026-11-27T08:59"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-27T18:46",
+  "archiv": [
+   {
+    "id": "3a2191f044",
+    "titel": "Hansa Rostock vor dem Spiel der Wahrheit in Duisburg",
+    "datum": "20.11.",
+    "stufe": "sonstiges",
+    "summary": "Hansa Rostock spielt am Sonntag beim MSV Duisburg und hat gegen die aktuellen Top-5-Teams bislang nur zwei Punkte aus drei Spielen geholt. Gegentore fielen mehrfach über den zweiten Pfosten."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "da2449d4d8",
+  "schluessel": "munster|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Münster",
+  "klubs": [
+   "Münster",
+   "Verl"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Preußen Münster gegen SC Verl: Quo vadis, lieber SCP?",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeTJTZjFGT1AxZmx3SXdzcFJIRUVFR1RPTkh4RC1PLWpvN1VZX3dVRHhUWkFteEJLWmxvTVJyNG9CNGEtRF9KdU85OXcwcXI1dkU2MTFwc1FBZE10YnJ3OGpaMC1KbFFwTTdlMFpUQThKb09pSUE1cnRFNUtqdkE0LVAxc0hBZw?oc=5",
+    "aid": "82638d3f9f",
+    "titel": "Preußen Münster gegen SC Verl: Quo vadis, lieber SCP?",
+    "quelle": "NullSechs",
+    "beschr": " Preußen Münster gegen SC Verl: Quo vadis, lieber SCP? &nbsp;&nbsp; NullSechs ",
+    "zeit": "2026-11-27T17:11"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-27T18:46",
   "archiv": [],
-  "versuche": 2
+  "versuche": 1
+ },
+ {
+  "id": "a29e5afd4f",
+  "schluessel": "verl|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Verl",
+  "klubs": [
+   "Verl",
+   "Münster"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "SC Verl steht im Kellerduell bei Preußen Münster unter Druck",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWl9LVWdOcGpwakg0YVEwSWNsMWdJekdsMHUxcEFlc2M0LUI4cHUxS3dFY2VVVlNzZkluM2ZwSHlnTVBtaVFUUDl0cDZGdlJYMlBxZ0FiZERDbkhEX3RsUHliaXV1ZXA5UmNCRUtpRmFndkVMd1ZFQWxxUVc3T3pNQnU4MWFPRjEtNDdyQU52bmlfZVJjamxURk1GWW4xSnFTN2dPVmR4LUZFQ2h4SVlQM052MlJFeVB6bVBfS1pNamE5WGhKRGNoN3djTGVOaHp4?oc=5",
+    "aid": "a8b40b7c31",
+    "titel": "SC Verl steht im Kellerduell bei Preußen Münster unter Druck",
+    "quelle": "Die Glocke",
+    "beschr": " SC Verl steht im Kellerduell bei Preußen Münster unter Druck &nbsp;&nbsp; Die Glocke ",
+    "zeit": "2026-11-27T14:00"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-27T18:46",
+  "archiv": [
+   {
+    "id": "e4bbd8bc68",
+    "titel": "Münster vertagt Entscheidung: Wörle bekommt gegen Verl sein Finale",
+    "datum": "22.11.",
+    "stufe": "sonstiges",
+    "summary": "Münster lässt Trainer Thomas Wörle nach dem 0:4 in Hoffenheim vorerst im Amt. Bei einer Niederlage gegen Verl am Samstag soll es sein letztes Spiel sein."
+   },
+   {
+    "id": "f8aabd22db",
+    "titel": "Verl vor Essen: Schwächste Abwehr trifft auf beste Defensive",
+    "datum": "18.11.",
+    "stufe": "sonstiges",
+    "summary": "Der SC Verl empfängt Rot-Weiss Essen mit vier Niederlagen in Folge und der schwächsten Abwehr im direkten Vergleich. Essen stellt mit 13 Gegentoren die beste Defensive der 3. Liga."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "6257d9154f",
+  "schluessel": "meppen|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Meppen",
+  "klubs": [
+   "Meppen",
+   "Wiesbaden"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "SV Meppen: Was Fans vor dem Auswärtsspiel beim SV Wehen Wiesbaden wissen müssen",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZGZWeldTalR5UFZLNFZpSXlOd29US0dHbmtpQV9RWmxUY2ltajBkRVFtZnh1eURsanlfYzFkSThhZlQzZmdXVGhoX2NWT0tCWXk2bmNJSUJBa0N1ekVRNlh2U1YtYmxBUDFpSHZ6SEJ2V1Y5Q0w3R1MzNmdSV3A5VWsyd3hvSEc3SUFObmRRUTVpcF9iRWZiVUVhZDdCazRqelJzenhaakZiMlp4NFJQdw?oc=5",
+    "aid": "c9c27a8787",
+    "titel": "SV Meppen: Was Fans vor dem Auswärtsspiel beim SV Wehen Wiesbaden wissen müssen",
+    "quelle": "noz.de",
+    "beschr": " SV Meppen: Was Fans vor dem Auswärtsspiel beim SV Wehen Wiesbaden wissen müssen &nbsp;&nbsp; noz.de ",
+    "zeit": "2026-11-27T13:00"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-27T18:46",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "a07570bc88",
+  "schluessel": "meppen|verletzung",
+  "person": "",
+  "spieler": [],
+  "klub": "Meppen",
+  "klubs": [
+   "Meppen"
+  ],
+  "stufe": "verletzung",
+  "klasse": "verletzung",
+  "titel": "Kasra Ghawilu über sein erstes Tor für den SV Meppen, seine Verletzung und den Traum vom Profifußball",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM1BROFkxODR2ajAwMFJEbGVGQ0R1NVRJemlScHp1eWVIRklxaUQ0elQxbXBncmdUUVdIRmpDYnc0S3Y1Sk5NYVhSOHZ6Y1lWTFlwSjRWMUpjUHFFdmYxNTdhQy1STjM5Rjc1dUpZNDl6a2NuUjBTQjZzeGlJQVhtWi1reGJMeDh4Yk9fd09jeTZvamd4UTFRbjRCR2F5Q1g2TlRYWE53?oc=5",
+    "aid": "7a6d83709d",
+    "titel": "Kasra Ghawilu über sein erstes Tor für den SV Meppen, seine Verletzung und den Traum vom Profifußball",
+    "quelle": "noz.de",
+    "beschr": " Kasra Ghawilu über sein erstes Tor für den SV Meppen, seine Verletzung und den Traum vom Profifußball &nbsp;&nbsp; noz.de ",
+    "zeit": "2026-11-27T06:30"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-27T18:46",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "227c8604e3",
+  "schluessel": "mannheim|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Mannheim",
+  "klubs": [
+   "Mannheim",
+   "Stuttgart II"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "SV Waldhof Mannheim: Warum die Vorbereitung auf den VfB II sehr kompliziert war",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQT0t0dmxNT3JWbDFIRjVWWHNLMWU0OXRmYU04V21mMDlCTFY3dEViT1NGOGk5enBTaTcyUDFoZk5tTHBJeDQtT01aT3RnM0V1TDIyMEZwbEhRUHpVWnFseUpTWi1wa2dOeDNDbkpUV29ybDhkeG5pQ0FhQ0tJcDJJcElVZGpLaWVwZUJuMzVmNXo0OFdwYUphUDVqSDZWcXA1bWJvX2FsNTN2akhOdHZ6eVlFTmZseEtVeTE4SnRwRlJXY2xTenI4ZU43U2pnNnVKRGdsb0tYQjJMYnlJcnc?oc=5",
+    "aid": "b445158f1e",
+    "titel": "SV Waldhof Mannheim: Warum die Vorbereitung auf den VfB II sehr kompliziert war",
+    "quelle": "Rhein-Neckar-Zeitung",
+    "beschr": " SV Waldhof Mannheim: Warum die Vorbereitung auf den VfB II sehr kompliziert war &nbsp;&nbsp; Rhein-Neckar-Zeitung ",
+    "zeit": "2026-11-27T17:14"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-27T18:46",
+  "archiv": [
+   {
+    "id": "6c8403c1aa",
+    "titel": "Stuttgart II reist mit Rückenwind zum SV Waldhof Mannheim",
+    "datum": "25.11.",
+    "stufe": "sonstiges",
+    "summary": "Stuttgart II reist nach zwei Siegen in Folge und einem 5:0 gegen Ingolstadt zum SV Waldhof Mannheim. Beide Teams haben sechs Siege und liegen zwei Punkte auseinander."
+   },
+   {
+    "id": "d9a5b08d9a",
+    "titel": "Aachen empfängt Mannheim: Duell zweier Teams mit je sechs Siegen",
+    "datum": "18.11.",
+    "stufe": "sonstiges",
+    "summary": "Alemannia Aachen empfängt am Samstag den SV Waldhof Mannheim, beide Teams trennt ein Punkt. Aachen verlor zuletzt 0:1 in Essen, Mannheim siegte 2:1 gegen Fortuna Köln."
+   },
+   {
+    "id": "e9d6fe2ab2",
+    "titel": "Waldhof Mannheim gastiert beim Kreisklassisten Neckarsteinach",
+    "datum": "13.11.",
+    "stufe": "sonstiges",
+    "summary": "Waldhof Mannheim spielt im Landespokal-Viertelfinale um 13 Uhr beim Kreisklassisten SpVgg Neckarsteinach, der 64 Siege in Folge feierte. Tim Sechelmann und Arlind Rexhepi trainieren nach Verletzungen wieder mit."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "a58e5a4150",
+  "schluessel": "saarbrucken|transfer",
+  "person": "",
+  "spieler": [],
+  "klub": "Saarbrücken",
+  "klubs": [
+   "Saarbrücken"
+  ],
+  "stufe": "geruecht",
+  "klasse": "transfer",
+  "titel": "Offensive Wucht, defensive Lücken: Ist Saarbrücken wirklich Aufstiegskandidat?",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTTV4akRqaXVFYmE1R21rOU55Q1pmSnJqVnMyeURBVG0wTmd5NGE5bjdfQzFQZVVfemYwRzg4Z19laVRCQXVTSjBGN2Z4bjJzNkNnMGZkU1FBZE83QUY5ZXppSzlCYXkzWUhaS0ZDUnFXTkdWTGhYNFU3M0QzNy1yVGV1VEhpSWlsQ3hhZnYydGtIelNweElkb1RMVGxrLUhFNXYyRFdwSTFYcy1wVmowOE04Q2JROUdMRUhoQnZYcGxZRmpEb3k1ZjJqWnA2Z1hld3h4bjVQcEotRFc4aFVRMHNad2Z2S2p2?oc=5",
+    "aid": "69d4e110fc",
+    "titel": "Offensive Wucht, defensive Lücken: Ist Saarbrücken wirklich Aufstiegskandidat?",
+    "quelle": "Aachener Zeitung",
+    "beschr": " Offensive Wucht, defensive Lücken: Ist Saarbrücken wirklich Aufstiegskandidat? &nbsp;&nbsp; Aachener Zeitung ",
+    "zeit": "2026-11-27T15:00"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-27T18:46",
+  "archiv": [
+   {
+    "id": "e69c12fafd",
+    "titel": "Saarbrücken testet vereinslosen Innenverteidiger Noel Bigo Atom",
+    "datum": "21.11.",
+    "stufe": "geruecht",
+    "summary": "Der 1. FC Saarbrücken testet wegen vieler Verletzter den vereinslosen Innenverteidiger Noel Bigo Atom im Training. Der 21-Jährige war zuletzt bei der U21 von Brighton und wäre ablösefrei."
+   },
+   {
+    "id": "89d0ecaaaa",
+    "titel": "Saarbrücken will im Winter nachlegen: Thiele plant Transfers ohne Schnellschuss",
+    "datum": "20.11.",
+    "stufe": "geruecht",
+    "summary": "Saarbrückens Sportvorstand Markus Thiele kündigt für den Winter Transfers an, aber keinen Schnellschuss. Der FCS hat mehrere Langzeitverletzte, bei Voet und Staff ist der Einsatz gegen Wiesbaden offen."
+   }
+  ],
+  "versuche": 1
  }
 ]

@@ -1,5 +1,145 @@
 [
   {
+    "id": "bafebe4db6",
+    "titel": "RWE sucht Mittelstürmer: Otto und vier weitere Kandidaten im Blick",
+    "kategorie": "transfer",
+    "badge": "Transfer",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "27.11.2026 18:49",
+    "wappen_url": "logos/essen.png",
+    "vereine": [
+      "RW Essen",
+      "Viktoria Köln"
+    ],
+    "anriss": "Rot-Weiss Essen sondiert den Transfermarkt nach einem körperlich starken und zugleich torgefährlichen Mittelstürmer. Der Drittligist will damit im neuen Jahr besser auf mögliche Ausfälle im Angriff vorbereitet sein. Aktuell steht RWE nach 14 Spielen mit 30 Punkten auf dem dritten Tabellenplatz. Die WAZ nennt fünf",
+    "spielerstatus": [
+      {
+        "spieler": "Janssen",
+        "klub": "RW Essen",
+        "status": "faellt_aus",
+        "grund": "gelbgesperrt"
+      },
+      {
+        "spieler": "Telalovic",
+        "klub": "RW Essen",
+        "status": "faellt_aus",
+        "grund": "Schulterverletzung"
+      },
+      {
+        "spieler": "Potocnik",
+        "klub": "RW Essen",
+        "status": "fraglich",
+        "grund": "nach Muskelverletzungen, evtl. nur Joker"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "RW Essen",
+    "pfad": "artikel/rwe-sucht-mittelstuermer-otto-und-vier-weitere-kandidaten-im-blick-bafebe4db6.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "deal",
+      "frage": "Wäre David Otto ein guter Deal für Rot-Weiss Essen?",
+      "antworten": [
+        "👍 Guter Deal",
+        "👎 Fehler"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "38f966d321",
+    "titel": "Wilhelm vor dem Derby: „Von der Tabelle können wir uns nichts kaufen“",
+    "kategorie": "interview",
+    "badge": "Interview",
+    "badge_bg": "#1976d2",
+    "badge_fg": "#fff",
+    "datum": "27.11.2026 18:49",
+    "wappen_url": "logos/viktoriakoeln.png",
+    "vereine": [
+      "Viktoria Köln"
+    ],
+    "anriss": "Viktoria Köln geht als Tabellenführer in das erste Liga-Derby gegen Fortuna Köln seit 2014. Das Spiel steigt am Sonntag um 13.30 Uhr und wird bei Magenta Sport übertragen. Trainer Marian Wilhelm (38) hat sich im BILD-Interview vor der Partie geäußert. Viktoria ist seit zehn Spielen",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Viktoria Köln",
+    "pfad": "artikel/wilhelm-vor-dem-derby-von-der-tabelle-koennen-wir-uns-nichts-kaufen-38f966d321.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "4d9b7dab3e",
+    "titel": "FC Ingolstadt: Carlsen fällt vor Derby gegen Regensburg monatelang aus",
+    "kategorie": "verletzung",
+    "badge": "Verletzung",
+    "badge_bg": "#e53935",
+    "badge_fg": "#fff",
+    "datum": "27.11.2026 18:48",
+    "wappen_url": "logos/ingolstadt.png",
+    "vereine": [
+      "Ingolstadt",
+      "Regensburg"
+    ],
+    "anriss": "Der FC Ingolstadt muss im Derby gegen Regensburg am Sonntag (19.30 Uhr) auf Fredrik Carlsen verzichten. Der Spieler fällt mit einer Knieverletzung sehr wahrscheinlich bis ins neue Jahr aus. Das bestätigte Trainer Achim Beierlorzer am Tag nach der Jahresversammlung des Stammvereins. Carlsen hatte vor einer",
+    "spielerstatus": [
+      {
+        "spieler": "Carlsen",
+        "klub": "Ingolstadt",
+        "status": "faellt_aus",
+        "grund": "Knieverletzung, Dehnung des Kreuzbands"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Ingolstadt",
+    "pfad": "artikel/fc-ingolstadt-carlsen-faellt-vor-derby-gegen-regensburg-monatelang-aus-4d9b7dab3e.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "reaktion",
+      "frage": "",
+      "antworten": [
+        "💚 Gute Besserung"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "e5b427180b",
+    "titel": "Wehen Wiesbaden will gegen Meppen zurück in die Erfolgsspur",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "27.11.2026 18:48",
+    "wappen_url": "logos/wiesbaden.png",
+    "vereine": [
+      "Meppen",
+      "Saarbrücken",
+      "Wiesbaden"
+    ],
+    "anriss": "Der SV Wehen Wiesbaden will nach der 1:2-Niederlage in Saarbrücken am Sonntag (16.30 Uhr) gegen den SV Meppen wieder punkten. Trainer Jochen Seitz muss in der Brita Arena auf David Suárez und Sinan Karweina verzichten. Wie berichtet, hatte der FCS die Partie am 22. November",
+    "spielerstatus": [
+      {
+        "spieler": "Suárez",
+        "klub": "Wiesbaden",
+        "status": "faellt_aus",
+        "grund": "Knöchelverletzung"
+      },
+      {
+        "spieler": "Karweina",
+        "klub": "Wiesbaden",
+        "status": "faellt_aus",
+        "grund": "Aufbautraining nach Oberschenkelverletzung"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Wiesbaden",
+    "pfad": "artikel/wehen-wiesbaden-will-gegen-meppen-zurueck-in-die-erfolgsspur-e5b427180b.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
     "id": "de523acd0d",
     "titel": "Paetow vor Verl-Spiel: „Ich bin topfit und bereit“",
     "kategorie": "interview",
