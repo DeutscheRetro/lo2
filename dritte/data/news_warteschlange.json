@@ -1,310 +1,5 @@
 [
  {
-  "id": "dc5febbe71",
-  "schluessel": "saarbrucken|transfer",
-  "person": "",
-  "spieler": [],
-  "klub": "Saarbrücken",
-  "klubs": [
-   "Saarbrücken"
-  ],
-  "stufe": "geplatzt",
-  "klasse": "transfer",
-  "titel": "1. FC Saarbrücken muss Pokalspiel erneut absagen",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZU9BMDBlR0tYV2dRcnVFYkhnSndlTHpFVi1tSGZ3X1M3RmtDTWFubjJlOTlCZlBWTUpBUVBycHczM1NWalVRbVFfNDFmWDJ1bVZBYjhiRE9EeWZNZkNQREEyVlZobW12UUQ1WlBzdU5vVm1FWF9GWlFYZW9HSWhTbGpGeFdyczZLdGVMMHZQamtqZHlaT1NiNFFxUjNTRWtZVDBVSkZ4SkpBNEdURVE?oc=5",
-    "aid": "a7ddea5a2f",
-    "titel": "1. FC Saarbrücken muss Pokalspiel erneut absagen",
-    "quelle": "Wochenblatt Reporter",
-    "beschr": " 1. FC Saarbrücken muss Pokalspiel erneut absagen &nbsp;&nbsp; Wochenblatt Reporter ",
-    "zeit": "2026-11-27T16:09"
-   }
-  ],
-  "archiv_status": "update",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-27T23:28",
-  "archiv": [
-   {
-    "id": "e69c12fafd",
-    "titel": "Saarbrücken testet vereinslosen Innenverteidiger Noel Bigo Atom",
-    "datum": "21.11.",
-    "stufe": "geruecht",
-    "summary": "Der 1. FC Saarbrücken testet wegen vieler Verletzter den vereinslosen Innenverteidiger Noel Bigo Atom im Training. Der 21-Jährige war zuletzt bei der U21 von Brighton und wäre ablösefrei."
-   },
-   {
-    "id": "89d0ecaaaa",
-    "titel": "Saarbrücken will im Winter nachlegen: Thiele plant Transfers ohne Schnellschuss",
-    "datum": "20.11.",
-    "stufe": "geruecht",
-    "summary": "Saarbrückens Sportvorstand Markus Thiele kündigt für den Winter Transfers an, aber keinen Schnellschuss. Der FCS hat mehrere Langzeitverletzte, bei Voet und Staff ist der Einsatz gegen Wiesbaden offen."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "1ebe38d035",
-  "schluessel": "aachen|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Aachen",
-  "klubs": [
-   "Aachen"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "„Ein Spiel auf Augenhöhe“: Lenzen erwartet heißen Schlagabtausch",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVW12VTBtU0xPemJHaFpZaXdKb2V0ckJKajRIcnN4TjJkRDJNTmx1d2tsM0lmdjkzcTdGQlZ2a3l2U0UzOTFITlBqRGVMdGpjTkxoUUtzLW5XUWtZd3Y4eFpqSkNTdlA3eWM3aHZjSDQ3U0xLQVkxQWhjRnZvbTY1UFRGUG1KUTh4VHNqWWdJdHlNYnpZNk9CaVJab3Y4X1lMQnRWVDNRRk1WU05PQ3A3akViODI2QmY5RWFxejltaU1sZm56MTFDMDhZMzJvdWNmZmlTYXJ3?oc=5",
-    "aid": "5e75ad7082",
-    "titel": "„Ein Spiel auf Augenhöhe“: Lenzen erwartet heißen Schlagabtausch",
-    "quelle": "Aachener Zeitung",
-    "beschr": " „Ein Spiel auf Augenhöhe“: Lenzen erwartet heißen Schlagabtausch &nbsp;&nbsp; Aachener Zeitung ",
-    "zeit": "2026-11-27T12:30"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-27T23:28",
-  "archiv": [
-   {
-    "id": "8bdbd472d4",
-    "titel": "Saarbrücken empfängt Aachen: Topspiel mit zwei formstarken Teams",
-    "datum": "25.11.",
-    "stufe": "sonstiges",
-    "summary": "Der 1. FC Saarbrücken empfängt Alemannia Aachen zum Topspiel der 3. Liga. Beide Teams haben 23 Punkte und sieben Siege auf dem Konto."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "42abba5d17",
-  "schluessel": "ingolstadt|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Ingolstadt",
-  "klubs": [
-   "Ingolstadt",
-   "Regensburg"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Vor dem Duell: FC Ingolstadt und SSV Jahn Regensburg im großen Derbyvergleich",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb0t4S09qSk1JTjJNUmdjTTJ2YWRtbk0xMmNpMDhxQjB1cW9lWnpIWHFLSU12UnZOY1Z2T3lmZnNobEU2NEltY0RITlgzZk1welViR2k3VDlLajFGcGx5YUt3MkVKZXJacEY5alA1LTcxOW1IeTc4YzIwNVdMeWZRWmRGVk5UZTgxSzFrUmgtMTFDMzhKSzRpSEhtanJHRUVjVk90NmlQSXZxc2Vj?oc=5",
-    "aid": "efe49e1128",
-    "titel": "Vor dem Duell: FC Ingolstadt und SSV Jahn Regensburg im großen Derbyvergleich",
-    "quelle": "Mittelbayerische Zeitung",
-    "beschr": " Vor dem Duell: FC Ingolstadt und SSV Jahn Regensburg im großen Derbyvergleich &nbsp;&nbsp; Mittelbayerische Zeitung ",
-    "zeit": "2026-11-27T18:16"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-27T23:28",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "cbb3ab4afb",
-  "schluessel": "rw essen|transfer",
-  "person": "",
-  "spieler": [],
-  "klub": "RW Essen",
-  "klubs": [
-   "RW Essen"
-  ],
-  "stufe": "geruecht",
-  "klasse": "transfer",
-  "titel": "Rot-Weiss Essen: Cuber Potocnik Startelfkandidat, Menzel zurück nach Syndesmosebandriss",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbTA1elJGOEpUQldoWHJ0Rlh0UkFTZHV0QjJ1d2xSQVBPSU1NQ0toMzFyUmpxQlk5cV9xSDdqWTlXNWV6YzgtYWVLRUFYRVVWVXd6YWVVMEtkcnZIZnprcXFrbGhLdlRqU1lfeEMxOUhTRDN3aVliMnlUU0t1cWRBMHN6Y1Z2bk41ZHNWOWI1RFp6ZFVteTRxcEUyVkIzdWh4TnhKdGFFc0c5QmhkY3B1aEZQWFJOdi1OTnhySi1SWGhneTdydkE4UW9IckwwWDJOamR6ZQ?oc=5",
-    "aid": "96694d1ff4",
-    "titel": "Rot-Weiss Essen: Cuber Potocnik Startelfkandidat, Menzel zurück nach Syndesmosebandriss",
-    "quelle": "RevierSport online",
-    "beschr": " Rot-Weiss Essen: Cuber Potocnik Startelfkandidat, Menzel zurück nach Syndesmosebandriss &nbsp;&nbsp; RevierSport online ",
-    "zeit": "2026-11-27T16:30"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-27T23:28",
-  "archiv": [
-   {
-    "id": "bafebe4db6",
-    "titel": "RWE sucht Mittelstürmer: Otto und vier weitere Kandidaten im Blick",
-    "datum": "27.11.",
-    "stufe": "geruecht",
-    "summary": "Rot-Weiss Essen sucht für das neue Jahr einen kopfballstarken, torgefährlichen Mittelstürmer. Laut WAZ kommen unter anderem Kai Brünker und Viktoria Kölns David Otto in Frage."
-   },
-   {
-    "id": "724c766441",
-    "titel": "RWE plant Offensivverstärkung: Dennis Kaygin im Blick",
-    "datum": "17.11.",
-    "stufe": "geruecht",
-    "summary": "Rot-Weiss Essen hat laut WAZ weiter Interesse an Ingolstadts Dennis Kaygin für die Offensive. Dessen Vertrag läuft im Sommer aus, im Winter wäre eine überschaubare Ablöse fällig."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "08f3f7d957",
-  "schluessel": "hoffenheim ii|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hoffenheim II",
-  "klubs": [
-   "Hoffenheim II",
-   "RW Essen"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "TSG Hoffenheim II: Sechs Spieler fehlen bei RWE, aber \"genau diese Spiele lieben wir\"",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWS1VSTVnU1VWd0laOUN3T2lTa0gwSmhvY3BEa0FUTDk3ci03Qy1qeThrNEtOdW8yelRmMndvQlFvc3N6ZjdpMVFOd0cyMmg2bldNQnZldVkzMjk2OExFWFo5WkNiNWFHZ0RfekZYaE05S3cwYUdmaGltM0MyTFFzZU9xdVZLWlpsblZHSUF1VURnRnlzb3JjRkpreEV2N05TeWdfd0l6c1g4VDRIQ28zcGpyZlp0OVNKQlJQc3NIaVY2SDdMNHBsejNYeU5uQWYzVnpMMg?oc=5",
-    "aid": "74895503d6",
-    "titel": "TSG Hoffenheim II: Sechs Spieler fehlen bei RWE, aber \"genau diese Spiele lieben wir\"",
-    "quelle": "RevierSport online",
-    "beschr": " TSG Hoffenheim II: Sechs Spieler fehlen bei RWE, aber \"genau diese Spiele lieben wir\" &nbsp;&nbsp; RevierSport online ",
-    "zeit": "2026-11-27T09:33"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-27T23:28",
-  "archiv": [
-   {
-    "id": "af269a4411",
-    "titel": "Hoffenheim II empfängt Münster: Duell der Plätze neun und 14",
-    "datum": "19.11.",
-    "stufe": "sonstiges",
-    "summary": "Hoffenheim II trifft am 21. November um 14:00 Uhr im Dietmar-Hopp-Stadion auf Preußen Münster. Die Gastgeber liegen mit 19 Punkten auf Rang neun, Münster mit 15 Zählern auf Platz 14."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "1c8f656504",
-  "schluessel": "rw essen|verletzung",
-  "person": "",
-  "spieler": [],
-  "klub": "RW Essen",
-  "klubs": [
-   "RW Essen"
-  ],
-  "stufe": "ausfall",
-  "klasse": "verletzung",
-  "titel": "Rot-Weiss Essen: Er fehlt in Essen - so wichtig ist Gjasula für die Hoffenheimer U23",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSkZfcGNULVVGdC1mLU9wbm1tZ053T3dMM25PQnpqTWFuNndiWktTNThualp1ODVfcGt0ZW5WUXBNbHE1bDRlSEtBV20tdWowNE4zQmVKTmNuZDZVWVJYR0ZERncyZFdzZGtsUXJKMWhkT1RrM1o2LWRMY1psQ09NUUgwZDJ0Z3JBUjNfNEljNFV0UWFTdG5jdUZRcURmRjY0MW1MdE9ud05ZZUJvM3Z3NVd1Qk5OM2M4MjVLWV93VQ?oc=5",
-    "aid": "7138271882",
-    "titel": "Rot-Weiss Essen: Er fehlt in Essen - so wichtig ist Gjasula für die Hoffenheimer U23",
-    "quelle": "RevierSport online",
-    "beschr": " Rot-Weiss Essen: Er fehlt in Essen - so wichtig ist Gjasula für die Hoffenheimer U23 &nbsp;&nbsp; RevierSport online ",
-    "zeit": "2026-11-27T14:18"
-   }
-  ],
-  "archiv_status": "neu",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-27T23:28",
-  "archiv": [],
-  "versuche": 2
- },
- {
-  "id": "f7e0838e19",
-  "schluessel": "rostock|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Rostock",
-  "klubs": [
-   "Rostock",
-   "Havelse"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "3. Liga: Rostock schlägt Havelse souverän",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdldGajNNNXVwdE9rQzhQLW8xWmhiRFZLeWNOcjUyR0ZlaTdmVmNrb1V4bk1qMzc0c2VEQjJVT2dpdmVZREpNa1JoZW9sVXZ1ZXpfczF3ckNnVlA1UW5sbjIzTU0zYWJsNmlERkNTWWVNOEtOMU56NzRaNEg3eGRCTUdQZkxoMWhWVE14NXEwVE9VVnhkZXdJamRBRVMwbVg2Z2xlb2RXd1F6TkpJWjFpdGluVld6eDFiSU5V?oc=5",
-    "aid": "d8732635fe",
-    "titel": "3. Liga: Rostock schlägt Havelse souverän",
-    "quelle": "sportschau.de",
-    "beschr": "   3. Liga: Rostock schlägt Havelse souverän &nbsp;&nbsp; sportschau.de    Hansa Rostock atmet erleichtert durch - 2:0-Sieg gegen Havelse &nbsp;&nbsp; NDR.de    Kopacz' Premierentreffer und Voglsammer: Hansa schlägt Havelse verdient &nbsp;&nbsp; Kicker   ",
-    "zeit": "2026-11-28T00:06"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-28T03:26",
-  "archiv": [
-   {
-    "id": "053754865d",
-    "titel": "Hansa Rostock gegen Havelse: Beide Teams suchen die Wende",
-    "datum": "25.11.",
-    "stufe": "sonstiges",
-    "summary": "Hansa Rostock trifft als Tabellenzwölfter mit 19 Punkten auf den TSV Havelse, der nach der 1:6-Niederlage gegen Viktoria Köln auf Rang 20 steht. Beide Teams gewannen aus den letzten fünf Partien nur einmal."
-   },
-   {
-    "id": "3a2191f044",
-    "titel": "Hansa Rostock vor dem Spiel der Wahrheit in Duisburg",
-    "datum": "20.11.",
-    "stufe": "sonstiges",
-    "summary": "Hansa Rostock spielt am Sonntag beim MSV Duisburg und hat gegen die aktuellen Top-5-Teams bislang nur zwei Punkte aus drei Spielen geholt. Gegentore fielen mehrfach über den zweiten Pfosten."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "537cbaeeb5",
-  "schluessel": "munster|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Münster",
-  "klubs": [
-   "Münster",
-   "Verl"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Abstiegsspiel bei Preußen Münster: SC Verl kämpft um Klassenerhalt",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQajJCM1E3R0lBQzFTcEZpRGpvOWV3QTNYbFpzU0ZtNE5FTlZKSnFoUTZqTzlKUHVjOGNYTjZFdUdKUnZzU0FmSm5rN2x2TmEtaWZrZ2F6OExXd043SDdDbTgtUnd2eDUxclQ5UHdXWTRVNUtNYWxWSWlDY29TMHVnT0xqU1NYZ0xZVjNHZGZfUUl1aDRxZ2JBZTItdmlsZW5Sc1E2VzlkNkVtc2EySE5uRkhLRnZ4cC0yaFBFUldsZTFDdjZQSXZuX3hwWHdpdw?oc=5",
-    "aid": "529b93b625",
-    "titel": "Abstiegsspiel bei Preußen Münster: SC Verl kämpft um Klassenerhalt",
-    "quelle": "Radio Gütersloh",
-    "beschr": " Abstiegsspiel bei Preußen Münster: SC Verl kämpft um Klassenerhalt &nbsp;&nbsp; Radio Gütersloh ",
-    "zeit": "2026-11-28T00:03"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-28T03:26",
-  "archiv": [
-   {
-    "id": "af269a4411",
-    "titel": "Hoffenheim II empfängt Münster: Duell der Plätze neun und 14",
-    "datum": "19.11.",
-    "stufe": "sonstiges",
-    "summary": "Hoffenheim II trifft am 21. November um 14:00 Uhr im Dietmar-Hopp-Stadion auf Preußen Münster. Die Gastgeber liegen mit 19 Punkten auf Rang neun, Münster mit 15 Zählern auf Platz 14."
-   }
-  ],
-  "versuche": 2
- },
- {
   "id": "9189f07623",
   "schluessel": "grossaspach|sonstiges",
   "person": "",
@@ -339,7 +34,7 @@
     "summary": "Fortuna Düsseldorf trifft am Samstag auf Großaspach und sucht nach vier Spielen ohne Sieg einen Erfolg. Beide Teams sind formschwach und liegen vier Punkte auseinander."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "02fd718f24",
@@ -369,7 +64,7 @@
   "status": "n",
   "erstmals": "2026-11-28T17:32",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "05069b867a",
@@ -413,7 +108,7 @@
     "summary": "Rot-Weiss Essen gewinnt das Viertelfinale im Niederrheinpokal bei Ratingen 04/19 mit 4:0. Trainer Uwe Koschinat lobt die Organisation des Oberligisten auf „Top-Niveau“."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "8a4979ad51",
@@ -451,45 +146,7 @@
     "summary": "Der 1. FC Saarbrücken empfängt Alemannia Aachen zum Topspiel der 3. Liga. Beide Teams haben 23 Punkte und sieben Siege auf dem Konto."
    }
   ],
-  "versuche": 1
- },
- {
-  "id": "4733cfdae2",
-  "schluessel": "munster|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Münster",
-  "klubs": [
-   "Münster",
-   "Verl"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Keine Tore im Kellerduell: Preußen Münster gegen SC Verl endet mit Nullnummer",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTm51dlFlM3BYcnVZZ296OEtWb0xhdGdLUEhGdzZ2Q3FaLVB0dTRrSUpWQTNQWVBKSmhRWFZnd1p5VlU5d0ZuY0NSVXpqd2thSnBoaFdCTzB0OHg5Rm44ZGZFWG5EbVNlb3UxaVZPMEJRdHR6UlJPQUtjZWhYSFFNREhXTQ?oc=5",
-    "aid": "d66705c92a",
-    "titel": "Keine Tore im Kellerduell: Preußen Münster gegen SC Verl endet mit Nullnummer",
-    "quelle": "WDR",
-    "beschr": " Keine Tore im Kellerduell: Preußen Münster gegen SC Verl endet mit Nullnummer &nbsp;&nbsp; WDR ",
-    "zeit": "2026-11-28T15:51"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-28T17:32",
-  "archiv": [
-   {
-    "id": "e3b1d4810e",
-    "titel": "Münster in der Krise: Kittner spricht vom „kritischen Moment“",
-    "datum": "16.11.",
-    "stufe": "sonstiges",
-    "summary": "Münsters Geschäftsführer Ole Kittner nennt die Lage nach fünf Niederlagen aus sieben Spielen einen „kritischen Moment“. Am Samstag muss das Team bei Hoffenheim II liefern."
-   }
-  ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "dc5ecd6785",
@@ -518,6 +175,622 @@
   "status": "n",
   "erstmals": "2026-11-28T17:32",
   "archiv": [],
+  "versuche": 2
+ },
+ {
+  "id": "4355b3ac01",
+  "schluessel": "grossaspach|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Großaspach",
+  "klubs": [
+   "Großaspach",
+   "Duisburg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "SG Sonnenhof Großaspach - MSV Duisburg: Doppelpacker Kother macht den Pflichtsieg klar - 3. Liga",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNRE81SmtYX2tmdE11Q2ZRM1JwUVBZMzhWYjJweUJUQmMtZnJ1UHp0NTBiNUw0dllMYUFSOGpOc0FXcjB0OEdjY0tHTkYyZ0l6MmRpaUU0aTl5RnpYNDlMTHZNSm1ZdzVYMWFjUjAxM1l4SGd6OThNXzlWM3F6Rjl1aGVWVEM5Mmdxb0NQRU9YM01ETmQyVmh6Tnp1UDlzUFdDMmRMTEdqTlF0eDV2cWJlSU4wY3ZJV3VEMDVtYkxudjM3aF9sbXFKZWZnWjBob1BOUFlETTctaE9iX21lTTdfRTh6S19KV1pvZmZnLWlTLVRSSzNyZG1NYzVFemJSeVE?oc=5",
+    "aid": "1edc2fb4fd",
+    "titel": "SG Sonnenhof Großaspach - MSV Duisburg: Doppelpacker Kother macht den Pflichtsieg klar - 3. Liga",
+    "quelle": "WELT",
+    "beschr": " SG Sonnenhof Großaspach - MSV Duisburg: Doppelpacker Kother macht den Pflichtsieg klar - 3. Liga &nbsp;&nbsp; WELT ",
+    "zeit": "2026-11-28T19:16"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": null,
+  "status": "",
+  "erstmals": "2026-11-28T22:30",
+  "archiv": []
+ },
+ {
+  "id": "890f83f8cd",
+  "schluessel": "duisburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Duisburg",
+  "klubs": [
+   "Duisburg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Dominik Kother macht‘s schon wieder – er ist der MSV-Spieler des Spiels",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOamswTkpGLVFONzhvb0lFdFh4RjdwUDlUQVcyU25Ld3VKZm9IMFhaRHEyR0RQbEpMcjNyNTlfc2tZSUhDSFlaR3VqTHlURWRUSUtteDVtZjZqREVscVJXYURaVjBRRU03TU1UV1VPZTRfQVMwUG84WTgyaGpvSG1JZGl6RDFqamwwRXlDSGVpRlljbFY3d0MydUNZaC1rdnpKMWs1bHlYdDYxYllQblRDdVdFYzFZM2Z0UUdNU2R2Ym9pTjlseTFJWF9IdDlvdEk?oc=5",
+    "aid": "e2c779e99a",
+    "titel": "Dominik Kother macht‘s schon wieder – er ist der MSV-Spieler des Spiels",
+    "quelle": "NRZ",
+    "beschr": " Dominik Kother macht‘s schon wieder – er ist der MSV-Spieler des Spiels &nbsp;&nbsp; NRZ ",
+    "zeit": "2026-11-28T19:42"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-28T22:30",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "b65563c3a7",
+  "schluessel": "aachen|verletzung",
+  "person": "",
+  "spieler": [],
+  "klub": "Aachen",
+  "klubs": [
+   "Aachen"
+  ],
+  "stufe": "fraglich",
+  "klasse": "verletzung",
+  "titel": "\"Ich hoffe einfach, dass da nichts Schlimmes ist\": Aachen-Trainer Selimbegovic bangt um Loune",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONFAyaXdJYmpza01rWFpxNWlreHZLUjRZWGpuX1hSU3VsMl9SZTBOMlRjQWdXZV9hTEJmeGlnbTJLN0hZTTkxZndQb3J3WmR6UzRQRFpMOHp3ZkhTQlNXaGItQXNUNUVaY0VpRE9CdjlaY2tiek9kOGtqbGJQZmVHVDBXcGRMWGVCc0l1amF2SHgtWF9Hbk1iMmdmNGFJUTZtYVlr?oc=5",
+    "aid": "274da18ca0",
+    "titel": "\"Ich hoffe einfach, dass da nichts Schlimmes ist\": Aachen-Trainer Selimbegovic bangt um Loune",
+    "quelle": "WEB.DE",
+    "beschr": " \"Ich hoffe einfach, dass da nichts Schlimmes ist\": Aachen-Trainer Selimbegovic bangt um Loune &nbsp;&nbsp; WEB.DE ",
+    "zeit": "2026-11-28T21:06"
+   }
+  ],
+  "archiv_status": "update",
+  "prio": 2,
+  "status": "u",
+  "erstmals": "2026-11-28T22:30",
+  "archiv": [
+   {
+    "id": "bd533b8226",
+    "titel": "Saarbrücken gegen Aachen ohne Rizzuto: Wer spielt hinten rechts?",
+    "datum": "28.11.",
+    "stufe": "ausfall",
+    "summary": "Saarbrücken muss gegen Aachen auf Calogero Rizzuto verzichten, der mit einem Muskelfaserriss ausfällt. Trainer Argirios Giannikis hat mehrere Optionen für die Position hinten rechts."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "f2d977902e",
+  "schluessel": "regensburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Regensburg",
+  "klubs": [
+   "Regensburg"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Jahn-Vergangenheit: FCI-Trainer Achim Beierlorzer zwischen den Welten",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX09kVEdqMms5LVBaa0d6SnAxNkFUcWU2aVpPZjlQN1lGZ3V6NWxpT1N1dURRZ2ZuWlJhQVdNdlIwb0Y4TnpJM0hoTWpRQ1pONjJyTzNSUjlaT0hTSTdmc19uVktQa0RKdVJhRGhTdmhJc3RDdkVyNEFwZVRUNmxPZDdNdU14dU95cDZ3dC1lZjl3ZUdXcjFkdHJaUElmTERoTUtqbWFIWVExeGg5bzRDOFBQUHM4bXJUQ1ItWkRtZlc?oc=5",
+    "aid": "8b8fc39e58",
+    "titel": "Jahn-Vergangenheit: FCI-Trainer Achim Beierlorzer zwischen den Welten",
+    "quelle": "Donaukurier",
+    "beschr": " Jahn-Vergangenheit: FCI-Trainer Achim Beierlorzer zwischen den Welten &nbsp;&nbsp; Donaukurier ",
+    "zeit": "2026-11-28T19:01"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-28T22:30",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "88cbadc2ca",
+  "schluessel": "dusseldorf|kader",
+  "person": "",
+  "spieler": [],
+  "klub": "Düsseldorf",
+  "klubs": [
+   "Düsseldorf"
+  ],
+  "stufe": "kader",
+  "klasse": "kader",
+  "titel": "\"Wir würden den Kader auch gerne kleiner machen\": Fortuna-Düsseldorf Vorstand Arabi kündigt Bestandsaufnahme an",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR3c0Y0g5akZ1bTdSd1ViRGR5NVFjLW84SFpQb2lMbVd1c184bFVxWERRTExVd2FPVXRUcy1NOHFXTVdNTFdjS3dxcnA3NDZmOUZpR0t4TWhuWGhqXzV2dlVJMDhIRXhzVXpvdHFWUkpDbm1qOF9XenpDbHJuRGFENVljbVg5Y093aTlNUHFoRktKdXNPSURsdDY3ZWtjWmhBVEJrWGRPU0xaQXlmNWt0QV9neTI3dHBQck55Zi1rQWxoUWZV?oc=5",
+    "aid": "71f2b4918c",
+    "titel": "\"Wir würden den Kader auch gerne kleiner machen\": Fortuna-Düsseldorf Vorstand Arabi kündigt Bestandsaufnahme an",
+    "quelle": "WEB.DE",
+    "beschr": " \"Wir würden den Kader auch gerne kleiner machen\": Fortuna-Düsseldorf Vorstand Arabi kündigt Bestandsaufnahme an &nbsp;&nbsp; WEB.DE ",
+    "zeit": "2026-11-28T20:57"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "u",
+  "erstmals": "2026-11-28T22:30",
+  "archiv": [
+   {
+    "id": "4771e9628f",
+    "titel": "Fortuna in Würzburg: Offene Frage um Arden, Anhari vor Rückkehrern",
+    "datum": "23.11.",
+    "stufe": "kader",
+    "summary": "Fortuna Düsseldorf reist nach zwei Heimsiegen zum Auswärtsspiel nach Würzburg. RP Online sieht Hamza Anhari vor den verletzten Rückkehrern und Elias Arden zunächst in der zweiten Reihe."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "f9241eee33",
+  "schluessel": "dusseldorf|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Düsseldorf",
+  "klubs": [
+   "Düsseldorf"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "\"Über die ganze Strecke war das viel zu wenig\": Fortuna-Düsseldorf-Kapitän Hendrix kritisiert Auftritt",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWFAyelJGSFhtX0hvMnp0WUtYU2hXN252dEJkWFBQSkMyVXUxNUpIN2RmYkg2cklzNlF6U29vNlI3aGV6ZUhIRE9xRkJtckFhNE04czZzdDhzdTFlYWNpTHJ6ZWZtbWlOYi15dmFWU1NBX2R2Q2habzVtdUJPY090X3Q1OGF1d2pNbXdWNFp1Y1IyX0N1RmlPRGR4MV93WEZteGtMRXZvRzVPb3pRaW1R?oc=5",
+    "aid": "48f4c9e9db",
+    "titel": "\"Über die ganze Strecke war das viel zu wenig\": Fortuna-Düsseldorf-Kapitän Hendrix kritisiert Auftritt",
+    "quelle": "WEB.DE",
+    "beschr": " \"Über die ganze Strecke war das viel zu wenig\": Fortuna-Düsseldorf-Kapitän Hendrix kritisiert Auftritt &nbsp;&nbsp; WEB.DE ",
+    "zeit": "2026-11-28T20:51"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-28T22:30",
+  "archiv": [
+   {
+    "id": "56b4f4abe2",
+    "titel": "Düsseldorfs Risch erklärt die Wende unter Langeneke",
+    "datum": "24.11.",
+    "stufe": "sonstiges",
+    "summary": "Düsseldorfs Linksverteidiger Sascha Risch führt die zwei Siege unter Trainer Jens Langeneke auf eine bessere Grundeinstellung zurück. Die Fortuna ist nach 14 Spielen Elfter mit elf Punkten Rückstand auf die Top 3."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "3e7840466e",
+  "schluessel": "wurzburg|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Würzburg",
+  "klubs": [
+   "Würzburg"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "\"Wir müssen das Spiel vorher für uns entscheiden\": Würzburgs Trainer Schiele trotz Sieg gegen Fortuna selbstkritisch",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNDVpSU1lZENLNGxiSndMeTMtY1lVYVZsZlluem53bkJEejVTdDRDSmFtX0tqSUxHV2N5ZWI4d0VfejFFSk1CYmF2YnZGRG41dzl3amsySWVNYjlUMEw1QnBHeGJqV19ONlJYSXNZazNXRHhTQkVNMWxBc1JOdkhqRnB0STJESUVLM19JU2RGZ1ZnSHFJbVdPTHREanZMTUxadGZxVFFMazE1U2ZXb21uZVhmNS0zTTBmaGYwWG9WMWFndw?oc=5",
+    "aid": "be3d05e1e8",
+    "titel": "\"Wir müssen das Spiel vorher für uns entscheiden\": Würzburgs Trainer Schiele trotz Sieg gegen Fortuna selbstkritisch",
+    "quelle": "WEB.DE",
+    "beschr": " \"Wir müssen das Spiel vorher für uns entscheiden\": Würzburgs Trainer Schiele trotz Sieg gegen Fortuna selbstkritisch &nbsp;&nbsp; WEB.DE ",
+    "zeit": "2026-11-28T20:48"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-28T22:30",
+  "archiv": [
+   {
+    "id": "45eca3fee5",
+    "titel": "Hermes trifft doppelt: Regensburg schlägt Würzburg 2:1",
+    "datum": "21.11.",
+    "stufe": "spielbericht",
+    "summary": "Jahn Regensburg gewinnt am 14. Spieltag 2:1 gegen Würzburg, beide Tore erzielt Lucas Hermes. Regensburg steht nun mit 16 Punkten auf Rang 14, Würzburg mit 14 Punkten auf Platz 16."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "5f2d4e4f6d",
+  "schluessel": "rostock|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Rostock",
+  "klubs": [
+   "Rostock"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "\"Es braucht den Hunger auf mehr!\": Hansa-Kapitän Pfanne fordert nach Heimsieg weitere Schritte",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUEcwa0c3SUZqbmc3X1VBeGZKcnozbGx4VmRuVUJaa1VjYmpRYmpHck9ZTzJnRWVDZlROWkZBTWdpTTZxaFhhc0pDM0Y0a2pBc3ZKSGNFeUZ6bmZibkN2b0VMcVVnSGk2WlJZVlAyNmEzTEdNMTBKS2ExYlRYM3M3R3otXzdVeVF3eXJKWk1ZOWstZkRkLVVN?oc=5",
+    "aid": "ab05168efc",
+    "titel": "\"Es braucht den Hunger auf mehr!\": Hansa-Kapitän Pfanne fordert nach Heimsieg weitere Schritte",
+    "quelle": "WEB.DE",
+    "beschr": " \"Es braucht den Hunger auf mehr!\": Hansa-Kapitän Pfanne fordert nach Heimsieg weitere Schritte &nbsp;&nbsp; WEB.DE ",
+    "zeit": "2026-11-28T20:42"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-28T22:30",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "9887568d34",
+  "schluessel": "duisburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Duisburg",
+  "klubs": [
+   "Duisburg",
+   "Großaspach"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "MSV Duisburg: Kother über Doppelpack – Aspach-Trainer ledert: „Regel kann man sich auch sparen“",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORmM4ZVRTaXNRODg1UGdjV2dhNC1MOVplNVA1LUlJM0NoNUdtd2lQQ1pXeWM4Ti03akhfVUVwbU9kMHhVR3dpOGRlU3hVOTZCSE1Qd0Q3NF9nMXdzS1NVZ1pHQXloSlNYMm1aZ0hvMGljMWtoRGNyOGF3YUt3bVl5U3RlY25kSm13U1ZOVDktQ24zZnZ3RHVoS1E5aXRNQzhNTVIwYjBxZUhiYUhzNVpBWlphaThObExGb1hBZXBTNUljeFpGelhXZHVTNm5KcGxyVERN?oc=5",
+    "aid": "4166220890",
+    "titel": "MSV Duisburg: Kother über Doppelpack – Aspach-Trainer ledert: „Regel kann man sich auch sparen“",
+    "quelle": "RevierSport online",
+    "beschr": " MSV Duisburg: Kother über Doppelpack – Aspach-Trainer ledert: „Regel kann man sich auch sparen“ &nbsp;&nbsp; RevierSport online ",
+    "zeit": "2026-11-28T19:04"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-28T22:30",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "773cc67ca3",
+  "schluessel": "grossaspach|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Großaspach",
+  "klubs": [
+   "Großaspach"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "#SGSMSV | Die Pressekonferenz nach dem Auswärtssieg gegen Großaspach",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNkE1ZkJjaHJtTXFleUVJb01zMW92X1Rtak5Ra19XTXRPNFlSckFfN2xWVmpMMXZMWGVFLUpMRWdydkZVN0U0a1FzaHZtN1lmTDFZZXRCNVNmSV9icHRFMmJGd0NKWVBxOEh5ODVGbnpXUm9lYkJSbTN0emZPNUlmdGNqbFFsU2RhRjc0bWFORDdMWGJRbVhaeE9aYl9Pd0d0YWxFbFBHVWlTYjVwUFFJV0NOSk0?oc=5",
+    "aid": "14b16fa6f5",
+    "titel": "#SGSMSV | Die Pressekonferenz nach dem Auswärtssieg gegen Großaspach",
+    "quelle": "MSV Duisburg",
+    "beschr": " #SGSMSV | Die Pressekonferenz nach dem Auswärtssieg gegen Großaspach &nbsp;&nbsp; MSV Duisburg ",
+    "zeit": "2026-11-28T20:09"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-28T22:30",
+  "archiv": [
+   {
+    "id": "b317ca2504",
+    "titel": "Düsseldorf gegen Großaspach: Zwei Teams suchen den Erfolg",
+    "datum": "18.11.",
+    "stufe": "sonstiges",
+    "summary": "Fortuna Düsseldorf trifft am Samstag auf Großaspach und sucht nach vier Spielen ohne Sieg einen Erfolg. Beide Teams sind formschwach und liegen vier Punkte auseinander."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "6fb1c07313",
+  "schluessel": "hoffenheim ii|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hoffenheim II",
+  "klubs": [
+   "Hoffenheim II"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Interview nach TSG Hoffenheim II | 15. Spieltag | #immeRWEiter #nurderrwe",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZG9VeGFLRTNOME5ObU1zOWV0TUxoWUZNUzNUb0NUTlNrRE83OFo5QnU0V3hHNlZLeXVVNmkyckhzZUIzbWdjQm5ycHhGNDJRM2JYcEs2RDM4MDYzdXlaaUdyQXBNRmdtaksydlBRb3FWREF1X2U4Wko3Nm9qM2pMMHpLT3Zjc3BLcmtlUDdKMURnS1Bo?oc=5",
+    "aid": "097c63fb2a",
+    "titel": "Interview nach TSG Hoffenheim II | 15. Spieltag | #immeRWEiter #nurderrwe",
+    "quelle": "Rot-Weiss Essen",
+    "beschr": " Interview nach TSG Hoffenheim II | 15. Spieltag | #immeRWEiter #nurderrwe &nbsp;&nbsp; Rot-Weiss Essen ",
+    "zeit": "2026-11-28T19:34"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-28T22:30",
+  "archiv": [
+   {
+    "id": "af269a4411",
+    "titel": "Hoffenheim II empfängt Münster: Duell der Plätze neun und 14",
+    "datum": "19.11.",
+    "stufe": "sonstiges",
+    "summary": "Hoffenheim II trifft am 21. November um 14:00 Uhr im Dietmar-Hopp-Stadion auf Preußen Münster. Die Gastgeber liegen mit 19 Punkten auf Rang neun, Münster mit 15 Zählern auf Platz 14."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "937b880d1c",
+  "schluessel": "rw essen|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "RW Essen",
+  "klubs": [
+   "RW Essen"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "RWE spielt wie ein „Spitzenteam“: Essens Fans können von Schalke 04 träumen",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTFVYNF9IYmpCckNnWUtLUFMxQm5laWE2N1pnRjFEdXZGdTlTZFJVbXc1bTM5OGNVZWpXSnRHbXNwZlFfYnFIZmFWRnZyb0NiUkx0UDlLWHVLblV3THVnOUdKZTV2YkQ2d3IyRnNzMkZwYnA5MUlhLTlWVDg4TDdXaGdndW42YVY2YUoxSmwxVjNkYVM0MW40elg5bVc2U2NHTGNHeGtvQ1NLVURUTHV1ZHk0YW5Fel9ZQ3UyYXNURk13QUVlekNsTnhCNmhsbXZCMzRB?oc=5",
+    "aid": "cf1eab878a",
+    "titel": "RWE spielt wie ein „Spitzenteam“: Essens Fans können von Schalke 04 träumen",
+    "quelle": "WAZ | Westdeutsche Allgemeine Zeitung",
+    "beschr": " RWE spielt wie ein „Spitzenteam“: Essens Fans können von Schalke 04 träumen &nbsp;&nbsp; WAZ | Westdeutsche Allgemeine Zeitung ",
+    "zeit": "2026-11-28T19:38"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-28T22:30",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "bed9eef558",
+  "schluessel": "rw essen|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "RW Essen",
+  "klubs": [
+   "RW Essen"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Rot-Weiss Essen: Ben Hüning überragt auch gegen Hoffenheim – der Abwehrchef weckt Begehrlichkeiten",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQXlRblk3MjdSVXVNMEdRU3MyaWtYa2JTbHhZZTc3dzZyVmw0UjVPSUlxZlNhRWNJTTIxZEQwQlNzaUR3eU9DSWgzWjVuSWw4SFM0dHZXaVVGLVdGWC1ZZWRYdHMxM0FQVVlPWE02c1ZVS3J1b0lxNHlzSjJjSzZSTHNfOTR0eFc5MUxqQkhya3FUQWpSVUdlelRkTjNhbnd3elA1eGN0YkhyckpleDNuRktTei1KSFhac1prRUdYSVBQN1hCUmw2bjdENnlaeDZKN1JsLUpmbw?oc=5",
+    "aid": "36442b95a6",
+    "titel": "Rot-Weiss Essen: Ben Hüning überragt auch gegen Hoffenheim – der Abwehrchef weckt Begehrlichkeiten",
+    "quelle": "WAZ | Westdeutsche Allgemeine Zeitung",
+    "beschr": " Rot-Weiss Essen: Ben Hüning überragt auch gegen Hoffenheim – der Abwehrchef weckt Begehrlichkeiten &nbsp;&nbsp; WAZ | Westdeutsche Allgemeine Zeitung ",
+    "zeit": "2026-11-28T20:22"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-28T22:30",
+  "archiv": [
+   {
+    "id": "f8aabd22db",
+    "titel": "Verl vor Essen: Schwächste Abwehr trifft auf beste Defensive",
+    "datum": "18.11.",
+    "stufe": "sonstiges",
+    "summary": "Der SC Verl empfängt Rot-Weiss Essen mit vier Niederlagen in Folge und der schwächsten Abwehr im direkten Vergleich. Essen stellt mit 13 Gegentoren die beste Defensive der 3. Liga."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "066b182892",
+  "schluessel": "rw essen|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "RW Essen",
+  "klubs": [
+   "RW Essen"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Rot-Weiss Essen: Spitzenreiter-Chöre, Distanzhammer - Sietan erlebt \"herzerwärmenden\" Tag",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSG1aTFRhTFliUWN3S1hDNWlIdHFMcExicUNPN3FDZEU0eEZQSkNHbkFHM2d4a1VnYmhqUVA3ek1BZjdJUGlnaFRIbVAyYUk2NFBMeVppVV9lb180OWxBN2Z3bFFvQkRuN1pUaFNxSHZ5T3ZObnpGQnVlZ1Bwc0xKMlhEVGFWUkR1Yi1ndVRLSDkwbVJkYmlwSlVLSm5CS1FOSFFYV1o3LTI1MVA3SUJTb1FoSUdkUEs2cEw5V1V5cWd6T05nTnM1dmJibjNlbjh3Z3BQeVEwQ1RCQQ?oc=5",
+    "aid": "844d80346c",
+    "titel": "Rot-Weiss Essen: Spitzenreiter-Chöre, Distanzhammer - Sietan erlebt \"herzerwärmenden\" Tag",
+    "quelle": "RevierSport online",
+    "beschr": " Rot-Weiss Essen: Spitzenreiter-Chöre, Distanzhammer - Sietan erlebt \"herzerwärmenden\" Tag &nbsp;&nbsp; RevierSport online ",
+    "zeit": "2026-11-28T18:50"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-28T22:30",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "d69a3e4edf",
+  "schluessel": "rw essen|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "RW Essen",
+  "klubs": [
+   "RW Essen"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "RWE-Noten: Die zwei Essener Spieler des Spiels sind Hafenstraße pur",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUzZNdkdHYVNzd0FsN3BqcF9wY2I0VDZDbzh5NU85SDRNYWtOZm5FM1Npa0pyLWRuR2VRRXJ5cGRJQXBlWHhXTkx4R2JVZnNBcUwzRnhPeXRVT2FoTXFxNkhrNmRYeFZ4aXhwTjBUTmdKelFfSFEzVnoxMnRhNm0xZ2F6cE1sVk84YU9IdF9NV0N5MkJ1cG5wSGt6ZVJVLTltLS13a0hmWWpMR1MxSzFub2tMZXNYOFlWRTdEaXJIcUI3aDRhRUU1UlB3?oc=5",
+    "aid": "b1bc3dc2e1",
+    "titel": "RWE-Noten: Die zwei Essener Spieler des Spiels sind Hafenstraße pur",
+    "quelle": "WAZ | Westdeutsche Allgemeine Zeitung",
+    "beschr": " RWE-Noten: Die zwei Essener Spieler des Spiels sind Hafenstraße pur &nbsp;&nbsp; WAZ | Westdeutsche Allgemeine Zeitung ",
+    "zeit": "2026-11-28T18:24"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-28T22:30",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "b584dfb6e8",
+  "schluessel": "munster|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Münster",
+  "klubs": [
+   "Münster"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "\"Ich kann die Fans verstehen\": Preußen Münsters Marvin Schulz über Pfiffe nach dem 0:0",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNWVTM3FKQmVPTTVJcGk2aDhpLXo4ZzlmX2RVU1M3T1B5VUh0dWp2RUczZktuZ25OaHZvTUR1OGNLRzJ1YjIyc0xxWGdvNnBuekFyM0dUdDJkazlmVXZiNm14djJQdzNlSEZzeUtySTQ0QUNiSEEzT2ladUhEaktHOHRVaXlBQUF0cldaMzFWUlo4VzVvdmtsX3VWaU9tNWxXY1pvS1lHVmlYaEU?oc=5",
+    "aid": "f337d318ca",
+    "titel": "\"Ich kann die Fans verstehen\": Preußen Münsters Marvin Schulz über Pfiffe nach dem 0:0",
+    "quelle": "GMX.AT",
+    "beschr": " \"Ich kann die Fans verstehen\": Preußen Münsters Marvin Schulz über Pfiffe nach dem 0:0 &nbsp;&nbsp; GMX.AT ",
+    "zeit": "2026-11-28T20:57"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-28T22:30",
+  "archiv": [
+   {
+    "id": "68b90b357d",
+    "titel": "Münster und Verl trennen sich torlos im Kellerduell",
+    "datum": "28.11.",
+    "stufe": "spielbericht",
+    "summary": "Preußen Münster und der SC Verl trennen sich im Kellerduell 0:0 und beenden beide ihre Niederlagenserie. Münster ist 16., Verl 18., Trainer Thomas Wörle bleibt unter Druck."
+   },
+   {
+    "id": "212305520f",
+    "titel": "Hoffenheim II überrollt Münster mit 4:0",
+    "datum": "21.11.",
+    "stufe": "spielbericht",
+    "summary": "Hoffenheim II besiegt Preußen Münster in der 3. Liga mit 4:0. Dulic, Makanda, Fields und Zor treffen für die Gastgeber."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "159ef580df",
+  "schluessel": "mannheim|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Mannheim",
+  "klubs": [
+   "Mannheim"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "\"Das ist ein normales Foul\": Waldhof-Mannheim-Trainer Mota kritisiert Thills Platzverweis",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWmhCZ25OaGZ6VG1SanJGSlNVRjE4eUNxRDlWQjdvNktuTm9OZUZCblZOd2tDdHQ1VWp2bXFiNEpXaGFhenBiN3J6SWtmTFQxd0phTUNOWWVMSVR6am1keUNfSkI1RU4xUV9fQTFKZFZRZ0tUX2Y3WHEzdUljRUYzVDBRNGVpRjNXNnh0OXZaeHlQYWJDeGNIYXNVaTJ3RG4walIyX0I4aVgybEozTGpZYnRVOW9NVVZ6Q1I2VA?oc=5",
+    "aid": "63b40e58af",
+    "titel": "\"Das ist ein normales Foul\": Waldhof-Mannheim-Trainer Mota kritisiert Thills Platzverweis",
+    "quelle": "WEB.DE",
+    "beschr": " \"Das ist ein normales Foul\": Waldhof-Mannheim-Trainer Mota kritisiert Thills Platzverweis &nbsp;&nbsp; WEB.DE ",
+    "zeit": "2026-11-28T21:03"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-28T22:30",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "e41157ef14",
+  "schluessel": "mannheim|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "Mannheim",
+  "klubs": [
+   "Mannheim"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "\"Sie fand ich super. Nur die Aktion, da gehe ich jetzt nicht mit\": Boyd über Platzverweis beim Mannheimer Remis",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVFhQTllfZ3ZfTDZla1lNMl8wd3lrbjZQbi05MFpHSjFBVHJJNzBhRGV6YnZZUGZYbUtnSmU1dk1YN3E2U2pTTjJOVGJ1eGttRTJFOTR5U2l3cFhYRnhhSVlhcTVDbEE2bXd6ZzVVMlNRVXlQSjN4djE2djZfR1prb0dValRXVWVWMmkzQXRITmZSY094WkE5ajBRdi1DaUdtYkV6SQ?oc=5",
+    "aid": "df102cc6cb",
+    "titel": "\"Sie fand ich super. Nur die Aktion, da gehe ich jetzt nicht mit\": Boyd über Platzverweis beim Mannheimer Remis",
+    "quelle": "GMX.AT",
+    "beschr": " \"Sie fand ich super. Nur die Aktion, da gehe ich jetzt nicht mit\": Boyd über Platzverweis beim Mannheimer Remis &nbsp;&nbsp; GMX.AT ",
+    "zeit": "2026-11-28T21:06"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-28T22:30",
+  "archiv": [
+   {
+    "id": "baced90055",
+    "titel": "Mannheim verpasst Sieg: 1:1 gegen Stuttgart II trotz Boyd-Führung",
+    "datum": "28.11.",
+    "stufe": "spielbericht",
+    "summary": "Waldhof Mannheim trennt sich vom VfB Stuttgart II 1:1, nachdem Terrence Boyd getroffen hatte und Tim van der Leij ausglich. Vincent Thill sah Gelb-Rot und fehlt damit wohl in Duisburg."
+   },
+   {
+    "id": "ee9a36d563",
+    "titel": "Schroers trifft doppelt: Aachen schlägt Mannheim 3:0",
+    "datum": "22.11.",
+    "stufe": "spielbericht",
+    "summary": "Alemannia Aachen gewinnt gegen Waldhof Mannheim 3:0, Mika Schroers trifft doppelt, Ken Izekor in der Nachspielzeit. Mannheim fällt auf Platz neun und empfängt am Samstag Stuttgart II."
+   },
+   {
+    "id": "bdcbdf45f2",
+    "titel": "Waldhof Mannheim zieht mit 2:1 in das Halbfinale des Verbandspokals ein",
+    "datum": "19.11.",
+    "stufe": "spielbericht",
+    "summary": "Waldhof Mannheim gewann das Viertelfinale im badischen Verbandspokal bei der SpVgg Neckarsteinach mit 2:1. Damit steht der Drittligist im Halbfinale."
+   }
+  ],
   "versuche": 1
  }
 ]

@@ -1,5 +1,87 @@
 [
   {
+    "id": "f1de941370",
+    "titel": "Düsseldorf unterliegt in Würzburg trotz später Ergebniskosmetik 2:3",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "28.11.2026 22:33",
+    "wappen_url": "logos/duesseldorf.png",
+    "vereine": [
+      "Düsseldorf",
+      "Würzburg"
+    ],
+    "anriss": "Fortuna Düsseldorf hat in der 3. Liga bei den Würzburger Kickers mit 2:3 (1:2) verloren. Nach den Siegen im Niederrheinpokal und zuletzt in der Liga war es für die Rheinländer am Samstag ein Rückschlag. Trainer Jens Langeneke änderte seine Startelf im Vergleich zum 3:1 gegen",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Düsseldorf",
+    "pfad": "artikel/duesseldorf-unterliegt-in-wuerzburg-trotz-spaeter-ergebniskosmetik-2-3-f1de941370.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "79a5936032",
+    "titel": "Rot-Weiss Essen schlägt Hoffenheim II mit 2:0",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "28.11.2026 22:32",
+    "wappen_url": "logos/essen.png",
+    "vereine": [
+      "Hoffenheim II",
+      "RW Essen"
+    ],
+    "anriss": "Rot-Weiss Essen hat am 28. November 2026 in der 3. Liga die TSG Hoffenheim II mit 2:0 besiegt. Die Gastgeber blieben nach dem zweiten Treffer weiter torgefährlich und verpassten eine frühere Entscheidung nur knapp. Nach dem zweiten Essener Tor bot sich den Gastgebern die Chance",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "RW Essen",
+    "pfad": "artikel/rot-weiss-essen-schlaegt-hoffenheim-ii-mit-2-0-79a5936032.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "8c638d5def",
+    "titel": "Münster nach 0:0 gegen Verl: Wörle vor der Entscheidung",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "28.11.2026 22:32",
+    "wappen_url": "logos/muenster.png",
+    "vereine": [
+      "Münster",
+      "Verl"
+    ],
+    "anriss": "Preußen Münster steht nach dem 0:0 gegen Verl vor einer Entscheidung über Trainer Thomas Wörle. Am Sonntag folgt eine Krisensitzung der Gremien. Bereits am Samstagabend setzten sich die Entscheider noch im Stadion zu einem ersten Meinungsaustausch zusammen. Wie berichtet, hatte Münster Wörle nach dem 0:4",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Münster",
+    "pfad": "artikel/muenster-nach-0-0-gegen-verl-woerle-vor-der-entscheidung-8c638d5def.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
     "id": "68b90b357d",
     "titel": "Münster und Verl trennen sich torlos im Kellerduell",
     "kategorie": "news",
