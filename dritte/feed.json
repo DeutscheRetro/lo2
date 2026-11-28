@@ -1,5 +1,125 @@
 [
   {
+    "id": "4d59ef1692",
+    "titel": "RWE: Menzel kehrt zurück, Brumme als Mittelstürmer möglich",
+    "kategorie": "aufstellung",
+    "badge": "Aufstellung",
+    "badge_bg": "#2e7d32",
+    "badge_fg": "#fff",
+    "datum": "28.11.2026 03:29",
+    "wappen_url": "logos/essen.png",
+    "vereine": [
+      "RW Essen"
+    ],
+    "anriss": "Rot-Weiss Essen kann im Heimspiel gegen die TSG Hoffenheim II (Samstag, 14 Uhr) auf mehrere Rückkehrer setzen. Trainer Uwe Koschinat teilte am Freitag mit, dass Mittelfeldspieler Tony Menzel knapp drei Monate nach seinem Syndesmosebandriss in den Spieltagskader zurückkehrt. Die Leihgabe von Zweitligist Dynamo Dresden trainierte",
+    "spielerstatus": [
+      {
+        "spieler": "Menzel",
+        "klub": "RW Essen",
+        "status": "spielt",
+        "grund": "nach Syndesmosebandriss im Spieltagskader zurück"
+      },
+      {
+        "spieler": "Brumme",
+        "klub": "RW Essen",
+        "status": "spielt",
+        "grund": "Fußprellung überstanden"
+      },
+      {
+        "spieler": "Hofmann",
+        "klub": "RW Essen",
+        "status": "spielt",
+        "grund": "Fußprellung überstanden"
+      },
+      {
+        "spieler": "Janssen",
+        "klub": "RW Essen",
+        "status": "faellt_aus",
+        "grund": "Gelbsperre"
+      },
+      {
+        "spieler": "Telalovic",
+        "klub": "RW Essen",
+        "status": "faellt_aus",
+        "grund": "fehlt im Hoffenheim-Spiel"
+      },
+      {
+        "spieler": "Geschwill",
+        "klub": "RW Essen",
+        "status": "faellt_aus",
+        "grund": "fehlt im Hoffenheim-Spiel"
+      },
+      {
+        "spieler": "Pöpperl",
+        "klub": "RW Essen",
+        "status": "faellt_aus",
+        "grund": "fehlt im Hoffenheim-Spiel"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "RW Essen",
+    "pfad": "artikel/rwe-menzel-kehrt-zurueck-brumme-als-mittelstuermer-moeglich-4d59ef1692.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "b1cef9264b",
+    "titel": "Fortuna Düsseldorf plant im Winter punktuelle Verstärkungen",
+    "kategorie": "transfer",
+    "badge": "Transfer",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "28.11.2026 03:29",
+    "wappen_url": "logos/duesseldorf.png",
+    "vereine": [
+      "Düsseldorf"
+    ],
+    "anriss": "Fortuna Düsseldorf will im Winter trotz der enttäuschenden Saison keinen erneuten Umbruch vornehmen. Manager Samir Arabi und Sportdirektor Patrick Fabian sehen laut „Bild“ vor allem auf zwei Positionen Handlungsbedarf. Im vergangenen Sommer hatte die Fortuna 19 neue Spieler geholt, der erhoffte Erfolg blieb in der",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Düsseldorf",
+    "pfad": "artikel/fortuna-duesseldorf-plant-im-winter-punktuelle-verstaerkungen-b1cef9264b.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "bd533b8226",
+    "titel": "Saarbrücken gegen Aachen ohne Rizzuto: Wer spielt hinten rechts?",
+    "kategorie": "aufstellung",
+    "badge": "Aufstellung",
+    "badge_bg": "#2e7d32",
+    "badge_fg": "#fff",
+    "datum": "28.11.2026 03:28",
+    "wappen_url": "logos/saarbruecken.png",
+    "vereine": [
+      "Aachen",
+      "Saarbrücken"
+    ],
+    "anriss": "Der 1. FC Saarbrücken muss im Heimspiel gegen Alemannia Aachen (Samstag, 14 Uhr) auf Calogero Rizzuto verzichten. Der Rechtsverteidiger fällt mit einem Muskelfaserriss aus. Trainer Argirios Giannikis muss seine Abwehr damit erneut umbauen. Eine Option ist Nico Bretschneider. Der Linksverteidiger hat in seiner Karriere bislang",
+    "spielerstatus": [
+      {
+        "spieler": "Rizzuto",
+        "klub": "Saarbrücken",
+        "status": "faellt_aus",
+        "grund": "Muskelfaserriss"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Saarbrücken",
+    "pfad": "artikel/saarbruecken-gegen-aachen-ohne-rizzuto-wer-spielt-hinten-rechts-bd533b8226.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "reaktion",
+      "frage": "",
+      "antworten": [
+        "💚 Gute Besserung"
+      ]
+    },
+    "n11": false
+  },
+  {
     "id": "bafebe4db6",
     "titel": "RWE sucht Mittelstürmer: Otto und vier weitere Kandidaten im Blick",
     "kategorie": "transfer",
@@ -49,7 +169,7 @@
   },
   {
     "id": "38f966d321",
-    "titel": "Wilhelm vor dem Derby: „Von der Tabelle können wir uns nichts kaufen“",
+    "titel": "Wilhelm vor Derby gegen Fortuna: „Können uns keinen Punkt erkaufen“",
     "kategorie": "interview",
     "badge": "Interview",
     "badge_bg": "#1976d2",
@@ -70,7 +190,7 @@
   },
   {
     "id": "4d9b7dab3e",
-    "titel": "FC Ingolstadt: Carlsen fällt vor Derby gegen Regensburg monatelang aus",
+    "titel": "FC Ingolstadt: Carlsen fehlt wohl bis ins neue Jahr",
     "kategorie": "verletzung",
     "badge": "Verletzung",
     "badge_bg": "#e53935",
@@ -81,7 +201,7 @@
       "Ingolstadt",
       "Regensburg"
     ],
-    "anriss": "Der FC Ingolstadt muss im Derby gegen Regensburg am Sonntag (19.30 Uhr) auf Fredrik Carlsen verzichten. Der Spieler fällt mit einer Knieverletzung sehr wahrscheinlich bis ins neue Jahr aus. Das bestätigte Trainer Achim Beierlorzer am Tag nach der Jahresversammlung des Stammvereins. Carlsen hatte vor einer",
+    "anriss": "Der FC Ingolstadt muss vor dem Derby am Sonntag (19.30 Uhr) einen Ausfall verkraften. Fredrik Carlsen fällt mit einer Knieverletzung sehr wahrscheinlich bis ins neue Jahr aus. Das bestätigte Trainer Achim Beierlorzer am Tag nach der Jahresversammlung des Stammvereins. Carlsen hatte vor einer Woche vorzeitig",
     "spielerstatus": [
       {
         "spieler": "Carlsen",
@@ -117,7 +237,7 @@
       "Saarbrücken",
       "Wiesbaden"
     ],
-    "anriss": "Der SV Wehen Wiesbaden will nach der 1:2-Niederlage in Saarbrücken am Sonntag (16.30 Uhr) gegen den SV Meppen wieder punkten. Trainer Jochen Seitz muss in der Brita Arena auf David Suárez und Sinan Karweina verzichten. Wie berichtet, hatte der FCS die Partie am 22. November",
+    "anriss": "Der SV Wehen Wiesbaden will nach der 1:2-Niederlage in Saarbrücken am Sonntag (16.30 Uhr) gegen den SV Meppen wieder punkten. Trainer Jochen Seitz muss in der Brita Arena auf David Suárez und Sinan Karweina verzichten. Der 1. FC Saarbrücken hatte die Partie am 22. November",
     "spielerstatus": [
       {
         "spieler": "Suárez",
