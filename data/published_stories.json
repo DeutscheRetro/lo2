@@ -5276,5 +5276,77 @@
     },
     "published_at": "2026-11-27T21:03:45.944835",
     "source": "SPORT1"
+  },
+  {
+    "id": "2ad3df5065",
+    "generated_title": "Heidenheim beendet Serie: 3:1 gegen Nürnberg nach sieben Spielen ohne Sieg",
+    "original_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVGNTSUJmQ29qMzBlLU1lamRXVW4xTjdpd1J5ekpvekJOOV8wV1ZTNms4U3VCMzZhSXF0ODBUTE53cExIMm9PUzhNRElMWnBUb09nSnB5T1FQTHlRNWdYMEUweEJaeEU3X1dNR2NuZHdSYk5vWGlQYUxsaWMtTHl6cg?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Heidenheim",
+      "event_stage": "spielbericht",
+      "main_teams": [
+        "Heidenheim",
+        "Nürnberg"
+      ],
+      "main_players": [
+        "Jan Schöppner",
+        "Patrick Mainka",
+        "Frank Schmidt"
+      ],
+      "summary": "Der 1. FC Heidenheim gewinnt am 13. Spieltag der 2. Bundesliga 3:1 gegen Nürnberg und beendet eine Serie von sieben Spielen ohne Sieg. Mainka, Zivzivadze und Schöppner treffen, dazu fällt ein Eigentor von Costly.",
+      "one_sentence_summary": "Der 1.",
+      "schluessel": "jan schoppner|spiel"
+    },
+    "published_at": "2026-11-28T06:06:46.346055",
+    "source": "SWR"
+  },
+  {
+    "id": "19ff114da9",
+    "generated_title": "Kiel empfängt mit Kaiserslautern die beste Defensive der Liga",
+    "original_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMU1sNUhuTjJTeXBXSEo2OEQ0VmpfWTNkUUJWckUtUlM4QzV5bElMQmF5T0F2bERTeV9lT2xxNXYxV2hRbk14T0d3VXhKN3NOTU1sNW5PTW1vbGNOQ2ZFRHFPQ1VqcjQ5V3VHeE44Q3cyRElsbC1HUzdvdUFnQjJ0RnltYWNZdnBZWmR6a0RFODdIX295UEJKVdIBngFBVV95cUxNcVNrQWdwRFNnREIwY25mUjBGZmhsNkJ6QmtPeDIxM1Z5U3Z4WHRSU180TnFoVDRLellGYkJtVWVIUzFUcDRxc2Y3NUtfdTJoQzJFTk9YMnpOQjZKbmZLa000YXBRdnF3WXJlMWFZVXgwS1RNRG9QamhQNVJUYlktVDN2U250XzZ1a3FFcTRmdjVZc3lrZ1FUeXNiZHFadw?oc=5",
+    "fingerprint": {
+      "event_type": "analyse",
+      "main_club": "Kiel",
+      "event_stage": "sonstiges",
+      "main_teams": [
+        "Kaiserslautern",
+        "Kiel",
+        "Wolfsburg"
+      ],
+      "main_players": [
+        "Julian Krahl",
+        "Jan Elvedi",
+        "Mitch Kniat"
+      ],
+      "summary": "Holstein Kiel empfängt am Sonnabend den 1. FC Kaiserslautern, der gemeinsam mit Hertha die beste Defensive der Liga stellt. Der FCK hat erst zwölf Tore erzielt, das letzte Duell in Kiel gewannen die Störche im April mit 3:0.",
+      "one_sentence_summary": "Holstein Kiel empfängt am Sonnabend den 1.",
+      "schluessel": "julian krahl|sonstiges"
+    },
+    "published_at": "2026-11-28T06:06:46.414809",
+    "source": "HL-SPORTS"
+  },
+  {
+    "id": "6da2ed3fc4",
+    "generated_title": "Hertha: 15 Eigengewächse, aber nur drei tragen die Last",
+    "original_url": "https://www.sportschau.de/regional/rbb/rbb-hertha-die-wahrheit-hinter-den-15-eigengewaechsen-100.html",
+    "fingerprint": {
+      "event_type": "analyse",
+      "main_club": "Hertha",
+      "event_stage": "sonstiges",
+      "main_teams": [
+        "Hertha"
+      ],
+      "main_players": [
+        "Linus Gechter",
+        "Julian Eitschberger",
+        "Marius Gersbeck"
+      ],
+      "summary": "Hertha BSC stellt mit 15 Eigengewächsen den Ligabestwert, doch Gersbeck, Gechter und Eitschberger sammeln über 83 Prozent der Einsatzminuten. Dortmund soll Interesse an Gechter haben, Trainer Leitl will ihn halten.",
+      "one_sentence_summary": "Hertha BSC stellt mit 15 Eigengewächsen den Ligabestwert, doch Gersbeck, Gechter und Eitschberger sammeln über 83 Prozent der Einsatzminuten.",
+      "schluessel": "linus gechter|sonstiges"
+    },
+    "published_at": "2026-11-28T06:06:46.482795",
+    "source": "sportschau.de"
   }
 ]

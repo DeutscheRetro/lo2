@@ -1,5 +1,86 @@
 [
   {
+    "id": "19ff114da9",
+    "titel": "Kiel empfängt mit Kaiserslautern die beste Defensive der Liga",
+    "kategorie": "analyse",
+    "badge": "Analyse",
+    "badge_bg": "#6a1fbf",
+    "badge_fg": "#fff",
+    "datum": "28.11.2026 06:05",
+    "wappen_url": "logos/kiel.png",
+    "vereine": [
+      "Kaiserslautern",
+      "Kiel",
+      "Wolfsburg"
+    ],
+    "anriss": "Holstein Kiel erwartet am Sonnabend im Holstein-Stadion den 1. FC Kaiserslautern. Die Pfälzer stellen gemeinsam mit Hertha BSC die beste Defensive der 2. Bundesliga. Für die Störche ist es nach dem Duell mit dem VfL Wolfsburg die nächste anspruchsvolle Aufgabe. Am vergangenen Wochenende trafen die",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Kiel",
+    "pfad": "artikel/kiel-empfaengt-mit-kaiserslautern-die-beste-defensive-der-liga-19ff114da9.html",
+    "bild_tm": "",
+    "umfrage": null,
+    "n11": false
+  },
+  {
+    "id": "6da2ed3fc4",
+    "titel": "Hertha: 15 Eigengewächse, aber nur drei tragen die Last",
+    "kategorie": "analyse",
+    "badge": "Analyse",
+    "badge_bg": "#6a1fbf",
+    "badge_fg": "#fff",
+    "datum": "28.11.2026 06:05",
+    "wappen_url": "logos/hertha.png",
+    "vereine": [
+      "Hertha"
+    ],
+    "anriss": "Zweitliga-Tabellenführer Hertha BSC hat mit 15 Eigengewächsen im Lizenzspielerkader den Bestwert der Liga. Nach den ersten 14 Pflichtspielen verteilt sich die Einsatzzeit aber auf erstaunlich wenige Spieler. Acht Nachwuchsprofis warten in dieser Saison noch auf ihre erste Pflichtspielminute. Torhüter Marius Gersbeck und Innenverteidiger Linus Gechter",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Hertha",
+    "pfad": "artikel/hertha-15-eigengewaechse-aber-nur-drei-tragen-die-last-6da2ed3fc4.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "recht",
+      "frage": "Hat Görlich recht: Ist der interne Transfer der beste für Hertha?",
+      "antworten": [
+        "Ja",
+        "Nein"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "2ad3df5065",
+    "titel": "Heidenheim beendet Serie: 3:1 gegen Nürnberg nach sieben Spielen ohne Sieg",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "28.11.2026 06:04",
+    "wappen_url": "logos/heidenheim.png",
+    "vereine": [
+      "Heidenheim",
+      "Nürnberg"
+    ],
+    "anriss": "Der 1. FC Heidenheim hat am 13. Spieltag der 2. Bundesliga den 1. FC Nürnberg mit 3:1 (1:1) besiegt. Es war der erste Erfolg seit dem 13. September, damals hatte der FCH Holstein Kiel mit 1:0 geschlagen. Danach folgten sieben Spiele ohne Sieg. Mit nun",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Heidenheim",
+    "pfad": "artikel/heidenheim-beendet-serie-3-1-gegen-nuernberg-nach-sieben-spielen-ohne-2ad3df5065.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    },
+    "n11": false
+  },
+  {
     "id": "a6f7ff271f",
     "titel": "Bochum siegt spät gegen Darmstadt und setzt sich von der Zone ab",
     "kategorie": "news",
