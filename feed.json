@@ -1,5 +1,65 @@
 [
   {
+    "id": "faf87deaf0",
+    "titel": "Kiel schlägt Kaiserslautern 3:0 und verlässt den letzten Platz",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "28.11.2026 15:05",
+    "wappen_url": "logos/kiel.png",
+    "vereine": [
+      "Kaiserslautern",
+      "Kiel"
+    ],
+    "anriss": "Holstein Kiel hat den 1. FC Kaiserslautern mit 3:0 besiegt und dadurch vorübergehend den letzten Tabellenrang verlassen. Für die Kieler war es der erste Sieg seit dem 3:0 gegen Dynamo Dresden am 25. Oktober und der erste Dreier nach drei Ligaspielen ohne Erfolg. Mit nun",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Kiel",
+    "pfad": "artikel/kiel-schlaegt-kaiserslautern-3-0-und-verlaesst-den-letzten-platz-faf87deaf0.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "f8666038be",
+    "titel": "Dynamo dreht Spiel gegen St. Pauli in der Nachspielzeit",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "28.11.2026 15:05",
+    "wappen_url": "logos/dresden.png",
+    "vereine": [
+      "Dresden",
+      "St. Pauli"
+    ],
+    "anriss": "Dynamo Dresden hat das Heimspiel gegen den FC St. Pauli mit 2:1 (0:0) gewonnen. Thomas Keller per Foulelfmeter (90.+4) und Kaan Inanoglu (90.+6) drehten die Partie in der Nachspielzeit. Vor 30.500 Zuschauern im Rudolf-Harbig-Stadion sprang die SGD mit 15 Punkten auf Platz 10. Im ersten",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Dresden",
+    "pfad": "artikel/dynamo-dreht-spiel-gegen-st-pauli-in-der-nachspielzeit-f8666038be.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    },
+    "n11": false
+  },
+  {
     "id": "b7795c6e3e",
     "titel": "Voll vor Dresden: St. Pauli will den ersten Auswärtssieg",
     "kategorie": "interview",

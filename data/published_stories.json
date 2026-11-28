@@ -5371,5 +5371,53 @@
     },
     "published_at": "2026-11-28T09:05:00.348275",
     "source": "MOPO"
+  },
+  {
+    "id": "faf87deaf0",
+    "generated_title": "Kiel schlägt Kaiserslautern 3:0 und verlässt den letzten Platz",
+    "original_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ1F3R0ZERENqM3V4X0dJZ1BQVnV0SzljRlVZUXl6Ri10X0VQZ25DbEJHeWs3WjRjNzlrOWJya3l0RHpkUXk5Unp6UWpHRzRJamlENzlYZk5UUUpfLUNPdE1lQXNwaWltRW1nZ3VaRnhjRnpXWHlCN0thdVF4NldDTmNvMnpDNGdzU200V21MbEFsZl9VT0F6YW10QWM1eDB4WUR1RnBzcTA?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Kiel",
+      "event_stage": "spielbericht",
+      "main_teams": [
+        "Kaiserslautern",
+        "Kiel"
+      ],
+      "main_players": [
+        "Phil Harres",
+        "Lasse Rosenboom",
+        "Jonas Therkelsen"
+      ],
+      "summary": "Holstein Kiel besiegt den 1. FC Kaiserslautern mit 3:0 und verlässt vorerst den letzten Tabellenplatz. Harres, Rosenboom und Therkelsen treffen, am Dienstag wartet im DFB-Pokal der 1. FC Köln.",
+      "one_sentence_summary": "Holstein Kiel besiegt den 1.",
+      "schluessel": "phil harres|spiel"
+    },
+    "published_at": "2026-11-28T15:06:08.949299",
+    "source": "NDR.de"
+  },
+  {
+    "id": "f8666038be",
+    "generated_title": "Dynamo dreht Spiel gegen St. Pauli in der Nachspielzeit",
+    "original_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ3hYRkF5QWFZa0p3cERzZ3RfSjBNdEFqdWJIQkozWTVpSlBMMWtNNkNhTFFZQ1dmaG1WZ09idTI5eGxCZVlKSk9wT0lrakZFbTdsSDc4czJILXVhWHg1RWhYaUhaWnNLUkNscFdoZHktbG5wVHJqZ0xGRnZEampHZmNRUWR5dw?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Dresden",
+      "event_stage": "spielbericht",
+      "main_teams": [
+        "Dresden",
+        "St. Pauli"
+      ],
+      "main_players": [
+        "Thomas Keller",
+        "Kaan Inanoglu",
+        "Jakob Lemmer"
+      ],
+      "summary": "Dynamo Dresden gewinnt gegen St. Pauli 2:1, nachdem Keller per Foulelfmeter und Inanoglu in der Nachspielzeit einen 0:1-Rückstand drehen. Dresden springt mit 15 Punkten auf Platz 10.",
+      "one_sentence_summary": "Dynamo Dresden gewinnt gegen St.",
+      "schluessel": "thomas keller|spiel"
+    },
+    "published_at": "2026-11-28T15:06:09.008368",
+    "source": "Radio Dresden"
   }
 ]
