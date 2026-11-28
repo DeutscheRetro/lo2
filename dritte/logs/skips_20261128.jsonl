@@ -104,3 +104,183 @@
 {"ts": "2026-11-28T03:29:50.833291", "id": "d32ec5f7fa", "title": "RWE: Kommt Youtube-Star Nader Jindaoui nach Essen? In Hoffenheim hat er Probleme", "stage": "stage7", "reason": "zu_wenig_quelltext"}
 {"ts": "2026-11-28T03:29:51.607343", "id": "a5f4213f34", "title": "DFB verhängt Geldstrafe: Die Würzburger Kickers müssen zum zweiten Mal für Zuspä", "stage": "stage7", "reason": "zu_wenig_quelltext"}
 {"ts": "2026-11-28T03:29:52.489765", "id": "7a6d83709d", "title": "Kasra Ghawilu über sein erstes Tor für den SV Meppen, seine Verletzung und den T", "stage": "stage7", "reason": "zu_wenig_quelltext"}
+{"ts": "2026-11-28T17:32:24.819134", "id": "348ec78a67", "title": "Das nächste, bitte: Noch ein Modell für die Regionalliga-Reform?", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-28T17:32:26.560145", "id": "d5227aa201", "title": "Max Merkels „Bild“-Kolumne: Hart – nicht gegen sich selbst, aber gegen andere", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-28T17:32:26.560722", "id": "48298d8a8d", "title": "Welche Profis für den VfB Stuttgart und Eintracht Frankfurt spielten: Schwäbisch", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-28T17:32:26.562071", "id": "d99e379bc9", "title": "Zweite Liga in Polen: Fan brettert mit E-Scooter über den Platz", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-28T17:32:27.149018", "id": "7d9ac59938", "title": "RWE gegen Hoffenheim heute live: So sehen Sie die 3. Liga live im TV und Stream", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-28T17:32:27.151716", "id": "3344f039ea", "title": "Diese Spiele der 3. Liga werden heute live im Free-TV übertragen", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-28T17:32:27.153593", "id": "28a252be94", "title": "Laut Computer-Prognose – wie die Fortuna-Saison bis zum 38. Spieltag verläuft", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-28T17:32:27.153930", "id": "2daf7d67e5", "title": "Übertragung der 3. Liga 26/27: Welche Spiele laufen im Free-TV und wo kann man s", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-28T17:32:27.154102", "id": "6b2b5c2c5e", "title": "3. Liga: Essen setzt sich an die Spitze", "stage": "stage2", "reason": "batch_title_dup_100pct"}
+{"ts": "2026-11-28T17:32:27.154314", "id": "578a1d2bb2", "title": "Rot-Weiss Essen gegen TSG Hoffenheim II jetzt live im TV und Stream: Hier sehen ", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-28T17:32:27.155687", "id": "755284d514", "title": "Live im Free-TV und im Stream: Fortuna Düsseldorf gegen die Würzburger Kickers –", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-28T17:32:27.156402", "id": "3e62289d34", "title": "SG Sonnenhof Großaspach gegen MSV Duisburg heute live im TV und Stream: Hier seh", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-28T17:32:27.159112", "id": "65c0035f0e", "title": "Dieses Team verblüfft Fußball-Deutschland", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-28T17:32:27.160396", "id": "040b9d899d", "title": "Punktgewinn nach Rückstand", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-28T17:32:27.160662", "id": "2310635d2b", "title": "1. FC Saarbrücken gegen Alemannia Aachen jetzt live im TV und Stream: Hier sehen", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-28T17:32:27.164424", "id": "4385ac4099", "title": "3. Liga in Gütersloh: Finanzierung fürs Heidewaldstadion bleibt offen", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-28T17:32:27.167853", "id": "74ab281082", "title": "\"Völlig beschissen\" - FCK-Totalausfall bei Schlusslicht Kiel", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-28T17:32:27.168521", "id": "fa74ceb71b", "title": "Mit Zagadou und Sauer: VfB Stuttgart II punktet bei Waldhof Mannheim", "stage": "stage2", "reason": "batch_title_dup_100pct"}
+{"ts": "2026-11-28T17:32:27.177674", "id": "a060b3b5c3", "title": "Nicht nur Politiker und Sänger: Abstieg ändert nichts an der Treue – diese Promi", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-28T17:32:27.181792", "id": "5022e13401", "title": "Das nächste, bitte: Noch ein Modell für die Regionalliga-Reform?", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-28T17:32:27.182848", "id": "6c4344addb", "title": "Fußball heute: So sehen Sie HSV, Bayern und Schalke live im TV und Stream", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-28T17:32:27.186133", "id": "8d4fedf8c8", "title": "Re-Live: Die Sportschau vom Freitag mit Bremen gegen Mönchengladbach", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-28T17:32:27.191301", "id": "497cc6b28d", "title": "\"Sind aktuell natürlich nicht zufrieden\" - Fimpel über die schwierige Hinrunde", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-28T17:32:27.194887", "id": "ced2631106", "title": "Schalke: El-Faouzis Rückkehr - Beim SCP unterm Radar, heute wertvollster Schalke", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-28T17:32:27.197261", "id": "c6effb9f28", "title": "Das Halbfinale im Westfalenpokal wurde ausgelost", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-28T17:32:29.813150", "id": "4022ae4aea", "title": "3. Liga - Saarbücken 0 - 1 Alemannia Aachen", "stage": "stage2", "reason": "batch_title_dup_100pct"}
+{"ts": "2026-11-28T17:32:30.102233", "id": "9dc00d6a76", "title": "Mit junger Ersatzbank: Viktoria Aschaffenburg gewinnt erstmals nach Rückstand | ", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-28T17:32:30.105198", "id": "f6b0811d78", "title": "Streit um Regionalliga-Reform: Fanszenen machen Ernst, „Bomber“ Kirsten kritisie", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-28T17:32:30.109562", "id": "4152dd2a37", "title": "Fortuna Düsseldorf: Ausgangslage und News vor FC Würzburger Kickers am 28.11.202", "stage": "stage2", "reason": "batch_title_dup_94pct"}
+{"ts": "2026-11-28T17:32:30.438863", "id": "e6d54ea582", "title": "Würzburger Kickers gegen Fortuna Düsseldorf jetzt live im TV und Stream: Hier se", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-28T17:32:30.446916", "id": "1d72e94c3f", "title": "Slimani, Wekesser oder Eixler – Fortuna-Trio in enger Verlosung für Startelf-Rüc", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-28T17:32:30.450162", "id": "981ad901c9", "title": "Ex-BVB-Angreifer als Option: Für Fortunas Transfer-Winter – diese Profis sind de", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-28T17:32:30.450623", "id": "d7f2c2cbf8", "title": "15. Spieltag: Würzburger Kickers - Fortuna Düsseldorf - Fortuna Düsseldorf - For", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-28T17:32:30.742370", "id": "5e7c2ca501", "title": "(U-19-DFB-Nachwuchsliga (Vorrunde))", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-28T17:32:31.061360", "id": "735305bf8e", "title": "Spielereignisse | 1. FC Union Berlin - Hansa Rostock 5:2 | 13. Spieltag | U-17-D", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-28T17:32:31.061935", "id": "c5daf28150", "title": "Spielereignisse | Hansa Rostock - 1. FC Magdeburg 1:4 | 11. Spieltag | Frauen-Re", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-28T17:32:31.064799", "id": "afe6f39fd0", "title": "Von zwölf Zuschauern zur großen Bühne – zwei Trainer und ihr besonderes Wiederse", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-28T17:32:31.415785", "id": "d33627f9a9", "title": "Nach U17 auch U21-Heimspiel abgesagt -", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-28T17:32:31.417236", "id": "edf44e8ec2", "title": "(U-17-DFB-Nachwuchsliga (Vorrunde))", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-28T17:32:31.418557", "id": "1cb0141ce2", "title": "Fußball: Würzburger Kickers vor Duell mit Absteiger Fortuna Düsseldorf", "stage": "stage2", "reason": "batch_title_dup_100pct"}
+{"ts": "2026-11-28T17:32:31.771726", "id": "29557e38c4", "title": "Personalsorgen beim MSV: Duisburg plant mit Talenten aus der U19", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-28T17:32:32.085197", "id": "5cba533116", "title": "Jetzt live: SC Verl ist zu Gast bei SC Preußen Münster", "stage": "stage2", "reason": "batch_title_dup_94pct"}
+{"ts": "2026-11-28T17:32:32.088236", "id": "be306da934", "title": "Ähnliche Bilderstrecken", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-28T17:32:32.553613", "id": "dc8238d41a", "title": "Rot-Weiss Essen: Folgt für RWE-U17 nach Drama gegen BVB nun Sensation gegen Scha", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-28T17:32:32.555910", "id": "06fb6ff9dd", "title": "Regionalliga: RWO auf Aufstiegskurs! 4:2 gegen Bonn, über 4000 Fans sehen Heimsi", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-28T17:32:32.884008", "id": "9b6163e7b7", "title": "Spielereignisse | Rot-Weiß Erfurt - SC Verl 3:1 | 13. Spieltag | U-17-DFB-Nachwu", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-28T17:32:33.425675", "id": "32adddf6fe", "title": "Spielereignisse | Hannover 96 - SV Meppen 6:1 | 13. Spieltag | U-17-DFB-Nachwuch", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-28T17:32:33.775699", "id": "a0eb6cc739", "title": "(U-17-DFB-Nachwuchsliga (Vorrunde))", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-28T17:32:33.777432", "id": "978cd64272", "title": "Ter­rence Boyds Tor reicht dem SV Wald­hof nicht", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-28T17:32:33.780596", "id": "c231243eec", "title": "3. Liga - Waldhof Mannheim 1 - 1 Vfb Stuttgart II", "stage": "stage2", "reason": "batch_title_dup_100pct"}
+{"ts": "2026-11-28T17:32:34.062844", "id": "75f5f83a18", "title": "Eintracht Trier spricht im Podcast über die Nachwuchsarbeit", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-28T17:32:34.961965", "id": "4284475b9a", "title": "3. Fußball-Liga: Waldhof und Mannheim teilen die Punkte", "stage": "stage2", "reason": "batch_title_dup_100pct"}
+{"ts": "2026-11-28T17:32:34.965071", "id": "5f8d9fd21a", "title": "Fußball heute im TV: Übertragung der Spiele im Free-TV und Live-Stream", "stage": "stage2", "reason": "blacklist_keyword"}
+{"ts": "2026-11-28T17:32:34.965886", "id": "52eeb28b22", "title": "VfB Stuttgart: Zahlen und Fakten vor dem Spiel gegen die Riederwälder", "stage": "stage2", "reason": "nur_fremdklub"}
+{"ts": "2026-11-28T17:32:34.967939", "id": "a9e405b1c0", "title": "Formel 1 News: Formel 1 in Katar: Antonelli dominiert letztes Training", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-28T17:32:35.285919", "id": "393c447e4d", "title": "Fußball-Vereine Freundschaftsspiele", "stage": "stage3", "reason": "keyword_pre_filter"}
+{"ts": "2026-11-28T17:32:35.634396", "id": "ac0d014543", "title": "Würzburger Kickers nach fünftem Sieg auf dem Vormarsch", "stage": "stage2", "reason": "batch_title_dup_95pct"}
+{"ts": "2026-11-28T17:32:35.634731", "id": "6c6b327fa2", "title": "Würzburger Kickers nach fünftem Sieg auf dem Vormarsch", "stage": "stage2", "reason": "batch_title_dup_95pct"}
+{"ts": "2026-11-28T17:32:38.998023", "id": "60ec263174", "title": "RWE heute gegen Hoffenheim: Trotz großer Kälte – nur noch wenig Tickets übrig", "stage": "stage5", "reason": "randthema"}
+{"ts": "2026-11-28T17:35:23.989445", "id": "3cfa601daf", "title": "Wieder kein Gegentor: Essen übernimmt vorerst die Drittliga-Spitze", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.989702", "id": "ce11446233", "title": "Sport im Westen - Fußball 3. Liga · 1. FC Saarbrücken – Alemannia Aachen - hier ", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.989858", "id": "8a938444b5", "title": "3. Fußball-Liga - Waldhof und Mannheim teilen die Punkte - Sport - SZ.de", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.989925", "id": "085f4c3baa", "title": "3. Fußball-Liga: Waldhof und Mannheim teilen die Punkte", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.990025", "id": "8f19be945c", "title": "3. Liga: Aufsteiger Würzburg schockt Düsseldorf, Nullnummer in Münster", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-28T17:35:23.990130", "id": "cea81572b9", "title": "3. Liga: Schroers entscheidet das Verfolgerduell - Aachen siegt beim FCS", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.990236", "id": "a66c2d7f77", "title": "Heimsieg gegen Hoffenheim: Rot-Weiss Essen macht im Aufstiegsrennen Druck", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.990342", "id": "b320a39dd0", "title": "Vorschau: Sport im Westen live: Fußball 3. Liga, 1. FC Saarbrücken - Alemannia A", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.990450", "id": "3ef5ec90ee", "title": "MSV Duisburg: Hirsch wechselt viermal - so beginnt der MSV in Großaspach", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.990552", "id": "2ed7e33b3b", "title": "Fortuna Düsseldorf: Im Sommer Abstieg in die 3. Liga, jetzt Nummer eins in der C", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-28T17:35:23.990660", "id": "c0f5737818", "title": "Rot-Weiss Essen übernimmt die Tabellenführung, Aachen gewinnt in Saarbrücken, Fo", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-28T17:35:23.990719", "id": "14a1e7d2bb", "title": "1. FC Saarbrücken vs. Alemannia Aachen: Schroers macht den Unterschied! Aachen s", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-28T17:35:23.990785", "id": "a8d73f2255", "title": "Fußball heute: Saarbrücken gegen Aachen im Livestream (Endstand 0:1)", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-28T17:35:23.990846", "id": "881795ee93", "title": "Spielschema | 1. FC Saarbrücken - Alemannia Aachen 0:1 | 15. Spieltag | 3. Liga ", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-28T17:35:23.990909", "id": "72e41a372a", "title": "Saarbrücken - Aachen live: Heute 3. Liga live kostenlos ab 13:55 Uhr", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-28T17:35:23.990957", "id": "abc91c6549", "title": "1. FC Saarbrücken: Niederlage gegen Alemannia Aachen", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-28T17:35:23.991083", "id": "f94864876c", "title": "FC Würzburger Kickers vs Fortuna Düsseldorf | f95.de", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.991227", "id": "4fd697f40b", "title": "Münster & Verl teilen sich im Kellerduell die Punkte", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.991334", "id": "f332d3f619", "title": "SC Preußen Münster vs. SC Verl: Torlose Partie in Münster! Münster und Verl tren", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.991386", "id": "15b2921a98", "title": "0:0 im Krisenduell zwischen Preußen Münster und Verl - weiter Druck auf Wörle un", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.991430", "id": "5d2710ce6f", "title": "Spielschema | Preußen Münster - SC Verl 0:0 | 15. Spieltag | 3. Liga 2026/27", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.991463", "id": "e27468642e", "title": "Zähes Ringen ohne Sieger: Münster und Verl beenden Niederlagenserie", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.991493", "id": "daaebe8298", "title": "Preußen Münster gegen SC Verl: 0:0", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.991554", "id": "cc44f49a9e", "title": "Essen bleibt auf Aufstiegskurs", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.991616", "id": "36de19a411", "title": "FC Würzburger Kickers vs. Fortuna Düsseldorf: Ein Tor macht den Unterschied! Eng", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.991649", "id": "827e1e6006", "title": "Fußball heute: Würzburg gegen Düsseldorf im BR Livestream (Endstand 3:2)", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.991688", "id": "856206e5df", "title": "Aufstellung Würzburger Kickers - Fortuna Düsseldorf 2:1 LIVE | 15. Spieltag, 3. ", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.991719", "id": "bbeff17ac2", "title": "Spielschema | Würzburger Kickers - Fortuna Düsseldorf : | 15. Spieltag | 3. Liga", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.991748", "id": "10633498f8", "title": "Düsseldorf enttäuscht: Würzburger Kickers nach fünftem Sieg auf dem Vormarsch", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.991797", "id": "a8748840f9", "title": "Würzburger Kickers schlagen Fortuna Düsseldorf 3:2", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.991849", "id": "3533e82e30", "title": "3. Liga live: Fortuna Düsseldorf in Würzburg jetzt 1:3 hinten", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.991904", "id": "acb27dcc4d", "title": "2:3 - nächster Rückschlag für Fortuna Düsseldorf in Würzburg", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.991985", "id": "f3a2baa5b0", "title": "Kellerduell ohne Sieger: Preußen Münster mit Nullnummer gegen SC Verl", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.992134", "id": "8005c1a81d", "title": "3. Liga - Saarbücken 0 - 1 Alemannia Aachen", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.992242", "id": "c05934e847", "title": "Wehen Wiesbaden gegen Meppen live: TV-Sender, Live-Stream und Anstoßzeit", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-28T17:35:23.992341", "id": "4e73602455", "title": "3. Liga: Essen überholt Köln – FC-Leihspieler zur Pause runter", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.992447", "id": "e3e75406ed", "title": "Spielschema | Rot-Weiss Essen - TSG Hoffenheim II 2:0 | 15. Spieltag | 3. Liga 2", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.992552", "id": "aa40b839a3", "title": "3. Liga - Waldhof Mannheim 1 - 1 Vfb Stuttgart II", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.992674", "id": "355758c2ae", "title": "Rot-Weiss Essen: Koschinat: \"Das macht mich sehr, sehr stolz\" – selbst der Gegne", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.992828", "id": "b5654194f6", "title": "3. Liga: Gelingt dem 1. FC Saarbrücken der nächste Heimsieg gegen Alemannia?", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.992946", "id": "113dd7de2e", "title": "Viktoria Köln vs. Fortuna Köln: Live-Stream, TV-Sender und Anstoßzeit in der 3. ", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-28T17:35:23.993069", "id": "9ac9b22290", "title": "Düsseldorfer Enttäuschung in Würzburg & Jubel für Alemannia", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-28T17:35:23.993188", "id": "cc89490841", "title": "Spielernoten: Zu-Null-Sieg gegen Hoffenheim - Benote jetzt die RWE-Elf", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.993311", "id": "e8fc8b6f9d", "title": "Van der Leij kontert Boyd: Mannheim und Stuttgart teilen sich die Punkte", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.993455", "id": "23b462438d", "title": "3. Liga - Rot-Weiss Essen 2 - 0 Hoffenheim II", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.993635", "id": "10598aeccb", "title": "SC Verl stoppt Negativlauf mit Punkt in Münster – Trainer Shala dürfte im Amt bl", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.993789", "id": "e51a0299fb", "title": "2. Liga: Ex-MSV-Stürmer dreht völlig durch – Inanoglu schießt Dynamo ins Glück", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-28T17:35:23.993947", "id": "34f63cc2a9", "title": "Rot-Weiss Essen: Zwei Wechsel - so startet RWE gegen die Reserve der TSG Hoffenh", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.994094", "id": "a72f0a1357", "title": "Rot-Weiss Essen: Spielt Youtube-Star Nader Jindaoui heute in Essen? Hoffenheim s", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.994230", "id": "7e438b04bd", "title": "Rot-Weiss Essen: Hohe Intensität, viele Karten: RWE erwartet gegen Hoffenheim ei", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.994381", "id": "b162059a1c", "title": "Erleichterung und \"riesen Kompliment\": Hansa siegt ohne Cheftrainer", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.994521", "id": "914fc38a32", "title": "Heute live: SC Verl ist zu Gast bei SC Preußen Münster", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.994643", "id": "4397d71cfa", "title": "Würzburger Kickers - Fortuna Düsseldorf: So gibt es heute die 3. Liga live im Fr", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.994785", "id": "d24ebbfc4c", "title": "Viktoria Köln vs. Fortuna Köln Tipp, Prognose & Quoten 29.11.2026 - 3. Liga", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-28T17:35:23.994885", "id": "fda94a0343", "title": "Direktes Verfolgerduell: 1. FC Saarbrücken und Alemannia Aachen kämpfen um Tabel", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.994993", "id": "aabc9ac927", "title": "1. FC Saarbrücken drängt im Ludwigspark auf den Ausgleich gegen Aachen", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.995120", "id": "ecb3265cde", "title": "Keine Punkte trotz Chancen: Aachen entführt drei Punkte aus dem Ludwigspark", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.995235", "id": "b923020c37", "title": "Vorschau: sportarena: 3. Liga live • 1. FC Saarbrücken - Alemannia Aachen", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.995354", "id": "f9b755a718", "title": "Träger FCS verliert gegen Aachen | saarnews", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.995472", "id": "60c00f46d2", "title": "Alemannia Aachen: Neue Aufgabe gegen 1. FC Saarbrücken am 28.11.2026", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.995529", "id": "e582b64b72", "title": "1.FC Saarbrücken: Neue Aufgabe gegen Alemannia Aachen am Samstag", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.995630", "id": "d413280a71", "title": "1. FC Saarbrücken - Alemannia Aachen im Live-Stream und TV: Der FC aus dem Saarl", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.995740", "id": "d969ce61ff", "title": "1. FC Saarbrücken gegen Aachen Vorhersage", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.995894", "id": "314c1dcc4f", "title": "Saarbrücken empfängt Aachen zum direkten Verfolgerduell", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.996007", "id": "61374b9856", "title": "TSV Havelse: Platz 20 nach Niederlage gegen F.C. Hansa Rostock", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.996067", "id": "058fec8ffd", "title": "Hansa Rostock atmet erleichtert durch - 2:0-Sieg gegen Havelse", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.996173", "id": "72e25d3f38", "title": "FC Würzburger Kickers: Ausgangslage und News vor Fortuna Düsseldorf am 28.11.202", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.996295", "id": "1f738f4a7b", "title": "28. November 2004: Alemannia Aachen – TSV 1860 5:1", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-28T17:35:23.996409", "id": "bfd6ed3706", "title": "Tödlicher Alleinunfall in Aachen: Polizei sucht Zeugen, Gedenkminute bei Alemann", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-28T17:35:23.996517", "id": "fcfe54253e", "title": "Großaspach – Alemannia Aachen: Tipp, Statistik & Vergleich", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-28T17:35:23.996623", "id": "ef5af30717", "title": "Morgen Derby gegen Regensburg", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-28T17:35:23.996727", "id": "d3c84d75e6", "title": "Pietta fehlt nur noch ein Punkt zu Reimer: Ingolstadt schlägt Krefeld | Eishocke", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-28T17:35:23.996854", "id": "ce21bfa10f", "title": "ERC Ingolstadt gegen Krefeld Pinguine: 3:2", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-28T17:35:23.996962", "id": "8a90e12290", "title": "SC Verl: Was Fans vor dem Duell mit SC Preußen Münster wissen sollten", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.997067", "id": "8469c81129", "title": "VfB Stuttgart II: Zahlen und Fakten vor dem Spiel gegen SV Waldhof Mannheim", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.997171", "id": "22ef9cf7ff", "title": "F.C. Hansa Rostock: So steht Rostock nach dem 15. Spieltag da", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-28T17:35:23.997274", "id": "f19746f7a0", "title": "Auf Höhenflug folgt der Absturz: Fortuna mit peinlichem Auftritt in Würzburg", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.997375", "id": "edcfb49abf", "title": "Würzburger Kickers vs. Fortuna Düsseldorf - Game Highlights", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.997482", "id": "cbe6342e1d", "title": "Acht Vereine nach Düsseldorf-Abschied – Wandervogel hat das Zeug zum Fortuna-Sch", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-28T17:35:23.997589", "id": "51d025a1bb", "title": "Vier Fünfen bei Fortuna-Schmach, ein Düsseldorfer glänzt – die Noten zum Würzbur", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.997707", "id": "4815fa02ff", "title": "Ein einziger Lichtblick in 90 Minuten: Fortuna geht bei Aufsteiger Würzburg unte", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.997838", "id": "337ad800d1", "title": "BR24 Sport: Jetzt live: Würzburg - Düsseldorf im Stream & TV", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.997951", "id": "0b094adc1a", "title": "Fußball: Würzburger Kickers vor Duell mit Absteiger Fortuna Düsseldorf", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.998065", "id": "aadb6a0183", "title": "FC Würzburger Kickers - Fortuna Düsseldorf im Live-Stream und TV: Wohin gehen he", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.998174", "id": "752f2febfa", "title": "Fortuna Düsseldorf reist mit Bodzek nach Würzburg", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.998282", "id": "74064a4929", "title": "FC Viktoria Köln - Fortuna Köln Statistiken: Fußball Ergebnisse & Infos", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-28T17:35:23.998398", "id": "9f156c40d1", "title": "F.C. Hansa Rostock gegen FCM: Das Spiel bei uns im Live-Stream", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.998508", "id": "bbc2719117", "title": "Jahn II verteilt Geschenke und verpasst den Sprung auf Platz 2", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-28T17:35:23.998615", "id": "9fb9a74aef", "title": "SC Preußen Münster: Zahlen und Fakten vor dem Spiel gegen SC Verl", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.998724", "id": "291a72f051", "title": "SV Waldhof Mannheim: Was Fans vor dem Duell mit VfB Stuttgart II wissen sollten", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.998846", "id": "e3c9b406bf", "title": "SG Sonnenhof Großaspach: Vor dem Duell gegen MSV Duisburg - Die Lage bei Großasp", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.998949", "id": "63b336780f", "title": "Großaspach gegen den MSV Duisburg heute live: So seht ihr das Spiel der 3. Liga ", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.999052", "id": "4177e7b13a", "title": "Fußball heute: Wer überträgt Großaspach gegen MSV Duisburg live? (0:2)", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-28T17:35:23.999156", "id": "a07e420132", "title": "Topspiel SG Sonnenhof Großaspach - MSV Duisburg im Live-Stream und TV: Großaspac", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.999258", "id": "618c788429", "title": "MSV Duisburg: Zahlen und Fakten vor dem Spiel gegen SG Sonnenhof Großaspach", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.999358", "id": "04f04d9862", "title": "Rot-Weiss Essen: Was Fans vor dem Duell mit TSG 1899 Hoffenheim II wissen sollte", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-28T17:35:23.999470", "id": "c41b62c6a0", "title": "SC Preußen Münster - SC Verl im Live-Stream und TV: Wohin gehen heute die Punkte", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.999582", "id": "9e0f2ec2c4", "title": "Vorschau: Sport im Westen live: Fußball 3. Liga, SV Meppen - Rot-Weiss Essen • 1", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-28T17:35:23.999698", "id": "c69a108da1", "title": "RWE-Fotostrecke vorm Spiel gegen Hoffenheim II: Wir zeigen die schönsten Fan-Fot", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-28T17:35:23.999827", "id": "37ee6abf7d", "title": "Rot-Weiss Essen vs. TSG 1899 Hoffenheim II: TSG II verabschiedet sich ohne Punkt", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:23.999932", "id": "20114a98e0", "title": "Rot-Weiss Essen - TSG 1899 Hoffenheim II im Live-Stream und TV: Gehen die Punkte", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:24.000036", "id": "6f37c659f8", "title": "TSG 1899 Hoffenheim II: Zahlen und Fakten vor dem Spiel gegen Rot-Weiss Essen", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:24.000139", "id": "5f6337a4e8", "title": "SV Meppen beim SV Wehen Wiesbaden: Hunderte Fans begleiten Team am Geburtstag", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-28T17:35:24.000244", "id": "874f8d2d0e", "title": "Vorschau: Sportclub live - 3. Liga: SV Meppen - RW Essen • 16. Spieltag", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:24.000353", "id": "1449b47317", "title": "SV Wehen Wiesbaden informiert über Heimspiel-Organisation", "stage": "stage6", "reason": "prio_1"}
+{"ts": "2026-11-28T17:35:24.000459", "id": "2f0d494d5f", "title": "SV Wehen Wiesbaden will zurück in die Erfolgsspur", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:24.000559", "id": "4afa224177", "title": "SV Waldhof Mannheim vs. VfB Stuttgart II: Kein Sieger bei Waldhof gegen Stuttgar", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:24.000658", "id": "0a1be5151f", "title": "Waldhof Mannheim strebt dritten Heimsieg gegen Stuttgart II an", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:24.000756", "id": "9e10553b8f", "title": "Waldhof Mannheim empfängt VfB Stuttgart II zum Heimspiel", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:24.000871", "id": "10e91d1e9c", "title": "SV Waldhof Mannheim - VfB Stuttgart II im Live-Stream und TV: Wohin gehen heute ", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:24.000981", "id": "2d2e6201f8", "title": "Spielinfo | TSV Havelse - SC Paderborn 07 : | 13. Spieltag | U-19-DFB-Nachwuchsl", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-28T17:35:24.001081", "id": "9ec520c304", "title": "SV Waldhof Mannheim will Heimserie gegen Stuttgart II fortsetzen", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:24.001189", "id": "c5fc923b4f", "title": "Fußball 3. Liga: SV Waldhof gegen VfB II - Aufstellung - 15. Spieltag - 2026/202", "stage": "stage6", "reason": "doppelt"}
+{"ts": "2026-11-28T17:35:24.001298", "id": "5fc75eaa7e", "title": "Vorschau: Blickpunkt Sport live • Fußball 3. Liga: Würzburger Kickers - FC Vikto", "stage": "stage6", "reason": "prio_0"}
+{"ts": "2026-11-28T17:35:37.359227", "id": "ffdf541d49", "title": "Mit Zagadou und Sauer: VfB Stuttgart II punktet bei Waldhof Mannheim", "stage": "stage7", "reason": "in_artikel_verarbeitet"}
+{"ts": "2026-11-28T17:35:37.359397", "id": "d959cc3b75", "title": "Waldhof Mannheim gegen VfB Stuttgart II: 1:1", "stage": "stage7", "reason": "in_artikel_verarbeitet"}
+{"ts": "2026-11-28T17:35:40.821326", "id": "301c2efd09", "title": "Remis für Waldhof Mannheim: Boyd trifft, Thill sieht Gelb-Rot", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-28T17:36:13.386715", "id": "de5a3dfa42", "title": "SC Preußen Münster vs. SC Verl - Game Highlights", "stage": "stage7", "reason": "in_artikel_verarbeitet"}
+{"ts": "2026-11-28T17:36:26.668708", "id": "83c4daab77", "title": "Rot-Weiss Essen empfängt Hoffenheim II mit Offensivsorgen", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-28T17:36:31.933409", "id": "f280c7d17f", "title": "Preußen Münster richtet Fokus auf Heimspiel gegen Verl", "stage": "stage6.5", "reason": "schon_berichtet"}
+{"ts": "2026-11-28T17:36:37.355124", "id": "fd5bf1f7a4", "title": "Essen schlägt Hoffenheim II und übernimmt die Tabellenspitze", "stage": "s9.5", "reason": "final_pre_publish_duplicate"}

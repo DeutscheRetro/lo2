@@ -41,7 +41,7 @@
     "summary": "Saarbrückens Sportvorstand Markus Thiele kündigt für den Winter Transfers an, aber keinen Schnellschuss. Der FCS hat mehrere Langzeitverletzte, bei Voet und Staff ist der Einsatz gegen Wiesbaden offen."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "1ebe38d035",
@@ -78,7 +78,7 @@
     "summary": "Der 1. FC Saarbrücken empfängt Alemannia Aachen zum Topspiel der 3. Liga. Beide Teams haben 23 Punkte und sieben Siege auf dem Konto."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "42abba5d17",
@@ -108,7 +108,7 @@
   "status": "n",
   "erstmals": "2026-11-27T23:28",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "cbb3ab4afb",
@@ -152,7 +152,7 @@
     "summary": "Rot-Weiss Essen hat laut WAZ weiter Interesse an Ingolstadts Dennis Kaygin für die Offensive. Dessen Vertrag läuft im Sommer aus, im Winter wäre eine überschaubare Ablöse fällig."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "08f3f7d957",
@@ -190,7 +190,7 @@
     "summary": "Hoffenheim II trifft am 21. November um 14:00 Uhr im Dietmar-Hopp-Stadion auf Preußen Münster. Die Gastgeber liegen mit 19 Punkten auf Rang neun, Münster mit 15 Zählern auf Platz 14."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "1c8f656504",
@@ -219,7 +219,7 @@
   "status": "n",
   "erstmals": "2026-11-27T23:28",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "f7e0838e19",
@@ -264,7 +264,7 @@
     "summary": "Hansa Rostock spielt am Sonntag beim MSV Duisburg und hat gegen die aktuellen Top-5-Teams bislang nur zwei Punkte aus drei Spielen geholt. Gegentore fielen mehrfach über den zweiten Pfosten."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "537cbaeeb5",
@@ -302,6 +302,222 @@
     "summary": "Hoffenheim II trifft am 21. November um 14:00 Uhr im Dietmar-Hopp-Stadion auf Preußen Münster. Die Gastgeber liegen mit 19 Punkten auf Rang neun, Münster mit 15 Zählern auf Platz 14."
    }
   ],
+  "versuche": 2
+ },
+ {
+  "id": "9189f07623",
+  "schluessel": "grossaspach|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Großaspach",
+  "klubs": [
+   "Großaspach"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "LIVE! Großaspach vergibt Ausgleich - Kother legt nach",
+  "quellen": [
+   {
+    "url": "https://www.kicker.de/grossaspach-gegen-duisburg-2026-liga-5233360/spielbericht#omrss",
+    "aid": "c86044a775",
+    "titel": "LIVE! Großaspach vergibt Ausgleich - Kother legt nach",
+    "quelle": "kicker 3. Liga News",
+    "beschr": "Am Samstagnachmittag ab 16.30 Uhr kann der MSV Duisburg im Aufstiegsrennen vorlegen und gastiert bei der SG Sonnenhof Großaspach.",
+    "zeit": "2026-11-28T16:15"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-28T17:32",
+  "archiv": [
+   {
+    "id": "b317ca2504",
+    "titel": "Düsseldorf gegen Großaspach: Zwei Teams suchen den Erfolg",
+    "datum": "18.11.",
+    "stufe": "sonstiges",
+    "summary": "Fortuna Düsseldorf trifft am Samstag auf Großaspach und sucht nach vier Spielen ohne Sieg einen Erfolg. Beide Teams sind formschwach und liegen vier Punkte auseinander."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "02fd718f24",
+  "schluessel": "wurzburg|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Würzburg",
+  "klubs": [
+   "Würzburg",
+   "Düsseldorf"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Wekessers Treffer kommt zu spät: Würzburg schlägt harmlose Düsseldorfer",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYUpEVkptdXhfS2RKcTZmSjRZTUdEdjlGdzhUYXM0SzdLQkxiTjdmNGZLWUpWdHBKbG9VWi00QjFhWjZFQ1dZc3VNNHd3WDNtYTN5dExGeG1rTUowN21uc2hzU05OUmFqWkNLLVVtWFFrb1JWMDZ4SG92Wlh3NmVxZmpXam9ZM2M?oc=5",
+    "aid": "9c7cea7685",
+    "titel": "Wekessers Treffer kommt zu spät: Würzburg schlägt harmlose Düsseldorfer",
+    "quelle": "Kicker",
+    "beschr": " Wekessers Treffer kommt zu spät: Würzburg schlägt harmlose Düsseldorfer &nbsp;&nbsp; Kicker ",
+    "zeit": "2026-11-28T16:13"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-28T17:32",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "05069b867a",
+  "schluessel": "rw essen|spiel",
+  "person": "",
+  "spieler": [],
+  "klub": "RW Essen",
+  "klubs": [
+   "RW Essen"
+  ],
+  "stufe": "spielbericht",
+  "klasse": "spiel",
+  "titel": "3. Liga: RWE nicht zu knacken! Fünfter Zu-Null-Sieg in Serie – Golz mit Wahnsinnsserie",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMDZDZ0RCbGtlbXBuTFNPTms3Z0JiQTBWd0lDY1d1ekQ5dE5MY1Zfc3d2TmRjVG81Y2JKS2dYMDFnUTBpNU9rVEtnWWViQmJxa09hSmJoX3gzVnFEZ0cyZGQ5YzROM3UwOFBRaEZ6a0t4MWlCa1FGb0FsSWVYM3VEVXotU0pmaEt0dFFveDlKaTF0UTFLTzFROFd1Mlg2VFM5aERzU3ZWc01nTlBzOFlJNFBLcUpDOThaanNpOQ?oc=5",
+    "aid": "8b8692cc27",
+    "titel": "3. Liga: RWE nicht zu knacken! Fünfter Zu-Null-Sieg in Serie – Golz mit Wahnsinnsserie",
+    "quelle": "RevierSport online",
+    "beschr": " 3. Liga: RWE nicht zu knacken! Fünfter Zu-Null-Sieg in Serie – Golz mit Wahnsinnsserie &nbsp;&nbsp; RevierSport online ",
+    "zeit": "2026-11-28T16:14"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-28T17:32",
+  "archiv": [
+   {
+    "id": "0bbdc5b416",
+    "titel": "RWE siegt 3:0 in Verl und springt auf Rang zwei",
+    "datum": "21.11.",
+    "stufe": "spielbericht",
+    "summary": "Rot-Weiss Essen gewinnt beim SC Verl 3:0 und rückt mit 30 Punkten auf Rang zwei vor. Verl spielte nach Rot für Almin Mešanović in Unterzahl und verlor zum fünften Mal in Folge."
+   },
+   {
+    "id": "9d292ef115",
+    "titel": "RWE zieht mit 4:0 bei Ratingen ins Pokal-Halbfinale ein",
+    "datum": "16.11.",
+    "stufe": "spielbericht",
+    "summary": "Rot-Weiss Essen gewinnt das Viertelfinale im Niederrheinpokal bei Ratingen 04/19 mit 4:0. Trainer Uwe Koschinat lobt die Organisation des Oberligisten auf „Top-Niveau“."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "8a4979ad51",
+  "schluessel": "aachen|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Aachen",
+  "klubs": [
+   "Aachen",
+   "Saarbrücken"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Schroers zur Stelle: Effektive Alemannia zieht Verfolgerduell in Saarbrücken",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN2hhZXg2VmNsZnJMS3JGVDg5cTNvdkpFN2pZcXpQQ0hFODFNWUJKeE56Z193aDFFMGkzSFJEZ0luWmtqV3lvb3lGb3FXNkxzRDlhTFJDUjU5UEdWOHlwUDdiNHpsRmRjRDJ2QTUyYVR2bHByRy1HZXZ1U0dmQ19GeGtkcFE?oc=5",
+    "aid": "83b5a45c75",
+    "titel": "Schroers zur Stelle: Effektive Alemannia zieht Verfolgerduell in Saarbrücken",
+    "quelle": "Kicker",
+    "beschr": " Schroers zur Stelle: Effektive Alemannia zieht Verfolgerduell in Saarbrücken &nbsp;&nbsp; Kicker ",
+    "zeit": "2026-11-28T15:18"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-28T17:32",
+  "archiv": [
+   {
+    "id": "8bdbd472d4",
+    "titel": "Saarbrücken empfängt Aachen: Topspiel mit zwei formstarken Teams",
+    "datum": "25.11.",
+    "stufe": "sonstiges",
+    "summary": "Der 1. FC Saarbrücken empfängt Alemannia Aachen zum Topspiel der 3. Liga. Beide Teams haben 23 Punkte und sieben Siege auf dem Konto."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "4733cfdae2",
+  "schluessel": "munster|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Münster",
+  "klubs": [
+   "Münster",
+   "Verl"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Keine Tore im Kellerduell: Preußen Münster gegen SC Verl endet mit Nullnummer",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTm51dlFlM3BYcnVZZ296OEtWb0xhdGdLUEhGdzZ2Q3FaLVB0dTRrSUpWQTNQWVBKSmhRWFZnd1p5VlU5d0ZuY0NSVXpqd2thSnBoaFdCTzB0OHg5Rm44ZGZFWG5EbVNlb3UxaVZPMEJRdHR6UlJPQUtjZWhYSFFNREhXTQ?oc=5",
+    "aid": "d66705c92a",
+    "titel": "Keine Tore im Kellerduell: Preußen Münster gegen SC Verl endet mit Nullnummer",
+    "quelle": "WDR",
+    "beschr": " Keine Tore im Kellerduell: Preußen Münster gegen SC Verl endet mit Nullnummer &nbsp;&nbsp; WDR ",
+    "zeit": "2026-11-28T15:51"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-28T17:32",
+  "archiv": [
+   {
+    "id": "e3b1d4810e",
+    "titel": "Münster in der Krise: Kittner spricht vom „kritischen Moment“",
+    "datum": "16.11.",
+    "stufe": "sonstiges",
+    "summary": "Münsters Geschäftsführer Ole Kittner nennt die Lage nach fünf Niederlagen aus sieben Spielen einen „kritischen Moment“. Am Samstag muss das Team bei Hoffenheim II liefern."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "dc5ecd6785",
+  "schluessel": "rw essen|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "RW Essen",
+  "klubs": [
+   "RW Essen"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Rot-Weiss Essen souverän gegen Hoffenheims Zweite",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYzh5cVNtc25QcTBtUk91dkFDanNYOW52dlIyUzlaY3VHNHdTTi1rYUs4c0dJSGRYNWhrUWRmWlRrMXRJT0lIakM4eXdjQks2VHV4eVhxaG1aaUVjd0kwakJ0SmZuaE82bEdELVB1S0U5VWYwekw5LWprTjg2bG9KaDl6c3djSS1ERlVtQnBheHQ4TElXVDNjTk5zQS1oLWtycXhVag?oc=5",
+    "aid": "fc5db79bff",
+    "titel": "Rot-Weiss Essen souverän gegen Hoffenheims Zweite",
+    "quelle": "sportschau.de",
+    "beschr": " Rot-Weiss Essen souverän gegen Hoffenheims Zweite &nbsp;&nbsp; sportschau.de ",
+    "zeit": "2026-11-28T16:26"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 3,
+  "status": "n",
+  "erstmals": "2026-11-28T17:32",
+  "archiv": [],
   "versuche": 1
  }
 ]

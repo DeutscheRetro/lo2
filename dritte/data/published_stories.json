@@ -2247,5 +2247,52 @@
     },
     "published_at": "2026-11-28T03:29:53.676802",
     "source": "DerWesten"
+  },
+  {
+    "id": "baced90055",
+    "generated_title": "Mannheim verpasst Sieg: 1:1 gegen Stuttgart II trotz Boyd-Führung",
+    "original_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTUZGV0VDT2FhMHI3ZklKdVdNaEZnb1Rya1EwUlF2REN0dUJvVFpKUjJDQ3FtQmpTZnRqTWQtVzRjM0VadmdzVmVQYm9wa3QxcHVyUTdLZnN0VFA1RF9Ddng3bUxVREtmTlBUYkp2emk1UXZTdjBLc2F2aWVlUjdxNVFhbEhuZXc2ZHBFcGJHWE1MdllaTFFaSmR4NUVXcTNsUTJCV3NQbFRNX0xsbE9xYXoxVDNLUk44RW5SZ1BOQkE0TVFFejlMd2JOQnJ0VGcteXlOS3ZkbVNsQ2dTbnc?oc=5",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Mannheim",
+      "event_stage": "spielbericht",
+      "main_teams": [
+        "Mannheim",
+        "Stuttgart II"
+      ],
+      "main_players": [
+        "Terrence Boyd",
+        "Vincent Thill",
+        "Tim van der Leij"
+      ],
+      "summary": "Waldhof Mannheim trennt sich vom VfB Stuttgart II 1:1, nachdem Terrence Boyd getroffen hatte und Tim van der Leij ausglich. Vincent Thill sah Gelb-Rot und fehlt damit wohl in Duisburg.",
+      "one_sentence_summary": "Waldhof Mannheim trennt sich vom VfB Stuttgart II 1:1, nachdem Terrence Boyd getroffen hatte und Tim van der Leij ausglich.",
+      "schluessel": "terrence boyd|spiel"
+    },
+    "published_at": "2026-11-28T17:36:38.120174",
+    "source": "Rhein-Neckar-Zeitung"
+  },
+  {
+    "id": "68b90b357d",
+    "generated_title": "Münster und Verl trennen sich torlos im Kellerduell",
+    "original_url": "https://www.sportschau.de/regional/wdr/wdr-preussen-muenster-mit-nullnummer-gegen-sc-verl-100.html",
+    "fingerprint": {
+      "event_type": "news",
+      "main_club": "Münster",
+      "event_stage": "spielbericht",
+      "main_teams": [
+        "Münster",
+        "Verl"
+      ],
+      "main_players": [
+        "Thomas Wörle",
+        "Orest Shala"
+      ],
+      "summary": "Preußen Münster und der SC Verl trennen sich im Kellerduell 0:0 und beenden beide ihre Niederlagenserie. Münster ist 16., Verl 18., Trainer Thomas Wörle bleibt unter Druck.",
+      "one_sentence_summary": "Preußen Münster und der SC Verl trennen sich im Kellerduell 0:0 und beenden beide ihre Niederlagenserie.",
+      "schluessel": "thomas worle|spiel"
+    },
+    "published_at": "2026-11-28T17:36:38.161399",
+    "source": "sportschau.de"
   }
 ]

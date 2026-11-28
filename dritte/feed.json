@@ -1,5 +1,72 @@
 [
   {
+    "id": "68b90b357d",
+    "titel": "Münster und Verl trennen sich torlos im Kellerduell",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "28.11.2026 17:36",
+    "wappen_url": "logos/muenster.png",
+    "vereine": [
+      "Münster",
+      "Verl"
+    ],
+    "anriss": "Preußen Münster und der SC Verl haben sich am 15. Spieltag der 3. Liga 0:0 getrennt. Vor 12.771 Zuschauern im Preußenstadion beendeten beide Teams ihre Niederlagenserie, bleiben aber im Tabellenkeller unter Druck. Münster belegt als Zweitliga-Absteiger den 16. Platz und steht damit unmittelbar vor der",
+    "spielerstatus": [],
+    "formation": "",
+    "hauptklub": "Münster",
+    "pfad": "artikel/muenster-und-verl-trennen-sich-torlos-im-kellerduell-68b90b357d.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    },
+    "n11": false
+  },
+  {
+    "id": "baced90055",
+    "titel": "Mannheim verpasst Sieg: 1:1 gegen Stuttgart II trotz Boyd-Führung",
+    "kategorie": "news",
+    "badge": "News",
+    "badge_bg": "#e8c000",
+    "badge_fg": "#000",
+    "datum": "28.11.2026 17:35",
+    "wappen_url": "logos/mannheim.png",
+    "vereine": [
+      "Mannheim",
+      "Stuttgart II"
+    ],
+    "anriss": "Der SV Waldhof Mannheim hat am 15. Spieltag der 3. Liga gegen den VfB Stuttgart II ein 1:1 (1:0) erreicht. Terrence Boyd brachte die Gastgeber in der 32. Minute in Führung, Tim van der Leij glich in der 73. Minute per Kopf aus. Boyd traf",
+    "spielerstatus": [
+      {
+        "spieler": "Thill",
+        "klub": "Mannheim",
+        "status": "faellt_aus",
+        "grund": "Gelb-Rote Karte gegen Stuttgart II"
+      }
+    ],
+    "formation": "",
+    "hauptklub": "Mannheim",
+    "pfad": "artikel/mannheim-verpasst-sieg-1-1-gegen-stuttgart-ii-trotz-boyd-fuehrung-baced90055.html",
+    "bild_tm": "",
+    "umfrage": {
+      "typ": "spiel",
+      "frage": "Wie war das Spiel?",
+      "antworten": [
+        "🔥 Spektakel",
+        "😐 Geht so",
+        "😴 Schlafmittel"
+      ]
+    },
+    "n11": false
+  },
+  {
     "id": "4d59ef1692",
     "titel": "RWE: Menzel kehrt zurück, Brumme als Mittelstürmer möglich",
     "kategorie": "aufstellung",
