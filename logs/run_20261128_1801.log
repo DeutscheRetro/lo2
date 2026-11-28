@@ -1,0 +1,342 @@
+2026-11-28 18:01:21,166 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 1 passende Treffer
+2026-11-28 18:01:21,166 INFO S7 Ersatzquelle liefert Text (120 Wörter, 1 Quellen): Kimmich nach Rückkehr: Hier am absolut richtigen Ort
+2026-11-28 18:01:21,166 INFO S7 Ersatzquellen für "Kimmich nach Rückkehr: Hier am absolut richtigen O": 0 passende Treffer
+2026-11-28 18:01:21,166 INFO FinalCheck SKIP: borussia mönchengladbach/{'max muster'} stage=geruecht bereits in Archiv
+2026-11-28 18:01:21,166 INFO FinalCheck SKIP: borussia mönchengladbach/set() stage=geruecht bereits in Archiv
+2026-11-28 18:01:30,250 INFO 💶 Budget: dieser Lauf 0.647 $ | heute 0.00 $ | Monat 0.23 / 8 $
+2026-11-28 18:01:30,266 INFO URL-Cache geladen: 17301 bekannte URLs (letzte 30 Tage)
+2026-11-28 18:01:30,266 INFO === LO Generator startet – max. 50 Artikel ===
+2026-11-28 18:01:30,267 INFO Feed: https://newsfeed.kicker.de/news/2-bundesliga
+2026-11-28 18:01:30,544 INFO Feed: https://www.sport.de/rss/news/
+2026-11-28 18:01:31,088 INFO Feed: https://www.11freunde.de/feed
+2026-11-28 18:01:32,177 WARNING Spielerliste nicht verfügbar: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-28 18:01:32,177 INFO BL-Spielerliste geladen: 0 Namen
+2026-11-28 18:01:32,177 INFO S3 keyword miss: Max Merkels „Bild“-Kolumne: Hart – nicht gegen sich selbst, 
+2026-11-28 18:01:32,177 INFO Feed: https://news.google.com/rss/search?q=%222.+Bundesliga%22&hl=de&gl=DE&ceid=DE:de
+2026-11-28 18:01:32,840 INFO S2 Liveticker übersprungen: Liveticker | SC Paderborn 07 - FC Schalke 04 8:1 | 11. Spiel
+2026-11-28 18:01:32,840 INFO S2 Liveticker übersprungen: 5:0 für den Effzeh | 1. FC Köln gegen SV Elversberg | Bundes
+2026-11-28 18:01:32,840 INFO S2 Liveticker übersprungen: 2. Bundesliga - so lief Hertha BSC Berlin vs. Karlsruher SC:
+2026-11-28 18:01:32,840 INFO S2 Liveticker übersprungen: Liveticker | Hertha BSC - Karlsruher SC 4:0 | 13. Spieltag |
+2026-11-28 18:01:32,841 INFO S2 Liveticker übersprungen: 2. Bundesliga - so lief Dynamo Dresden vs. 1. FC St. Pauli: 
+2026-11-28 18:01:32,844 INFO S3 keyword miss: Mehr als 1.000 Beamte im Einsatz: Razzia bei Zweitliga-Spiel
+2026-11-28 18:01:32,845 INFO S2 Liveticker übersprungen: 2. Bundesliga - so lief Holstein Kiel vs. 1. FC Kaiserslaute
+2026-11-28 18:01:32,845 INFO S2 Liveticker übersprungen: Liveticker | Holstein Kiel - 1. FC Kaiserslautern 3:0 | 13. 
+2026-11-28 18:01:32,846 INFO S2 Liveticker übersprungen: Liveticker | SG Dynamo Dresden - FC St. Pauli | Spieltag 13 
+2026-11-28 18:01:32,847 INFO S2 blacklist: Diese Spiele werden heute live im Free-TV oder Stream übertr
+2026-11-28 18:01:32,852 INFO S2 blacklist: Braunschweig vs. VfL Wolfsburg: Wo läuft das Spiel live im T
+2026-11-28 18:01:32,854 INFO S3 keyword miss: Fußball – 2. Bundesliga: Ergebnisse & Tabelle am Samstag | 2
+2026-11-28 18:01:32,858 INFO S3 keyword miss: Die 2. Bundesliga am Samstag aktuell – update 15 Uhr
+2026-11-28 18:01:32,864 INFO S2 Liveticker übersprungen: Der Ball rollt wieder | 1. FC Köln gegen SV Elversberg | Bun
+2026-11-28 18:01:32,868 INFO S2 Liveticker übersprungen: Dresden – St. Pauli: Der Liveticker zum Spiel der 2. Bundesl
+2026-11-28 18:01:32,869 INFO S2 kein BL-Klub im Titel: Kimmich fliegt: FC Bayern lässt beim HSV weiter Federn – Deb
+2026-11-28 18:01:32,870 INFO S2 Liveticker übersprungen: Fußball: 3. Liga: Liveticker zum Nachlesen: Die Würzburger K
+2026-11-28 18:01:32,872 INFO S2 Liveticker übersprungen: Mainz kämpft sich zurück | Mainz 05 gegen Union Berlin | Bun
+2026-11-28 18:01:32,875 INFO S3 keyword miss: Spielschema | FC Admira Wacker - FC Liefering 2:1 | 14. Spie
+2026-11-28 18:01:32,877 INFO S3 keyword miss: Aufstellung | Rapid Wien II - Kapfenberger SV : | 14. Spielt
+2026-11-28 18:01:32,879 INFO S3 keyword miss: Aufstellung | FC Admira Wacker - FC Liefering : | 14. Spielt
+2026-11-28 18:01:32,883 INFO S2 blacklist: Berlin nicht zu stoppen: Hertha gewinnt souverän gegen Karls
+2026-11-28 18:01:32,883 INFO S2 kein BL-Klub im Titel: Schock in der Nachspielzeit: Union Berlin verspielt Führung 
+2026-11-28 18:01:32,894 INFO S3 keyword miss: Spielschema | Rapid Wien II - Kapfenberger SV 1:2 | 14. Spie
+2026-11-28 18:01:32,898 INFO S2 Liveticker übersprungen: Dresden – St. Pauli: Der Liveticker zum Spiel der 2. Bundesl
+2026-11-28 18:01:32,900 INFO S2 kein BL-Klub im Titel: 1:8! Mega-Debakel für FC Schalke 04 gegen historische Paderb
+2026-11-28 18:01:32,902 INFO S2 kein BL-Klub im Titel: Schalke 04 geht beim SC Paderborn in der Bundesliga komplett
+2026-11-28 18:01:32,905 INFO S2 Liveticker übersprungen: Liveticker | SKU Amstetten - SKN St. Pölten : | 14. Spieltag
+2026-11-28 18:01:32,907 INFO S3 keyword miss: 1:8! Schalke blamiert sich beim Aufsteiger-Duell in Paderbor
+2026-11-28 18:01:32,909 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Verletzung+Ausfall+gesperrt&hl=de&gl=DE&ceid=DE:de
+2026-11-28 18:01:33,346 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Transfer+Wechsel+verpflichtet&hl=de&gl=DE&ceid=DE:de
+2026-11-28 18:01:33,639 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Ger%C3%BCcht+Interesse+Angebot&hl=de&gl=DE&ceid=DE:de
+2026-11-28 18:01:34,030 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Vertrag+verl%C3%A4ngert+abl%C3%B6sefrei&hl=de&gl=DE&ceid=DE:de
+2026-11-28 18:01:34,422 INFO Feed: https://news.google.com/rss/search?q=2.+Bundesliga+Trainer+Entlassung&hl=de&gl=DE&ceid=DE:de
+2026-11-28 18:01:34,910 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Heidenheim%22+OR+Heidenheim+FCH+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-28 18:01:35,216 INFO S2 Liveticker übersprungen: Liveticker 1. FC Heidenheim 1846 - 1. FC Nürnberg 3:1 | 13. 
+2026-11-28 18:01:35,216 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Kaiserslautern%22+OR+%22FCK%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-28 18:01:35,622 INFO S2 blacklist: SGV Heilbronn-Freiberg - 1. FC Kaiserslautern II: Überraschu
+2026-11-28 18:01:35,624 INFO S3 keyword miss: Dra­ma­ti­sches Spiel mit glück­li­chem Ende für den FCK II
+2026-11-28 18:01:35,630 INFO S3 keyword miss: (U-17-DFB-Nachwuchsliga (Vorrunde))
+2026-11-28 18:01:35,632 INFO S2 blacklist: Spielschema | SGV Heilbronn-Freiberg - 1. FC Kaiserslautern 
+2026-11-28 18:01:35,636 INFO S2 blacklist: Spielschema | SGV Heilbronn-Freiberg - 1. FC Kaiserslautern 
+2026-11-28 18:01:35,639 INFO S3 keyword miss: Folge 14 - 2. Bundesliga - 13. Spieltag 26/27
+2026-11-28 18:01:35,643 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+Magdeburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-28 18:01:35,984 INFO Feed: https://news.google.com/rss/search?q=%221.+FC+N%C3%BCrnberg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-28 18:01:36,421 INFO S2 blacklist: Spielereignisse | 1860 München - 1. FC Nürnberg 2:4 | 13. Sp
+2026-11-28 18:01:36,422 INFO S2 blacklist: Spielereignisse | Erzgebirge Aue - 1. FC Nürnberg 1:3 | 13. 
+2026-11-28 18:01:36,423 INFO S2 blacklist: Spielschema | SpVgg Unterhaching - 1. FC Nürnberg II 1:3 | 2
+2026-11-28 18:01:36,425 INFO S3 keyword miss: Souverän in Haching: Club-Amateure klettern weiter
+2026-11-28 18:01:36,427 INFO Feed: https://news.google.com/rss/search?q=%22Arminia+Bielefeld%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-28 18:01:36,769 INFO S2 blacklist: Spielereignisse | Arminia Bielefeld - VfL Wolfsburg 3:1 | 13
+2026-11-28 18:01:36,771 INFO Feed: https://news.google.com/rss/search?q=%22Dynamo+Dresden%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-28 18:01:37,357 INFO S3 keyword miss: Razzia im Stadion – mehr als 1000 Polizisten riegeln Dresdne
+2026-11-28 18:01:37,368 INFO S2 blacklist: Durchsuchungen bei Dynamo-Ultras in Dresden
+2026-11-28 18:01:37,370 INFO S3 keyword miss: dpa-Meldungen
+2026-11-28 18:01:37,372 INFO S3 keyword miss: dpa-Meldungen
+2026-11-28 18:01:37,409 INFO S3 keyword miss: 2. Bundesliga Tabelle: Fußball Ergebnisse, Daten, Spielplan
+2026-11-28 18:01:37,412 INFO S2 blacklist: Youngster bekommt Bestnote: Dynamo-Türsteher machen die spät
+2026-11-28 18:01:37,416 INFO Feed: https://news.google.com/rss/search?q=%22Eintracht+Braunschweig%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-28 18:01:37,773 INFO S3 keyword miss: (U-17-DFB-Nachwuchsliga (Vorrunde))
+2026-11-28 18:01:37,774 INFO S3 keyword miss: Fußball-Vereine Freundschaftsspiele
+2026-11-28 18:01:37,775 INFO S2 blacklist: Sexismus im Frauenfußball: Auch der VfL Wolfsburg ist bei Ja
+2026-11-28 18:01:37,778 INFO S3 keyword miss: Eklat vor Zweitliga-Derby: Ultras besprühen in der Nacht Bus
+2026-11-28 18:01:37,780 INFO S3 keyword miss: Traueranzeige Hildegard Mrotzek
+2026-11-28 18:01:37,782 INFO Feed: https://news.google.com/rss/search?q=%22Energie+Cottbus%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-28 18:01:38,165 INFO S2 blacklist: Spielereignisse | 1. FC Magdeburg - Erzgebirge Aue 3:0 | 13.
+2026-11-28 18:01:38,165 INFO Feed: https://news.google.com/rss/search?q=%22FC+St.+Pauli%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-28 18:01:38,481 INFO Feed: https://news.google.com/rss/search?q=%22Hannover+96%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-28 18:01:38,840 INFO S2 blacklist: Spielereignisse | SV Meppen - Hannover 96 1:3 | 13. Spieltag
+2026-11-28 18:01:38,841 INFO S2 blacklist: Spielereignisse | Hannover 96 - SV Meppen 6:1 | 13. Spieltag
+2026-11-28 18:01:38,843 INFO Feed: https://news.google.com/rss/search?q=%22Hertha+BSC%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-28 18:01:39,239 INFO S3 keyword miss: Gersbecks ungewohnte Rolle, Brekalo schon erstklassig – doch
+2026-11-28 18:01:39,244 INFO S2 blacklist: Hertha BSC fertigt den KSC im Olympiastadion ab
+2026-11-28 18:01:39,246 INFO S2 Liveticker übersprungen: Liveticker Hertha BSC - Karlsruher SC 4:0 | 13. Spieltag, 2.
+2026-11-28 18:01:39,247 INFO S2 blacklist: Spielereignisse | FC St. Pauli - Hertha BSC 0:0 | 13. Spielt
+2026-11-28 18:01:39,262 INFO S3 keyword miss: Thomas Häßler: „Rumpelkiste“ wird wieder zur Fußballkneipe
+2026-11-28 18:01:39,265 INFO Feed: https://news.google.com/rss/search?q=%22Holstein+Kiel%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-28 18:01:39,539 INFO Feed: https://news.google.com/rss/search?q=%22Karlsruher+SC%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-28 18:01:39,965 INFO Feed: https://news.google.com/rss/search?q=%22Greuther+F%C3%BCrth%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-28 18:01:40,240 INFO S3 keyword miss: (U-19-DFB-Nachwuchsliga (Vorrunde))
+2026-11-28 18:01:40,240 INFO Feed: https://news.google.com/rss/search?q=%22Darmstadt+98%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-28 18:01:40,672 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Bochum%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-28 18:01:41,101 INFO S2 blacklist: Borussia Dortmund II - VfL Bochum 1848 II (U23): Azhil stell
+2026-11-28 18:01:41,102 INFO S2 blacklist: Borussia Dortmund II vs. VfL Bochum II | Regionalliga West b
+2026-11-28 18:01:41,105 INFO S2 blacklist: Video | Borussia Dortmund II - VfL Bochum II 2:1 | 18. Spiel
+2026-11-28 18:01:41,106 INFO S2 blacklist: Spielschema | Borussia Dortmund II - VfL Bochum II 2:1 | 18.
+2026-11-28 18:01:41,106 INFO S2 blacklist: Regionalliga: 90.+5! BVB siegt vom Punkt, Siegen bleibt in S
+2026-11-28 18:01:41,107 INFO S2 blacklist: BVB-U23 feiert dramatischen Derby-Sieg: Selbst Rios zweifelt
+2026-11-28 18:01:41,110 INFO S2 blacklist: Frauen Zweite Liga zeigt Tabelle am 28 November 2026
+2026-11-28 18:01:41,110 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Osnabr%C3%BCck%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-28 18:01:41,467 INFO S2 blacklist: Spielereignisse | VfL Osnabrück - Borussia Dortmund 1:2 | 13
+2026-11-28 18:01:41,468 INFO S2 blacklist: Zuschauer VfL Osnabrück | Regionalliga Nord (1994-2000) 1996
+2026-11-28 18:01:41,469 INFO Feed: https://news.google.com/rss/search?q=%22VfL+Wolfsburg%22+when%3A1d&hl=de&gl=DE&ceid=DE:de
+2026-11-28 18:01:41,754 INFO S2 blacklist: Spielereignisse | Arminia Bielefeld - VfL Wolfsburg 3:1 | 13
+2026-11-28 18:01:41,755 INFO S2 kein BL-Klub im Titel: RB Leipzig: RB und Europapark laden Diakonie-Bewohner aus Le
+2026-11-28 18:01:41,756 INFO Feed: https://newsfeed.kicker.de/team/1-fc-heidenheim
+2026-11-28 18:01:41,803 INFO Feed: https://newsfeed.kicker.de/team/1-fc-nuernberg
+2026-11-28 18:01:41,854 INFO Feed: https://newsfeed.kicker.de/team/arminia-bielefeld
+2026-11-28 18:01:42,006 INFO Feed: https://newsfeed.kicker.de/team/dynamo-dresden
+2026-11-28 18:01:42,155 INFO Feed: https://newsfeed.kicker.de/team/eintracht-braunschweig
+2026-11-28 18:01:42,304 INFO Feed: https://newsfeed.kicker.de/team/fc-st-pauli
+2026-11-28 18:01:42,354 INFO Feed: https://newsfeed.kicker.de/team/hannover-96
+2026-11-28 18:01:42,499 INFO Feed: https://newsfeed.kicker.de/team/hertha-bsc
+2026-11-28 18:01:42,559 INFO Feed: https://newsfeed.kicker.de/team/holstein-kiel
+2026-11-28 18:01:42,706 INFO Feed: https://newsfeed.kicker.de/team/vfl-bochum
+2026-11-28 18:01:42,857 INFO Feed: https://newsfeed.kicker.de/team/vfl-osnabrueck
+2026-11-28 18:01:42,908 INFO Eingelesen: 161 Schlagzeilen nach den Gratis-Filtern
+2026-11-28 18:01:43,107 INFO S5 schon berichtet (Dynamo dreht Spiel gegen St. Pauli in der Nac): Fußball heute Ergebnisse: Dresden schlägt St. Pauli 2:1, was
+2026-11-28 18:01:43,108 INFO S5 Randthema: 2. Bundesliga - Gierige Hertha ist Weihnachtsmeister - was geht in Mün
+2026-11-28 18:01:43,109 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: "Völlig beschissen" - FCK-Totalausfall bei Schlusslicht Kiel
+2026-11-28 18:01:43,109 INFO S5 Randthema: 2. Liga: Hertha BSC schlägt den KSC und holt die Weihnachtsmeisterscha
+2026-11-28 18:01:43,110 INFO S5 Randthema: Hertha BSC schon Weihnachtsmeister – Erfolgreiche Kniat-Heimpremiere i
+2026-11-28 18:01:43,111 INFO S5 Randthema: Hertha BSC ist schon Weihnachtsmeister
+2026-11-28 18:01:43,111 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: 2. Liga: Ex-MSV-Stürmer dreht völlig durch – Inanoglu schießt Dynamo i
+2026-11-28 18:01:43,112 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: Kapitale Abwehrfehler: Lautern geht in Kiel unter
+2026-11-28 18:01:43,112 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: FCK blamiert sich beim Schlusslicht Kiel: Kollektives Versagen nach de
+2026-11-28 18:01:43,112 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: Zu­sam­men­bruch des FCK bei Hol­stein Kiel: Krahl re­agiert emo­tio­n
+2026-11-28 18:01:43,113 INFO S5 schon berichtet (Kiel schlägt Kaiserslautern 3:0 und verlässt ): 3:0-Pleite des FCK in Kiel: „Das war vogelwild und wir stell
+2026-11-28 18:01:43,113 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: FCK geht mit 0:3 in Kiel unter
+2026-11-28 18:01:43,113 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: Erster Sieg unter Kniat: Kiel nicht mehr Letzter
+2026-11-28 18:01:43,114 INFO S5 Sammelartikel: Bielefeld kompakt: Bielefeld im Fokus: Beliebter Friseursalon, Klinik-
+2026-11-28 18:01:43,115 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: BILD-Reporter war im Stadion: Dynamo komplett überrascht von Riesen-Ra
+2026-11-28 18:01:43,116 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: Dynamos Siegtorschütze Inanoglu: "Ein geiles Gefühl"
+2026-11-28 18:01:43,117 INFO S5 schon berichtet (Dynamo dreht Spiel gegen St. Pauli in der Nac): Dynamo Dresden: Polizei umstellt 450 Ultras nach 2:1-Sieg
+2026-11-28 18:01:43,117 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: Razzia gegen Ultras Dynamo: Polizei ermittelt wegen krimineller Verein
+2026-11-28 18:01:43,117 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: Großer Polizeieinsatz gegen Dynamo-Ultras
+2026-11-28 18:01:43,118 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: Gran operación policial contra los ultras del Dynamo
+2026-11-28 18:01:43,118 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: Umfangreiche Exekutivmaßnahmen gegen Angehörige der Gruppierung „Ultra
+2026-11-28 18:01:43,118 INFO S5 kein Bundesliga-Spieler oder -Klub erkennbar: Major Police Operation Against Dynamo Ultras
+2026-11-28 18:01:43,122 INFO S5 Sammelartikel: Neues am Abend: Alarmstimmung beim KSC
+2026-11-28 18:01:43,122 INFO S5 schon berichtet (Bochum siegt spät gegen Darmstadt und setzt s): Darmstadt 98 hadert mit Pleite in Bochum: "Es ist scheiße"
+2026-11-28 18:01:43,123 INFO S5: 105 neue Geschichten, 4 schon berichtet, 0 zu wartenden Geschichten ergänzt, 18 warten
+2026-11-28 18:05:01,002 INFO S6 aussortiert (prio_1): "Verdacht der Bildung einer kriminellen Vereinigung": Großrazzia im Dr
+2026-11-28 18:05:01,002 INFO S6 aussortiert (doppelt): 2. Liga: Nächste Hertha-Gala – Irre Schlussphase in Dresden
+2026-11-28 18:05:01,002 INFO S6 aussortiert (doppelt): Doppelpack in der Nachspielzeit: Dynamo dreht Partie gegen den FC St. 
+2026-11-28 18:05:01,003 INFO S6 aussortiert (doppelt): 2. Bundesliga - SG Dynamo Dresden 2-1 FC St. Pauli
+2026-11-28 18:05:01,003 INFO S6 aussortiert (doppelt): 2. Bundesliga: Hertha steuert weiter der Traumsaison entgegen | Flashs
+2026-11-28 18:05:01,003 INFO S6 aussortiert (doppelt): Vier Scorer gegen Karlsruhe: Brekalo zu gut für die zweite Liga?
+2026-11-28 18:05:01,003 INFO S6 aussortiert (doppelt): Doppelschlag in der Nachspielzeit: Späte Dresdner Ekstase gegen St. Pa
+2026-11-28 18:05:01,003 INFO S6 aussortiert (doppelt): Spielstatistik | Holstein Kiel - 1. FC Kaiserslautern | 13. Spieltag |
+2026-11-28 18:05:01,003 INFO S6 aussortiert (doppelt): 2. Liga live: 1:0 von Vermeij zählt nicht, dann schlägt St. Pauli mit 
+2026-11-28 18:05:01,004 INFO S6 aussortiert (doppelt): Dresden bebt - Dynamo dreht Fußballkrimi gegen den FC St. Pauli
+2026-11-28 18:05:01,004 INFO S6 aussortiert (doppelt): Razzia nach Dresden-Spiel: Polizei ermittelt gegen Ultras Dynamo
+2026-11-28 18:05:01,004 INFO S6 aussortiert (doppelt): "Grausam": St. Pauli gibt Auswärtsdreier in Dresden spät aus der Hand
+2026-11-28 18:05:01,004 INFO S6 aussortiert (doppelt): SG Dynamo Dresden - FC St. Pauli | 13. Spieltag | Spielbericht | Highl
+2026-11-28 18:05:01,004 INFO S6 aussortiert (doppelt): Holstein Kiel - 1. FC Kaiserslautern | 13. Spieltag | Spielbericht | H
+2026-11-28 18:05:01,004 INFO S6 aussortiert (doppelt): Hertha BSC - Karlsruher SC | 13. Spieltag | Spielbericht | Highlights
+2026-11-28 18:05:01,004 INFO S6 aussortiert (doppelt): "Überragend gespielt": Hertha schießt sich für Duell mit dem FC Bayern
+2026-11-28 18:05:01,004 INFO S6 aussortiert (doppelt): Last-Minute-Tore lassen Dresden jubeln - Lautern geht in Kiel unter
+2026-11-28 18:05:01,005 INFO S6 aussortiert (doppelt): St. Pauli verspielt Auswärtssieg in Dresden: Dynamo dreht das Spiel in
+2026-11-28 18:05:01,005 INFO S6 aussortiert (doppelt): 2. Bundesliga: Hertha baut Super-Serie aus - 1. FC Kaiserslautern geht
+2026-11-28 18:05:01,005 INFO S6 aussortiert (doppelt): Holstein Kiel - 1. FC Kaiserslautern Kader & Aufstellungen: 2. Bundesl
+2026-11-28 18:05:01,005 INFO S6 aussortiert (doppelt): Holstein Kiel - 1. FC Kaiserslautern Statistiken: Fußball Ergebnisse &
+2026-11-28 18:05:01,005 INFO S6 aussortiert (doppelt): Aufstellung Holstein Kiel - 1. FC Kaiserslautern 3:0 | 13. Spieltag, 2
+2026-11-28 18:05:01,005 INFO S6 aussortiert (doppelt): Drei Tore in zwölf Minuten: Holstein Kiel feiert Heimsieg gegen Kaiser
+2026-11-28 18:05:01,005 INFO S6 aussortiert (doppelt): Kiel dreht nach der Pause auf: Kniat feiert gelungene Heimpremiere geg
+2026-11-28 18:05:01,005 INFO S6 aussortiert (doppelt): 2. Bundesliga - Holstein Kiel 3-0 1. FC Kaiserslautern
+2026-11-28 18:05:01,006 INFO S6 aussortiert (doppelt): Holstein Kiel schlägt Kaiserslautern deutlich: Zwölf furiose Minuten f
+2026-11-28 18:05:01,006 INFO S6 aussortiert (doppelt): „Wollten uns reinknallen“: Phil Harres und die neue Lust bei Holstein 
+2026-11-28 18:05:01,006 INFO S6 aussortiert (doppelt): Kantersieg gegen KSC: Hertha unaufhaltsam – Last-Minute-Ekstase in Dre
+2026-11-28 18:05:01,006 INFO S6 aussortiert (doppelt): Dynamo Dresden - St. Pauli
+2026-11-28 18:05:01,006 INFO S6 aussortiert (prio_1): Harte Linie von Magdeburg: Cottbus-Fans droht im Stadion der Rausschmi
+2026-11-28 18:05:01,006 INFO S6 aussortiert (doppelt): Nächs­ter Nürnberg-​Dämpfer: 1:3 beim kri­seln­den Hei­den­heim
+2026-11-28 18:05:01,006 INFO S6 aussortiert (prio_0): Unterhaching empfängt Nürnberg II zum Jahresheimspiel
+2026-11-28 18:05:01,006 INFO S6 aussortiert (prio_1): 30 Jahre Fan-Projekt Bielefeld
+2026-11-28 18:05:01,007 INFO S6 aussortiert (doppelt): Dynamo Dresden: Polizei geht gegen radikale Dresdner Fangruppierung Ul
+2026-11-28 18:05:01,007 INFO S6 aussortiert (doppelt): Beispiellose Razzia in Dresden: Mehr als 1000 Polizisten riegeln Dynam
+2026-11-28 18:05:01,007 INFO S6 aussortiert (doppelt): Direkt nach Abpfiff: Razzia bei Dynamo-Dresden-Ultras und am Stadion
+2026-11-28 18:05:01,007 INFO S6 aussortiert (doppelt): Direkt nach Abpfiff in Dresden: Polizei-Großeinsatz gegen „Ultras Dyna
+2026-11-28 18:05:01,007 INFO S6 aussortiert (doppelt): Riesen-Razzia bei Dynamo-Ultras: Warum wurden Fans des FC St. Pauli fo
+2026-11-28 18:05:01,007 INFO S6 aussortiert (doppelt): Razzia nach Fußballspiel in Dresden: Großeinsatz gegen »Ultras Dynamo«
+2026-11-28 18:05:01,007 INFO S6 aussortiert (doppelt): Verdacht auf kriminelle Vereinigung! Razzia im Stadion - Polizei kesse
+2026-11-28 18:05:01,007 INFO S6 aussortiert (doppelt): Verdacht auf kriminelle Vereinigung: Polizei kesselt nach Dynamo-Spiel
+2026-11-28 18:05:01,008 INFO S6 aussortiert (doppelt): Nach St. Pauli-Spiel: Großrazzia gegen Dynamo-Ultras
+2026-11-28 18:05:01,008 INFO S6 aussortiert (doppelt): Razzia vor dem K-Block gegen Ultras von Dynamo Dresden
+2026-11-28 18:05:01,008 INFO S6 aussortiert (doppelt): Radikale Fans: Razzia gegen Fußball-Ultras von Dynamo Dresden
+2026-11-28 18:05:01,008 INFO S6 aussortiert (doppelt): Dynamo Dresden Pressekonferenz: Ekstase im Stadion - so feiert SGD den
+2026-11-28 18:05:01,008 INFO S6 aussortiert (doppelt): St. Pauli verspielt Führung gegen Dresden in der Nachspielzeit
+2026-11-28 18:05:01,008 INFO S6 aussortiert (doppelt): Dynamo Dresden: Vierter Heimsieg in Folge nach Drama gegen St. Pauli
+2026-11-28 18:05:01,008 INFO S6 aussortiert (doppelt): Dynamo Dresden - FC St. Pauli Statistiken: Fußball Ergebnisse & Infos
+2026-11-28 18:05:01,008 INFO S6 aussortiert (doppelt): Dynamo Dresden - FC St. Pauli Kader & Aufstellungen: 2. Bundesliga Fuß
+2026-11-28 18:05:01,008 INFO S6 aussortiert (doppelt): Dynamo rettet 3 Punkte auf den letzten Drücker
+2026-11-28 18:05:01,008 INFO S6 aussortiert (doppelt): Polizei geht mit Großeinsatz gegen Dresdner Ultra-Gruppe vor – auch Fa
+2026-11-28 18:05:01,009 INFO S6 aussortiert (doppelt): Irre Nachspielzeit! Dresden dreht Spiel gegen St. Pauli
+2026-11-28 18:05:01,009 INFO S6 aussortiert (doppelt): 1000 Polizisten im Stadion in Dresden: Mega-Razzia gegen Dynamo Ultras
+2026-11-28 18:05:01,009 INFO S6 aussortiert (doppelt): Dynamo Dresden - FC St. Pauli | Weitere Spiele: Fußball Live-Updates
+2026-11-28 18:05:01,009 INFO S6 aussortiert (doppelt): Ermittlungen gegen Dynamo-Ultras in Dresden
+2026-11-28 18:05:01,009 INFO S6 aussortiert (doppelt): 28. November 2026 – 13. Spieltag - Gegner Weltpokalsiegerbesieger FC S
+2026-11-28 18:05:01,009 INFO S6 aussortiert (doppelt): Zwei Tore in der Nachspielzeit: Dresden dreht das Spiel gegen Pauli - 
+2026-11-28 18:05:01,009 INFO S6 aussortiert (doppelt): Nach St. Pauli-Spiel: Polizei-Razzia gegen Dynamo-Ultras! Kriminelle V
+2026-11-28 18:05:01,009 INFO S6 aussortiert (doppelt): Two Goals in Overtime: Dynamo Defeats St. Pauli
+2026-11-28 18:05:01,009 INFO S6 aussortiert (doppelt): Polizei ermittelt gegen Dresden-Ultras
+2026-11-28 18:05:01,009 INFO S6 aussortiert (doppelt): (+) St. Paulis Noten nach dem Drama von Dresden
+2026-11-28 18:05:01,010 INFO S6 aussortiert (doppelt): Ecstasy in Dresden: Dynamo's Last-Minute Victory Over St. Pauli
+2026-11-28 18:05:01,010 INFO S6 aussortiert (doppelt): News, Regional, Sachsen: Polizeidirektion Dresden ermittelt gegen 87 A
+2026-11-28 18:05:01,010 INFO S6 aussortiert (prio_0): DFB-Pokal - VfB Stuttgart - SG Dynamo Dresden
+2026-11-28 18:05:01,010 INFO S6 aussortiert (doppelt): Dynamo gegen St. Pauli live: Die SGD trifft, aber das Knie von Straudi
+2026-11-28 18:05:01,010 INFO S6 aussortiert (doppelt): Dynamo gegen St. Pauli live: Kiezkicker dominieren die erste Halbzeit,
+2026-11-28 18:05:01,010 INFO S6 aussortiert (doppelt): Dynamo gegen St. Pauli live: Die Aufstellung ist da! Das ändert Thomas
+2026-11-28 18:05:01,010 INFO S6 aussortiert (prio_0): 🦁 Braunschweiger ATP-Turnier gerettet
+2026-11-28 18:05:01,010 INFO S6 aussortiert (doppelt): News, Sport: 2. Bundesliga: Hertha überrollt KSC und überwintert auf P
+2026-11-28 18:05:01,010 INFO S6 aussortiert (prio_0): Topspiel VfL Osnabrück - Hannover 96 im Live-Stream und TV: Osnabrück 
+2026-11-28 18:05:01,011 INFO S6 aussortiert (doppelt): LIVE: Pressekonferenz nach Karlsruhe
+2026-11-28 18:05:01,011 INFO S6 aussortiert (doppelt): Das Spiel unter Freunden wird zum Torfestival für Hertha
+2026-11-28 18:05:01,011 INFO S6 aussortiert (doppelt): Live Spiele von Hertha BSC
+2026-11-28 18:05:01,011 INFO S6 aussortiert (doppelt): 2. Bundesliga - Hertha BSC 4-0 Karlsruher SC
+2026-11-28 18:05:01,011 INFO S6 aussortiert (doppelt): KIEL 1:0 Kaiserslautern - Harres (54' 11m)
+2026-11-28 18:05:01,011 INFO S6 aussortiert (doppelt): Nächstes Hertha-Torfestival: Grönning und Brekalo schießen KSC ab
+2026-11-28 18:05:01,011 INFO S6 aussortiert (doppelt): Hertha BSC - Karlsruher SC Statistiken: Fußball Ergebnisse & Infos
+2026-11-28 18:05:01,011 INFO S6 aussortiert (doppelt): Melhores momentos: Holstein Kiel 3 x 0 Karlsruher SC (2.Bundesliga)
+2026-11-28 18:05:01,011 INFO S6 aussortiert (doppelt): 2. Bundesliga am Samstag: Hertha BSC baut Super-Serie aus – Lautern ge
+2026-11-28 18:05:01,011 INFO S6 aussortiert (prio_0): 2. Bundesliga: Hertha Berlin gegen Karlsruher SC jetzt live
+2026-11-28 18:05:01,012 INFO S6 aussortiert (prio_0): Hertha führt 1 zu 0 gegen den KSC
+2026-11-28 18:05:01,012 INFO S6 aussortiert (prio_1): KSC-Koch zeigt Kindern in Durlach, wie frische Maultaschen gelingen
+2026-11-28 18:05:01,012 INFO S6 aussortiert (doppelt): Spielstatistik | VfL Bochum - SV Darmstadt 98 | 13. Spieltag | 2. Bund
+2026-11-28 18:05:04,750 INFO S7 schreiben (Prio 3, 1 Quellen): Mega-Choreo und Zauber-Fußball: Hertha zerlegt auch Karlsruh
+2026-11-28 18:05:07,602 INFO S7 verworfen (nicht_relevant): Mega-Choreo und Zauber-Fußball: Hertha zerlegt auch Karlsruh
+2026-11-28 18:05:09,947 INFO S7 schreiben (Prio 3, 1 Quellen): Traumhaftes Heimdebüt für Kniat - Holstein Kiel fertigt FCK 
+2026-11-28 18:05:21,119 INFO S7.6 doppelt (Kiel schlägt Kaiserslautern 3:0 und verlässt den l): Kiel gewinnt Heimdebüt von Kniat mit 3:0 gegen Kai
+2026-11-28 18:05:21,384 INFO S7 Ersatzquellen für "Bochum bestätigt Ausfall: Mets erleidet Gesichtsfr": 0 passende Treffer
+2026-11-28 18:05:21,384 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Bochum bestätigt Ausfall: Mets erleidet Gesichtsfraktur
+2026-11-28 18:05:24,173 INFO S7 schreiben (Prio 3, 1 Quellen): Spielbericht Hertha BSC - KSC | Karlsruher SC
+2026-11-28 18:05:29,332 INFO S7 verworfen (zu_wenig_stoff): Spielbericht Hertha BSC - KSC | Karlsruher SC
+2026-11-28 18:05:29,800 INFO S7 Ersatzquellen für "Auch dank Scorermaschine Brekalo: Rauschhafte Hert": 0 passende Treffer
+2026-11-28 18:05:29,800 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Auch dank Scorermaschine Brekalo: Rauschhafte Hertha macht d
+2026-11-28 18:05:30,208 INFO S7 kein Volltext (too_short_15_words): Ausrufezeichen gegen Kaiserslautern! Kiel feiert ersten Sieg
+2026-11-28 18:05:30,438 INFO S7 Ersatzquellen für "Ausrufezeichen gegen Kaiserslautern! Kiel feiert e": 0 passende Treffer
+2026-11-28 18:05:30,438 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Ausrufezeichen gegen Kaiserslautern! Kiel feiert ersten Sieg
+2026-11-28 18:05:33,541 INFO S7 kein Volltext (too_short_35_words): Der KSC verliert Tremoulet und nach der Pause schnell die Ko
+2026-11-28 18:05:33,812 INFO S7 Ersatzquellen für "Der KSC verliert Tremoulet und nach der Pause schn": 1 passende Treffer
+2026-11-28 18:05:34,908 INFO S7 kein Volltext (too_short_35_words): Klatsche bei Hertha: Der KSC verliert Tremoulet und nach der
+2026-11-28 18:05:34,908 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Der KSC verliert Tremoulet und nach der Pause schnell die Ko
+2026-11-28 18:05:35,573 INFO S7 kein Volltext (too_short_40_words): Bittere Nachricht für den VfL Bochum: Mets fehlt im Pokal-Hi
+2026-11-28 18:05:35,906 INFO S7 Ersatzquellen für "Bittere Nachricht für den VfL Bochum: Mets fehlt i": 0 passende Treffer
+2026-11-28 18:05:35,906 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Bittere Nachricht für den VfL Bochum: Mets fehlt im Pokal-Hi
+2026-11-28 18:05:36,979 INFO S7 kein Volltext (too_short_78_words): Mit einem Ex-Kiezkicker! So startet Dresden gegen St. Pauli
+2026-11-28 18:05:37,242 INFO S7 Ersatzquellen für "Mit einem Ex-Kiezkicker! So startet Dresden gegen ": 0 passende Treffer
+2026-11-28 18:05:37,242 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Mit einem Ex-Kiezkicker! So startet Dresden gegen St. Pauli
+2026-11-28 18:05:39,461 INFO S6.5 schon berichtet (Bochum siegt spät gegen Darmstadt und setzt s): Wieder Hofmann: Bochum schlägt dank Torjäger Darmstadt
+2026-11-28 18:05:40,298 INFO S7 kein Volltext (too_short_39_words): Bereit für Bayern: Wie sich Hertha BSC den ersten Titel der 
+2026-11-28 18:05:40,500 INFO S7 Ersatzquellen für "Bereit für Bayern: Wie sich Hertha BSC den ersten ": 0 passende Treffer
+2026-11-28 18:05:40,500 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Bereit für Bayern: Wie sich Hertha BSC den ersten Titel der 
+2026-11-28 18:05:42,701 INFO S7 schreiben (Prio 2, 1 Quellen): Ballbesitz, Zweikämpfe, Passquote: KSC hört bei abgezockter 
+2026-11-28 18:05:50,345 INFO   Kandidat: KSC geht bei Hertha 0:4 unter: Wanitzek schlägt Alarm
+2026-11-28 18:05:50,641 INFO S7 Ersatzquellen für "Kniat sieht "viel Gutes" - und gedenkt seines früh": 0 passende Treffer
+2026-11-28 18:05:50,641 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Kniat sieht "viel Gutes" - und gedenkt seines früheren Co-Tr
+2026-11-28 18:05:52,347 INFO S7 kein Volltext (too_short_34_words): KSC-Kapitän Wanitzek wünscht sich für den Winter erfahrene V
+2026-11-28 18:05:52,582 INFO S7 Ersatzquellen für "KSC-Kapitän Wanitzek wünscht sich für den Winter e": 0 passende Treffer
+2026-11-28 18:05:52,582 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): KSC-Kapitän Wanitzek wünscht sich für den Winter erfahrene V
+2026-11-28 18:05:54,776 INFO S6.5 schon berichtet (KSC geht bei Hertha 0:4 unter: Wanitzek schlä): "Ein Spielwitz und eine Leichtigkeit": Herthas Gnadenlosigke
+2026-11-28 18:05:55,006 INFO S7 Ersatzquellen für "Dresden widerlegt Rapp-Urteil: "Der gegnerische Tr": 0 passende Treffer
+2026-11-28 18:05:55,006 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Dresden widerlegt Rapp-Urteil: "Der gegnerische Trainer kann
+2026-11-28 18:05:56,419 INFO S7 kein Volltext (too_short_39_words): Nach Heimsieg gegen Karlsruhe: Herthas Grönning - "Es ist wi
+2026-11-28 18:05:56,679 INFO S7 Ersatzquellen für "Nach Heimsieg gegen Karlsruhe: Herthas Grönning - ": 0 passende Treffer
+2026-11-28 18:05:56,679 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Nach Heimsieg gegen Karlsruhe: Herthas Grönning - "Es ist wi
+2026-11-28 18:05:56,923 INFO S7 Ersatzquellen für ""Anscheinend kann die Mannschaft nicht mit Lob umg": 0 passende Treffer
+2026-11-28 18:05:56,923 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): "Anscheinend kann die Mannschaft nicht mit Lob umgehen": Hen
+2026-11-28 18:05:58,715 INFO S7 kein Volltext (too_short_35_words): Alarmstimmung beim KSC: „Es geht ums nackte Überleben“
+2026-11-28 18:05:58,932 INFO S7 Ersatzquellen für "Alarmstimmung beim KSC: „Es geht ums nackte Überle": 0 passende Treffer
+2026-11-28 18:05:58,932 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Alarmstimmung beim KSC: „Es geht ums nackte Überleben“
+2026-11-28 18:06:01,665 INFO S6.5 schon berichtet (KSC geht bei Hertha 0:4 unter: Wanitzek schlä): „Mannschaftlich herausragend“
+2026-11-28 18:06:03,785 INFO S7 kein Volltext (too_short_39_words): Tobias Müller, Fußballprofi aus Tiefenbronn, über seine Roll
+2026-11-28 18:06:04,048 INFO S7 Ersatzquellen für "Tobias Müller, Fußballprofi aus Tiefenbronn, über ": 0 passende Treffer
+2026-11-28 18:06:04,048 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Tobias Müller, Fußballprofi aus Tiefenbronn, über seine Roll
+2026-11-28 18:06:07,549 INFO S6.5 schon berichtet (KSC geht bei Hertha 0:4 unter: Wanitzek schlä): "Müssen den Arsch hochkriegen": KSC-Profis schlagen Alarm – 
+2026-11-28 18:06:08,476 INFO S7 kein Volltext (likely_paywall): Ausverkaufte Hütte im Derby: 96-Star-Trainer im Hexenkessel 
+2026-11-28 18:06:08,698 INFO S7 Ersatzquellen für "Ausverkaufte Hütte im Derby: 96-Star-Trainer im He": 0 passende Treffer
+2026-11-28 18:06:08,698 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Ausverkaufte Hütte im Derby: 96-Star-Trainer im Hexenkessel 
+2026-11-28 18:06:10,900 INFO S6.5 schon berichtet (KSC geht bei Hertha 0:4 unter: Wanitzek schlä): FC Bayern kann kommen – Entfesselte Hertha schießt auch ihre
+2026-11-28 18:06:11,365 INFO S7 kein Volltext (too_short_36_words): VfL Bochum: Note eins für zwei Profis – aber einer kassiert 
+2026-11-28 18:06:11,619 INFO S7 Ersatzquellen für "VfL Bochum: Note eins für zwei Profis – aber einer": 0 passende Treffer
+2026-11-28 18:06:11,619 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): VfL Bochum: Note eins für zwei Profis – aber einer kassiert 
+2026-11-28 18:06:12,230 INFO S7 kein Volltext (too_short_29_words): FC St. Pauli: Ando als japanischer Lúcio – Einwechselspieler
+2026-11-28 18:06:12,453 INFO S7 Ersatzquellen für "FC St. Pauli: Ando als japanischer Lúcio – Einwech": 0 passende Treffer
+2026-11-28 18:06:12,453 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): FC St. Pauli: Ando als japanischer Lúcio – Einwechselspieler
+2026-11-28 18:06:13,267 INFO S7 kein Volltext (likely_paywall): Energie Cottbus 2. Liga: Henry Rorig warnt FCE vor Magdeburg
+2026-11-28 18:06:13,531 INFO S7 Ersatzquellen für "Energie Cottbus 2. Liga: Henry Rorig warnt FCE vor": 0 passende Treffer
+2026-11-28 18:06:13,531 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Energie Cottbus 2. Liga: Henry Rorig warnt FCE vor Magdeburg
+2026-11-28 18:06:14,461 INFO S7 kein Volltext (too_short_60_words): Magdeburgs Trainer Petrik Sander gegen seine alte Lieber Ene
+2026-11-28 18:06:14,763 INFO S7 Ersatzquellen für "Magdeburgs Trainer Petrik Sander gegen seine alte ": 0 passende Treffer
+2026-11-28 18:06:14,763 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Magdeburgs Trainer Petrik Sander gegen seine alte Lieber Ene
+2026-11-28 18:06:16,246 INFO S7 kein Volltext (too_short_18_words): Bringt das Derby die Wende für Energie Cottbus?
+2026-11-28 18:06:16,468 INFO S7 Ersatzquellen für "Bringt das Derby die Wende für Energie Cottbus?": 0 passende Treffer
+2026-11-28 18:06:16,469 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Bringt das Derby die Wende für Energie Cottbus?
+2026-11-28 18:06:17,389 INFO S7 kein Volltext (likely_paywall): Dynamo gegen St. Pauli live: Er stieg mit Dresden ab und wie
+2026-11-28 18:06:17,660 INFO S7 Ersatzquellen für "Dynamo gegen St. Pauli live: Er stieg mit Dresden ": 0 passende Treffer
+2026-11-28 18:06:17,660 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Dynamo gegen St. Pauli live: Er stieg mit Dresden ab und wie
+2026-11-28 18:06:18,512 INFO S7 kein Volltext (seite_zu_alt): Pressekonferenz nach Hertha BSC
+2026-11-28 18:06:18,805 INFO S7 Ersatzquellen für "Pressekonferenz nach Hertha BSC": 1 passende Treffer
+2026-11-28 18:06:19,711 INFO S7 kein Volltext (too_short_53_words): LIVE: Pressekonferenz nach Karlsruhe
+2026-11-28 18:06:19,711 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 1/3): Pressekonferenz nach Hertha BSC
+2026-11-28 18:06:20,703 INFO S7 kein Volltext (too_short_49_words): St. Pauli-Keeper Voll verrät: Darum hat er beim Kiezkluv ver
+2026-11-28 18:06:20,942 INFO S7 Ersatzquellen für "St. Pauli-Keeper Voll verrät: Darum hat er beim Ki": 0 passende Treffer
+2026-11-28 18:06:20,943 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): St. Pauli-Keeper Voll verrät: Darum hat er beim Kiezkluv ver
+2026-11-28 18:06:21,555 INFO S7 kein Volltext (too_short_36_words): Gelingt Hertha BSC im Freundschaftsduell mit dem KSC die Bay
+2026-11-28 18:06:21,781 INFO S7 Ersatzquellen für "Gelingt Hertha BSC im Freundschaftsduell mit dem K": 0 passende Treffer
+2026-11-28 18:06:21,781 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Gelingt Hertha BSC im Freundschaftsduell mit dem KSC die Bay
+2026-11-28 18:06:23,340 INFO S7 kein Volltext (low_unique_content_ratio): Hertha BSC: Neue Aufgabe gegen die KSCler am Samstag
+2026-11-28 18:06:23,573 INFO S7 Ersatzquellen für "Hertha BSC: Neue Aufgabe gegen die KSCler am Samst": 0 passende Treffer
+2026-11-28 18:06:23,574 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Hertha BSC: Neue Aufgabe gegen die KSCler am Samstag
+2026-11-28 18:06:25,362 INFO S7 kein Volltext (low_unique_content_ratio): SG Dynamo Dresden: So ist die Ausgangslage vor FC St. Pauli 
+2026-11-28 18:06:25,647 INFO S7 Ersatzquellen für "SG Dynamo Dresden: So ist die Ausgangslage vor FC ": 0 passende Treffer
+2026-11-28 18:06:25,647 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): SG Dynamo Dresden: So ist die Ausgangslage vor FC St. Pauli 
+2026-11-28 18:06:27,023 INFO S7 kein Volltext (low_unique_content_ratio): VfL Osnabrück: Ausgangslage und News vor Hannover 96 am Sams
+2026-11-28 18:06:27,284 INFO S7 Ersatzquellen für "VfL Osnabrück: Ausgangslage und News vor Hannover ": 0 passende Treffer
+2026-11-28 18:06:27,284 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): VfL Osnabrück: Ausgangslage und News vor Hannover 96 am Sams
+2026-11-28 18:06:27,676 INFO S7 kein Volltext (too_short_15_words): Kind exklusiv über Hannovers Neustart: "Wir müssen aus unser
+2026-11-28 18:06:27,924 INFO S7 Ersatzquellen für "Kind exklusiv über Hannovers Neustart: "Wir müssen": 0 passende Treffer
+2026-11-28 18:06:27,924 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): Kind exklusiv über Hannovers Neustart: "Wir müssen aus unser
+2026-11-28 18:06:28,754 INFO S7 kein Volltext (too_short_40_words): VfL Osnabrück gegen Hannover 96: Eine Führung zur Pause wäre
+2026-11-28 18:06:29,025 INFO S7 Ersatzquellen für "VfL Osnabrück gegen Hannover 96: Eine Führung zur ": 0 passende Treffer
+2026-11-28 18:06:29,026 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): VfL Osnabrück gegen Hannover 96: Eine Führung zur Pause wäre
+2026-11-28 18:06:30,832 INFO S7 kein Volltext (too_short_35_words): KSC-Spieler nach dem Spiel gegen die Berliner Hertha bewerte
+2026-11-28 18:06:31,109 INFO S7 Ersatzquellen für "KSC-Spieler nach dem Spiel gegen die Berliner Hert": 0 passende Treffer
+2026-11-28 18:06:31,109 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 2/3): KSC-Spieler nach dem Spiel gegen die Berliner Hertha bewerte
+2026-11-28 18:06:31,765 INFO S7 kein Volltext (too_short_8_words): Verliert der VfL Wolfsburg ihn schon im Winter? Wie Kumbedi 
+2026-11-28 18:06:32,004 INFO S7 Ersatzquellen für "Verliert der VfL Wolfsburg ihn schon im Winter? Wi": 0 passende Treffer
+2026-11-28 18:06:32,004 INFO S7 zu wenig Stoff (0 Wörter aus 0 Quellen, Versuch 3/3): Verliert der VfL Wolfsburg ihn schon im Winter? Wie Kumbedi 
+2026-11-28 18:06:32,008 INFO FinalCheck SKIP: karlsruhe/{'marvin wanitzek', 'maximilian senft', 'hans christian bernat'} stage=spielbericht bereits in Archiv
+2026-11-28 18:06:32,008 INFO S9.5 FinalCheck: 0/1 durch
+2026-11-28 18:06:32,017 WARNING Sitemap ohne Spielerseiten: [Errno 2] No such file or directory: 'spieler_db.json'
+2026-11-28 18:06:32,021 INFO 💶 Kosten: dieser Lauf 0.000 $ (Budget 0.647 $) | heute 0.00 $ | Monat 0.23 / 8 $ | konferenz (abo) 2× 0.000 $, dublette (abo) 9× 0.000 $, schreiben (abo) 4× 0.000 $
+2026-11-28 18:06:32,021 INFO 🎫 Abo-Verbrauch: 51,462 Tokens rein (davon Cache gelesen 4,182), 30,226 raus, API-Gegenwert 0.34 $ | konferenz 2×: 8,798/26,386, dublette 9×: 12,991/31, schreiben 4×: 29,673/3,809
+2026-11-28 18:06:32,038 INFO Feeds: 38/38 begonnen, nächster Lauf startet bei Nr. 0
+2026-11-28 18:06:32,039 INFO URL-Cache gespeichert: 17566 URLs
+2026-11-28 18:06:32,039 INFO === Fertig. 0 neue Artikel. feed.json: 241 ===
+2026-11-28 18:06:32,039 INFO Stats: {"ts": "20261128_1801", "ingested": 265, "s2_pre_filter": 64, "s3_relevance": 24, "s4_dedup_early": 0, "gesammelt": 161, "geschichten_neu": 105, "s5_archiv_doppelt": 4, "s5_zusammengefuehrt": 0, "s6_aussortiert": 83, "s7_geschrieben": 4, "s7_verworfen": 8, "s5_fulltext_fail": 31, "s8_qa_rejected": 1, "published": 0, "s5_randthema": 6, "s5_ohne_bezug": 14, "kosten": {"lauf_usd": 0.0, "lauf_budget_usd": 0.6473, "heute_usd": 0.0, "monat_usd": 0.2322, "monatsbudget_usd": 8.0, "aufrufe": {"konferenz (abo)": {"anzahl": 2, "usd": 0.0}, "dublette (abo)": {"anzahl": 9, "usd": 0.0}, "schreiben (abo)": {"anzahl": 4, "usd": 0.0}}, "guthaben_leer": false, "abo": true, "abo_tokens": {"konferenz": {"aufrufe": 2, "ein": 3110, "cache_schreiben": 5688, "cache_lesen": 0, "aus": 26386, "api_wert_usd": 0.1464}, "dublette": {"aufrufe": 9, "ein": 18, "cache_schreiben": 12973, "cache_lesen": 0, "aus": 31, "api_wert_usd": 0.0523}, "schreiben": {"aufrufe": 4, "ein": 8, "cache_schreiben": 25483, "cache_lesen": 4182, "aus": 3809, "api_wert_usd": 0.1405}}}}
