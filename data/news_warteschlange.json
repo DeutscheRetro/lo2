@@ -1,393 +1,5 @@
 [
  {
-  "id": "f57cff088f",
-  "schluessel": "cottbus|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Cottbus",
-  "klubs": [
-   "Cottbus",
-   "Magdeburg"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Energie Cottbus 2. Liga: Henry Rorig warnt FCE vor Magdeburgs „unfassbarer Wucht“",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZjF2UFFoVlhOM2QzcHFRU20zT0FjMkhxVTZZemx5dG43YldmMUNydXh3ZDNPNVBxRmZoYkJYTVMzY04wb3hjR2lTcmJaZjFlOTRDZFU0T0JXT3kzMVI0VTJ3Q2FnaGg3VF81dGI3UFBSeEJPeVNnTXdzaDVHRzdiQWptaTJQREZuaEZCdXR5SndnTDRGcko1WU9LdS04MjZldEQtVWxCSF90eWdaSDBnV2VBYXEyYktTd2J0Z2gycVBHVFZVV3cxVWg1eWI?oc=5",
-    "aid": "9dabf949d8",
-    "titel": "Energie Cottbus 2. Liga: Henry Rorig warnt FCE vor Magdeburgs „unfassbarer Wucht“",
-    "quelle": "Lausitzer Rundschau",
-    "beschr": " Energie Cottbus 2. Liga: Henry Rorig warnt FCE vor Magdeburgs „unfassbarer Wucht“ &nbsp;&nbsp; Lausitzer Rundschau ",
-    "zeit": "2026-11-28T14:00"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-28T15:01",
-  "archiv": [
-   {
-    "id": "aff9dda184",
-    "titel": "Michelbrink vor Derby: Cottbus' Leihgabe von Hertha ist unverzichtbar",
-    "datum": "19.11.",
-    "stufe": "sonstiges",
-    "summary": "Vor dem Derby gegen Hertha BSC am Sonntag gilt Leihspieler Lukas Michelbrink bei Energie Cottbus als unverzichtbar. Cottbus besitzt eine Kaufoption, Hertha eine Rückkaufoption."
-   },
-   {
-    "id": "5b44f3ec62",
-    "titel": "Wollitz traut Hertha vor Duell in Cottbus den Punkterekord zu",
-    "datum": "16.11.",
-    "stufe": "sonstiges",
-    "summary": "Cottbus-Trainer Claus-Dieter Wollitz traut Spitzenreiter Hertha vor dem Duell am Sonntag einen neuen Zweitliga-Punkterekord zu. Cottbus steht mit elf Punkten auf Relegationsrang 16."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "79484ddf48",
-  "schluessel": "magdeburg|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Magdeburg",
-  "klubs": [
-   "Magdeburg",
-   "Cottbus"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Magdeburgs Trainer Petrik Sander gegen seine alte Lieber Energie Cottbus",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTmlGNUJDVk5pblo0dnlkQ3hDSmVMOGNXWVdlbWtDLVNSc3VDbExKUkFyaFBtM0c3VDBySE5fYkJoRXF2ZVBiZFhWTlc4N1MySktPS0VFMXJEQUVGWmtCYWZBTF9rVXJ1R2RTakZiVjc2WW5NbkhhOWFZaHkxc0g2N2F6YzlWN3FlcG54ZW53Q3huOGN3S1gyaVpyWGc3WFZDME8zNTVDc2N2d083d0ZiUXhxQmxWQ3M?oc=5",
-    "aid": "856a28dbc6",
-    "titel": "Magdeburgs Trainer Petrik Sander gegen seine alte Lieber Energie Cottbus",
-    "quelle": "MDR.de",
-    "beschr": " Magdeburgs Trainer Petrik Sander gegen seine alte Lieber Energie Cottbus &nbsp;&nbsp; MDR.de ",
-    "zeit": "2026-11-28T12:19"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-28T15:01",
-  "archiv": [
-   {
-    "id": "be8b4b5295",
-    "titel": "Magdeburg: Vier Nationalspieler kehren vor Bielefeld-Spiel spät zurück",
-    "datum": "17.11.",
-    "stufe": "sonstiges",
-    "summary": "Magdeburg muss vor dem Spiel in Bielefeld am Freitag auf vier Nationalspieler verzichten, die erst spät zurückkehren. Trainer Sander kritisiert die Freitagsansetzung nach der Länderspielpause."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "76a4ba3fbb",
-  "schluessel": "st. pauli|kader",
-  "person": "",
-  "spieler": [],
-  "klub": "St. Pauli",
-  "klubs": [
-   "St. Pauli",
-   "Dresden"
-  ],
-  "stufe": "kader",
-  "klasse": "kader",
-  "titel": "Mit einem Ex-Kiezkicker! So startet Dresden gegen St. Pauli",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNS1PenF5QW9XNFNXeXU1aDNiVGl1a3BCVEVDRlRKZ2NMbDRGOUk0NG5NNDF2VGo1eVRDU0ZXWmJTZFhsLV9qWXBDWW5JSFFXb1liOFpjTEh2OTB3Z0JPNC1TRFFnRFVsLXRqVjNxUXlITDVlS2hrSXMtS1VtZ1FNREdMSkNpbHZaNWFXSHR1QzI5RmVIRVN0Q2tiZEpfeWJQ?oc=5",
-    "aid": "72e1de8f99",
-    "titel": "Mit einem Ex-Kiezkicker! So startet Dresden gegen St. Pauli",
-    "quelle": "StPauli24",
-    "beschr": " Mit einem Ex-Kiezkicker! So startet Dresden gegen St. Pauli &nbsp;&nbsp; StPauli24 ",
-    "zeit": "2026-11-28T11:59"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-28T15:01",
-  "archiv": [
-   {
-    "id": "9082408cf9",
-    "titel": "St. Pauli: Oppie-Sperre öffnet Tomoya Ando den Weg zurück",
-    "datum": "13.11.",
-    "stufe": "kader",
-    "summary": "Louis Oppie fehlt St. Pauli nach seiner Roten Karte in Magdeburg gegen Bochum und in Dresden. Tomoya Ando könnte nach fünf Spielen ohne Einsatz in die Startelf zurückkehren."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "18cb5aa675",
-  "schluessel": "cottbus|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Cottbus",
-  "klubs": [
-   "Cottbus"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Bringt das Derby die Wende für Energie Cottbus?",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd0NCcWxDS0pBWi1WRFA0YjNmdmdUbGJFMm02VTNETjNlNTNJNG01VzdCTW1NMndtaG40Wm9kRDQtZWNNcmhIMDJGZVBVM3JKTW9yQzI4YjB6dHNrOVY1aDhTR1lfSndTZTNCQ3VWelF1V0U5cXdrY1Z2Ti16ZUhKdDZjUmRNck1PYkY4cFZYZzJyU3pteVVsZzNHQWZRbmxH?oc=5",
-    "aid": "e1e2880783",
-    "titel": "Bringt das Derby die Wende für Energie Cottbus?",
-    "quelle": "sportschau.de",
-    "beschr": " Bringt das Derby die Wende für Energie Cottbus? &nbsp;&nbsp; sportschau.de ",
-    "zeit": "2026-11-28T12:00"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-28T15:01",
-  "archiv": [
-   {
-    "id": "5b44f3ec62",
-    "titel": "Wollitz traut Hertha vor Duell in Cottbus den Punkterekord zu",
-    "datum": "16.11.",
-    "stufe": "sonstiges",
-    "summary": "Cottbus-Trainer Claus-Dieter Wollitz traut Spitzenreiter Hertha vor dem Duell am Sonntag einen neuen Zweitliga-Punkterekord zu. Cottbus steht mit elf Punkten auf Relegationsrang 16."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "a5d922f845",
-  "schluessel": "hannover|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hannover",
-  "klubs": [
-   "Hannover"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Kind exklusiv über Hannovers Neustart: \"Wir müssen aus unseren Fehlern lernen“",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaklORUJJY3F2XzMwVDhqSU5UTTI3TEJXTkIyUFhXUmpzMWp0c01yeWZjV1RHYnBIUU92TldHR1lSWUxqZExPUkZyNGtTVDQ0aERxY2RzU2drZWhkbjlRc3VWMFhFUEZucWJuWld3NUFRU0gxSDVvOWV0MVN2eUJBMVROVmIta0JrUmFSaGpDWFBaaHRHWWozM2lDTmk0WkczOU5wN0hKOEF5c1EyVV96MV8zUEp0N2RNSF9nVVFUZXYxYWd5NVo2Ujh3?oc=5",
-    "aid": "276b7c3838",
-    "titel": "Kind exklusiv über Hannovers Neustart: \"Wir müssen aus unseren Fehlern lernen“",
-    "quelle": "Sky.de",
-    "beschr": " Kind exklusiv über Hannovers Neustart: \"Wir müssen aus unseren Fehlern lernen“ &nbsp;&nbsp; Sky.de ",
-    "zeit": "2026-11-28T09:29"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-28T15:01",
-  "archiv": [
-   {
-    "id": "6a0e79b8ab",
-    "titel": "Hannover 96 stellt Gabor Ruhr als neuen Sportdirektor vor",
-    "datum": "25.11.",
-    "stufe": "sonstiges",
-    "summary": "Hannover 96 hat Gabor Ruhr als neuen Sportdirektor vorgestellt, den früheren Chefscout von Norwich City und des 1. FC Köln. Er folgt auf eine Reihe von Abgängen in der Sportführung, ein Sport-Geschäftsführer wird nicht mehr besetzt."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "af3da0d69e",
-  "schluessel": "hertha|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Hertha",
-  "klubs": [
-   "Hertha"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "Auch dank Scorermaschine Brekalo: Rauschhafte Hertha macht das Dutzend voll",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVkJoMXFRTmI0SzhFWjB3WTRlS01MS3Yza21IZGtEcDhVbWdJVUFHUGFCU0VIc1FxeFByLUNsVzUzTmk3THBtQnZXQnpIUGhBeGNCU3VmRVNXcTdNdjRXdkJKc05JdWFGSDQteUlMTzNYX3B0UjY0SG1wazh0bHhSRDRFWlhROC0t?oc=5",
-    "aid": "a1a2941033",
-    "titel": "Auch dank Scorermaschine Brekalo: Rauschhafte Hertha macht das Dutzend voll",
-    "quelle": "Kicker",
-    "beschr": " Auch dank Scorermaschine Brekalo: Rauschhafte Hertha macht das Dutzend voll &nbsp;&nbsp; Kicker ",
-    "zeit": "2026-11-28T14:58"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-28T15:01",
-  "archiv": [
-   {
-    "id": "b71e14f8fb",
-    "titel": "Hertha will Serie gegen Karlsruhe ausbauen",
-    "datum": "25.11.",
-    "stufe": "sonstiges",
-    "summary": "Tabellenführer Hertha BSC empfängt nach vier Siegen in Folge den Karlsruher SC. Der KSC steht mit zwölf Punkten auf Rang 15 und hat 24 Gegentore kassiert."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "eb43cc2a64",
-  "schluessel": "karlsruhe|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Karlsruhe",
-  "klubs": [
-   "Karlsruhe"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Der KSC verliert Tremoulet und nach der Pause schnell die Kontrolle",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSkNqNm90NjBBZzVNbUhlQjB1OE8yakpHcEo5RTdObVVJMDBCZEZiaGd0NERvN212T0dad0NvbC0tRDBOZ2pqd1lJeDJYZWN6WklXTGNlU2h1anRkTjh3aE43dEI1Rk4zNkVSZTI2a21lWUtCTVJKdE9weVVvN2VOVlVpdHhrc3dPRElmMllQYlNkSUZTc3Vn?oc=5",
-    "aid": "b6081fd585",
-    "titel": "Der KSC verliert Tremoulet und nach der Pause schnell die Kontrolle",
-    "quelle": "Badische Neueste Nachrichten",
-    "beschr": " Der KSC verliert Tremoulet und nach der Pause schnell die Kontrolle &nbsp;&nbsp; Badische Neueste Nachrichten ",
-    "zeit": "2026-11-28T14:54"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-28T15:01",
-  "archiv": [
-   {
-    "id": "a5dbf6d028",
-    "titel": "Karlsruhe und Osnabrück trennen sich torlos trotz Aluminiumpech",
-    "datum": "22.11.",
-    "stufe": "spielbericht",
-    "summary": "Der Karlsruher SC und der VfL Osnabrück trennen sich am 12. Spieltag 0:0. Beide Teams scheitern mehrfach an Pfosten und Latte, Karlsruhe hat die besseren Chancen."
-   },
-   {
-    "id": "1d6d392f27",
-    "titel": "Wanitzek trifft und legt auf: KSC gewinnt Test gegen Aspach 2:0",
-    "datum": "14.11.",
-    "stufe": "spielbericht",
-    "summary": "Der KSC gewinnt ein Testspiel gegen Drittligist Großaspach 2:0. Wanitzek verwandelt einen Foulelfmeter und legt Frankes Treffer auf, Broschinski fehlt noch bis Jahresende."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "6dc23aa5cb",
-  "schluessel": "karlsruhe|sonstiges",
-  "person": "",
-  "spieler": [],
-  "klub": "Karlsruhe",
-  "klubs": [
-   "Karlsruhe",
-   "Hertha"
-  ],
-  "stufe": "sonstiges",
-  "klasse": "sonstiges",
-  "titel": "KSC-Spieler nach dem Spiel gegen die Berliner Hertha bewerten",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYnlrTHNBN2FPTk9WR2Jta2s4SklHZFZkZTdCWnNSaFdDNHd3bFkxcE4xUVdYR0ZEUi16cXRvYk51bUQ0YndXb2FmUUdLZXJEQ2tSZG5QeUVraERMUlBMMmNVMm5xTVVMZ242UDMtSUJacVdHYm9ia1cycEtWQ1YyLV9tcHZ5YnVhendvQlpabkR1UHIxM2F1akQxdW1rNDRzVUFjRFVn?oc=5",
-    "aid": "87ae1b6e96",
-    "titel": "KSC-Spieler nach dem Spiel gegen die Berliner Hertha bewerten",
-    "quelle": "Badische Neueste Nachrichten",
-    "beschr": " KSC-Spieler nach dem Spiel gegen die Berliner Hertha bewerten &nbsp;&nbsp; Badische Neueste Nachrichten ",
-    "zeit": "2026-11-28T07:32"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 2,
-  "status": "n",
-  "erstmals": "2026-11-28T15:01",
-  "archiv": [
-   {
-    "id": "b71e14f8fb",
-    "titel": "Hertha will Serie gegen Karlsruhe ausbauen",
-    "datum": "25.11.",
-    "stufe": "sonstiges",
-    "summary": "Tabellenführer Hertha BSC empfängt nach vier Siegen in Folge den Karlsruher SC. Der KSC steht mit zwölf Punkten auf Rang 15 und hat 24 Gegentore kassiert."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "e71621de8d",
-  "schluessel": "kaiserslautern|spiel",
-  "person": "",
-  "spieler": [],
-  "klub": "Kaiserslautern",
-  "klubs": [
-   "Kaiserslautern"
-  ],
-  "stufe": "spielbericht",
-  "klasse": "spiel",
-  "titel": "Ausrufezeichen gegen Kaiserslautern! Kiel feiert ersten Sieg unter Kniat und verlässt vorerst den letzten Tabellenplatz",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzSjlObXRCOThHVzFyWkxDTVhuSjN2Y3VObGFKdjBGWnVQcUlHdENDUEhrV3Q5alVtVFA3Z1RpcGlCT0hLdEt6bDlQUEtOOWJPZk92UUNrWHRHX29fX0Z0c1lFbEpPb0VRQUczLU9iSzZXa0dKOGNFMlctUm8?oc=5",
-    "aid": "088fb75dde",
-    "titel": "Ausrufezeichen gegen Kaiserslautern! Kiel feiert ersten Sieg unter Kniat und verlässt vorerst den letzten Tabellenplatz",
-    "quelle": "Sky.de",
-    "beschr": " Ausrufezeichen gegen Kaiserslautern! Kiel feiert ersten Sieg unter Kniat und verlässt vorerst den letzten Tabellenplatz &nbsp;&nbsp; Sky.de ",
-    "zeit": "2026-11-28T14:57"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-28T15:01",
-  "archiv": [
-   {
-    "id": "8b2c2b45c3",
-    "titel": "Kaiserslautern rettet spät ein 2:2 gegen Dresden",
-    "datum": "22.11.",
-    "stufe": "spielbericht",
-    "summary": "Der 1. FC Kaiserslautern holt gegen Dynamo Dresden nach 1:2-Rückstand durch ein Tor von Paul Joly (84.) ein 2:2. Dresden bleibt auswärts weiter ohne Saisonsieg."
-   }
-  ],
-  "versuche": 2
- },
- {
-  "id": "d4fd718825",
-  "schluessel": "bochum|verletzung",
-  "person": "",
-  "spieler": [],
-  "klub": "Bochum",
-  "klubs": [
-   "Bochum"
-  ],
-  "stufe": "ausfall",
-  "klasse": "verletzung",
-  "titel": "Bittere Nachricht für den VfL Bochum: Mets fehlt im Pokal-Hit – die Hintergründe",
-  "quellen": [
-   {
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTU9ucmozdmx1NGZCSWRMNExBRzN5NWkzaGNvOHBVand6bTVERjFCRXB2eV9yNzFFNGFOY0ktT2dseVZubmNwem1VdmdCVVA0d05HUU5PTmRFS1FDMmNfZDZxVWpRRkpuRTVWc2J2dHNleTVQcXMxc2NPWmZkRkhKYk5hQVozdkxBSkRMNFZkR3R1YmpYS3lDMTFjcExvRjU3bWx6VU1kcERMUmJxYlo1WFhuRmlPNGloWHE5YTNEUS1NTjFsRGVDY0gyWTU2N2lE?oc=5",
-    "aid": "7358ee377e",
-    "titel": "Bittere Nachricht für den VfL Bochum: Mets fehlt im Pokal-Hit – die Hintergründe",
-    "quelle": "WAZ | Westdeutsche Allgemeine Zeitung",
-    "beschr": " Bittere Nachricht für den VfL Bochum: Mets fehlt im Pokal-Hit – die Hintergründe &nbsp;&nbsp; WAZ | Westdeutsche Allgemeine Zeitung ",
-    "zeit": "2026-11-28T12:48"
-   }
-  ],
-  "archiv_status": "aehnlich",
-  "prio": 3,
-  "status": "n",
-  "erstmals": "2026-11-28T15:01",
-  "archiv": [
-   {
-    "id": "ac5b922880",
-    "titel": "Mets nach Rückkehr ans Millerntor: „Wie unter einen Bus geraten“",
-    "datum": "22.11.",
-    "stufe": "rueckkehr",
-    "summary": "Karol Mets ist mit dem VfL Bochum ans Millerntor zurückgekehrt und hat 0:2 gegen St. Pauli verloren. Der Este lobte den Empfang der Fans und erkannte den Sieg des Gegners als verdient an."
-   }
-  ],
-  "versuche": 2
- },
- {
   "id": "33c5b0099b",
   "schluessel": "kaiserslautern|sonstiges",
   "person": "",
@@ -415,7 +27,7 @@
   "status": "n",
   "erstmals": "2026-11-28T18:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "63cb6a1a6f",
@@ -444,7 +56,7 @@
   "status": "n",
   "erstmals": "2026-11-28T18:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "448622a0e8",
@@ -473,7 +85,7 @@
   "status": "n",
   "erstmals": "2026-11-28T18:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "91f5d7f586",
@@ -495,6 +107,14 @@
     "quelle": "kicker 2. Bundesliga News",
     "beschr": "Bochum muss im Pokalspiel gegen Augsburg auf Innenverteidiger Karol Mets verzichten. Wie der VfL bestätigte, hat sich der Routinier gegen Darmstadt verletzt und muss operiert werden.",
     "zeit": "2026-11-28T15:33"
+   },
+   {
+    "url": "https://www.kicker.de/vfl-bestaetigt-ausfall-mets-erleidet-gesichtsfraktur-1275878/artikel#omrss",
+    "aid": "9cd2896892",
+    "titel": "VfL bestätigt Ausfall: Mets erleidet Gesichtsfraktur",
+    "quelle": "kicker 2. Bundesliga News",
+    "beschr": "Bochum muss im Pokalspiel gegen Augsburg auf Innenverteidiger Karol Mets verzichten. Wie der VfL bestätigte, hat sich der Routinier gegen Darmstadt verletzt und muss operiert werden.",
+    "zeit": "2026-11-28T15:33"
    }
   ],
   "archiv_status": "aehnlich",
@@ -510,7 +130,7 @@
     "summary": "Karol Mets ist mit dem VfL Bochum ans Millerntor zurückgekehrt und hat 0:2 gegen St. Pauli verloren. Der Este lobte den Empfang der Fans und erkannte den Sieg des Gegners als verdient an."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "8d8fc3baa9",
@@ -539,7 +159,7 @@
   "status": "n",
   "erstmals": "2026-11-28T18:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "c7a682e56e",
@@ -568,7 +188,7 @@
   "status": "n",
   "erstmals": "2026-11-28T18:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "6896ca7e54",
@@ -597,7 +217,7 @@
   "status": "n",
   "erstmals": "2026-11-28T18:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "4fe6faff34",
@@ -634,7 +254,7 @@
     "summary": "Herthas Stürmer Gustaf Nilsson erzielte in Cottbus beim 4:0 sein erstes Tor für die Berliner. Trainer Stefan Leitl muss im Heimspiel gegen Karlsruhe zwischen ihm und Sebastian Grönning entscheiden."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "ccd51f5f4b",
@@ -664,7 +284,7 @@
   "status": "n",
   "erstmals": "2026-11-28T18:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "b6befec088",
@@ -693,7 +313,7 @@
   "status": "n",
   "erstmals": "2026-11-28T18:01",
   "archiv": [],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "2a6b11c13d",
@@ -731,7 +351,7 @@
     "summary": "Tabellenführer Hertha BSC empfängt nach vier Siegen in Folge den Karlsruher SC. Der KSC steht mit zwölf Punkten auf Rang 15 und hat 24 Gegentore kassiert."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "a23f4afcac",
@@ -768,7 +388,7 @@
     "summary": "KSC-Trainer Maximilian Senft sieht im Winter offensiven Handlungsbedarf, Moritz Broschinski kehrt erst im Januar zurück. Louey Ben Farhat ist wegen Rückenproblemen für das Spiel gegen Osnabrück fraglich, zudem steht die Freiburger Option an."
    }
   ],
-  "versuche": 1
+  "versuche": 2
  },
  {
   "id": "512bf79e14",
@@ -805,6 +425,154 @@
     "summary": "Vor dem Heimspiel gegen Darmstadt am 27. November rückt Bochums Stürmer Philipp Hofmann in den Fokus, der gegen die Lilien zehnmal traf. Bochum hat die Liga-Bestwerte in der Defensive nach der Pause, aber nur elf Saisontore."
    }
   ],
+  "versuche": 2
+ },
+ {
+  "id": "4f9116c0a0",
+  "schluessel": "hertha|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha",
+   "Karlsruhe"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Brekalo und das besondere Spiel des besonderen Spielers",
+  "quellen": [
+   {
+    "url": "https://www.kicker.de/brekalo-und-das-besondere-spiel-des-besonderen-spielers-1275938/artikel#omrss",
+    "aid": "2f22812800",
+    "titel": "Brekalo und das besondere Spiel des besonderen Spielers",
+    "quelle": "kicker 2. Bundesliga News",
+    "beschr": "Beim 4:0-Heimsieg von Hertha BSC gegen Karlsruhe war Josip Brekalo an allen Toren beteiligt. Der Kapitän absolvierte sein bislang bestes Spiel für die Berliner - und wurde von seinem Trainer geadelt.",
+    "zeit": "2026-11-28T20:21"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-28T21:01",
+  "archiv": [
+   {
+    "id": "0cafd35445",
+    "titel": "Hertha: Leitl fehlen drei Siege zum Babbel-Rekord",
+    "datum": "26.11.",
+    "stufe": "sonstiges",
+    "summary": "Herthas Trainer Stefan Leitl hat seit Februar 2025 einen Punkteschnitt von 1,79 und liegt hinter Markus Babbel (1,84) auf Rang zwei. Mit drei Siegen gegen Karlsruhe, Hannover und Darmstadt würde er den Rekord übertreffen."
+   },
+   {
+    "id": "c3f01185bf",
+    "titel": "Hertha BSC: Opta-Daten belegen die Tabellenführung der Berliner",
+    "datum": "19.11.",
+    "stufe": "sonstiges",
+    "summary": "Hertha BSC führt die 2. Bundesliga nach elf Spielen mit 31 Punkten an. Opta-Daten zeigen deutliche Steigerungen bei Intensität und Defensive gegenüber der Vorsaison."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "43768520ca",
+  "schluessel": "hertha|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Hertha",
+  "klubs": [
+   "Hertha",
+   "Karlsruhe"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "''Das war inakzeptabel'' - Stimmen zu Hertha gegen KSC",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVFFfUjV6X2Z1NnpjbWNhbUNrU2tYYlpKWGNXR2RZQjBYb3JQZHFaU3lhSE1QNWE0clFSajlqSlVnOWZpX2phRU5Kb2U0TEJ4ZGg2cy1uUVA2MzV6SzJoaTdOYXNaNEFLcUJJQnh1RUVKY1ZiZ09fMjZyZWwwbTY5MGljeGRfd1lCemZ6SV9ncTd6Zl8xWlNzaExOSlVfUlBrYXZN?oc=5",
+    "aid": "abb7d38fbd",
+    "titel": "''Das war inakzeptabel'' - Stimmen zu Hertha gegen KSC",
+    "quelle": "Sky.de",
+    "beschr": " ''Das war inakzeptabel'' - Stimmen zu Hertha gegen KSC &nbsp;&nbsp; Sky.de ",
+    "zeit": "2026-11-28T16:36"
+   }
+  ],
+  "archiv_status": "aehnlich",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-28T21:01",
+  "archiv": [
+   {
+    "id": "0cafd35445",
+    "titel": "Hertha: Leitl fehlen drei Siege zum Babbel-Rekord",
+    "datum": "26.11.",
+    "stufe": "sonstiges",
+    "summary": "Herthas Trainer Stefan Leitl hat seit Februar 2025 einen Punkteschnitt von 1,79 und liegt hinter Markus Babbel (1,84) auf Rang zwei. Mit drei Siegen gegen Karlsruhe, Hannover und Darmstadt würde er den Rekord übertreffen."
+   },
+   {
+    "id": "b71e14f8fb",
+    "titel": "Hertha will Serie gegen Karlsruhe ausbauen",
+    "datum": "25.11.",
+    "stufe": "sonstiges",
+    "summary": "Tabellenführer Hertha BSC empfängt nach vier Siegen in Folge den Karlsruher SC. Der KSC steht mit zwölf Punkten auf Rang 15 und hat 24 Gegentore kassiert."
+   }
+  ],
+  "versuche": 1
+ },
+ {
+  "id": "492fb28a9f",
+  "schluessel": "kiel|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Kiel",
+  "klubs": [
+   "Kiel"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Holstein-Trainer Kniat: \"Großes Lob an meine Mannschaft\"",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMXY1bWZzZDNHYW1ESXpiT1phZ2I4WmZjMWF0SHllMi1RMkZWODdYV1FFX18xcFNwTERTMmFkMFA3N0NKQ1ptMXJ4WEFuby1qVWR0REZwc3FBU1RMSnlUQ3VhUzVFWjFLMGJhZVVZSk56ZFVYTmtXVmpjRnZVZkVHem5BV3JpT0Vlc2F2Znp3UWhBTHJ3eG9INk5DejNheHNqT1pPdVdFT2xaTWs?oc=5",
+    "aid": "e3af31520f",
+    "titel": "Holstein-Trainer Kniat: \"Großes Lob an meine Mannschaft\"",
+    "quelle": "NDR.de",
+    "beschr": " Holstein-Trainer Kniat: \"Großes Lob an meine Mannschaft\" &nbsp;&nbsp; NDR.de ",
+    "zeit": "2026-11-28T15:41"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-28T21:01",
+  "archiv": [],
+  "versuche": 1
+ },
+ {
+  "id": "6157024990",
+  "schluessel": "kiel|sonstiges",
+  "person": "",
+  "spieler": [],
+  "klub": "Kiel",
+  "klubs": [
+   "Kiel"
+  ],
+  "stufe": "sonstiges",
+  "klasse": "sonstiges",
+  "titel": "Holstein-Torschütze Harres: \"Verdienter Arbeitssieg\"",
+  "quellen": [
+   {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYkJIRmhOWE5VRVVSU1BzZC15b2dmRkNHVnRMR2p5djJIOGVsUFVFWmRFYUVRekZySTQ1VENEZUF3WktjZFV2TXNNQk5LSjBsV0tDZnhtTVU0WUFrS0t6TW9kUjlXa0I0endSRkpUQnNWSW9uTVR0dk8zWF8ybGcya3lEMkZJZHZ3emRCTU41TkM?oc=5",
+    "aid": "8ab99d9903",
+    "titel": "Holstein-Torschütze Harres: \"Verdienter Arbeitssieg\"",
+    "quelle": "NDR.de",
+    "beschr": " Holstein-Torschütze Harres: \"Verdienter Arbeitssieg\" &nbsp;&nbsp; NDR.de ",
+    "zeit": "2026-11-28T15:17"
+   }
+  ],
+  "archiv_status": "neu",
+  "prio": 2,
+  "status": "n",
+  "erstmals": "2026-11-28T21:01",
+  "archiv": [],
   "versuche": 1
  }
 ]
